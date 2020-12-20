@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "e6dd42a84166c686",
+    "type": "split",
+    "children": [
+      {
+        "id": "5062b7ed1bb72a47",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Biokemi.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "679a48607c218057",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d1d56565df1e6cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3dfbeec99433f47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1f111929c369224",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7f9253e912550d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4fb5a94d603f366",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90638e1548f7843",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biokemi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Biokemi.md",
+    "Benmärgsrelaterat.md",
+    "Läkarprogrammet_Preklin_Ali_Rassolie_v1.md",
+    "Untitled.md"
+  ]
+}

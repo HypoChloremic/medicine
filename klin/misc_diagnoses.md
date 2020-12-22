@@ -10,14 +10,6 @@
 1. insomningsprobblem: multipla uppvaknanden, för tidigt upvpaknande
 2. idiopatiska, psykiatriska, medicinska
 
-#### hypersomni
-1. narkolepsi
-2. kleine-levine syndrom
-3. epilepsi
-4. hypothyreos
-5. hypoglykemi
-6. idiopatisk
-
 #### parasomni
 1. sömnambulism
 2. pavor nocturnus (nattskräck)
@@ -39,3 +31,11 @@
     2. mani-hypomani
     3. delirium tremens
     4. narkotikamissbruk, ffa centralstimulantia
+
+## Hypersomni
+1. narkolepsi
+2. kleine-levine syndrom
+3. epilepsi
+4. hypothyreos
+5. hypoglykemi
+6. idiopatisk

@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # PED Lectures
 
 ## Barnets normala utveckling
@@ -495,7 +501,7 @@ denna ålöder som man behöver säkra sitt hem
 
 ***4åå = flerordsmeningar, hela meningar***
 
-* väsnentligen rätt uttal, 
+* väsentligen rätt uttal, 
 * resonerar o frågar
 
 #### sen språkutveckling
@@ -517,11 +523,11 @@ denna ålöder som man behöver säkra sitt hem
 
 ***Flerspråkighet***
 
-* kan vara svårare att bedöma men behöer inte påverka
+* kan vara svårare att bedöma men behöver inte påverka
 
 #### 2-5åå, småbarnen
 
-* ***Beteende vägledande***: soveR? äter? leker
+* ***Beteende vägledande***: sover? äter? leker
 * ***autonomi***: gradvis ökad aautonomi, 4åå kan sj
 * ***intense kognitiv utveckling***
 * ***sjukvården***: ålder, och mognadsanpassad information
@@ -629,7 +635,7 @@ denna ålöder som man behöver säkra sitt hem
 
 # Luftvägsinfektioner
 
-## Läranemålen 
+## Lärandemålen 
 
 * Lungfysiologi
 * orskaer t varför andningspåverkade barn är dehydrerade
@@ -700,7 +706,7 @@ när de ammar sänks mjuka gommen och täpper till luftstrupen för att mjölk e
   * horisontell ***gör svårarae att vidga bröstkorgen***
 * andnignsmuskulaturen omogen
 * diafragman ligger platt an mot throax och saknar konvex mot bröstkorgen
-* ***tillsammasn***: mindre effektiv andnignsmekanism. 
+* tillsammans: mindre effektiv andnignsmekanism. 
   * lägre vilovolym
   * lättare atelektas
   * svårt vidga enskilda andetaget, varför behöv av mer syrgas, samt ökar andningsfrekvens för att upprätthålla normal saturation
@@ -720,4 +726,800 @@ när de ammar sänks mjuka gommen och täpper till luftstrupen för att mjölk e
 * det kapillära nätverket som omringar alveolerna är mindre utvecklat
 * kemoreceptroer i larynx, pharynx svarar annorlunda t en främmande kropp som tex slempropp eller annat
   * Där barnet får apné skulle vuxen hostat
-* ***hypoxi*** ***inducerar*** apne hos spädbarn
+* ***hypoxi*** ***inducerar*** apne hos spädbarn, 
+* det är därför viktigt med ventilation i första hand hos dessa barn
+
+
+
+#### Luftvägsinfektion, symptom
+
+* trött, slö
+* ! ***matningssvårigheter***: detta räcker för att misstänka viros, man kan inte skicka hem barn som inte orkar äta
+* takypne, bradypné
+* takyukardi, bradkardi
+* saturatio
+* gruntning
+* hosta
+* bukandnings
+* indragningar
+  * sibxostala
+  * intercostala
+  * supracostala
+* näsvingespel
+* auxillär andnings
+* blek cyanos
+* feber
+* ***viktnedgång***: barnet tappar i vikt väldigt snabbt, går 1-2 dagar innan barnet börjat tappa vikt, och det är viktigt att man pick it up .
+
+
+
+#### ett andningspåverkat barn = Dehydrerat barn
+
+* andnignspåverkan leder t matningssvåigheter
+* matningsvårigheterna leder tdehydrering o energiförlust
+
+***leder t dehydrering***
+
+* ökad andningsfrekvens
+* feber
+
+***Näring som behandling***
+
+* Barnet behöver därför ***rehydrering***. 
+* ***Alla Viroser:*** Viktigt att tänka på detta för alla barn som kommer med ***viroser***. 
+* ***Näring o vätska:*** viktig att man behandlar de med näring och vätska. 
+* ***Sond***: om barnet inte pallar äta, kan man ge via sond
+
+* ***IV behandling***: till ***medvetslösa*** och ***äldre barn som skulle dra ut sonden*** 
+
+
+
+### Olika luftvägsinfektioner
+
+***De vanligate och viktigaste luftvägsinfektionerna hos barn***
+
+* ÖLI
+* akut mediaotit
+* ethmoidit
+* obstruktiv bronkit/akut bronkit
+  * infektionsutlöstastma
+  * astma
+* akut bronkiolit
+  * ***respiratory syncytial virus RSV***
+* pneumoni
+* pseudokrupp
+* pertussis
+
+#### ÖLI
+
+* Symptom fr näa ,bihålor, farynx, bronker
+  * vasnliga symptom inkluderar: nästäppa, snuva, halsont, hosta, ev feber, ofta opåverkat allmäntillstånd, duration ca 7dgr
+* vanligaste orsak t sjukdom hos barn i förskole
+* vanligast vinterhalvård
+* oftast klinisk diagnos utan provtagning
+
+
+
+***Vanligaste agens virus***
+
+* Picornavirus (Rhinovirus)
+* Adenovirus
+* RSV, respiratorisk syncytial virus
+* influensa A
+
+#### Fall 1
+
+* pojke 18 månader,  
+  * 2 dagars feber 38.5, 
+  * lätt snuva sedan 1 vecka i övrigt inget fokus. 
+  * vill inte äta som vanligt. 
+  * idag 39.5, föräldrarna oroliga, söker akut
+  * lätt förhöjd AF
+  * Saturation 99%
+  * CRP 46
+
+#### akut mediaotit
+
+* ca 30% av ÖLI kompliceras av en akut mediaotit
+* öronvärk föreommer ca 50-60% av fallen, där det förekommer feber o snuva***feber o snuva vanligt vid aom:*** 
+* ***Gnällighet, värk***: kombinationen symptom antyder förekomst av värk, som man inte kan få formulerat
+* Agens
+  * bakterier: 55% 
+  * blandat 15% 
+  * virus 5-40%
+
+
+
+***Bakterier***
+
+* S pneumoniae
+* H infkluenzae o
+* M catarhallis
+* GAS: 5%, ger svåraste formen
+
+
+
+***Virus***
+
+* RSV
+* Rhinovirus
+* Influensa a och B,
+* Parainfluensa
+
+  
+
+***Behandling***
+
+**Aktiv exspektans** rekommenderas för
+
+- barn 1–12 år med säker AOM utan komplicerande faktorer*
+- patienter oavsett ålder med osäker AOM utan komplicerande faktorer*.
+
+Vid säker AOM rekommenderas **antibiotikabehandling** för
+
+- barn 1–12 år med AOM och komplicerande faktorer*
+- barn < 1 år, ungdomar > 12 år och vuxna
+- barn < 2 år med bilateral AOM
+- alla med perforerad AOM oavsett ålder.
+
+***Mer precist gällande antibiotikabehandlingen***
+
+* OBS: vanligt att behandla förskolebarn med amimox pga compliance + täckning H influensae. Dock är det PCV som gäller
+* Barn yngre än två med bilat otit, obehandlas med PCV 5d, + analgetika efter behov
+* Alla perforerad aom behandlas med pcv 5 dagar + analgetika
+
+
+
+***Komplicerande faktorer***
+
+* infektionskänslighet
+* missbildningar
+* innerörarat
+* känd mellanörasjukdom
+
+#### Fall 2 - Ethmoidit, rhinosinuit
+
+* pojke 4åå, 
+  * har förkyld senaste veckan vaknat idag med 40c feber, 
+  * rodnad kring höger ögat. han är trött och har sämre aptit. 
+  * pappan kommer barnakuten med honom
+  * status: lätt förhöjd AF, takykardi, saturation 99%, CRP 180
+
+#### Ethmoidit, rhinosinuit
+
+* ***ospecifika symptom***: Ospecifika symptom som gnällighet, feber, nedsatt aptit, kan förekomma, misstänk ethmoidit vid rodnad eller svullnad kring ett öga, oftast ensidig, eller näsrot med påverkad AT
+* ***virus vanligaste agens***; vid vätska i sinus förekommer i 75% och virus <10% av fallen. 
+  * ***Bakterier***: S pnumoniae, GAS, influensa, och möjligen M catarhallis
+* ***Remiss barnakuten***
+* ***Komplicerande***: kan kompliceras av subperiostal absces i orbita
+
+#### Fall 3 - faryngotonsillit
+
+* flicka 6åå, har 39.5, feber, halsont. hon har svårt att ät. ingen snuva eller hosta. inga indragningar
+* Palpabla ömma körtlar i käkbvinkeln
+* takykardi,
+* saturation 99%
+* CRP 40
+* snabbt strep test pos
+* paus
+
+
+
+#### Faryingotonsillit
+
+* Klassiska symptom: halsont, beläggningar tonsiller, svullnad lymfkörtalar, feber vanligast hos barn över 4åå. 
+* scarlatina exantem smultrontunga, impetigo förekommer vid strep infektion
+* de felsta tonsillter orsakas av virus: adeno och EBV
+* bakterier orsakar 30-40% varav 15-20% är GAS, andra bakt är GCS, GDS
+
+***Diagnostiskt***
+
+* För barn >4åå kan centor användas
+
+***Kliniska kännetecken***
+
+* Akut glomerulonefrit är en komplikation med mkt sällsynt
+
+***Behandling***
+
+* behandling endas om centorkriterer har pos snabbt est el odling
+* PCV i 10d
+* ***Smittfritt barn***: barnet är smittfritt efter 2 dagars behandling
+
+#### Scarlatina - scharlakansfeber
+
+<img src="./imgs/ped_ehiv9yhZ2V.png" alt="ehiv9yhZ2V" style="zoom:33%;" />
+
+ 
+
+* ***Huden***: sprider sig fr fokus, känns som sandpapper
+* ***Smultrontunga***: också tupiskt för scharlakansfeber
+
+
+
+#### Fall 4 - obstruktiv bronkit, akut bronkit
+
+* flicka 2åå, har några dagars anamnes på en ÖLI. Ingen feber. Under dagen idag har hon haft jobbigare att andas, kräks och vill inte äta
+* förhöjd AF, saturation 96%, CRP <5,
+
+#### Obstruktiv bronkit, akut bronkit
+
+***Patofysiologi och etiologi***
+
+* virus vanligaste orsaken, där rhinovirus toppar
+* långdragen hosta ofta bakteriell inslag
+* vanligaste bakterierna
+  * M catarhallis, Influenzae, Pneumoniae
+
+
+
+***Kliniska kännetecken***
+
+* vanligast hos barn upp t 5åå
+* hosta ffa nattetid
+* ofta afebrila, rel opåverkad AT
+* obstruktiva inslag, hos de mindre barnen i samband med ÖLI
+* Snuva 
+* nästäppa
+* feber
+* hosta
+* takypne
+* ronki
+* indragningar
+* cyanos
+
+
+
+***Diagnos***
+
+* Klinisk diagnos
+* NPH-aspirat, PCR för virus
+
+***Behandling***
+
+* Syrgas
+
+* uppvätskning
+
+* inhalera NaCl
+
+* Evt. inhalation med B2-agonister och steroider under infektionsperioder
+
+* remittera t BUMM för uppföljning
+
+  
+
+### Astma diagnos
+
+* efter 3 obstruktiva episoder <2åå
+* 1:a obstruktiva episoder och andra tecken på allergi, som eksem, eller födoämnesallergi
+* 1:a obstruktiva episoden i samband med förkylning >2åå
+
+<img src="./imgs/ped_3RDIZNsCV6.png" alt="3RDIZNsCV6" style="zoom: 67%;" />![ot871Jad2k](./imgs/ped_ot871Jad2k.png)
+
+
+
+<img src="./imgs/ped_ot871Jad2k.png" alt="ot871Jad2k" style="zoom:50%;" />
+
+***Inhalationsbehandling***
+
+
+
+<img src="./imgs/ped_Gb8rRrcNyD.png" alt="Gb8rRrcNyD" style="zoom:25%;" />
+
+
+
+#### Fall 5 - RSV
+
+* Kalle 2 mån, söker pga en LI med nästäppa, hosta sedan 4d, han äter dålig, kräks, väldigt trött. Han har en stora syster som går på dagis
+* takypne
+* takykardi
+* indragnigar
+* saturation 02%
+* subfebril
+* normal el lätt förhöjd CRP
+* svårt att amma
+
+
+
+#### RSV
+
+***Patofysiologi och etiologi***
+
+* inkubation 3 dagar
+* lungröntgen visar ofta hyperinflation och atelektas
+* peak för smptom 5e dagen
+* hypoxi och andningssvikt -> apné
+
+***Kliniska kännetecken***
+
+* Bleka
+* trötta
+* takypne
+* indranignar
+* näsvingespel
+* saturation nedsatt
+* takyuakardi
+* subfebril
+* lungausk: mkt slembiljud
+* orkan inte äta
+* dehydrerade
+
+
+
+***Behandling***
+
+* ***Rehydrering***
+* ***Nästäppa***: skölj med NaCl
+* ***Inhalation***: NaCl
+* ***syrgas vb***: sat <90%
+* ***optiflow***: högdosflöden bv
+* cpap vb
+* ***Förebyggande, profylax***: med synagis, monoklonal AB för RSV t riskgrupper under högsäsong
+
+
+
+***Riskgrupper***
+
+* prematura barn
+* hjärt- eller lungsjudom
+* neuromuskulär sjd
+* immunsupprimerande
+
+
+
+<img src="./imgs/ped_i4OTY9zcYf.png" alt="i4OTY9zcYf" style="zoom:33%;" />
+
+
+
+
+
+#### Fall 6 - pneumoni
+
+* pojke 3åå, har en veckas anamnes på en förkylning. nu börjar han få feber o föräldrarna uppmätte tempen t 40c imorse. han har ingen aptit o är trött
+* Takypne: snabb o ytlig andning
+* takykardi
+* inga eller diskrta indragningar 
+* lätt snyva
+*  sat 94%
+* temp 40grader
+* CRP 200
+* lungauskultation normal
+
+
+
+#### Pneumoni
+
+***Patofysiologi och etiologi***
+
+* ***Nyfödda***
+  * GBS
+  * E. coli
+* ***Barn 1 månad t 5åå***
+  * oftast virus: ex RSV
+  * pneumonia 
+  * influensa
+  * chlamydia trachomatis
+* ***Barn >5åå***
+  * pneumokocker
+  * mykoplasma pneumonae
+  * chlamydia pneumoniae
+
+***Kliniska kännetecken***
+
+* Takypne
+* feber
+* ev snuva
+* ev indragningar 
+* bleka
+* trötta
+* hosta (sent tecken): inte alltid hosta förekommer
+* ***Simulera aktu buk***: kan simulera akut buk
+* ***Andningsfrekvens***: ett väldigt bra hjälpmedel
+
+
+
+***Utrednign***
+
+* man kan iunte auskultera fram pneumonin lika bra
+* ***Lungröntgen***: mer benägen att man röntgar barnet
+* ***NPH-odling***: speglar nedre luftvägar ***dåligt***
+* ***Olika agens, olika åldrar***: notera detta
+
+
+
+***Behandling***
+
+* syras om sat <92%
+* rehydrering
+* antibiotika
+  * iv: cefotax, PCG
+  * oral: 
+    * amoxicillin, förskolebarn
+    * PCV: skolbarn
+    * erytromycin_ äldre barn med lång sjd anamnes
+    * 7 dagars behandlöing
+
+<img src="./imgs/ped_IzKiHAOY82.png" alt="IzKiHAOY82" style="zoom:25%;" />
+
+
+
+
+
+#### Fall 7
+
+* flicka, 3åå. vaknar plötsligt natten med andningspverkan. föräldriar oroliga ringer 112. verkar som hon inte får tillräckligt lyft, det låta när hon andas in o hon får panik
+
+
+
+#### Krupp - akut obstruktiv laryingit
+
+
+
+***Patofysiologi och etiologi***
+
+* ***smalnar luftvägen***: svullnad, rodnad nedanfrö stämband, ev sekret som smalnar luftvägan
+* ***Parainfluensa och influensa A***: vanligate agens, men 
+* aäven andra virus kan orsaka pseudokrupp
+* 
+
+***Kliniska kännetecken***
+
+* 3måna-3åå
+* p:f 1.5:1
+* inspiratoriska stridor
+* heshet
+* skällande hsota
+* lätt feber
+* lätt rodnad i svalg
+* ev bleka
+* ev indragningar
+* oftast nattetid
+* sen höst, tidig vinter
+
+
+
+***Behandling***
+
+* Milda - moderata fall
+
+  * ta upp barnet i upprätt position
+  * lugna barnet
+  * sval luft
+
+* ***moderata - svåra fall***
+
+  * syrgas om sat <92%
+  * orala steroider - dexametason
+  * inhalation med adrenalin om svårt fall
+
+  
+
+  
+
+#### Fall 8 - pertussis, kikhosta
+
+* 1mån, ambulans, föräldrar hittade henne livlös. de lyfte upp henne hon vaknade till o hostade tills hon blev ***blå  ***
+* har det hänt fler tillfällen
+* hur hon mår mellan hostattacker
+* blodstatus, dff
+* saturation 96%
+* CRP<5
+
+#### Kikhosta, bordetella pertussis
+
+***Patofysiologi och etiologi***
+
+* Bordetella pertussis
+  * GNB, aerob
+  * fäster t cilia, som klär slemhinnan i övre luftvägarna
+  * bakteren utlöser toxiner -> förstör ciliae, orsakar slemhinnesvullnad
+  * väldigt smittsam, droppsmitta
+
+***Kliniska kännetecken***
+
+* ***Catarrhal fas***: ca en vecka
+  * ÖLI-symptom
+  * mild hosta, ibland mild feber
+* ***Paroxysmal fas***: ca 2-4 veckor
+  * Paroxysmal hosta
+  * inspiratoriska kikningar där de ofta kräks efteråt
+  * apne
+* ***konvalescent fas***
+  * symptomen successivt fasas ut
+
+
+
+***Diagnos***
+
+* NPH-aspirat odling
+* PCR på NPH-aspirat, mer känslig
+* Blodstatus: lymfocytos
+
+***Behandling***
+
+* Makrolider antibiotika, EryMax
+  * När den ges inom 1:a veckan, kan symptomen minska
+  * minskar spridningen
+
+***Komplikationer***
+
+* Pneumoni
+* otitis media
+* kramper
+* bronkiektasiera
+* mortalitet
+
+
+
+#### Andra orsaker andningsbesvär
+
+* främmande kropp
+* neonatala andningsstörningar
+* pneumothorax - trauma
+
+
+
+#### Take-home message
+
+* barn ospec symptom
+* allmäntillstånd är viktigt för att bedöma hur sjukt ett barn är
+* små barn reagerar med rejäl andnignspåvekran vid respiratoriska infektionssjukdomar
+* så barn har mndre marginaler varför de sbabbt kan blå dåliga vid respiraotriska infektionssjukdomar
+* små barn behöver vätska o energi
+* lungröntgen kan vara till hjälp ibland
+
+# Feber hos barn
+
+#### Lärandemål
+
+• Efter föreläsningen skall du kunna 
+
+• Redogöra för symtomatologin som dessa barn uppvisar vid sepsis och meningit under olika faser av barnaåren
+
+• Kunna redogöra för de smittämnen som orsakar sepsis och meningit under barnaåren
+
+• Redogöra för behandling av det svårt sjuka barnet 
+
+• Redogöra för fynden i likvor vid olika typer av meningit under barnaåren
+
+•Förstå och förklara orsakerna till feber•Kunna redogöra för de vanligaste sjukdomarna som orsakar feber hos barn•Kunna redogöra för vissa av de ovanliga men betydelsefulla sjukdomarna som orsakar feber hos barn•Kunna redogöra för: om, hur och när feber per se skall behandlas hos barn•Kunna redogöra för några av orsakerna till  ̈oklar feber hos barn
+
+#### Allmänt
+
+De flesta episoder av feber hos barn orsakas av banala virusinfektioner med vanligtvis snabb, spontan feberregress
+
+Emellertid kan feber vara det initiala tecknet på allvarlig sjukdom, tex meningit, sepsis, pneumoni, pyelonefrit osv
+
+#### Feber
+
+Feber är det vanligaste symtomet som för ett barn till akutenHur definieras feber?Vad är mekanismen bakom feber?Skall feber per se behandlas hos barn?  Är graden av feber prediktiv för allvarlighetsgraden av sjukdomen? Är feber bra eller dåligt för försvaret mot infektion?Kan man dö av feber?Feber –vän eller fiende?
+
+##### Definition
+
+* Ingen universell definition
+* Vanligtvis definierat såsom en kroppstemperatur > 38C rektalt
+* 1 grads variation i kroppstemp under 24 timmar
+* Individuell variation 35.5–38
+* Metabol aktivitet?
+
+
+
+##### Mekanism
+
+<img src="./imgs/ped_rcKcducWSU.png" alt="rcKcducWSU" style="zoom: 67%;" />
+
+
+
+##### Hypertermi vs feber
+
+* hypertermi != feber
+* e.g. värmeslag, intoxikation, recreational drugs
+* dvs termostaten är inte omställd, ex värmeslag
+  * ***mkt farligare tilllstånd***
+
+##### Feber och immunförsvaret
+
+* In vitro, så har feber ett antal olika effekter
+  * ***Hämmar tillväxt bakterier virus***
+  * ***Stimulerar***: neutrofil produktion, T-cell proliferation, 
+  * ***bidrar akut fas reaktion***
+* emellertid, in vivo: begfränsade eller inga data som stödjer att feber reducerar duration av virussjukdomar
+
+##### Feberreduktion med antipyretika informativt?
+
+* Mao: är det en bana virussjukdom om febern svara på antipyreitka
+* två äldre studier motsäger hypotesen
+
+
+
+#### Kroppstemperatur
+
+Kroppstemperatur
+
+* Rektal temperatur är  ̈gold standard ̈. 
+* Öron, oral eller axillär temperatur är mindre pålitlig
+* Om det finns tvekan om feberns betydelse eller äkthet skall den kontrolleras av sjukvårdspersonal med vår egen termometer för att utesluta  ̈Munchausen ̈eller  ̈Munchausen by proxy
+
+
+
+#### Endogena pyrogener
+
+* Frisätts av makrofager, lymfocyter, endoteliala celler, oklart vilka han refererar till tho
+* IL1
+* UL6
+* TNFalpha
+* IFNbeta
+* IFNgamma
+
+#### Feber-fobi
+
+* Förädrar uppfattar risker med feber:
+* kramper: 32%
+* död: 18%
+* hjärnskada: 15%
+
+#### Antipyretika 
+
+* Paracetamol, aspirin, ibuprofen inhibiberar hypothalamiskt cyklooxygenas, vilket hämmar syntesen av PGE2
+* Den antipyretiska effekten är förmodligen obereonde av den smärtstillande effekt
+* ***Paracetamol***: 4-6 timmar duration
+* ***Ibuprofen***: 6-8 timmars duration
+
+***Positiva effekter***
+
+* lindring av obehag o sjukdomskänsla, ffa huvudvärk och myalgi
+* Mindre risk för dehydrering
+
+***Negativa effekter***
+
+* ***förebygger ej feberkramper***: inducerat epileptiskt anfall alltså
+* ***toxicitet***
+* ***ingen reduktion sjukdomsduration***
+* ***Försenad identifiering*** av bakomliggande sjukdom, därmed försenad adekvat behandling
+
+#### Toxicitet
+
+* Paracetamol: Lerver, kronisk eller akut överdos
+* Ibuprofen
+  * Njurar, njurskada hos dehydrerade barn
+  * GI: bara kronisk användnign
+  * Association paracetamol med astma är ***kontroversiell***
+
+***Reye syndrom***
+
+* ***Reye syndrom***:  all aspirin, för flesta (ännu okända) febertillstånd
+* speciellt vid varicella zoster, och influensa
+
+
+
+
+
+#### Ska man behandla med antipyretika
+
+***Ett icke evidensbaserat förslag***
+
+* Vanligtvis inte <39grader hos i övrigt friska barn
+* \> 39grader för att ge symptomatisk lättnad
+  * emellertid, klena data, som stödjer hypotesen, mest smärtlindrings effekt
+* ***Hyperpyrexi***: >41grader, bör behandlas
+* förändrar inte förloppet för de vanliga infektionssjukdomarna
+* användande av alternerande antipyretika
+* ***Förbättra allmäntillståndet***: antiopyretika ska bara navändas för att förbättra allmäntilltåndet för barnet, ***normal temperatur är inte målsättningen***
+* Ingen tydlig skillnad i reduktion av feber mellan paracetamol och ibuprofen
+* alternerande paracetamol ibuproen sänker sannolikt tempen bättre
+  * men äökar risk för toxicitet pga överdosering
+
+#### Feber spädbarn <6månader
+
+* ofta disktrea symptom på vår sjd
+* noggran sjukhistoria och status
+* ofta ett virus: maternell viral infektino?
+* emellertid: 10% av spädbarn <3månader, >38grader har en allvarlig bakteriell infektion
+* blir ofta föremål för oservation på avd
+  * ofta iv antibiotika
+
+#### Oförklarad feber, Feber of unknown origin
+
+* Feber utan typiska fokala symptom, därför ofta svårdiagnosticerad
+* Mao, febern är förhoppningsvis offörklarad eller odiagnosticerad enbart kort tid
+
+***Orsaker***
+
+* ***maligniteter:*** leukemi, lymfom, neuroblastmo
+* ***Neutropeni***: kongenital, cyklisk neutropeni
+* ***Inflammatoriska sjd, utan infektion***: sustemisk JIA (juvenil idiopatisk artrit), Crohns sjd, Kawasaki disease etc
+* autoimmun sjd, funder av en autoantikropp, tex SLE
+
+***Svårdiagnosticerad FOU***
+
+* ***Autoinflammatorisk sjukdom***, –exempelvis Familjär medelhavsfeber
+* ***Importerade ”tropiska” sjukdomar*** –malaria, leischmaniasis, tyfoid, dengue feber, tuberkulos, brucellos, leptospiros
+* ***Inhemska ”ovanliga” infektioner***, tex tularemi, tuberkulos, Borrelia, (EB-virus hos prepubertala barn vanligtvis asymtomatiska) TBE –ibland tvåfas insjuknande
+* ***Blodsjukdomar***–sicklecell anemi
+* ***"Factitious fever ̈***–själv inducerad eller via ombud  ̈Munchausen by proxy ̈
+
+
+
+***Utredning***
+
+* Komplett blodstatus med B-celler (diff), CRP, SR, S-elfores. LD (ett ganska bra lymfom och leukemi prov), ALAT, ASAT
+* ANA, lungrtg, PPD, kreatinin, F-calprotectin
+
+
+
+#### HHV6, HHV7
+
+* En 1 årig pojke kommer till akuten med feber i tre dagar 39–40.Inga andra associerade symtom. Respiratoriska och GI symtom förnekas. Ter sig ganska välmående med bakgrund av den relativt höga febern.  Status: 39,5. Alert. Ingen nackstyvhet. Kapillär återfyllnad 2 s. ÖNH ua. Hjärta och lungor takykardi, i övrigt ua. Buk ua. Hud ua. Lab: CRP < 1 mg/l, urin ua.Diagnos?
+* bästa dag är barnet afebrilt och utvecklar ett makulärt utslag över bålen
+*  ̈exanthema subitum ̈ ̈
+* 3 dagars feber ̈
+* Orsakas av HHV6 eller HHV7
+* Drabbar små barn 7 –13 månader100% 
+* seropositivitet i vuxenpopulationen
+* Huvudsakligen sporadiska fall -maternell transmission?
+* Livslång virus utsöndring från spottkörtlar
+
+<img src="./imgs/ped_N5vzXIHmn0.png" alt="N5vzXIHmn0" style="zoom:50%;" />
+
+#### Kawasakis disease
+
+***Presentation***
+
+En 2 årig flicka med feber i fyra dagar. Ökande irritabilitet, missnöjd, medtagen, gnällig, otröstlig. Dålig eller utebliven effekt av antipyretika. Inga respiratoriska symtom. Status: Hög feber 40. Irritabel. Ingen nackstyvhet. Utslag över bålen, ansikte, armar och ben, accentuerat i blöjregionen. Röda fingrar, svullna ögon med konjunktivit. Röda och spruckna läppar. Smultron tunga. En svullen lymfkörtel på vä sida av halsen i käkvinkeln, 2 cm diameter.Lab: CRP 160 mg/ml, Hb 105 g/l, Leukocyter 17,6 mestadels neutrofiler, trombocyter 270 x 109/l. 
+
+<img src="./imgs/ped_YiaaQcDwKT.png" alt="YiaaQcDwKT" style="zoom:33%;" />
+
+
+
+<img src="./imgs/ped_LzgOUXlBL7.png" alt="LzgOUXlBL7" style="zoom:50%;" />
+
+
+
+<img src="./imgs/ped_KFhBCkscDI.png" alt="KFhBCkscDI" style="zoom:50%;" />
+
+
+
+<img src="./imgs/ped_e2Y0zumlcT.png" alt="e2Y0zumlcT" style="zoom:50%;" />
+
+
+
+***Diagnostiska kriterier***
+
+* Deber: >38.5, 5 dagar
+* minst 4 av följande 5
+  * konjunktivit, bilat
+  * förändringar läppar, i munhåla
+  * förändringar extremiteter,
+  * utslag polymorft
+  * halsadentiter, ofta ensidiga
+
+progressiv irritabilitet är typiskt, men inget kriterium. 
+
+inget specifikt säkerställande prov
+
+
+
+***Komplikationer***
+
+* Kawasakis sjukdom är en vaskulitsjukdom som ofta skadar kranskärlen
+
+***Behandling***
+
+* Består av iv immunglobulin före dag 10 av febern
+* Atypisk kawasaki: dvs <4, kriterier drabbar ofta små barn. Ökad risk
+
+#### Pyelonefrit
+
+***Presentation***
+
+* 6 månader gammal flicka med feber i två dygn. Enstaka kräkning men ingen diarre. Inga fokala eller respiratoriska symtom. Ganska grinig o gnällig. Ingen epidemiologi för infektionssjukdom i omgivningen. Status: Febril 39.0. Ingen nackstel. Kapillär återfyllnad normal. Hjärta lungor ua. Buk ua.  LgLL ua. Hud: inget utslag. Lab CRP 180 mg/ml, Blodstatus: leukocytos med neutrofiler 13,5x109/l, Urinsticka: Leukocyter 3+, erytrocyter 3+, protein 1+, glukos 0. Diagnos? Vidare provtagning?
+
+***Diagnos***
+
+* Blåspunktion med odling för att säkerställa infektion
+
+***Behandling***
+
+* Antibiotika
+* uppföljning med radiologi för att utesltua missbildningar ffa vesikouteral reflux

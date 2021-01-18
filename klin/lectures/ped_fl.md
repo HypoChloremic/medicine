@@ -618,3 +618,106 @@ denna ålöder som man behöver säkra sitt hem
 * milstoplar i barns utv defineiras som färdigheter som de flesta barn har uppnått vid en iss ålder
 * barje barn följer egen bana, när ***gäller psykomotorisk utveckling***
 * oförmåga att nåam ilstolpar i utv kan vara en indkator på pykiatrisk hälsoproblem
+
+<img src="./imgs/ped_F3tA6Wmbj3.png" alt="F3tA6Wmbj3" style="zoom:25%;" />
+
+
+
+
+
+
+
+# Luftvägsinfektioner
+
+## Läranemålen 
+
+* Lungfysiologi
+* orskaer t varför andningspåverkade barn är dehydrerade
+* syptom hos ett barn med luftvägsinfektion
+* dev vanligaste luftvägsinfektienr hos barn
+* definiera astma diagnosen
+* att känna igen ett sjukt barn
+
+## Trygghet o lugn
+
+Viktigt att barnet sitter nära föräldern, typ på dess knä , etc
+
+## Åldersberoende referensvärden
+
+### Andningsfrekvens
+
+* Nyfödd-1mån: <60 andetag p min
+* 1mån-1åå: <50
+* 1-5åå: <40
+* 5-12åå: <25
+* \> 12åå: <20
+
+### Andningen
+
+Barnen andas gm näsan, för att de måste äta o andas samtidigt, när de ammar. 
+
+***Trång anatomi***: 
+
+* trångt i svalget, 
+* stor tunga tendens ramla bakåt
+* stor epiglottis
+* hel del lymfoid vävnad
+
+
+
+när de ammar sänks mjuka gommen och täpper till luftstrupen för att mjölk ej ned i luftvägarna. 
+
+#### Nästäppa
+
+***Nästäppa***: Nästäppa hos ett litet barn = uppfödnignsproblem. Detta är alltså ett medicinskt problem som man behöver adressera
+
+
+
+#### Luftvägar hos barn jfr vuxna
+
+
+
+<img src="./imgs/ped_RrQrRxJNJU.png" alt="RrQrRxJNJU" style="zoom:50%;" />
+
+***Luftrören***
+
+* ***Mindre diameter***
+* ***Slemhinnesvullnad i litet luftrör:*** även om svullnaden är av liten kaliber, innebär det att ***resistensen ökar signifikant mkt hos barnet*** när man jämför med mer adult vävnad. 
+* ***Rikligare med slemhinnevävnad***: mer mukosa hos yngre, barn jfr äldre vävnader
+  * ***lätt svullnar***
+  * ***producerar mkt sekret***
+* ***Bronkväggarna mjukare***: tendens att ***kollabera*** vid ökat adningsarbete, vilket gör att barn benmägna att reagera med ***obstrutkiva andningsbesvär vid infektion***. 
+  * ***slemhinneödemet betydelsefullt***: orsak t obstruktivitet t barn <18 månader, ***behandlas med bronkdilaterande = ventloin***, mot sekretet ger ***man atrovent***. 
+
+
+
+#### Bröstväggen
+
+* ***Mjukar bröstvägg*** Det är mjukare bröstvägg hos barn osså
+* eftergivlig
+* ser tydligt: indragningar ***mellan revbenen*** som är horisontellt ställda revben
+  * inte förrän 10åå som vuxen vertikal position
+  * horisontell ***gör svårarae att vidga bröstkorgen***
+* andnignsmuskulaturen omogen
+* diafragman ligger platt an mot throax och saknar konvex mot bröstkorgen
+* ***tillsammasn***: mindre effektiv andnignsmekanism. 
+  * lägre vilovolym
+  * lättare atelektas
+  * svårt vidga enskilda andetaget, varför behöv av mer syrgas, samt ökar andningsfrekvens för att upprätthålla normal saturation
+
+
+
+<img src="./imgs/ped_H5wegaXTbA.png" alt="H5wegaXTbA" style="zoom:25%;" />
+
+***Accessoriska muskler***: notera att för att upprätthålla fri luftväg, har muskeler i ***larynx samt accessoriska muskler*** en viktig roll att hålla endexpiratoriska trycket
+
+
+
+##### Gasutbytet
+
+* mindre utvecklat
+* färre alveoler: ca 25-50milj hos nyfödd, vs 300M hos vuxen
+* det kapillära nätverket som omringar alveolerna är mindre utvecklat
+* kemoreceptroer i larynx, pharynx svarar annorlunda t en främmande kropp som tex slempropp eller annat
+  * Där barnet får apné skulle vuxen hostat
+* ***hypoxi*** ***inducerar*** apne hos spädbarn

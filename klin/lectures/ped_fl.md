@@ -1250,8 +1250,6 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
 * bronkiektasiera
 * mortalitet
 
-
-
 #### Andra orsaker andningsbesvär
 
 * främmande kropp
@@ -1523,3 +1521,187 @@ inget specifikt säkerställande prov
 
 * Antibiotika
 * uppföljning med radiologi för att utesltua missbildningar ffa vesikouteral reflux
+
+# Det svårt sjuka barnet på akuten
+
+#### Fall - meningit
+
+* –Pojke 1 år 9 månader–Inkommer till akuten i ambulans efter 12 timmars feber 40. På morgonen irritabel, därefter kramp, legat som sprättbåge. Ambulans personal noterar vid ankomst att gossen är spänd, sträcker i väarm
+* –Status på akuten: blek, slapp, medvetslös men reagerar med irritabilitet på viss smärta, nackstyv, temp 40, spontanandning, utslag, god kapillär återfyllnad  –BT 125/90 senare undertryck 70–Saturation 92%
+* ABCDE 
+* tillkalla narkos
+* organisera personal
+* blododling
+* provtagning: övrigt blodstatus, CRP, elektroltuer, syra-basm, koagulationsstatus,
+* ***LP***: opalasent, dvs antytt grumlig!
+  * 100 celler, poly 900, mono 100
+  * sp albumin 1213 mg, ref <250mg
+  * sp-glukos 0.3, blodglukos 4.1
+  * fund gramnegative kocker
+  * CRP 75
+* Claforan ev doktacillin iv
+* färskfrusne plasma?
+* underhållsdropp 5% glukos + elektrolyttillskott
+* IVA
+  * CRP max 294, syrabas väx ua, i diffen metamyelocyter 0.94
+  * fibrinogen 7,.2, ref 2.0-5.2
+  * övriga koagprover ua
+* Växt av meningokocker serrotyp C i blod o likvor
+* förbättras snabbt o läömnar IVA efter ett dygn o blir inom loppet 5 d återställd
+* hem efter 6 dagars beh, fortsatt hemsjukdvård
+* antibiotika profylax: endast t närmsta familjen, ciproxin engångsdos
+* snart fullt frisk
+
+<img src="./imgs/ped_8LA7Lf5Evk.png" alt="8LA7Lf5Evk" style="zoom:50%;" />![pc8baotB5Q](./imgs/ped_pc8baotB5Q.png)
+
+
+
+![pc8baotB5Q](./imgs/ped_pc8baotB5Q.png)
+
+
+
+
+
+![YjFY5prRZP](./imgs/ped_YjFY5prRZP.png)
+
+#### Vanliga symptom hos svårt sjuka barnet, >6månader
+
+* Hög feber 
+* Svår allmänpåverkan med cirkulatoriskpåverkan
+* Nedsatt medvetandegrad
+* Nackstyvhet, meningism
+*  ̈Irritabilitet ̈
+* Generella smärtor 
+* Takykardi och takypne
+* Peteckieroch andra hudsymtom
+* Kramper
+
+#### Vilka symtom och tecken skiljer avseende det svårt sjuka nyfödda och späda barnet < 6 månader?
+
+***Ibland diskreta symptom***
+
+* temp: normal eller hypotemp
+* andningsstörning, gruntning, slöhet - matningssvårighejter
+* apneer
+* cyanos
+
+
+
+#### Sepsis, agens efter nyföddhetsperioden
+
+* pneumokocker: luftvägsinfektioner, splenektomi
+* meningokokcer
+* H influenzae numera ovanligt
+* staffar, hudskador e.g brännskador
+* streptokocker
+* tarmbakterier: urosepsis
+
+
+
+#### Meningit, agens efter nyföddhetsperioden - luftvägsbakterier
+
+* Pneumokocker
+* meningokocker
+* H influenzae, tidigare vanligast
+
+
+
+#### Meningitsepsis - agens i nyföddhetsperioden
+
+* Mkt tidigare inf: moderns genitalflora
+  * beta strep grupp B, GBS
+  * tarmbaktereier, e.g. E coli, klebsiella
+  * listeria: hematogen spridning
+* senar inf på nyföddhetsavdelnig: ofta nosokomial
+  * staf aureus o epidermidis
+
+
+
+#### LP fynd vid purulent meningit
+
+* Högt antal poly, ofta >1000
+* Högt laktat >3,5 ofta ~10
+* Högt protein eller albumin > 250 mg/l
+* Lågt sp-glukos, låg kvot glukos sp/plasma –< 0,4
+* Gram färgning
+* Stickblödning medför 1 vit /1000 röda
+
+#### Behandling sepsis/meningit
+
+* om chock med tecken på 
+  * nedsatt kapillär återfyllnad, blekgr hudfärg, perifer kyla, snabb ytlig puls, lågt blodtryck
+  * skall chockbehandling, föregå andra behandlingar
+
+##### Chockbehandling
+
+* 1 ml/kg/minut under 20-30 minuter Ringer Acetat®
+* •Motsvarande 20 -30 ml/kg–Dvs 2 -3% av kroppsvikten
+* •Kan behöva höjas till sammanlagt 4% av kroppsvikten!
+* •Evföregås av albumin infusion
+* •Om misstanke DIC eller koagulationspåverkan ge  ̈färskfrusen AB-plasma ̈10 ml/kg
+
+##### Antibiotika
+
+* Antibiotika–Cefotaxim, (Claforan®) iblandmonoterapi(fungerarävenpåpneumokockermed nedsattkänslighet)
+* Ampicillin, (Doktacillin®) 
+* iblandI kombination(Enterokocker, Listeria)
+* Iblanda minoglykosid
+
+#### Behandling purulent meningit
+
+* Antibiotika inom 30 minuter efter diagnos
+* Odling påverkas ej om antibiotika givits inom 2 –3 timmar före LP
+* Cefotaxim(+ Ampicillin) 200 mg/kg/dygn
+* Evsteroider före antibiotika –kangynnaförloppetvid H influenzae samt pneumokocker
+
+#### Komplikationer purulent meningit
+
+* Livshotande
+  * hjärnödem
+  * inklämning
+  * DIC
+  * cirkulationskollaps
+* Vanliga komplikationer
+  * Hörselskador
+  * kognitiva skador
+
+#### Behandling sepsis, meningit IVA
+
+* stabilisering andning
+* ev hjärtaktiva medel
+* DIC
+
+#### Diffar sepsis
+
+* •Viroser, speciellt späda barn
+* •Reumatologiska vaskulitsjukdomar
+  * –Systemisk JIA
+  * –Kawasakis sjukdom
+  * –Henoch Schönleins Purpura
+  * –SLE
+* •Maligna sjukdoma
+
+#### Skyddande vacciner
+
+* Ingår i vaccinationsprogrammet: 
+  * act-HiB
+  * prevenar 13
+* ingår ej i vaccinationsprogrammet
+  * menveo, nimenrix 4-valent konjugerat meningokock-vaccn A, C, Y, W-135
+  * bexsero konjugerat meningokockvaccin typ B
+
+
+
+<img src="./imgs/ped_QbCLQxgaS7.png" alt="QbCLQxgaS7" style="zoom:50%;" />
+
+![3jTs2652nY](./imgs/ped_3jTs2652nY.png)
+
+* Diffdiagnos: vaskulitutslag utan feber...
+
+#### Feberkramp
+
+* barn 0.5åå-4åå
+* vid feber
+* symmetrisk, generell kramp, 
+* durration <10min
+* ofta snabbt pigga efter krampen

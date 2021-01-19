@@ -1,5 +1,7 @@
 
 
+
+
 # PED Lectures
 
 ## Barnets normala utveckling
@@ -1970,4 +1972,487 @@ avvaktas om instabilt barn
 * ! ***vid hjärtstopp hos barn: påbörja HLR 5 inblås***, följt kompressioner, inblås 15:2
   * barn <44v gestationsålder 3:1
 
+
+
 <img src="./imgs/ped_qun6FMMaUp.png" alt="qun6FMMaUp" style="zoom:50%;" />
+
+
+
+
+
+
+
+# Barnhälsovård
+
+#### Misc 
+
+salutogenes
+
+***Uppgifter BVC***
+
+Hälsoscreening(full kroppsundersökning) avläkarevid 4v, 6 mån, 12mån och3 år(3 årejiStockholm)Motoriskautvecklingsmilstolpar-hypotoni?Samspelochspråkochkommunikation(ffa3 årsbesöket)Välbefinnandeivardagen(ffa4 årsbesöket)VaccinationFöräldrastöd-(10-14 besökförstaåret), individuelltochigrupp
+
+MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, trygghetiorokringbarnetStödattorienteraisamhälletUpptäckabarn somfar illaALLA barn välkomna–ävengömdabarn
+
+#### kraniosynostos
+
+* Medföddslutningav skallbenetssömmar
+* 1/2000 barn, 80-90 fall/år i Sverige
+* •15% kopplattill syndrom
+* Suturasagittalissynostos ”Båtskalle” före efteroperation
+* Skalldeformitet, kan leda till ökat intrakraniellt tryck Kraniosynostos-kirurgihelstintesenareän 4-6 månålder
+
+![aSoDL9YsCg](./imgs/ped_aSoDL9YsCg.png)
+
+#### SIDS Sudden infant death syndrome
+
+******
+
+***Etiologi och patofysiologi***
+
+* Verkar fortfarande vara oklart
+* Flera teorier: infektion, kvövning, sänkläder, uppkräkgt maginnehåll. flera som inte verifierats eller studerats är nedkylning, övehett, anaflylaxi komjölk, vaccinationer, ändrade dygnsrutiner, flygresor, ämnesomsättning, keimikalier i kläder, GERD, lkm
+* Under de sista tre decennierna har den viktigaste hypotesen varit  störningar i andningen, men sedan flera undersökningar visat att  bradykardi föregått andningsstörningen, har denna ifrågasatts, och med  den även bruket av apnémonitorer.
+* Det antas allmänt att SIDS är multifaktoriellt betingat.  Grundförutsättningen skulle kunna vara ett på något sätt fysiskt  komprometterat barn som genomgår en kritisk fas i utvecklingen, och där  utsätts för en utlösande faktor som till exempel överhettning eller  någon infektion.
+
+***Åtgärder som dramatiskt minskat SIDS***
+
+* att rekommendera ***ryggläge*** i sömn av spädbarnet
+* Rekommendationer fr socialstyrelsen: "minska risken för plötslig spädbarnsdöd"
+  * Låt spädbarnet sova på rygg.
+  * Avstå från nikotin.
+  * Se till att barnets ansikte är fritt, att barnet är lagom varmt och kan röra sig.
+  * Spädbarn under tre månader sover säkrast i egen säng.
+  * Amma om det är möjligt.
+  * Napp kan användas när spädbarnet ska sova
+* ***Magläge under sömn***: detta verkar vara en av de största bidragande orsakerna till SIDS, varpå man rekommenderra ryggläge under sömn. ***sidoläge är också farligt*** för att den anses instabil o barnet kan rylla över åp mage. 
+* ***Rökning***: verkar också vara ett problem för detta. 
+* ***Napp***: Alla studier av nappens effekt visar på en skyddande effekt, särskilt  när barnet skall sova. Mekanismen är oklar, men bättre förmåga till  uppvaknande, underlättad munandning och minskad benägenhet för barnet  att lägga sig på mage har föreslagits. 
+  * De invändningar som tidigare  rests mot nappanvändande, d v s att den kan ge upphov till dentala  komplikationer samt störa amningen, anses numera ha svagare evidens,  särskilt om napp introduceras när amningen etablerats, och huvudsakligen används när barnet skall sova.
+
+![rcqfHCnYUE](./imgs/ped_rcqfHCnYUE.png)
+
+#### Lägesbetingad skallassymmetri
+
+* uteslut tortikollis
+* lägesbetingad asymmetri är ofalig
+* växla läga på det nyfödda bernets huvud, höger o vänster
+* magläge när barnet är vaket
+* i sängläge: ljud o ljus på motsatt sida
+* undvika babysitter (va menas?)
+
+***Etiologi och patofysiologi***
+
+* ***Skallen är mjuk***: skallen är mjuk, de första ***levnadsmånaderna***
+* ***Ryggläge, mkt***: då barnet ligger på rygg längre perioder, deformeras skallen, varpå lägesbetingad skallassymmetri
+* ***Ofarligt***: det är ett ofarligt tillstånd, till skillnad fr kraniosynostos där man har ett betydligt farligare tillstånd
+
+#### Hydrocefalus
+
+***Etiologi och patofysiologi***
+
+* ***Ett hinder i likvorflödet***
+* ***Stenos***
+* ***Arnold geari***: en malformation där hjärnan trycks ned mot spinalkanalen
+
+
+
+***Kliniska kännetecken***
+
+* ***Ögon tittar nedåt***: barnet stirrar, tittar nedåt mkt, så att man ser ögonvitorna mkt
+* ***Irritabilitet***
+* ***Huvudomfånget***: man följer huvudomfånget på BVC och har möjlighet att snart upptäcka tillståndet hos barnet
+
+***Behandling***
+
+* Shunts: antingen peritonealt eller till förmaket
+
+![qo43do3VDb](./imgs/ped_qo43do3VDb.png)
+
+
+
+#### Kongenital katarakt
+
+***Etiologi och patofysiologi***
+
+* Ett antal olika orsaker förekommer
+* ***intrauterin infektion*** TORCH
+* syndrom
+* neonatal hypoglykemi
+* prematuritet
+
+***Kliniska kännetecken***
+
+* Prevalens: 35 på 100k
+* o
+
+***Behandling***
+
+* ***bör opereras tidigt***: 1-2 levnadsveckorna, men absolut före 2-3 månader
+
+***Differentialdiagnoser***
+
+* retinoblastom, elakartad tumör
+
+![EKpF8rYGQ0](./imgs/ped_EKpF8rYGQ0.png)
+
+#### Retentio testis
+
+***Etiologi och patofysiologi***
+
+* Testis har ej vandrat ned
+* ***Risker med detta***, pat kan utveckla
+  * testikelcancer
+  * påverkar spermatogenes: nedsatt fertilitet
+  * påverkar testikeltillväxt
+  * testistorsion: 10ggr vanligare vid retenerade tesiklar
+
+***Kliniska kännetecken***
+
+* 3% nyfödda pojkar
+* 40% av dessa nedvandrande vid 6 mån
+
+***Handläggning***
+
+* remiss barnkirurg om kvarstår: hos ca 1%, vid 6 mån
+* ***bilateral rentetio:*** till endokrinolog
+
+#### Medfödd instabilitet och luxation i höften
+
+***Etiologi och patofysiologi***
+
+* Riskfaktorer
+  * ärftlighet
+  * sätesläge: 16% av alla höftledsluxationer
+  * 4ggr vanligare flickor
+
+***Kliniska kännetecken***
+
+* 1 på 1k, drabbades av funktionsnedsättning t följd av höftledslux innan 1950
+
+***Diagnostik***
+
+* Barlow och Ortolani's test
+* benlängdsskillnad, assymmetriska hudveck
+* 10% upptäcks efter 1 mån
+
+![ZQ0Rs4BuqO](./imgs/ped_ZQ0Rs4BuqO.png)
+
+***Behandling***
+
+* Von rosenskena i 10-12v
+
+#### Tillväxt
+
+***Längdavikelser***
+
+* GH brist, fr 8må
+* hypothyreos
+* hypofystumör
+* syndrom
+* psykosocialt
+
+***Viktavvikelser***
+
+* hjärtsjukdom
+* celiaki 4-10måm
+* psykosocialt, gränssättning
+
+
+
+#### Passiv exponering
+
+* Fördubblar risken för SIDS
+* pneumoni hos barn, särskilt fr mors rökning
+* otit 
+* astma skolbarn
+* debut obstruktivitet
+
+![sAkqTDmSWN](./imgs/ped_sAkqTDmSWN.png)
+
+
+
+#### Amning, räddar liv globalt
+
+* Barn <6mån, hos ej ammande (jfr helamning:
+  * 15x pneumoni
+  * 11x diarre
+  * 14x dödlighet
+* barn <6mån, ej ammade jfr någon amning:
+  * 4x dödlighet
+* I höginkomstländer: ser man fortfarande signifinakt riskreduktion för SIDS, diarre, pneumoni, otiter om man ammat
+
+***Bröstmjölk***
+
+* Näring, energi upp t 6mån lder
+* tillväxtfaktorer
+* omega 3 och 6FA
+* immunkomponenter
+  * IgA 10-100ggr
+  * makrofager
+  * leukcytr
+  * cytokines (TNF-alpha)
+  * lysoszym
+
+#### Fetma isoBMI kurva
+
+* IsoBMI ärviktkurva för barn - annan jmf med vuxna (dvs. annan gräns för vad som är fetma)
+* –medan BMI uträkning är samma. 
+* Börja bedöma från3 åå
+* Tidig behandling av fetma - starkaste faktor för att lyckas
+* Vid 6 årsålder 90% effekt av program jmf med 10% i 16 åå
+
+
+
+***Fetma***
+
+* fetma hos barn ökar risk för fetma hos vuxen
+* 30% barn med fetma -> fetma som vuxen
+* 50% feta tonåringar -> fetma som vuxen
+* Riskerna
+  * ökar risken för kardiovaskulära sjukdomar, cancer, DM2
+  * kopplat sämre skolresultat, depression, suicid
+
+![YZUg3RPXNb](./imgs/ped_YZUg3RPXNb.png)
+
+#### Socioekonomiska förutsättningar
+
+* det är dåligt i sverige
+* passiv rökning och passiva faktorer mer hos fattiga familjer o dylikt
+* karies korrelerat med fattigdom
+  * Amning finns det relation
+
+<img src="./imgs/ped_5n2Sprzl8J.png" alt="5n2Sprzl8J" style="zoom:50%;" />
+
+#### Vaccination
+
+![T9ZDCIkWgt](./imgs/ped_T9ZDCIkWgt.png)
+
+
+
+![CyjHVLQ6vZ](./imgs/ped_CyjHVLQ6vZ.png)
+
+
+
+
+
+![DbEjEWyztB](./imgs/ped_DbEjEWyztB.png)
+
+#### Allmänna barnvaccinationsprogrammet
+
+* ***Kontrollerad*** mänd antigen bakterie, virus eller del av bakterie virus
+* under kontrollerade förhållanden
+* ! sjukdom är ***okontrollerade*** mängder av antigen som drabbar barnet när det är som svagast
+
+***Effekter av vaccinationsprogrammet***
+
+* Minskar antibiotikaresistens, antagligen att man inte behandlar med antibiotika i onödan
+
+
+
+<img src="./imgs/ped_c4KteBEEgs.png" alt="c4KteBEEgs" style="zoom:67%;" />
+
+
+
+##### Vaccinationstäckning
+
+* ***Difteri, stelkramp, kikhosta, polio, HiB***: 97.4%
+* ***Pneumokock***: 96.9%
+* ***Mässling, påssjuka, röda hund***: 1 dos når 97% av 2åringar
+
+##### Vaccinationsschema
+
+![2TKL7cZdVL](./imgs/ped_2TKL7cZdVL.png)
+
+
+
+##### Mässling
+
+* 300ggr ökning av mässling
+
+***Etiologi och patofysiologi***
+
+* orsakas av virus
+* ***Försvagat immunförsvaret***: slår ut B-minnesceller, och 11-74% av antikroppar
+  * ***Alltsp***: slår ut minnes B-celllinjer som byggs upp vid tidigare exponering för patogen
+  * ***Förklarar***: tidigare observerad långvarig immun amnesi
+  * ***Reducerar antikroppsrepertoiren***: iom minnes B-celler attackeras, får reduceras repertoiren antirkoppar available
+  * ***Mässlingvaccin användning***: kopplat t lägre dödlighet i andra sjukdomar, med 30-40% LIC
+  * ***Ökad dödlighet andra sjukdomar***: 2-3 år efter infektion
+
+
+
+***Kliniska kännetecken***
+
+* ***Feber + röda utslag***: huvud t fot
+* Barnet påverkat
+* konjunktivit
+
+***Faran i mässling***
+
+* 20% får extra besvär
+* 20% hamnar sjukhus
+* 1 på 1k encefalit
+* 1 på 2k dör
+* SSPE allvalig komplikation, 7år efter akuta infektionen
+
+![Re4r04JKXR](./imgs/ped_Re4r04JKXR.png)
+
+
+
+![AD5zg8MraH](./imgs/ped_AD5zg8MraH.png)
+
+##### Nå flockimmunitet
+
+<img src="./imgs/ped_mgDmCcp8G1.png" alt="mgDmCcp8G1" style="zoom:67%;" />
+
+![qd6D1gGERS](./imgs/ped_qd6D1gGERS.png)
+
+
+
+![WMchpuB2YR](./imgs/ped_WMchpuB2YR.png)
+
+
+
+#### Röda hund under graviditet
+
+* Virussjukdom
+* mild febersjukdom + röda prickar
+* skydd viktig för gravida
+* vid infektion första trimestern: 50-70% risk för defekter, 5% hos vaccinerade
+  * dövhet
+  * blindhet
+  * mikrocefali
+
+
+
+![KFwS9mg9m9](./imgs/ped_KFwS9mg9m9.png)
+
+
+
+
+
+![AbmuqxZjuu](./imgs/ped_AbmuqxZjuu.png)
+
+
+
+
+
+#### påssjuka
+
+* Virus som ger spottkörtelinflammation
+
+***Komplikationer***
+
+* encefalit ca 1på 10k, leder t
+  * Dövhet 1 på 20k
+  * dödsfall 2 på 10k
+  * under 60-70 talet
+* Testikel-inflammation, 12%-66& främst hos postpubertelaa män
+  * sterilitet ovanligt
+* pankreatit, 3.5%
+
+#### Kikhosta
+
+* Toxin fr bakterien bordetella pertussis
+* barn under 6 månader blir svårast sjuka
+* Toxinutlöst svåra hostattacker -> apné
+* barn i Sverige dör fortfarande av kikhosta, senast 2015
+
+***Handläggning***
+
+* ***Ta prov om spädbarn i familjen***: långdragen hosta 14d, o hosta med attacker, ***misstänk kikhosta***
+
+***Behandling***
+
+* behandla spädbarn frikostigt erytromycin även vid misstanke mo kikhosta
+* ***Boosterdos i högstadiet***: 14-16åå
+* vaccinera gravida? kokongvaccination?
+
+![ODznRM5PHq](./imgs/ped_ODznRM5PHq.png)
+
+
+
+#### Tetanus
+
+* Clostridium tetani
+* bildar neurotoxin,
+* toxin finns i jord, magtarm hos djur
+* trismus: käken låser sig
+* risus sardonicus,
+* mortalitet, 10-70%
+* vaccin skyddar mot toxinet
+
+#### Polio
+
+* Virusorsakad infektion
+* fekal-oral smitta
+* 72% asymptomatiska
+* 24% feber, halsont huvudvärk illamående och kräkningar
+* 1 på 1k akut paralys, kan bli permanent
+* 1-2 på 20k kan dö: paralys andningsmuskulatur
+
+![s76UdNcHES](./imgs/ped_s76UdNcHES.png)
+
+#### Difteri
+
+* Corynebacterium diphterium
+* förökar lokalt, i vissa fall sprider toxin som orsakar allvarliga komplikationer
+* Mortalitet, 5-10% gm
+  * kvävning, mekaniskt
+  * nerförlamning som kan drabba diafragma: respiratorisk svikt
+  * myokardit: hjärtrytmi
+  * njurskador
+* vaccin skyddar inte mot smitta utan mot toxinutlöst reaktion
+
+***Epidem***
+
+* Bangladesh 804 fall, 15 dödsfall
+* Jemen 318 fall, 28 dödsfall Indonesien 663 fall, 38 dödsfall Venezuela 835 fall 
+* Sverige2016 2 fall avhuddifteri(Asien) På 10 årendast 5 fall I luftvägar
+* -ALLA importfall+ inkomplettvaccination
+
+![Nmf2M1MDLm](./imgs/ped_Nmf2M1MDLm.png)
+
+#### Haemophilus influenzae typ B
+
+* Invasiv sjukdom, sepsis, meningit -> hjärnskada, dövhet
+
+***Epiglottit***
+
+* 1992 före vaccin, i Sverige 179 fall invasiv HiB/år <4år
+  * 100 fall av sekvele p år
+  * 4-8 dödsfall p år
+
+#### Pneumokocker
+
+* Vanligast orsaker t otit, sinuit
+* kan orsaka pneumoni, meningit, sepssi
+* barn <2år större risk för svår sjukdom
+* i sverige före vaccin 2006 sågs invsiv sjukdom hos 98 barn, <5år, 4 dödsfall
+
+***Vaccination***
+
+* infördes 2009
+* -> ibland barn
+* <2år har sjd förekomst minskat med 80%
+
+![XXHpkPTpwG](./imgs/ped_XXHpkPTpwG.png)
+
+
+
+#### Rotavirus
+
+* Globalt ledande orska t diarre som orsakar svår vätskevris, ffa barn <5åå
+* Enligt FoHM30 000 VAB dagar/år innan vaccin
+* nfördes i SLL 2014, Nationellt 2019
+* Oralt levande försvagat vaccin
+* Vaccination reducerar risken för allvarlig (sjukhuskrävande) rotavirusinfektion med ca 90% under första året och 80% under andra året -efter vaccination
+
+<img src="./imgs/ped_8mjgXYNiFY.png" alt="8mjgXYNiFY" style="zoom:33%;" />
+
+
+
+#### Sammanfattning
+
+* Barnhäsovård–hälsofrämjandeochförebyggande+tidigupptäckt+ hälsoövervakning•UtövasgenomBHV-programmet•BHV har mångavärdensvåraattmäta: tillit, bekräftelse, empowerment, samhällsorienterande•Ojämlikaförutsättningarförengod hälsa–riktadeprogram: utökathembesöksprogram, familjecentral•Barnhälsovårdhar livslångpåverkan

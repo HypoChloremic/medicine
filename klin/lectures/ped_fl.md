@@ -1,9 +1,5 @@
 
 
-
-
-
-
 # PED Lectures
 
 ## Barnets normala utveckling
@@ -1705,3 +1701,273 @@ inget specifikt säkerställande prov
 * symmetrisk, generell kramp, 
 * durration <10min
 * ofta snabbt pigga efter krampen
+
+# Akut Pediatrik
+
+#### Wetflag
+
+![bsyT9gfOIJ](./imgs/ped_bsyT9gfOIJ.png)
+
+![9D15xjXjny](./imgs/ped_9D15xjXjny.png)
+
+![6hDSFeWS5X](./imgs/ped_6hDSFeWS5X.png)
+
+#### Barnet anländer akutrummet
+
+![QQvwJzktGb](./imgs/ped_QQvwJzktGb.png)
+
+![jHC3yL9rd9](./imgs/ped_jHC3yL9rd9.png)
+
+#### ABDE
+
+##### Airway
+
+* Titta, lyssna, känn
+* hosta, stridor, inspektera munhåla, 
+* finns bröstkorgsrörelser
+
+<img src="./imgs/ped_FXVZVrRYbs.png" alt="FXVZVrRYbs" style="zoom:50%;" />
+
+![URTKoIVKoP](./imgs/ped_URTKoIVKoP.png)
+
+Notera hur stort barnets huvud är, därför lägger ständ thorakalt
+
+![kG08FI8q7W](./imgs/ped_kG08FI8q7W.png)
+
+![4lAU64fpVd](./imgs/ped_4lAU64fpVd.png)
+
+![q2pISjT3Jn](./imgs/ped_q2pISjT3Jn.png)
+
+##### Luftvägsstopp
+
+![Nx47TuOHMR](./imgs/ped_Nx47TuOHMR.png)
+
+
+
+***Åtgärder***
+
+* Avlägsna ev främmande kropp, ej i blindo!
+* uppmana effektiv hosta
+* ***Barn <1åå***
+  * Ryggslag x5 + brösttryck x5
+* ***Barn >1åå***
+  * Ryggslag x5 + buktryck x5
+* ***Inspektera munhåla, avlägsna främmande kropp***: mellan dunkningarna se till att titta in i munhålan osså. 
+* ***Om barnet blir medvetslöst:*** gör 5 inblåsningar, följ HLR
+
+
+
+#### Breathing
+
+***Hur bedöma barnets andning***
+
+* ***Ökat andningsarbete:*** takynpne, näsvingespel, gruntnig, indragningar, bukandnings, pressat expirium, accessoriska nadningsmuskler,
+* ***Symmetriska bröstkorgsrörelser***
+* ***Cyanos***
+* ***Lungauskultation***: sidlika/nedsatta andningsljud? ronchi, ronki, rassel, stridor
+
+***NOTERA***: barn kan sakna tecken till ökat andningsarbete vid utmattning, central andningsdepression eller neuromuskulär sjukdom
+
+***Utför, överväg***
+
+* Saturationskontroll
+* AF
+* syrgastillförsel: mask, grimma, flöde
+* ventilation: med blåsa, cpap / neopupp
+* intubation, alt larynxmask
+* inhalationsbehandling
+
+
+
+##### Skillnader barn vuxn, påverkar A o B
+
+* Mindre munhåla, ***stor tunga***
+* näsandas: tom 4-6mån -> därför problematiskt om barn nästäppt
+* mindre luftvägsdiameter i luftvägar omgivna av svagare brosk
+* mindre yta gasutbyte i lungan; färre o mindre alveoler
+
+![Z0U75Ud3H8](./imgs/ped_Z0U75Ud3H8.png)
+
+#### Circulation
+
+***Hur kontrollera barnets cirkulation***
+
+* ***Perifera pulsar***: 
+  * <1åå, via brachailis
+  * \> 1åå via carotis
+* ! ***Kapillär återfyllnad***: CRT, <3sek
+* Hydreringsgrad. Torra slemhinnor. Torr blöja. Tårar
+* hjärtauskultation. RR, blåsljud
+* Hudfärg. Cyanos, blekhet
+* BT. ***kan avvaktas initialt***. Lågt BT ***sent tecken på cirk svikt***
+* Bukpalpation. Organförstoring, utfyllnad, blödning, smärta
+
+***Utför, överväg***
+
+* Kopplar upp patienten
+* PVK!
+* ***Intraosseös infart***: om ej PVK inom 1mån på cirk instabilt barn
+* ***Vätskebolus***: RA 20mL/20kg, 
+  * om <44v gestationsålder = 10mL/kg
+  * upprepa vid behov
+* ***provtagning***: inkl blodprov
+* ***antibiotika***
+* ***blodtransfusion***
+* ***inotropt stöd***: ordienras samråd narkosjour
+
+<img src="./imgs/ped_qYS4T6zgKK.png" alt="qYS4T6zgKK" style="zoom:50%;" />
+
+#### Disability
+
+***Hur kontrollera barnets medvetandegrad***
+
+* AVPU: alert, voice responsive, pain responsive, unresponsive
+* GCS: glasgow coma scale
+* ***Kontrollera***: tonus, pupillreaktion , nackstuvhet, fontanelltension, reflexer
+* ***glöm aldrig GLUKOS***
+
+***Utför, överväg följande***
+
+* ***Kramp***: ge bolus midazolam iv alt stesolid rektalt, dosering enl PM
+* ***Hypoglykemi***: Ge glukos 10%, 2mL/kg iv, (def: p-glukos <3.0, neo <2.6)
+* ***Intoxikation***: ventrikelskölj, aktivt kol, antidot
+* ***tecken stegrat ICP***:höj huvudposition 30 grader, Mannitol?
+* ***Lumbalpunktion***: om misstänkt CNS infektion
+
+avvaktas om instabilt barn
+
+#### Exposure
+
+* avlägsna kläder, inspektera hud, 
+* ***blockvändning om trauma***
+* Kontrollera om blödningar, utslag, petekier, tecken trauma, tecken intox (sprutmärken)
+* tempkontroll
+
+***Utför, överväg***
+
+* varma filtar, varma vätskor, febernedsättande beh
+
+<img src="./imgs/ped_xJB0rwjqVw.png" alt="xJB0rwjqVw" style="zoom:67%;" />
+
+#### Hjärtstopp
+
+<img src="./imgs/ped_pjcg6w7p82.png" alt="pjcg6w7p82" style="zoom:50%;" />
+
+***Orsaker***
+
+* Barn: ***Sekundärt till hypoxi, hypovolemi***: prioritera drf ventilation, syrga, vätska
+* Vuxna: ***Ofta primärt hjärtproblem***: prioritera hjärtkompressioner, defibrillering
+
+***Orsaker t hjärtstopp hos barn***
+
+* Respiratorisk insufficiens, hypoxi
+  * ***andningsdepression***: intoxikation, kramp, ökat ICP
+  * ***luftvägshinder***: astma, främmande kropp, epiglottit
+* ***cirkulatorisk insufficiens, hypovolemi***
+  * ***vätskeförlust***: gastroenterit, blödning, feber, brännskada
+  * ***vätskeomfördelning***: sepsis, anafylaxi, hjärtsvikt
+  * ***vätskebrist***: sparsamt vätkseintag
+* ***Enl 5H47***
+  * ***Hypoxi***
+  * ***hypovolemi***
+  * hypotermi
+  * hyper, hypokalemi
+  * hypoglykemi
+  * tamponad
+  * tryckpneumothorax
+  * toxiska tillstånd
+  * tromboembolier
+
+##### Basal HLR, B
+
+![PN0dc0loAL](./imgs/ped_PN0dc0loAL.png)
+
+##### Avancerad HLR, barn
+
+* på sjukhus, annan medicinsk enhet
+* sjukvårdspersonal
+* akututsutning, läkemedel
+* följ algoritmen
+
+***Se till att***
+
+* ***Samordna kompressioner*** o inblåsningar, 15:2
+* ***Ventilera m 100% syrgas***
+* ***starta, anslut övervak, defib***
+
+***Läkemedel***
+
+* ***Asystoli, bradykardi, PEA***: 
+  * adrenalin 0.01mg/kg, omedelbart, så fort man har infart
+  * upprepa var fjärde minut
+* ***VF, pulslös VT***
+  * ***adrenalin*** 0.01mg/kg efter tredje defib
+    * upprepa sen var fjärde minut
+  * ***amiodaron*** 5mg/kg efter tredje defib, 
+    * upprepa samma dos efter femte defib
+
+***Generellt***
+
+* Ge fortsätt med HLR  15:2
+* rytmanalys varannan minu
+* upprepa adrenalin var 4e minut
+
+***Defibrillerbara rytmer***
+
+* ***10% är defibrillerbart hos barn:*** VF, VT
+* ***90% ej defibrillerbar rytm***: asystoli, bradykardi <60, PEA
+* ***Defibrillera:*** 4J/kg
+* ***Rytmanalys varannan minut***: upprepa defib vb
+* ***adrenalin***: efter 3e dfib, upprepas var 3e min
+* ***amidaron***: efter 4e defib, upprepa efter 5e defib
+
+![XK192eKdcn](./imgs/ped_XK192eKdcn.png)
+
+
+
+<img src="./imgs/ped_dyeoPRZ9nJ.png" alt="dyeoPRZ9nJ" style="zoom:50%;" />
+
+
+
+<img src="./imgs/ped_cyQuNYbbdy.png" alt="cyQuNYbbdy" style="zoom:33%;" />
+
+
+
+
+
+<img src="./imgs/ped_QYQvytW5Hy.png" alt="QYQvytW5Hy" style="zoom:50%;" />
+
+
+
+
+
+#### Neonatal A-HLR
+
+***Indikation***
+
+* barn 0-28 dagar
+* alt mtosv 44 gestatonsveckor utanför förlossningsrummet
+
+***Utformningen***
+
+* enl ERC riktlinjer o svenska HLR rådets utbildningsmaterial
+* riktlinjen är framtagen för att tydligt ***definiera*** brytpuntken mellan neonatal HLR o barn HLR
+* för att optimera det akuta omhändertagandet av de späda barnen
+* vid ROSC, initieras vård efter hjärtstopp
+
+<img src="./imgs/ped_gs5KGQbTrk.png" alt="gs5KGQbTrk" style="zoom:50%;" />
+
+
+
+#### Sammanfattning
+
+* Förberedelse, rollfördelning, tydlig kommunikation är avgörande för ett frmgångsrikt akut omhändertagande
+* systematisk handläggnign enl ABCDE, utfirån barnets fysiologiska o anatomiska förutsättninga
+  * syftar t tidig upptäckt livshot tillstånd, 
+  * skapa struktur, trygghet
+* hjärtstopp: orsakas oftast hypoxi o eller hypoveolemi
+  * prio drf ventilation syrgas, vätska
+* ! ***vid hjärtstopp hos barn: påbörja HLR 5 inblås***, följt kompressioner, inblås 15:2
+  * barn <44v gestationsålder 3:1
+
+<img src="./imgs/ped_qun6FMMaUp.png" alt="qun6FMMaUp" style="zoom:50%;" />

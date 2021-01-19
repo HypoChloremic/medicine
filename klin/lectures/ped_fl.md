@@ -198,7 +198,7 @@ Lika viktigt att man noterar avvikande pubertetsstadier
 B för bröst antar jag
 
 1. B2: ringformad, kanske lite ömmande, första tecken pubertet
-2. B3
+2. B3: 
 3. B4: som bröst på bröst, att vårtgården har en egen kontur -> indikerar höga östrogennivåer, varpå vårtgården utvecklar mkt
 4. B5: där man kan få en bröstvårta, notera att vissa kvinnor kanske aldrig får en fullt utvecklad bröstvårta
 
@@ -409,7 +409,7 @@ poängen är att man ska gå fram i sin utveckling. barnet ska gå sin egen kurv
 1. ***Grabbgrepp***: 4-5mån
 2. ***Flyttar fr hand t hand***: 5-6mpn
 3. ***oppositionsgrepp***:; 7-8mån
-4. ***pincettgrepp**: 9-10mån
+4. ***pincettgrepp***: 9-10mån
 
 
 
@@ -2456,3 +2456,481 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 #### Sammanfattning
 
 * Barnhäsovård–hälsofrämjandeochförebyggande+tidigupptäckt+ hälsoövervakning•UtövasgenomBHV-programmet•BHV har mångavärdensvåraattmäta: tillit, bekräftelse, empowerment, samhällsorienterande•Ojämlikaförutsättningarförengod hälsa–riktadeprogram: utökathembesöksprogram, familjecentral•Barnhälsovårdhar livslångpåverkan
+
+
+
+
+
+# Vätskebalans
+
+#### Fall - gsatroenterit
+
+* Alex  8 mån.  Tidigare  frisk. Magsjuk storasyster  i hemmet•Inkommer  till akuten  med  ambulans p g a uttalad  slöhet  sedan  morgonen
+* •Insjuknat  med  feber  och kräkningar  för två  dagar  sedan,  senaste  dygnet ff a voluminösa  diarréer
+* •Påtagligt  tagen  vid  ankomst.  
+* Vägde  9 kg på BVC förra  veckan,  på akuten  idag  8,5 kg. 
+* Takykard.  Kapillär  refill  4 sek
+
+#### Fall - andningsbesvär
+
+* Miriam  7 v. Född  fullgången  på julafton efter  normal  grav  och partus
+* Förkyld  med snuva  sedan  3 dagar
+* tilltagande andningsbesvär  o trött
+* helammas, men sämre aptit sedan gårdagen
+* relativt pigg vid ankomst, men rejält slemmig snabbandad
+* vägde 5kg på bvc förra vekcan, på akuten idag 4.8kj
+* noral hjärtfrekvens
+* kapillar refill 1.5sek
+* kissar sparsamt
+
+#### Beräkna vätskebehovet
+
+![gMqYIRRivx](./imgs/ped_gMqYIRRivx.png)
+
+#### Vatteninnehåll kroppen
+
+![434sZCWLjX](./imgs/ped_434sZCWLjX.png)
+
+
+
+#### Fördelning av kroppsvätskan
+
+![bD3V6V2s3d](./imgs/ped_bD3V6V2s3d.png)
+
+#### Vätskeomsättning
+
+* Vuxen man, 70kg, förlorar 3L/d, urin, avföring, perspiration, 
+  * motsvarande 20% ECV
+* Spädbarn. 7kg, forlorar 0.7L/d
+  * motsvarande 40% av ECV
+* Klinisk relevans: allvarlig dehydrering hos barn med stora förluster kan utvecklas snabbt
+
+***In och ut***
+
+* ***Tillförsel***: amning, flaskmat, eget peroralt intag, sond, gastrostomi, iv tillförsel
+* ***Förluster***: perspiratio insensibilis, svettningar, feberm urin, avöföring, diarre, kräkning
+* 
+
+#### Förluster
+
+***Perspiration insensibilis***
+
+* saltfria vattenångot fr lungor, hud
+  * premature: 2-3mL/kg/h
+  * spädbarn: 1mL/kg/h
+  * vuxna: 0.5mL/kg/h
+
+***diures***
+
+* prematura: 2-3ml/kg/h
+* spädbarn: 2mL/kg/h
+* vuxna 1mL/kg/h
+* ***Viktigt med daglig mätning***:; timdiures p kg, på inneliggande för att styra vätskebeh
+
+***Avföring kräkning***
+
+* normal avföring: begränsade vätskeförluster
+* diarrer o kräkiningar: ska mätas o ersättas
+* en diarre ca 1% kroppsvcikten: 10kg = 100mL/diarre
+
+***Feber***
+
+* öakr vätskeförlusterna med 10-13% för varje grad över 38
+
+
+
+#### Dehydrering
+
+* uppkommer när barnets vätskeförluster överstiger tillförsel vätskor
+
+***Risken dehydrering o hypovolemi större u yngre pat är***
+
+* större relativt vätskebehov p kg
+* hög andel av kroppsvätskan utgörs av ECV
+* mindre utvcklade homronella reglerssytem
+* mindre utvecklad njurfunktion
+
+##### ***Initial bedömning***
+
+* ***Cirkulatoriskt påverkat barn***: CRT (capillary refill time, kapillär återfyllnad), puls, ev BT
+* grad dehydrering: mild, svår
+* grad avförs utifrån: anamnes, status, 
+* ***Tecken***
+  * Insjunken fontanell
+  * sänkt medvetande
+  * insjunk ögon, inga tårar
+  * torra slemhinnor
+  * takupne
+  * förlängd kapillär återfyllnad
+  * takykardi, hypotension, perfier vasokonstrktion
+  * nedsatt hudtorgor
+  * oliguri
+  * plötslig viktförlust
+* ***Anamnestiskt***
+  * Debut av symptom?Diarréer? Kräkningar?Voluminösa? Frekvens?Trend sedan debut?Diures? Torra blöjor?Feber? Nivå?Tillförsel av mat & vätska? Viktnedgång i %?
+
+![qxyOVgOl2D](./imgs/ped_qxyOVgOl2D.png)
+
+
+
+##### Gradering och klassifikation
+
+* ***Isoton***. Na 135-145  mmol/L,  dvs normalt; ***stora majoriteten dehydreringar***
+* Hypoton.  Na <135 mmol/L
+* Hyperton.  Na >150 mmol/L
+* Natriumär den viktigaste  jonen i ECVNatriumhalten  styr vätskefördelningen  mellan ICV & ECV -osmotisk  kraft
+
+![uOEDErhiRq](./imgs/ped_uOEDErhiRq.png)
+
+##### dehydrering utifrån blodgas
+
+* ***pH***:  Kompenserad eller inte?
+* ***BE***: Metabol komponent? Oftast negativ
+* ***pCO2***: Respiratorisk komponent?
+* ***Na***: Typ av dehydrering?
+* ***K***: Njurfunktion?
+* ***Glukos***: Hyper-, normoeller hypoglykemi?
+* ***Laktat***: Metabol/cirkulatoriskkomponent?
+
+#### Vätskebehandling
+
+* ”Syftet med vätskebehandling är att återställa och bibehålla normal vätskebalans  och elektrolytsammansättning  samt kompensera  för vätskeförluster” ”När oral behandling är möjlig är det att föredra framför intravenös behandling
+
+![ieIfY8sw5h](./imgs/ped_ieIfY8sw5h.png)
+
+##### Tre behandlingsnivåer
+
+* ***Chockbehandling***: stabilisera cirkulationen
+* ***Rehydrering***: uppvätskning
+* ***Underhållsbehandling***: upprätthålla basalbehov o ersätta pågående förluster
+
+##### Chockbehandling
+
+* endast IV eller intraosseös admin
+* ***vätska***: ringer
+* ***volym***: 20mL/kg
+  * ***reduceras t 10mL***/kg: om <44v gestationsålder; trauma; pat med hjärtsjd
+* ***Infusionstid***: ges manuellt med spruta, pp 10-15mi
+* upprepas om cirk ej bedöms tillfredställande
+* överväg albumin 5% om en tredje bolus behövs
+
+
+
+##### Rehydrering
+
+* ***ges iv eller peroral/via sond***
+* ***vätska***: 
+  * ***iv***: ringer
+  * ***peroralt, via sond***: vätskeersättning, ORS
+* ***volym***: 5% av vikten
+* ***infusionstid***: 4h
+* ***rehydrering*** kan ibland behöva upprepas/förlängas ***före start av underhållsbehandling***
+
+##### Underhållsbehandling
+
+* Riktlinjer: vätskebeh t barn är aktiv åtgärd som fortlöpande behöver individualiseras, monitreoreras, omvärderas
+  * när oral eller enteral beh är mölig är det att föredra
+  * iv vätskor är lkm o vätskebeh ska ske på samma sätt om annan medicinsk beh
+  * det innebär att 
+    * indik för iv beh ska finnas
+    * beh anpassas  t individens behov
+    * beh dokumteras så att given vätska mngd o innehåll kan fastställas o följas
+    * effekt o evt biverknignar ska monitoreras adekvat
+    * vätskebaöans, vikt, plasmaelektroluter bör följas regelbundt
+
+##### Underhållsbehandling 
+
+###### vid isoton dehydrering
+
+* Ges iv eller peroralt, via sond
+* ***Vätska***
+  * iv
+    * barn >1v ålder: plasmalute lukos, 1a hand sedan 2018
+    * barn <1v ålder: glukos 10% - dag 0-3, utan Na tilslats, därefter försiktig upptrapp av Na tillsats
+    * prematura barn: enligt neo PM
+  * peroralt, via sond: utpumpad bröstmjölk, mjölkersättning, eller välling
+* volym, enl formler
+* infusionstid: 24h
+
+<img src="./imgs/ped_K8veJhXKfb.png" alt="K8veJhXKfb" style="zoom:50%;" />
+
+###### iv admin
+
+<img src="./imgs/ped_yMFJx0ivYP.png" alt="yMFJx0ivYP" style="zoom:50%;" />
+
+###### peroral, enteral admin
+
+<img src="./imgs/ped_R0YjvsEAx6.png" alt="R0YjvsEAx6" style="zoom:50%;" />
+
+
+
+##### Vätskebehandling översikt
+
+<img src="./imgs/ped_H9GI0mEpnb.png" alt="H9GI0mEpnb" style="zoom:50%;" />
+
+#### Hyperton dehydrering
+
+***definition***
+
+* Definition:Na ≥ 150 mmol/L.  Svår hypernatremi: ≥ 170 mmol/l
+
+***Typfallet uppkommer***
+
+* ej färdigutvecklad  njurfunktion –d v s patienter  <1 år
+* långdragen gastroenterit(>3-4 d)
+* stor viktnedgång  (>10%) 
+* sedan  införande  av rotavirusvaccinet  i det nationella  programmet  2019   har antalet  fall  av hypertondehydreringminskat  påtagligt  i Sverige
+
+
+
+***Mekanism***
+
+* innebär förlust kroppsvatten: ***inte primärt elektrolyter***
+* ***intialt*** sker extravasal vattenförlust, med resulterande hög natriumkonc i ECV
+  * e.g. diarre
+* ***sekundärt***: vandrar vatten fr ICV t ECV, med sekundär ICV dehydrering som följd
+* ***osmotiska partiklar***: bildas i kroppen, varför vattenflöden mellan ICV o ECV upphör
+* ***Resuktat***: förlust kroppsvatten, o ett hyperosmolärt tillstånd både extracellulärt och intracellulärt
+
+***Behandling***
+
+<img src="./imgs/ped_f8Rno9Q1yA.png" alt="f8Rno9Q1yA" style="zoom:50%;" />
+
+
+
+#### Hyperton dehydering
+
+* Na < 135 mmol/L  alt  låg serumosmolalitet(< 270 mOsm/kg)
+
+***Mekanism***
+
+* kan sekundärt till: diarrer, kräkningar, SIAD, iv vätsketerapi med hypotona vätskor, njurinsuff, diuretikabeh
+
+#### Akut hyponatremi
+
+* med eller utan samtidig dehydrering
+* ***Ökad risk***: barn med akut sjd har ökad risk för ***störd hormonbalans** med SIAD (inadekvat ökad frisättning ADH/vasopressin) med ökad vätskeretention o hyponatremi
+* ***Exempel tillstånd***: 
+  * bronkiolit, pneumoni
+  * CNS infek
+  * trauma
+
+***Risk följande förlopp***
+
+* snabbt inflöde vatten fr ECV t ICV
+* cellsvullnad
+* hjärnödem
+* ***hyponatremisk encefalopati***: ofta först vid Na <125mmol/L
+* inklämning/död
+
+***Symptom svår hyponatremi***
+
+* HV, illamående, kräkningar, trötthet, förvirring, kramper
+
+***Behandling***
+
+* ***Behandling av lätt t måttlig hyponatremi (Na 125-135mM)***
+  * reducering undethållsvätska, plasmalyte glukos, t 50-80% av normalt iv behov
+  * kontroll Na efter 4h. Risk för förvärrad hyponatremi
+* ***Behandling symptomgivande hyponatremi*** ofta <125mM
+  * iva vård
+  * hyperton natriumkoridlösnig, NaCl 3%, 2mL/kg, under 10-20 min
+  * upprepas vv
+
+# BUP
+
+<img src="./imgs/ped_JwsUbPIq8U.png" alt="JwsUbPIq8U" style="zoom:33%;" />
+
+<img src="./imgs/ped_pZZTOzEcDn.png" alt="pZZTOzEcDn" style="zoom:33%;" />
+
+<img src="./imgs/ped_RW6aJLBiTX.png" alt="RW6aJLBiTX" style="zoom:33%;" />
+
+
+
+<img src="./imgs/ped_qEi6M7GkKI.png" alt="qEi6M7GkKI" style="zoom:33%;" />
+
+
+
+
+
+<img src="./imgs/ped_6NWGJkbZda.png" alt="6NWGJkbZda" style="zoom:33%;" />
+
+
+
+<img src="./imgs/ped_DI9a0VsCXj.png" alt="DI9a0VsCXj" style="zoom:33%;" />
+
+
+
+
+
+
+
+<img src="./imgs/ped_GZV6kLb2yY.png" alt="GZV6kLb2yY" style="zoom:25%;" />
+
+<img src="./imgs/ped_10b6kGgxWO.png" alt="10b6kGgxWO" style="zoom:25%;" />
+
+
+
+
+
+<img src="./imgs/ped_l99iNMD2tp.png" alt="l99iNMD2tp" style="zoom:25%;" />
+
+<img src="./imgs/ped_le0sSUVDoM.png" alt="le0sSUVDoM" style="zoom:33%;" />
+
+
+
+
+
+<img src="./imgs/ped_mv355EO9i1.png" alt="mv355EO9i1" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_H2qB9v79vT.png" alt="H2qB9v79vT" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_AGH2ZPQieF.png" alt="AGH2ZPQieF" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_5bvmZmbMJb.png" alt="5bvmZmbMJb" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_ZhXQFu3ucJ.png" alt="ZhXQFu3ucJ" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_5JIp0iX1m3.png" alt="5JIp0iX1m3" style="zoom:25%;" />
+
+
+
+
+
+<img src="./imgs/ped_vOQVjxcX1u.png" alt="vOQVjxcX1u" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_MX6qr4LWP7.png" alt="MX6qr4LWP7" style="zoom:25%;" />
+
+
+
+
+
+<img src="./imgs/ped_kvI9KbAXxe.png" alt="kvI9KbAXxe" style="zoom:25%;" />![pL7Fb21nCU](./imgs/ped_pL7Fb21nCU.png)
+
+<img src="./imgs/ped_kvI9KbAXxe.png" alt="kvI9KbAXxe" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_pL7Fb21nCU.png" alt="pL7Fb21nCU" style="zoom:33%;" />
+
+
+
+<img src="./imgs/ped_L1kRgUAKxY.png" alt="L1kRgUAKxY" style="zoom:33%;" />
+
+<img src="./imgs/ped_kvI9KbAXxe.png" alt="kvI9KbAXxe" style="zoom:25%;" />![pL7Fb21nCU](./imgs/ped_pL7Fb21nCU.png)![L1kRgUAKxY](./imgs/ped_L1kRgUAKxY.png)
+
+
+
+
+
+
+
+<img src="./imgs/ped_Ax9gDAniBR.png" alt="Ax9gDAniBR" style="zoom:33%;" />
+
+
+
+
+
+<img src="./imgs/ped_kzhtkhhQ9m.png" alt="kzhtkhhQ9m" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_CpZ5V6FLS5.png" alt="CpZ5V6FLS5" style="zoom:25%;" />
+
+
+
+
+
+
+
+#### ! Ångestsyndrom
+
+Detta bör vi uppmärksamma
+
+<img src="./imgs/ped_6gH2OiYSow.png" alt="6gH2OiYSow" style="zoom:25%;" />![3VN0K9z7oC](./imgs/ped_3VN0K9z7oC.png)
+
+
+
+<img src="./imgs/ped_3VN0K9z7oC.png" alt="3VN0K9z7oC" style="zoom:25%;" />
+
+
+
+
+
+<img src="./imgs/ped_0amqdwuNiz.png" alt="0amqdwuNiz" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_RID9OJPdiu.png" alt="RID9OJPdiu" style="zoom:25%;" />
+
+
+
+
+
+
+
+<img src="./imgs/ped_2xffW3BB7V.png" alt="2xffW3BB7V" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_ESMgqVi8pi.png" alt="ESMgqVi8pi" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_uKi9yRy975.png" alt="uKi9yRy975" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_1zJu6SM5R6.png" alt="1zJu6SM5R6" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_GYTeMAJDD6.png" alt="GYTeMAJDD6" style="zoom:25%;" />
+
+
+
+
+
+<img src="./imgs/ped_4TGvHGOluA.png" alt="4TGvHGOluA" style="zoom:25%;" />
+
+
+
+
+
+<img src="./imgs/ped_wDcLW2cl7F.png" alt="wDcLW2cl7F" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_l13aqivbxd.png" alt="l13aqivbxd" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_DeGDsNY5Qf.png" alt="DeGDsNY5Qf" style="zoom:25%;" />
+
+
+
+#### Röda flaggor
+
+<img src="./imgs/ped_hsX8DmIjyI.png" alt="hsX8DmIjyI" style="zoom:25%;" />
+
+
+
+
+
+<img src="./imgs/ped_W8M69UDzEJ.png" alt="W8M69UDzEJ" style="zoom:25%;" />
+
+
+
+<img src="./imgs/ped_jZwG6zELeu.png" alt="jZwG6zELeu" style="zoom:25%;" />

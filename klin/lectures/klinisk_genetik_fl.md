@@ -1259,3 +1259,244 @@ $$
 
 
 <img src="./imgs/klingen_Wjc6D3F00f.png" alt="Wjc6D3F00f" style="zoom:75%;" />
+
+
+
+### Medfödda missbildningar
+
+#### Spina bifida
+
+<img src="./imgs/klingen_LEuX8FpJkt.png" alt="LEuX8FpJkt" style="zoom: 50%;" />
+
+#### Läpp, käk, gomspalt
+
+<img src="./imgs/klingen_Ec0YQqabcH.png" alt="Ec0YQqabcH" style="zoom:75%;" />
+
+<img src="./imgs/klingen_X2Qn8WlxJ1.png" alt="X2Qn8WlxJ1" style="zoom:75%;" />
+
+
+
+#### medfödda hjärtfel
+
+* VSD
+
+<img src="./imgs/klingen_vavGgD3gPA.png" alt="vavGgD3gPA" style="zoom:50%;" />
+
+
+
+#### Infantil hypertrofisk pylorusstenos
+
+* mkt högre risk hos pojkar
+
+![MbaEUpUoP6](./imgs/klingen_MbaEUpUoP6.png)
+
+
+
+
+
+#### Medfödd höftledsluxation
+
+* Flickor har mkt högre risk
+
+<img src="./imgs/klingen_M0l9gsXuPF.png" alt="M0l9gsXuPF" style="zoom:75%;" />
+
+<img src="./imgs/klingen_8oj8Ks62zN.png" alt="8oj8Ks62zN" style="zoom:75%;" />
+
+#### Hypospadi
+
+* med könet att göra
+
+![2iU4Iu4QGa](./imgs/klingen_2iU4Iu4QGa.png)
+
+#### Vridfot
+
+<img src="./imgs/klingen_aKGWG4hkmU.png" alt="aKGWG4hkmU" style="zoom:67%;" />
+
+### Upprepningsrisk, multifaktoriella missbildningar
+
+* Fler släktingar -> högre risk
+* allvarlig msisbildning -> större risk
+* ofta könsskillnader, e.g.:
+  * medfödd höftledslux
+  * pylorusstenos
+
+<img src="./imgs/klingen_kArXeYQrqb.png" alt="kArXeYQrqb" style="zoom:50%;" />
+
+
+
+### Genetisk testning?
+
+* En spec ***genetisk riskfaktor*** inte tillräckligt för orsaka sjd
+* en spec ***riskfaktor*** inte nödvändig för sjukdomsuppkomst
+* kombination riskfaktorer: genetisk + omgivnign/livsstil, orsakar sjd
+* kombo riskfaktorer olika hos olika patienter
+* majoritet riskfaktorer är okända
+
+## Genetisk vägledning
+
+### Allmänt
+
+* ad är det för tillstånd?•Vad innebär det för patienten? •Risken att det drabbar andra i patientens familj?•Är genetisk utredning möjlig?•Vilka val har patienten (uppföljning, behandling, prevention)•Vilka reproduktiva val finns? •Diskutera valen med patienten•Stödja patienten i deras va
+
+### Anamnes o status
+
+* vad har personen för bakgrund, förkunskaper?Vad har personen för socialt stöd?Hur ser familjehistorien ut?Medicinsk anamnes/statusPersonlighetRiskuppfattningLivssyn, etisk kompas
+
+### Diagnostiskt
+
+* Rätt diagnos.......•Anamnes •Status•biokemi, röngten, PAD, obduktion•olika former av databaser•men även olika former av genetisk diagnostik–men: det behövs en bra fenotypning= bra anamnes och status för att kunna bedöma genetiska förändringar.
+
+#### personen
+
+* Vad är det för person?Vet patienten varför de är här?-får en uppfattning om förkunskaper, hur de har uppfattat frågan och vad de (eller läkaren som remitterade) vill vetaSocial situation: Partner? Arbete? Utbildning
+
+### gällande upprepningsrisk
+
+* m frågan även gäller upprepningsrisk•Önskar de flera barn?•Hur tänker de kring risken att få ett sjukt barn?•Öppna frågor, ej dömande
+
+### Riskuppfattning
+
+* RiskuppfattningVarförkomfråganuppjust nu?(Andraerfarenhetersompåverkar?)Ex näravänhar gåttborticancer....Vadärdu (mest) oroligför?Om du fårhöraattdu har enökadrisk, hurtanker du kringdet?
+* ad är sannolikheten att en sjukdom som förekommer hos 1/1 000 000 kommer att hända igen? 
+
+### Pedigree, familjehistoria
+
+* Pedigree/familjehistoria= familjehistoriaInkluderar: etnisk bakgrund, KonsanguinitetMissfallTidiga dödsfallàGer kunskap om vad patienten vet om ett ev ärftligt tillstånd
+
+<img src="./imgs/klingen_Jv49p1DSe9.png" alt="Jv49p1DSe9" style="zoom:50%;" />
+
+### Ursprung
+
+
+
+<img src="./imgs/klingen_LNZjbETZ9v.png" alt="LNZjbETZ9v" style="zoom:50%;" />
+
+#### Svenska ortnamnsjukor
+
+* Anundsjösjukan: Huntington
+* Arjeplogsjukan: Porfyri AIP
+* Skellefteåsjukan: familjär amyloidos
+
+<img src="./imgs/klingen_o9UrX21iut.png" alt="o9UrX21iut" style="zoom:50%;" />
+
+#### thlassemi
+
+<img src="./imgs/klingen_OHXI5wf4gh.png" alt="OHXI5wf4gh" style="zoom:33%;" />
+
+#### Exempel ärftlgia sjd folkgrupper
+
+![qOrf10WqmA](./imgs/klingen_qOrf10WqmA.png)
+
+
+
+### Konsanguitet - kusingifte
+
+<img src="./imgs/klingen_baqLzNo3m1.png" alt="baqLzNo3m1" style="zoom:33%;" />
+
+
+
+<img src="./imgs/klingen_W64bmZ6dKt.png" alt="W64bmZ6dKt" style="zoom:50%;" />
+
+
+
+### Exempel
+
+* Remiss: En ung flicka har opererats för gomspalt. Hon har oligodontioch tänderna och tungan har annorlunda form. Ansiktet är lite platt. Fingrarna är mycket korta.•Tacksam genetisk vägledning
+  * Vilka frågor pats föräldrar har
+  * vilken info tänkeru ge
+* Frågor
+  * •Vilket tillstånd har min dotter? •Varför har hon den? (Är det mitt fel?)•Vad är prognosen?•Finns någon särskild behandling?•Kan det hända igen? (om vi får flera barn/ om patienten får barn?)
+* Multipla Oral-facial-digital syndrom med olika nedärvningsmönster ........
+  * –X-bundet dominant (<1% to 50% upprepningsrisk)
+  * –Autosomalt recessive (25% upprepningsrisk)
+  * –Sporadisk (låg upprepningsrisk)
+* àGenetisk utredning
+  * Testa föräldrarna 
+    * –Kan leda till en diagnos hos någon som anser sig vara frisk
+    *  –Skuld över att ha fört över anlaget till sitt barn
+    * –Men kan också leda till viktig information för uppföljning eller reproduktiva val
+
+<img src="./imgs/klingen_W4SHHxTXxp.png" alt="W4SHHxTXxp" style="zoom:67%;" />
+
+<img src="./imgs/klingen_6YJx8lxNrL.png" alt="6YJx8lxNrL" style="zoom:50%;" />
+
+<img src="./imgs/klingen_IBJVoV3b9O.png" alt="IBJVoV3b9O" style="zoom:50%;" />
+
+#### Upprepningsrisken
+
+* GISSA ALDRIG: läs på, fråga en kollega, frågeremiss, konsulttelefon
+
+#### Genetisk utredning
+
+* genpanel: 16 kända gener: patogen variant in OFD1, X-kromosomen
+
+#### Förstå fakta kring tillståndet
+
+* Förstå fakta kring tillståndet
+* Ärftlighet: X-bunden dominant, variabel expressivitet hos flickor 
+* Risk i en framtida graviditet är 50% att barnet ärver mutationen
+* Men manliga foster med mutation överlever inte. 
+* Av födda barn kommer 
+  * 33% att vara friska flickor, 
+  * 33% flickor med symtom och 
+  * 33% friska pojkar
+
+#### Reproduktiva val
+
+* Reproduktiva val 
+* Avstå från barn 
+* Ingen testning
+* Prenataldiagnostik (moderkaksprov) under graviditet •
+* Pre-implantatorisktgenetisk diagnostik (PGD)
+* Äggdonation
+* Adoption
+* Föräldrarna kan tycka olika
+
+#### Uppföljning
+
+* Uppföljning•Multidisciplinärt team för pat.•Pat. fick en extra resurs i skolan.  •Mor remitterad till njurkontroll: ultraljud njurar visade multipla cystor. Hon hade även en viss påverkan på njurfunktionen
+
+### Genetisk vägledning
+
+* Kan hjälpa familjer att: 
+  * •Ta informerade beslut om framtida graviditeter-
+  * Kan jag få friska barn?•
+  * Få korrekt information om diagnosen, prognosen, lämplig uppföljning för att undvika eller minska komplikationer hos patienten
+  * •... och ibland hos släktingar
+  * -t.ex. njursvikt vid OFD1
+  * •Förstår VARFÖR det hände-inte deras fel
+
+### Riskuppfattning
+
+* Mkt subjektivt
+* -Jämfört med populationsrisken?•Risk för vem som helst att få ett barn med en medfödd missbildning:1:30 (3.3%)
+* ***Relativrisk***: Din risk attfåettbarn med enmedföddmissbildningär100% högreänandraföräldraparisammaålder
+* ***Absolut risk***: Din risk attfåettbarn med enmedföddmissbildningär5%
+* Medicinsk risk –Faktabaserad
+* Känslomässig risk -Erfarenhetsbaserad -Sjukdomens svårighetsgrad-vem har insjuknat?
+
+#### Faktorer som påverkar riskuppfattning
+
+* idigare erfarenheter med diagnosen
+* •Tajmingen för delgivande av information•
+* Socialt stöd•
+* Ålder
+* Förväntningar•
+* Vägledarens uppfattning 
+
+### Kalle, 2åå 
+
+#### Hörselnedsättning
+
+* Har precis fåttdiagnosenmedföddhörselnedsättningAutosmaltrecessivmed bi-alleliskamutationeriGJB2. 
+* Hans föräldrarärnormalhörandebärareav varsinmutation
+* Upprepningsriskenär25% (1/4) 
+  * •Är det högt eller lågt? 
+
+#### hjärtfel
+
+* Kalle, 2 årHar precis avlidit i hjärtsvikt efter flera månaders vård på IVA.Han var sjuk länge med failureto thrive, påverkad tillväxt, trötthet, matningssvårigheter, apnéer, synkope.Hans hjärtsjukdom orsakades av en nymutation i MYH7. Upprepningsriskenär0.5%, (1/200).•Är det högt eller lågt?
+
+### Sammanfattning
+
+* •Vem utför genetisk vägledning? –All personal inom hälso/sjukvård gör! •Varför är det viktigt? –Upprepningsrisk–Individ-anpassad uppföljning –Kunskap ger mak

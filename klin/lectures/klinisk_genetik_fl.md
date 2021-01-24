@@ -1500,3 +1500,269 @@ $$
 ### Sammanfattning
 
 * •Vem utför genetisk vägledning? –All personal inom hälso/sjukvård gör! •Varför är det viktigt? –Upprepningsrisk–Individ-anpassad uppföljning –Kunskap ger mak
+
+## Genetiska neuromuskulär sjukdomar
+
+### Allmänt
+
+***Definition***
+
+* en neuromuskulär sjd är ett syndrom som påverkrar ***perifera nervssytemet, PNS***, PNS inkluderar muskler, neuromuscular junctions, prifera nerver i extremiteter, och motorneuron i ryggmärgen, spinalt. 
+
+![rbIjbR3gmi](./imgs/klingen_2_rbIjbR3gmi.png)
+
+***Etiologi och Patofysiologi***
+
+* Genetiska sjukdomar
+* annan etiologi: e.g. autoimmunitet
+
+### Klinisk bild
+
+#### Hypotoni - Floppy infant
+
+![PwMDRe4ls4](./imgs/klingen_2_PwMDRe4ls4.png)
+
+
+
+#### Artrogrypos 
+
+* Sekundärt t nedsatt rörlighet intrauterint
+
+![qecvLnERf9](./imgs/klingen_2_qecvLnERf9.png)
+
+#### Muskelsvaghet
+
+![DBQyQaUKVE](./imgs/klingen_2_DBQyQaUKVE.png)
+
+
+
+***Kliniska kännetecken***
+
+* Trip alot
+* feet slap the ground when walk
+* clumsy
+* walk funny 
+* cant run
+* feet high arches
+
+#### Kännetecken
+
+* Typiska statusfynd: 
+  * avvikande reflexer
+  * muskelatrofi
+  * muskelhypertrofi
+  * svaghet
+  * avvikande muskeltonus
+
+#### Lokalisation svaghet
+
+![YY4MeLzoP1](./imgs/klingen_2_YY4MeLzoP1.png)
+
+### Diagnostik
+
+* Anamnes, status
+* neurofysiologi
+* Labb: CK etc
+* muskelbiopsi: histologi, proteininfärgningar
+* genetiska analyser: Detta beror på vad för neuromuskulär sjd som patienten drabbats av (e.g. myasteni, charcot marie tooth, eller om det är en myopati exmpelvis)
+
+#### Vilken Genetisk analys ska man välja
+
+* ***Klinisk bild, fenotyp***
+* Påverkan enskilda gener: dystrofia myotonika, 
+* Multipla gener involverade: myasteni, CMT, hypotoni UNS (neuromuskulär sjd)
+
+***Tillgängliga analyser***
+
+* Riktad analys
+* Genpanel: 5-1000 gener
+* Exom elle Genomsekvensering
+
+***Genpanel för neuromuskulära sjd, NMD-panel***
+
+* 880 gener
+* patientålder: 0-73 åå
+* klinisk bild
+  * myopati
+  * hypotoni UNS
+  * polyneuropati (CMT)
+  * myasteni
+  * SMA
+* Inga fynd 53%, patogena fynd 27%, oklara fynd 20%
+
+<img src="./imgs/klingen_2_2Ocme2kMGS.png" alt="2Ocme2kMGS" style="zoom:50%;" />
+
+### Mutationstyper
+
+* Trinukleotid repeats
+* Single nukleotid variationer: punktmutationer
+* Små deletioner, duplikationer i en gen
+
+#### Antalet gener involverade:
+
+* Spinal muskelatrofi: 30 gener
+* Neuropati, charcot marie tooth: 105 gener
+* myasteni: 14 gener
+* myopatier: 125 gener (inkl för myopatier,muskeldystrofier, dystrofia myotonika, mitokondrie sjd, metabola sjd)
+
+### Dystrofinopati
+
+* inkluderar: Duchennes muskeldystrofi, Beckers muskeldystrofi
+
+***Etiologi och Patofysiologi***
+
+* ***Dystrophin***: är ett protein som binder actin, aktin, indirekt med extracellulära matrix. Mer specifikt binder dystrofin till aktinet direkt, varpå andra änden binder med membranbundet protein som i sin tur har en kontakt med ECM. 
+  * Det är därför ***avvikelser*** i denna genen som ger problemet. 
+  * ***deletion/duplikation***: majoriteten har detta i genenn
+  * 10-30% har istället en punktmutation
+* ***Beckers***: Proteinet har en ***in-frame*** mutation, varpå man får ett partiellt funktionerande protein. Brofunktionen är bibehållen
+  * ***ger en mildare fenotyp***
+* ***Duchennes***: ***Out-of frame mutation***, ger ett prematurt trunkerat protein. Brofunktionen är förlorad, ger en svår fenotyp.
+* 30% är de novo mutationer
+
+***Kliniska kännetecken***
+
+* Kliniska bilden drivs av den genetiska avvikelsen.
+  * ***Duchennes***: om proteinet blir helt förstört: e..g stop-mutation eller en deletion, förstår läsramarna (Frameshift
+  * ***Becker***: om proteinet har kvarvarande funktion, e.g. missense mutation eller deletion som ej förstör läsramen. 
+
+***Diagnostik***
+
+* Genetisk diagnostik: MLPA och sekvensering. 
+
+  * deletion exon 45-50
+
+  
+
+***Nedärvningsmönster***
+
+* ***X-bunden recessiv***: Om mamman har det och får en son, XY, kommer det enbart uttryckas fr X kromosomen som är den påverkade, varpå en son med duchennes/Becker. 
+
+***Behandling***
+
+* Genterapi, vid Duchennes muskeldystrof: ***antisense-medierad exonskipping***
+
+<img src="./imgs/klingen_2_MB3bYBBYih.png" alt="MB3bYBBYih" />
+
+
+
+<img src="./imgs/klingen_2_u9rrgiHShd.png" alt="u9rrgiHShd" style="zoom:50%;" />
+
+![xnQlU9GnFq](./imgs/klingen_2_xnQlU9GnFq.png)
+
+### Fall - svår hypotoni - Dystrofia myotonika
+
+* Nyfödd Pojke
+  * remiss för genetisk konsultation
+  * hypotoniutredning
+  * önskad udnersök: DNA analys av dystrofia myotonika + CGH array
+  * pojke född i v32+0. ttvå friska äldre syskon. en avbruten grav i v 17 opga hjärmissbildning
+  * ingen känd konsaninitet. 
+  * polyhydramnios samt misstänkt spetsfot på UL
+  * med tanke på polyhydramniosen, tappningen för att försöka förlänga tiden i magen.
+  * vid tappning prov t er för qf-PCR, samt CGH array
+  * framföds 20/3, dagen efter tappning
+  * påtagligt hypoton direkt efter födsel, tas direkt t barnbordet o intuberas vid 1.5h ålder
+  * ligger fortsatt i respirator
+  * drar andetag i resp sj,
+  * rör sig lite granm en fortsatt hypoton
+
+### Dystrofia myotonika
+
+***Etiologi och Patofysiologi***
+
+* ***DMPK genen***
+* trinukleotid repitioner: (CTH)n repeats i slutet av genen
+* n 150-2000: moderat-svåra symptom
+* n 50-150: milda symptom
+* n 5-30: normal
+* ***Autosomalt dominant***
+
+***Kliniska kännetecken***
+
+* ***Mild***: katarakt, mild myotoni, ålder onset 20-70år, mortalitet 60 till normal livsspann
+* ***Klassisk***: svaghet, myotoni, katarakt, skallighet, hjärtarrytmier, andra, onset 10-30åå, mortalitet 48-55åå
+* ***Kongenital***: infantil hypotoni, respiratorisk brist, intellektuella svårigheter, klassiska tecken förekommer hos vuxna, onset födsel-10åå, mortalitet 45åå
+
+![41vxjmU5zH](./imgs/klingen_2_41vxjmU5zH.png)
+
+
+
+<img src="./imgs/klingen_2_mH17p3L4UN.png" alt="mH17p3L4UN" style="zoom:50%;" />
+
+
+
+### Fall - kvinna tetrapares, 30åå
+
+* 30åå kvinna, tetrapares
+  * kugelberg Welanders sjukdom? annan nervsjd
+  * önskad genetisk test, SMA
+  * debut 10åå, fått diagnos enl ovan i rumänien. tetraparetisk med ffa svaghet proximalt fr 20åå rullstosburne
+  * har skolios
+  * ingen EKG påverkan eller synoperkan
+  * hyugglig funk i hö hand, begränsad kraft i vä arm
+  * ingen känselpåverkan
+  * EMG i 1982, o 1994
+  * har varit svårvärderade pga uttalade symptom
+  * men motsäger inte diagnosen
+  * skulderbäckendystrofi har sså övervägt
+  * EMG har visat neurogena förändringar
+  * ***Mutationsanalys***: visade deletion exon 7 och 8 i SMN genen, visar att dessa exoon är deleterade. således är deletion påvsidav, vilekt visar att pat har spinal muskelatrofi SMA
+
+### Spinal muskelatrofi (SMA)
+
+***Etiologi och Patofysiologi***
+
+* Autosomal recessiv
+* andra vanligaste autosomala recessiva sjd efter cystisk fibros
+* ! bärarfrekvens 1:50
+* incidens 1 på 15000
+* ***Genen, SMN1 gen***: survival of motor neurons gene
+* ***Deletion homozygot***: 95-98% av SMA patienter har homozygot deletion av exon 7 o 8, i SMN1 genen
+* ***Compound heterozygot:*** 2-5% har deletion på ena genkopian o en punktmutation i andra, ***compound heterozygot***
+* ***Svårighetsgrad av sjukdomen***: beror på hur många genkopior man har av en annan gen, nämligen SMN2
+* ***Expression SMN1 o SMN2***:  Verkar som att SMN1 och SMN2 krävs för att bilda SMN proteinet, varpå påverkan av båda påverkar nivåerna av det givna proteinet, varpå fenotypen som i SMA (spinal muskelatrofi)
+
+***Kliniska kännetecken***
+
+* ***SMA typ 1: Werding Hoffman***
+  * svåraste formen av SMA
+  * debut fr födelse t 6 månader
+  * dör innan 2åå
+* ***SMA typ 2: intermediär***
+  * symptom fr 6-18månaders ådler
+  * överlevnad över 4åå
+* ***SMA typ 3: Kugelberg-Welander***
+  * Debut över 2åå t vuxen ålder
+
+<img src="./imgs/klingen_2_fT3ChG4nYt.png" alt="fT3ChG4nYt" style="zoom:50%;" />
+
+
+
+<img src="./imgs/klingen_2_UkOlVyt4J1.png" alt="UkOlVyt4J1" style="zoom:50%;" />
+
+
+
+### LGMD-2l, limb-girdle muscle dystrophy 2l
+
+* ***Epidem***: LGMD2l är den vanligaste LGMD formen i sverige
+* ***autosomalt recessiv***
+* ***genen***: Leu276lle i FKRP genen, founder mutation, ca 1/100 bärare
+* ***Debut***: sjukdomen visar sig oftast i tonåren, 5-25åå, med svaghet som är mer uttalad i armarna än i benen, o medför alltid pseudohypertrofi av vadmusklerna
+* ***CK***: CK stegring tidigt tecken
+* ***hjärta, andning:*** med tiden får ungefär hälften hjärtpåverkan och påverkan på andningsmusklerna
+
+
+
+### CMT1A
+
+* Charcot-Marie-Tooth typ 1a, utgör 70-80% av alla fall av CMT1
+* ***Kromosom och PMP22***: CMT1A orsakas av en duplikation av en region på korta armen av kromosom 17, inkluderar ***genen PMP22***
+* ***epidem***: 
+  * ca 70-80% av patienter med CMT1A har ärvt mutationen fr en förälder, 
+  * o övriga 20-30% har de novo mutation
+
+
+
+## Ärftliga metabola sjukdomar
+

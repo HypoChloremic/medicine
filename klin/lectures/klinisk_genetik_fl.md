@@ -1,7 +1,3 @@
-
-
-
-
 # Klinisk genetik
 
 ## Allmänt
@@ -1766,3 +1762,686 @@ $$
 
 ## Ärftliga metabola sjukdomar
 
+### Allmänt
+
+* Centrum för medfödda metabola sjukdomar, CMMS
+* biokemiska + genetiska utredningar, behandlingskontroller
+* nationellt register för uppföljning, RMMS
+* PKKU-laboratoriet: 115 000 svenska nyfödda/år, 25 sjukdomar man letar efter, 90 barn upptäcks varje år
+
+#### helgenomsekvensering
+
+* Miljontals varianter, vissa som redan är kända, andra som forskas på
+
+#### Laboratoriediagnostik
+
+* ***Rutinlabb, kemlabb***
+  * B-glukos
+  * P-ammoniumjon
+  * P-laktat
+  * B-ketoner
+* ***Biokemiska specialanlyser, screening***
+  * U-organiska syror
+  * P-acylkarnitiner
+  * P-U-CSF-aminosyror
+  * mfl
+* ***Riktade biokemiska analyser***
+  * ***Enzymaktivitetsmätningar***: lymfo-leukocyter, fibroblaster
+  * ***mitokondrieutredning***: muskelbiopsier
+* MR
+* genetik, inkl helgenomsekvensering
+
+### Medfödda metabola sjd
+
+* defekt omsättning av små molekyler, metboltier: nyföddhetsscreening
+* mitokondriella sjd
+* defekt omsättning makromolekyler
+
+<img src="./imgs/klingen_2_na43ad1ozA.png" alt="na43ad1ozA" style="zoom:50%;" />
+
+#### Defekt omsättning små molekyler, metaboliter
+
+* Intoxikation och eller hypoglykemi
+* ofta intermittenta symptom
+  * Huvudvärk
+  * ataxi
+  * fövirring
+  * medvetslöshet
+  * ofta kognitivt påverkad patient
+* E.g.
+  * ureacykeldefekter
+  * betaoxidationsdefekter
+  * PKU
+
+### Metabola riskperioder
+
+* Neonatalperioden
+* infektioner
+* fasteperioder
+* fysisk ansträngning
+* stress
+
+### Fall - Pojke 7åå inkommer medvetslös
+
+* Infektion? meningit? förgiftning? metabol sjd?
+* anamnes: utvecklingsförsenad, balanssvårigheter, varit medvetslös tidigare, syskon dött
+* ***Labb***: vääldigt hög ammoniak 950mikroM - skadar hjärnan, 
+  * U-orotsyra högt, 
+  * P-aminosyror: högt glutamin o alanin
+  * U-aminosyror: argininosuccinat
+* Därför: ***Ureacykeldefekt: ASL-brist*** (argininosuccinate lyase)
+* Familj berättar: 
+  * född vegetarian, vägrar äta kött
+  * älskar lingonsylt: kilovis (innehåller natriumbensoat, ett konserveringsmedel, som denna metabola sjd behöver, i.e. har han självmedicinerat sig sj)
+
+<img src="./imgs/klingen_2_3NOzqHfrok.png" alt="3NOzqHfrok" style="zoom:67%;" />
+
+### Ureacykeldefekt - ASL brist
+
+***Etiologi och Patofysiologi***
+
+* Autosomalt recesiv sjd: 1:200k ?
+
+***Behandling***
+
+* ***akut dialys***
+* ***proteinbegränsning***
+* ***arginintillskott***
+* ! ***natriumbensoat***: detta är ett konserveringsmedel som kan återfinnas i lingonsylt (lyssna på patienterna ! )
+
+***Uppföljning***
+
+* Genetisk vägledning, familjeutredning
+* 
+
+### Fall - 2åå
+
+* Kräkts, tappat medvetande
+* okontaktbar
+* ätit klent pga infektion emed feber
+* i ambulans ntoeras B glukos 1.6, får glukosdropp, vaknar till
+* U-aorganiska syror, P-acylkarniner: bild som vid MCADD medium chain acyl CoA dehydrogenase deficiency, 
+
+***MCADD***
+
+* Medium chain acyl-CoA dehydrogenase deficiency
+
+***Etiologi och Patofysiologi***
+
+* Autosomalt recessiv sjd, 1:10k
+
+* Vi är på beta-oxidationen, om pat inte har tillförsel glukos, 
+
+  * kan hon inte ta till fettreserver och kompensera, 
+  * kan därför inte bilda ketonkroppar
+
+* Det är olika enzymer som angriper de olika långa fettsyrorna, där 2 kolatomer i taget som oxideras
+
+  * det är medium chain som är den vanligaste bristen i Sverige
+
+* Så länge man inte får hypoglykemi o har kontinuerligt glukosintag är det bra. 
+
+  
+
+***Behandling***
+
+* Akut glukostillförsel
+* undvika fasta, regelbundna måltider
+* undvika katabolism
+* genetisk vägledning, familjeutredning
+* Man kan helt förebygga svåra skador med bra behandling som ovan
+
+
+
+### Fenylketonuri PKU
+
+***Etiologi och Patofysiologi***
+
+* Kan inte omsätta fenylalanin (aminosyra)
+* när vi äter stora proteiner, bryts ned t aminosyror som fenylalanin
+* fenylalanin bryts normalt t tyrosin av fenylalanin hydroxalas, o viktigt för katekolaminer o melanin
+* om man inte kan bryta ned den -> fenylketoner, varpå man får fenylketonuri
+
+
+
+<img src="./imgs/klingen_2_i8wSjjL4cf.png" alt="i8wSjjL4cf" style="zoom: 33%;" />
+
+
+
+***Kliniska kännetecken***
+
+* Normal vid födseln
+* mental retardation
+* muskelsvaghet
+* kramper
+* dålig pigmentering: melaninet kmr fr tyrosinet, inget allvarligt symptom, men man känner igen de
+* beteendestörningar: aggressivitet (ngo för att de har plågsam huvudvärk etc)
+* normal livslängd
+
+***Upptäckten***
+
+* Droppade pigment i blöjan för att se om ketoner i blöjan, diffa diabetes, men färgomslaget va ngt han aldrig sett, varpå ny sjukdom upptäckts, d va fenylketonuri
+
+***Diagnostik***
+
+* PKU-screening: 
+
+***Behandling***
+
+* Inte belasta med fenylalanin: proteinfattig kost samt 
+* tillräckligt av andra aminosyror utan fenylalanin
+* vitamin o mineralier
+* BH4
+* behandlingskontroller: 
+  * fenylalanin 150-350 mikroM
+  * p-aminosyror: man följer aminosyrorna hos patienten. 
+* livslång beh
+* Normal utv vid bra beh
+
+
+
+***Uppföljning***
+
+* Följer P-aminosyror, där man får fram koncentrationsvärden för alla aminosyror,
+
+<img src="./imgs/klingen_2_R8v3NzYB9C.png" alt="R8v3NzYB9C" style="zoom: 33%;" />
+
+
+
+### Nyföddhetsscreening
+
+* Syftet: hitta arn med behandlingsbara sjukdomar innan permanenta skador,
+* Omfattande verksamhet, kriterier vilka sjd man ska screena för, Wilson o Jungner kriterierna, viktigaste:
+  * ska finnas behandling
+  * finans lämpligt test: screening är svårt, träffar aldrig 100% om screenar en befolkning, blir aldrig helt perfekt, bill inte missa barn, blir alltid ngn falsk-positivt, drf bra beredskap för att ta hand om familjerna som drabas i onödan. för att snabbt uppföljande brob
+  * screening ska vara en kontinuerlig process: ansvariga för att följa prestandan av screeningen. 
+
+#### Programmet
+
+* Informaton t sjukvård, blivande föräldrar
+* prov >48 timmar efter födsel
+* analys på PKU labbet, CMMS
+* Telefonsamtal t hemsjukus, specialistteam
+* utredning, verifierande prover, 
+* behandling
+* återraport t PKu labbet, kvalitetsregister RMMS, behandlingskontroller
+
+#### Sjukdomar i programmet
+
+* PKU: 1:17k
+* galaktosemi: 1:100k
+* ! kongenital hypothyreos: 1:3k, den enda av sjukdomarna som inte är monogen, kan vara en monogen, men oftaast anläggningsdefekt, multifaktoriell
+* CAH: 1:10k
+* biotinidasbrist: 1:50k
+* Efter intro tandemmasspektrometri, 2010:
+* Betaoxidationsdefekter
+  * CUD
+  * CPT1
+  * CACT, CPT2
+  * VLCADD
+  * MCADD
+  * LCHADD
+  * GA2
+* Organiska acidurier
+  * IVA
+  * PA
+  * MMA
+  * GA1
+  * BKT1
+  * TYR1
+* Ureacykeldefekter
+  * CIT
+  * ASL
+  * ARG
+* Aminosyreomsättningsrubbning
+  * pku
+  * msud
+  * hcy
+* SCID: severe combined immunodeficiency, 
+
+#### Mekanistiskt
+
+* Tandem mass-spektrometri, nov 2010
+  * Tidigare behövde man maskin för varje prov, men med denna kan man screena för väldigt  många	
+  * ökade fr 5 till 24 sjukdomar
+  * tar en blodfläck för att kunna analysera
+
+#### SCID
+
+* severe combined immunodeficinecy, 
+* inkluderas i nyföddhetscreeningen
+* hög dödlighet
+* benmärgstransplantation
+
+### Mitokondriella sjukdomar
+
+* Det man menar med mitokondriella sjukdomar = andningskedje defekter, elektrontransportkedjan
+  * tar emot elektroner o transportera de läöngs med elektronkedje komplexet
+  * därför heter oxidativ fosforylering.
+  * Tar emot elektroner fr citronsyracykeln, som kmr fr glukosomsättnig eller fettsyreomsäöttning
+
+***Kliniska kännetecken***
+
+* Symptom av energibrist, ofta tsmns laktacidos
+* alla organ, ofta
+  * CNS
+  * muskulatur
+  * hjärta
+  * lever, benmärg, tarm, njruar
+* sjukdomsdebut vid vilken ålder som helst 
+
+***Etiologi och Patofysiologi***
+
+* Hjärta: conduction disorder ,WPW syndrom, kardiomyopati
+* Muskler: svaghet, fatighue, myopati, neuropati
+* Hjärna: seizures, myokloni, ataxi, stroke, demens, migrän
+* Kolon: pseudo-obstrktion
+* inneröra: sensoneurla hörselförlust
+* blod: pearsons syndrome
+* njure: fanconis syndrome, glomenopati
+* pankreas: diabets
+* lever: hopopati
+* öga: opticus neuropati, oftalmoplegi, retinopati
+
+#### Lebers hereditära optikus neuropati
+
+* LHON
+* Plötslig blindhet hos unga vuxna: ofta börjar ena ögat, sen kommer t andra ögat osså
+* förstår ofullständigt
+
+***Etiologi och Patofysiologi***
+
+* alltid nedärvt via mamman: visar sig vara mitokondriellt. 
+* muterad 11778 G>A: i ND4 vid LHON
+
+
+
+#### Mitokondriellt
+
+* mtDNA: innehåller 37 gener
+  * 2rRNA
+  * 22tRNA
+  * 13 proteinkodande
+* ***Heteroplasmi***: Cellerna har ju tusenntals kopior av mitokondrier. därför kan varje cell innehålla olika många av denna muterade mitokondrie, därför ***heteroplasmi***. 
+  * Beror på hur mkt av deet muterade man har, 
+  * em ***tröskeleffekt***
+  * svårt att bedöma upprepningsrisken därför
+* ***Andningskedja***: 
+  * dels proteienr nukleärt, klassiskt autosomalt recessiva, 
+  * samt komponenter fr mtDNA som är andra endärvningsmönster
+
+***Utredning***
+
+* Räcker inte med blodprov: heteroplasmin olika olika vävnader
+* ***Klassiskt***: muskelbiopsi, golden standard
+  * ATP syntes i levande mitokondrier
+  * aktiviteter av enzymkomplexen
+  * morfologi
+  * sammansättnign andningskedjan
+  * genetisk analys inkl mtDNA fr muskel
+* Man tar alltså dit patienten för detta
+
+<img src="./imgs/klingen_2_3uMKQFusMh.png" alt="3uMKQFusMh" style="zoom:33%;" />
+
+#### Fall 15 åå pojke - MELAS
+
+* 15åå pojke 
+
+  * Autistiska drag, ADD
+  * inlärnignssvårigheter
+  * kortvuxne
+  * sen pubertet
+  * central hypothyreos
+  * hypertrof kardiomyopati
+  * muskulär hypoton
+  * Labb: förhöjt plasma laktat
+  * MRI och MRS: metabol stroke vä temporallob, förhöjt Laktat, 
+    * ***metabol stroke följer inte kärlens utbredning***
+  * Muskelbiopsi, find attached belof
+  * Tester: testar mitokondrierna i lösningar, aktivitet i andningskedja, o genomik
+
+  
+
+<img src="./imgs/klingen_2_KckQtczIHr.png" alt="KckQtczIHr" style="zoom:50%;" /> 
+
+<img src="./imgs/klingen_2_aPYKXjxgU5.png" alt="aPYKXjxgU5" style="zoom:50%;" />
+
+
+
+#### MELAS
+
+***Behandling***
+
+* Ingen specifik behandling
+* dichloracetic acid DCA mot laktacidos
+* arginine, q10
+
+***Uppföljning***
+
+* Maternell nedärvning
+* heteroplasmi, olika halt av mutationen i olika vävnader
+
+
+
+#### Flicka 3åå - PDHC brist
+
+* 3åå flicka
+  * uppfödnignssvårigheter
+  * mikrocefali
+  * hypoplastisk corpus callosum vid MR
+  * försenad utv
+  * frekenta infektioner
+  * förhöj laktat
+  * ***Muskelbiopsi***: visar PDHC-brist, pyruvat dehydrogenas brist, vit mitkokondriell ATP produktion,
+    * vanlig orsak
+  * ***SKA ABSOLUT INTE GE GLUKOS T DESSA PATIENTER***
+
+<img src="./imgs/klingen_2_GK6ddGP19w.png" alt="GK6ddGP19w" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/klingen_2_AWxUHBZHJk.png" alt="AWxUHBZHJk" style="zoom:33%;" />
+
+
+
+#### PDHC brist
+
+* Pyruvat dehydrogenas brist
+
+***Etiologi och Patofysiologi***
+
+* ***Ska ej ge glukos***: iom ingen PDH, kommer man inte kunna metabolisera pyruvatet, som istället konverteras t laktat
+* ***Genetiskt***: det är många gener som kan ge PDH-brist, men vanligaste är PDHA1
+
+***Behandling***
+
+* Ketogen kost! För att hon kan använda ketonkroppar och fett
+
+***Uppföljning***
+
+* Genetisk vägledning
+  * flera olika gener
+  * X-bbunden form, vanligast PDHA1
+  * flickor har ofta symptom
+
+#### Tiaminomsättningssjukdomar
+
+* Tiaminpyrofosfat TPP är kofaktor för PDHC
+* en ny grupp behandlingsbara sjukdomar
+
+***Etiologi och Patofysiologi***
+
+* Vi tar upp tiamin fr kosten
+* måste konverteras till TPP via TPK1, 
+* sedan transporteras in i mitokondrien
+* varpå sedan agera kofaktor!
+
+<img src="./imgs/klingen_2_OuMQg5LQZI.png" alt="OuMQg5LQZI" style="zoom:33%;" />
+
+
+
+#### Pojke 5v, 
+
+* pojke 5v
+  * allmänpåverkad, aptitlös i sbd, med influensainfek
+  * kramper 2 dagar senare
+  * utvecklar hjärnskador, ***tecken energibrist***, MR
+  * avlider vid 2 månader, bedömt som komplikation t influensa
+  * Yngre bor föds senare, varpå samma bild 5 veckor
+    * MR begynnande hjärnskador samma typ
+    * akut helgenomsekvensering: mutationer SLC19A3 (sjd i tiamin transportören)
+    * diagnos: biotinsvarande basal gangliesjd
+    * behandling: hlgdos tiamin o biotin
+
+Budskapet: att man måste kunna rikta helgenom, med preexisting knowledge, räcker inte med att enbart göra helgenom. 
+
+## Defekt omsättning makromoleykler
+
+Två stora grupper
+
+* Lysosomal sjukdomarna
+* peroxisomala sjukdomarna
+
+### Lysosomen
+
+* Väldigt lågt pH
+* hydrolytiska enzym
+* Inte många enzym som kan agera i dem
+* Degraderar stora komplexa molekyl: Glykoproteiner, glukosaminoglykaner, sfingolipider
+
+#### Lysosomala inlagringssjd
+
+* 70 tal olika sjd, 1:5000 sammantaget
+* Pompes sjd, glukogeeos typ 2
+* mukopolysackardioser MPS
+* Glykoproteinoser o mukolipidoser
+  * e.g. fukosidos, mannosidos, aspartylglukosaminuri
+* sfingolipidoser
+  * e.g. gauchers sjd, fabry, krabbes sjd
+
+<img src="./imgs/klingen_2_ZYMxpgoZSU.png" alt="ZYMxpgoZSU" style="zoom:50%;" />
+
+
+
+#### Pojke 8 månader - U-GAG, MPS
+
+* pojke 8 månader inremitteras
+  * grova ansiktsutdrag ntoeras
+  * litet sen utv
+  * kutryggig
+  * avvikande huvudform
+  * U-GAG kraftigt förhöjda 136 ref 6-22
+  * lkc-alfa-iduroindas: inegen enyzm aktitet
+  * Hyrlers sjd = MPS 1,
+  * benmärgstransplanterades vid 17 mån
+  * U-GAG o enzymaktivtet normaliserade
+  * mår bra o utvecklads väl
+
+#### MPS
+
+***Etiologi och Patofysiologi***
+
+* Autosomalt recessiv: 1:100k
+* 
+
+***Kliniska kännetecken***
+
+* Grova ansiktsdrag, bred näsrot, epikantus
+* speciell huvudform, hydrocefalu
+* grumlig hornhinna
+* dövhet
+* navelbråck, lever mjältförstöring
+* skelettproblem, höftledslux, puckel
+* hjärtklaffar läcker
+* försenad utv
+
+
+
+***Behandling***
+
+* Shunt om d behövs
+* korrektion skelettförändringar
+* benmärgstransplantation: lymfocyterna tar med sig enzymet, vilket förbättrar situationen avevärt
+* enzymeterpai: god effekt utom på skelettförändringar
+
+***Uppföljning***
+
+* Genetisk vägledning
+* mildare variant: Hurler-scheie sjd
+
+
+
+#### Gauchers sjd
+
+***Etiologi och Patofysiologi***
+
+* Sfingolipidos
+
+***Kliniska kännetecken***
+
+* Typ1, vanligast drabbar ungdomar, vuxna
+  * lever o mjältförstoring: pga inlagringar, kan bli massiva förstoringar
+  * anemi, trombocytopei, leukopeni
+  * inlagring i skelett, benbrott, aseptsika bennekroser, smärtsamt
+* ***Typ 2: akut infantil neuronopatisk***
+  * svår, snabbt progredierande sjd
+  * leverförstoring, mjätlltförsritng: under de första ***levnadsmånaderna***
+  * fr 5-6 mån: neuro symptom, kranialnervskärnor, basala ganglierna
+  * de flesta dör innan 1åå
+* typ 3: norrbottenformen, juvenil neuronopatisk
+  * som vid typ 1, men med neurologiska symptom e.g.
+  * okulär motorisk apraxi, inåtskel, demens, ataxi, spasticitet, epilepsi
+  * klassiskt med ögonen
+
+***Utredning***
+
+* ***Laboratoriediagnostik***
+  * enzymaktivitetsmätning i lymfocyter, glukosylceramidas
+  * genetik
+  * GBA
+
+***Behandling***
+
+* rekominant enzymterapi: man ger enzymet rekombinant som infusion
+* substratreduktion
+
+***Uppföljning***
+
+* Autosomalt recessiv sjd: 1:100k, 
+* tidigare vanlig i norrbotten
+
+#### Fabrys sjd
+
+***Etiologi och Patofysiologi***
+
+* Glykosgingolipidos
+* angiopati: inlagringar kärlväggar mm, 
+* 
+
+***Kliniska kännetecken***
+
+* oftast symptom fr tidig skolålder
+* ibland diagnos i vuxen ålder
+* episoder: smärta händer, fötter, först vid feber, men sedan oftare
+* nedsatt förmåga svettas
+* hudförändringar små röda prickar
+* flrsämrad njur
+* hjärtpåverkan
+* besvär fr magtarm
+* TIA-attacker o stroke
+
+
+
+***Behandling***
+
+* Rekombinant enzymterapi, alfa-galaktosidas: som infusion
+* chaperoner vid vissa mutationer, stabiliserar enzymet
+* symptomatisk beh
+
+
+
+***Uppfölj***
+
+* Genetisk vägled, familjeutred
+* X-bunden sjd, kvinnor kan ha symptom
+* 1:50k
+
+### Peroxisomen
+
+* Degraderar
+  * långkedjiga fettsyror
+  * fytansyra
+* syntetiserar
+  * gallsyror
+  * plasmalogener
+  * mm
+* starkt oxiderande miljö
+
+
+
+#### peroxisomala sjd
+
+* \>20 olika sjd
+* svårast:  komplett biogenesdefekt, klassisk zellweger sjd
+
+#### Zellweger sjd
+
+***Kliniska kännetecken***
+
+* Karakteristisk skallform
+* förstorad fontanell
+* hypertelorism, med epikantusveck
+* dövhet
+* hypotoni
+* kramper
+* leverpåverkan
+* cystor i njurar
+* överlever oftast inte 1åå
+
+#### ALD, adrenoleukodystrofi
+
+***Kliniska kännetecken***
+
+* ***Symptomdebut***, 6-8åå pojkar, börjar smygande
+* psykiatriska symptom
+* balans: cyklar men kan nu inte längre göra detta
+* syn
+* hörsel
+* 85% binjurebarkssvikt: blir akut sjuka åker in buller i bong, vilket i sin tur låter oss upptäcka denna
+* akut cerebral form: perviaskulär lymfocytinfiltration, i vit substans; hemsk fas av sjukdomen
+  * kan inte förutse vilka som kommer få denna formen
+
+***Utredniing***
+
+* ***P-VLCFA***: very long-chain fatty acids; dessa metaboliseras i peroxisomen kom ihåg
+* ***genetik***: ABCD1, det är en ganska stor gen, samt varianter som man inte vet kan påverka etc, om normalvariant, mild variant eller sjuk variant
+
+<img src="./imgs/klingen_2_FTxU4N8hu8.png" alt="FTxU4N8hu8" style="zoom:33%;" />
+
+***Behandling***
+
+* Benmrärgstransplantation om cerebral form
+* måste ske rätt tidpunkt
+* följs med MR, Loes score
+* genterapi försök pågår
+
+
+
+***Genetisk vägledning, familjeutredning***
+
+* X-bundet recessiv sjd, 1:100k 
+* kvinnor kan ha symptom: adrenomyeloneuropati AMN
+* ignet samband genotyp-fenotyp, stor variatino inom familjer
+
+
+
+### Allmänt
+
+* medfödda metabola sjd, MMS, kan uppkmma varhelst i sjukvården
+* finns typsituationer som är vanliga, men finns atypiska sätt
+* dra öron åt sig om extra sjuk vid infektio exempelvis
+* erfarent o samarbete viktigt 
+* noggran klinisk utredning, radiologi
+* breda screeninganalyuser
+* biokemiska specialanlyser som komplement
+* genetik
+* stort språng i diagnostiken: precisionsdiagnostiken. 
+* Ring t dem
+
+***Behandling***
+
+* akut 
+  * avbyt födointag, amning
+  * bryt katabolismen (glukos)
+  * krisblandning: biotin, tiamin
+  * eliminera toxiska metabolitter: dialys, Na-bensoat, natriumbensoat
+  * säkra prover
+  * kontakta expert på metabola sjd
+* underhållsbehm efter diagnos
+  * kostbeh
+  * rekomninerat enzymterapi
+  * små molekyler, chaperoner
+  * stamcellstransplant
+  * antisens-tek, cellterapi o genterapi

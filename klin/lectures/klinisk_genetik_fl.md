@@ -2445,3 +2445,722 @@ Två stora grupper
   * små molekyler, chaperoner
   * stamcellstransplant
   * antisens-tek, cellterapi o genterapi
+
+
+
+## Syndromdiagnostik
+
+### Allmänt
+
+* Vad är ett syndrom: Ettmönsteravsymtomsomförekommertillsammansochhar gemensamorsak•Fleratusenolikadiagnosermed varierandeförekomst•Mångafall ärgenetiskamed olikaärftlighets-mönste
+* När misstänka syndrom: Fleraolikasymtom, oftafrånolikaorgansystem:•Missbildningar•Tillväxtavvikelse•Utvecklingsavvikelse•Neurologiskasymtom•Yttresärdrag-dysmorfologi
+* Missbildningar: Missbildningar•Multifaktoriella•Monogena•Ingår i många syndrom
+* Utreda: familjehistoria, hörsel, missbildningar, dysmorfologi, tillväxt, sjukdomssymptom, psykiatrisk anamnes, syn, neurologi
+
+### Tillväxt o kroppsproportioner
+
+* Tillväxtkurva o klinisk undersökning
+* längd
+* vikt
+* huvudomfång
+* BMI
+* förhållandet bål o extremiteter, samt övre o nedre extremiteter
+
+### utvecklingsavvikelser
+
+* intellektuell funktionsnedsättning, IF
+  * mild IQ under 70
+  * måttlig - iq 35-50
+  * svår iq 20-35
+* autism
+  * med eller utan IF
+* språkstörning: expressiv, impressiv, pragmatisk
+* motorisk utvecklingsavvikelse
+
+#### Hur bedöma utveckling
+
+* ***Nyfödda***
+
+  * tonus: floppy, spänd
+  * uppfödningsproblem
+  * utseende, missbildningar
+
+* ***0-1åå***
+
+  * motorisk utv
+  * reflexmönster
+  * social kontakt
+  * tal o språk
+
+* ***1-3åå***: utv språk o kommunikation
+
+* ***fr 3åå:*** fortstt utv av kognitiva funktioner
+
+  
+
+### Neurologiska symptom
+
+* Hypertoni
+* hypotoni: floppy baby
+* epilepsi
+* pares: cerebral pares, spastisk parapares
+* ataxi
+
+### Dysmorfologi
+
+* avvikelser fr typisk mrofologi
+  * medfödda missbildningar
+  * yttre drag
+* använt inom genetisk diagnostik sedan 1950-talet, för att definiera syndrom
+
+### Terminologi
+
+* Human phenotype ontologi - HPO, finns hemsida
+* elements of morphology
+
+#### Kroppsform
+
+* Extremiteter, proportioner
+* fetma eller ej
+* längd
+
+#### Huvudform
+
+* Plagiocefali: dåligt ihopväxta suturer
+* brachycefali: osså associerat med syndrom, men vanligare idag för att barnet ligger mer på rygg än mage
+* mikrocefali, makrocefali
+* båtskalle: suturassocierat
+
+#### Förhållandet ansikte
+
+* örat, näsa, ögon, mun, näsa
+* lågt sittande öron: vanligt beskrivet vid syndrom, men inte bra annända
+
+#### Ögon
+
+<img src="./imgs/klingen_2_3OHHdpP0RC.png" alt="3OHHdpP0RC" style="zoom:50%;" />
+
+
+
+#### Näsa
+
+
+
+<img src="./imgs/klingen_2_4JLk8U86TL.png" alt="4JLk8U86TL" style="zoom:33%;" />
+
+
+
+#### Mun
+
+<img src="./imgs/klingen_2_rmN1aqYzGc.png" alt="rmN1aqYzGc" style="zoom:33%;" />
+
+#### Philtrum
+
+<img src="./imgs/klingen_2_GnzgbTImkT.png" alt="GnzgbTImkT" style="zoom:25%;" />
+
+#### Nacke
+
+* pterygium
+* ***Nackhud:*** nackhud karakteristiskt för Turner?
+* ***Hårfäste***
+
+<img src="./imgs/klingen_2_N6nBBaqWCB.png" alt="N6nBBaqWCB" style="zoom:33%;" />
+
+
+
+#### Öron
+
+* Många strukturer
+* räcker med att notera hur stor den, om den fäst i huvudet, etc. 
+* behöver öronatlas
+
+<img src="./imgs/klingen_2_K9UHKZ4euk.png" alt="K9UHKZ4euk" style="zoom:33%;" />
+
+
+
+#### Händer
+
+* Vanligast med extrafingrar på lillfingersidan
+
+<img src="./imgs/klingen_2_ZvuIcjf6jT.png" alt="ZvuIcjf6jT" style="zoom:33%;" />
+
+
+
+#### Fötter
+
+<img src="./imgs/klingen_2_2FidvdAcXf.png" alt="2FidvdAcXf" style="zoom:33%;" />
+
+
+
+#### Hud
+
+* Ta av kläderna på patienterna
+* neurofibromatos
+
+<img src="./imgs/klingen_2_D8645sgxDb.png" alt="D8645sgxDb" style="zoom:25%;" />
+
+
+
+### orsaker
+
+* Genetiska
+  * kromosomala
+  * monogena
+  * multifaktoriella
+* kongenitala infektioner
+* lkm el droger under graviditet
+* graviditetskomplikation: form på livmodern, kärlkatastrof (blodförsörjnign t ett område påverkat)
+
+### Kromosomala
+
+* Gendosförändring: många gener på kromosomal nivå, vi snackar många hundra arvsanklag i översktot eller underskott
+* Finns kromosomala med mikrodeletioner också, mikroduplikationer
+* Olika metoder för att identifiera: 
+  * Downs: karyotypering, 5-10mbp
+  * Mikrodeletioner: FISH, 20kbp, specifika området man efterfrågar
+
+***Utredning***
+
+* synliga vid konventionell kromosomanalys
+* e.g. 
+  * Downs: trisomi 21
+  * Wolf Hirschorns syndrom: deletion 4p, kromosomens yttersta del som gått förlorat här
+
+##### Mikrodeletioner och mikroduplikationr
+
+* Som inte upptäcks med konventionell kromosomanalys
+* Vanlig orsak för intellektuell funktionsnedsättning
+* exempel
+  * 22q11 deletionssyndrom
+  * williams syndorm
+  * smith-magenis syndorm
+
+***Utredning***
+
+* FISH: endast ett område åt gången...
+* MLPA: multiplexl igation dependent probe amplification
+  * fr FISH utvecklades denna
+  * gendos bestämning flera områden, samtidigt
+* Array-CGH: upplösning 20-50k baser; 
+  * notera om det finns mikroduplikation eller mikrodeletion
+  * varpå man får reda vilka gener som är förlorade etc
+
+#### Downs
+
+* Vanligaste kromosomavvikelsen: 1:700
+
+***Kliniska kännetecken***
+
+* Hypotoni: vid nyfött
+* yttre särdrag
+* IF: intellektuellt funktionsnedsättning
+* hjärtfel
+* tidig demens
+
+#### Wolf Hirschhorns syndorm
+
+***Kliniska kännetecken***
+
+* 1:50k-100k
+* tillväxthämning
+* svår intellektuell funktionsnedsättning
+* epilepsi
+* yttre särdrag
+* kluven läpp o gom
+* hjärtmissbildningar o hjärnmissbildningar
+* hypotoni
+
+#### 22q11 deletionssyndromet
+
+***Etiologi och Patofysiologi***
+
+* ***Mikrodeletion***
+* Vanligaste mikrodeletionssyndromet
+
+***Kliniska kännetecken***
+
+* 1:3k-1:4k
+* hjärtfel
+* gomdefekter
+* immunologiska problem
+* hypokalcemi
+* inlärningsproblem, beteendeavivkelser, koncentrationssvårigheter
+* utvecklingsförsening, IQ median 75
+* karaktäristiskt utseende
+
+#### Williams syndrom
+
+* 1:7500-1:10k
+* ***hjärta***: supravalvulär aortastenos, SVAS 50%
+* ***hyperkalcemi***
+* ***motorik***: försenad motorisk utv, hypotoni
+* ***Bråck***: navel o ljumskbråck
+* ***Växt***: kortväxthet, tidig pubertet
+* ***Kognitivt***: IQ 40-100
+* neuropsykiatriska symptom
+
+#### Smith-magenis syndrom
+
+***Etiologi och Patofysiologi***
+
+* 1:15k-1:25k
+
+***Kliniska kännetecken***
+
+* kognitiv funktionsnedsättning: men i nedre normalen, kan ta ett litet tg, och kan komma via BUP
+* typiska yttre drag
+* beteendeavvikelse
+  * självmutilering
+  * svår sömnstörning
+* kortvuxehet
+* språkförsening
+* hes röst
+
+### Monogena
+
+* Nymutationer
+  * autosomalt dominanat
+  * X-bundna
+* Nedärvda
+  * autosomalt dominanta
+  * autosomalt recessiva
+  * X-bundna
+
+***Utredning***
+
+* ***Sekvensering***: vill veta förändring av en enda bas
+* Vid misstanke om monogen orsak
+  * sekvensering enskilda gener, eller genpaneler
+  * helexomsekvensering eller genomsekvensering
+    * påvisar mutationer ned t en bas
+  * MLPA: gendosanalys av enskilda exon
+
+#### Autosomalt dominant
+
+* Cornelia de langes syndrom
+* noonans syndorm
+* kabukis syndrom
+* coffin siris syndrom
+
+#### Cornelia de Langes syndrom
+
+***Etiologi och Patofysiologi***
+
+* Idag 5 kända gener (AD = autosomalt dominant, XD = X-bundet dominant)
+  * NIPBL: AD, 60% av alla fall
+  * SMC1A: XD
+  * SMC3: AD
+  * RAD21: AD
+  * HDAC8: XD
+
+***Kliniska kännetecken***
+
+* 1:50k
+* IF: intellektuell funktionsnedsättning, oftast svår, 100%
+* svåra extremitetsmissbildningar, 25%
+  * handmissbildningar: fungrar i händer konstiga
+* epilepsi, 25%
+* hörselendsättning
+* ptos, 50%
+* retentio testis
+* hjärtfel, 25%
+
+***Utredning***
+
+* antingen genpanel eller helgenomsekvensering: för att det är multipla gener, eller att det är en ny typ etc. 
+
+<img src="./imgs/klingen_2_HHseAykyXc.png" alt="HHseAykyXc" style="zoom:33%;" />
+
+
+
+#### Noonans syndrom
+
+***Etiologi och Patofysiologi***
+
+* 9 olika gener kända
+* PTPN11 50%
+* SOS1 15%
+* RAF1 5%
+* RIF1 5%
+* KRAS
+* med 4 ytterligare gener
+
+***Kliniska kännetecken***
+
+* 1:1k-1:2k
+* kortvuxenhet
+* medfött hjärtfel, PS
+* nedåtsluttande ögonspringor
+* ljusa iris
+* lågt sittande öron
+* utvecklingsavvikelser förekommer i ökad frekvens,.
+
+***Utredning***
+
+* Helgenomsekvensering
+* genpanel
+
+<img src="./imgs/klingen_2_fi1SujtpaE.png" alt="fi1SujtpaE" style="zoom:33%;" />
+
+
+
+<img src="./imgs/klingen_2_8yC31ncu3V.png" alt="8yC31ncu3V" style="zoom: 33%;" />
+
+
+
+#### Kabukis syndrom
+
+***Etiologi och Patofysiologi***
+
+* två kända gener
+* KMT2D: AD
+* KMT6A: XD
+* klniskt överlapp med andra  syndorm
+
+***Kliniska kännetecken***
+
+* 1:30k
+* mild t måttlig IF
+* tillväxthämning
+* höftledsluxation: som inte svarar på konventionell behandling, kan behöva operation o dylikt senare i livet
+* hypotoni, överrörliga leder
+* medfödda hjärtfel
+* urinvägsmissbildningar
+* spalt: långa ögonspringor
+* typiskt utseende
+* ***Fetal fingerpads***: tippen åp fingret har en kudde, inte alla som har denna
+
+***Diagnostiska kriterier***
+
+* Karaktäristiskt utseende
+* IF
+* skelettavvikelser
+* dermatoglyfiska avvikelser
+* postnatal tillväxthämning
+
+***Utredning***
+
+* helgenomsekvensering + genpanel
+
+### Helexomsekvensering, helgenomsekvensering
+
+* Sekvensering av alla exon: exomet; helexomsekvensering
+  * indexpatient analyseras
+    * genpaneler: 5-1000  gener
+    * HPO termer
+    * föräldraprover behövs vid fynd
+  * Indexpatient analyseras tsmns mor o far = ***trio analys***
+    * alla kända sjukdomsgener analyseras o bedöms utifrån olika ärftlighetsmönster
+  * ***DDD - deciphering developmental disorders***
+    * trioanalyser + array-cgh 13500 familjer
+    * daignos ställd i 4500 fall
+    * 180 artiklar o 50-tal "nya diagnoser" beskrivna
+  * Tiotal återkommande geenr
+    * var o en av dessa orsak i ca 1% av DDD
+* sekvensering hela genomet: helgenomsekvensering
+* patologisk mutation påvisas i ca 35% av analyserade fall med okänt syndrom
+
+#### Coffin-siris syndrom
+
+***Etiologi och Patofysiologi***
+
+* AD nedärvd
+* etta antal olika geenr som kan vara involverade
+
+***Kliniska kännetecken***
+
+* IF
+* språkstörning
+* sen motorisk utv
+* underutv distala falanger lillfingrar o lilltår
+* ökad behåring
+* fem kända gener 
+* 1:50k
+
+<img src="./imgs/klingen_2_ReIUY3l5md.png" alt="ReIUY3l5md" style="zoom:33%;" />
+
+
+
+### Autosomalt recessiv orsak
+
+* ökad risk för släktfigte
+* många metabola sjukdomar
+* exempel: diastrofisk dysplasi skelettdyspklasi, bardet biedl (cilipati)
+
+#### diastrofisk dysplasi
+
+***Etiologi och Patofysiologi***
+
+* 1:100k, betydligt vanligare i Finlnd
+* gen: SLC26A2
+
+***Utredning***
+
+* analysmetod: helgenomsekvensering, med analys av skelettpanel
+
+***Kliniska kännetecken***
+
+* extrem Kortvuxenhet: 100-140cm
+* blomkålsöron
+* påverkade händer
+* klumpfot
+* höftledsluxation
+* kyfoskolios
+* liftartiumme
+* hörselnedsättning
+
+<img src="./imgs/klingen_2_3DX2zJwaF4.png" alt="3DX2zJwaF4" style="zoom:33%;" />
+
+
+
+#### Bardet-Biedl syndrom, BBS
+
+***Etiologi och Patofysiologi***
+
+* Cilipati
+* 26 kända geener
+
+***Utredning***
+
+* Helgenomsekvensering, o genpanel för dessa gener
+
+
+
+***Kliniska kännetecken***
+
+* vanligt övervikt osså runt ansikte
+* små munnar
+* breda händer: ana att extra lillfinger, trångt med fingrar
+* gommen är hög
+* papp dystrofi
+* 1:10k-1:150k
+  * i områden vanligt ere vanligt med släktfite
+* retinitis pigmentosa: stav o tappdystrofi
+* extra fingrar o eller tår postaxial
+* cystisk njursd
+* IF 60%
+* hpogonadism
+
+### X-bundet recessiv
+
+* Män har mer uttalad sympttom än kvinnor
+* exempel Fragilt X
+* 
+
+#### Fragilt X
+
+* ***vanligast nedrvda formen av*** ***IF***
+* ***1:4k*** pojkar, men även flickor kan ha symptom
+* ***IF***: mild t svår IF
+* ***autism***
+* ***gen***: FMR1 mtutation: trikuleotidexpansion (pre o full mutation)
+
+***Utredning***
+
+* trinukleotidanalys: metyleringsanalys, 
+* Helgenomsekvensering med en annan algoritm för analys går osså
+
+***Kliniska kännetecken***
+
+* efter tonåren: hög bred panna o utåtstående örpn
+* alla pojkar har IF
+* 30% flickor har osså IF
+* 30% flickor helt symptomfria
+* neuropsyk symptom
+  * autism
+  * adhd
+  * sleektiv mutism
+  * ängslighet
+* fysuiska symoptom
+  * hypotoni
+  * plattfot
+  * otiter
+
+### X-bundet dominant
+
+* Kvinnorna som har symptom
+* letal för pojkar
+* exmepel: Retts syndrom.
+
+#### Retts syndrom
+
+* 1:10k födda flickor
+* initialt normal utv
+* fr 12-18månader, tillbakagång
+* svår IF, epilepsi, mikrocefali, typiska handrörelser (tvättande), autonoma störningar
+* gen MeCP2
+  * proteient  påverkar acetylering hitoner o därigenom expression andra gener
+
+***Utredning***
+
+* Sekvensering av genene alt helgenomsekvensering
+
+### Multifaktoriell orsak
+
+* samverkan gener o omginvningsfaktorer
+  * missbildningar
+  * IF
+  * autism
+* empirisk upprepningsrisk
+  * 3-6% om en förstagradssläökting har missbildning
+  * upprepningsrisken kan var beroende på kön hos indexfallet
+
+### Epigenetiska orsaker
+
+* epigenetiska mekanismer styr hur var o när gener ska uttryckas
+* regleringen sker gm metylering av DNA o 
+* acetylering av histoner
+
+#### Prader willis syndrom
+
+* 1:10k-1:30k
+* neonatal hypotono
+* uppfödningssvårigheter
+* kortvuxenhet
+* extrem aptit: övergår hit, trots låg kaloribehöv
+* övervikt
+* mild IF
+* beteendeproblem
+* utseendemässigt: mandelögon, smalhet temporalhet, 
+
+***Etiologi och Patofysiologi***
+
+* SNRPN sörst betydelse
+
+
+
+#### Angelmans syndrom
+
+* 1:12k-1:24k
+* ataxi
+* eipelpsi
+* svår IF
+* skrattutbrott
+* gen: UBE3A
+
+#### Prader och angelman
+
+* PW: avsaknad paternell allel
+* AS: avsaknad maternell allel
+* ! ***Imprinting***: en av genkopiorna stängs av om fr pappa eller mamma epigenetiskt! 
+* 
+
+***Utredning***
+
+* behöver se metyleringen av regionen för att se vad som är avstängt
+* metyleringskänslig MLPA
+
+
+
+### När syndromutreda
+
+* Prenatal syndormbild
+  * grav tillväxthämning
+  * multipla missbildningar
+  * intrauterin fosterdöd
+* multipla missbildningar efter nyföddhetserioden
+* uttalad kortvuxenhet, skelettdysplasier
+* IF med eller utan andra symptom
+  * mild t svår IF
+* autism med IF eller andra symptom
+* autism med stark hereditet:
+  * e.g. fler än 2 syskon
+  * ***OBS! Fragilt X hos flickor ofta utan IF***
+
+### När
+
+#### När avstå
+
+* oklar fenotyp med svag misstanke genetisk orsak
+* när föräldrar avböjer genetisk utredning
+* när en diagnos inte får ngn praktisk betydelse
+  * diagnos ofta värdefullt för föräldrar som sökt orsak även om uppföljnign ej påverkas
+
+#### Akut syndromutredning
+
+* Metabola sjukdomar i nyföddhetsperioden
+  * tidigt insatt beh, mkt viktigt
+* graviditet: för att möjliggöra riktad fosterdiagnostik, ett äldre barn med syndrombild varpå fosterdiagnostik
+* inför al behandling: syundrom med ökad risk för cancer, kanske att strålningen ger skador
+* nyfödda eller små abrn misstänkt syndrom:
+  * multipla missbildningar
+  * tillväxthämning
+  * failure to thrive: att inte kunna hå upp i vikt
+  * svår klinisk bild
+    * hypotoni
+    * hypertoni
+    * bristande andningsfunktion
+
+#### När ingen diagnos kunnat ställa
+
+* exspektans: reanalys eller vidgad utredning något år etc senare
+* forskning: 
+  * bredare vedöm genetiska varianter
+  * konsultationer inom sverige
+  * internationella samarbeten
+
+#### När diagnos ställts
+
+* Behövs vidare familjutredning?
+* riskfaktorer
+  * risk för andra missbidnigar
+  * ökad risk för tumörer?
+* behandlingar?
+  * enstaka diagnoser möjligt med riktad beh som modifiering av mutation eller al av epilepsimedicin
+* patient eller föräldraföreniigar
+  * möjlighet träffa familjer likadan situation
+
+#### Återge syndromdiagnos
+
+* en syndromdiagnos oftast livslånga syndrom
+* vissa diagnoser progressiva
+* fysiskt besök föredras
+* överväg sambesök kurator 
+* gärna sbannt återbesök
+
+
+
+#### Vf viktigt syndromdiagnostik
+
+* korrekt beh o uppfölj kan erbhjudas
+* möjlighet uttala sing om prognos
+* andra diagnostiska utredningar ej nödvändiga
+* genetisk info angående upprepningsrisk
+* möjlighet t rpevention, fosterdiagnostik
+* lättare att få tillgg t berättigade sociala förmåner
+
+
+
+#### Förslag på utredningsgån
+
+* noggrann anamnes ink hereditet o perinatal data
+* journalgenomgg: tillväxt, radiologi, kompletterande prover el undersök
+* klinisk undersök: yttre särdrag, kroppsproportioner, hudförändringar
+* basala labbprover
+  * blodstatus
+  * thyroidea
+  * CDT
+  * homocystein
+  * 7-dehydrokolesterol
+  * metabol screening i plasma o urin
+* sökning databaser: OMIM, PubMed
+* genetiska analyser
+  * helgenomanalys: idag 1a handsval med samtdiig analys av gendos o expansioner
+  * array-CGH
+  * sekvenering enskilda gener
+  * kromosomanalys
+* Noggrann fenotyp
+  * ett måste för att kunna tolka fynd vid helgenomsekvensering
+  * symptom o yttre drag hos patient jämförs emed publicerade fall
+  * bedömning mutationens svårighetsgrad
+  * är mutationen nedärvd
+
+#### Sammanfattning
+
+* Misstänk syndrom när flera olika symptom förekomemr samtidigt
+* många syndrom har genetisk orsak, men är ofta inte nedärda
+* fastställd etiologi nödvändig om riktad fosterdiagnostik önskad
+* med helgenomanalys kan idag både kromosomala o monogena orsaker påvisas
+
+## Fosterdiagnostik
+

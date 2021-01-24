@@ -3164,3 +3164,292 @@ Två stora grupper
 
 ## Fosterdiagnostik
 
+### Villkor
+
+* Villkor för fosterdiagnostik1 §Alla gravida kvinnor skall erbjudas en allmän information om fosterdiagnostik.En gravid kvinna som har en medicinskt konstaterad förhöjd risk att föda ett skadat barn skall erbjudas ytterligare information om genetisk fosterdiagnostik. Efter informationen bestämmer kvinnan, i samråd med läkaren, om hon skall genomgå fosterdiagnostik eller genetisk fosterdiagnostik.Den gravida kvinnan skall få all information om fostrets hälsotillstånd som har kommit fram vid fosterdiagnostik. Uppgifter om fostret som inte rör dess hälsotillstånd skall lämnas ut endast om kvinnan begär det..(Lag om genetisk integritet m.m. -SFS 2006:351)
+
+
+
+### I praktiken
+
+* allmän screening
+  * missbildningar, ultraljud, 99% 
+  * metoder kromosomavvikelse: maternell ålder, KUB, NIPT
+* riktad fosterdiagnostik
+  * vid hög individuell risk
+
+#### Metoder provtagning
+
+* Fostervattensprov
+* moderkaksprov
+* embryobiopsi vid preimplantatorisk fenetisk diagnostik, PGD
+* cellfritt foster-DNA i mammans blod, NIPT
+
+<img src="./imgs/klingen_2_L2Cs1xV7dl.png" alt="L2Cs1xV7dl" style="zoom: 33%;" />
+
+### Invasiva fosterprov
+
+![oPGiCXIZeo](./imgs/klingen_2_oPGiCXIZeo.png)
+
+#### Amniocentes
+
+* tas i praktiken tidigast i vecka 15+0
+
+#### Corionvillibiopsi
+
+* Tas i praktiken tidigast i vecka 12+0
+
+### Ultraljud
+
+* Graviditetsvecka 18+
+* datering
+* screning missbildnignar i fetala organ, DR 40-50
+* omphalocele: kan vara tecke kromosomavvikelse
+* trisomi
+
+Återkommande tabell för missbildningar respektive kromosomavvikelse: 
+
+<img src="./imgs/klingen_2_ORVnvMlEtF.png" alt="ORVnvMlEtF" style="zoom: 67%;" />
+
+
+
+#### Genetisk diagnostik efter UL-fynd
+
+* QF-PCR
+  * specifika markörer för kromosom, oftast för trisomierna 13, 18. 21, X, y
+  * snabbt svar 1-2 dagar
+  * 20% fallen påvisas en trisomi
+* Array-CGH
+  * om negativ QF-PCR
+  * detaljerad analys av alla kromosomer
+  * 5-14 dagar, ca 90% klara inom 7d
+  * hittar avvikelser i ytterligare 10% av fallen, av de som var neg i QF-PCR
+  * kromosomavvikelsr: mikroduplikationer och mikrodeletioner
+  * kan förklara utvecklingsavvikelser
+* Misstanke om specifikt syndom -> riktad analys
+* helgenomsekvensering: i utvalda fall, WGS, e.g. genpanel eller sk trioanalys (mamma, pappa, foster)
+  * e.g. skelettdysplasipanel, hydropspanel
+* problem: turn-around tid för analys samt tolkning av detekterade varianter (patologiskt elelr ovanlig normalvariant)
+  * -> genpanel eller andra WGS metoder används i dagsläget ffa i postmortem analys o blir därmed av vikt gfffa bedöma upprepningsrisk vid framtida gravitet, samt få förklaring t det inträffade
+
+#### Fall foster PAD
+
+* Hydrops panel att man analyserar orsakerna
+* man gjorde abort här, varpå man analyserade
+
+<img src="./imgs/klingen_2_fAHo2iUNY0.png" alt="fAHo2iUNY0" style="zoom:50%;" />
+
+
+
+### Bärare ärftlig sjd
+
+* om ärftlig sjd i släkte som inte går att lösa på MVC
+* kan ta tid utreda
+* dr bm kan ringa klin genet konsuklt för få råd
+* ev akut remiss t vår mottagning: om känd ärftlighet, o tydlig tecken då är det viktigt att man skickar, för att erbjuda fosterdiagnostik etc el ej, drf vill erbjuda asap, varpå direkt remiss. 
+* Vanligen hög risk: upp t 50%
+* beror på vilken sjd
+
+***Utredning***:
+
+* Amniocentes: 9mL med utspädda celler, inte mkt material
+* korionvillibiopsi (moderkaksprov): regelmässigt detta, för att det tar flera veckor tidigare, och så snabbt svar som möjligt, samt vid detta får man mer DNA att jobba emd
+
+***Hög risk - valmöjligheter?***
+
+* potentiella föräldrarna kan
+  * Spontan graviditet, ingen test
+  * spontan graviditet, fosterdiagnostik med ev abort
+  * preimplantatorisk genetisk diagnostik, PGD
+  * ägg, spermie donation
+  * adoption
+  * avstå barn
+
+#### Indikationer invasivt fosterprov
+
+* När ökad risk vid CUB
+* I other nedan bild: att man hittat avvikelse i moderkakan etc. 
+* det är 11% invasiva fosterproven man ska prata om nu
+
+<img src="./imgs/klingen_2_hr1yiuHuwS.png" alt="hr1yiuHuwS" style="zoom:50%;" />
+
+
+
+#### Preimplantatorisk genetisk diagnostik
+
+* IVF-labb
+* embryobiopsier
+* genetisk diagnostik på en enda cell
+
+***Metod***
+
+* plockar flera ägg från kvinnan
+* spermier fr mannen
+* odlar embryona,
+* tar en cell
+* återför de celelr som inte för vidare sjukdomen
+* paret startar graviditet i vetskap att barnet inte bär anlaget, o undviker aborten.
+
+***Villkor***
+
+* Villkor för preimplantatorisk genetisk diagnostik2 §Preimplantatorisk genetisk diagnostik får användas endast om mannen eller kvinnan bär på anlag för en allvarlig monogen eller kromosomal ärftlig sjukdom, som innebär en hög risk för att få ett barn med en genetisk sjukdom eller skada.Behandlingen får inte användas för val av egenskap utan endast inriktas på att barnet inte skall ärva anlag för sjukdomen eller skadan i fråga.Preimplantatorisk genetisk diagnostik får inte utan tillstånd av Socialstyrelsen användas för att försöka få ett barn med en sådan genuppsättning att barnet skulle kunna bli donator av blodstamceller till ett svårt sjukt syskon.Tillstånd får lämnas endast om det finns synnerliga skäl för att tillåta användning.(Lag om genetisk integritet m.m. -SFS 2006:351)
+
+
+
+##### Embryobiopsi
+
+* nu tar man blastocystopsier, tar lite fler celler, säkrare analys när mer DNA fr början. 
+* finns 8-cells biopsi osså. 
+* gör hål zona pellucida med laser. 
+* sedan suger man ut en liten cell
+* sedan tar man nästa embryo o biopserar det etc. 
+
+##### Allmänt
+
+* PGD efter frågan ökar senaste åren
+* 100 nya par varje år. 
+* röda pilen är när nya lagen
+* innan 2006 reglerades inte PGD, o lagförslag som man förhöll sig till, o PGD användes enbart om svår ärftlig sjd med tidig död utan behandling
+* 50% av patienterna får barn med PGD, bara dessa som går hem med ett barn
+  * en faktor är att vissa sjukdomar, emd ärftliga kromosomavvikelser, rä det stor andel embryon som är svåra at hitta friskt
+* 30-40% embryoåpterföring lyckas
+
+<img src="./imgs/klingen_2_jXQ7pk9Qm4.png" alt="jXQ7pk9Qm4" style="zoom:50%;" />
+
+### Allmän fosterdiagnostik
+
+* ! 2-3% att få barn med allvarlig skada eller psykisk utv försening i Sverige
+* innan KUB infördes, tiden då man gjorde många invasiva prover
+* stora bulken prover gjordes pga maternell ålder
+* sen fanns det oroliga som man fjorde osså för etc.
+* 50åå som får var sjätte barn med trisomi 21. 
+* men 80% av graviditerna är mammorna under 35åå
+* dock 70% trisomi 21 föds under 35åå mammorna. 
+  * 30% är sensitivitetn för testet därför...
+
+<img src="./imgs/klingen_2_YkKdyp3qKI.png" alt="YkKdyp3qKI" style="zoom:33%;" />
+
+<img src="./imgs/klingen_2_mCd5SucGdQ.png" alt="mCd5SucGdQ" style="zoom:50%;" />
+
+#### CUB test
+
+* Combined ultrasound and biochemistryu, KUB
+* CUB = NT-measure (swedish NUPP, nackspalts test) + biopkemi (beta-hcg + PAPP-A)
+* kromosomskada: dessa parametrar + maternell ålder + graviditetslängd -> risksiffra för kromosomskada
+* detektions rate för trisomi 90%
+  * if offered to all prgnant women
+  * all of those with high reisk result have an invasive test \> 1:200
+  * FPR ungefär 5%, i.e. 5% test positiv
+  * PPV 10% - betyder om förhöjd risk på KUBV i.e. 1:200, av de är 10% som har kromosomavvikelse. 
+  * bra test för att vidare utreda o sticka i magen 
+
+#### NIPT testet
+
+* non-invasive prenatal diagnostics
+* icke-invasiv fosterdiagnostik
+
+***Indikationer***
+
+* för att undvika missfallsrisk efter invasivt prov, det är ndå låga siffror om invasivt
+
+***Metoder***
+
+* Cellfritt DNA, ngt som alla har cirkulerande i blodbanan
+* DNA som kommer fr omsatta celler, i detta fallet över placenta fr fostret. 
+* 10% av cellfria DNA kommer fr fostret hos en gravid
+* renar man fram fr blodet är 90% maternellt, 10% fostret
+* cellfria DNA är små DNA snuttar, 150-200 bp långt, det är väldigt fragmenterat DNA
+  * beroende på analys, är det svårt att analysera väl
+  * men i andra anlysera vill man ha fragmenterat DNA
+* Korionvilli i lakuner, badar i maternellt blod, det är cellerna härifrån som man testar. 
+* centrifugerar blodet
+  * tar supernatant som kommer ha cellfritt DNA
+  * 90% maternellt, 10% fostrets
+
+<img src="./imgs/klingen_2_9dfTMdqGRu.png" alt="9dfTMdqGRu" style="zoom:80%;" />
+
+***Tester***
+
+* Genotypning för RhD
+  * för att minska antenatalt immunprofylax
+  * används i sverige
+  * enklare, för när mamman inte har RhD men barnet har d, kan man snabbt detektera detta i cellfria DNAt.
+* könsdiagnostik
+  * för X.-bundna sjd
+  * används utomlands
+* aneuploidier
+  * e.g. trisomier 21
+* övriga ärftliga sjd
+  * endast paternella mutationer
+  * finns redan indikatioenr på tek som kan koma runt detta
+
+***Gällande trisomi 21***
+
+* jämföra stokastiskt förekomst kromosom 21 relativt med de andra, o på så vis kunna säga om det är trisomi 21 hos fostret
+
+<img src="./imgs/klingen_2_xVms6WI8Yc.png" alt="xVms6WI8Yc" style="zoom:50%;" />
+
+#### Slutatser gällande NIPT
+
+<img src="./imgs/klingen_2_JMs23TnxHI.png" alt="JMs23TnxHI" style="zoom:33%;" />
+
+* om erbjuda test t ökad sannolkhjet för trisomi 21, det är en högrisk grupp: 
+  * om 10k kvinnor är det falla ut 145 fall, varpå 5 falskt positiva
+  * nästan alla är sant positiva om det är i högrisken
+  * men det är 1 på 10k som är falskt negativa: detta är man orolig för 
+  * falskt positiva är inte oroliga för, för de erbjuds invasivt test för att bekräfta resultat
+* trisomi 18
+  * bara 43 på 10k fall
+  * 5 falskt positiva, PPV 88%
+* trisomi 13
+  * 13 på 10k positiva
+  * av dessa är det 4 falskt pos,
+  * PPV 69%
+
+om erbjuda t alla gravida
+
+* trisomi 21: 
+  * ger utfall för 30 på 10k, 
+  * av dessa är det 6 falskt positiva
+  * näst ingat är falskt negativt
+  * PPV är 80%
+* inte tillräckligt med data för trisomi 18 o 13 för normal population, men ingen anedning att tro att de fugnerar nbättre
+
+#### PPV värdet
+
+* KUB ca 10% = ca 9 av 10 positiva prov är falskt positiva
+* NIPT för T13,T18, T21, 50-81% = ca vartannat positivt prov är falskt prositivt i nromalriskpop
+  * drf viktigt att man fortsätter med utredning o inte avslutar graviditet direkt
+* viktigt med kunskap hos BM o läk på MVS eller den som ger vägledning
+
+
+
+<img src="./imgs/klingen_2_qpliTPstHy.png" alt="qpliTPstHy" style="zoom:33%;" />
+
+* Maternell ålder 30% sensitivtet; behöver sticka 20% för att veta om d el ej
+* KUB test (NUPP + Biokemi): 90% sens för trisomi21, % positiv test bekräftat invasivt
+* NIPT: över 99% sens för trisomi 21, varpå 0.1% pos test erbjuds invasivt, 
+* 
+
+<img src="./imgs/klingen_2_JVNvMOJ56v.png" alt="JVNvMOJ56v" style="zoom:33%;" />
+
+
+
+#### NIPT för trisomdiagnostik
+
+* Flowchart
+* 
+
+
+
+<img src="./imgs/klingen_2_Q7RJOYfYmx.png" alt="Q7RJOYfYmx" style="zoom:33%;" />
+
+
+
+
+
+<img src="./imgs/klingen_2_HdFo0QzSIl.png" alt="HdFo0QzSIl" style="zoom: 50%;" />
+
+
+
+<img src="./imgs/klingen_2_7NALkxNHDj.png" alt="7NALkxNHDj" style="zoom:50%;" />

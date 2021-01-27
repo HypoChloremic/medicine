@@ -30,3 +30,16 @@ Saker att undvika
 Det man bör ge
 * i princip alla födoämnen förutom d ovan. 
 
+## Gastroenterologi
+
+### Funktionell förstoppning
+
+***Diagnos***
+
+* Förstoppning utan känd orsak
+
+### Förstoppning
+
+***Röda flaggo***
+
+* Tillväxthämning, faltering growth: Hypothyroidism, celiaki, och andra orsaker

@@ -2934,3 +2934,394 @@ Detta bör vi uppmärksamma
 
 
 <img src="./imgs/ped_jZwG6zELeu.png" alt="jZwG6zELeu" style="zoom:25%;" />
+
+
+
+
+
+# Nefrologi
+
+## Allmänt
+
+* Fluid and electrolyte balance
+* acid-base balance
+* active excretion of waste prodcuts and toxins
+* endocrine functions: EPO, renine, Vitamin D
+* metabolic functions: glyconeogenesis, ...
+
+## Pediatrisk nefrologi
+
+* Barn är inte små vuxna
+* renala systemet pågående utveckling
+* olika spektrum sjukdomar
+* olika svar terapi
+* specifik psykosocial situation
+
+### Ålder och urin koncentrering
+
+* Skillnad hur barn kncentrerar urin, vad häller osmollalitet etc . Verkar som att koncentreringen är mindre för yuyngre undivider.
+* Spädbarn kan inte koncentrera urin så bra, med jämförbart lägre osmolalitetsvärden i urin.  
+
+<img src="./imgs/ped_fl_mZSCuXvS9j.png" alt="mZSCuXvS9j" style="zoom: 50%;" />
+
+## Symptom och tecken nefrologisk sjd
+
+### Olika symptom
+
+* Oligohydramnios
+* polyhydramnios
+* ödem
+* polyuri, 
+* polydipsi
+* dehydrering
+* röd urin
+* mjölkig urin cloudy urine
+* failure to thrive (tillväxthämning)
+* huvudvärk
+* klåda
+* metallsmak
+* factor ex ore (bad breath)
+* osteodystrofi
+
+### Tecken njursjukdom
+
+* Ödem, hypertension, hypovolemi
+* hjud och ben
+* labb prov: 
+  * kretinin
+  * cystatin C
+  * Na, K, Ca, P
+  * blood count
+  * PTH
+* Urinanalys: 
+  * urinsticka
+  * mirkoskopi
+  * odling
+  * albumin/kreatinin kvot
+
+## akut nefrologiska tillstånd
+
+* Lungödem
+* hyperkalemi: varpå arrytmier
+
+
+
+## Nefrologiska syndrom
+
+* UVI
+* proteinuri
+* hematuri
+* nefrotiskt syndrom
+* nefritiskt syndrom
+
+## Fall 1 - UVI
+
+* 8mån flicka
+  * feber 40 grader, 2 dagar, kräks
+  * inga symptom fr luftvägar
+  * ingen diarre
+  * blod: CRP 120mg/L, leu 20000/mikroL, neutrofiler 12000/mikroL
+  * urinsticka: albumin ++, ery +++, leu +++, nitrat +
+
+## Urinprovtagning
+
+* ***Blåspunktion***: golden standard för alla barn under 1 år, jämförbartm ed ett vneöst prov vad gäller nivå av smärta. 
+  * metodiskt att man ska bladdra barnet, sedan vätska upp det, varpå vänta 20-30 miunter, för då är det sannolikt att det finns urin i blåsan
+  * Verkar som att man inte behöver lägga bedövning, det är en tunn nål
+* ***Påsprov***: Detta GÖR MAN INTE, föroreningar fr huden väldigt lätt
+* ***Clean catch***: större men även små barn, tvättat underlivet ordentligt sen fångar kiss i en mugg, de ska vara nakna underlivet innan dess. 
+
+## UVI - urinvägsinfektion
+
+***Etiologi och Patofysiologi***
+
+* ***NOTERA***: alla barn under 2 år med tecken på urinvägsinfektion BEHANDLAS SOM PYELONEFRIT
+
+<img src="./imgs/ped_fl_hxRvKyBBT8.png" alt="hxRvKyBBT8" style="zoom:50%;" />
+
+### Bakteriell tillväxt i urinodling
+
+* ***Bakteriuri***: 
+  * CFU - Colony Forming Units
+  * Signifikant: över 10^5 CFU/mL
+  * Moderat tillväxt: 10^4-10^5 CFU/mL (minst detta för ett urinkastats prov)
+  * Mild tillväxt: under 10^4 VFU/mL
+* Suprapubis blåspuntktion: any growth är signifikant! för att detta är en mkt bättre reflektion av bakterieförekomsten i blåsan
+
+### Diagnostiskt
+
+hos större barn är det mer relevant att diffa pyelonefrit vs cystit
+
+* ***Pyelonefrit***
+  * ***Feber***: över 38.5
+  * ***Flank smärta***: med utan
+  * *Dysuri*: med utan
+  * ***CRP***: över 20mg/L
+  * ***ESR***: över 25 (erythrocyte sedimentation rate)
+  * ***urin osmolalitet***: reducerad
+  * ***minirin*** test: temporärt
+* ***Cystit***
+  * ***Feber***: under 38.5
+  * ***Flank smärta***: utan
+  * *Dysuri*: med
+  * ***CRP***: under 20mg/l
+  * ***ESR***: under 25
+  * ***urin osmolalitet***: normal
+* ***asymptomatisk bakteriuri***: frånvaro sympotom fr urinvägarna
+
+***Notera***: Man ska inte heller ta några urinstickor på barn man inte misstänker urinvägsinfektion, då man kan hamna i en sits med ett diagnostiskt resultat (trots inga kliniska tecken åp infektion), vaprå det blir en svår sits. 
+
+### Behandling
+
+* ***Symptomatisk urinvägsinfektion***: antibiotika
+  * egentligen påbörjar man antibiotika behandling innan odlingssvar föreligger hos barnet
+  * men man tar odlig innan man börjar direkt behandla
+  * ***Pyelonefrit***: 10 dagars antibiotika behandling
+  * ***Cystit***: 5 dagar
+  * ***Intravenöst***: kräkande barn, allmänpåverkade, ter sig uroseptiska, septiska ineldnignsvis
+  * ***peroralt***: om barnet inte påtagligt påverkt kan man ge peroralt, väldigt bra
+* ***Asymptomatisk urinvägsinfektion***: ingenting...
+
+### Renal ärrning scarring
+
+* ***Ökad sannolikhet för att utveckla ärr***: detta motiverar antibiotika tidigt hos barn, för att inte detta ska ske. 
+  * Låg ålder
+  * försenad behandling
+  * återkommenda infektioner, recidiverande infektioner
+  * Anomaly i urinvägarna: obstruktion, reflux
+
+<img src="./imgs/ped_fl_hCbPEyFNcW.png" alt="hCbPEyFNcW" style="zoom:50%;" />
+
+### Diagnostiska medel
+
+***Utredningsmässigt***
+
+* ***Fullständig anamnes och status***
+  * Bär barnet blöja
+  * förstoppningsproblematik: ökar sannolikheten för att det är tarmbakterier som orsakat infektionen
+  * hur länga har detta pågått
+  * vad för sorts kissvanor har barnet
+  * ***hur ser strålen ser ut***: behöver krysta, eller kommer som kanon
+  * ***tonåringar***: sexualdebut, tänk mer atypiska agens
+  * ***bra bukstatus***: ömhet flankar, palperbar njurar, titta ryggslutet (ryggmärgsbråck), balanit kan det vara också så man behöver titta noga!
+* Vid pyelonefrit hos litet barn: CRP, krea, odling, ultraljud
+  * ***DMSA:*** risk faktor: CRP klättrat över 70, annan bakterie än e coli, eller krea påverkan 
+* om ultraljud visar ***hydronefros*** som är påtaglig, ska man gå vidare med en MGUG undersökning
+* 
+
+#### Ultraljud
+
+<img src="./imgs/ped_fl_15yJAgwRBX.png" alt="15yJAgwRBX" style="zoom:50%;" />
+
+#### MGUG
+
+* fyllt blåsan med kontrastmedel, barnet blir kissnödigt, kissar, man tar bilder samtidigt
+* man ser att vätska går tillbaka reflux, och man kan se att det finns en anläggningsdefekt av ngt slag i bilden nedan
+
+<img src="./imgs/ped_fl_1CbdZHZjPc.png" alt="1CbdZHZjPc" style="zoom: 50%;" />![niBOYExUea](./imgs/ped_fl_niBOYExUea.png)
+
+### VUR
+
+<img src="./imgs/ped_fl_niBOYExUea.png" alt="niBOYExUea" style="zoom:50%;" />
+
+## Fall 2 - nefrotiskt syndrom
+
+* 7åå flicka
+  * lite förkyld, ingen feebr
+  * påmorgonen plötlsligt svullen, trött, inte sig sj
+  * minskad urinproduktion
+  * urinsticka: protein ++++, ery 0, leu 0, nit 0
+  * blod: p-alb under 10g/L, normalt mer än 35
+
+<img src="./imgs/ped_fl_r2WliSD42B.png" alt="r2WliSD42B" style="zoom:50%;" />
+
+
+
+## Nefrotiskt syndrom
+
+***Kliniska kännetecken***
+
+* Proteinuri_ ualbkrea kvot över 500mg/mM
+* hypoalbunimemi: palb under 25
+* dem
+* hyperlipidemi
+* (inte mikroskopisk hematuri, hypertoni, dessa är inte nefrotiskt syndrom men kan finnas med ibland)
+
+#### balans olika proteiner
+
+* under 24 timmar, ungefär 35kg albumin passerar njurarna.
+* glomerulus är ett filter, av detta 35kg albuminet, bara ungefär 5g hamnar i primärurin i proximala tubuli varje dag,
+* när primära urin passerar tubulära systemet resorberas en hel del albumin
+*  slutlig urin i toan är det mindre än 0.3g på 24 timmar
+
+<img src="./imgs/ped_fl_PUgTb7IRXL.png" alt="PUgTb7IRXL" style="zoom: 33%;" />
+
+***Etiologi och Patofysiologi***
+
+* ***Patogenes***
+  * glomerulär skada
+  * ökad permeabilitet för protein, proteinuri över 3.5g på 24h
+  * hypoproteinemi:
+    * minskad plasma onkotsik tryck -> ödem
+    * kompensatorisk syntes levern: hyperlipidemi
+  * Andra delar av patogenes
+    * saltretention är en viktig del av patogenesen
+    * nefrotiskt syndrom också åpverkar andra organ e.g. levern (pat hinner inte producera tillräckligtm kt protein, varpå bidrar till hypoproteinemin)
+* ***Ålder***: se nedan
+
+<img src="./imgs/ped_fl_0gVqiemQF0.png" alt="0gVqiemQF0" style="zoom:50%;" />
+
+<img src="./imgs/ped_fl_Awd44VY60K.png" alt="Awd44VY60K" style="zoom:33%;" />
+
+***Klassifikation***
+
+* ***Primär***
+  * ***Kongenital, infantil***: dessa som börjar 1a året efter födelse
+    * nefrin mutation som leder till detta
+  * Idiopatisk nefrotiskt syndrom: den största gryuppen, vet ej exakt orsaken
+  * vidare klassifikation
+    * ***MCNS: minimal change nefrotiskt syndrom***; 80%
+    * **FSGS: fokal segmental glomeruloskleros 7%**
+    * ***DMP***: diffuse mesangial proliferation 2%
+* ***Sekundär***
+  * **SLE**
+  * ***Systemisk vaskulit***
+  * ***Malignitet***: M hodgkins
+  * ***Infektiös***: hepatit B, HIV
+  * ***Metabol sjd***
+  * ***Intoxikation***
+
+
+
+<img src="./imgs/ped_fl_TvbcbvaIrU.png" alt="TvbcbvaIrU" style="zoom: 33%;" />
+
+#### Minimal change nefropati
+
+* Njurbiopsi o ljusmikroskop ser allt normalt ut: man behöver elektromikroskop
+* Normalt: ser podocyter 
+* MCD: man ser att podocyterna smälter samman, man ser inga enhetliga sådana
+
+<img src="./imgs/ped_fl_1MXdj5rE0x.png" alt="1MXdj5rE0x" style="zoom:50%;" />
+
+#### FSGS
+
+* Fokal segmentell glomeruloskleros
+* Normal vävnad ersätts med fibroblaster, varpå ärrbildning och skleros leder till att delar av glomeruli blir dysfunktionella
+* ***Det är inte en sjukdom: det är olika sjukdomar som kan presentera med FSGS bilden***
+
+
+
+<img src="./imgs/ped_fl_1Nyk9MFXYN.png" alt="1Nyk9MFXYN" style="zoom:50%;" />
+
+<img src="./imgs/ped_fl_LYGZGMdQMu.png" alt="LYGZGMdQMu" style="zoom:33%;" />
+
+
+
+### behandling nefrotiskt syndrom
+
+* ***Kongenital, infantil nefrotiskt syndrom***: strukturellt fel i glomerulus, botas ej med lkm, notera dock ej vanlig genes,
+  * Njurtransplantation: 
+* ***Idiopatiska***:
+  * ***Immunsuppression***
+    * **steroider**
+    * calcineurin inhiubitorer
+    * MMF
+    * plasmaferes (plasma byte): för att faktorer i plasma är oxiska
+    * rituximab: minska antikroppsproduktion med rituximab som är antikroppar mot B-celler
+  * Podocyt produktion
+    * ACEi och ARB: minskar trycket i glomerulus och skyddar därför glomerulus
+
+## Fall 3 - Nefritiskt syndrom (aka glomerulonefrit)
+
+* 6åå pojke
+  * ngra veckor sedan tonsillit, feber, beh antibiotika, återsätlld
+  * efter en vecka: lite svullen, HV, trött, cola färgad urin kissade mindre än vanligt
+  * ! ***BT 140/90,***  VIKTIGT ATT MAN TAR BLODTRYCKET
+  * urinsticka: protein ++, ery ++,. nit neg
+  * blod: krea 120mikroM, P-alb 30g/L, lågt C3 (det är ett komplement)
+
+<img src="./imgs/ped_fl_3OamADUJs3.png" alt="3OamADUJs3" style="zoom:33%;" />
+
+* Bilden visar mesangioproliferation: mesangiecellerna i glomerulus är många, det är en ***ospecifik bild tho***
+* gör man immunofluoroscens: för IgG och komplement, ser man att en del C3 har aggregerats i glomerulus, 
+  * man ser också deponering av komplement, subepiteliala humps, man ser en klump i mitten bilden, under podocyt utskotten, ser osså på EM bilden
+
+
+
+## Nefritiskt syndrom aka glomerulonefrit
+
+***Kliniska kännetecken***
+
+* Hematuri
+* proteinuri: mindre än nefrotiskt syndrom
+* hypertoni
+* minskad GFR
+* ödem: ingen paradmanifestation i glomerulonefrit nefritsitks
+
+
+
+***Etiologi och Patofysiologi***
+
+* Primär
+  * idiopatisk: ingen bra facit på vf barnet drababts
+    * DMP
+    * MPGN 1,2,3
+* ***Sekundär***
+  * **Postinfektiös**
+  * IgAN, HSN
+  * komplement dysfunk
+  * SLE
+  * systemisk vaskulit
+  * malignitet, M hodgkin
+* ***Patogenesen i fallet ovan***
+  * **immunkomplex**
+  * komplementdeposition
+    * inflammation
+    * cellprolif
+    * skada och fibros
+
+<img src="./imgs/ped_fl_eaegfmvcjT.png" alt="eaegfmvcjT" style="zoom:50%;" />
+
+* Pilarna visar öarna med mesangial celler
+
+
+
+##### Cellulär crescent
+
+* Celler som bildar halvmåneform, det är celler som destruerar och ersätts, varpåfår fibroblaster och matrix,
+* detta vill man inte se, för att det är kraftig inflammation och fara för severe skleros...
+
+<img src="./imgs/ped_fl_ey41L61RAT.png" alt="ey41L61RAT" style="zoom:50%;" />
+
+***Segmentell skleros***
+
+* Crescent och segmentell skleros är svåra att skilja
+
+<img src="./imgs/ped_fl_nywF2P5GNh.png" alt="nywF2P5GNh" style="zoom:50%;" />
+
+
+
+***Ny klassifikation***
+
+* Baserat på patogenes hos glomerulnefriter: 
+  * immunkomplex medierad glomerulonefriter och komplementmedierad
+
+***Behandling***
+
+* ***Vätskebalans: diuretika***
+* **Immunsuppression**
+  * steroider
+  * calcineurin inhibitorer
+  * MMF
+  * plasmaferes
+  * rituximab
+* Podocyt protektion
+  * ACEi, ARB
+
+## Take-home
+
+* Barn är inte små vuxna
+* akut: tänk på vätska lungödem o kaliun
+* urinvägsinfektioner är vanliga o kan leda t ärrbildning
+* vanligaste syndromen hos barnen är nefros o nefrit
+  * nefrotiskt syndrom != nefritiskt syndrom

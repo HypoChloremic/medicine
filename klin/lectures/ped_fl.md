@@ -4955,3 +4955,103 @@ PHYSICAL EXAMINATION
 
 
 <img src="./imgs/pedfl_F2FBntW7Dr.png" alt="F2FBntW7Dr" style="zoom:50%;" />
+
+### Fall 3 - perikardit
+
+* 16åå pojke
+  * tidg frisk, söker akut, pga bröstsmärta feber
+  * status: blek, kallsvett, ter sig stressad, sitter upp, takykard
+  * lab: crp 280, trop normalt
+
+### Perikardit
+
+***Kliniska kännetecken***
+
+* Bröstsmärta: ofta skarp kraftig
+* smärtan förbättras i sittande: framåtlutad
+* subfebril
+* hjärtklappning
+* andningsbesvär
+* svimning
+
+***Behandling***
+
+* NSAID: ipren
+* kortison
+* kolkicin
+* i det här fallet: krävdes perikardiocentes och perikarddrän
+
+### Myokardit
+
+***Kliniska kännetecken***
+
+* Smärta
+* palpation
+* shortness of breath
+* fatigue
+
+***Behandling***
+
+* smärtstillande
+* hjärtsvikt medicinering
+* anti-arrytmi läkemedel
+
+***EKG***
+
+* sinustakykardi
+* ST-höjningar: dynamisk
+* low-voltage
+* T-vågsförändringar
+* arrytmi: e.g. nytillkommen AV blockering
+
+### Endokardit
+
+***Etiologi och Patofysiologi***
+
+* Infektion påverkar hjärtat
+* vanligtvis involverar klaffarna
+
+***Behandling***
+
+* Antibiotika iv
+* kirurgi?
+
+***Högriskgrupper***
+
+* Historik endokardit
+* mekansik klaff
+* kongenital hjärtdefekt
+* immunsupprimering
+* iv läkemedelsanvändning
+
+***Endokardit profylax***
+
+* antibiotika profylax innan kirurgi eller tandingrepp
+
+
+
+## Kawasakis
+
+***Diagnostiska kriterier***
+
+* Feber över 4 dagar, och 4 av dessa kriterier
+  * konjunktivit
+  * cervikal adenopati
+  * erythem
+  * orala förändringar
+  * palmara erythem
+
+<img src="./imgs/pedfl_ihdtfvPjhm.png" alt="ihdtfvPjhm" style="zoom:50%;" />
+
+## Take-home message
+
+* Basic anatomyand howthe circulationworks
+* Signsand symptoms ofheartdisease.Red flags: syncope, chestpain, arrhythmia, failureto thrive.
+* Murmurs–benign vs pathologic
+* Typesofheartdisease(cyanotic, obstructive, shunt) VSD, ASD, PDA, AS, PS, PDA, CoA, TGA, ToF, AVSD, HLHS
+* Basic ECG and howit changesduringchildhood
+* SVT –mechanisms, diagnosisand treatment
+* Aquiredheartdisease(myocarditis, pericarditisand Kawasaki)
+
+# Barnonkologi
+

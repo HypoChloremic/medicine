@@ -5055,3 +5055,322 @@ PHYSICAL EXAMINATION
 
 # Barnonkologi
 
+## Kunskapskrav
+
+* Handläggning misstänkttumör/leukemi
+* Akutaonkologiskasitutioner(ovanliga men livshotande):
+* Neutropenfeber
+* Högt ICP, hotande inklämning
+* Hotande tvärsnittslesion
+* Mediastinaltumör/venacavasuperior
+* syndrom
+* (Akut tumörlyssyndrom)
+
+
+
+## Handläggning misstänkt tumör
+
+* Tecken
+  * Förstorad lymfkörtel: vad är normalt?
+  * knöl i buken
+  * knöl ngn annanstans
+* palpera ev ompalpera: körtel - kanske vänta ett par veckor
+* ev ultraljud
+* ev finnålspunktion
+* remiss/tel-samtal t akutsjukhus / barnonkologi
+
+## Neutropen feber
+
+* Vanlig situation under cytostatikabehandling
+  * effekt cytostatika på benmärgen
+  * effekt leukemi tumör i benmärgen
+* feber över 38.5 eller över 38 i mer än en timme
+* neutrofiler under 0.5 x 10^9 / L = svår neutropeni
+* risk allvarlig bakteriell eller annan infektion
+
+***Handläggning***
+
+* Odla: blod, ev urin ev npph
+* IV bredspektrum ab
+* Inläggning
+* Tiden!
+* Gr- savar, staffar, mfl
+* Ev invasiv svamp jästsvamp, aspergillus: särskilt vid lång neutropeni
+
+## CNS - hotande inklämning, tvärsnittslesion
+
+* CNS-symptom: 
+  * HV, (morgon-) 
+  * illamående/kräkningar, 
+  * medvetandepåverkan, 
+  * kranialnervspares, 
+  * pares i armar/ben, 
+  * balans-/gångsvårigheter, 
+  * enures
+* Akut DT hjärna + ev. spinalkanal
+* Vid fr.a. tumör i bakre skallgropen eller spinalt => ökad risk för högt lokalt tryck
+* Kontakta neurokirurg –akut!
+* Ev.ge avsvällande: Betapred? Mannitol?
+
+## Tumörlys-syndrom
+
+![uBa8bAMZTI](./imgs/pedfl_uBa8bAMZTI.png)
+
+
+
+![sfO21VuKPv](./imgs/pedfl_sfO21VuKPv.png)
+
+
+
+## Mediastinal tumör, vena cava sup-syndrom
+
+* Mediastinaltumör
+* +/-hyperleukocytos
+* Kompression av VCS
+* Kompression av trachea
+* Förhöjt CVP
+* ***Behandling***: steroider –helst efter diagnos (blod?, FNA?, BM i lokalbedövning??)
+* ***UNDVIK***: steroider innan kontrollerad situation, anestesi/muskelrelaxation
+* Associerat med tumörlys-syndrom
+
+
+
+## Behandlingsresultat
+
+![PHdMLg52CC](./imgs/pedfl_PHdMLg52CC.png)
+
+
+
+## Behandling barncancer - 4 ben
+
+* Strålning
+* kemoterapi
+* kirurgi
+* 
+
+
+
+## Fördelning barncancerdiagnoser
+
+![YvxmOAt13Z](./imgs/pedfl_YvxmOAt13Z.png)
+
+
+
+![dBnACN1BbS](./imgs/pedfl_dBnACN1BbS.png)
+
+
+
+
+
+![i3PyYyJyAc](./imgs/pedfl_i3PyYyJyAc.png)
+
+
+
+## Etiologi
+
+* Ca 5% av fallen associerade med ärftliga genetiska tillstånd, oftast mutationer i tumörsuppressorgenereller onk-gener.
+  * Ex. TP 53 (Li-Fraumeni), WT-1, NF-1, RB1, Fanconi
+  * Sannolikt en viss underskattning, allt fler blir kända.10%? Mer?
+* De allra, allra flesta fallen är isolerade, dvs inga fler i närmaste släkten. Oklar gene
+
+## Fall 1 - barnleukemi
+
+* 3-årig flicka
+  * Söker pganäsblod, stora blåmärken
+  * Feber/infektioner 3 st senaste månaden
+  * Ont i benen av och till en månad
+  * Orkar inte på dagis
+  * På akuten
+  * Mycket blek: Hb 53
+  * Petechierpå bålen, blåmärken underben, armar, TPK 16
+  * Lever 1 cm, mjälte 4 cm
+  * Små körtlar axiller och hals
+  * LPK 2,3
+
+## Barnleukemi
+
+![6SyF2cY85s](./imgs/pedfl_6SyF2cY85s.png)
+
+
+
+### ALL 
+
+***Epidem***
+
+![ZcQVlzn5CD](./imgs/pedfl_ZcQVlzn5CD.png)
+
+***Kliniska kännetecken***
+
+* Symptom från benmärgssvikt (Hb, TPK, LPK)
+    * Blek, trött –Hb ger oss DYNAMISK information!
+    * Blöldning(konstiga blåmärken, slemhinneblödning)
+    * Infektioner (bakterier 
+    * neutropeni)
+* Symptom av lokal leukemiinfiltration
+    * Lymfkörtlar, lever, mjälte
+    * CNS (mindre vanligt), högt ICP, kranialnerver
+    * Mediastinum! –VCS
+    * syndrom, obstruktiva luftvägssymptom
+    * Hyperleukocytosèhög viskositet–lungsymptom, CNS
+    * symptom
+* Smärta –skelett, ben, buk
+* Feber
+    * Cytokinfrisättning (IL
+    * 6, IL
+    * 2, TNFa) från leukemiceller
+* Metabola effekter
+    * Koagulopati, njursvikt (infiltration, urat, Ca
+    * fosfat)
+
+***Behandling***
+
+![B4ULBBtxhX](./imgs/pedfl_B4ULBBtxhX.png)
+
+
+
+## Fall 2
+
+* 10-årig pojke
+    * Söker akut för astma(3 ggr senaste veckan)
+    * Röd i ansiktet senaste dagarna
+    * Huvudvärk
+    * I övrigt pigg
+    * På akutmottagningen:
+        * Hb 124
+        * Vill/kan inte ligga ned
+        * Lever 4 cm, mjälte 10 cm
+        * Stora körtlar i axiller, på hals, i ljumskar
+        * Grovt andningsljud, inga rhonki
+        * Fyllda halsvener i sittande
+
+## Fall 3
+
+* 3-årig flicka
+    * Ostadig, haltar
+    * Huvudvärk 2 mån, började som migrän
+    * Mår illa, kräkts på morgonen –bättre på dagen 
+    * Skelning dryg vecka
+    * På akutmottagningen:
+        * Ataktisk gång
+        * Klarar inte finger-näs, störd koordination
+        * Rombergs prov –falltendens åt vänster
+        * BT 130/90 mm Hg
+        * Partielllpares N III sin. (oculomotorius)
+
+## CNS-tumörer hos barn
+
+* Oftast bakre skallgropenè
+  * Tidig hydrocefalus-huvudomfång (spädbarn)!
+* Lillhjärnssymptom
+* Kranialnervssymptom
+* Personlighetsförändring
+* Epilepsi
+* Graderas enl. WHO (I-IV)
+  * -Reflekterar tillväxthastighet och aggressivitete
+* Ibland kopplat till NF1-opticusgliom
+  * -låggradiga tumörer
+
+![f8yDCASZMs](./imgs/pedfl_f8yDCASZMs.png)
+
+### Akutsituation
+
+* Tumör i  mellersta/bakre skallgropen
+* Avflödeshinder CSF
+* Hydrocefalus(icke-kommunicerande)
+* Förhöjt ICP
+* Risk inklämning -död
+* AKUT CT
+* Steroider? Mannitoldropp?
+* Akut neurokir. konsult
+
+![q5QxBereCa](./imgs/pedfl_q5QxBereCa.png)
+
+
+
+## Fall 4
+
+* 4åå flicka
+  * pigg, opåverkad
+  * modern upptäckte knöl magen då hon badade hnm
+  * på akuten
+    * ick ömmande knöl i buk t vänster, bt 130/90
+    * i övrigt ua
+
+## Övriga tumörer
+
+***Kliniska kännetecken***
+
+* Knöl
+* smärta: särskilt nattetid
+  * skelettumörer
+* B-symptom: ffa lymfom
+* tumor med blödning: neuroblastom
+* invagination, ileus: lymfom, sarkom
+* hematuri: wilms
+* urinretention
+* kompression ryggmärgen: lymfom, neuroblastom
+
+
+
+## Behandlingar barncancer
+
+### Biverkningar
+
+***Akuta***
+
+* Illamående, kräkning
+* Tappar håret
+* Pancytopeni
+    * Infektioner
+    * Blöding
+    * Trött/blek
+* Neuropati
+* Förstoppning
+* Smärta
+    * Mukosit
+
+***Sena/permanenta***
+
+* Strålning
+    * Neurokognition(CNS)
+    * Endokrina (hypofys/gonader)
+    * Asymmetri/ärr/funktionsbortfall
+* Kirurgi
+    * CNS-effekter, amputation,  etc
+* Cytostatika
+    * Antracyclin–kardiomyopati
+    * Alkylerare–fertilitet
+    * Platina –njurfunktion, hörsel
+* Alla: sekundär cancer
+
+## Hur tala med familj om cancer
+
+* Gott om tid, helst ostört samtal
+* Rakkommunikation om misstanken
+* Varsam/försiktig info om prognos
+* Visa upp en plan -konkret
+* Informera om remittering/överflyttning till rätt vårdinstans
+* Gissa inte:
+  * Olämpligt att lämna alltför positiva besked som du eller någon annan måste stå förI stället, var stöttande, 
+  * förklara att vi behöver undersökningar för att kunna bedöma situationen
+
+## Vid misstänkta cancer - vart vänder jag mig
+
+* 6 barncancercenter i Sverige:Stockholm, Göteborg, Lund, Uppsala, Linköping, Umeå
+* Barnläkarföreningen (BLF), SektionenförPediatriskHematologi& Onkologi(PHO):
+    * SBLG–Svenska Barnleukemigruppen
+    * VSTB–Vårdplaneringsgruppen för solida tumörer hos barn
+    * VCTB–Vårdplaneringsgruppen för CNS
+    * tumörer hos barn
+    * VPH–Vårdplaneringsgruppen för (benign) barnhematologi
+* NOPHO –NOrdicsocietyfor Pediatric Hematology and Oncology
+* SIOP–Société International d’OncologiePédiatrique
+
+## Sammanfattning
+
+* Barncancer –ovanliga diagnoser (ca 300/år i Sverige)
+* Annat diagnosspektrum än hos vuxna
+* (Oftast) botbara sjukdomar –80% överlever
+* Kontakta barncancercenter vid misstanke 
+* If suspicion: straight information and referral, cautionregardingprognosis–don’tguess!
+* Man behöver tänka på behandlingskomplikationer, på kort och lång sikt –allt fler överlevare

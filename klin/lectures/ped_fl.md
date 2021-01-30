@@ -1,5 +1,3 @@
-
-
 # PED Lectures
 
 ## Barnets normala utveckling
@@ -3748,7 +3746,1212 @@ Händerna väldigt karakteristiska
 
 * po antihistaminer
 
+# Inflammatorisk reumatisk sjd
+
+***Juvenile Arthritis***
+
+* Juvenile Idiopathic arthritisArthritis ass. With infection
+* –Septic arthritis/osteomyelitis
+* –Reactive arthritis
+* –Acute rheumatic fever
+* –Post-enteric/GU-infection
+* –Irritable hip /transient synovitis
+
+***Connective Tissue Disorders***
+
+* –Systemic Lupus Erythematosus
+* –Juvenile Dermatomyositis
+* –Localized scleroderma
+* –Systemic sclerosis
+* –Eosinophilic fascitis
+* –MCTD / Overap Syndromes
+
+***Immunodeficiences associated with Arthritis***
+
+* ComplementComponent Deficiences
+* –AntibodyDeciciencysyndromes
+* –Cell mediateddecifiences
+
+***Primary Vasculitis***
+
+* Polyartritis nodosa
+* Kawasaki disease
+* Henoch-Schönlein purpura
+* Hypersensitivity vasculitis
+* Allergic granolomatosis
+* Wegeners granulomatosis (GPA)
+* Takayasu ́s arteritis
+* Behcet ́s disease
+* Primary CNS vasulitis
+* Cogan syndrome
+* Other
+
+***Familial Autoinflammatory Diseases/Periodic Fever***
+
+* FamilialMediterraneanFever
+* TRAPS
+* PFAPA
+* CINCA / NOMID
+* FamilialCold Urticaria
+* MucleWells Syndrome
+* BlauSyndrome
+* Hyper-IgDSyndrome
+* PAPA
+
+## Icke-inflammatorisk sjd i rörelseapparat
+
+***Idiopathic pain syndromes***
+
+* Overuse syndromes
+* Trauma associated syndromes
+* Pain syndromes affecting back chest neck
+* Skeletal dysplasias
+* Heritable disorders of connective tissue
+* Storage disease
+* Metabolic disease
+* Systemic diseases with muculoskeletal manifestations
+* Hyperostosis
+* Neoplasia
+
+## Juvenil idiopatisk artrit JIA
+
+***Definition***
+
+* Svullnad av en led 
+* ELLER inskränkt rörelseförmåga i en led med smärta eller palpationsömhet, dvs artrit
+* av minst 6v duration
+* observerat av läk
+* inte primärt orsakad av mekaniska eller andra identifierbara orsaker
+
+***Förekomst***
+
+* Incidens: 12-18 p 100k
+* Prevalens: 60-80 p 100k
+  * 4x vanligare cystisk fibros
+  * 10x vanligare än ALL, hemofili, muskeldystrofier
+* 300-350 nya fall p år JIA i Sverige
+* prevalens ca 2000 i Sverige
+
+***Utredning***
+
+* ***Ärftlighet***
+* ***smärtan***: var, hur länge, vilken  sort
+* ***undersök***: artirit, artralgi, entesopati, exantem etc
+* ***provtagning***: viktigt intitialt för diff, liten hjälp senare
+  * ***CRP, SR***: systemisk inflammation, inflammation, 
+  * ***blodsattus diff***: leukemi: 
+  * ***ANA***: risk för iridocyklit: 
+  * ***borreliaserologi***: antibiotika
+  * ***skelett-röntgen***: tumör, ortopedi, infektion
+* ***Annat:*** RF, anti-CCP, odlingar serologi, CK, ALAT, ASAT,A Krea, skelettscint, Ultraljud, MR med gadoliniumkontrast
+
+***Differentialdiagnostiskt***
+
+* Barn o ungdomar har ofta ont i lederna
+* Kan var mkt mer än reumatisk sjd
+  * Skada
+  * idrottsträning
+  * överrörliga leder
+  * ortopediska sjd tex schlatter
+  * fästingbett borrelia
+  * andra infektioner: glöm aldrig septisk artrit
+  * leukemi / malignitet
+  * ont i själen
+  * hypersensitivitet
+  * annat
+
+***Kriterier***
+
+* ***JIA / ILAR***
+  * tid: 6 veckor
+  * Systemisk 10%
+  * oligo 40%: besteånde, utvidgad
+  * polyartrit 
+    * RF-negativ: 15%
+    * RF-positiv
+  * Enetesit 4%
+  * psoriasis 3%
+  * annan 20%
+* ***JCA / EULAR***
+  * tid: 3mån
+  * systemisk 7%
+  * pauci 67%
+  * polyartrit 25%
+  * JAS 2%, artrit m IBD
+  * JPA 3%
+* ***JRA / ACR***
+  * 6v
+  * systemisk 7%
+  * pauci 67%
+  * polyartrit 25%
+  * utesluten entesit
+  * utesluten psoriasis...
+
+
+
+***Behandling***
+
+* JIA ej systemisk form, har en behandlignstrappa
+* Along the way ger man kortisontabletter + kortisonspruta i leden
+* NSAID
+* methotrexat, salazopurin
+* anti-TNF
+* orencia, anti IL6
+* mabthera, JAK hämmare
+
+<img src="./imgs/ped_fl_x8mM6xEk0N.png" alt="x8mM6xEk0N" style="zoom:33%;" />
+
+## Oligoartrit
+
+* Debutålder: tidigt under barndomen
+* ***Fölopp*** : persisterande / utvidgad
+* ***Drababde leder:*** under 5 leder, 
+  * stora leder, med knä, fotled, handled, armbåge, käkled, nacke
+* ***Inte systemisks sjd***
+* ***komplikationer:*** kronisk uveit, lokala tillväxtstörningar
+
+## Polyartrit RF negativ
+
+* Debut: barn ngdom
+* drabbade leder: över 4 leder, vilken som helst, ofta symmetristk
+* systemisk sjd: sjukdomskänsla, trötthet, subfeb
+* komplikationer: generell tillväxtstörning, inkl sen pubertet
+
+
+
+## Polyartrit RF-pos
+
+* ***Debutålder***: tonårsflickor
+* ***Drabbade leder:*** över 4 leder, vilken som helst, ofta symmetriskt, o småleder
+* ***systemisk sjd:*** sjd känsla, trötthet, subfeb
+* ***komplikationer***: generell tillväxtstörning inkl sen pubertet
+
+
+
+## Entesitrelaterad artrit
+
+tidiagre ***juvenil ankyloserande spondylit***
+
+* ***Debutålder***: ungdomar
+* ***drabbade ledare***: kotpelare, SI-leder, bröstkorgm nedre extremiteter, daktylit
+* ***Systemisk sjd***: IBD
+* ***Komplikationer***: akut smärtsam uveit, IBD
+
+## Psoriasisartrit
+
+* Debutålder: ungdomar
+* drabbade leder: kotpelare, nedre extr, DIP, daktylit
+* komplikationer: psoriasis
+
+## Systemisk JIA - Mb Still
+
+* ***Debut***: hela barndomen
+* ***drabbade leder***: vilken som helst
+* ***systemisk sjd***: hög feber, utslag, polyserosit, markant akutfassvar (S-ferritin)
+* ***komplikationer***: 
+  * Akut: MAS
+  * sent: generell tillväxtstörning, sen pubertet
+
+***Kriterier***
+
+* ***Artrit***
+* ***Feber***: 2v som varit ***karaktäristiskt i minst 3 dagar***, samt en/flera av
+  * flyuktigt erytematöst laxrosa utslag
+  * generell lymfadenopati
+  * hepatomegali, splenomegali
+  * serosit
+* ***ej exklusionskriterier***
+
+<img src="./imgs/ped_fl_IITiKbP03N.png" alt="IITiKbP03N" style="zoom:33%;" />
+
+***Prognos***
+
+* 50% i remission utan restsymptom
+* 30-40% lättare aktivitet / sequele
+* 10-20% med betydande problem
+* mindre sequele senare år
+
+
+
+***Behandling***
+
+* Också en behandlingstrappa
+* along the way kortisontabletter + kotisonspruta i leder along the way
+* NSAID, bas
+* anti-IL1 anti-IL6
+* methotrexate
+* anti-TNF
+
+<img src="./imgs/ped_fl_oVM2ydWZFr.png" alt="oVM2ydWZFr" style="zoom:33%;" />
+
+
+
+<img src="./imgs/ped_fl_AiOCIKvhge.png" alt="AiOCIKvhge" style="zoom:67%;" />
+
+
+
+### spruta i leder
+
+<img src="./imgs/ped_fl_iwDQTNmLJw.png" alt="iwDQTNmLJw" style="zoom:50%;" />
+
+
+
+## Autoimmunitet
+
+* Mot mikroorganism: konstitutiva immunsystemet aktivear Thjälpar celler interagerar med B celler, mha cytokiner, B cellerna release antikroppar
+* Mot self, autoimmunitet: att detta system korsluts, att man reagerar mot sig sj
 
 
 
 
+
+## Juvenil SLE
+
+### Diagnos
+
+* Klassifikationskriterier: 4 av 11 ger 96% sensitivitet och specificitet
+  * Fjärilserythem
+  * Discoida utslag
+  * Ljuskänslighe
+  * Orala nasala sår
+  * Artrit icke erosiv
+  * Nefrit
+  * Krampanfall psykos
+  * Pleurit perikardit
+  * Cytopeni
+  * Pos auto-ak dsDNA, sm
+  * Pos ANA
+
+### Behandling
+
+* NSAID: led o muskelsymptom
+* hydroxyklorokin (plaquenil): särskilt sommartid
+* perorala steroider
+* azatioprin: imurel
+* rituxumab: mabthera
+* mykomofetylfenolat-MMF: cellcept
+* belimumab benlysta
+* iv metylprednisolon puls i 1-3 dgr
+* cyclofosfamid sendoxan poulsbeh vid svår enfrit, eller cns lupus
+
+## Juvenil dermatomyosit JDM
+
+### Diagnos
+
+* ***Hudutslag***
+  * gottrons papler
+  * heliotropiskt utslag
+* ***Symmetriska proximal muskelsvaghet***
+  * Muskelenzymer
+  * histopatolog
+  * MR
+  * EMG
+* ***myositspecifika antirkoppar***
+  * tex MDA5, NXP2, TIF1-gamma
+
+### Symptom vid diagnos
+
+* ***Svaghet*** 100%
+* ***utslag*** 100%
+* ***muskelsmärta*** 72%
+* ***sväljning*** 45%
+* ***buksmärtor*** 37%
+* ***artrit*** 26%
+* ***calcinos*** 22%
+
+***PAD***
+
+* Vaskulopati i små kärl
+* Mikrotromboser
+* Perifascikulär atrofi vid typ I och typ II fibrer
+
+### Behandling
+
+* ***Högdos steroider*** 2mg/kg
+* ***Vid behov iv solumedrol***
+* ***Methotrexate ev ciclosporin ev ivig***
+* ***Biologisk terapi***: rituximab orencia jak hämmare
+
+## Klassifikation pediatriska vaskuliter
+
+* ***Vaskulit stora kärl***: takayasu arterit
+* ***Vaskulit medelstora kärl***: Polyarteritis nodosa, kutan polyarteritis, Kawasakis sjukdom
+* ***Vaskulit små kärl***: 
+  * ***Granulamatös inflammation***
+    * Granulomatös polyarterit GPA
+    * eosinofil granulomaös polyarterit EGPA
+  * ***Icke-granulamatös inflammation***
+    * Mikroskopisk polyangit MPA
+    * henoch-schönlein purpura
+    * isolerad kutan leukocytokalstisk vaskulit
+    * hypokomplementär urtikariell vaskulit
+* ***andra vaskuliter***
+  * ***behcet***
+  * ***vaskulit*** t infektion
+  * ***vaskulit*** t bindvävs sjd
+  * ***primär*** angit i CNS
+  * ***cogans*** ssyndronm
+  * ***oklassificierad*** vaskulit
+
+## Henoch schönleins purpura
+
+### Diagnostiskt
+
+* ***Klassifikation***: EULAR PREeS 2006
+* ***palpabel purpura*** (huvudkriterie) + minst en av följande
+  * ***diffus buksmärta***
+  * ***biopsi med IgA-deposition***
+  * ***Akut artrit eller artralgi***
+  * ***njurpåverkan***: hematuri och/eller proteinuri
+
+***Kliniska kännetecken***
+
+* ***Vanligaste vaskuliten hos barn***
+* ***incidens 10-20 p 100k barn /år***
+  * som JIA ca 1 veckai Sthlms län
+* ***högst insjuknande vid 4-6åå***
+* ***1.2:1 p:f något vanligare*** hos vita o asiatiska barn än hos afrikanska
+* Symmetrisk artrit i knä och eller fot
+* Ofta periartikulärt ödem
+* Artriten kan komam före purpura med flera veckor
+* Gör ordentligt ont
+* Övergående
+* ***Njure***
+  * föregår sällan purpura
+  * mikroskopisk hematuri vanligast
+  * makroskopisk hematuri
+  * nefrit
+  * nefros
+  * njursvikt
+* ***Buk***
+  * Buksmärtor
+  * Kräkningar
+  * Blödning
+  * Perforation
+  * Invagination
+  * Pankreatit
+
+***Handläggning och Utredning***
+
+* ***Primär utredning***
+  * ***Blodprover***: blodstatus, kreatinin
+  * ***Urinstatus***: urinsticka
+  * ***Blodtryck***
+  * ***Strep A*** test
+* ***Sekundär utredning***
+  * ***Njure***
+    * U-sediment + U-alb/krea
+    * Cystatin-C, albumin, sänka, PK
+    * ASO titer
+    * IgA, C3, C4
+    * ANA, anti-DNA, C-ANCA
+  * ***Buk***
+    * Ultraljud
+    * BÖS
+  * ***andra organ***
+
+<img src="./imgs/ped_fl_EcBUqsbUhU.png" alt="EcBUqsbUhU" style="zoom:50%;" />
+
+<img src="./imgs/ped_fl_eTZIMLCzWZ.png" alt="eTZIMLCzWZ" style="zoom:67%;" />
+
+
+
+### Behandling
+
+* Penicillin mot streptokocktonsillit
+* paracetamol NSAID mot ledsmärta och buksmärta: 
+  * försiktigthet vid GI blödning eller njursvikt
+* ACE hämmare mot hypertension
+* Prednisolon 1mg/kg
+  * minskar ledsymptom
+  * minskar GI symptom
+  * minskar inte risken för uteckling av nefrit
+* ***Hypertoni***
+  * BT >90 percentilen korrelerat för kön och ålder
+  * behandlas oberoende av grad av sjukdomsaktivitet
+    * ACE-h
+    * kontroller
+    * konsult barnnefrolog enl behandlingsrekommendationer
+* ***Prognos***
+  * ***Oftast självbegränsande 1/3 återkommande symptom 4-6mån***
+  * ***Risk för nedsatt njurfunktion***
+    * ingen om normalt urin efter 6 mån
+    * 1.5% om isolerad hematuri / proteinuri vid debut
+    * 20% om nefrit / nefros vid diagnos
+
+## Kawasaki
+
+* Först beskriven av Dr Kawasaki 1967 i Japan
+* akut febril systemisk vaskulit i små-medelstora kärl
+* kan kompliceras av kranskärlsförändringar och eller pankardit
+* vanligaste orsaken till förvärvad hjärtsjukdom
+
+### Diagnos
+
+* Klassifikation EULAR / PReS 2006
+  * feber under minst 5d PLUS fyra av följande
+    * förändringar perifert på extremiteter eller i perianalregionen
+    * polymorft exanthem
+    * bilateral konjunktival injektioin
+    * förändrigar läppar munhåla oral o faryngeal mukosa
+    * cervikal lymfadenopati
+  * kan diagnosticeras med färre kriterier om kranskärlsaneurysm har påvisats
+
+### Epidemiologi
+
+* 80% av insjuknande barn yngre än 5åå
+* vanligare hos barn med asiatiskt urspring
+  * 110 p 100k japan
+  * 5-10 p 100k västvärlden
+* vanligare hos pojkar, något
+* de flesta fall under vinter och vår
+
+### Sjukdomsförlopp
+
+* ***Akut fas 1-11d***
+  * Feber, höga inflammationsparametrar
+  * risk för myokardit och kranskärlsdilatation
+* ***Subakut fas 12-21d***
+  * Trombocytos, fjällning
+  * risk för aneurysmbildning och trombos
+* ***Läkningsfas >21d***
+  * Inflammation i rgress
+  * risk för ärrbildning med stenosering, utv av infarkt ischemisk hjärtsjd
+
+<img src="./imgs/ped_fl_NmHT9BehcM.png" alt="NmHT9BehcM" style="zoom:80%;" />
+
+
+
+### Handläggning och utredning
+
+* ***Primära prover***
+  * Blodstatus+B-celler
+  * leukocytosmed neutrofili
+  * anemi
+  * trombocytosefter 2-3 v
+  * Blododling
+  * Urinstatus, krea, elektrolyter, albumin
+  * CRP och SR
+  * ASAT, ALAT
+  * Streptokockserologi
+  * proBNP
+  * Utvidgad Infektionsdiagnostik
+  * Akutserum
+* ***Hjärtdiagnostik***
+  * RTG hjärta och lungor
+  * Hjärtförstoring
+  * EKG 
+  * Förlängt QT
+  * Ledningshinder
+  * Tecken till iskemi/infarkt
+  * Hjärteko
+  * Pericardvätska
+  * Nedsatt kontraktilitet
+  * Myocardit/pericardit/valvulit
+  * Koronarkärlsdilatation/anerysm
+  * Trombotisering
+
+### Aneurysm
+
+* utan behandling hos 20-25%
+* med tidig ehandling
+  * 5% övergående kranskärlsdilatation
+  * 1% stora aneurysm, över 8mm
+* kontroller med hjärteko 2v och 8v efter behandlingsstart
+* ofullständig bild vanlig före 1åå med risk för ett allvarligare förlopp
+
+### Misstänk inkomplett kawasaki hos:
+
+* ***spädbarn (< 1 år) med feber ≥ 7 dagar utan annan förklaring*** 
+* ***spädbarn/barn med hög feber > 5 dagar och 2–3 kriterier utan annan förklaring.*** 
+* Avvikelser på ekokardiografi talar starkt för Kawasaki och ska medföra behandling. 
+* Följande fynd stödjer diagnosen inkomplett Kawasaki: 
+* förhöjt CRP och/eller SR 
+* anemi för åldern 
+* LPK > 15 
+* TPK > 450 efter sju dagar med feber 
+* albumin < 30, 
+* förhöjt ALAT 
+* vita blodkroppar i urinprov utan bakterier
+
+#### Behandling, inkomplett Kawasaki
+
+* IVIG 
+* En dos på 2 g/kg ges intravenöst som infusion under 8-12h. I nuläget finns data som talar för bättre effekt om behandlingen ges på högst 12h, men om barnet har hjärtpåverkan och ej klarar volymsbelastning kan dosen delas upp på två dagar.  
+* Behandlingen påbörjas så snart diagnosen är ställd, helst inom 7 dagar från symtomdebut, men bör ges även om diagnosen ställs senare. 
+* Acetylsalicylsyra 
+* Ges i antitrombotiskdos, 2–5 mg/kg/dygn i 6–8 veckor 
+* Steroider
+* Biologisk
+
+<img src="./imgs/ped_fl_kWwZL8Xs8a.png" alt="kWwZL8Xs8a" style="zoom:67%;" />
+
+
+
+
+
+# Obesitas
+
+## BMI
+
+* Gäller ej barn!
+  * Normalvikt: 18-25 BMI
+  * Övervikt: 25-30
+  * Fetma: över 30
+* För barn, verkar det finnas en kontinuerlig gräns kontinuerligt närmar sig gränsen som man har för vuxna
+
+
+
+<img src="./imgs/pedfl_rgWFVZrtEN.png" alt="rgWFVZrtEN" style="zoom: 50%;" />
+
+
+
+<img src="./imgs/pedfl_Ht6oYCIy0R.png" alt="Ht6oYCIy0R" style="zoom: 33%;" />
+
+## Fetma med tanke på tillväxtkurvor
+
+* Har man långa barn lär de ligga högre vad gäller vikt också. Kommer finnas trösklar där barnet inte lider av fetma men där BMI gränsen definierar d som sådant
+
+<img src="./imgs/pedfl_sa2EfAXHSr.png" alt="sa2EfAXHSr" style="zoom:50%;" />
+
+### Gällande längd
+
+* VIkten driver längre, varpå fetare barn kommer att vara längre än avg, varpå man kanske får psykosociala problem iom att man instinktivt ställer icnke åldersadekvata kravp på barnet för att det ter sig äldre men i verkligheten är yngre. 
+* ***Längd***: kommer att drivas av vikten, så barnet kommer att ligga ngn eller ngra SD ovan, vad gäller längd också
+* ***Fram till puberteten:*** Denna längdskillnad kommer att fortstätta drivas fram till puberteten. Man 
+* ***standard deviationerna minskar med åldern:*** ser man i bilden nedan, att standard deviationen över tid kommer att minska förfetare barn med att de närmar sig 0 SD med åldern
+* ***Under puberteten, växer mindre***: barn med fetma växer mindre än normalviktade barn under puberteten, därför samma medellängd till slut. 
+
+
+
+<img src="./imgs/pedfl_6sdis0uP4j.png" alt="6sdis0uP4j" style="zoom: 33%;" />
+
+
+
+<img src="./imgs/pedfl_Nrw1UpXeoT.png" alt="Nrw1UpXeoT" style="zoom:33%;" />
+
+
+
+## Gränsen variabel med åldern
+
+* ***VId given ålder, olika gränser:***  exempelvis ser man i grafen nedan att vid 10åå behöver man ligga 45% över medelBMI för att få diagnosen fetma
+* ***För 3åå:*** 18% över normal BMI
+* Krävs mkt för att få diagnosen 10åå.
+
+<img src="./imgs/pedfl_tzOcsWEvLT.png" alt="tzOcsWEvLT" style="zoom:50%;" />
+
+
+
+### Take-home
+
+* Långa brn får högre BMI för att de är långa
+* barn med fetma blir längre: för att de har fetm
+* barn som är symmetriska i längd o vikt har inte samma kroppskonstitutio när de är korta o långa
+* barn med BMI = fetma i 3åå behöver inte ha fetma
+* barn som är korta i 10-12åå och har BMI=övervikt kan lida av fetma
+* använd kurvor o gränser med förnuft
+
+
+
+## Epidemiologiskt
+
+* ***exponentiellt*** ökning med fetma bland 8åå över tid. 
+* ***orsaken är levnadsbetingelser***: mer snacks, mindre regelbundna måltider, mer mikrovågsugnar, mer McDonalds etc. 
+* ***Socioekonomiskt***: förekommer socioekonomiska faktorer också som bidrar mkt
+
+
+
+<img src="./imgs/pedfl_JaoegFMuza.png" alt="JaoegFMuza" style="zoom:33%;" />
+
+
+
+## Är fetma en sjukdom
+
+* ***Kortare liv***
+  * Svår fetma i 20åå ger 13år förkortad livslängd = 23% av beräknad kvarvarande levnadstid
+  * ***Mortalitet:*** främst hjärtkärl sjd och diabetesrelaterade sjukdomar (alltså tar lång tid att utvecklas, därför är barnfetma mer allvarligt än fetma i medelåldern)
+* ***Mortalitet***
+  * Barn med fetma har 3ggr högre dödlighet före 30åå än normalbefolkningen
+  * högre än DM1
+* ***Övre gräns normal vikt, i.e. högre normalvikt, också associerad med högre risk***
+  * BMI 22-25 vid 18åå är associerat med ökad mortalitet
+  * endast delvis beroende på högre BMI senare i livet
+  * oberoende av rökning, alkohol, fysisk aktivitet!
+  * Det visar sig att BMI gränserna inte ska användas lika för olika åldrar
+* ***Därför även måttlig övervikt är skadligt***
+
+## Effekterna av fetman
+
+* ***Bland barn med fetma i 6åå***
+  * insulin resistens
+  * intima media förtjockning
+  * förhöjt BT
+  * hyperlipidemi
+  * fettelver
+  * inflammation
+
+## Patologisk tillväxtkurva
+
+* ***Vikt är högre standarddeviationsmässigt, MEN längden minskar standarddeviationsmässigt***
+  * Föranleder direkt remiss till barnendokrinolog
+  * Det är ingen hypothyreos, för att ***dessa tenderar att stanna helt upp i längdtillväxt, och inte så mkt upp i vikt***
+  * ***Cushings kan se ut på detta sättet ***
+  * ***Kraniofaryngeom: att man får tillväxthormon brist. kan se ut på detta viset osså, pga tumör och hyperfagi pga påverkad mättnadskänsla***
+
+<img src="./imgs/pedfl_bOSvSCXGeY.png" alt="bOSvSCXGeY" style="zoom:50%;" />
+
+### Cushing
+
+* Svårt att se på ett barn att det har cushing, för att de är så pass anabol i den åldern. 
+* tillväxtkurvan är enormt hjälpsamt
+
+## Könsutvecklingen
+
+* ***Fetma hos pojkar ger***
+  * förstorade bröst (gynekomasti?); det är inte enbart lipomasti (ökad fettvevänad) utan även gynekomasti i.e. körtelvävnad som ökar hos dessa
+  * pga obalans testosteron och östrogen
+  * fettväv omvandslas testo till östrogen, varåp man får obalans, kanske också andra problem 
+    * såsom minskad penistillväxt
+    * osv
+  * ***Kan leda till psykiatriska problem***: ökade suicidtankar för att pojkarna vill dölja sina bröst, etc
+  * ***Gynekomastin är kvar om stått tillräckligt länge***: om gynekomastin stått tillräöckligt länge, kommer väven vara permanent, även om man går ned i vikt, varpå det krävs operation för att få bort d och få ett accepterat kosmetiskt resultat.
+  * ***Kirurgerna vill att man ska ha gått ned i vikt först:***  kosmetiskt snyggt resultat fås inte om fortfarande fetma, så man vill att det ska gå ned i vikt först.
+* ***Fetma hos flickor ger***
+  * utebliven mens
+  * högt testosteron
+  * ökad problem med finnar osv
+  * ***Försvinner när man väl går ned i vikt***
+
+## Skolresultat
+
+* ***Kognitiva effekter av fetma:*** det är viktigt att komma ihåg att fetman också påverkar kognitivt, inte enbart det socioekonomiska, 
+  * Därför väldigt viktigt att barnet går ned i vikt.
+
+<img src="./imgs/pedfl_qnRXm0saBP.png" alt="qnRXm0saBP" style="zoom:33%;" />
+
+<img src="./imgs/pedfl_TEgMZRpxSz.png" alt="TEgMZRpxSz" style="zoom:50%;" />
+
+
+
+
+
+## Tecken insulinresistens
+
+* ***Acantosis nigricans:*** att man får hudmissfärgning e.g. under armhålorna, kan vara alltifrån ljusbrunt till ett det är lite rött
+  * ***Signal för ökad risk för DM2***
+
+
+
+<img src="./imgs/pedfl_1AwnrmDz7R.png" alt="1AwnrmDz7R" style="zoom:33%;" />
+
+
+
+## Diabetes, DM2
+
+* ***Kombination***: insulinresistens + sänkt insulinfrisättning
+* Lite samma mekanism som graviditetsdiabetes, där nästan alla blir insulinresistenta under diabetes, sen när det kombineras med försämrad insulinfrisättning leder till att man får diabetes
+
+### Prediabetes
+
+* ***Utredningsmässigt, som man bör upptäcka***
+  * ***Blodsocker över det normala men under gräns för diabetes: 6.1-7mM***
+    * kopplat ökad risk för insjuk diabetes
+    * ökad risk för kardiovaskulära sjukdomar
+  * ***HbA1C 30-43 mM***
+  * ***obs: kombinationen blodsocker påverkan och HbA1c = MYCKET STOR RISK***
+    * inom 3 år utvecklar 50% diabetes!
+  * ***Glukosbelastning***: gör peroral glukosbelastning vid prediabetes: OGTT
+
+### Konsekvenser av diabetes
+
+* ***Hög dödlighet***
+* utv snabbare komorbiditeter än unga med DM1, trots lägre HbA1C
+* ***slutsats***: identifiera ungdomar med DM2 tidigt
+* ***Behandla:*** DM2 diabetes med farmaka fr början!
+
+### När kontrollera blodsocker + HbA1c
+
+* ***Alla barn över 9åå*** vid första besök, med fetma ska utredas för detta
+  * ***Före 9åå med prediabetes:*** proverna kommer inte att påverka behandlingen, så man ska inte ta proverna bara för att visa allvaret för föräldrarna
+* ***BMI >iso 30 + acantosis ningricans + DM2 hereditet***
+  * ***Ska årligen kontrolleras***
+
+## Knubbiga spädbarn
+
+* Ska lämnas ifred, deras fetma är mer fysiologisk och ökar överlevnadsschanserna
+* är inte kopplat med fetma senare i livet, så länge det inte föreligger ngt genetiskt etc
+
+
+
+## Neuropsykiatriskt
+
+* ***ADHD o Autism***
+* ***många barn med fetma har ADHD***: diagnosen kmr sent, notera att behandlingen av fetma går lika bra för dessa barn med ADHD, så inte så att det är betingat?
+* ***barn med autism utvecklar ibland fetma***: brukar fungera med beteendemodifikation
+
+## Övrig sjuklighet
+
+* Astma
+* ledbesvär
+* kognitiva problem
+* social utslagning, mobbning
+* kondition motorik etc
+* ***ångest och depression***: 40% högre förekomst bland barn med fetma
+
+## Socialt och genetiskt arv
+
+* Sociala miljön i familjen påverkar mindre än vad man skulle kunna tro
+* man vet dock att socioekonomi påverkar kraftigt
+
+## Varför utv fetma
+
+* ***Riskfaktorer***
+  * genetik: samma slöa liv, samma dåliga matvanor, kan utveckla fetma i en grupp men inte i en annan
+  * epigenetik
+  * virus
+  * tarmbakterier
+  * stress sömnstörn
+  * socioekonomi
+  * lkm: kortison, antidepressiva
+* ***Garant, tho, för att utveckla fetma:***
+  * man äter för mkt, rör oss för lite 
+
+## Hur farligt är socker
+
+* ***Inte beroendeframkallande***
+* ***Man får inga blodsockerfall på eftermiddag:*** givet att man är frisk. Det är en myt och en ursäkt för att äta
+  * man kan hålla ett normalt blodsocker i 48 timmar
+  * även de som blir förbannade, irriterade etc på en eftermiddag, mäter man blodsockret är det normalt, 
+  * så det är andra faktorer som styr
+* ***Barn blir inte oroliga, stressade, störda eller dumma av socker***
+* ***MEN***: läsk är direkt kopplat t ökad risk för fetma bland barn
+
+### Sötningsmedel vs sockrad
+
+* Visar sig att mkt bättre att dricka med sötningsmedel i, BMI mässigt, vs att dricka med socker i läsken
+
+<img src="./imgs/pedfl_8TDBLIqySQ.png" alt="8TDBLIqySQ" style="zoom:33%;" />
+
+
+
+## Man bör äta tråkig mat
+
+* Man ska äta tråkig mat: söt o fet mat gör oss mer benägna att äta det, varpå det blir problematiskt. 
+
+
+
+## Fysisk aktivitet
+
+* Ökar insulinkänslkigheten: reducera diabetesrisken
+* ökad HDL kolesterol: reducerar kardiovask risk
+* ökad ben-mineral densitet: reducerar frakturrisker
+* reducerar inflamation
+* rducerar depression
+* reducerar artros symptom
+* positivt
+
+### Men LÖSER EJ fetma problemet
+
+* Väldigt svaga samband mellan fysisk aktivitet och fetma
+* man kan inte lösa detta med fysisk aktivitet
+
+
+
+<img src="./imgs/pedfl_ihRfRmntTD.png" alt="ihRfRmntTD" style="zoom:33%;" />
+
+### fysiologiskt
+
+* Förklaras av att vi är otroligt energieffektiva, 300kcal tar 3 timmar promenad eller springa 10km för att bränna bort
+
+
+
+## Behandling
+
+<img src="./imgs/pedfl_tleEm8CV5f.png" alt="tleEm8CV5f" style="zoom:50%;" />
+
+* Fetmakirurgi ökar överlevnaden drastiskt hos vuxna
+*  Riskreduktion samma sak för barn, där man behandlar fetman tidigt, så att det inte går runt med fetman länge
+
+### Hur
+
+* Mer fysisk aktivitet
+* mindre energiintag
+  * bestämd måltidsordning
+  * inga sötade drycker
+  * minskad energidensitet
+* Delivery package
+  * familjestöd: terapi
+  * motiverande samtal
+  * gruppstöd
+  * ***Täta besök:*** leder till bättre resultat, kontinuerligt lång stöd. 
+  * ***Dagliga vägningar är bra!***
+* ***Objektiva utfalllsmått***
+  * vägnig hemma kopplat mobilapp o vårdgivre
+  * fysisk aktivitet med aktivitetsband
+  * kontinuerlig uppfölj
+
+### Ålder
+
+* Bra behandlingseffekt tidigt, 3-5år
+* ***man ser att i högre åldrar har det nästan ingen effekt med behandling***, resultat mkt sämre senare i åldrarna
+
+
+
+<img src="./imgs/pedfl_bhdtkocaQ7.png" alt="bhdtkocaQ7" style="zoom:67%;" />
+
+
+
+## Allvarlig tonårsfetma
+
+* beteendeförändringar misslyckade, 
+
+***Kirurgi***
+
+* Väldigt bra effekter av kirurgi
+* gastric bypass allra bäst effekt
+* gastric sleeve sämre effekt, men har effekt
+* ***Effektmässigt***
+  * 33% har bivekningar under de första åren
+  * vitamin supplement hela livet
+  * 40% vikt relaps efter 1år
+  * 30% har dålig effekter efter 5år
+
+***Läkemedel***
+
+* Xenical (används ej inom vården?)
+* på gång: liraglutic: GLP1 analog
+* metformin vid metabolt syndrom
+* ACE hämmare
+* statiner
+* vuxna: mysimb och saxenda (liraglutid)
+  * fetmalkm är ej rabatterade
+
+
+
+***Biverkningar***
+
+* Snabb viktnedgång kan minska längtillväxt
+* misslyckad behandling kan sänka självkänslan: långsiktighet nödvändig
+
+
+
+
+
+# Kardiologi
+
+***Kunna***
+
+* Status fullständigt BB status inklfemoralpulsar, skillnad fysiologiskt och organiskt blåsljud
+* Ventrikel septumdefekt (VSD)
+* Cyanos, skillnad central och perifer, principiell orsak till cyanos vid olika hjärtfel
+* Hjärtsvikt, skillnader status och symptommellan barn och vuxna
+* Supraventrikulärtachykardi(SVT)
+
+***Känna till***
+
+* Tolkning av EKG på barn 
+* Medfödda hjärtfel utöver VSD: persisterande ductusarteriosus, transposition av de stora kärlen (TGA), Fallotstetrad, coarctatioaortae
+* ASD
+* Viktiga symptom på hjärtfel: svimning, bröstsmärta, hjärtklappning, failureto thrive, plötslig död
+* Perimyokardit
+* Hjärtpåverkan vid Kawasak
+
+## Fall 1 - hjärtsvikt
+
+* 6veckor flicka
+  * normal födel, 3.5kg
+  * status: takypne, AF 70, normal sat, diskret subkostala ertraktioenr
+  * hjärta: RR, pansystolisk blåsljud grad 3 av 6
+  * lungor: normala lungljud
+  * buk: ingen hepatomegali
+
+<img src="./imgs/pedfl_LSNog73I5M.png" alt="LSNog73I5M" style="zoom:50%;" />
+
+
+
+## Postnatal cirkulation
+
+![sZX2mIYl9l](./imgs/pedfl_sZX2mIYl9l.png)
+
+## Hjärtproblem barndom
+
+* Kongenitala hjärtdefekter: VOC (vitium organicum cordis)
+* ***Rytmstörningar:*** kongenital el förvärvade
+* ***Förvärvade hjärtsjukdomar***: myokardit, perikardit, kardiomyopati
+
+## Tecken hjärtsjd
+
+MEDICAL HISTORY
+* Feeding difficulties
+* Poorgrowth
+* Shortnessofbreath
+* Cyanosis
+* Heartpalpitations
+* Lightheadedness, syncope
+* Chestpain
+* Abdominal pain
+* Arrhythmias
+* ***Tillväxtkurva***: också viktigt
+
+PHYSICAL EXAMINATION
+* Tachycardia
+* Heartmurmur
+* Increased precordial activity
+* Absence of femoral pulses
+* Tachypnea
+* Subcostalretractions
+* Cyanosis
+* Hepatomegaly
+* Increased capillary refill time
+* ***Inspektion:*** AT, cyanos, andningsarbete
+* ***Auskultation***
+* ***Palpation***
+* ***Andning***: frekvens, subkostal retraktion etc
+
+## Central cyanos
+
+* Visible aroundthe core, lips, and tongue
+* ***Detectable at saturation <85%***
+* ***Anemia can mask cyanosis***
+* Visible when>30 g extra deoxHb.
+  * At Hb 150 g/L (30/150=20), 100-20=80%
+  * At Hb 100 (30/100=30), 100-30=70%
+
+<img src="./imgs/pedfl_KS8o4AKHcG.png" alt="KS8o4AKHcG" style="zoom:67%;" />
+
+## Benign perifer cyanos
+
+* Perifer cyanos: perioral, akrocyanos
+* Hög hematokrit: EVF över 65%
+* Kall
+* normalt i nyfödd spädbarn
+
+![Zbw51IgaIP](./imgs/pedfl_Zbw51IgaIP.png)
+
+## Auskultation
+
+### Hjärttoner
+
+* Alla blåsljud är inte hjärtfel: finns fysiologiska blåsljud 25-50%
+* alla hjärtfel har inte blåsljud
+* Timing: när i hjärtcykeln
+  * systoliskt
+  * diastoliskt
+  * kontinuerligt
+* Lokalisation: var hörs det mest
+  * punctum maximum: PM
+* Utbredning: vart sprids ljudet
+* ljudkvalitet: hur låter det
+  * frekvens, hög eller lågfrekvent, musikaliskt, strävt
+* Intensitiet: grad 1-6
+
+![vOf1HbwegT](./imgs/pedfl_vOf1HbwegT.png)
+
+
+
+
+
+![27fDUXwfuE](./imgs/pedfl_27fDUXwfuE.png)
+
+
+
+
+
+![CFnY8ZRXph](./imgs/pedfl_CFnY8ZRXph.png)
+
+
+
+![MdKkfU8rah](./imgs/pedfl_MdKkfU8rah.png)
+
+
+
+
+
+### Fysiologiska blåsljud
+
+* ***Mkt vanligt hos ffa förskolebarn***
+* ***hörs mer vid hög cardic output:***
+  * e.g. när barnet är upprört, har feber, anemiskt
+* ***allt annat normalt?***
+  * saturation
+  * övr status
+  * ev lungröntgen
+
+## Palpation
+
+* ***! Perfiera pulsar:*** FEMORALIS PULSARNA
+* ***Bål***: prekordiell aktivitet
+* ***buk***: hepatomegali
+* ***sternum***: kapillär återfyllnad, CRT
+
+## Utredning akuten vid misstänkt hjärtsjd
+
+* ***Saturation:*** preduktalt och postduktalt
+* ***Prover:*** blodgsa, inkl laktat, CRP, blodstatus, anemi
+* ***Hyperoxitet***
+* ***EKG:*** arrytmi, myokardit, mm
+* ***Hjärt-lung röntgen***
+* ***Blodtryck***: 
+  * rätt manchett, kuffens blåsa 80% av extremitetens diameter
+  * kuffens bredd minst 2/3 av extremitetens längd
+
+## Hyperoxitest
+
+* Syfte att skilja kardiell vs pulmonell orsak t cyanos
+* 100% syrgas
+* mät arteriell blodgas före o efter
+* ***vid pulmonell genes stiger*** PO2 mot normalt värde (13.3 kPa)
+* ***vid kardiell genes***: endast mariginell skillnad (under 4kPa)
+
+
+
+## Hjärtsvikt
+
+* Hjärtat pumpar otillräckligt för att mätta kroppens metabola behov
+
+### Tecken
+
+* avbruten feeding, barnet äter inte	
+* matning tar längre tid: över 30minuter
+* pannan svettas när den äter
+
+
+
+### NYHA klassifikation
+
+* Klass 1: strukturell myokardiella förändringar, e.g. vänstersidig ventrikelhypertrofi
+* Klass 2: små förändringar i aktivitets tolerans
+* Klass 3: signifikanta sänkningar i aktivitetstolerans
+* klass 4: symptom hjärtsvikt i vila och lite aktivitet
+
+### Modifierad Ross hjärtsvikts klassifikation för barn
+
+* Klass 1: asymptomatiskt
+* Klass 2: 
+  * mild takypne eller diarofores vid matning
+  * dyspne vid aktivitet hos äldre barn
+* Klass 3: 
+  * markerad takypne eller diafores vid matning hos spädbarn
+  * markerad dyspne vid aktivitet
+  * prolongerad matnings tider med tillväxthämning (growth failure)
+* Klass 4:
+  * Symptom som takypne, retraktion, gruntning eller diafores i vila
+
+### Patofysiologi
+
+* Volym overload: 
+  * kardiell shunt, 
+  * AV fistel
+* pressure overload
+  * aortastenos
+  * coarction of the aorta, koarktion av aora
+* påverkad kontraktilitet
+  * kardiomyopati
+  * myokardit
+
+### CHD klassifikatin
+
+* ***ökad pulmonellt blodflöde:***
+  * cardiac shunt defects (VSD, ASD, PDA)
+* ***minskad pulmonellt blodflöde:***
+  * cyanotiskt hjärtdefekter
+* ***Obstruktion t blodflöde***
+  * ingen shunt
+  * orsakar tryck overload
+* ***Påverkad kontraktilitet***
+  * kardiomyopati
+  * myokardit
+
+## Hjärtdefekter
+
+### VSD - Ventricular Septal Defect
+
+![RbCAd71W5S](./imgs/pedfl_RbCAd71W5S.png)
+
+### Atrial septal defect - ASD
+
+![V4ShX4cLnu](./imgs/pedfl_V4ShX4cLnu.png)
+
+### Aorta stenos
+
+​	
+
+![TFp97e7by0](./imgs/pedfl_TFp97e7by0.png)
+
+### Pulmonary stenosis
+
+![f17sJKuMog](./imgs/pedfl_f17sJKuMog.png)
+
+### AV-septal defect
+
+<img src="./imgs/pedfl_fVHfTeuCq5.png" alt="fVHfTeuCq5" style="zoom:50%;" />
+
+### Coarction of the aorta
+
+
+
+<img src="./imgs/pedfl_osQMPgZgEq.png" alt="osQMPgZgEq" style="zoom:25%;" />
+
+### Tetralogy of Fallot
+
+<img src="./imgs/pedfl_1P5acawhZ5.png" alt="1P5acawhZ5" style="zoom:67%;" />
+
+
+
+<img src="./imgs/pedfl_ZFOFUgtHnF.png" alt="ZFOFUgtHnF" style="zoom:50%;" />
+
+### Transposition of the great arteries
+
+<img src="./imgs/pedfl_dtqGzFg27i.png" alt="dtqGzFg27i" style="zoom:67%;" />
+
+### Ductus arteriosus
+
+* 
+
+<img src="./imgs/pedfl_R0isU4Vhfw.png" alt="R0isU4Vhfw" style="zoom:67%;" />
+
+### Single ventricle defects
+
+<img src="./imgs/pedfl_t8RQvBmISA.png" alt="t8RQvBmISA" style="zoom:67%;" />
+
+
+
+## EKG och arrytmier
+
+### Fall 2 - supraventrikulär takykardi
+
+* 2åå flicka
+  * ingen tidg sjd
+  * sedan morgonen trött, letargisk äter inte, leker inte
+  * status: normal saturation, blek, takykard
+
+### Supraventrikulär takykardi
+
+***Akut handläggning av SVT***
+
+* ***Vagal fysiska manöver:*** för hemodynamiskt stabil patient
+* ***Adenosin***
+* ***Elektrisk cardioversion***: hemodynamiskt instabil barn, ska använda kardioversion med synkroniserade chockar
+
+<img src="./imgs/pedfl_g7mkFaX9jL.png" alt="g7mkFaX9jL" style="zoom: 50%;" />
+
+
+
+<img src="./imgs/pedfl_7B6XiJgJt5.png" alt="7B6XiJgJt5" style="zoom:67%;" />
+
+
+
+### EKG skillnader barn vs vuxna
+
+* ***Kammare:*** hos vuxna är vänster kammaren större än höger
+* Vid födelsen är hö ka större och kraftigare 
+  * -ger höga R i V 1 samt hö ställd el axel
+* Barnets hjärta är litet, mindre myokardmassasom ska depolarisera/repolisera
+  * Kortare överledningstider (PQ, QRS, QT)
+* Förändrar sig under uppväxten.
+* Efter ca 8 års ålder är EKG vuxenlikt
+  * ***förutom att negativa T-vågor i högersidiga bröstavledningar kan kvarstå.***
+
+
+
+<img src="./imgs/pedfl_F2FBntW7Dr.png" alt="F2FBntW7Dr" style="zoom:50%;" />

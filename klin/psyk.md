@@ -204,7 +204,7 @@
     - perception
 
 ## ADD	
-#### lmänt
+#### allmänt
 - aka attention deficit disorder
 
 	

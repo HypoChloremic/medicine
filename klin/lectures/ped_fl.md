@@ -22,11 +22,11 @@ Trots att man får en återhämtningsfas, kompenseras det inte tillräckligt nä
 
 #### Faktorer som påverkar barnets tillväxt
 
-1. graviditet: undernäring, övernäring (diabetes etc)
-2. arvet
-3. psykosocial miljö: bra leder t att man kan utnyttja arvet. men om dålig psykosocial miljö kommer att påverka längden på barnet över längre tidsperioder
-4. nutrition
-5. hälsa
+1. ***graviditet***: undernäring, övernäring (diabetes etc)
+2. ***arvet***
+3. ***psykosocial miljö***: bra leder t att man kan utnyttja arvet. men om dålig psykosocial miljö kommer att påverka längden på barnet över längre tidsperioder
+4. ***nutrition***
+5. ***hälsa***
 
 
 
@@ -95,7 +95,7 @@ Man ser att längdutvecklingen o vikt dålig.
 
 Frågan vad det är för diffar som orsakar detta hos barnet: 
 
-1. ***Gällande celiaki, inte***: celiaki yttrar sig näör man introducerar gluten i kosten, vilket man gör vid 1åå. För detta barn där sänkningen sker tidigare, är det inte aktueltl med celiaki
+1. ***Gällande celiaki, inte***: celiaki yttrar sig när man introducerar gluten i kosten, vilket man gör vid 1åå. För detta barn där sänkningen sker tidigare, är det inte aktueltl med celiaki
 2. ***Gällande tillväxthormonbrist, intea***: i tillväxthormonbrist är det ***längden*** som sjunker före vikten. Men här är det vikten som devierar mer och börjar innan. 
 3. ***Hypothyreos***: Detta är ett bra svar, man screenar barnen tidigt för detta. Det är höga TSH nivåer man letar efter. Det få procent med hypothyreos i Sverige, men det är viktit att man kollar upp det
 4. ***Svält, rätt***: i detta fallet har det markerats de perioder som barnet ***inte*** varit i mammans vård, varpå man noterat att barnet går upp i vikt när det inte är med mamman. Man hade tagit tarmbiopsier, som gav en bild som tydde på svält, varpå den diffen som angavs. Initialt hade man tagit en biopsi där man konstaterat att barnet haft celiaki, men det återbedömdes senare, för att det fanns ett behov. Barnet åkte in och handläggdes akut

@@ -13,8 +13,6 @@
 6. Läkemedel
 7. Depression
 
-
-
 ## Utvecklingsrelaterade funktionsavvikelser
 
 ### Autism	

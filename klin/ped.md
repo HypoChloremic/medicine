@@ -1,16 +1,31 @@
 # Pediatrik
 
+
+
+
+
+
+
 ## Allmänt
+
 ### Första levnadsåret
+
+
+
+
+
 ### Undersökning
 #### ABCDE
 
 3e månaden
+
 * Värt 
 
 #### Grovmotorik
 
 #### Skallen
+
+#### Gastroenterologi
 
 #### Neurologiskt
 * Titta efter tappad leksak: månad
@@ -18,14 +33,89 @@
 * Moro reflexen: cerebral pares om den fortfarande är tydlig efter att tidsfristen är över. 
 * tå-reflexen
 
-### Föda
+
+
+### Föda och nutrition
+
 #### Innehåll
 Saker att undvika
 * Saltmat ska man inte
-* jordnöter för att det finns saker de kan sätta sig i halsen
+* Jordnötter för att det finns saker de kan sätta sig i halsen
 
 Det man bör ge
 * i princip alla födoämnen förutom d ovan. 
+
+
+
+### Barnets utveckling
+
+Det förekommer fyra fält som man attribuerar till barnutvecklingen: 
+
+* Motoriskt, 
+* syn, finmotoriskt
+* hörsel, tal, språk
+* Socialt, emotionellt, beteenderelaterat
+
+
+
+***Konstant mönster men olika takt***
+
+* ***Konstant mönster***: det är ett ganska så konstant mönster som barn följer när de utvecklas
+* ***Sker i olika takt***: men detta kan ske i olika takt. 
+* ***Därför, ska man relatera utvecklingen med vad som skett tidigare***: för att bedömma utvecklignen korrekt ska man därför "relate each tage to what has gone before and what lies ahead". 
+
+***Brister i ett område påverkar andra***
+
+* Om ett barn brister inom ett visst område kan detta påverka andra områden i utvecklingen också. 
+* ***Äldre, andra funktioner börjar bli relevanta***: att tex social funktion och kapabilitet att fokusera kommer att bidra till vidareutvecklingen. 
+
+
+
+#### Milstenar
+
+Det finns ett antal olika milstenar utvecklingsmässigt:
+
+* ***Median åldern***: åldern då hälften av standard populationen av barnen uppnår en nivå. Agerar guide för att veta hur långt ett barn bör ha kommit utvecklingsmässigt.
+  * Men berättar inte om barnet är utanför normala vrange
+* ***Gränsåldrar, limit ages:*** åldern som utvecklingsrelaterade milstenen bör ha passerats. 
+  * Vanligtvis, ***2 SD (standard deviationer)*** från medelvärdet. 
+  * Hjälper till att guide action. 
+
+#### Motoriskt
+
+Motorisk utveckling sker som snabbast det första levnadsåret. 
+
+* ***De första stegen***
+  * 25% vid 11 månader
+  * 50% vid 12 månader,
+  * 75% vid 13 månader
+  * 90% vid 15 mpnader
+  * 97.5% vid 18 månader
+  * ***median***: 12 månader, agerar guide för vanligt mönster att förvänta sig. 
+  * ***Gränsåldern***: är 18 månader.
+  * ***om ej uppnådd efter detta misstänk:***
+    *  cerebral pares (cerebral palsy, CP), 
+    * psykosocialt: understimulering socialt, social deprivation
+  * ***Motorisk mönster***: det finns olika sätt att ta sig upp p ben, fr krälgång, crawling, till att man direkt ställer sig upp o går
+    * det som determinerar tiden, som mest, är om barnet hasar först, då brukar det ta längre tid. 
+* ***Cefalocaudalt mönster, cephalocaudal pattern***
+  * motorisk utv sker i cefalocaudal riktning. 
+  * relateras med ***mognad av nervsystemet*** + ***myelinering***
+  * ***Myelineringen, snabbast 2 första åren***: sker som snabbast två levnadsåret, vilket förklarar den snabba motoriska utvecklingen. 
+  * ***Därefter***: sker myelineringen långsammare, ***e.g. frontalloberna**
+* ***Prematuritet, korrigering***
+  * prematurt barn fött 3 månader tidigt (28 veckors gestation), når ålder 9 månader, ska ligga 6 månader utvecklingsmässigt
+  * ***slutar korrigera***: efter 2a levnadsåret, för
+
+#### Syn och finmotoriskt
+
+#### hörsel, tal, språk
+
+#### socialt, emotionellt, beteenderelaterat
+
+
+
+
 
 ## Gastroenterologi
 
@@ -40,6 +130,8 @@ Det man bör ge
 ***Röda flaggor***
 
 * Tillväxthämning, faltering growth: Hypothyroidism, celiaki, och andra orsaker
+
+
 
 
 

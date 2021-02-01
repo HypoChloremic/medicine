@@ -32,7 +32,7 @@ Trots att man får en återhämtningsfas, kompenseras det inte tillräckligt nä
 
 <img src="./imgs/ped_adnolIGhFJ.png" alt="adnolIGhFJ" style="zoom:25%;" />
 
-Man gör några fel åp denna bilden:
+***Man gör några fel på denna bilden:***
 
 1. benen ska vara ihop
 2. knäna ska sträckas
@@ -43,7 +43,7 @@ Man gör några fel åp denna bilden:
 
 <img src="./imgs/ped_bTfIBBktQo.png" alt="bTfIBBktQo" style="zoom:25%;" />
 
-Efter 2 års ålder mäter man barnet stående. 
+***Efter 2 års ålder mäter man barnet stående.*** 
 
 1. sockar och skor ska vara av, ya3ni bilden är fel menar han. 
 2. sträckt i knäna

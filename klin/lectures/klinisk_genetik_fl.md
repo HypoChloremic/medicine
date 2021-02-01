@@ -16,10 +16,10 @@
 
 #### Genetiska analyser
 
-* Kromosomanalys, cytogenetik
-* moelkylär cytogenetik, FISH, array
-* DNA-baserad analys
-* RNA-baserad analys
+* ***Kromosomanalys, cytogenetik***
+* ***molekylär cytogenetik, FISH, array***
+* ***DNA-baserad*** analys
+* ***RNA-baserad*** analys
 * ***Helgenom***: 3miljarder bp
 * ***helexom***: 21k gener
 * ***genpanel***: 100 gener
@@ -28,9 +28,9 @@
 
 #### Större patientgrupper
 
-* Syndrom
+* syndrom
 * neurogenetik: e.g. huntingtons chorea
-* kardiogenetik: e.g. long QT sndrom
+* kardiogenetik: e.g. long QT syndrom
 * bindvävssjukdomar: e.g. marfans
 * metabola sjd
 * ärftlig cancer

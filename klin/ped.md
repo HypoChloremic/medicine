@@ -79,7 +79,19 @@ Det finns ett antal olika milstenar utvecklingsmässigt:
   * Men berättar inte om barnet är utanför normala vrange
 * ***Gränsåldrar, limit ages:*** åldern som utvecklingsrelaterade milstenen bör ha passerats. 
   * Vanligtvis, ***2 SD (standard deviationer)*** från medelvärdet. 
-  * Hjälper till att guide action. 
+  * Hjälper till att guide action.
+
+
+
+#### När man evaluerar utv
+
+Flera faktorer måste beaktas
+
+* Varje skill separat
+* sekvens av utvecklingsprogress
+* stadiet barnet uppnått för varje skill field
+* om progressen är likt för varje skill field
+* i slutet: barnets overall utvecklings profil, och hur det relaterar till barnets ålder
 
 #### Motoriskt
 
@@ -107,11 +119,46 @@ Motorisk utveckling sker som snabbast det första levnadsåret.
   * prematurt barn fött 3 månader tidigt (28 veckors gestation), når ålder 9 månader, ska ligga 6 månader utvecklingsmässigt
   * ***slutar korrigera***: efter 2a levnadsåret, för
 
+
+
+***Officiella stegen (median åldrarna)***
+
+* **Nyfödd**: Extremiteter flekterade, symmetrisk pos: Nyfödd
+* **Nyfödd**: "marked head lag on pulling up": nyfödd
+* **6-8 v (2mån):** Reser huvet ovan 45 grader, i prone position (liggande på mage)
+* **6-8 mån:** sitter utan stöd
+  * **6 månader:** rund rygg
+  * **8 månader:** rak rygg
+* **8-9 mån:** crawling
+* **10 mån:** står oberoende (tar hj av möbler), cruises runt möbler
+* **12 mån:** går ostadigt, bred gång (gait), händer apart
+* **15 mån:** går stadigt
+
+
+
+#### Reflexmässigt
+
+***Primitiva reflexer***
+
+* ***Moro***: plötslig extension huvud ***ORSAKAR*** symmetrisk ***extension sedan flektion (flexion)*** armar 
+* ***Gripreflexen***: flexion gingrar, när objekt placeras palmart
+* ***Rooting***: huvud vänds mot stimulus, när rör nära munnen
+* ***Stepping response***: rör på fötterna (stepping movements) när man håller barnet vertikalt och dorsum av fötterna rör yta
+* ***Asymmetrisk tonisk nack reflex***: liggande supint, spädbarnet får ***utsträckt arm t den sidan huvudet är vänt*** (antar att armen byter sida när barnet vrider huvudet)
+* ***Sugreflexen***: barnet suger, när får teat i munnen (automatisk födnings aktion)
+
+***Posturala reflexer***
+
+* ***Labyrinthine righting:*** huvudet rör sig motsatt riktning som kroppen är vänd
+* ***Postural support***: när hålls upprätt, benen tar vikt och barnet pushar ifrån (bounce)
+* ***lateral propping***: när barnet sitter, armarna extenderande till sidan barnet faller, som saving mekanism
+* ***parachute***: när suspenderas ansikte nedåt, extenderas armar som för att rädda sig sj
+
 #### Syn och finmotoriskt
 
-#### hörsel, tal, språk
+#### Hörsel, tal, språk
 
-#### socialt, emotionellt, beteenderelaterat
+#### Socialt, emotionellt, beteenderelaterat
 
 
 

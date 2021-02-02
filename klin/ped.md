@@ -129,10 +129,19 @@ Motorisk utveckling sker som snabbast det första levnadsåret.
 * **6-8 mån:** sitter utan stöd
   * **6 månader:** rund rygg
   * **8 månader:** rak rygg
-* **8-9 mån:** crawling
+* **8-9 mån:** crawling, kryper
 * **10 mån:** står oberoende (tar hj av möbler), cruises runt möbler
 * **12 mån:** går ostadigt, bred gång (gait), händer apart
 * **15 mån:** går stadigt
+
+
+
+***Gränsåldrarna***
+
+* Huvudkontroll: 4 mån
+* Sitter utan stöd: 9 mån
+* står med stöd: 12 mån
+* går självständigt: 18 mån
 
 
 
@@ -141,11 +150,19 @@ Motorisk utveckling sker som snabbast det första levnadsåret.
 ***Primitiva reflexer***
 
 * ***Moro***: plötslig extension huvud ***ORSAKAR*** symmetrisk ***extension sedan flektion (flexion)*** armar 
-* ***Gripreflexen***: flexion gingrar, när objekt placeras palmart
+  * borta vid 4-5mån postnatalt. ofullständig vid v28, 
+* ***Gripreflexen***: (handgrip) flexion fingrar, när objekt placeras palmart
+  * svag v34, bort 4-5 mån
+* ***Tåreflexen:*** tårna flekterar när man trycker palmart, försvinner sist av de primitiva reflexerna
+  * svag v34, borta 9-15mån
+* ***Asymmetrisk tonisk nack reflex***: (ATNR) liggande supint, spädbarnet får ***utsträckt arm t den sidan huvudet är vänt*** (antar att armen byter sida när barnet vrider huvudet)
+  * tydligast vid 2-3 mån ålder, borta 6mån
+* ***Sugreflexen***: barnet suger, när får teat i munnen (automatisk födnings aktion)
+  * svag v28, borta 4-6mån
 * ***Rooting***: huvud vänds mot stimulus, när rör nära munnen
 * ***Stepping response***: rör på fötterna (stepping movements) när man håller barnet vertikalt och dorsum av fötterna rör yta
-* ***Asymmetrisk tonisk nack reflex***: liggande supint, spädbarnet får ***utsträckt arm t den sidan huvudet är vänt*** (antar att armen byter sida när barnet vrider huvudet)
-* ***Sugreflexen***: barnet suger, när får teat i munnen (automatisk födnings aktion)
+
+
 
 ***Posturala reflexer***
 
@@ -154,15 +171,112 @@ Motorisk utveckling sker som snabbast det första levnadsåret.
 * ***lateral propping***: när barnet sitter, armarna extenderande till sidan barnet faller, som saving mekanism
 * ***parachute***: när suspenderas ansikte nedåt, extenderas armar som för att rädda sig sj
 
+
+
+
+
 #### Syn och finmotoriskt
+
+***Medianåldrarna***
+
+Stadiemässigt flera saker man ser hos barnet. Följande är ***median åldrarna***
+
+* ***6 veckor:*** följer objekt som rör sig eller ansikte, genom att vända på huvudet
+* ***4 mån:***  sträcker sig efter leksaker
+* ***4-6 mån***: palmart grepp (palmar grasp)
+* ***7 mån:*** överför leksak fr en sida till en annan sida
+* ***10 mån***: mogen pincett grepp
+* ***16-18 mån*** gör markeringar med krita
+* ***14mån-4år***: bygga med klossar
+  * ***18 mån:*** torn med tre klossar
+  * ***2 år:*** torn med sex klossar
+  * ***2.5år:*** torn med åtta klossar, eller ett tåg med fyra klossar (tre klossar avlångt, sen sista klossen två vertikalt)
+  * ***3år:***  bro enl modell,
+  * ***4år:*** trappsteg (steps), efter demonstration
+* ***2-5år:***  rita specifika geometriska former
+  * **2år** linje
+  * **3år** cirkel
+  * **3.5år** kors
+  * **4år** kvadrat
+  * **5år** triangel
+
+
+
+***Gränsåldrarna***
+
+* FIxerar och följer visuellt: 3 mån
+* sträcker efter objekt: 36 mån
+* överför saker händerna: 9 mån
+* pincett-grepp: 12 mån
 
 #### Hörsel, tal, språk
 
+***medianåldrarna***
+
+Stadiemässigt vad gäller hörsel, tral, språk hos barn, medianåldrarn
+
+* **nyfödd** "startles to loud noises"
+* **3-4 mån** vokaliserar ensam eller när man pratar med barnet, coos and laughs
+* **7 mån** vänder sig till ljud utanför synfält
+* **7-10 mån**: generera ljud
+  * **7 mån** skapar ljud indiscriminately
+  * **10 mån** skapar ljud discriminately mot mamma och pappa
+* **12 mån** 2-3 fler ord än "dada/mama"
+* **18 mån** 6-10 ord, visar delar av kroppen ("where is your nose")
+* **20-24 mån** förenar 2 el fler ord, för att skapa små fraser ("give me teddy")
+* **2.5år-3år** pratar konstant i 3-4 ords meningar
+
+
+
+***Gränsåldrarna***
+
+* Polysyllables babble: 7 mån
+* konsonant babble: 10 mån
+* säger 6 ord med mening: 18 mån
+* förenar ord (i mening?): 2 år
+* 3-ord meningar: 2.5 år
+
 #### Socialt, emotionellt, beteenderelaterat
 
+***Medianåldrarna***
+
+Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, medianåldrarna
+
+* **6 veckor:** ler responsivt
+* **6-8 mån** sätter mat i munnen
+* **10-12 mån** vinkar bye-bye, spelar pek-a-bo
+* **12 mån** dricker fr glas med två händer
+* **18 mån** håller sked, sätter mat säkert till munnen
+* **18-24 mån** symboliskt leka (e.g. matar leksaker etc)
+* **2 år** kan vara torr (kissar inte) under dagen, drar av några kldäder (inför att kissa potta?)
+* **2.5-3år** parallelt leka, interakivt leka evolverar, tar tur
 
 
 
+***Gränsåldrarna och sekvens***
+
+* mönster för nedan -> [socialt beteende: gränsåldern]
+* Ler: 8v
+* Rädsla främlingar: 10 månader
+* matar själv, via sked: 18 månader
+* symboliskt leka: 2-2.5år
+* interaktiv leka: 3-3.5år
+
+
+
+#### Sammanfatt
+
+<img src="./imgs/pedsum_L5rU1lbCzE.png" alt="L5rU1lbCzE" style="zoom:80%;" />
+
+
+
+### Utveckling screening
+
+Man kan screena barnet för flera saker, under dess utvecklingsperiod:
+
+
+
+<img src="./imgs/pedsum_t7u9axJ1mD.png" alt="t7u9axJ1mD" style="zoom:80%;" />
 
 
 
@@ -369,3 +483,17 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 * diffusion påverkan
 * ***intrapulmonell shunting***: 
 * ventilation-perfusion mismatch
+
+
+
+
+
+
+
+## Infektion och Immunologi
+
+### Immunologiskt
+
+#### Immunglobulinnivåerna
+
+<img src="./imgs/pedsum_gVJFqHkYbL.png" alt="gVJFqHkYbL" style="zoom:67%;" />

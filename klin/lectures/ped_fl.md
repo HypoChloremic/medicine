@@ -285,7 +285,6 @@ Denna flickan kommer att vara sådär lång, ingen catchup tillväxt, förlorat 
 4. glutenenteropati
 5. Hypothyreos
 6. svår kronisk sjukdom, e.g. njursjukdom, IBD, hjärtsjd, leversjd,
-7. 
 
 ### Basutredning av avvikande tillväxt
 
@@ -321,7 +320,7 @@ Utvecklingen sker i ***cephalo-caudal riktning***. Från proximala till distala 
 Förekommer ett antal reflexer att beakta:
 
 1. ***Moro***: borta vid 4-5mån postnatalt. ofullständig vid v28, 
-2. ***Sugreflexen***: svag v28, brorta 4-6mån
+2. ***Sugreflexen***: svag v28, borta 4-6mån
 3. ***Sökreflexen***: föreligger v34, borta 4-6 mån
 4. ***handgrip***: svag v34, bort 4-5 mån
 5. ***tågrip***: svag v34, bort 9-15mån
@@ -333,7 +332,7 @@ Förekommer ett antal reflexer att beakta:
 
 * Ena bilden är barnet helt orörligt, nästan ingen tonus alls i kroppen, vill inte lyfta ngt. 
 * Andra bilden ligger att den ena armen ligger platt när den andra har tonus och rör på sig. 
-  * ***Plexusskada***: förlossningsskada att ena amren inte går att lyftas, viktigt att man hanterar det tidigt
+  * ***Plexusskada***: förlossningsskada att ena armen inte går att lyftas, viktigt att man hanterar det tidigt
 
 
 
@@ -344,8 +343,8 @@ Förekommer ett antal reflexer att beakta:
 #### 0-1 åå, spädbarnet
 
 1. milstopalar sociala leenden, fr ca 4 veckor, främlingsrädsla fr ca 7månader
-2. ***anknytning***: tillit, tryggehet, smaspel
-3. föräldrafunktion avögrande för barnets välbeffinande
+2. ***anknytning***: tillit, trygghet, samspel
+3. föräldrafunktion avgörande för barnets välbefinnande
 4. barnet har inte kognitiv kapacitet utan är helt beroende av föräldranras emotionella staus
 5. ***sjukvården***: så länge förändrarna fungerar skapligt, så klarar barnet det bra
 
@@ -601,7 +600,7 @@ denna ålöder som man behöver säkra sitt hem
 * realistisk yrkesplacernig
 * sjukvården: ökad acceptans av annorlundaskap
 
-##### om mognad, utveckling
+##### Om mognad, utveckling
 
 * normal mognad är ett förlopp, styrs genetiska faktorer
 * kan störas av faktorer: ***förlossning, fosterliv, småbarnsår, skolåren, ungdomsåren***

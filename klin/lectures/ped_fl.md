@@ -613,7 +613,7 @@ denna ålöder som man behöver säkra sitt hem
 ### Takehome message
 
 * kom ihåg bedöma barnets tillväxtkuva
-* onormal tillxäxtm och pubertal utv kan indiekra underliggande somatsk o psykiatrisk störning
+* onormal tillväxt och pubertal utv kan indiekra underliggande somatsk o psykiatrisk störning
 * milstoplar i barns utv defineiras som färdigheter som de flesta barn har uppnått vid en iss ålder
 * barje barn följer egen bana, när ***gäller psykomotorisk utveckling***
 * oförmåga att nåam ilstolpar i utv kan vara en indkator på pykiatrisk hälsoproblem
@@ -2504,7 +2504,6 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 
 * ***Tillförsel***: amning, flaskmat, eget peroralt intag, sond, gastrostomi, iv tillförsel
 * ***Förluster***: perspiratio insensibilis, svettningar, feberm urin, avöföring, diarre, kräkning
-* 
 
 #### Förluster
 
@@ -2530,7 +2529,7 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 
 ***Feber***
 
-* öakr vätskeförlusterna med 10-13% för varje grad över 38
+* ökar vätskeförlusterna med 10-13% för varje grad över 38
 
 
 
@@ -2562,7 +2561,18 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
   * oliguri
   * plötslig viktförlust
 * ***Anamnestiskt***
-  * Debut av symptom?Diarréer? Kräkningar?Voluminösa? Frekvens?Trend sedan debut?Diures? Torra blöjor?Feber? Nivå?Tillförsel av mat & vätska? Viktnedgång i %?
+  * Debut av symptom?
+  * Diarréer?
+  *  Kräkningar?
+  * Voluminösa?
+  *  Frekvens?
+  * Trend sedan debut?
+  * Diures? 
+  * Torra blöjor?
+  * Feber?
+  *  Nivå?
+  * Tillförsel av mat & vätska?
+  *  Viktnedgång i %?
 
 ![qxyOVgOl2D](./imgs/ped_qxyOVgOl2D.png)
 
@@ -2575,9 +2585,9 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 * Hyperton.  Na >150 mmol/L
 * Natriumär den viktigaste  jonen i ECVNatriumhalten  styr vätskefördelningen  mellan ICV & ECV -osmotisk  kraft
 
-![uOEDErhiRq](./imgs/ped_uOEDErhiRq.png)
+<img src="./imgs/ped_uOEDErhiRq.png" alt="uOEDErhiRq" style="zoom:150%;" />
 
-##### dehydrering utifrån blodgas
+##### Dehydrering utifrån blodgas
 
 * ***pH***:  Kompenserad eller inte?
 * ***BE***: Metabol komponent? Oftast negativ
@@ -2623,15 +2633,15 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 
 ##### Underhållsbehandling
 
-* Riktlinjer: vätskebeh t barn är aktiv åtgärd som fortlöpande behöver individualiseras, monitreoreras, omvärderas
+* Riktlinjer: vätskebeh t barn är aktiv åtgärd som fortlöpande behöver individualiseras, monitoreras, omvärderas
   * när oral eller enteral beh är mölig är det att föredra
   * iv vätskor är lkm o vätskebeh ska ske på samma sätt om annan medicinsk beh
   * det innebär att 
     * indik för iv beh ska finnas
     * beh anpassas  t individens behov
-    * beh dokumteras så att given vätska mngd o innehåll kan fastställas o följas
-    * effekt o evt biverknignar ska monitoreras adekvat
-    * vätskebaöans, vikt, plasmaelektroluter bör följas regelbundt
+    * beh dokumteras så att given vätska mängd o innehåll kan fastställas o följas
+    * effekt o evt biverkningar ska monitoreras adekvat
+    * vätskebalans, vikt, plasmaelektrolyter bör följas regelbundet
 
 ##### Underhållsbehandling 
 
@@ -2685,7 +2695,7 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
   * e.g. diarre
 * ***sekundärt***: vandrar vatten fr ICV t ECV, med sekundär ICV dehydrering som följd
 * ***osmotiska partiklar***: bildas i kroppen, varför vattenflöden mellan ICV o ECV upphör
-* ***Resuktat***: förlust kroppsvatten, o ett hyperosmolärt tillstånd både extracellulärt och intracellulärt
+* ***Resultat***: förlust kroppsvatten, o ett hyperosmolärt tillstånd både extracellulärt och intracellulärt
 
 ***Behandling***
 

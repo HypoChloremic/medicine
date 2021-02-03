@@ -1,4 +1,4 @@
-# Pediatrik
+Pediatrik
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-### Föda och nutrition
+### Föda, nutrition och vikt
 
 #### Innehåll
 Saker att undvika
@@ -44,6 +44,49 @@ Saker att undvika
 
 Det man bör ge
 * i princip alla födoämnen förutom d ovan. 
+
+#### Daglig energibehov
+
+* **1mån 120kcal/kg/d**
+* **1år 100kcal/kg/d**
+* **3år 85kcal/kg/d**
+* **pubertet 65kcal/kg/d**
+* **vuxen 30kcal/kg/d**
+
+#### Energiekvivalenter
+
+* 1kcal = 5.18kJ
+* 1kJ = 0.24kcal
+* 1g fett = 9kcal
+* 1g protein = 4kcal
+* 1g kolhydrat = 4kcal
+
+#### Viktutveckling
+
+* ***Formeln***
+  * 2-7 år: $2\times\text{ålder} + 8$
+* **1-3mån = 5kg**
+* **1år = 10kg**
+* **3år = 15kg**
+* **5år = 20kg**
+* **7år = 25kg**
+* **9år = 30kg**
+* **12år = 40kg**
+* **14år = 50kg**
+
+
+
+#### Bröstmjölk och amning
+
+* Optimal sammansättning
+* reducerar infektionsrisk
+* förstoppar inte
+* mer hygieniskt
+* ekonomiskt
+* tillgängligt
+* anknytning
+
+***Rekommendera: upp t 6mån ålder***
 
 
 
@@ -278,6 +321,44 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 <img src="./imgs/pedsum_t7u9axJ1mD.png" alt="t7u9axJ1mD" style="zoom:80%;" />
 
+### Barnets tillväxt
+
+#### Drivfaktorer under tillväxt
+
+* ***Fetalt***: 30% av adult längd
+  * **uterin miljö**: är drivande för den längden
+* ***Spädbarnsfasen***: 15% av adult längd, representeras under denna fas
+  * **Nutrition**
+  * **Bra hälsa och glädje**
+  * **Thyroidea hormon**
+* ***Barndomen***: 40% av den adulta längden
+  * **genetik**
+  * **bra hälsa och glädje**
+  * **tillväxthormon**, Growth Hormone (GH)
+  * **Thyroidea hormon**
+* ***Pubertet***: 15% av adult längd
+  * **testosteron och östrogen**
+  * **tillväxthormon**, GH
+* ***Könsskillnader***: vuxna män är längre än kvinnor, för att de har en längre barndomsfas + högre peak hastighet tilläxt + tillväxten hävs senare
+
+<img src="./imgs/pedsum_mOWEJiY3vy.png" alt="mOWEJiY3vy" style="zoom: 50%;" />
+
+#### Fetalt
+
+* Snabbaste tillväxtperioden. 
+* Determinerar 30% av den eventuella slutlängden som vuxne
+
+***Storlek vid födsel***
+
+* Påverkas av flera faktorer
+* **mammas storlek**
+* **placental nutrient supply**: Modulerar fetala tillväxtfaktorer
+  * IGF-2
+  * Human placental lactogen 
+  * insulin
+* ***påverkas ej av***: storlek vid födsel är *oberoende* av pappans längd + tillväxthormon (GH)
+* ***Långt gående konsekvenser***: låg storlek vid födsel har en högre sannolikhet för barnet att utveckla obesitas senare i livet. 
+
 
 
 ## Gastroenterologi
@@ -496,4 +577,109 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 
 #### Immunglobulinnivåerna
 
+
+
 <img src="./imgs/pedsum_gVJFqHkYbL.png" alt="gVJFqHkYbL" style="zoom:67%;" />
+
+
+
+## Vätskebalans
+
+### Allmänt
+
+* Nyfödda, under 1 mån:
+  * utgörs av 77% vatten. 
+  * ECV volymen är större än ICV volymen 
+* Över 1.5månader
+  * ICV volymen nu större än ECV volymen, som kommer att förbli resten av livet. 
+
+### Vätsketillstånd
+
+#### Chock
+
+***Kliniska kännetecken***
+
+* CRT
+* Puls
+* färg
+* medvetandegrad
+
+
+
+***Behandling***
+
+* Ringer-acetat: isoton vätska
+  * 20mL/kg, så snabbt det går på droppen och given pvk, vanligtvis 1mL/kg/min, så då tar det 10-20 mins för given PVK
+  * 10mL/kg:  prematurfött barn, under 44v gestationsålder...; trauma; hjärtsjd
+* upprepas om cirkulationen är ej tillfredställande efter given vätska
+* överväg albumin om tredje bolus vätska behövs. 
+
+
+
+#### Dehydrering
+
+***Kliniska kännetecken***
+
+* Färg
+* Gråter utan tårar
+* Slemhinnor
+* Urinproduktion
+
+***Behandling***
+
+* ***Uppvätskning, rehydrering, ersätta***: Detta innebär att man ersätter förlorad volym vätska
+  * ORS (oral rehydration solution, aka vätske ersättning, aka VES): 
+  * 5% av kroppsvikten över 4 timmar. 
+  * sedan reevaluering av vätskestatus
+* ***Underhållsbehandling***: 
+  * ***Peroral form***: Då är patienten tillräckligt adekvat för att ta drycken sj, eller att det sker via sond
+    * 0-6mån: 150mL/kg/d
+    * 6-12mån: 125mL/kg/d
+    * \>12mån: 100mL/kg/d
+    * Då är det i form av näringsdrycker, välling etc, som barnet kan ta vid given ålder
+  * ***Intravenös form***: att pat har en infart som man kan vätska upp med
+    * Plasmalyte glukos, 5% glukos, 140mM Na, 20mM Kalium
+    * 0-10kg: 100mL/kg/d
+    * 10-20kg: 1000mL + 50mL per kg över 10kg
+    * \> 20kg: 1000mL + 20mL per kg över 20kg
+
+#### Hyperton dehydrering
+
+***Definition***
+
+* Na ≥ 150 mmol/L. 
+* Svår hypernatremi: ≥ 170 mmol/l
+
+***Typfallet uppkommer***
+
+* ej färdigutvecklad  njurfunktion –d v s patienter  <1 år
+* långdragen gastroenterit(>3-4 d)
+* stor viktnedgång  (>10%) 
+* sedan  införande  av rotavirusvaccinet  i det nationella  programmet  2019   har antalet  fall  av hypertondehydreringminskat  påtagligt  i Sverige
+
+
+
+***Mekanism***
+
+* innebär förlust kroppsvatten: ***inte primärt elektrolyter***
+* ***intialt*** sker extravasal vattenförlust, med resulterande hög natriumkonc i ECV
+  * e.g. diarre
+* ***sekundärt***: vandrar vatten fr ICV t ECV, med sekundär ICV dehydrering som följd
+* ***osmotiska partiklar***: bildas i kroppen, varför vattenflöden mellan ICV o ECV upphör
+* ***Resuktat***: förlust kroppsvatten, o ett hyperosmolärt tillstånd både extracellulärt och intracellulärt
+
+### fall - vätskebehov
+
+#### Alex 9kg  
+
+* ***Undet det akuta skedet***: Ringer-Acetat, iv bolus, 180mL (20mL/kg)
+* Under de nämaste timmarna: Ringer-acetat iv, 450mL/4h
+* Under det kommand dygnet: plasmalyte glukos, iv, 100mL x 9 = 900mL/24h
+
+
+
+#### Miriam 5kg
+
+* Undet det akuta skedet: behöver ingen bolus...
+* Under de nämaste timmarna: sond ORS, 250mL/4h
+* Under det kommand dygnet: sond, bröstmjölk, ersättning: 150mL x 5 = 750mL/24h

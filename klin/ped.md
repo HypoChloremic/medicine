@@ -181,10 +181,10 @@ Motorisk utveckling sker som snabbast det första levnadsåret.
 
 ***Gränsåldrarna***
 
-* Huvudkontroll: 4 mån
-* Sitter utan stöd: 9 mån
-* står med stöd: 12 mån
-* går självständigt: 18 mån
+* **Huvudkontroll:** 4 mån
+* **Sitter utan stöd**: 9 mån
+* **står med stöd**: 12 mån
+* **går självständigt**: 18 mån
 
 
 
@@ -247,10 +247,12 @@ Stadiemässigt flera saker man ser hos barnet. Följande är ***median åldrarna
 
 ***Gränsåldrarna***
 
-* FIxerar och följer visuellt: 3 mån
-* sträcker efter objekt: 36 mån
-* överför saker händerna: 9 mån
-* pincett-grepp: 12 mån
+* **FIxerar och följer visuellt**: 3 mån
+* **sträcker efter objekt**: 36 mån
+* **överför saker händerna**: 9 mån
+* **pincett-grepp**: 12 mån
+
+
 
 #### Hörsel, tal, språk
 
@@ -273,9 +275,9 @@ Stadiemässigt vad gäller hörsel, tral, språk hos barn, medianåldrarn
 
 ***Gränsåldrarna***
 
-* Polysyllables babble: 7 mån
-* konsonant babble: 10 mån
-* säger 6 ord med mening: 18 mån
+* **Polysyllables babble**: 7 mån
+* **konsonant babble**: 10 mån
+* **säger 6 ord med mening**: 18 mån
 * förenar ord (i mening?): 2 år
 * 3-ord meningar: 2.5 år
 
@@ -484,14 +486,16 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * Most common congenital heart defect
 * Associated with fetal alcohol syndrome
 * Results in left-to-right shunt; size of defect determines extent of shunting and age
-at presentatio* Small defects are often asymptomatic; large defects can lead to
+at presentatio
+* Small defects are often asymptomatic; large defects can lead to
 Eisenmenger syndrom* * Treatment involves surgical closure; small defects may close spontaneousl* ,r--....
 
 #### Atrial septal defect (ASD)
 
 * Defect in the septum that divides right and left atria; most common type is ostium
 secundum (90% of cases).
-* Ostium primum type is associated with Down syndrom* * Results in left-to-right shunt and split S 2 on auscultation (increased blood in right
+* Ostium primum type is associated with Down syndrom
+* Results in left-to-right shunt and split S2 on auscultation (increased blood in right
 heart delays closure of pulmonary valve)
 * Paradoxical emboli are an important complicatio
 

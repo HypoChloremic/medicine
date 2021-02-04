@@ -1197,6 +1197,216 @@ Anafylaxigrader
 
 # Akut och allmän ped
 
+### Fall 1
+
+* Elsa 10 mån 
+  * På avdelningen har just 10 mån gamla Elsa lagts in p g a viral gastroenterit. Hon har gått ner drygt 5% i vikt sedan debuten för tvådagar sedan, väger nu 11 kg. Initialt kräktes hon frekvent, men nu är det voluminösa diarréer som dominerar. Blodgasen visar pH 7,29, pCO2 4,2, BE -14. Na 145, K 4,3. Glukos 6,9. Hon har fått en pvk på akuten.Jouren som just skulle ordinera vätska var tvungen att springa på ett larm, så du ombeds göra det i hens ställe. Du möter en tagen flicka med torra läppar och en kapillär refill på 4sek. 
+
+
+
+***Hur tolkar du blodgasen***
+
+* Metabol acidos, icke kompenserad
+* isoton dehydrering
+
+
+
+***Du vill börja med att ge en vätskebolus. Vilken vätska väljer du? Hur beräknar du volymen?***
+
+* ***Chockbehandling*** 
+  * 20mL/kg 10-15min Ringer-acetat
+  * 220mL 10-14min Ringer-acetat iv
+
+
+
+**Efter given bolus hämtar sig Elsa snabbt.Cirkulationen förbättrats, kap refill 2 sek.**
+
+
+
+**Vilken volym och vätska ordinerar du för att nu uppvätska henne intravenöst, och på vilken tid?** 
+
+* Kapillär blodgas först, för att kontrollera natrium
+  * om hyperton behandla som hyperton, annars gå vidare.
+* Över 4 timmar
+* RInger-acetat 5% av kroppsvikt -> 550mL ringer-acetat över 4 timmar
+
+
+
+***Du passar på att ordinera majsvälling för underhållsbehovi sonden innan du går tillbaka till akuten. Hur räknar du?***
+
+* 6-12mån är 125mL/kg/d unerhållsvätska (näring, i detta fall välling)
+* 1375mL majsvälling
+
+
+
+
+
+### Fall 2
+
+* Tre barn 
+  * med virala infektioner som sökt akut under morgonen planeras för inläggning på vårdavdelning för vätskebehandling inklusive rehydrering.   
+  * Du ombeds ordinera lämplig vätsketillförsel till barnen under det första vårddygnet. 
+  * Alla barnen har gått ner ca 5% i vikt. 
+  * De har kissat sparsamt det senaste dygnet. 
+  * De två äldre barnen har en kap.refill på 2 sekunder, men lilla Vera har en kap.refill på 3,5 sekunder
+
+
+
+***Vera 6 veckor 4kg***
+
+* ***Bolus: ja, iv***, 
+
+  * under 44v gestationsålder: Ringer-acetat 40mL bolusvätska (4kg * 10mL/kg ), 10-15min
+  * Om över 44v gestationsålder: Ringer-acetat 80mL bolusvätska (4kg * 20mL/kg), 10-15 min
+
+* ***Rehydrering***: ja, 
+
+  * Oralt (då inga kräkningar, möjligt adekvat att acceptera peroralt, )
+  * 5% av kroppsvikt, 200mL Ringer-acetat över 4 timmar
+
+* ***Underhållsvätska, ja***
+
+  * utpumpad bröstmjölk, annars ersättning
+  * peroral: 150mL/kg, 600mL över 24 timmar
+  * intravenöst:
+    *  plasmalyte glukos 5% glukos, 140mM Na, 20mM K, 
+    * 100mL/kg/d ger 400mL över hela dygnet.
+
+  
+
+  ***Salim 8 månader, 8kg***
+
+  * Ingen bolus
+  * ***Rehydrering***: ja, 
+    * Oralt (då inga kräkningar, möjligt adekvat att acceptera peroralt, )
+    * 5% av kroppsvikt, 500mL Ringer-acetat över 4 timmar
+  * ***Underhållsvätska, ja***
+    * ersättning, alt utpumpad bröstmjölk, annars 
+    * peroral: 125mL/kg, 1000mL över 24 timmar
+    * intravenöst:
+      *  plasmalyte glukos 5% glukos, 140mM Na, 20mM K, 
+      * 100mL/kg/d ger 800mL över hela dygnet.
+
+  
+
+  ***Anna 3 år, 17kg***
+
+  * Ingen bolus
+  * ***Rehydrering***: ja, 
+    * Oralt (då inga kräkningar, möjligt adekvat att acceptera peroralt, )
+    * 5% av kroppsvikt, 8500mL Ringer-acetat över 4 timmar
+  * ***Underhållsvätska, ja***
+    * **välliing**
+    * **peroral**: 100mL/kg, 1900mL över 24 timmar
+    * **intravenöst**:
+      *  plasmalyte glukos 5% glukos, 140mM Na, 20mM K, 
+      * 100mL/kg/d + 50mL x kg = ger 1350mL över hela dygnet.
+
+
+
+***Fördelar resp nackdelar***
+
+
+
+![euarfb8KJF](./imgs/pedsem_euarfb8KJF.png)
+
+
+
+### Fall 3
+
+* Små barn kan ibland drabbas av en hyperton dehydreringi samband med virala gastroenteriter. a)
+
+
+
+***Hur definieras hyperton dehydrering?***
+
+*  över Na 150mM i plasma
+  *  **Hyperton dehydrering**. En fruktad komplikation till viral gastroenterit är **hyperton dehydrering**, vilket nästan endast förekommer hos barn under 12(-24) månaders ålder.  Barnet har då p.g.a. diarréer drabbats av en primär vattenförlust med  resulterande intra- och extracellulär hyperosmolalitet
+
+
+
+***Varför är det oftast barn <1 år som drabbas?***
+
+* Risken för att dehydreras i drabbas av hypovolemi är större ju yngre barnet är
+  * större relativt vätskebehov per kg 
+  * hög andel kroppsvätska utgörs av ECV
+  * mindre utvecklade hormonella reglersystem
+  * mindre utvecklad njurfunktion
+
+
+
+***Förklara kort mekanismenbakom hur den hypertona dehydreringen har uppstått!*** 
+
+* Tillståndet innebär förlust av kroppsvatten 
+  * inte primärt av elektrolyter  
+  * Initialt sker ( tex pga diarre) en extravasal vattenförlust med resulterande hög natriumkoncentration i extracellulärvätskan -
+  *  ECV  Sekundärt vandrar vatten från intracellulärrumet- 
+  * ICV till ECV med en sekundär ICV dehydrering som följd  
+  * Kroppen bilda nu aktiva osmotiska partiklar intracellulärt varför vattenflödena mellan ICV & ECV upphör  
+  * REsultat: Förlust av kroppsvatten & ett hyperosmolärt tillstånd såväl extra- som intracellulärt
+
+
+
+***Hur vill du behandla barnet?***
+
+* De man primärt gör : 
+  * ge bolusvätska med natriumklord ist för ringeracetat. 
+  * O så ger man glukoslösning med natrium 120 mmol.  
+  * De vi ska kunna är att man ska va försiktig när man sänker natriumvärdet, 
+    * målet är 0,4mmol/timme till dess att P-natrium är under 145
+* TIll för att förhindra hjärnödem
+
+
+
+
+
+### Fall 4
+
+* HIlda 12 månader
+  * Sökerpå barnläkarmottagningen vid 1 års ålder pgasen motorisk utveckling.
+  * Socialt:1:a barnet.
+  * Tid sjukdomar: Frisk. Normal graviditet och förlossning. 
+  * Aktuellt:Rullar över rygg/mage 7 månaders ålder. Sitter utan stöd vid 9 månader. Has-kryper, men går inte upp i fyrfota. Står inte, varkenmed eller utan stöd. Talar enstaka ord. Välutvecklat pincettgrepp bilat
+
+
+
+**Sammanfatta normal utveckling för en ettåring.** 
+
+* **Grovmotoriskt**.
+  * reser sgi 
+  * går utan eller med stöd
+  * väl utvecklade skyddsreflexer
+* **Finmotoriskt**.
+  * Pincettgrepp, plockar finsmulor
+  * staplar burkar
+* **Kognitivt**.
+  * Interagerar med utomstående
+  * leker, vinkar hej o adjö
+  * klappar hjänjder
+  * språkutv
+    * 8-10mån: symbol med betydelsen. titta-peka-benämnasaker
+    * 10-12 mån: abrnet börjar imitera ljud: grundläggande för språkutv
+    * imitiera-identifiera o minnsas
+    * förstår o säger enkla ord: mamma, titta där
+    * ibland tyst period efter joller
+    * ordsamlarstadiet
+* **Jämför med Hilda.**
+  * Gränsåldern (när alla bör ha uppnått stadiet) för att stå med stöd ligger på 12 månader. Hilda som fortfarande inte uppnått detta än är sen i utvecklingen
+  * gränspldern för pincettgreppet ska vara utvecklat vid 12 månader som Hilda verkar ha.  
+
+
+
+**Vilka motoriska och kognitiva färdigheter kontrolleras på BVC vid 4-6veckors, 6 och 10 månader ålder?**
+
+* 4-6 veckors:
+  * nyföddhetsreflexer
+  * följa röd boll med ögonen
+  * rör sig symmetriskt
+  * öppnar händerna
+  * 
+
+
+
 ### Fall 5
 
 * **9 mån pojke**
@@ -1526,13 +1736,7 @@ Anafylaxigrader
 * Symtom på akut bilirubin-encefalopati (ABE) är hypertonus med bakåtböjt huvud (retrocollis) och bål (opistotonus) samt irritabilitet. Övriga akuta symtom som kan förekomma innefattar matningssvårigheter, tonusväxlingar, gällt skrik och uttalad slöhet. Dessa symtom är i de flesta fall reversibla.  Vid extrema bilirubinnivåer tillstöter apnéer, kramper/cyklande rörelser, feber, koma och död. Vid obduktion ses stark gulfärgning av de centralt belägna hjärnkärnorna (kärnikterus). Överlevande uppvisar i 70 % av fallen bestående skador i form av ofrivilliga, danssjuke-liknande motorikstörningar (atetotisk CP-skada, dystoni), svårigheter med ögonmotoriken, sensorineural hörselnedsättning/dövhet (tillsammans BIND = Bilirubin Inducerad Neurologisk Dysfunktion) och emaljhypoplasi. Något entydigt samband mellan bilirubinnivå i neonatalperioden och senare IQ har inte kunnat fastställas [2, 18-20]. Det finns heller inte stöd för att känsligheten för bilirubin minskar under neonatalperioden (eller senare under barnaåldern) – behandling ges därför på samma indikationer som i slutet av första levnadsveckan.
 * ***Orsak till at mga e gula förklarades ovan***: dock få som har toxiska nivåer
 
-
-
-
-
-
-
-### Feber, infektioner, andningsbesvär och buksmärtor
+## Feber, infektioner, andningsbesvär och buksmärtor
 
 ### Fall 10
 
@@ -2146,6 +2350,169 @@ Anafylaxigrader
   * Novakommer tillsammans med sin mamma till din BVC-mottagning. Det har inte gått så bra med matningen senaste två veckorna och vikten har stagnerat-till och med gått ned något senaste veckan. Novahar blivit allt tröttare och en viss andfåddhet gör amningen allt svårare. En lätt förkylning har inte gjort situationen lättare.Du finner ett afebrilt barn utan ÖLI-symptomsom verkar lojt och trött. Andningsfrekvens55/min, levern 3-4 cm nedom arcus, känns hård. Novaser annars normal ut. Du har svårt att avgöra om det finns blåsljud. Detta är en beskrivning på klassisk hjärtsvikt
 
 
+
+***Tänkbara orsaker till svikt vid 2-3 månaders ålder?***
+
+* Övercirkulation till lungorna pga shuntfel. 
+* Öppetstående duktus (PDA), 
+* VSD
+* Klaffinsuff,
+* kardiomyopati,
+* Arytmi, 
+* Metabol sjd
+* [Notera att ASD vanligtvis inte ger symptom i barndomen]
+
+
+
+
+
+***Cyanos var inte omnämnt i beskrivningen. Är det ett förbiseende,eller?***
+
+* Saturationen är bra, 
+* Men det finns inte så mkt blod i systemkretsloppet, 
+* Blodet cirkulerar i lungkretsloppet istället. 
+* Väldigt uttalad lungstas leder efter tid till cyanos, 
+* Men innan dess andningsproblem med takypné + matningssvårigheter.
+
+
+
+
+
+### Fall 20
+
+* Eddie 1 år
+  * Larmet går på akutmottagningen: 1-årig, tidigare frisk pojke, hittad krampande i sängen vid 23-tiden. 
+  * Under dagen varitväsentligen som vanligt men känts varm på kvällen.
+  * Trolig diagnos enligt ambulanspersonal: feberkramp.
+
+
+
+***Vilka krav skall vara uppfyllda för att få ställa diagnosen?***
+
+* **Barn 0,5år - 4år (powerpoint)**
+  * Vid feber, över 38,5C 
+  * symmetrisk, generell, tonisk, klonisk kramp  
+  * Duration mindre än 10 minuter, 
+  * de flesta har en duration på en halv till några få minuter  
+  * Ofta snabbt pigga efter krampen, 
+  * ingen postiktalitet  
+  * Skillnad barn feberkramp fr barn epilepsi:  är feberkrampande barnet opåverkade redan efter transport in till sjukhuset pga ingen postiktalitet. 
+  * // ingen 
+* ***Definition feberkramp (FK): (vårdprogrammet)*** 
+  * Anfall hos barn som kommer på vid feber 
+  * utan tecken till intrakraniell infektion eller annan specifik orsak till anfallet (ex. hypoglykemi, elektrolytrubbning). 
+  * Febern orsakas oftast av virusinfektion men ibland bakteriella inf (ssk otiter, pneumonier).
+
+
+
+***Måste du göra LP för att vara säker på att det inte är en bakteriell meningit? Motivera!***
+
+* "The acute management of seizures is described in Chapter 6. Examination should focus on the cause of the fever, which is usually a viral illness, but a bacte- rial infection including meningitis should always be considered. The classical features of meningitis such as neck stiffness and photophobia may not be as apparent in children less than 18 months of age, so an infection screen (including blood cultures, urine culture, and lumbar puncture for cerebrospinal fluid) may be necessary. If the child is unconscious or has cardiovascular instability, lumbar puncture is contrain- dicated and antibiotics should be started immediately. Parents need reassurance and information. Advice sheets are usually given to parents. Antipyretics may be given but have not been shown to prevent febrile seizures. The family should be taught the first aid management of seizures. If there is a history of prolonged seizures (>5 min), rescue therapy with buccal midazolam can be supplied. Oral prophylactic antiepileptic drugs are not used as they do not reduce the recurrence rate of seizures, and have a relatively high risk of adverse effects. An EEG is not indicated as it does not predict seizure recurrence." (s504)
+* Slutsats man kan ej utesluta, men klinisk likelihood ration, sannolikhet, är låg för meningit om pat är fullt återställd efter krampen. 
+
+
+
+### Fall 21
+
+* William 2år 
+  * 2-årige William kommer med ambulans till akuten med sin mamma. Han har haft hög feber, kring 40 grader sedan gårdagen. Verkar ha ont i huvudet, har kräkts vid några tillfällen. Är trött och slö, vill inte äta och dricka. Haft enstaka kräkning, kanske lite lätt hosta och snuva. Tidigare frisk. Påtagligt försämrad sedan morgonen. I status noteras en högfebril, trött och blek pojke, lite marmorerad hud, kap refill 4 sek, HF 180, AF 70, Saturation 91%, inga indragningar. Vissnackstelhet, neurologstatus i övrigt väs ua, men besvärad vid us av pupillreaktion. Inga petekier.
+
+
+
+**Beskriv hur du bedömer och stabiliserar enligt A-E**
+
+* ***Airways***: 
+  * säkra luftvägarna
+* ***Breathing***
+  * Syrgas
+* ***Cirkulation***
+  * Inferter
+  * Vätska
+    * Ringer-acetat bolus 20ml/kg, 
+    * formel = $2\times ålder + 8$ ger 12 kg
+    * därför 240mL över 10-20 min, så snabbt som möjligt
+  * Odling
+  * provtagning
+* ***Disability***
+  * GCS
+  * medvetandegrad
+  * neuroundersök pupiller, ljusreaktion, ögonmotorik försöka
+  * grovmotorik
+  * nackstyvhet
+  * ***Glukos***
+* ***Exposure***
+  * Temperature
+  * och hudkostym
+
+
+
+***Diagnos måste uteslutas***
+
+* Meningit
+
+
+
+***två agens mest sannolika***
+
+* Pneumokock, meningokock
+
+
+
+***Vidare handläggning, provtagning***
+
+* ***Insättning steroider***: dexamethasone, dexametason (barn över 3 månader kan man ge dos dexametason)
+* ***Insättning antibiotika***: Cefotaxim + ampicillin (täcka listeria), alternativt meronem
+* ***Insättning aciclovir bolus***: 10mg/kg x3 i 21 dagar
+* ***Lumbar punktion***: poly/mono, laktat, glukos, alb-kvot, odling, PCR, (kristaller), protein
+  * ***Bakteriell***: glukos sänkt, protein ökat, laktat ökat, poly ökat, klar eller grumlig
+* Prover
+  * meningitmisstanke
+    * fullständigt blodstatus
+    * CRP
+    * blododling
+    * blodgas
+    * glukos
+    * elektroluter
+    * krea
+    * koagstatus
+  * urinprov: för UV diagnostik
+  * odling NPH för andar locales
+  * encefalit misstanke: MR hjärna
+* Utifrån agens, skiljer sig behandlingslängden. 
+* Vid hypovolemi/chock ska uppvätskas iv
+* Inläggning IVA
+
+
+
+***Fortsatt behandlingunder första timmen?***
+
+* ***Vätska, chockbehandlingen*** en till bolus vätska om ingen effekt av första
+  * om andra inte funka ge albumin 5%
+* ***Rehydrering***: Ringer-acetetat (fråga om VES vätskeersättning och skillnad mot ringer), 5% av kroppsvikt över 4 timmar, *om* det föreligger dehydrering av patienten
+
+
+
+
+
+### Fall 22
+
+* Ida 3v 
+  * Fullgången (v 39+2) tidigare frisk flicka som inkommer till barnakuten tidigt på morgonen p g a trötthet och ovilja att amma sedan gårdagskvällen. Ingen feber. Inga luftvägsymptom. Vid statusundersökningen noterar du att flickan är trött och slö. AF 25-30/min. Kap refill 3 sek. Temp 36,2. Saturation 90%. 
+
+
+
+***Vad misstänker du att Ida drabbats av***
+
+* Hjärnstamspåverkan, hjärnpåverkan, neuromuskulär påverkan
+* Encefalit
+
+
+
+***Hur handlägger du Ida under de närmaste timmarna?***
+
+* ABCDE
+  * syrgas
+* Tox-screening
 
 # ***Referenser***
 

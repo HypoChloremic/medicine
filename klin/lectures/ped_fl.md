@@ -3321,6 +3321,8 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
 * Baserat på patogenes hos glomerulnefriter: 
   * immunkomplex medierad glomerulonefriter och komplementmedierad
 
+
+
 ***Behandling***
 
 * ***Vätskebalans: diuretika***

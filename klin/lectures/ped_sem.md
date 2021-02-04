@@ -1522,7 +1522,7 @@ Anafylaxigrader
 
 * ***Toxicitetsrisk***: vid för höga värden av bilirubin förekligger bilirubintoxicitet, kan leda till skador som CP
 * ***Toxisk nivå:*** över 450 mikroM
-* bilirubinencefalopati (ABE)
+* ***bilirubinencefalopati*** (ABE)
 * Symtom på akut bilirubin-encefalopati (ABE) är hypertonus med bakåtböjt huvud (retrocollis) och bål (opistotonus) samt irritabilitet. Övriga akuta symtom som kan förekomma innefattar matningssvårigheter, tonusväxlingar, gällt skrik och uttalad slöhet. Dessa symtom är i de flesta fall reversibla.  Vid extrema bilirubinnivåer tillstöter apnéer, kramper/cyklande rörelser, feber, koma och död. Vid obduktion ses stark gulfärgning av de centralt belägna hjärnkärnorna (kärnikterus). Överlevande uppvisar i 70 % av fallen bestående skador i form av ofrivilliga, danssjuke-liknande motorikstörningar (atetotisk CP-skada, dystoni), svårigheter med ögonmotoriken, sensorineural hörselnedsättning/dövhet (tillsammans BIND = Bilirubin Inducerad Neurologisk Dysfunktion) och emaljhypoplasi. Något entydigt samband mellan bilirubinnivå i neonatalperioden och senare IQ har inte kunnat fastställas [2, 18-20]. Det finns heller inte stöd för att känsligheten för bilirubin minskar under neonatalperioden (eller senare under barnaåldern) – behandling ges därför på samma indikationer som i slutet av första levnadsveckan.
 * ***Orsak till at mga e gula förklarades ovan***: dock få som har toxiska nivåer
 
@@ -1581,7 +1581,7 @@ Anafylaxigrader
 
 ### Fall 11
 
-* Kevin snart 2åå
+* ***Kevin snart 2åå***
   * Kevin har varit förkyld med hosta och snuva i några dagar. Sedan imorse har han blivit alltmer andningspåverkad varför man nu söker akut. Modern beskriver hur det ”piper” när han andas. Man har sökt vårdcentral några gånger tidigare med liknande, men lindrigare, symptom. Han har fått flytande Bricanyl utskrivet, men det har inte hjälpt nämnvärt. Vidundersökning noterar du en glad snabbandad kille (AF 55) med rosiga varma kinder. Något forcerad och förlängd utandning. Intercostala indragningar. Lungorna auskulteras med ronkibåde på inspiriet och expiriet.Saturation 93%. Temp 38,9
 
 
@@ -1619,6 +1619,249 @@ Anafylaxigrader
     * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen
 
 
+
+***Han svarar bra på given behandling och bedöms kunna återgå hem. Hur bör behandlingen fortgå i hemmet? Vilka mediciner skriver du ut? Hur ges dessa?***
+
+* ***Beta2 agonist (ventolin) fr akuten***: hem med råd om vätska och råd om beta agonist för hemmet
+* ***Inhalationssteroider fr akuten också***: enl beh trappan haft flera infektionsutlösta proble. 
+  * "periodisk behandling med inhalationssteroider i ca 10 dagar"
+  * eller med leukotrienreceptorantagonist i ca 10 dagar
+* ***Bra med vätska***: ska vätska upp sig väl
+* ***Remiss BUMM***: för evt kompletterande lkm
+* ***Optichamber med munstycke***: för att inhalera ventolinet
+* ***Fråga om tidigare episoderna när infektion och inte infektion***; om besvär mellan dessa episoderna, lägger man till inhalationsteroider. 
+
+
+
+
+
+![x59i1kKkuw](./imgs/pedsem_x59i1kKkuw.png)
+
+
+
+
+
+***Uppföljning***
+
+* BUMM uppföljning
+
+
+
+
+
+### Fall 12 
+
+* Amadeus 4v
+  * Amadeus kommer akut en sen januarikväll pga andningsbesväroch feber. Hade ett kort andningsuppehåll kort före ankomst. Han har ammat sämre senaste dygnet, enligt modern pga nästäppa. Kräkts några gånger i samband med hosta. Storebror 3 år går på dagis och är förkyldmed snuva och hosta. Moderns graviditet var ua, likaså gossens neonatalperiod. I status hittar du en trött, snorig, febriloch snabbandad gosse(AF 80). Kapillär refill 2 sek. Saturation 91%. Rejäl bukandning. Indragningar intercostalt och jugulärt. Utbredda slembiljud över båda lungfälten
+
+
+
+**Föräldrarna är mycket oroliga att det kanvara början av en RSV-infektion hos Amadeus.Vilka kliniska fynd talar för att de har rätt? Hur ställerdu diagnosen?**
+
+* ***KLiniska kännetecekn***
+  * epidemiologi + säsong
+  * indragningar
+  * takypne
+  * saturation
+  * mkt slembiljud vid auskultation
+  * (hosta enl Ped. för RSV, sent tecken i förloppet för pneumoni)
+  * (Ronki)
+* ***Diagnos***
+  * Klinisk diagnos
+  * PCR för att säkerställa absolut att det föreligger RS. 
+
+
+
+***Behandling***
+
+* ***Rehydrering***
+
+* ***Nästäppa***: skölj med NaCl
+
+* ***Inhalation NaCl***: för att så pass ***slemmig***
+
+* ***syrgas vb***: sat <90%
+
+* ***optiflow***: högdosflöden bv
+
+* cpap vb
+
+* ***Förebyggande, profylax***: med synagis, monoklonal AB för RSV t riskgrupper under högsäsong
+
+* ***Investigations and decision to admit***  (s301 i bok illus paed)
+
+  * ***Saturationsmätning*** should be performed on all children with suspected bronchiolitis. 
+  * ***No other investigations are routinely recommended.*** 
+    * In particular, chest X-ray or blood gases are only indicated if respiratory failure is suspected.
+  * ***Hospital admission is indicated if any of the following are present:*** 
+    * **apnoea** (observed or reported) 
+    * ***persistent oxygen saturation of < 90%*** 
+    * ***when breathing air inadequate oral fluid intake*** (50–75% of usual volume) 
+    * **severe respiratory distress**
+      * **grunting**,
+      * **indragningar** marked chest recession,
+      * **andningsfrekvens**, AF, 70 breaths/minute.
+
+  
+
+***? Kan man diffa bakteriell pneumoni här?***
+
+
+
+***Amadeus andas något lugnare efter tre inhalationer, men du bedömmer att han behöver läggas in för fortsatt vård och övervakning. Vad får han för behandling på avdelningen? Kontroller?***
+
+* Fortsatt samma behandling 
+* Vätskeersättning 
+* Underhållsvätska 
+* CPAP vb 
+* Isolerat rum iom fkn virus 
+
+
+
+***Tänk igenom de riskfaktorer som gör att de minsta barnen (<3mån) drabbas hårdaste av RSV***
+
+* Fysiologin annorlunda, 
+* Smalare luftvägar,
+* Mindre aveoler, och färre
+* Mindre gasutbyte,
+* Kolaberar luftvägarna då de e mjukare, 
+* Många orsakar till varför barn blir så mkt mer sjuka i vanliga förkylningar, 
+* De har mindre marginaler, 
+* De behöver vätska och energi
+* Skillnader mellan barn & vuxna som påverkar A & B  
+* mindre munhåla & stor tunga , 
+* Inte fördel för att få ner luft  
+* Näsandas ( t o om 4-6 mån ålder)-> problem vid nästäppa ( Ex.vis RS virus typisk situation)  
+* Mindre luftvägsdiameter i luftvägar omgivna av svagare brosk, en mindre obstruktion minskar luftflödet mkt mer hos en stor patient. 
+* Mindre yta gasutbyte i lungan: Färre och mindre alveoler
+* Ingen humoral immunitet
+* ***Riskgrupper***
+  * prematura barn
+  * hjärt- eller lungsjudom
+  * neuromuskulär sjd
+  * immunsupprimerande
+
+
+
+### Fall 13
+
+* **Nova 18 mån**
+  * Tidigare frisk 18 månader gammal flicka som remitterats från närakuten p g a oklar infektion med hög feber i tre dagar och CRP-stegring. 
+  * Inte velat äta eller dricka sedan morgonen
+  * Trött och gnällig på barnakuten, ingen hosta eller snuva. 
+  * Kap refill 3 sek. Cor/pulm auskulteras ua. Buken mjuk. 
+  * Ingen dunkömhet över njurlogerna. 
+  * CRP 132. U-sticka med 3+ vita, 2+ ketoner.
+
+
+
+**Vilken diagnos är mest sannolik?**
+
+* Pyelonefrit
+
+
+
+**Akuta prover**
+
+* **Urinsticka taget**
+* **CRP taget**
+* **blodprover**
+  * **blodstatus och grabbarna**
+  * **elstatus**
+  * **glukos**
+  * **blodgas**
+  * **Krea**
+* ***Urinodling***: tvättat mittstråle (blåspunktion under 1år, kalle påpekat att ännu yngre)
+  * minst 10^4 CFU för kastat prov
+  * för blåspunktion är vadsomhelst växt signifikant
+* ***SENARE FÖRLOPP OCH UTREDNING***
+  * **Ultraljud**: detta sker under inläggningsperioden. 
+  * **MCUG**: om hydronefros gör man detta under inläggningen
+
+
+
+***Etiologiskt***
+
+* **Oftast tarmbakterier** perineum via urinblåsa
+
+
+
+***Hur handlägger du fallet vidare? Utredning? Behandling?***
+
+* ***Anamnes***
+  * Feber, nivå (≥38,5 °C) och duration
+  * Miktionsanamnes (blöjfria barn)
+  * Förstoppningsanamnes (blöjfria barn)
+  * Hereditet (UVI, njur- eller urinvägsavvikelser, blåsdysfunktion)
+  * Dålig stråle (t ex uretravalvel hos pojkar)
+  * Tonåringar – tänk på sexualanamnes och STD
+* ***Riktat status***
+  * Yttre genitalia
+  * Rygg (uteslut avvikelse i medellinjen)
+  * Bukpalpation (resistens, förstoppning)
+  * Vikt är minimum, blodtryck och längd önskvärt
+* **Provtagning**
+  * **Urinprov för odling**
+      * Blåspunktion eftersträvas på barn under 1 år
+      * Mittstråleprov (korrekt provtagning efter tvätt och trycktorkning). Två urinodlingar från olika miktioner ger
+      * ökad säkerhet). Ett mittstråleprov räcker för odling vid positiv nitrit hos flickor.
+      * Kateterprov kan övervägas om urinprov är svårt att få på annat sätt
+  * **Urinstatus** 
+      * Nitrit
+          * positiv hos flickor = bakteriuri
+          * kan vara falskt positiv vid makroskopisk hematuri och hos pojkar (från förhudsflora)
+          * negativ nitrit hos 50 % av barn med bakteriuri
+      * U-LPK 
+          * positiv stöder diagnosen UVI men kan vara falskt positiv
+          * negativ talar emot, men utesluter inte, UV
+
+  * **Urinmikroskopi är inte tradition i Sverige men är ett alternativ till urinsticka**
+  * **Blodprov** 
+      * CRP
+          * för nivådiagnostik och riskbedömning
+          * styr beslut om vidare utredning
+          * skall upprepas efter 1 dygn om feberduration ≤1 dygn och första prov <70 mg/l
+      * S-kreatinin ± Cystatin C 
+          * för bedömning av njurfunktionen
+          * (lågt GFR för åldern kan approximeras med S-Kreatinin >30 μmol/l för barn <1 år och >40
+          * μmol/l för barn 1-2 år) alt. används Schwartz formel el. S-Cystatin C, för skattning av
+          * njurfunktionen.
+      * Blododling och P-Na på svårt sjukt barn.
+
+
+
+
+
+![hnqLU0gxB0](./imgs/pedsem_hnqLU0gxB0.png)
+
+
+
+
+
+***Behandling***
+
+<img src="./imgs/pedsem_Zp1aC8ySBA.png" alt="Zp1aC8ySBA" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/pedsem_uZpFabUZu0.png" alt="uZpFabUZu0" style="zoom:50%;" />
+
+
+
+### Fall 14
+
+* Remiss från vårdcentralen till barnläkarmottagningen p g a buksmärtor. 
+  * På remissen står det: ”Celiaki? Tacksam utredning!”
+  * Flickan är fullt välmående på mottagningen. 
+  * ”Idag har jag inte ont i magen!”. Status ink noggrann bukundersökning ua –bortsett från en viss blekhet. Det framkommer att buksmärtorna kommit och gått sedan minst ett halvår tillbaka. Varierande lokalisation. Man har undvikit glutenprodukter, men tycker inte att det blivit bättre. Något bättre under en period med Laktulos 10 ml dagligen. Medföljande pappa berättar att Verica äter en väldigt ensidig kost, mest makaroner med ketchup och att hon tillbringar flera timmar per dag framför sin iPad.
+
+
+
+***Vilka ytterligare frågor vill du komplettera med?*** 
+
+* 
 
 # ***Referenser***
 

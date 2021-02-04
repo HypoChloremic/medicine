@@ -1024,19 +1024,21 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
 * peak för symptom 5e dagen
 * hypoxi och andningssvikt -> apné
 
+
+
 ***Kliniska kännetecken***
 
-* Bleka
-* trötta
-* takypne
-* indranignar
-* näsvingespel
-* saturation nedsatt
-* takyuakardi
-* subfebril
-* lungausk: mkt slembiljud
-* orkan inte äta
-* dehydrerade
+* **Bleka**
+* **trötta**
+* **takypne**
+* **indranignar**
+* **näsvingespel**
+* **saturation nedsatt**
+* **takykardi**
+* **subfebril**: inte alltid feber.
+* **lungausk: mkt slembiljud**
+* **orkan inte äta**
+* **dehydrerade**
 
 
 
@@ -1153,8 +1155,9 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
 
 * ***smalnar luftvägen***: svullnad, rodnad nedanfrö stämband, ev sekret som smalnar luftvägan
 * ***Parainfluensa och influensa A***: vanligate agens, men 
-* aäven andra virus kan orsaka pseudokrupp
-* 
+* även andra virus kan orsaka pseudokrupp
+
+
 
 ***Kliniska kännetecken***
 
@@ -3111,7 +3114,7 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
   * ***bra bukstatus***: ömhet flankar, palperbar njurar, titta ryggslutet (ryggmärgsbråck), balanit kan det vara också så man behöver titta noga!
 * Vid pyelonefrit hos litet barn: CRP, krea, odling, ultraljud
   * ***DMSA:*** risk faktor: CRP klättrat över 70, annan bakterie än e coli, eller krea påverkan 
-* om ultraljud visar ***hydronefros*** som är påtaglig, ska man gå vidare med en MGUG undersökning
+* om ultraljud visar ***hydronefros*** som är påtaglig, ska man gå vidare med en MCUG undersökning
 * 
 
 #### Ultraljud
@@ -3123,7 +3126,13 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
 * fyllt blåsan med kontrastmedel, barnet blir kissnödigt, kissar, man tar bilder samtidigt
 * man ser att vätska går tillbaka reflux, och man kan se att det finns en anläggningsdefekt av ngt slag i bilden nedan
 
-<img src="./imgs/ped_fl_1CbdZHZjPc.png" alt="1CbdZHZjPc" style="zoom: 50%;" />![niBOYExUea](./imgs/ped_fl_niBOYExUea.png)
+<img src="./imgs/ped_fl_1CbdZHZjPc.png" alt="1CbdZHZjPc" style="zoom: 50%;" />
+
+
+
+
+
+<img src="./imgs/ped_fl_niBOYExUea.png" alt="niBOYExUea" style="zoom: 33%;" />
 
 ### VUR
 

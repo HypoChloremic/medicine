@@ -3115,7 +3115,8 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
 * Vid pyelonefrit hos litet barn: CRP, krea, odling, ultraljud
   * ***DMSA:*** risk faktor: CRP klättrat över 70, annan bakterie än e coli, eller krea påverkan 
 * om ultraljud visar ***hydronefros*** som är påtaglig, ska man gå vidare med en MCUG undersökning
-* 
+
+
 
 #### Ultraljud
 
@@ -3266,21 +3267,21 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
 
 ***Kliniska kännetecken***
 
-* Hematuri
-* proteinuri: mindre än nefrotiskt syndrom
-* hypertoni
-* minskad GFR
-* ödem: ingen paradmanifestation i glomerulonefrit nefritsitks
+* **Hematuri**
+* **proteinuri**: mindre än nefrotiskt syndrom
+* **hypertoni**
+* **minskad GFR**
+* **ödem**: ingen parad manifestation i glomerulonefrit nefrti
 
 
 
 ***Etiologi och Patofysiologi***
 
-* Primär
+* **Primär**
   * idiopatisk: ingen bra facit på vf barnet drababts
     * DMP
     * MPGN 1,2,3
-* ***Sekundär***
+* **Sekundär**
   * **Postinfektiös**
   * IgAN, HSN
   * komplement dysfunk
@@ -3329,8 +3330,12 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
   * MMF
   * plasmaferes
   * rituximab
-* Podocyt protektion
+* ***Podocyt protektion***
   * ACEi, ARB
+
+
+
+
 
 ## Take-home
 
@@ -4122,6 +4127,8 @@ tidiagre ***juvenil ankyloserande spondylit***
   * ***Akut artrit eller artralgi***
   * ***njurpåverkan***: hematuri och/eller proteinuri
 
+
+
 ***Kliniska kännetecken***
 
 * ***Vanligaste vaskuliten hos barn***
@@ -4148,6 +4155,8 @@ tidiagre ***juvenil ankyloserande spondylit***
   * Perforation
   * Invagination
   * Pankreatit
+
+
 
 ***Handläggning och Utredning***
 

@@ -1195,7 +1195,7 @@ Anafylaxigrader
 
 
 
-# akut och allmän ped
+# Akut och allmän ped
 
 ### Fall 5
 
@@ -1861,7 +1861,291 @@ Anafylaxigrader
 
 ***Vilka ytterligare frågor vill du komplettera med?*** 
 
-* 
+* Avföringsvanor
+* Urinvanor
+* Penetrera matanamnes
+* Hereditet
+* lkm
+* Allergi, överkäns
+* neonatal
+* kräkning
+* blod o slem i avföring
+* röda flaggor
+  * viktnedgång
+  * blod någonstans, bajs kräk
+  * feber
+  * B symptom
+* tillväxtkurva
+* IBS kriterier ROM III, för diagnos krävs både 1 o 2
+  * obehag el smräta i magen minst två av följande kännetecken under minst 25% av tiden:
+    * blir bättre efter avföring
+    * startade i samband med att avföringsfrekvensen ändrade sig
+    * startade i samband med att avföringen ändrade onsistens samt
+  * ingen inflammatorisk, anatomisk, meatbol, malign, orsak t symptomen, vilka ska ha funnits i minst 2 månader
+* Komjölksallergi diff, eller laktosintolerans
+
+
+
+***VIlken diagnos mest sannolik***
+
+* ***Funktionell förstoppning***
+  * ***ska ställas under minst en månad haft problem med minst 2 av följande***
+    * två eller färre avföringar per vecka
+    * minst en episod med inkontinens per vecka (efter blöjfri)
+    * anamnes på mkt kvarvarande avföring i tarmen
+    * anamnes på hård avföring eller smärta vid avföring
+    * förekomst avföring i ampullen
+    * stor avföring som täpper till toaletten
+
+
+
+**Hur vill du utreda Verica**
+
+* ***Längd, vikt, tillväxtkurva***
+* ***Blodprover***
+  * blodstatus: inkl Hb
+  * elstatus
+  * leversstatus inkl albumin
+  * CRP, 
+  * SR
+  * Krea
+  * ak-transglutaminaser
+  * calprotectin i faeces. 
+  * glukos?
+
+
+
+***Behandling***
+
+* Fysisk aktivitet, kost, regelbunden allsidig kost
+* ***Laxerande***: 
+  * laktulos oral lösning
+  * movicol
+
+
+
+***Kostråd och livsstillsråd***
+
+* se ovan
+
+## Det akut sjuka barnet
+
+
+
+### Fall 15
+
+* Albert 3år
+  * Albert har efter en lättare ÖLI plötsligt ådragit sig en kraftig utsådd av hud-blödningar över hela kroppen. 
+  * Ser ut som blåmärken av olika storlek. 
+  * Blöder lite också ur näsa-mun. 
+  * Mår annars prima, har ingen feber och är tidigare helt frisk
+
+
+
+***Trolig orsak till hudblödningarna?***
+
+* ***ITP***
+* Vf inte henoch
+  * ingen hematuri
+  * ingen artralgi
+  * ingen histopatologi,ingen IgA deposition
+  * ingen buksmärta
+  * ingen njurpåverkan hematuri eller proteinuri
+
+
+
+***Viktigaste akuta prover för att säkra diagnos och utesluta andra allvarliga sjukdomar?***
+
+* ***Komplett blodstatus*** 
+  * ***TPK (endast TPK som blir lågt vid ITP):*** TPK i citratrör för att inte falskt förhöjt
+  * ***Hb, LPK med diff.*** 
+  * ***PK, APTT,***
+  *  ***retikulocyter,*** 
+  * ***CRP** (sepsis/meningit* 
+  * **SR,** 
+  * **ASAT, ALAT.** 
+  * **VitK?** 
+  * **Urinstatus: sticka?**
+
+
+
+***Vad finns det för risk med detta tillstånd***
+
+* TPK under 50 10^9 p L
+  * påtaglig risk för blödning
+  * indikation för transfusion. 
+
+
+
+***Differentialdiagnoser***: Nämn fyra orsakertill hudblödningar i barndomsåren
+
+* Henoch schönlein
+* HUS
+* DIC
+* TTP
+* LKM utlöst, läkemedelsutlöst
+* hemofili
+* vwf
+
+
+
+
+
+### Fall 16
+
+* Ayla 5år
+  * Aylahar senaste 2-3 veckorna blivit allt tröttare, har stundtals haft feber 38,5°C. Successivt uppdykande, glest spridda, hudblödningar över hela kroppen. I status noterar du att Aylaser klart hängig ut, är blek ochdu ser också blödningarna. Du konstaterar Hb 69. Lab-status visar, förutom anemi, också låga trombocyter (TPK 55) och LPK 27. Oväntat palpationsfynd i buken är förstorad lever och mjälte.
+
+
+
+***Trolig diagnos***
+
+* Leukemi, ALL (akut lymfatisk leukemi)
+
+
+
+***Hur fortsätta diagnostiken***
+
+* ***Bloddiff***
+* ***benmärgsprov med kromosomanalys***
+  * kromosmavvikelser vanligt
+  * philadelphia
+  * With recurrent genetic abnormalities:
+    * t(9;22)(q34;q11.2); BCR/ABL1
+    * t(v;11q23); MLL rearranged
+    * t(12;21)(p13;q22); TEL/AML1
+    * hyperdiploidy
+    * hypodiploidy
+    * t(5;14)(q31;q32); IL3/IGH
+    * t(1;19)(q23;p13.3); E2A/PBX1 (TCF3/PBX1)
+* ***Blodstatus inkl diff*** 
+* ***Alb, Na, K, Ca Pi, Mg, krea, urat, ASAT, ALAT, bilirubin, LD***
+* ***Blodgas***
+* ***Bastest***
+* ***Lungrtg***
+* ***CRP och ev. procalcitonin vid feber***
+
+
+
+***Prognos***
+
+* ALL 85% överlever 5år
+
+
+
+***Akut handläggning:***
+
+* Kontrollera vitalparametrar samt längd och vikt; 
+* SpO2, andningsfrekvens, puls, blodtryck och kapillär återfyllnad.
+* Om patienten inte är stabil- ta barnet till akutrummet och tillkalla narkos  
+
+***Sätt infart för provtagning:*** 
+
+* Blodstatus inkl diff 
+* Alb, Na, K, Ca Pi, Mg, krea, urat, ASAT, ALAT, bilirubin, LD
+* Blodgas
+* Bastest
+* Lungrtg 
+* CRP och ev. procalcitonin vid feber
+
+***Ordinera läkemedel:***
+
+* Intravenös rehydrering med buffrad glukos 25 mg/ml (2,5%) utan extra kalium: 2000 ml/m2
+* Intravenös antibiotika om patienten har feber.
+    * Tazocin           80 mg/kg x 4 max 4 g x 4
+    * Meronem      20 mg/kg x 3; över 50 kg 1 g x 3 (om verifierad ESBL/allergi eller magtarmsymptom).
+
+4. Kontakta barnonkolog tel. 72559 för diskussion kring vidare handläggning och vårdnivå
+
+
+
+### Fall 17
+
+* isak 6åå
+  * Isaksöker för huvudvärk sedan 3-4 dagar. Han är också trött, blek och äter dåligt. Tidigare frisk. Ingettrauma. Far uppger efter en stund att urinen sett mörk ut vid flera tillfällen senaste veckan. Ingen miktionssveda eller feber. Du tar ett blodtryck som är 155/100.
+
+
+
+***Vilken svår sjukdom måste uteslutas?***
+
+* Glomerulonefrit, nefritiskt syndrom
+
+
+
+***Föreslå viktiga enkla akutprover för att stärka diagnosmisstanken***
+
+* Centrala
+  * Urinsticka
+  * Krea
+  * blodgas
+* Blodstatus
+* Övriga
+* SR, CRP, blod-, elektrolytstatus, urea, albumin, elfores (komplementanalys, för postinfektiös glomerulonefrit)
+* Sediment
+* Urinstatus/testremsa, sediment, elfores eventuellt odling. U-Albumin/U-Kreatinin.
+* Laboratoriefynd. Hög SR, CRP-stegring, måttlig anemi, normalt eller  förhöjt P-Kreatinin. 
+* ***Urinprov***: Mikro- eller makroskopisk hematuri,  obetydlig till måttlig proteinuri, röda blodkroppscylindrar, hylina och  korniga cylindrar, ibland vita blodkroppar.
+
+
+
+***Vad kan hända om du missar diagnosen***
+
+* ***Akut jursvikt***
+  * hyperkalemi, arrytmi
+  * lungödem
+
+
+
+### Fall 18
+
+* Yusuf 7 år
+  * Yusuf har varit trött och hängig i 3-4 veckor. Han har också druckit mer än vanligt och behövt gå upp på natten för att kissa. Vikten minskat 3kg. Föräldrarna berättar att han andats tungt de senaste timmarna. De misstänker astma som förekommer i familjen. Yusuf har också kräkts sedan igår
+
+
+
+***Vilken är den mest troliga diagnosen?Motivera ditt svar.***
+
+* hyperglykemi (ketoacidos)
+
+
+
+***Hur förklarar du andningsproblemen?*** 
+
+* Metabol acidos med respiratorisk kompensation
+
+
+
+***Vårdnivå? Vilken behandling ordinerar du?***
+
+* IVA fall
+* **Hyperglykemi med ketoacidos**
+  * NaCl 0.9% natriumklorid för att återställa perifert neddsatt cirkulation,
+  * vid utebliven effekt av NaCl bör 5% albumin övervägas
+* **Ringer-acetat**: föreläsning säger ringer, men boken säger NaCl? 
+* **Insulininfusion påbörjas tidigast 1timme senast 2 timmar efter vätskebeh igång**
+  * vid svår hypokalemi avvakta insulinet tills inom acceptabla nivåer?
+  * Infusion och inte bolus för att man ej vill ha cerebralt ödem och blodsockerfall
+  * insulin i hans ålder 0.1E/kg/h iv. 
+  * om ketoacidos lindrigt, i.e. pH 7.1 kan man halvera infusionsmängden, 0.05E/kg/h
+* Följa glukos varje timme med nära analys, och anpassa beh efter resultat
+* Följa ketoner i blod under hela behandlingsdurationen
+* För att iv vätska följa natrium + timdiures/diures
+* ***Acidoskorrektion:*** endast på vitalindik, i.e. livshotande hyperkalemi, eller pH under 6.9
+  * förutsatt att det ej är indik, så upplöses acidosen mha insulininfusionen varpå kalium entrar cellen och väte följer med. 
+  * annars för att korrigera acidos ger man tribonat. 
+
+
+
+![PQRovJiHja](./imgs/pedsem_PQRovJiHja.png)
+
+
+
+### Fall 19
+
+* Lova 6 veckor
+  * Novakommer tillsammans med sin mamma till din BVC-mottagning. Det har inte gått så bra med matningen senaste två veckorna och vikten har stagnerat-till och med gått ned något senaste veckan. Novahar blivit allt tröttare och en viss andfåddhet gör amningen allt svårare. En lätt förkylning har inte gjort situationen lättare.Du finner ett afebrilt barn utan ÖLI-symptomsom verkar lojt och trött. Andningsfrekvens55/min, levern 3-4 cm nedom arcus, känns hård. Novaser annars normal ut. Du har svårt att avgöra om det finns blåsljud. Detta är en beskrivning på klassisk hjärtsvikt
+
+
 
 # ***Referenser***
 

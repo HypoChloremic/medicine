@@ -1398,12 +1398,69 @@ Anafylaxigrader
 
 **Vilka motoriska och kognitiva färdigheter kontrolleras på BVC vid 4-6veckors, 6 och 10 månader ålder?**
 
-* 4-6 veckors:
+* ***4-6 veckors:***
   * nyföddhetsreflexer
   * följa röd boll med ögonen
   * rör sig symmetriskt
   * öppnar händerna
-  * 
+  * ryggläge
+  * magläge
+  * sittande, rund rygg (6-8 veckor)
+  * stående: tar krovarigt stöd på tårna eller hela fötternam när du ställer det, sjunker sedan ihop
+  * handfunktion: griper inte
+  * avvikande motoriskt utförande vid 6-8v
+    * Oro vid lägesändringar
+    * Rörelsefattigdom
+    * Asymmetriska rörelser
+    * Hårt knutna händer
+    * Inslagna tummar
+    * Plantarflektion av fotleden
+* ***6 månader***
+  * Ryggläge
+    * Rör huvudet obehindrat. Föremål kan följas utan att barnet tappar  balansen. När barnet vill följa föremål som försvinner åt sidan och  uppåt inträffar ofta de första försöken att vända runt.
+    * Händerna samarbetar bättre och bättre. Barnet undersöker föremål  genom att vända och vrida på dem. Nu är snören, knappar och dylikt  intressanta och barnet undersöker dessa uppmärksamt. Barnet slår också  gärna (lek)saker mot kroppen eller mot underlaget för att undersöka  ljudet.
+    * Bålen är stabil och barnet vänder till sidan eller hela vägen till mage.
+    * Fötterna hålls högt upp i luften och är intressanta att leka med
+  * Magläge
+    * Huvudet är stadigt och barnet kan vrida huvudet obehindrat för att undersöka omgivningen.
+    * Stödjer på raka armar med öppna händer. Barnet försöker också att  stödja på den ena eller andra armen och skjuta ifrån för att med den  andra nå spännande saker.
+    * Bålen är stabil även när barnet rör sig.
+    * När barnet stödjer på raka armar sträcks ryggen så att tyngdpunkten flyttas till nedanför naveln och barnet ligger på bäckenet.
+    * Barnet kan nu sträcka ett ben samtidigt som det andra kan böjas och  utåtroteras. Benen hjälper på detta sätt till när barnet vill röra sig i cirkel åt höger eller vänster.
+  * Sittande
+    * Tar själv stöd på armarna framåt. En del barn kan sitta kortvarigt utan stöd.
+  * Stående
+    * Barnet tar stöd på hela fötter när det står med stöd.
+  * Handfunktion
+    - Greppar efter föremål, lika med båda höger och vänster.
+    - Händerna används lika mycket och kan samma saker.
+    - Öppnar handen och fingrarna för att greppa.
+    - Håller föremålet mot handflatan.
+  * Avvikande motoriskt utförande vid 6 månader
+    - Oro vid lägesändringar
+    - Rörelsefattigdom
+    - Asymmetriska rörelser
+    - Hårt knutna händer
+    - Inslagna tummar
+    - Plantarflektion i fotleden
+    - Oförmåga att hålla huvudet stadigt i olika kroppslägen
+    - Få rörelser mot tyngdkraften
+    - Okoordinerade rörelser
+    - Ökade och tydligare avvikelser när barnet vill röra sig målinriktat
+    - Skakighet
+    - Instabilitet
+* 10 månader Anamnes/observation
+  * Föräldrars egna frågor eller funderingar.
+  * Samspel/kommunikation förälder och barn.
+  * Samspel/kommunikation barn och BVC-personal.
+  * Jollrar med olika ljud i långa ramsor som låter som "riktigt prat".
+  * Leker tittut, vinkar.
+  * Förstår enstaka ord.
+  * Använder båda händerna - flyttar från hand till hand. Plockar smulor. Pincettgrepp - tumme mot pekfinger.
+  * Slår två klossar mot varandra.
+  * Sitter utan stöd, sätter sig upp.
+  * Kryper fyrfota eller hasar på bak eller mage.
+  * Reser sig och går efter vägg, soffa m.m.
 
 
 

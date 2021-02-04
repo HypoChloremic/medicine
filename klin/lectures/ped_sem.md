@@ -816,7 +816,7 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
 
 ***Behandling av akut astma / obstruktiv bronkit?***
 
-* syrgas är nummer 1: 
+* ***syrgas är nummer 1:*** 
   * om hon desat, glöm ej bort d, att man gör d direkt när barnet kmr gm dörren, ser desat. 
   * gränsen för syrgas = under 92% ger man syrgas. 
   * ***Sätt att ge:***  
@@ -827,8 +827,8 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
     * Högflödesgrimma med uppväörmd i befuktad luft: kan man ge högre flödn
     * på mask: upp t minst 5L-10L per minut på mask. 
   * ***Möjligheter att ge läkemedle***
-    * högflödesgrimma: då kan man sätta nebulisator för att ge lkm, men inte alltid det är så fallet
-    * om vanligt grimma: kan man ge den vid sidan om grimman...
+    * ***högflödesgrimma***: då kan man sätta nebulisator för att ge lkm, men inte alltid det är så fallet
+    * ***om vanligt grimma***: kan man ge den vid sidan om grimman...
   * ***Partialpressures***
     * prematurfödda o nyfödda finns inget poäng med tt ge överflöde surgas, för att då inducerar oxidativ stress, med fria syreradikaler, inflamamtion etc, 
       * då är det 21% o2 som gäller.
@@ -1218,26 +1218,60 @@ Anafylaxigrader
 
   
 
-  * **Vilken diagnos misstänker du i första hand?** 
-    * Järnbristanemi: 
-  * **Vad grundar du din misstanke på**
-    * Sen avnavling vid födelsen och introduktion av järnrikkost vid 6 månaders ålder är faktorer som minskar risken för järnbrist.
-    * Låg födelsevikt, utebliven introduktion av järnrikkost vid 6 månader och intag av komjölk är riskfaktorer för järnbrist.
-    * Barn med låg födelsevikt (<2 500 g) är en särskild riskgrupp och erbjuds rutinmässig profylax mot järnbrist:
-      * profylax i form av järn i kontrollerad form
-    * Järnstatus bör ingå i utredningen av bl a beteendeproblem och kognitiva svårigheter hos barn och ungdomar
-    * Andra orsaker järnbrist
-      * Minskat intag eller upptag – helamning från 1 års-åldern, ensidig eller vegetarisk kost, högt mjölkintag, celiaki
-      * Ökad förlust – blödning från näsa, tarm, Meckels divertikel, riklig menstruation
-      * Provsvar – lågt MCV, ferritin och järn
-  * **Vad ska en 9 mån gamma gosse äta**
-    * 
-  * **Behandling**
-    * Tonåringar kan behandlas i primärvård, yngre barn bör remitteras
-    * Behandling rekommenderas vid konstaterad järnbrist, även utan anemi
-    * Järntillskott – tabletter eller orala droppar i 3 månader (remiss vid behov av intravenös behandling)
-    * Kostråd för järn – kött, fisk, tofu, baljväxter, nötter och fröer
-    * Dietistkontakt vid behov
+  **Vilken diagnos misstänker du i första hand?** 
+
+  * Järnbristanemi: 
+
+  
+
+  **Vad grundar du din misstanke på**
+
+  * Sen avnavling vid födelsen och introduktion av järnrikkost vid 6 månaders ålder är faktorer som minskar risken för järnbrist.
+  * Låg födelsevikt, utebliven introduktion av järnrikkost vid 6 månader och intag av komjölk är riskfaktorer för järnbrist.
+  * Barn med låg födelsevikt (<2 500 g) är en särskild riskgrupp och erbjuds rutinmässig profylax mot järnbrist:
+    * profylax i form av järn i kontrollerad form
+  * Järnstatus bör ingå i utredningen av bl a beteendeproblem och kognitiva svårigheter hos barn och ungdomar
+  * **Andra orsaker järnbrist**
+    * Minskat intag eller upptag – helamning från 1 års-åldern, ensidig eller vegetarisk kost, högt mjölkintag, celiaki
+    * Ökad förlust – blödning från näsa, tarm, Meckels divertikel, riklig menstruation
+    * Provsvar – lågt MCV, ferritin och järn
+
+  **Vad ska en 9 mån gammal gosse äta**
+
+  * **Introduktion av mat:**
+    * Vid (4)-6 månaders ålder: 
+    * rotfrukter, grönsaker 
+    * Frukt 
+    * kött, fisk ägg och gluten 
+    * smaksensationer, små mängder av mycket. Man är tolerant för att lära sig tycka om många olika smaker. 
+    * Man ger pyttemängder, man har mkt olika saker o ge så blire lätt att tycka om många olika saker sen. Glutenintroduktion under amning mellan 4-6 månaders ålder annars ökar riske för celiaki, så man ska få in gluten tidigt i kosten och sakta o säkert med bröstmjölksskydd.
+  * **Meny 6-8 mån ålder: - bröstmjölk/ersättning** 
+    * On demand. 
+    * 1 huvudvmål: Kött/fisk, potatis, grönsak+frukt pure 
+    * Gröt med fruktpure eller välling. 
+  * **10 mån ålder**: 
+    *  Frukost: bröstmjölk eller välling/gröt med fruktpure 
+    * 2 huvudmål: Kött/fisk , potatis, grönsaker + frukt. 
+    * mosad mat, mindre bitar.
+    * 1-2 mellanmål med frukt, smörgås, yoghurt. 
+    * Gröt med fruktpure eller välling eller bröstmjölk
+  * Vanlig komjölk kan introduceras vid 1 års ålder, mängden protein o salt. 
+  * **Från 1 års ålder:** 
+    * Äter mer som vuxna o större barn. 
+    * Mellanmål 2 ggr per dag 1-2års ålder.
+    * Mellanmål 1g per dag > 3 års ålder. 
+    * 5mål/dag mår tarmarna bra av.
+
+  
+
+  **Behandling**
+
+  * **I pojkens fall:** järntillskott + transfusion
+  * Tonåringar kan behandlas i primärvård, yngre barn bör remitteras
+  * Behandling rekommenderas vid konstaterad järnbrist, även utan anemi
+  * Järntillskott – tabletter eller orala droppar i 3 månader (remiss vid behov av intravenös behandling)
+  * Kostråd för järn – kött, fisk, tofu, baljväxter, nötter och fröer
+  * Dietistkontakt vid behov
 
 
 
@@ -1246,3 +1280,346 @@ Anafylaxigrader
 
 
 <img src="./imgs/pedsem_ZExdXH1HiP.png" alt="ZExdXH1HiP" style="zoom:67%;" />
+
+### Fall 6
+
+* ***Hamid 9 månader***
+
+  * 9-månaders pojke som av dig har följts på BVC med sedvanliga rutin-kontroller. Han har mått bra. Fått alla vaccinationer. 
+  * Vid 6-månaderskontrollenhar du noterat ”allt väl, sitter med endast lite stöd, rullar från mage tillrygg, fint grepp”. Föräldrarna undrar nu varför det inte går framåt.Hamid vill intesitta och när man lägger ner pojken i sängen ligger han snällt kvar på rygg.a) 
+
+  
+
+  ***Lugnande besked? Gränserna för utvecklingsfaserna är ju vida (!?).***
+
+  * Pat har gått tillbaka i utvecklingen, varpå indikation för neurologutredning. 
+  * uteslut att det förekommer indikation för akut remiss t neuro
+    * regression
+    * akut förlust förmågor
+    * uteslut somatik
+
+  
+
+  ***Föreslå en kort plan för hur denna frågeställning skall hanteras. (Av vem och hur snabbt?)***
+
+  * Evt föreligger akut remiss neurolog
+    * Har pat ont?
+    * Är det för att han inte kan? Är det regressio?
+  * Uteslut somatik: 
+    * utvidgad anamnes och status
+    * varför vill han bara ligga på rygg
+  * framgår att pat regredierat: skicka remiss neuro
+
+### Fall 7
+
+* Lukas 4 veckor
+  * Mammorna till Lukas
+  * 4 veckor (första barnet) söker på BVC för att de oroar sig föratt han kräks så mycket. 
+  * Graviditet och förlossning varua.
+  * De gick hem från BB drygt två dygn efter förlossningen. 
+  * Helammas, har god aptit. 
+  * Vikten har ökat med 250 g sedan föregående besök för två veckor sedan. 
+
+
+
+**Du minns att kräkningar är mycket vanligt under spädbarnsperioden, men varför är det så?**
+
+* ***Överskottskräkningar:***
+  * matstrupe magsäck är inte tight, varpå reflux och spyr 
+  * vid ett år bör detta sluta
+
+
+
+***Vad ger vi för råd till föräldrarna?***
+
+* Mindre mängd mat
+* Mer frekventa matningar
+
+
+
+***Tänkbara diff.diagnos som bör övervägas?***
+
+* Pylorusstenos
+* Ileus
+* Gastroenterit
+* Övriga infektioner
+* lever-/gallvägssjukdom, 
+* komjölkproteinallergi [osannolikt ålder]: möjligt att det kan vara komjölksallergi om mamman konsumerar det, varpå supposed överförsel till barnet, enl abdollah.  
+* GER (gastroesofagalreflux))
+
+
+
+
+
+### Fall 8
+
+​	
+
+* Celine7 veckor
+  * BVC-sköterskan bekymrarsig för att sju veckor gamla Celine går dåligt upp i vikt. Sköterskan har gett mamman mycket råd beträffande amningen, men det har varit problem ändå. Mamman vill gärna amma, men nu har hon börjat komplettera med tillägg som dock flickan inte gärna vill ha. FV 3.240 g, hon gick ned till 2.980 g och var tillbaka till FV vid 10 dagars ålder. Celineväger nu 3.780 g. Du träffar dem på BVC.a)Vilka vanliga och viktiga orsaker finns det till dålig viktuppgång? b) Viktiga anamnestiska uppgifter? Vad leta efter i status?
+
+
+
+***Vilka vanliga och viktiga orsaker finns det till dålig viktuppgång?*** 
+
+* ***Första dagarna***: upp till 10% viktnedgång är acceptabelt. 
+* ***För lite bröstmjölk***
+* **infektion**
+* **hjärtsvikt**
+* **dålig nutrition, opassande nutrition**
+* **dåligt suggrepp:** inUoptimal mängd mat som därför konsumeras
+* Inadekvat intag
+  * Inadequate availability of food
+  * Feeding problems – insufficient breast milk or poor technique, incorrect
+  * preparation of formula
+  * Insufficient or unsuitable food offered
+  * Lack of regular feeding times
+  * Infant difficult to feed – resists feeding or disinterested
+  * Conflict over feeding, intolerance of normal feeding behaviour, e.g.
+  * messiness, throwing food around, leading to an early cessation of meals
+  * Problems with budgeting, shopping, cooking food, famine
+  * Low socioeconomic status
+  * Psychosocial deprivation
+  * Poor maternal–
+    * infant interaction
+    * Maternal depression
+    * Poor maternal educationI
+  * Neglect or child abuse
+    * Includes factitious illness: deliberate underfeeding to generate weight falterin
+  * Underliggande patologi
+    * Underlying pathology
+    * Impaired suck/swallow
+    * Oro-motor dysfunction, neurological disorder, e.g. cerebral palsy Cleft palate Chronic illness leading to anorexia
+    * Crohn disease, chronic kidney disease, cystic fibrosis, liver disease, etc.
+* Inadequate retention
+  * Malabsorption
+  * Vomiting, severe gastro-oesophageal reflux
+  * Coeliac disease, cystic fibrosis, cow’s milk protein allergy, cholestatic liver disease,
+  * short gut syndrome, post-necrotizing enterocolitis (NEC)
+  * Failure to utilize
+  * nutrients Syndromes
+  * Chromosomal disorders, e.g. Down syndrome, intrauterine growth restriction (IUGR)
+  * or extreme prematurity, congenital infection, metabolic disorders, e.g. congenital
+  * hypothyroidism, storage disorders, amino and organic acid disorders
+  * Increased requirements 
+  * Thyrotoxicosis, cystic fibrosis, malignancy, chronic infection (HIV, immune deficiency) congenital heart disease, chronic kidney disease
+
+
+
+***Viktiga anamnestiska uppgifter? Vad leta efter i status?***
+
+* Fråga allt efter A
+  * Psykiatrisk anamnes: 
+  * Hur ofta ammar du
+  * hur ofta äter hon
+  * hur mkt äter hon: suger hon bra, läcker det. Bra suggrepp
+  * när på dygnet, 
+  * vad ger du exakt
+  * kräkningar
+  * FEber
+  * diarrer
+  * infektion
+  * otröstlig
+  * gråter mkt
+  * irritabel
+  * smärtor
+  * vill hon äta ens
+* ***psykosocial anamnes***
+  * hur mga barn, vf vem hur när
+  * hur mår du
+* ***Status***
+  * **Pylorusstenos:** 
+    * ***Symtomen börjar oftast vid 3-5 veckors ålder. Det är ovanligt med insjuknande efter 12 veckors ålder (10).***
+    * palperbar olivmassa ovanligt, palpera, 
+    * **Kräkningar**: Anamnes avseende kräkningarnas karaktär, färg och relation till måltid väger tungt i diagnostiken. Reflux leder till kräkningar som ofta sker senare efter måltiden, kräkningarna är inte av kaskadkaraktär och brukar inte ha ett progredierande mönster. Reflux ger inte heller alltid påverkan av vikten. Gallfärgade kräkningar ska leda till misstanke om mer distalt hinder.
+    * **Aptit**: Aptiten hos spädbarn med IHPS är oftast god, jämfört med aptit vid t ex gastroenterit eller urinvägsinfektion.
+    * **Vikt**: Senast kända vikt är en viktig uppgift och ofta tillgänglig då kontakter med BVC brukar vara täta i denna ålder.
+    * **Urinproduktion**: Urinproduktion bör efterfrågas som en del av dehydreringsbedömningen, enklast genom att fråga när blöjan var våt sist.
+    * **Avföringsfrekvens**: Avföringsfrekvens och förekomst av blod i denna, där förekomst av det sistnämnda talar emot IHPS och istället talar för komjölksproteinallergi eller invagination i sent skede
+  * AT
+  * hjärta: blåsljud, RR
+  * lungor: andning
+  * hydreingsstatus
+  * MOS: för gomspalt
+  * cirkulation: CRT,
+  * neuro: samspel med barnet
+  * hur ammar barnet
+
+
+
+
+
+
+
+![qZDqEum9ew](./imgs/pedsem_qZDqEum9ew.png)
+
+
+
+
+
+
+
+
+
+### Fall 9
+
+* ***Alessandra 4dagar***
+  * 4 dagar gammal flicka som blivit tilltagande ikteriskoch är nu rejält gul.
+  *  Hon är också lite slö och tröttnar vid slutet av amningen. 
+  * Ingen feber, kräkningar, skrikighet eller andra allmänsymptom. 
+  * En första provtagningsomgång visar Hb 190 g/L och bilirubin 360 μmol/ml.CRP <5. 
+  * Mor blodgrupp A+.
+
+
+
+***Hur förklarar du mekanismen bakom flickans gulhet?***
+
+* ***Acceptabel gulhet***: 
+  * **2v-3v**: för fysiologisk ikterus
+  * **2mån:** amningsinducerad
+* ***oacceptabel ikterus***
+  * **2mån**: misstänk gallvägsatresi, och uteslut andra orsaker till ikterus, e.g. hepatit
+* ***Mekanism***
+  * **Ökad nedbrytning Hb + okonjugerat bilirubin kan inte konjugeras tillräckligt hastight av levern***
+
+
+
+***Vad innebär immunisering? Vad talar emot detta i Alessandras fall?***
+
+* Rhesus haemolytic disease Affected infants are usually identified antenatally and monitored and treated if necessary (see Ch. 10). The birth of a severely affected infant, with anaemia, hydrops and hepatosplenomegaly with rapidly devel- oping severe jaundice has become rare. Antibodies may develop to rhesus antigens other than D and to the Kell and Duffy blood groups, but haemolysis is usually less severe. ABO incompatibility This is now more common than rhesus haemolytic disease. Most ABO antibodies are IgM and do not cross the placenta, but some group O women have an IgG anti-A-haemolysin in their blood, which can cross the placenta and haemolyse the red cells of a group A infant. Occasionally, group B infants are affected by anti-B haemolysins. Haemolysis can cause severe jaun- dice but it is usually less severe than in rhesus disease. The infant’s haemoglobin level is usually normal or only slightly reduced and, in contrast to rhesus disease, hepatosplenomegaly is absent. The direct antibody test (Coombs’ test), which demonstrates antibody on the surface of red cells, is positive. The jaundice usually peaks in the first 12 hours to 72 hours.
+* ***Rh-immunisering*** 
+  * innebär att en Rh-negativ person, efter kontakt med Rh- positiva blodkroppar, bildar antikroppar mot Rh-faktorn. Inom kvinnosjukvården handlar det om en Rh-negativ moder, som bildar antikroppar mot sitt Rh-positiva foster genom att det passerar fosterblodkroppar till den maternella cirkulationen. Detta är vanligast i samband med förlossning, spontana eller legala aborter, extrauteringraviditet, amniocenteser och yttre vändningar. Det kan också inträffa i samband med felaktiga blodtransfusioner. Om man till den Rh-negativa, icke immuniserande kvinnan tillför ett immunoglobulin (anti-D) kan immuniseringen förhindras. Detta immunoglobulin är riktat mot de eventuella Rh-positiva fosterblodkroppar, som kan ha passerat över i mammans blod och eventuellt initierat en immunologisk reaktion.
+* ***AB0 inkompatibiltet***
+  * Mamman är blodgrupp 0 (O): 
+  * föranleder antikroppar mot både A och B. Antikropparna förs över placenta till fostret och följer med spädbarnet vid fösel, 
+  * detta leder till hemolys hos barnet. 
+* ***Vad som talar emot i detta fallet:*** 
+  * Mamman är rhesus positivt, inga antikroppar mot detta
+  * samt att mamman är blodgrupp A, så inga antikroppar mot A. 
+
+
+
+***Vilka faktorer avgör om behandling skall inledas?***
+
+* Följ bilirubinkurvan för
+* ***Ljusbehandliing***
+* ***Blodbyte***
+* Angivna gränser enl kurvan. 
+
+
+
+
+
+<img src="./imgs/ped_sem_dB3AFDI5ns.png" alt="dB3AFDI5ns" style="zoom:67%;" />
+
+
+
+
+
+
+
+***Är bilirubinstegring farlig? Alla (de flesta) nyfödda är väl något gula!?***
+
+* ***Toxicitetsrisk***: vid för höga värden av bilirubin förekligger bilirubintoxicitet, kan leda till skador som CP
+* ***Toxisk nivå:*** över 450 mikroM
+* bilirubinencefalopati (ABE)
+* Symtom på akut bilirubin-encefalopati (ABE) är hypertonus med bakåtböjt huvud (retrocollis) och bål (opistotonus) samt irritabilitet. Övriga akuta symtom som kan förekomma innefattar matningssvårigheter, tonusväxlingar, gällt skrik och uttalad slöhet. Dessa symtom är i de flesta fall reversibla.  Vid extrema bilirubinnivåer tillstöter apnéer, kramper/cyklande rörelser, feber, koma och död. Vid obduktion ses stark gulfärgning av de centralt belägna hjärnkärnorna (kärnikterus). Överlevande uppvisar i 70 % av fallen bestående skador i form av ofrivilliga, danssjuke-liknande motorikstörningar (atetotisk CP-skada, dystoni), svårigheter med ögonmotoriken, sensorineural hörselnedsättning/dövhet (tillsammans BIND = Bilirubin Inducerad Neurologisk Dysfunktion) och emaljhypoplasi. Något entydigt samband mellan bilirubinnivå i neonatalperioden och senare IQ har inte kunnat fastställas [2, 18-20]. Det finns heller inte stöd för att känsligheten för bilirubin minskar under neonatalperioden (eller senare under barnaåldern) – behandling ges därför på samma indikationer som i slutet av första levnadsveckan.
+* ***Orsak till at mga e gula förklarades ovan***: dock få som har toxiska nivåer
+
+
+
+
+
+
+
+### Feber, infektioner, andningsbesvär och buksmärtor
+
+### Fall 10
+
+* Alice
+  * Alice och hennes pappa söker på barnakuten pga hosta och andningspåverkan. Lungröntgen visar infiltrat
+
+
+
+***VIlket vilka agens är mest sannolikt om Alice är***
+
+* **5 dagar**: GBS (vanligast), E coli
+* **2 månader**: virus (e.g. RSV, 1 månad - 5år, vanligast), pneumokocker, haemofilus influenza, chlamydia trachomatis
+* **9 månader**: virus (e.g. RSV), pneumokocker, haemofilus influenza, chlamydia trachomatis
+* **4 år**: oftast virus: ex RSV, pneumokocker , haemofilus influensa, chlamydia trachomatis
+
+
+
+* ***Nyfödda***
+  * GBS
+  * E. coli
+* ***Barn 1 månad t 5åå***
+  * oftast virus: ex RSV
+  * pneumokocker 
+  * haemofilus influensa
+  * chlamydia trachomatis
+* ***Barn >5åå***
+  * pneumokocker
+  * mykoplasma pneumonae
+  * chlamydia pneumoniae
+
+
+
+***Vilket är det kliniskt mest användbara kriteriet på pneumoni hos barn 6 månader till 5 år gamla?***
+
+
+
+![NT6WkSyfS4](./imgs/pedsem_NT6WkSyfS4.png)
+
+
+
+
+
+
+
+
+
+### Fall 11
+
+* Kevin snart 2åå
+  * Kevin har varit förkyld med hosta och snuva i några dagar. Sedan imorse har han blivit alltmer andningspåverkad varför man nu söker akut. Modern beskriver hur det ”piper” när han andas. Man har sökt vårdcentral några gånger tidigare med liknande, men lindrigare, symptom. Han har fått flytande Bricanyl utskrivet, men det har inte hjälpt nämnvärt. Vidundersökning noterar du en glad snabbandad kille (AF 55) med rosiga varma kinder. Något forcerad och förlängd utandning. Intercostala indragningar. Lungorna auskulteras med ronkibåde på inspiriet och expiriet.Saturation 93%. Temp 38,9
+
+
+
+***På vad grundar man bedömningen av de aktuella besvärens svårighetsgrad?***
+
+* Saturation
+* Andningsfrekvens
+* AT
+* vitala parametrar
+
+
+
+***Hur vill du behandla Kevins obstruktiviteti det akuta skedet***
+
+* **Inhalation beta2-agonister**: Detta för barn över 6 månader, för att dilatera bronkerna. 
+* ***NaCl inhalation***: ofta inhalera koksalt för att lätta upp slemmet
+* ***Steroider:*** nästa steg för att jobba mot inflammationen
+* ***Uppvätskning***
+
+
+
+***Vilka är diagnoskriterierna för förkylningsastma? Uppfyller Kevin dessa?***
+
+* ***Astma diagnos 3 punkter***:  
+  * ***Efter 3 obstruktiva episoder***: 
+    * < 2åå så kallas de för astma 
+    * annars är de akut bronkit  
+  * ***1a obstruktiva episoden och andra tecken på allergi***: 
+    * som eksem eller födoämnesallergi 
+    * så säger vi att barnet har astma 
+    * oberoende på ålder  
+  * ***1a obstruktiva episoden i samband med förkylning > 2 åå*** 
+    * så säger vi att barnet har astma !
+    * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen
+
+
+
+# ***Referenser***
+
+![fFW1HC0ebz](./imgs/pedsem_fFW1HC0ebz.png)

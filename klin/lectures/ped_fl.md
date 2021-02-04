@@ -1008,7 +1008,7 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
 * takypne
 * takykardi
 * indragnigar
-* saturation 02%
+* saturation 92%
 * subfebril
 * normal el lätt förhöjd CRP
 * svårt att amma
@@ -1021,7 +1021,7 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
 
 * inkubation 3 dagar
 * lungröntgen visar ofta hyperinflation och atelektas
-* peak för smptom 5e dagen
+* peak för symptom 5e dagen
 * hypoxi och andningssvikt -> apné
 
 ***Kliniska kännetecken***
@@ -1090,8 +1090,8 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
   * E. coli
 * ***Barn 1 månad t 5åå***
   * oftast virus: ex RSV
-  * pneumonia 
-  * influensa
+  * pneumokocker 
+  * haemofilus influensa
   * chlamydia trachomatis
 * ***Barn >5åå***
   * pneumokocker
@@ -1100,13 +1100,13 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
 
 ***Kliniska kännetecken***
 
-* Takypne
-* feber
-* ev snuva
-* ev indragningar 
-* bleka
-* trötta
-* hosta (sent tecken): inte alltid hosta förekommer
+* **Takypne**
+* **feber**
+* **ev snuva**
+* **ev indragningar** 
+* **bleka**
+* **trötta**
+* **hosta** (sent tecken): inte alltid hosta förekommer
 * ***Simulera aktu buk***: kan simulera akut buk
 * ***Andningsfrekvens***: ett väldigt bra hjälpmedel
 
@@ -1114,7 +1114,7 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
 
 ***Utrednign***
 
-* man kan iunte auskultera fram pneumonin lika bra
+* ***sällan auskultationsfynd:*** kan inte auskultera fram pneumonin lika bra
 * ***Lungröntgen***: mer benägen att man röntgar barnet
 * ***NPH-odling***: speglar nedre luftvägar ***dåligt***
 * ***Olika agens, olika åldrar***: notera detta
@@ -1123,9 +1123,9 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
 
 ***Behandling***
 
-* syras om sat <92%
-* rehydrering
-* antibiotika
+* **syras om sat <92%**
+* **rehydrering**
+* **antibiotika**
   * iv: cefotax, PCG
   * oral: 
     * amoxicillin, förskolebarn

@@ -1200,13 +1200,14 @@ Anafylaxigrader
 ### Fall 1
 
 * Elsa 10 mån 
-  * På avdelningen har just 10 mån gamla Elsa lagts in p g a viral gastroenterit. Hon har gått ner drygt 5% i vikt sedan debuten för tvådagar sedan, väger nu 11 kg. Initialt kräktes hon frekvent, men nu är det voluminösa diarréer som dominerar. Blodgasen visar pH 7,29, pCO2 4,2, BE -14. Na 145, K 4,3. Glukos 6,9. Hon har fått en pvk på akuten.Jouren som just skulle ordinera vätska var tvungen att springa på ett larm, så du ombeds göra det i hens ställe. Du möter en tagen flicka med torra läppar och en kapillär refill på 4sek. 
+  * På avdelningen har just 10 mån gamla Elsa lagts in p g a viral gastroenterit. Hon har gått ner drygt 5% i vikt sedan debuten för tvådagar sedan, väger nu 11 kg. Initialt kräktes hon frekvent, men nu är det voluminösa diarréer som dominerar. 
+  * Blodgasen visar pH 7,29, pCO2 4,2 (undre ref är 4.6), BE -14. Na 145, K 4,3. Glukos 6,9. Hon har fått en pvk på akuten.Jouren som just skulle ordinera vätska var tvungen att springa på ett larm, så du ombeds göra det i hens ställe. Du möter en tagen flicka med torra läppar och en kapillär refill på 4sek. 
 
 
 
 ***Hur tolkar du blodgasen***
 
-* Metabol acidos, icke kompenserad
+* Metabol acidos, respiratorisk kompensation
 * isoton dehydrering
 
 
@@ -1216,10 +1217,12 @@ Anafylaxigrader
 * ***Chockbehandling*** 
   * 20mL/kg 10-15min Ringer-acetat
   * 220mL 10-14min Ringer-acetat iv
+  * ***i akutskedet ger man bara baserat på current vikt***
+* ***Bolus ringer sker med spruta som man duttar på, 50mL spruta och trycka bara, gör i den hastighet som pvk tillåter***
 
 
 
-**Efter given bolus hämtar sig Elsa snabbt.Cirkulationen förbättrats, kap refill 2 sek.**
+**Efter given bolus hämtar sig Elsa snabbt. Cirkulationen förbättrats, kap refill 2 sek.**
 
 
 
@@ -1227,15 +1230,17 @@ Anafylaxigrader
 
 * Kapillär blodgas först, för att kontrollera natrium
   * om hyperton behandla som hyperton, annars gå vidare.
-* Över 4 timmar
-* RInger-acetat 5% av kroppsvikt -> 550mL ringer-acetat över 4 timmar
+* intravenöst: Över 4 timmar, Ringer-acetat 5% av kroppsvikt -> 550mL ringer-acetat över 4 timmar
+* peroralt: över 4 timmar, ORS, 5% av kroppsvikt -> 550mL ORS över 4 timmar.
+* i hennes fall blir det intravenöst, enl seminarieledare, iom redan infart (nämns)
 
 
 
 ***Du passar på att ordinera majsvälling för underhållsbehovi sonden innan du går tillbaka till akuten. Hur räknar du?***
 
-* 6-12mån är 125mL/kg/d unerhållsvätska (näring, i detta fall välling)
+* **6-12mån är 125mL/kg/d** unerhållsvätska (näring, i detta fall välling)
 * 1375mL majsvälling
+* // om man har en aktuell vikt, med akuten tidigare är det mkt bättre att räkna på den vikten. Men iom att vi enbart har en current vikt 11kg, så använder vi den (läk menar att man kan räkna baklänges, men läk använde bara 11kg ändå verkare som)
 
 
 
@@ -1243,7 +1248,7 @@ Anafylaxigrader
 
 ### Fall 2
 
-* Tre barn 
+* ***Tre barn*** 
   * med virala infektioner som sökt akut under morgonen planeras för inläggning på vårdavdelning för vätskebehandling inklusive rehydrering.   
   * Du ombeds ordinera lämplig vätsketillförsel till barnen under det första vårddygnet. 
   * Alla barnen har gått ner ca 5% i vikt. 
@@ -1254,38 +1259,38 @@ Anafylaxigrader
 
 ***Vera 6 veckor 4kg***
 
-* ***Bolus: ja, iv***, 
+* ***Bolus: ja, iv***, förhöjd CRT
 
-  * under 44v gestationsålder: Ringer-acetat 40mL bolusvätska (4kg * 10mL/kg ), 10-15min
-  * Om över 44v gestationsålder: Ringer-acetat 80mL bolusvätska (4kg * 20mL/kg), 10-15 min
+  * **under 44v gestationsålder:** iv Ringer-acetat 40mL bolusvätska (4kg * 10mL/kg ), 10-15min
+  * **Om över 44v gestationsålder:** iv Ringer-acetat 80mL bolusvätska (4kg * 20mL/kg), 10-15 min
 
 * ***Rehydrering***: ja, 
 
-  * Oralt (då inga kräkningar, möjligt adekvat att acceptera peroralt, )
-  * 5% av kroppsvikt, 200mL Ringer-acetat över 4 timmar
+  * Oralt (då inga kräkningar, möjligt adekvat att acceptera peroralt, ) samma mängd men ORS
+  * iv: 5% av kroppsvikt, 200mL Ringer-acetat över 4 timmar
 
 * ***Underhållsvätska, ja***
 
-  * utpumpad bröstmjölk, annars ersättning
-  * peroral: 150mL/kg, 600mL över 24 timmar
-  * intravenöst:
-    *  plasmalyte glukos 5% glukos, 140mM Na, 20mM K, 
-    * 100mL/kg/d ger 400mL över hela dygnet.
+  * **utpumpad bröstmjölk, annars ersättning**
+  * **peroral:** 150mL/kg, 600mL över 24 timmar
+  * **intravenöst**:
+    *  **plasmalyte glukos 5% glukos, 140mM Na, 20mM K,** 
+    * **100mL/kg/d ger 400mL över hela dygnet.**
 
   
 
   ***Salim 8 månader, 8kg***
 
-  * Ingen bolus
+  * ***Ingen bolus***
   * ***Rehydrering***: ja, 
     * Oralt (då inga kräkningar, möjligt adekvat att acceptera peroralt, )
-    * 5% av kroppsvikt, 500mL Ringer-acetat över 4 timmar
+    * 5% av kroppsvikt, 400mL Ringer-acetat över 4 timmar
   * ***Underhållsvätska, ja***
-    * ersättning, alt utpumpad bröstmjölk, annars 
-    * peroral: 125mL/kg, 1000mL över 24 timmar
-    * intravenöst:
-      *  plasmalyte glukos 5% glukos, 140mM Na, 20mM K, 
-      * 100mL/kg/d ger 800mL över hela dygnet.
+    * ***ersättning, alt utpumpad bröstmjölk, annars*** 
+    * ***peroral:*** ***125mL/kg, 1000mL över 24 timmar***
+    * ***intravenöst:***
+      *  ***plasmalyte glukos 5% glukos, 140mM Na, 20mM K,*** 
+      * ***100mL/kg/d ger 800mL över hela dygnet.***
 
   
 
@@ -1293,14 +1298,18 @@ Anafylaxigrader
 
   * Ingen bolus
   * ***Rehydrering***: ja, 
-    * Oralt (då inga kräkningar, möjligt adekvat att acceptera peroralt, )
-    * 5% av kroppsvikt, 8500mL Ringer-acetat över 4 timmar
+    * intravenöst: 5% av kroppsvikt, 850mL Ringer-acetat över 4 timmar
   * ***Underhållsvätska, ja***
     * **välliing**
-    * **peroral**: 100mL/kg, 1900mL över 24 timmar
+    * **peroral**: 100mL/kg, 1700mL över 24 timmar
     * **intravenöst**:
       *  plasmalyte glukos 5% glukos, 140mM Na, 20mM K, 
       * 100mL/kg/d + 50mL x kg = ger 1350mL över hela dygnet.
+    * ***Notera att kalorimässigt är det lågt i glukos vätska***
+
+
+
+
 
 
 
@@ -1310,51 +1319,81 @@ Anafylaxigrader
 
 ![euarfb8KJF](./imgs/pedsem_euarfb8KJF.png)
 
+* ***PEroralt, sond, enteralt***
+  * ***Fördelar***
+    * **energitätare vätska som ges under underhållsbehandling**
+    * ofta enkel admin, med sond
+    * att man kan skriva hem de med sond/gastrostomi
+  * ***nackdelar***
+    * boluvätska kan ej ges
+    * risk för aspiration
+    * att de har diarrer kan läcka, samm om de kräks
+* ***Intravenöst***
+  * 
+* Varför man ej ger högre procent än 5% glukos hos barnet: för att det svider. 
+* Om barnet behöver dropp över lång tid går man över till TPN
+* En nackdel med IV är att man inte får lika mkt energi med 
+
 
 
 ### Fall 3
 
-* Små barn kan ibland drabbas av en hyperton dehydreringi samband med virala gastroenteriter. a)
+* Små barn kan ibland drabbas av en hyperton dehydrering samband med virala gastroenteriter
 
 
 
 ***Hur definieras hyperton dehydrering?***
 
-*  över Na 150mM i plasma
+*  över Na 150mM i plasma, definieras 
   *  **Hyperton dehydrering**. En fruktad komplikation till viral gastroenterit är **hyperton dehydrering**, vilket nästan endast förekommer hos barn under 12(-24) månaders ålder.  Barnet har då p.g.a. diarréer drabbats av en primär vattenförlust med  resulterande intra- och extracellulär hyperosmolalitet
+*  ***svår dehydrering är mellan 170-175mM Na***
 
 
 
 ***Varför är det oftast barn <1 år som drabbas?***
 
-* Risken för att dehydreras i drabbas av hypovolemi är större ju yngre barnet är
+* **Risken för att dehydreras i drabbas av hypovolemi är större ju yngre barnet är**
   * större relativt vätskebehov per kg 
   * hög andel kroppsvätska utgörs av ECV
   * mindre utvecklade hormonella reglersystem
   * mindre utvecklad njurfunktion
+* ju mindre man är desto mer vätska man består av. 
+* icke färdigutvecklade njurar, som koncentrerar urinen sämre: högt vatteninnehåll men lågt osmolyt innehåll som gör de mer benägna att bli hypertont dehydrerade
+* har större surface area som gör att de svettas mer. 
+* småttingarna har svårt att förmedla tt de behöver kompensera för sina förluster, vad gäller törst. 
 
 
 
 ***Förklara kort mekanismenbakom hur den hypertona dehydreringen har uppstått!*** 
 
-* Tillståndet innebär förlust av kroppsvatten 
-  * inte primärt av elektrolyter  
+* **Tillståndet innebär förlust av kroppsvatten** 
+  * inte primärt av elektrolyter:
+  * denna förlust kan vara diarre, via urinen iom ej kunna koncentrera mer, etc
   * Initialt sker ( tex pga diarre) en extravasal vattenförlust med resulterande hög natriumkoncentration i extracellulärvätskan -
   *  ECV  Sekundärt vandrar vatten från intracellulärrumet- 
   * ICV till ECV med en sekundär ICV dehydrering som följd  
   * Kroppen bilda nu aktiva osmotiska partiklar intracellulärt varför vattenflödena mellan ICV & ECV upphör  
   * REsultat: Förlust av kroppsvatten & ett hyperosmolärt tillstånd såväl extra- som intracellulärt
+* **/ det man är rädd för är den intracellulära intorkningen** 
+* att cellerna bildar osmolyter blir ett problem när man vill behandla hyperton dehydreringen
 
 
 
 ***Hur vill du behandla barnet?***
 
-* De man primärt gör : 
-  * ge bolusvätska med natriumklord ist för ringeracetat. 
-  * O så ger man glukoslösning med natrium 120 mmol.  
-  * De vi ska kunna är att man ska va försiktig när man sänker natriumvärdet, 
-    * målet är 0,4mmol/timme till dess att P-natrium är under 145
-* TIll för att förhindra hjärnödem
+* **De man primärt gör :** 
+  * ***ge bolusvätska med NatriumKlord ist för ringeracetat:***
+    * NaCl för att inte sänka natrium för fort
+    * för att sjunkande natrium för fort blir intracellulärt ödem, hjärnödem, pontin myelinolys. 
+  * *O så ger man glukoslösning med natrium 120 mmol.*  
+  * ***De vi ska kunna är att man ska va försiktig när man sänker natriumvärdet,*** 
+  * !!! **<u>Hastighet sänka Na</u>: målet är 0.4mmol/timme till dess att P-natrium är under 145**, detta ska man kunna
+    * man väljer vätska utefter det. 
+* ***TIll för att förhindra hjärnödem***
+* ***kom ihåg vid hyperton dehydrering att justera natrium långsamt***
+* ***Slutsats:*** Kalle ger RInger-acetat, det är okej med 130mM
+* ***Långsam uppvätskning är 10% av kroppsvikten över 36 timmar***
+* Risken med NaCl är att man ger för mkt klorid, att de blir hyperkloremiska acidos.
 
 
 
@@ -1362,18 +1401,24 @@ Anafylaxigrader
 
 ### Fall 4
 
-* HIlda 12 månader
-  * Sökerpå barnläkarmottagningen vid 1 års ålder pgasen motorisk utveckling.
-  * Socialt:1:a barnet.
+* ***Hilda 12 månader***
+  * Söker på barnläkarmottagningen vid 1 års ålder pgasen motorisk utveckling.
+  * Socialt: 1:a barnet.
   * Tid sjukdomar: Frisk. Normal graviditet och förlossning. 
-  * Aktuellt:Rullar över rygg/mage 7 månaders ålder. Sitter utan stöd vid 9 månader. Has-kryper, men går inte upp i fyrfota. Står inte, varkenmed eller utan stöd. Talar enstaka ord. Välutvecklat pincettgrepp bilat
+  * Aktuellt:
+    * Rullar över rygg/mage 7 månaders ålder. 
+    * Sitter utan stöd vid 9 månader. 
+    * Has-kryper, men går inte upp i fyrfota. 
+    * Står inte, varkenmed eller utan stöd. 
+    * Talar enstaka ord. 
+    * Välutvecklat pincettgrepp bilat
 
 
 
 **Sammanfatta normal utveckling för en ettåring.** 
 
 * **Grovmotoriskt**.
-  * reser sgi 
+  * reser sig 
   * går utan eller med stöd
   * väl utvecklade skyddsreflexer
 * **Finmotoriskt**.
@@ -1392,23 +1437,37 @@ Anafylaxigrader
     * ordsamlarstadiet
 * **Jämför med Hilda.**
   * Gränsåldern (när alla bör ha uppnått stadiet) för att stå med stöd ligger på 12 månader. Hilda som fortfarande inte uppnått detta än är sen i utvecklingen
+    * man ska gå med stöd i denna ålder
+  * // hon har fin finmotorisk utveckling och kognitivt är hon med
   * gränspldern för pincettgreppet ska vara utvecklat vid 12 månader som Hilda verkar ha.  
+* ***Möjliga orsaker***
+  * ***Neuromuskulär sjukdom:*** 
+  * ***asfyxiskada, CP skada***
+  * ***Höftledsluxation***
+* ***Handläggning***: skickar till **barnneurolog**, iom screeningen nu
 
 
 
 **Vilka motoriska och kognitiva färdigheter kontrolleras på BVC vid 4-6veckors, 6 och 10 månader ålder?**
 
-* ***4-6 veckors:***
-  * nyföddhetsreflexer
-  * följa röd boll med ögonen
-  * rör sig symmetriskt
-  * öppnar händerna
-  * ryggläge
-  * magläge
-  * sittande, rund rygg (6-8 veckor)
-  * stående: tar krovarigt stöd på tårna eller hela fötternam när du ställer det, sjunker sedan ihop
-  * handfunktion: griper inte
-  * avvikande motoriskt utförande vid 6-8v
+* ***Kontroll 4 veckor med läkare***
+  * Samspel
+  * liksidig symmetrisk rörelse
+  * kan fixera blicken litegranna: färgglad boll, att följa med blicken
+  * Vanligt bebisstatus
+* ***4-6 veckors:*** man kan se den på rikshandboken
+  * **nyföddhetsreflexer**
+  * **följa röd boll med ögonen**
+  * **rör sig symmetriskt**
+  * **öppnar händerna**
+  * **ryggläge**
+  * **magläge**
+  * **sittande**, rund rygg (6-8 veckor)
+  * **stående**: tar krovarigt stöd på tårna eller hela fötternam när du ställer det, sjunker sedan ihop
+  * **handfunktion**: griper inte, ska inte vara tonus, inga clenched hands
+  * **svarsleende**
+  * **svarsljud**
+  * **avvikande motoriskt utförande vid 6-8v**
     * Oro vid lägesändringar
     * Rörelsefattigdom
     * Asymmetriska rörelser
@@ -1416,27 +1475,31 @@ Anafylaxigrader
     * Inslagna tummar
     * Plantarflektion av fotleden
 * ***6 månader***
-  * Ryggläge
+  * ***Kan barnet vända runt***
+  * ***Ryggläge: att man drar upp de med armarna, att de ska kunna sätta sig upp, att de spänner i kroppen, att de vill följa med och sätta sig upp***
+  * **leta efter tappad leksak**
+  * ***nyföddhetsreflexerna***: tågripsreflexen borde vara den enda kvar i detta fallet. Moro oftast borta, man säger försvinner 5-6 månader. 
+  * ***Ryggläge***
     * Rör huvudet obehindrat. Föremål kan följas utan att barnet tappar  balansen. När barnet vill följa föremål som försvinner åt sidan och  uppåt inträffar ofta de första försöken att vända runt.
     * Händerna samarbetar bättre och bättre. Barnet undersöker föremål  genom att vända och vrida på dem. Nu är snören, knappar och dylikt  intressanta och barnet undersöker dessa uppmärksamt. Barnet slår också  gärna (lek)saker mot kroppen eller mot underlaget för att undersöka  ljudet.
     * Bålen är stabil och barnet vänder till sidan eller hela vägen till mage.
     * Fötterna hålls högt upp i luften och är intressanta att leka med
-  * Magläge
+  * ***Magläge***
     * Huvudet är stadigt och barnet kan vrida huvudet obehindrat för att undersöka omgivningen.
     * Stödjer på raka armar med öppna händer. Barnet försöker också att  stödja på den ena eller andra armen och skjuta ifrån för att med den  andra nå spännande saker.
     * Bålen är stabil även när barnet rör sig.
     * När barnet stödjer på raka armar sträcks ryggen så att tyngdpunkten flyttas till nedanför naveln och barnet ligger på bäckenet.
     * Barnet kan nu sträcka ett ben samtidigt som det andra kan böjas och  utåtroteras. Benen hjälper på detta sätt till när barnet vill röra sig i cirkel åt höger eller vänster.
-  * Sittande
+  * ***Sittande***
     * Tar själv stöd på armarna framåt. En del barn kan sitta kortvarigt utan stöd.
-  * Stående
+  * ***Stående***
     * Barnet tar stöd på hela fötter när det står med stöd.
-  * Handfunktion
+  * **Handfunktion**
     - Greppar efter föremål, lika med båda höger och vänster.
     - Händerna används lika mycket och kan samma saker.
     - Öppnar handen och fingrarna för att greppa.
     - Håller föremålet mot handflatan.
-  * Avvikande motoriskt utförande vid 6 månader
+  * **Avvikande motoriskt utförande vid 6 månader**
     - Oro vid lägesändringar
     - Rörelsefattigdom
     - Asymmetriska rörelser
@@ -1449,7 +1512,7 @@ Anafylaxigrader
     - Ökade och tydligare avvikelser när barnet vill röra sig målinriktat
     - Skakighet
     - Instabilitet
-* 10 månader Anamnes/observation
+* 10 månader-12 månader Anamnes/observation
   * Föräldrars egna frågor eller funderingar.
   * Samspel/kommunikation förälder och barn.
   * Samspel/kommunikation barn och BVC-personal.
@@ -1461,6 +1524,11 @@ Anafylaxigrader
   * Sitter utan stöd, sätter sig upp.
   * Kryper fyrfota eller hasar på bak eller mage.
   * Reser sig och går efter vägg, soffa m.m.
+  * ***skyddsreflexerna ska finnas, att de tar emot sig***
+  * **resa sig, kan de stå**
+  * **pincettgreppet, kan de stapla grejjer**
+  * **det är d man gjorde åp Hilda**
+  * **leka tittut**
 
 
 
@@ -1502,9 +1570,17 @@ Anafylaxigrader
     * Minskat intag eller upptag – helamning från 1 års-åldern, ensidig eller vegetarisk kost, högt mjölkintag, celiaki
     * Ökad förlust – blödning från näsa, tarm, Meckels divertikel, riklig menstruation
     * Provsvar – lågt MCV, ferritin och järn
-
+* // det är vanligt vid den åldern, samt att nutritionen är inadekvat med bröstmjölk och fruktpurre inte har mkt järn i
+  * barn med lågt Hb värden är den vanligaste orsaken dietär järnbristanemi
+* ***hur länge järnet klarar sig på med bröstmjölken***
+    * **6 månader**
+    * bröstmjölken innehåller mindre järn
+    * samt att barnet växer
+  
+  
+  
   **Vad ska en 9 mån gammal gosse äta**
-
+  
   * **Introduktion av mat:**
     * Vid (4)-6 månaders ålder: 
     * rotfrukter, grönsaker 
@@ -1516,11 +1592,15 @@ Anafylaxigrader
     * On demand. 
     * 1 huvudvmål: Kött/fisk, potatis, grönsak+frukt pure 
     * Gröt med fruktpure eller välling. 
-  * **10 mån ålder**: 
+    * // amma och ngt mellanmål till det
+    * // den är fortfarande lite åldersanpassad, mindre salt och mindre...
+    * // delammar, ersättning eller sådär, kan vara olika.
+    * // ersättningen är berikad på järn osså som man ska notera
+* **10 mån ålder**: 
     *  Frukost: bröstmjölk eller välling/gröt med fruktpure 
-    * 2 huvudmål: Kött/fisk , potatis, grönsaker + frukt. 
+  * 2 huvudmål: Kött/fisk , potatis, grönsaker + frukt. 
     * mosad mat, mindre bitar.
-    * 1-2 mellanmål med frukt, smörgås, yoghurt. 
+  * 1-2 mellanmål med frukt, smörgås, yoghurt. 
     * Gröt med fruktpure eller välling eller bröstmjölk
   * Vanlig komjölk kan introduceras vid 1 års ålder, mängden protein o salt. 
   * **Från 1 års ålder:** 
@@ -1528,17 +1608,27 @@ Anafylaxigrader
     * Mellanmål 2 ggr per dag 1-2års ålder.
     * Mellanmål 1g per dag > 3 års ålder. 
     * 5mål/dag mår tarmarna bra av.
-
   
-
+  
+  
   **Behandling**
-
+  
   * **I pojkens fall:** järntillskott + transfusion
+    * läk hade väntat lite mer på transfusion: för att vid transfusioin kmr benmärgen softa, 
+    * istället vill man ge lite järn
+    * man börjar med järn med tät uppföljnign
+  * ***järntillskottet:*** niferex droppar. 
+    * ***tar en liten tid*** med ändrat Hb värdet,
+    * **Retikulocyt antalet eval**: men man kan evaluera retikulocyt antalet för en förbättring
   * Tonåringar kan behandlas i primärvård, yngre barn bör remitteras
   * Behandling rekommenderas vid konstaterad järnbrist, även utan anemi
   * Järntillskott – tabletter eller orala droppar i 3 månader (remiss vid behov av intravenös behandling)
   * Kostråd för järn – kött, fisk, tofu, baljväxter, nötter och fröer
   * Dietistkontakt vid behov
+  * **ser till järnberikad kost, **
+  * ***järntillskott till alla***
+    * **prematuritet, eller att man är liten, liten gestationsålder, att man ger de järn**
+    * iom att de kmr att växa så pass mkt. 
 
 
 
@@ -1553,22 +1643,27 @@ Anafylaxigrader
 * ***Hamid 9 månader***
 
   * 9-månaders pojke som av dig har följts på BVC med sedvanliga rutin-kontroller. Han har mått bra. Fått alla vaccinationer. 
-  * Vid 6-månaderskontrollenhar du noterat ”allt väl, sitter med endast lite stöd, rullar från mage tillrygg, fint grepp”. Föräldrarna undrar nu varför det inte går framåt.Hamid vill intesitta och när man lägger ner pojken i sängen ligger han snällt kvar på rygg.a) 
-
+  * Vid 6-månaderskontrollenhar du noterat ”allt väl, sitter med endast lite stöd, rullar från mage tillrygg, fint grepp”. 
+* Föräldrarna undrar nu varför det inte går framåt. Hamid vill inte sitta och när man lägger ner pojken i sängen ligger han snällt kvar på rygga) 
   
 
-  ***Lugnande besked? Gränserna för utvecklingsfaserna är ju vida (!?).***
-
-  * Pat har gått tillbaka i utvecklingen, varpå indikation för neurologutredning. 
-  * uteslut att det förekommer indikation för akut remiss t neuro
-    * regression
-    * akut förlust förmågor
+  
+***Lugnande besked? Gränserna för utvecklingsfaserna är ju vida (!?).***
+  
+  * ***Pat har gått tillbaka i utvecklingen, varpå indikation för neurologutredning.*** 
+  * ***Uteslut att det förekommer indikation för akut remiss t neuro:*** akut förlusten av förmågor
+    * regression färdighetsmässigt
     * uteslut somatik
-
+* ***Regression***
+    * neurodegenerativa disorders
+  * Tumörer
+    * muskelatrofi
+  * metabol sjd
   
-
+  
+  
   ***Föreslå en kort plan för hur denna frågeställning skall hanteras. (Av vem och hur snabbt?)***
-
+  
   * Evt föreligger akut remiss neurolog
     * Har pat ont?
     * Är det för att han inte kan? Är det regressio?
@@ -1576,10 +1671,11 @@ Anafylaxigrader
     * utvidgad anamnes och status
     * varför vill han bara ligga på rygg
   * framgår att pat regredierat: skicka remiss neuro
+  * ***Remiss akut barnneurolog: inom 2 veckor***
 
-### Fall 7
+### Fall 7 
 
-* Lukas 4 veckor
+* **Lukas 4 veckor**
   * Mammorna till Lukas
   * 4 veckor (första barnet) söker på BVC för att de oroar sig föratt han kräks så mycket. 
   * Graviditet och förlossning varua.
@@ -1594,6 +1690,8 @@ Anafylaxigrader
 * ***Överskottskräkningar:***
   * matstrupe magsäck är inte tight, varpå reflux och spyr 
   * vid ett år bör detta sluta
+* vätskediet, kort esofagus, ligger mkt horisontellt
+* äter för mkt osså, iom 150mL/kg/d, det är ganska mkt
 
 
 
@@ -1601,18 +1699,33 @@ Anafylaxigrader
 
 * Mindre mängd mat
 * Mer frekventa matningar
+* // så länge ungen mår bra o går upp i vikt, så går de kräkas hur mkt de vill
+* // högläge huvet innan måltid och efter måtid, så att magmunnen får space.
 
 
 
 ***Tänkbara diff.diagnos som bör övervägas?***
 
-* Pylorusstenos
-* Ileus
-* Gastroenterit
-* Övriga infektioner
-* lever-/gallvägssjukdom, 
-* komjölkproteinallergi [osannolikt ålder]: möjligt att det kan vara komjölksallergi om mamman konsumerar det, varpå supposed överförsel till barnet, enl abdollah.  
-* GER (gastroesofagalreflux))
+* ***Pylorusstenos***: 3-8 veckor, det klassiska är 6 veckors pojke,, ska vara några veckor gamla, vanligare hos pojkar än flickor
+  * dessa barnen går ned i vikten
+  * sen är pylorusstenos kräkningar är kaskadkräkningar, men varannan förälder
+  * metabol alkalos
+  * hypokloremisk, iom att mna kräks upp HCl. 
+  * kanske att föräldern söker så pass tidigt att det inte är påverkad blodgas eller tappat lite eller inget i vikt...
+  * ibland att man kan palpera resistens i epigastriet. 
+  * ***bekräfta diagnos***: med ultraljud
+* **Ileus**
+* **Gastroenterit**
+* **Övriga infektioner**
+* **lever-/gallvägssjukdom,** 
+* **komjölkproteinallergi**: möjligt att det kan vara komjölksallergi om mamman konsumerar det, varpå supposed överförsel till barnet, enl abdollah.  
+  * vanligaste matallargin är komjölksallergi
+* **GER** (gastroesofagalreflux)):
+  * skillnaden reflux och omugen magmun, att barnet besväras av det	
+  * att de är skrikiga missnöjda, ser plågade ut
+  * apneer
+  * att de reagerar paradoxalt på refluxer, med apneer
+* **Förstoppning**
 
 
 
@@ -1623,19 +1736,23 @@ Anafylaxigrader
 ​	
 
 * Celine7 veckor
-  * BVC-sköterskan bekymrarsig för att sju veckor gamla Celine går dåligt upp i vikt. Sköterskan har gett mamman mycket råd beträffande amningen, men det har varit problem ändå. Mamman vill gärna amma, men nu har hon börjat komplettera med tillägg som dock flickan inte gärna vill ha. FV 3.240 g, hon gick ned till 2.980 g och var tillbaka till FV vid 10 dagars ålder. Celineväger nu 3.780 g. Du träffar dem på BVC.a)Vilka vanliga och viktiga orsaker finns det till dålig viktuppgång? b) Viktiga anamnestiska uppgifter? Vad leta efter i status?
-
-
+  * BVC-sköterskan bekymrarsig för att sju veckor gamla Celine går dåligt upp i vikt. 
+  * Sköterskan har gett mamman mycket råd beträffande amningen, men det har varit problem ändå. 
+  * Mamman vill gärna amma, men nu har hon börjat komplettera med tillägg som dock flickan inte gärna vill ha. 
+  * FV 3.240 g, hon gick ned till 2.980 g och var tillbaka till FV vid 10 dagars ålder. Celineväger nu 3.780 g. Du träffar dem på BVC.
 
 ***Vilka vanliga och viktiga orsaker finns det till dålig viktuppgång?*** 
 
-* ***Första dagarna***: upp till 10% viktnedgång är acceptabelt. 
+* ***Första dagarna***: upp till 10% viktnedgång är acceptabelt. , man blir inte inblandad som läkare tills de tappat 10% av kroppsvikten. 
+* ***Nästäppa***: 
 * ***För lite bröstmjölk***
 * **infektion**
 * **hjärtsvikt**
 * **dålig nutrition, opassande nutrition**
-* **dåligt suggrepp:** inUoptimal mängd mat som därför konsumeras
-* Inadekvat intag
+* **dåligt suggrepp:** inoptimal mängd mat som därför konsumeras
+* **ikterus:** blir för slö och inte orkar äta mat. 
+* **inte orkar äta, eller inte gillar ersättningen**
+* **Inadekvat intag**
   * Inadequate availability of food
   * Feeding problems – insufficient breast milk or poor technique, incorrect
   * preparation of formula
@@ -1647,18 +1764,18 @@ Anafylaxigrader
   * Problems with budgeting, shopping, cooking food, famine
   * Low socioeconomic status
   * Psychosocial deprivation
-  * Poor maternal–
+  * ***Poor maternal–***
     * infant interaction
     * Maternal depression
     * Poor maternal educationI
-  * Neglect or child abuse
+  * ***Neglect or child abuse***
     * Includes factitious illness: deliberate underfeeding to generate weight falterin
-  * Underliggande patologi
+  * ***Underliggande patologi***
     * Underlying pathology
     * Impaired suck/swallow
     * Oro-motor dysfunction, neurological disorder, e.g. cerebral palsy Cleft palate Chronic illness leading to anorexia
     * Crohn disease, chronic kidney disease, cystic fibrosis, liver disease, etc.
-* Inadequate retention
+* ***Inadequate retention***
   * Malabsorption
   * Vomiting, severe gastro-oesophageal reflux
   * Coeliac disease, cystic fibrosis, cow’s milk protein allergy, cholestatic liver disease,
@@ -1675,7 +1792,7 @@ Anafylaxigrader
 
 ***Viktiga anamnestiska uppgifter? Vad leta efter i status?***
 
-* Fråga allt efter A
+* ***Fråga allt efter A***
   * Psykiatrisk anamnes: 
   * Hur ofta ammar du
   * hur ofta äter hon
@@ -1683,7 +1800,7 @@ Anafylaxigrader
   * när på dygnet, 
   * vad ger du exakt
   * kräkningar
-  * FEber
+  * Feber
   * diarrer
   * infektion
   * otröstlig
@@ -1694,7 +1811,7 @@ Anafylaxigrader
 * ***psykosocial anamnes***
   * hur mga barn, vf vem hur när
   * hur mår du
-* ***Status***
+* ***Status***: man gör ett fullkomligt status, iom 7 veckors unge. 
   * **Pylorusstenos:** 
     * ***Symtomen börjar oftast vid 3-5 veckors ålder. Det är ovanligt med insjuknande efter 12 veckors ålder (10).***
     * palperbar olivmassa ovanligt, palpera, 
@@ -1703,14 +1820,14 @@ Anafylaxigrader
     * **Vikt**: Senast kända vikt är en viktig uppgift och ofta tillgänglig då kontakter med BVC brukar vara täta i denna ålder.
     * **Urinproduktion**: Urinproduktion bör efterfrågas som en del av dehydreringsbedömningen, enklast genom att fråga när blöjan var våt sist.
     * **Avföringsfrekvens**: Avföringsfrekvens och förekomst av blod i denna, där förekomst av det sistnämnda talar emot IHPS och istället talar för komjölksproteinallergi eller invagination i sent skede
-  * AT
-  * hjärta: blåsljud, RR
-  * lungor: andning
-  * hydreingsstatus
-  * MOS: för gomspalt
-  * cirkulation: CRT,
-  * neuro: samspel med barnet
-  * hur ammar barnet
+  * **AT**
+  * **hjärta: blåsljud, RR**
+  * **lungor: andning**
+  * **hydreingsstatus**
+  * **MOS: för gomspalt**
+  * **cirkulation: CRT,**
+  * **neuro: samspel med barnet**
+  * **hur ammar barnet**
 
 
 
@@ -1741,8 +1858,17 @@ Anafylaxigrader
 
 ***Hur förklarar du mekanismen bakom flickans gulhet?***
 
+* ***Fysiologiskt ikterus***
+  * HbF ska bytas mot adult Hb
+  * hög omsättningen erytrocyter
+  * hög blodvolym fr mamman som också medföljer
+  * levern inte är riktigt mogen ännu för att konjugera all volum bilirubin fr nedbrytningen
+  * HbF till adult tar några månader
+  * Att det blir för mkt volym på levern. 
 * ***Acceptabel gulhet***: 
   * **2v-3v**: för fysiologisk ikterus
+  * om ikterisk över 2v fortfarande: tar man ett nytt prov för att se konj vs okonj
+    * notera att barn som ammas blir lite gula osså.  
   * **2mån:** amningsinducerad
 * ***oacceptabel ikterus***
   * **2mån**: misstänk gallvägsatresi, och uteslut andra orsaker till ikterus, e.g. hepatit
@@ -1760,18 +1886,33 @@ Anafylaxigrader
   * Mamman är blodgrupp 0 (O): 
   * föranleder antikroppar mot både A och B. Antikropparna förs över placenta till fostret och följer med spädbarnet vid fösel, 
   * detta leder till hemolys hos barnet. 
+  * vanligaste är att 0 mammor reagerar på A barn. 
+  * visar sig dag 1-2
 * ***Vad som talar emot i detta fallet:*** 
   * Mamman är rhesus positivt, inga antikroppar mot detta
   * samt att mamman är blodgrupp A, så inga antikroppar mot A. 
+* ***Åldern talar emot också***
+  * att det är lite sent
+  * Rh immunisering kan man se in utero, att fostrets huvet föds med stora huvuden, iom IgG att det är så pass litet att passera placenta
+  * AB0 immunisering sker i BB, när barnet nyfött för att utbyte blod i samband med födsel: AB0 tas inte igm placenta, utan sker i smaband med födsel. 
 
 
 
 ***Vilka faktorer avgör om behandling skall inledas?***
 
 * Följ bilirubinkurvan för
-* ***Ljusbehandliing***
+* ***Ljusbehandliing***: över ett dygn gammalt är behandlingsgräns 350. 
+  * mekanistiskt att bilirubinet blir vattenlösligt och man kan pissa ut det. 
+  * i detta fallet lägger man in ungen, iom 360 bili
 * ***Blodbyte***
 * Angivna gränser enl kurvan. 
+* ***Faktorer som avgör***
+  * stegringstakten
+  * nivån 
+  * finns det en immunisering. 
+  * sänker behandlingsgränsen om barnet varit sjukt
+  * östasiatiskt land är en riskfaktor. 
+* ***DAT-test***: kollar om det finns antikroppar i barnets blod mot erytrocyterna. 
 
 
 
@@ -1792,6 +1933,12 @@ Anafylaxigrader
 * ***bilirubinencefalopati*** (ABE)
 * Symtom på akut bilirubin-encefalopati (ABE) är hypertonus med bakåtböjt huvud (retrocollis) och bål (opistotonus) samt irritabilitet. Övriga akuta symtom som kan förekomma innefattar matningssvårigheter, tonusväxlingar, gällt skrik och uttalad slöhet. Dessa symtom är i de flesta fall reversibla.  Vid extrema bilirubinnivåer tillstöter apnéer, kramper/cyklande rörelser, feber, koma och död. Vid obduktion ses stark gulfärgning av de centralt belägna hjärnkärnorna (kärnikterus). Överlevande uppvisar i 70 % av fallen bestående skador i form av ofrivilliga, danssjuke-liknande motorikstörningar (atetotisk CP-skada, dystoni), svårigheter med ögonmotoriken, sensorineural hörselnedsättning/dövhet (tillsammans BIND = Bilirubin Inducerad Neurologisk Dysfunktion) och emaljhypoplasi. Något entydigt samband mellan bilirubinnivå i neonatalperioden och senare IQ har inte kunnat fastställas [2, 18-20]. Det finns heller inte stöd för att känsligheten för bilirubin minskar under neonatalperioden (eller senare under barnaåldern) – behandling ges därför på samma indikationer som i slutet av första levnadsveckan.
 * ***Orsak till at mga e gula förklarades ovan***: dock få som har toxiska nivåer
+* ***risk för kenikterus***: kärnikterus fall. Förekommer i sverige, trots alla kontroller. detta för att enskilda individer avvikit PM, att barn faller mellan stolarna.
+  * men om man följer PM fångas dessa upp. 
+
+
+
+
 
 ## Feber, infektioner, andningsbesvär och buksmärtor
 
@@ -1804,10 +1951,13 @@ Anafylaxigrader
 
 ***VIlket vilka agens är mest sannolikt om Alice är***
 
-* **5 dagar**: GBS (vanligast), E coli
-* **2 månader**: virus (e.g. RSV, 1 månad - 5år, vanligast), pneumokocker, haemofilus influenza, chlamydia trachomatis
-* **9 månader**: virus (e.g. RSV), pneumokocker, haemofilus influenza, chlamydia trachomatis
+* ! **5 dagar**: ***GBS (vanligast),*** E coli (sen kan man alltid säga listeria)
+* **2 månader**: virus (e.g. kan vara vilket virus som helst, kan vara RSV som vanligsat, 1 månad - 5år, vanligast), pneumokocker, haemofilus influenza, chlamydia trachomatis 
+* **9 månader**: virus (fortfarande ett virus e.g. RSV), pneumokocker, haemofilus influenza, chlamydia trachomatis
+  * rsvirus
+  * metapneumovirus
 * **4 år**: oftast virus: ex RSV, pneumokocker , haemofilus influensa, chlamydia trachomatis
+  * ***man kan slänga in en bakterie till nämligen mykoplasma***, bra att börja tänka på den.
 
 
 
@@ -1834,16 +1984,22 @@ Anafylaxigrader
 
 
 
+* Hög andningsfrekvens är den kliniskt mest användbära kriteriet
+* // notera att andningsfrekvensen kan sjunka lite med antipyretika,
+  * om andningsfrekvensen sjunker med antipyretika talar det lite emot pneumoni eller att det är en mindre allvarlig pneumoni. 
+  * De flesta med pneumoni eller påverkade lungor att det fortfarande e lite hög AF efter antipyretika
 
 
 
 
 
-
-### Fall 11
+### Fall 11 - kan vara RS.virus med astmatisk komponent
 
 * ***Kevin snart 2åå***
-  * Kevin har varit förkyld med hosta och snuva i några dagar. Sedan imorse har han blivit alltmer andningspåverkad varför man nu söker akut. Modern beskriver hur det ”piper” när han andas. Man har sökt vårdcentral några gånger tidigare med liknande, men lindrigare, symptom. Han har fått flytande Bricanyl utskrivet, men det har inte hjälpt nämnvärt. Vidundersökning noterar du en glad snabbandad kille (AF 55) med rosiga varma kinder. Något forcerad och förlängd utandning. Intercostala indragningar. Lungorna auskulteras med ronkibåde på inspiriet och expiriet.Saturation 93%. Temp 38,9
+  * Kevin har varit förkyld med hosta och snuva i några dagar. Sedan imorse har han blivit alltmer andningspåverkad varför man nu söker akut. Modern beskriver hur det ”piper” när han andas. Man har sökt vårdcentral några gånger tidigare med liknande, men lindrigare, symptom. 
+  * Han har fått flytande Bricanyl utskrivet, men det har inte hjälpt nämnvärt. 
+  * Vidundersökning noterar du en glad snabbandad kille (AF 55) med rosiga varma kinder. 
+  * Något forcerad och förlängd utandning. Intercostala indragningar. Lungorna auskulteras med ronkibåde på inspiriet och expiriet.Saturation 93%. Temp 38,9
 
 
 
@@ -1853,14 +2009,23 @@ Anafylaxigrader
 * Andningsfrekvens
 * AT
 * vitala parametrar
+* ROnki inspiriet och expiriet, som tecken på ronki: alla får sammanfallna luftvägar vid utandning vilket, men att man får det vid inandning när luftrörern ska vara som störst, så bör det inte finnas ronki om inte det är allvarligt. 
 
 
 
 ***Hur vill du behandla Kevins obstruktiviteti det akuta skedet***
 
 * **Inhalation beta2-agonister**: Detta för barn över 6 månader, för att dilatera bronkerna. 
-* ***NaCl inhalation***: ofta inhalera koksalt för att lätta upp slemmet
+  * Ventoline, aka eller salbutamol
+  * Ventoline är bronkvidgande och astmamedicine
+  * adrenalin är slemhinneavsvällande, och man generellt ska tänka att barn 0-6 månader har framförallt har problem med slemhinnesvullnad.
+  * barn över 6 månadero ch garanterat över 1år har den astmatiska komponenten.
+* ***Börja med atrovent***
+  * det är ipratropium
+  * antikolinergika
 * ***Steroider:*** nästa steg för att jobba mot inflammationen
+  * ***kan ta det peroralt, betapred tabletter lösa upp i vatten och mata med en spruta***
+* ***NaCl inhalation***: ofta inhalera koksalt för att lätta upp slemmet
 * ***Uppvätskning***
 
 
@@ -1875,9 +2040,15 @@ Anafylaxigrader
     * som eksem eller födoämnesallergi 
     * så säger vi att barnet har astma 
     * oberoende på ålder  
-  * ***1a obstruktiva episoden i samband med förkylning > 2 åå*** 
+  * ***1a obstruktiva episoden i samband med förkylning > 3 åå (förra riktlinjen är 2 år)*** 
     * så säger vi att barnet har astma !
-    * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen
+    * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen av denna
+* **barn under 3år har så pass reaktiva luftvägar att de får obstruktiva besvär** 
+* om det inte finns hereditär komponent, aellergi o atopi, så är det sannolikt att barnet växer ifrån astman
+* ''Enstaka episoder av infektionsutlöst obstruktivitet hos barn under två års ålder är mycket vanligt och definieras som obstruktiv bronkit. För att tillståndet ska definieras som infektionsastma hos barn under 2 år ska de ha haft minst tre återkommande episoder. Undantag gäller för barn med samtidigt konstaterad IgE-allergi, atopiskt eksem eller astma hos föräldrar/syskon – då definieras det som infektionsastma redan vid deras första obstruktiva attack. Hos alla barn äldre än två år räcker det med en infektionsutlöst episod för att ställa diagnos infektionsastma.''
+  [11:39 AM] direkt ur vårdprogram fårn 2020
+* Läkare menar att barnet i detta fallet har en förkylningsastma. om han bara har problem är förkyuld är det bara beh när förkyld
+  * steroidero ch salbutamol enbart i förkylningsastma. 
 
 
 
@@ -1887,10 +2058,13 @@ Anafylaxigrader
 * ***Inhalationssteroider fr akuten också***: enl beh trappan haft flera infektionsutlösta proble. 
   * "periodisk behandling med inhalationssteroider i ca 10 dagar"
   * eller med leukotrienreceptorantagonist i ca 10 dagar
+* **Läkare menar att barnet i detta fallet har en förkylningsastma. om han bara har problem är förkyuld är det bara beh när förkyld**
+  * steroidero ch salbutamol enbart i förkylningsastma. 
 * ***Bra med vätska***: ska vätska upp sig väl
 * ***Remiss BUMM***: för evt kompletterande lkm
 * ***Optichamber med munstycke***: för att inhalera ventolinet
 * ***Fråga om tidigare episoderna när infektion och inte infektion***; om besvär mellan dessa episoderna, lägger man till inhalationsteroider. 
+* // Noter att personlighetsförändring kan ske i samband med medicineringen, så man ska vara uppmärjsam på det, försvinner om slutar mediciner
 
 
 
@@ -1910,17 +2084,26 @@ Anafylaxigrader
 
 
 
-### Fall 12 
+### Fall 12  - bebis bronkiolit RS virus
 
 * Amadeus 4v
-  * Amadeus kommer akut en sen januarikväll pga andningsbesväroch feber. Hade ett kort andningsuppehåll kort före ankomst. Han har ammat sämre senaste dygnet, enligt modern pga nästäppa. Kräkts några gånger i samband med hosta. Storebror 3 år går på dagis och är förkyldmed snuva och hosta. Moderns graviditet var ua, likaså gossens neonatalperiod. I status hittar du en trött, snorig, febriloch snabbandad gosse(AF 80). Kapillär refill 2 sek. Saturation 91%. Rejäl bukandning. Indragningar intercostalt och jugulärt. Utbredda slembiljud över båda lungfälten
+  * Amadeus kommer akut en sen januarikväll pga andningsbesväroch feber. 
+  * Hade ett kort andningsuppehåll kort före ankomst. 
+  * Han har ammat sämre senaste dygnet, enligt modern pga nästäppa. 
+  * Kräkts några gånger i samband med hosta. 
+  * Storebror 3 år går på dagis och är förkyld med snuva och hosta. 
+  * Moderns graviditet var ua, likaså gossens neonatalperiod. 
+  * I status hittar du en trött, snorig, febriloch snabbandad gosse(AF 80). 
+  * Kapillär refill 2 sek. Saturation 91%. Rejäl bukandning. 
+  * Indragningar intercostalt och jugulärt. 
+  * Utbredda slembiljud över båda lungfälten
 
 
 
 **Föräldrarna är mycket oroliga att det kanvara början av en RSV-infektion hos Amadeus.Vilka kliniska fynd talar för att de har rätt? Hur ställerdu diagnosen?**
 
-* ***KLiniska kännetecekn***
-  * epidemiologi + säsong
+* ***Kliniska kännetecekn***
+  * epidemiologi (bror som är förkyld och snorig hemma) + säsong
   * indragningar
   * takypne
   * saturation
@@ -1935,17 +2118,26 @@ Anafylaxigrader
 
 ***Behandling***
 
-* ***Rehydrering***
+* ***Airways:*** ***Suga en massa slem och nästoalett (koksalt koksalt suger suger)***
+
+* ***Breathing***: 
+
+  * **syrgas vb**: sat <90%
+  * en neopuff som de kan få 
+  * ***Inhalation NaCl***: för att så pass ***slemmig***
+  * ***inhalation adrenalin***
+
+* ***Rehydrering***: inte en bolus på en gång
 
 * ***Nästäppa***: skölj med NaCl
 
-* ***Inhalation NaCl***: för att så pass ***slemmig***
+* ***Högflödesgrimma:*** 
 
-* ***syrgas vb***: sat <90%
+  * ***optiflow***: högdosflöden bv
+  * att det är syrgas
+  * uppvärmt
 
-* ***optiflow***: högdosflöden bv
-
-* cpap vb
+* ***cpap vb***: om andas dåligt, retenerar koldioxid, men då är barnet IVA fall ligger ej på bava. 
 
 * ***Förebyggande, profylax***: med synagis, monoklonal AB för RSV t riskgrupper under högsäsong
 
@@ -1971,11 +2163,14 @@ Anafylaxigrader
 
 ***Amadeus andas något lugnare efter tre inhalationer, men du bedömmer att han behöver läggas in för fortsatt vård och övervakning. Vad får han för behandling på avdelningen? Kontroller?***
 
-* Fortsatt samma behandling 
-* Vätskeersättning 
-* Underhållsvätska 
-* CPAP vb 
-* Isolerat rum iom fkn virus 
+* ***Fortsatt samma behandling***: att man gör det regelbundet, att man suger, ger inhalationer regelbundet, syrgas vb 
+* **Underhållsvätska** 
+* **CPAP vb**: då är det IVA fall, så kmr ligga på den 
+* **Isolerat rum iom fkn virus** 
+* **Vätskeersättning** ***Rehydrering***: inte en bolus på en gång
+  * generellt behöver lite uppvätskning
+  * kan få en sån uppvätskning
+  * sen får man utvärdera underhållsbehovet. 
 
 
 
@@ -1985,7 +2180,8 @@ Anafylaxigrader
 * Smalare luftvägar,
 * Mindre aveoler, och färre
 * Mindre gasutbyte,
-* Kolaberar luftvägarna då de e mjukare, 
+* Kolaberar luftvägarna då de e mjukare: brosket har inte satt sig ännu
+* bröstkorgen är ganska mjuk att den kan kollabera enklare etc. 
 * Många orsakar till varför barn blir så mkt mer sjuka i vanliga förkylningar, 
 * De har mindre marginaler, 
 * De behöver vätska och energi
@@ -2019,12 +2215,16 @@ Anafylaxigrader
 **Vilken diagnos är mest sannolik?**
 
 * Pyelonefrit
+* // notera att gällande diabetes och sticka på barn, att barnen läcker glukos ganska så tidigt, över 10mM glukos att de läcker
+* kan vara en kontamination på stickan. 
+* // man ska inte nöja sig med 
 
 
 
 **Akuta prover**
 
-* **Urinsticka taget**
+* en **Urinsticka taget**
+  * eller en blåspunktion
 * **CRP taget**
 * **blodprover**
   * **blodstatus och grabbarna**
@@ -2035,6 +2235,7 @@ Anafylaxigrader
 * ***Urinodling***: tvättat mittstråle (blåspunktion under 1år, kalle påpekat att ännu yngre)
   * minst 10^4 CFU för kastat prov
   * för blåspunktion är vadsomhelst växt signifikant
+  * att man skickar första provet på odlig och den nya mittstråle provet. 
 * ***SENARE FÖRLOPP OCH UTREDNING***
   * **Ultraljud**: detta sker under inläggningsperioden. 
   * **MCUG**: om hydronefros gör man detta under inläggningen
@@ -2101,7 +2302,13 @@ Anafylaxigrader
 
 ***Behandling***
 
-<img src="./imgs/pedsem_Zp1aC8ySBA.png" alt="Zp1aC8ySBA" style="zoom:50%;" />
+* om peroral: ceftibuten peroralt, den har en förlängd halveringstid, så räcker med att ta en gång per dygn. 
+* om intravenöst: cefotaxim
+* man byter utefter urinodlingen också till ngt smalar. 
+
+
+
+<img src="./imgs/pedsem_Zp1aC8ySBA.png" alt="Zp1aC8ySBA" style="zoom: 80%;" />
 
 
 
@@ -2157,6 +2364,9 @@ Anafylaxigrader
     * anamnes på hård avföring eller smärta vid avföring
     * förekomst avföring i ampullen
     * stor avföring som täpper till toaletten
+  * ***De ska stå på medicinen dubbelt så länge som man haft problem med förstoppning:*** 1år blir 2 år med medicinen. 
+  * ***Förstoppningsbehandling ska man stå*** 
+  * **Man ska återintroducera gluten i kosten, barnet ska inte stå utan innan man har kontakt med vården för att man ska organisera det väl**
 
 
 
@@ -2164,15 +2374,21 @@ Anafylaxigrader
 
 * ***Längd, vikt, tillväxtkurva***
 * ***Blodprover***
-  * blodstatus: inkl Hb
+  * enl läk
+    * blodstatus: inkl Hb
+    * järn
+    * thyroideaprover
   * elstatus
   * leversstatus inkl albumin
   * CRP, 
   * SR
   * Krea
-  * ak-transglutaminaser
+  * ak-transglutaminaser: bör vara låga med tanke på glutenfri kost. 
   * calprotectin i faeces. 
-  * glukos?
+  * glukos?'
+* ***Man tar prover här för att det är ensidigt, och för att barnet är lite blekt***
+* så man sätter in klyx sen movicol. 
+* det är först när barnet svarar adekvat som man går vidare med prover och utredning djupare. 
 
 
 
@@ -2180,14 +2396,19 @@ Anafylaxigrader
 
 * Fysisk aktivitet, kost, regelbunden allsidig kost
 * ***Laxerande***: 
-  * laktulos oral lösning
-  * movicol
+  * laktulos oral lösning, brukar säga att denna är steg ett, och movicol steg 2
+    * barn under 6 månader, att man börjar med denn
+    * för ett 4åå barn så är det ganska mkt laktulos som det skulle gå åt. 
+  * börjar med movicol direkt för läk direkt om över 6 månader, iom så bra effekt
+  * movicol: generellt att man ska lägga en låg dos adekvat, sen förklara hur bajset ska se ut och hur ofta de ska bajsa, varpå föräldrarna kan sköta det. 
 
 
 
 ***Kostråd och livsstillsråd***
 
 * se ovan
+
+
 
 ## Det akut sjuka barnet
 
@@ -2205,7 +2426,10 @@ Anafylaxigrader
 
 ***Trolig orsak till hudblödningarna?***
 
-* ***ITP***
+* ***ITP***: idiopatisk trombocytopen purpuira
+  * 50% fallen idiopatisk
+  * 50% är immunmedierat: hemolys pga antikroppsförekomst. 
+  * // man kan testa för antikropparna, men det finns så pass mga antikroppar som man kan missa
 * Vf inte henoch
   * ingen hematuri
   * ingen artralgi
@@ -2219,6 +2443,9 @@ Anafylaxigrader
 
 * ***Komplett blodstatus*** 
   * ***TPK (endast TPK som blir lågt vid ITP):*** TPK i citratrör för att inte falskt förhöjt
+  * **blodstatus + B-diff**
+    * för att utesluta malignitet
+    * att det enbart är en hematopoes som är påverkad
   * ***Hb, LPK med diff.*** 
   * ***PK, APTT,***
   *  ***retikulocyter,*** 
@@ -2227,26 +2454,61 @@ Anafylaxigrader
   * **ASAT, ALAT.** 
   * **VitK?** 
   * **Urinstatus: sticka?**
+  * **Immature platelet fraction: det är som retikulocyter, fast för trombocyter. hur stor andel trombytantalet är ugna trombocyter**
+    * Förhöjd IPF att det är mkt som går bort tt benmärgen kompenserar
+  * **MTV: stora blodplättar är omogna trombocyter.** 
+    * denna hög innebär att det är benmärgen som kompenserar förbrukningen.  
+  * **immunoglobuliner**
+    * normalt med IgG, IgA, IgM, att man inte har en immunbristsjuka. 
+
+
+
+***Allvaret med ITP fall***
+
+* Det är baserat åp kliniken
+* såklart också hur lågt trombocyterna är 
 
 
 
 ***Vad finns det för risk med detta tillstånd***
 
-* TPK under 50 10^9 p L
-  * påtaglig risk för blödning
+* ***TPK under 50 10^9 p L***
+  * påtaglig risk för blödning: 
+    * man är rädd för hjärnblödningar
   * indikation för transfusion. 
 
 
 
 ***Differentialdiagnoser***: Nämn fyra orsakertill hudblödningar i barndomsåren
 
-* Henoch schönlein
+* ***IgA-vaskulit:***  (henoch schönlein)
+  * småkärlsvaskulit som är palpabla, att de har tydligt ställe åp benen och skinkorna
+  * kan få artralgi, att de haltar in litegran
+  * samt alldeles prickiga. 
+* **sepsis**
+* **meningit**
+* **trauma**
+* **misshandel**
 * HUS
 * DIC
 * TTP
 * LKM utlöst, läkemedelsutlöst
 * hemofili
 * vwf
+* // **Den andra vaskuliten man alltid ska ha i bakhuvet är Kawasakis sjuka**, 
+  * som man måste utesltua på alla barn
+  * ha kriterierna i huvet. 
+
+
+
+***Behandling***
+
+* 80% läker spontant 6-8veckor
+* är det väldigt lindriga symptom: bara några få petekier, etc, ingen beh
+* ***kortison behandling***
+* ***IV-IG***
+* ***om det är storslagna blödningar***: risk för livet ,etc, ger man trombocyter, men dessa förbrukas upp av kroppen ganska så snabbt.  
+* 
 
 
 
@@ -2261,14 +2523,14 @@ Anafylaxigrader
 
 ***Trolig diagnos***
 
-* Leukemi, ALL (akut lymfatisk leukemi)
+* Leukemi, ALL (akut lymfatisk leukemi, 85% har ALL hos barn)
 
 
 
 ***Hur fortsätta diagnostiken***
 
 * ***Bloddiff***
-* ***benmärgsprov med kromosomanalys***
+* ***benmärgsprov med kromosomanalys*** (inte på akuten)
   * kromosmavvikelser vanligt
   * philadelphia
   * With recurrent genetic abnormalities:
@@ -2285,12 +2547,17 @@ Anafylaxigrader
 * ***Bastest***
 * ***Lungrtg***
 * ***CRP och ev. procalcitonin vid feber***
+* **hjärteko**
+* **LP för att diffa CNS engagemang**
+* Cellysen
 
 
 
 ***Prognos***
 
-* ALL 85% överlever 5år
+* ALL 90% överlever 5år
+* // om det varit AML verkar var a80%
+* åldern har en prognostisk faktor
 
 
 
@@ -2300,6 +2567,8 @@ Anafylaxigrader
 * SpO2, andningsfrekvens, puls, blodtryck och kapillär återfyllnad.
 * Om patienten inte är stabil- ta barnet till akutrummet och tillkalla narkos  
 
+
+
 ***Sätt infart för provtagning:*** 
 
 * Blodstatus inkl diff 
@@ -2308,6 +2577,8 @@ Anafylaxigrader
 * Bastest
 * Lungrtg 
 * CRP och ev. procalcitonin vid feber
+
+
 
 ***Ordinera läkemedel:***
 
@@ -2320,25 +2591,35 @@ Anafylaxigrader
 
 
 
+***Huvudpoängen med denna frågan***
+
+* Har man mer än en avvikande hematopoes, ska man tänka till
+
+
+
 ### Fall 17
 
 * isak 6åå
-  * Isaksöker för huvudvärk sedan 3-4 dagar. Han är också trött, blek och äter dåligt. Tidigare frisk. Ingettrauma. Far uppger efter en stund att urinen sett mörk ut vid flera tillfällen senaste veckan. Ingen miktionssveda eller feber. Du tar ett blodtryck som är 155/100.
+  * Isak söker för huvudvärk sedan 3-4 dagar. Han är också trött, blek och äter dåligt. Tidigare frisk. Ingettrauma. Far uppger efter en stund att urinen sett mörk ut vid flera tillfällen senaste veckan. Ingen miktionssveda eller feber. Du tar ett blodtryck som är 155/100.
 
 
 
 ***Vilken svår sjukdom måste uteslutas?***
 
-* Glomerulonefrit, nefritiskt syndrom
+* **Glomerulonefrit, nefritiskt syndrom**
+  * // huvudvärken attribueras till blodtrycket
+  * **postinfektiös glomerulonefrit är den vanligaste**
+  * nefriterna har högt blodtyck, hematuri, kan ha svullnad men inte typiskt 
 
 
 
 ***Föreslå viktiga enkla akutprover för att stärka diagnosmisstanken***
 
 * Centrala
-  * Urinsticka
-  * Krea
-  * blodgas
+  * **Urinsticka: kan se proteinuri hematuri, kan ta alb/krea kvot, nefriterna läcker inte lika mkt som nefros**
+  * **Krea, cystatin-C**
+  * **blodgas**
+  * **ultraljud**
 * Blodstatus
 * Övriga
 * SR, CRP, blod-, elektrolytstatus, urea, albumin, elfores (komplementanalys, för postinfektiös glomerulonefrit)
@@ -2351,7 +2632,7 @@ Anafylaxigrader
 
 ***Vad kan hända om du missar diagnosen***
 
-* ***Akut jursvikt***
+* ***Akut njursvikt***
   * hyperkalemi, arrytmi
   * lungödem
 
@@ -2372,13 +2653,16 @@ Anafylaxigrader
 
 ***Hur förklarar du andningsproblemen?*** 
 
-* Metabol acidos med respiratorisk kompensation
+* ***Metabol acidos med respiratorisk kompensation***
+  * kan vara kussmaul andning
+  * att han försöker eliminera koldioxid så mkt som möjlig
+  * // Notera att kräkningarna kan vara kompenserande också, iom så sur...
 
 
 
 ***Vårdnivå? Vilken behandling ordinerar du?***
 
-* IVA fall
+* **IVA fall**: uppnår man kriterierna för diabetesketoacidos, hamnar man på IVA. 
 * **Hyperglykemi med ketoacidos**
   * NaCl 0.9% natriumklorid för att återställa perifert neddsatt cirkulation,
   * vid utebliven effekt av NaCl bör 5% albumin övervägas

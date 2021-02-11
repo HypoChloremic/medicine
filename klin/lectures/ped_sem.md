@@ -2664,9 +2664,13 @@ Anafylaxigrader
 
 * **IVA fall**: uppnår man kriterierna för diabetesketoacidos, hamnar man på IVA. 
 * **Hyperglykemi med ketoacidos**
+  * ***Man är alltid bekväm ge en DKA bolusvätska***
   * NaCl 0.9% natriumklorid för att återställa perifert neddsatt cirkulation,
   * vid utebliven effekt av NaCl bör 5% albumin övervägas
 * **Ringer-acetat**: föreläsning säger ringer, men boken säger NaCl? 
+* ***Uppvätskning: man ger en halv uppvätskning på 2 timmar, sedan ger man en långsam uppvätskning***
+  * man påbörjar uppvätskningen sedan ger man insulin
+* ***THUS: först uppvätskning, bolus, sedan blir det insulinet (notera att det är vi på akuten som ordinerar insulinet åp akuten)***
 * **Insulininfusion påbörjas tidigast 1timme senast 2 timmar efter vätskebeh igång**
   * vid svår hypokalemi avvakta insulinet tills inom acceptabla nivåer?
   * Infusion och inte bolus för att man ej vill ha cerebralt ödem och blodsockerfall
@@ -2678,6 +2682,8 @@ Anafylaxigrader
 * ***Acidoskorrektion:*** endast på vitalindik, i.e. livshotande hyperkalemi, eller pH under 6.9
   * förutsatt att det ej är indik, så upplöses acidosen mha insulininfusionen varpå kalium entrar cellen och väte följer med. 
   * annars för att korrigera acidos ger man tribonat. 
+* **// sänker man osmolaliteten för snabbt i ECV att man utvecklar hjärnödem**:
+  * **så sänker man oavsett metod om det är med vätska eller med insulin, att det blir får låg osmol i ECV varpå konsekvensen att det sker transport in i cellerna och de sväller.**
 
 
 
@@ -2692,11 +2698,25 @@ Anafylaxigrader
 
 
 
+***Tecken åp klassisk hjärtsvikt***
+
+* barn fr BB som inte orkar äta
+* andning, andfåddhet
+
+
+
 ***Tänkbara orsaker till svikt vid 2-3 månaders ålder?***
 
 * Övercirkulation till lungorna pga shuntfel. 
 * Öppetstående duktus (PDA), 
-* VSD
+* **VSD**: detta är den vanligste
+  * man hör inte den, även om den redan finns på BB. 
+  * in utero är det högra kretsloppet väldigt högt tryck
+  * när de föds, så har de inte exakt rätt tryck i höger o vänster halva
+  * VSD missar man för att trycken är så pass lika, att man inte hör ngt flöde över septumet
+  * när barnet blir lite äldre, så är vänstertrycket högre, då sker flödet septalt. 
+    * därför kan man inte säga att man missat på BB, för att man inte hör sådär tidigt. 
+* **ASD**
 * Klaffinsuff,
 * kardiomyopati,
 * Arytmi, 
@@ -2704,6 +2724,32 @@ Anafylaxigrader
 * [Notera att ASD vanligtvis inte ger symptom i barndomen]
 
 
+
+***Handläggning***
+
+* Denna fr BVC ska skickas in till barnakuten
+
+
+
+
+
+***Öppningarna som fostret har***
+
+* Ductus arteriosus
+* Ductus venosus: navelvenen
+* Foramen ovale: används väldigt flitigt, hos fostret. Det är en ficka som hålls öppen av trycket i högerhjärtat. 
+* Dessa tre sluts efter fosterstadiet
+
+
+
+***Fostercirkulationen***
+
+* syresättning är 65% till hjärnan, vilket är väldigt bra i hjärnan
+* Titta på 
+
+
+
+![x9ZCtCZh6B](./imgs/pedsem_all_x9ZCtCZh6B.png)
 
 
 
@@ -2717,7 +2763,7 @@ Anafylaxigrader
 
 
 
-
+<img src="./imgs/pedsem_all_qRTgEgkAAt.png" alt="qRTgEgkAAt" style="zoom:50%;" />
 
 ### Fall 20
 
@@ -2734,7 +2780,7 @@ Anafylaxigrader
   * Vid feber, över 38,5C 
   * symmetrisk, generell, tonisk, klonisk kramp  
   * Duration mindre än 10 minuter, 
-  * de flesta har en duration på en halv till några få minuter  
+  * De flesta har en duration på en halv till några få minuter  
   * Ofta snabbt pigga efter krampen, 
   * ingen postiktalitet  
   * Skillnad barn feberkramp fr barn epilepsi:  är feberkrampande barnet opåverkade redan efter transport in till sjukhuset pga ingen postiktalitet. 
@@ -2743,6 +2789,11 @@ Anafylaxigrader
   * Anfall hos barn som kommer på vid feber 
   * utan tecken till intrakraniell infektion eller annan specifik orsak till anfallet (ex. hypoglykemi, elektrolytrubbning). 
   * Febern orsakas oftast av virusinfektion men ibland bakteriella inf (ssk otiter, pneumonier).
+* ***Definition feberkramp***
+  * generaliserad kramp, Duration mindre än 15 minuter
+  * 0.5år-6år
+  * inga tecken fokalitet
+* Om man inte uppfyller kraven, räknas det ej som en feberkramp.
 
 
 
@@ -2750,6 +2801,14 @@ Anafylaxigrader
 
 * "The acute management of seizures is described in Chapter 6. Examination should focus on the cause of the fever, which is usually a viral illness, but a bacte- rial infection including meningitis should always be considered. The classical features of meningitis such as neck stiffness and photophobia may not be as apparent in children less than 18 months of age, so an infection screen (including blood cultures, urine culture, and lumbar puncture for cerebrospinal fluid) may be necessary. If the child is unconscious or has cardiovascular instability, lumbar puncture is contrain- dicated and antibiotics should be started immediately. Parents need reassurance and information. Advice sheets are usually given to parents. Antipyretics may be given but have not been shown to prevent febrile seizures. The family should be taught the first aid management of seizures. If there is a history of prolonged seizures (>5 min), rescue therapy with buccal midazolam can be supplied. Oral prophylactic antiepileptic drugs are not used as they do not reduce the recurrence rate of seizures, and have a relatively high risk of adverse effects. An EEG is not indicated as it does not predict seizure recurrence." (s504)
 * Slutsats man kan ej utesluta, men klinisk likelihood ration, sannolikhet, är låg för meningit om pat är fullt återställd efter krampen. 
+* Enl seminarie: ***Säg att patienten uppfyller kriterierna för feberkramp, bara***
+  * uppfyller man kriterierna och föräldrarna är trygga, så kan de gå hem
+  * om inte uppfyllerk riterierna är det intgen feberkramp, då måste man utreda
+    * så är det komplicerad feberkramp kanske, då behöver man vidareutreda.
+  * ***Feberkrmap antar att man mår hundra procent bra efter krampen: alltså kommer en meningit vara fortfarande dålig efter krampen, detta är inte falelt för feberkrampen, därför behöver man inte vidareutreda om man tydligt uppfyllt kriterirena för feberkramp.***
+* // för meningit och encefalit är kliniken ganska allvarlig, vilket i sin tur innebär att man noterar på kliniken om patienten mår bra eller dåligt
+  * i sin tur innebär detta att man ska beakta helheten
+  * i detta fallet om han uppfyller kriterierna för feberkramp, räcker det, behöver ingen LP. 
 
 
 
@@ -2796,14 +2855,17 @@ Anafylaxigrader
 ***två agens mest sannolika***
 
 * Pneumokock, meningokock
+* ! **om man inte följt vaccinationsprogrammet = är det också risk för haemofilus influenzae**
 
 
 
 ***Vidare handläggning, provtagning***
 
-* ***Insättning steroider***: dexamethasone, dexametason (barn över 3 månader kan man ge dos dexametason)
-* ***Insättning antibiotika***: Cefotaxim + ampicillin (täcka listeria), alternativt meronem
-* ***Insättning aciclovir bolus***: 10mg/kg x3 i 21 dagar
+* ***Insättning steroider***: **enl läk betapred för att minska hjärnsvulland**, dexamethasone, dexametason (barn över 3 månader kan man ge dos dexametason)
+* ***Insättning antibiotika***, : Cefotaxim  alternativt meronem. läk skulle osså bjudit på klaforan
+  * ampicillin inte fallet här, för att ampicillin som till för listeria, detta enbart för små barn. 
+  * det är upp till 3 månader man ger ampicillin
+* ***Insättning aciclovir bolus***, ska ge: 10mg/kg x3 i 21 dagar
 * ***Lumbar punktion***: poly/mono, laktat, glukos, alb-kvot, odling, PCR, (kristaller), protein
   * ***Bakteriell***: glukos sänkt, protein ökat, laktat ökat, poly ökat, klar eller grumlig
 * Prover
@@ -2830,10 +2892,26 @@ Anafylaxigrader
 * ***Vätska, chockbehandlingen*** en till bolus vätska om ingen effekt av första
   * om andra inte funka ge albumin 5%
 * ***Rehydrering***: Ringer-acetetat (fråga om VES vätskeersättning och skillnad mot ringer), 5% av kroppsvikt över 4 timmar, *om* det föreligger dehydrering av patienten
+* enl sem
+  * fortf på akutrummet
+  * kanske upprepa bolusdoserna och påbörja uppvätskning
+  * ge antibiotika första timmen, är det de syftar på här. 
 
 
 
+**för sepsis**, enl läk
 
+* upp t 3 måpnader: cefotaxim + ampicllin
+* över 3 måpnader: cefotaxim bara
+
+
+
+**meningit**, enl läk
+
+* krydda aciklovir oavsett ålder
+* betapred om över 3 månader
+  * man ger ffa för haemofilus
+  * försöker hindra hjärnödem mha steroiderna, 
 
 ### Fall 22
 
@@ -2846,6 +2924,10 @@ Anafylaxigrader
 
 * Hjärnstamspåverkan, hjärnpåverkan, neuromuskulär påverkan
 * Encefalit
+* ***enl läk***
+  * kan vara precis vadsomhelst
+  * ***detta är meningit, sepsis, allvarlig infektion som man måste utesluta***
+  * **man behandlar den som en sepsis eller meningit**
 
 
 
@@ -2853,7 +2935,27 @@ Anafylaxigrader
 
 * ABCDE
   * syrgas
+* Airways
+  * öppen, ungen andas
+  * gör inget
+* Breathing
+  * saturation 90%
+  * ger syrgas, får neopuffen (inställd, ger alltid 10liter, sen bestämmer man mängden syrgas i procent, vilket är 100% i hennes fall), man håller den på henne
+  * inte andningspåvekrad, inga inhalationer
+* Cirkulation
+  * höjf kap refill, sänkt temp
+  * sätter infart
+  * bolus ringer. 
+  * samband med infart tar prover och odlingar
+  * cefotaxim + ampicillin +- aciklovir
+  * kan ge flera bolusar
 * Tox-screening
+* urinodling: också, via blåspunktion
+* man ger antibiotika ganska snabbt. 
+* inläggning
+* // innan aciklovir tar man prover för öga, näsa o mun för herpes. 
+
+
 
 # ***Referenser***
 

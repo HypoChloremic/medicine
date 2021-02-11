@@ -38,7 +38,7 @@
 
 <img src="./imgs/klingen_V4flYDO5NG.png" alt="V4flYDO5NG" style="zoom: 67%;" />
 
-## Kromosomavvikelser
+## Kromosomavvikelse
 
 #### Kromosomanalys
 
@@ -3453,3 +3453,976 @@ om erbjuda t alla gravida
 
 
 <img src="./imgs/klingen_2_7NALkxNHDj.png" alt="7NALkxNHDj" style="zoom:50%;" />
+
+
+
+
+
+## Ärftlig aortasjukdom
+
+#### Nyckelord vid genetisk diagnostik
+
+* Ärftlighetsmönster
+* Gener involverade
+* diagnostisk möjlighet?
+* penetrans
+* expressivitet (geno-fenotyp korrelation)
+* de novo-mutation
+
+### Marfans syndrom
+
+***Nyckelorden***
+
+* **Ärftlighetsmönster**: autosomalt dominant
+* **Gener**: FBN1
+* **Diagnostisk möjlighet**: ja
+* **Penetrans**: 100%; 80% aorta och 60% linsluxation
+* **Expressivitet, geno-fenotyp korrelation**: varierar kan vara lurigt
+* **De novo mutation**: 25%
+
+***Etiologi och patofysiologi***
+
+* Vid marfans syndrom förekommer risker för kärlsjuka
+
+#### Aortadissektion
+
+* Typ A: Ascending
+* Typ B: Not ascending
+* **Hos marfan:** 
+  * 80% risk för att dessa utvecklar dissektion. 
+  * Gäller alla åldrar
+  * viktigt med ***betablockad i alla åldrar***
+
+
+
+![TWDCP9x6Ys](./imgs/klingen2_TWDCP9x6Ys.png)
+
+#### Ögonsjukdom
+
+* Marfans kan leda till ögonåkommor också
+* ***Linsluxation;*** 60%
+* ***myopi***
+* ***näthinneavlossning***
+
+
+
+#### Symptom Marfans syndrom
+
+* **Trötthet**
+* **Hjärtsvikt**: stora läckage i aortaklaffen och mitralisklaffen kan leda till försämrad kondition med andfåddhet och trötthet
+* **Emfysem** i vuxen ålder
+* **stukningar, värk**
+* **plattfothet**: svårt hitta skor
+* **platt rygg utan svank**: ryggont
+* **närsynthet, astigmatism**
+* **hög gom**: snarkningar, tandgnissling, instabil käkled
+* **bråck**
+* **trånga kanaler fr bihålor**: bihåleinflammation
+
+#### Kardiovaskulära
+
+* Aortaaneurysm
+* Aortadissektion
+* Mitralisklaffprolaps
+* Kardiomyopati
+
+
+
+#### Genetisk etiologi
+
+* ***FBN1***: mutationer i denna gen,
+* **mer än 1000 olika mutationer är kända**
+* **varje familj har sin unika situation**
+* **man hittar en mutation**, >95%
+* **stor gen**: 65 exon
+
+![gVUSGiDBZx](./imgs/klingen2_gVUSGiDBZx.png)
+
+
+
+
+
+#### Diagnostiska kriterier Marfans syndrom
+
+<img src="./imgs/klingen2_31dL71r1fO.png" alt="31dL71r1fO" style="zoom:67%;" />
+
+
+
+
+
+* ***Tidigare gamla gentkriterier***
+  * För diagnos Marfans syndrom krävdes att två huvudkriterier fr olika oråden är uppfyllda och att ett tredje område också är inblandat
+* Hjärt-kärl
+  * Huvudkriterier
+    * Dilatation av aorta ascendens inkl nedre delen av sinus valsalva
+    * dissektion av aorta ascendens
+  * Sidokriterier
+    * Mitralisklaffprolaps
+    * utvidgning av lungartären före 40år
+    * förkalkning av mitralklaffringen före 40år
+    * aneurysm/dissektion av aorta descendens före 50år
+* Skelett
+  * Huvudkriterier
+    * Fågelbröst
+    * trattbröst av uttalad grad
+    * kvoten 1.05
+    * handleds eller tumtecken
+    * skolios
+    * sträckförmågan i armbågen
+    * plattfot
+    * inskjuten höftledsskål
+  * Sidokriterier
+    * Trattbröst av måttlig gra
+    * överrörliga leder
+    * hög gom/trångställda tänder
+    * typiska ansiktsdrag
+* Ögon
+  * Huvudkriterier: linsdislokation
+  * Sidokriterier
+    * underutvecklad iris
+    * avplanad hornhinna
+    * ökad längd av ögat
+* Dura mater
+  * Huvudkriterier: Duraektasi
+* Lungor
+  * Sidokriterier
+    * Spontan pneumothorax
+    * emfysem i övre delen av lungorna
+* Hud och hinnor
+  * Sidokriterier
+    * Strimmor i huden som inte beror på kända orsaker
+    * återkommande bråck eller ärrbråck
+* Genetik
+  * Huvudkriterier: 
+    * 1a gradssläkting
+    * mutation i FBN1
+
+
+
+![tFjgg5Lz8c](./imgs/klingen2_tFjgg5Lz8c.png)
+
+
+
+
+
+#### Enklare diagnostiska kriterier Marfans
+
+* Aortadilatation / aortadissektion + linsluxation + FBN1-mutation = Marfans syundrom
+* 2/3 räcker!
+
+
+
+***En annan form diagnostisk kriterier***
+
+* aortadilatation / aortadissektion + linsluxation + FBN1-mutation 'familjehistoria = Marfans syndrom
+* 2/4 räcker
+
+#### Behandling
+
+* Viktigt med diagnostik för att det finns profylaktisk behandling
+* **betablockad**: Profylaktisk behandling
+* Kontroll av aorta
+
+
+
+### Oklara varianter
+
+* VUS: variants of unknowns significance
+* Tolkning
+  * Hur påverkar förändringen proteinet
+  * ur ser familjen ut
+  * finns den beskrivningen
+* Utredning
+  * testa sjukdom och friska förstagradssläktingar
+  * kan ffa utesluta med sällan bekräfta patogenicitet
+
+
+
+***5-gradig skala***
+
+1. Normalvariant, benign
+2. Troligtvis benign
+3. Ingen aning
+4. Trolig patogen
+5. Säker patogen
+
+### Aortadissektion
+
+***Riskfaktorer***
+
+* Hypertoni
+* Rökning
+* Aterioskleros
+* Aortaaneurysm
+* Bikuspid aorta: 1% av befolkningen, ifrågasatt
+* coarctio aortae, koarktio
+* tidigare fallolycka
+* inflammation: jättecellsartrit, syfilis
+* Genetisk sjukdom: 
+  * Marfans syndrom, 
+  * Loyez-dietz syndrom
+
+
+
+***Etiologi och patofysiologi***
+
+* Typ A: ascending
+* Typ B: non-ascending
+* Gener som kan vara involverade, för aneurysm, dissektion även andra lokaler än aortaroten
+  * MYH11
+  * ACTA2
+  * BGN
+  * COL3A1
+  * FBN1
+  * FOXE3
+  * LOX
+  * MAT2A
+  * MFAP5
+  * MYLK
+  * PRKG1
+  * SMAD3
+  * TGFBR1/2
+  * TGFB2/3
+
+
+
+<img src="./imgs/klingen2_NkYDi1h9NU.png" alt="NkYDi1h9NU" style="zoom:50%;" />
+
+
+
+<img src="./imgs/klingen2_RzNqtvhJxH.png" alt="RzNqtvhJxH" style="zoom:80%;" />
+
+
+
+
+
+### Uppåtstigande aorta
+
+* Dissektion: 20% genetisk orsak 
+* vanligare hos yngre
+* viktigt med familjehisoria
+
+
+
+***Etiologi och patofysiologi***
+
+* Aorta har olika embryologiska urspring, upp och ned.
+
+<img src="./imgs/klingen2_xQlUZSVrDf.png" alt="xQlUZSVrDf" style="zoom:80%;" />
+
+
+
+### Loeys-Dietz Syndrom
+
+* Beskrevs 2005
+* Autosomalt dominant
+* Transforming growth factori beta receptor  genes 1 och 2
+  * TGFBR1 25%
+  * TGFBR2 75%
+* 75% numytation
+* kan vara omöjlig att skilja fr Marfan
+
+
+
+***Risker och relateras med***
+
+* Stor risk kärlkatastrof, uterusruptur
+* cervikal spinal instabilitet
+* bröstkorgsdefekt
+* skolios
+* arachnodatyli
+* 75% LDS typ 1
+  * hypertelorism
+  * bifid uvula / gomspalt
+  * craniosynostos
+* 25% LDS typ 2
+  * sammetslik hud
+  * ökad blåmärkesbenägenhet
+  * breda ärr
+  * i vissa fall
+    * hjärtfel
+    * inlärningssvårigheter
+
+
+
+<img src="./imgs/klingen2_t5ThPL69YY.png" alt="t5ThPL69YY" style="zoom:67%;" />
+
+CTD genpanelv 55101 gener:
+
+* ABCC6, ACTA2, ACVR1, ADAMTS10, ADAMTS17, ADAMTS2, ADAMTSL4, ALDH18A1, ATP6V0A2, ATP6V1A, ATP6V1E1, ATP7A, B3GALT6, B4GALT7, BGN, C1R, C1S, CBS, CECR1, CHST14, COL11A1, COL11A2, COL12A1, COL18A1, COL1A1, COL1A2, COL2A1, COL3A1, COL4A1, COL4A2, COL5A1, COL5A2, COL5A3, COL6A1, COL6A2, COL6A3, COL9A1, COL9A2, COL9A3, COX7B, DSE, EFEMP2, ELN, FBLN5, FBN1, FBN2, FKBP14, FLCN, FLNA, FLNB, FOXE3, GATA5, GGCX, GLA, GORAB, GSTM1, GSTP1, GSTT1, GUCY1A3, JAG1, KCNH1, LOX, LTBP2, LTBP4, MAT2A, MED12, MFAP5, MGP, MMP2, MYH11, MYLK, NOTCH1, PKD1, PKD2, PLOD1, PLOD3, PRDM5, PRKG1, PYCR1, RIN2, RIN3, RNF213, SAMHD1, SKI, SLC2A10, SLC39A13, SMAD2, SMAD3, SMAD4, SMAD6, TAB2, TGFB1, TGFB2, TGFB3, TGFBR1, TGFBR2, TNXB, TPSAB1, TWIST2, VCAN, ZNF469
+
+
+
+<img src="./imgs/klingen2_wkkiR3A5cC.png" alt="wkkiR3A5cC" style="zoom:50%;" />
+
+## Ärftliga hjärtsjukdomar
+
+### Nationella riktlinjer för hjärtsjukvård
+
+<img src="./imgs/klingen2_gpzm3yw89n.png" alt="gpzm3yw89n" style="zoom:67%;" />
+
+### Diagnostisk strategi vid ärftlig hjärtsjd
+
+1. Misstänkt ärftlig hjärtsjd
+   1. Symptom
+   2. Familjescreening
+   3. incidentalom
+2. Prevalens och ärftlighet
+   1. debutålder
+   2. kön
+   3. familjeanamnes
+   4. rita ett släktträd
+3. Fynd
+   1. EKG
+   2. ekokardiografi
+   3. MR-hjärta
+4. Genetisk analys
+   1. obs! varningsflaggor
+
+
+
+#### Varningsflaggor
+
+* Hjärna: inlärningssvårigheter, ataxi
+  * Danons sjukdom 
+  * Noonans syndrom 
+  * Friedrich ataxi
+* Ögon och öron: Retinitis pigmentosa, dövhet
+  * mitokondriell sjd
+  * FAbrys sjd
+* Hjärta: Kongenitalt hjärtfel, WPW
+  * Noonans syndrom
+  * PRKAG2
+* Njurar: Njursvikt
+  * Fabrys sjd
+  * Noonans syndrom
+* Nedärvningsmönster: X-bunden
+  * Mitokondriell sjd
+  * Fabrys sjd
+  * Danons sjd
+
+
+
+### Nedärvningsmönster hjärtsjukdom
+
+* Autosomalt dominant
+
+
+
+#### Varianter
+
+<img src="./imgs/klingen2_QRqRGjNkhC.png" alt="QRqRGjNkhC" style="zoom:50%;" />
+
+
+
+#### Genetisk brus
+
+<img src="./imgs/klingen2_NM9ZkVAPQX.png" alt="NM9ZkVAPQX" style="zoom:50%;" />![9ymR3Vj8vK](./imgs/klingen2_9ymR3Vj8vK.png)
+
+<img src="./imgs/klingen2_NM9ZkVAPQX.png" alt="NM9ZkVAPQX" style="zoom:50%;" />![9ymR3Vj8vK](./imgs/klingen2_9ymR3Vj8vK.png)
+
+### Kardiomyopati
+
+* Kardiomyopatier är definierade som strukturella och funktionella abnormalitter av ventrikulär myokardiet som är oförklarade av "flow limiting coronary artery disease" eller abnormala loading conditions.
+
+#### Klassifikation av kardiomyopatier
+
+![CBciCBGKr1](./imgs/klingen2_CBciCBGKr1.png)
+
+
+
+#### Hypertrof kardiomyopati
+
+***Diagnos***
+
+* LVH
+  * $>=15mm$ (vuxna)
+  * $>= 2SD$ över medel (barn)
+
+***Histopatologiskt***
+
+* Desorganiserade myocyter: s.k. myocyte disarray
+* fibros
+* abnormala blodkärl
+
+***Symptom***
+
+* Dyspne
+* Bröstsmärtor
+* Yrsel, svimningar
+* Arrymier
+* Hjärtsvikt
+* plötslig död
+
+
+
+<img src="./imgs/klingen2_AAmsTAETjZ.png" alt="AAmsTAETjZ" style="zoom:67%;" />
+
+
+
+***Prevalens hypertrof kardiomyopati***
+
+<img src="./imgs/klingen2_Tuto8hsvrl.png" alt="Tuto8hsvrl" style="zoom:50%;" />
+
+
+
+
+
+***Klinisk utredning***
+
+* Anamnes, ärftlighet, symptom
+* Status, provtagningar
+* Vilo-EKG, EKO, arbets-EKG, långtids-EKG
+* Vid behov
+  * arbets-EKG
+  * koronarangiografi
+  * hjärtbiopsi (ej rutinmässig)
+  * 99mTc-DPD-scintigrafi (amyloidos?)
+  * MR-hjärta
+
+
+
+***Differentialdiagnoser***
+
+* Gener involverade: SOS1, PTPN11, GLA, LAMP2
+* Noonans syndrom
+  * kortvuxen
+  * inlärningssvåriheter
+  * försenad motorisk utv
+  * verrörlgihet
+  * böädningsbenäg
+  * utseendemässiga drag
+  * hjärtmanifest:
+    * ASD, pulmonalis stenos, HCM-liknade hypertrofi
+* Fabrys sjd
+  * Episoder av smärta i händer och fötter, nedsatt förmåga att svettas, angiokeratom, njursvikt. Hjärtmanifestationer:HCM-liknande hypertrofi, vanligast. Mitralisklaffprolapseoch insufficiens. Aortainsufficiens. Vissa patienter har enbart kardiellamanifestationer sk“cardiacFabrydisease
+* Leopard syndrom eller NSML
+  * NSML, Noonanssyndrom med multipla lentigines. Lentigines, hypertelorism, avvikande genitalier, kortvuxenhet pgaförsenad tillväxt, dövhet eller hörselnedsättning, avvikelser i skelettet och beteendestörningar. Hjärtmanifestationer:Mild pulmonalisstenos, HOCM-liknande hypertrofi, och PQ prolongering
+* Danons sjd
+  * Lysosomalglycogeninlagringssjukdom.  Orsakar myopatihos män, mental retardation. Hjärtmanifestationer:HCM-liknande kardiomyopati, DCM, arytmier
+
+
+
+***Genetisk testning för HCM***
+
+* Comprehensiveor targeted(MYBPC3, MYH7, TNNI3, TNNT2, TPM1) HCM genetictestingis recommended for anypatient in whoma cardiologisthas establisheda clinicaldiagnosisofHCM basedon examination ofthe patient’sclinicalhistory, familyhistory, and electrocardiographic/ echocardiographicphenotype. 
+* Mutation-specificgenetictestingis recommended for familymembersand appropriaterelatives followingthe identificationofthe HCM-causativemutation in an index case. 
+
+
+
+<img src="./imgs/klingen2_hiNLKSnF1g.png" alt="hiNLKSnF1g" style="zoom:50%;" />
+
+
+
+***Utfallsprediktorer vid genetisk analys***
+
+* Markörer
+  * Ålder vid DX under 45år
+  * MLVWT >= 20mm
+  * familj HX för HCM
+  * Familj HX för SCD
+  * revers-kurv HCM, reverse-curve HCM
+  * hx för hypertension: ger minuspoäng
+
+
+
+<img src="./imgs/klingen2_EZ1ArpE4ll.png" alt="EZ1ArpE4ll" style="zoom:67%;" />
+
+
+
+
+
+***Familjehistoria***
+
+* Alla patienter : 32%
+* Familjehistoria för HCM: 52%
+* familjehostoria för SCD: 33%
+* ingen eller okänd familjehistoria
+
+
+
+***GEnetisk analys***
+
+* 50% av fallen med familjär HCM förklaras idag av patogena varianter i gener som kodar för sarkomerproteiner
+  * bekräfta HCM diagnos
+  * risk stratifiering
+  * terapeutiska implöikationer
+
+
+
+***Behandling HCM***
+
+* Genotyp positiv, fenotyp negativ: longitudinell uppfölj, ingen beh
+* Inga symptom (med, utan obstruktion): ingen behandling
+* plötslig dödsrisk: implanterbar defibrillator
+* hjärtsvikt symptom
+  * Läkemedel
+  * läkemedelsrefraktoriskt, NYHA III eller NYHA IV, hjrätsviktssymptom
+    * outflow obstrutction (gradient över 50mm Hg) i vila eller efter arbetsprovokation
+      * myektomi (alternativt alkohol ablation)
+    * Ingen outflow-obstruction (gradient under 30mmHg) i vila eller efter arbetsprovokation och EF över 50%
+      * Läkemedel
+* Förmaksflimmer och stroke: 
+  * anti-antirrymi eller frekvenskontrollerande läkemedel
+  * waran
+  * kardioversion radiofrekvens ablation
+* End-stage phase (EF under 50%)
+  * läkemedel
+  * hjärttransplantation
+  * implanterbar defibrillator
+
+<img src="./imgs/klingen2_GbHHvzUtlj.png" alt="GbHHvzUtlj" style="zoom:67%;" />
+
+
+
+#### Obstruktiv HCM, HOCM
+
+<img src="./imgs/klingen2_j5dTJaZhcW.png" alt="j5dTJaZhcW" style="zoom:50%;" />
+
+
+
+#### Behandling HOCM och HCM
+
+<img src="./imgs/klingen2_Fq7wUdzpKA.png" alt="Fq7wUdzpKA" style="zoom:67%;" />
+
+
+
+#### Riskvärdering pltöslig död vid HCM
+
+<img src="./imgs/klingen2_1IlVfEizbr.png" alt="1IlVfEizbr" style="zoom: 50%;" />
+
+
+
+***Implantation av ICD***
+
+<img src="./imgs/klingen2_HMFf2kDjDt.png" alt="HMFf2kDjDt" style="zoom: 50%;" />
+
+
+
+#### Budskap vid HCM
+
+* Prevalens 1:200-500
+* autosomalt dominant nedärvningsmönster
+* orsakas av patogena varianter i sarkomergener
+* Genetisk utredning bör erbjudas alla patienter med HCM
+* Behandlingen är vanligen symptomstyrd
+* Prognosen är god i majoriteten av fallen
+
+
+
+
+
+### Lång-QT syndrom
+
+#### Jonkanalssjukdomar
+
+* LQTS
+* Brugada syndrom
+* LQT3 -> Torsades de pointes
+* CPVT
+* SQTS
+* Tidig repolarisation syndrom
+
+<img src="./imgs/klingen2_0rFeBfx9k4.png" alt="0rFeBfx9k4" style="zoom:50%;" />
+
+
+
+#### LQTS
+
+***Risker och fördelning***
+
+* Familjehistoria: 53%
+* Synkope: 27%
+* Plötslig död: 3%
+* Abnormal EKG: 17%
+
+
+
+***Etiologi och patofysiologi***
+
+* Prevalens och ärftlighet: 1:2000 autosomalt dominant
+* patient och familjeanamnes: debutålder, synkope, SCD
+* Fynd: förlängt QT intervall, avvikande T-vågsmorfologi
+* Gentestning: LQTS gener
+
+
+
+***Klinisk LQTS-utredning och genetisk testning för LQTS*** 
+
+* EKG
+* Stresstest
+* familjehistoria och familjeträdanalys
+* 2015 ESC guidelines för diagnos av LQTS
+* scwartz score
+* gentesning: 80% av fallem ned robust klinisk LQTS diagnos, förklaras av patogena varianter
+  * Komprehensiv antal olika gener som man tittar på
+  * e.g. KCNQ1, KCNH2, SCN5A
+  * lass I (is recommended) Comprehensive or LQT1-3 (KCNQ1, KCNH2, and SCN5A) targeted LQTS genetic testing is recommended for any patient in whom a cardiologist has established a strong clinical index of suspicion for LQTS based on examination of the patient’s clinical history, family history, and expressed electrocardiographic (resting 12-lead ECGs and/or provocative stress testing with exercise or catecholamine infusion) phenotype. Comprehensive or LQT1-3 (KCNQ1, KCNH2, and SCN5A) targeted LQTS genetic testing is recommended for any asymptomatic patient with QT prolongation in the absence of other clinical conditions that might prolong the QT interval (such as electrolyte abnormalities, hypertrophy, bundle branch block, etc., i.e., otherwise idiopathic) on serial 12-lead ECGs defined as QTc 480 ms(prepuberty) or 500 ms(adults). Mutation-specific genetic testing is recommended for family members and other appropriate relatives subsequently following the identification of the LQTS-causative mutation in an index case. Class IIb (may be considered)Comprehensive or LQT1-3 (KCNQ1, KCNH2, and SCN5A) targeted LQTS genetic testing may be considered for any asymptomatic patient with otherwise idiopathic QTc values 460 ms(prepuberty) or 480 ms(adults) on serial 12-lead ECGs. Ackerman et al HRS/EHRA Expert Consensus Statement on Genetic Testing 201
+  * LQT1:
+    * Simningsarbete
+    * arbete märkbart
+    * betablockerare hjälper?
+  * LQT2
+    * auditoriska trigger
+    * postpartum period
+    * betablockerare ++
+  * LQT3
+    * sömn och vila
+    * beta block inte så jätte
+    * maxiletine bättre
+
+
+
+<img src="./imgs/klingen2_H8wZIBQFyW.png" alt="H8wZIBQFyW" style="zoom: 50%;" />
+
+
+
+***Kontexten är viktig***
+
+* Borderline QT förlängning är inte lika med (!=) borderline LQTS
+
+<img src="./imgs/klingen2_g4hfESgull.png" alt="g4hfESgull" style="zoom: 33%;" />
+
+***Varierande penetrans***
+
+* LQT1-3 har varierande penetrans beroende på vilken mutation i respektive gen som är involverad
+
+
+
+***Risk för livshotande hjärthändelser***
+
+<img src="./imgs/klingen2_WXQEn2V0kX.png" alt="WXQEn2V0kX" style="zoom:50%;" />
+
+
+
+
+
+***LQTS-diagnos och behandling***
+
+<img src="./imgs/klingen2_r2Hppu3NRZ.png" alt="r2Hppu3NRZ" style="zoom:33%;" />
+
+
+
+***Budskap vid LQTS***
+
+* Prevalens 1:2000
+* autosomalt dominant nedärvningsmönster vanligast, men även autosomalt recessiv LQTS förekommer
+* orsakas av patogena varianter i gener som kodar för jonkanaler
+* genetisk utrending bör erbjudas alla patienter med LQTS
+* behandlingen består av betablockad och ICD hos en minoritet av fallen och inkluderar livsstilsråd
+* prognosen är god i majoriteten av fallen
+
+
+
+
+
+<img src="./imgs/klingen2_0AISWi6r8u.png" alt="0AISWi6r8u" style="zoom:50%;" />
+
+
+
+#### T-vågsmorfologi
+
+<img src="./imgs/klingen2_U5Z35VsQOF.png" alt="U5Z35VsQOF" style="zoom: 50%;" />
+
+
+
+## Ärftlig cancer
+
+### Allmänt
+
+* Medfödd = kongenital
+* förvärvad = somatisk
+
+### Olika nivåer
+
+Olika konsekvenser berepnde på vilka celler en utation uppstår
+
+* Spermie, äggcell (nästa generation som påverkas)
+  * tystmutation
+  * medfödd sjd
+  * tex ärftlig cancer, celldöd
+* Fetala celler: missfall, malformation
+  * Tyst mutation
+  * celldöd
+  * cancer
+* Somatiska celler
+  * Tyst mutation
+  * celldöd
+  * sporadisk cancer
+
+
+
+***Monogen o multifaktoriell***
+
+* Monogen
+
+  * Mutation i en gen ger hög risk för cancer
+  * sällsynt
+  * kan vara olika gener som ger ökad risk (genetisk heterogenitet)
+  * Penetrans / modifierande faktorer (miljö / genetiska)
+
+* Multifaktoriell
+
+  * Vanliga varianter där varje variant ger en liten ökad el minskar risk
+  * många olika gener påerkar
+  * komplex samverkan mellan genetiska miljöfaktorer
+
+  
+
+  ### Ärftlighet
+
+  
+
+  * ***Hur ärftlig är cancer***
+    * En gendefekt: cancer, familjär adenomatös polypos
+    * multipla gendefekter: cancer, BRCA1, BRCA2, annan ärftlig börstcancer
+    * multipla sporadiska gendefekter: cancer, sporadisk bröstcancer, virus-orsakad cancer
+    * en miljöfaktor: sjukdom o död, blixt
+    * Är from top to bottom sällsynta högriskanlag till vanliga lågriskanlag
+
+
+
+***Ärftlig cancer***
+
+* Medfödda genetiska förändringar som finns i alla celler: inkl vita blodkroppar
+* undantag: mosaiker
+
+<img src="./imgs/klingen2_EPpcEXZztd.png" alt="EPpcEXZztd" style="zoom:67%;" />
+
+
+
+
+
+### Cancer gener
+
+* Onkogener
+  * normal funktion att stimma cellprolif
+  * gain-of-function mtutationer -> unchecked proliferation
+* Tumor-suppressor genes
+  * normal funktion kontrollera cellproliferation och eller öka enhance apoptos (bromsfunktion)
+  * inaktiverande mutation -> okontrollerad proliferation
+  * Two inactive alleles are requried för loss-of-function (Knudson)
+* DNA-mismatch repair gener
+  * Repair base pair substitutions in DNA
+  * inaktiverande mutation -> ackummulation av fel i DNA sekvenser inkl mutationer i onkogener och tumor suppressor genes
+
+
+
+### Ärftlig cancer
+
+
+
+***Monogen***
+
+* En högriskgen som ärvs och kan medföra en hög risk för cancer för den som bär på anlaget
+* sällsynt i populationen
+
+
+
+***Monogen nedärvning***
+
+* Autosomalt dominant
+  * nedsatt penetrans
+  * varierande expressivitet
+  * nymutation vs nedärvd
+* Knudson 2-hit hypothesis
+  * At birth, 
+  * 30-50 years
+  * 50-70yrs
+* Släktgifte
+* syskon drabbade
+
+
+
+***Kännetecken ärftlig cancer***
+
+* Ung ålder
+* flera fall av samma eller associerade tumröer hos nära släktingar
+* en individ med över 2 primärtumöre
+* association med andra synmptom
+  * makrocefali
+  * pneumothorax
+  * cafe au lait fläckar
+  * ataxi
+  * smärtsamma hudknölar mm
+* Sällsynta tumörformer: som man vet kan vara ärfltiga
+* Tumregel
+  * 50-3
+  * 40-2
+  * 35-1
+  * (+10år)
+
+
+
+### Kolorektal cancer
+
+* Drabbar 5% under en livstid
+* = 8% av allacancer
+* medianålder = 72år
+
+
+
+
+
+***Familjär kolorektal cancer***
+
+* Obehandlad IBD: 15-40% livstidsrisk för kolorektal cancer
+* sproadiskt: 65-70%
+  * 4-5% livstidsrisk för kolorektal cancer
+* familjär, högrisk: 5%
+  * 60-100% llivstidsrisk för kolorektal cancer
+* familjör, lågrisk: 20-25%
+  * 10-20% livstidsrisk för kolorektal cancer
+
+
+
+***Hereditär kolorektalcancer***
+
+* Polypossyndrom
+  * FAP
+  * MAP
+  * NAP
+  * Juvenil polypos
+  * blandad polypos
+  * Peutz jegher
+  * Hyperplastisk polypos syndorm
+  * PPAP: poylmeras proofreading associerad polypos (POLE, POLD1)
+  * sågtandad polypos
+* Icke-polypos syndrom
+  * Lynch syndrom: HNPCC, hereditär icke-polypos kolorektal cancer
+  * POLE
+  * POLD1
+  * Hereditär CRC: HCRC
+  * Familjär CRC (colorectal cancer)
+
+***Fall 1***
+
+* 25åå man
+  * massor polyper i tarm inkl kolorektalcancer
+  * rita släkträd
+  * verifiera relevanta diagnoser
+  * koloncancer före 40år, hundratals polyper
+  * mag, ileum, thyroidea, bindvävscancer
+  * 
+
+
+
+#### Familjär adenomatös polypos
+
+* AD, inciens 1:8000
+* under 1% av alla kolorektal cancer
+* 100-1000 polyper (adenom)
+  * Tidig debut (~20år)
+  * 100% risk för kolorektal cancer vid 40åå
+
+
+
+***Associerade tumörer***
+
+* Duodenumcancer: 4-12%
+
+* thyroideacancer: 1-12%
+
+* demsoidtumörer: 10-30%
+
+* osteom: 20%
+
+  KOnenital hypertrofi av retinal pigment epitel (CHRPE), (75%)
+
+
+
+***APC generna***
+
+* Suppresses transcription of beta-cateni-regulated genes that can stimulate cell proliferation (cyclin D, c-myc, efriner)
+* Stabilises microtubuli which is important for cell-division and cell-migration
+* Tumor suppressor gene
+  * regulates cell adhesion, cell migration, apoptosis
+  * mutated in up to 80% of all ***sporadic*** kolorektal cancer
+
+<img src="./imgs/klingen2_8ZeO2i8raY.png" alt="8ZeO2i8raY" style="zoom:67%;" />
+
+
+
+***Genetisk utredning***
+
+* Blodprov fr individ med polyper, cancer
+  * DNA sekvensering av APC+ del/dup test
+  * alt genepanel för kolorektal cancer
+* om patogen variant påvisas, erbjud anlagstest t släktingar
+* anlangsbärare -> kontrollprogram
+  * koloskopi tills profylaktisk kolektomi
+  * gastroskopi: kontroll duodenum, 50-90% har polypos
+  * thyroideakontroll
+  * hud, käkkontroll
+  * prenatal diagnos / PGD
+
+
+
+#### Lynch syndrom
+
+* AD: autosomalt dominant
+* över 1% av alla kolorektal cancer
+* 40-80% risk kolorektal cancer
+* 40-80% risk livmodercancer
+* medel debutålder 44åå
+* ökad risk ovarial, magcancer, tunntarmcancer, urinvägscancer, njurcancer
+
+
+
+***Etiologi och patofysiologi***
+
+* MLH1, MSH2, MSH6, PMS2
+  * MLH1: 54¤ 
+  * msh2: 36%
+* DNA mismatch repair genes (MMR
+  * reparerar fel i DNA replikationen
+* Mikrosatellit instabilitet MSI
+  * leder t olika längd på repetititva sekvenser (mikrosatelliter) mellan olika celler
+  * beror på MMR defekt
+
+
+
+<img src="./imgs/klingen2_5p7AE7EG1R.png" alt="5p7AE7EG1R" style="zoom:50%;" />
+
+
+
+
+
+***Immunhistokemi***
+
+
+
+<img src="./imgs/klingen2_7b406i4gP5.png" alt="7b406i4gP5" style="zoom:67%;" />
+
+* MLH1 immunhistokemi i normal vävnad, och tumör
+
+
+
+
+
+***Genetisk utredning***
+
+* Hög misstanke om Lynch syndrome
+  * DNA sekvensering av MMR gener på DNA fr perifert blod
+* låg misstanke om Lynch syndrom, men vill utesluta det
+  * IHC på tumörvävnad
+
+<img src="./imgs/klingen2_phNWT6bDCZ.png" alt="phNWT6bDCZ" style="zoom:50%;" />
+
+
+
+
+
+***Associerade risker med Lynch syndrome***
+
+* EC: endometrial cancer?
+* Minst 2% av konsekutiva fall av EC har LS
+* 9% av alla kvinnor som får EC udner 50åå har LS
+* 7% av alla kvinnor med OVCA+ EC hade LS
+* hälften av alla anlagsbärande kvinnor med anlaf för lynch syndrom får EC innan kolorektalcancer
+
+
+
+
+
+![LAAaP4jNpI](./imgs/klingen2_LAAaP4jNpI.png)

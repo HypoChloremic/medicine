@@ -83,12 +83,21 @@ Vanligaste kromosomavvikelsen hos levande födda. 94% trisomi 21, 4% translokati
 
 
 ## Fallbeskrivning 1
-33-åriga Alba och hennes partner planerar att bilda familj. Albas 27-årige bror Pascal är döv och har sedan tidiga tonåren mikrohematuri, proteinuri och nedsatt njurfunktion. Albas och Pascals föräldrar är friska, men deras morbror blev njurtransplanterad i 40-årsåldern. Morbroderns dotter har hörapparat men är i övrigt frisk. Alba själv har inga besvär från njurarna men är orolig för att hennes blivande barn ska få samma sjukdom som Pascal och kommer därför till klinisk genetik för genetisk vägledning.
+**33-åriga Alba och hennes partner planerar att bilda familj. Albas 27-årige bror Pascal är döv och har sedan tidiga tonåren mikrohematuri, proteinuri och nedsatt njurfunktion. Albas och Pascals föräldrar är friska, men deras morbror blev njurtransplanterad i 40-årsåldern. Morbroderns dotter har hörapparat men är i övrigt frisk. Alba själv har inga besvär från njurarna men är orolig för att hennes blivande barn ska få samma sjukdom som Pascal och kommer därför till klinisk genetik för genetisk vägledning.**
+
 #### Föreslå tre differentialdiagnoser. Vilken är mest sannolik?
 Alports syndrom (x-bunden dominant (För det mesta)) → troligast :Både män och kvinnor kan ha den X-kromosombundna formen av syndromet, men det är bara män som utvecklar svåra symtom.
-Alports syndrom (autosomal recessiv (15% av fallen))  
+Alports syndrom (autosomal recessiv (15% av fallen))
 Polycystisk njursjukdom. (autosomal dominant) (mindre troligt) 
 Autosomal recessiv polycystisk njursjukdom
+
+
+
+* Iom att det går till män är det X-bundet. 
+* Kan vara autosomalt recessivt att det hoppar över generationer
+* Tänker på njurarna i första hand, men det är en autosomalt dominant sjukdom, så lär inte vara
+* alports syndrom lite mer sannolikt för att passande X-bundet nedärvningsmönster. 
+* X-inaktivering, att den maternella eller paternella inaktiveras hos barnet, varpå det är en av de som blir påverkat. 
 
 #### Utifrån den information du har tillgänglig, vilket nedärvningsmönster är mest troligt?
 Svårt att säga, kan ha två förklaringar: 
@@ -101,29 +110,86 @@ o  Alba
 X-bunden dominant sjukdom → risken är ½ att alba bär på det sjuka anlaget.
 o   Albas blivande barn
 Risken att Alba är anlagsbärare är ½ , och att hon får ett sjukt barn är ½ → Den totala risken ¼   (om x-bunden dominant sjukdom) 
+
 Insidensen av Alports → 1/50’000 → p = 1/224, anlagsbärare frekvensen: 4/1000. 
+
 #### Vilken genetisk utredning, och på vem, är ett rimligt första steg?
 Ett alternativ är att analysera Pascals (indexpatient) gener för att identifiera mutation. Passar bäst med sekvensering för att hitta mutation. Antingen genpanel eller helgenom. När vi identifierat gen kan vi analysera föräldrar/alba/fosterdiagnostik.
 Med ultraljud, KUB, NIPT, fostervattensprov och moderkaksprov kan du få veta om fostret har vissa avvikelser eller sjukdomar. (senare skede) 
 NIPT (Från moderkaka och fostervatten) → kan erbjudas vecka 10, men görs annars vecka 12 eller 13. 
 
-Genetisk testning på Pascal påvisar en sjukdomsorsakande mutation i genen COL4A5.
+
+
+***Möjligt att autosomalt dominant***
+
+Det finns begrepp ***variabel expressivitet*** att det uttrycks olika beroende på person, förklarar att symptomen varierar i familjen.
+
+***Vilka tester***
+
+Man ska börja med en patient som är sjuk, vilket är Pascal. Då gör man en WGS (helgenom) varpå tittar på en genpanel. Om man inte hittar generna kan man bredda sökningen, då man har hela genomet i databasen. 
+
+Om man testar Alba och inte hittar i henne, är det möjligt att vi hittat inte generna:
+
+MAn använder NGS därigenom gör en WGS.
+
+### Genetisk testning på Pascal påvisar en sjukdomsorsakande mutation i genen COL4A5.
+
 #### Vad innebär svaret för Pascal?                          
 COL4A5 mutation är associerad med Alports syndrom som är en X-bunden dominant. 
 Alport syndrome is inherited in an X-linked pattern and caused by COL4A5 gene mutations, although other inheritance patterns do exist. It can be inherited as an autosomal recessive or dominant pattern by mutations in COL4A3 or COL4A4 gene.
 https://www.ncbi.nlm.nih.gov/books/NBK470419/
 
+
+
+* Den X-kromosombundna formen av Alports syndrom 
+  * orsakas av en förändring (mutation) i genen *COL4A5* på den långa armen av X-kromosomen (Xq22).
+  *  Genen är en mall för tillverkningen av (kodar för) ett protein kallat kollagen 4. 
+  * Mutationen leder till förändringar i kollagenets uppbyggnad. 
+* Kronisk njursvikt i framtiden troligen. 
+* Kliniskt ger hörselnedsättning och kronisk njursvikt. 
+  * kanske att det leder till en njurtransplantation i framtiden
+* Alport ger: öron, ögon, njursymptom. 
+
 #### Vad är sannolikheten att Pascals framtida barn får sjukdomen?
-Om Pascal får döttrar kommer alla bära på det sjuka anlaget, och troligen bli sjuka i framtiden, om han får söner är risken 0 (Övergripligt). Kan förklaras så här: 
+
+* Om Pascal får döttrar kommer alla bära på det sjuka anlaget, och troligen bli sjuka i framtiden,
+* om han får söner är risken 0 (Övergripligt). 
+* Kan förklaras så här: 
+  * X-bunden dominant
+  * Pascal ger X kromosom till döttrar och Y kromosom till söner
+  * alla döttrar blir därför bärare. 
+
 #### Hur kan vi förklara att kvinnor kan få symptom?
-Eftersom att sjukdomen är X-bunden dominant.  Men eftersom att att kvinnan är XX, kommer den friska allelen kompensera för den sjuka, och därmed inte ge så allvarliga symtom. 
+Eftersom att sjukdomen är X-bunden dominant.  
+
+* Men eftersom att att kvinnan är XX, kommer den friska allelen kompensera för den sjuka, 
+* och därmed inte ge så allvarliga symtom. 
+
 #### Resonera kring olika handläggningsalternativ inför Albas planerade familjebildning
-* Avstå från barn i framtiden
-* Ingen testning 
-* Prenataldiagnostik (moderkaksprov) under graviditet 
-* Pre-implantatoriskt genetisk diagnostik (PGD) 
-* Äggdonation 
-* Adoption
+* ***Vi kan erbjuda Alba testning också.*** 
+  * när vi gjrode analys på Pascal var det bred analys, och hittade mutation, och då vet vi att detta är familjens variant. 
+  * Då är det 50% sannolikhet at Alba ärvt fr mamman
+  * då kan man testa Alba
+  * om hon ite ärvt är det fine. 
+  * Metoden: beror på vilken mutation om det är Sanger eller gene-array...
+* ***Flera tillvägagångssätt***
+  * Avstå från barn i framtiden
+  * Ingen testning 
+  * Prenataldiagnostik (moderkaksprov) under graviditet 
+  * Pre-implantatoriskt genetisk diagnostik (PGD) 
+  * Äggdonation 
+  * Adoption
+  * ***Gällande metoden som man kan använda***: 
+    * Notera att NIPT inte används för att den är för kromosomavvikelser
+    * invasivt istället är om man letar efter ngt i släkten, 
+* Om alba bär
+  * kan chansa
+  * erbjuda PGD: att man väljer ut embryot som itne bär på genen och implanterar det. 
+    * vilka sjukdomar får man göra PGD: det måste vara allvarlig genetisk sjukdom. 
+    * för att kunna göra en PGD måste man ha genetisk sjd i familjen, ha en genetisk mutation, och förälder är bärare av mutationen. 
+* Man skulle kunna genomföra fosterdiagnostik. Prenatal genom moderkaksprov (helst då det går att utföra tidigare i graviditeten än amniocentes. Ger även mer DNA än amniocentes som främst ger celler). 
+* Man kan göra preimplantatorisk diagnostik om de genomgår IVF. 
+* Man kan avstå från barn, inte testa alls, donerade ägg, adoption osv. 
 
 
 Referens:  M Nordenskjöld, Genetiska sjukdomar; Kapitel 3, Sjukdomar i släkten och kapitel 14, Ärftliga njursjukdomar
@@ -132,14 +198,23 @@ Referens:  M Nordenskjöld, Genetiska sjukdomar; Kapitel 3, Sjukdomar i släkten
 
 
 
+![Xbb0VG4YeT](./imgs/klingen_sem_Xbb0VG4YeT.png)
+
+
+
 ## Fallbeskrivning 2
+
+![oPafm5ikvl](./imgs/klingen_sem_oPafm5ikvl.png)
+
+
+
 Astrid är en 55-årig kvinna som vårdas på onkologavdelningen på grund av återfall från höggradig serös ovarialcancer. Som del av utredningen har man gjort en genetisk analys av BRCA1 och BRCA2 generna på tumörmaterialet. Analysen visar en mutation i BRCA1 genen. Vid diskussion på multidisciplinär konferens beslutas det att patienten skall remitteras till klinisk genetik.
 
 #### Vilka frågor vill du ställa till patienten?
-Vad har personen för bakgrund, förkunskaper? Vad har personen för socialt stöd? 
-Hur ser familjehistorien ut? heridete?
-Medicinsk anamnes /status (ökad risk bröstcancer, har patient genomfört mammografi/annan undersökning av bröst nyligen?)
-Riskuppfattning Livssyn, etisk kompass. 
+* Vad har personen för bakgrund, förkunskaper? Vad har personen för socialt stöd? 
+* Hur ser familjehistorien ut? heridete?
+* Medicinsk anamnes /status (ökad risk bröstcancer, har patient genomfört mammografi/annan undersökning av bröst nyligen?)
+* Riskuppfattning Livssyn, etisk kompass. 
 
 #### Vilken information är viktig att ta med på remissen till Klinisk Genetik?
 Heriditet, resultat av tidigare genanalyser, comorbiditet, eventuella barn.
@@ -150,8 +225,12 @@ sjukdomstillstånd/allmäntillstånd/förväntad livslängd
 Som del av utredningen har man gjort en genetisk analys av BRCA1 och BRCA2 generna på tumörmaterialet. Analysen visar en mutation i BRCA1 genen. 
 Familjehistorik/släktträd cancer, särskilt bröst och ovarial.
 
-
 När remissen kommer till Klinisk Genetik ringer en genetisk vägledare upp patienten och upprättar ett släktträd. Patienten drabbades av äggstockscancer vid 49 åå, återfall vid 55åå. Patientens mor är 82-årig och vä frisk, en moster diagnosticerades med bröstcancer vid 66 års ålder och dog vid 70 års ålder. Patientens far dog vid 67 års ålder i hjärtinfarkt, faster fick bröstcancer vid 49 års ålder och dog vid 52 års ålder. Patienten har två döttrar som är 25 och 27 år gamla. Uppgifterna om mor* och farföräldrarna är osäkra.
+
+
+
+*
+
 #### Rita släktträdet
 
 #### Vad talar för och emot ärftlig cancer i denna familj?
@@ -195,12 +274,19 @@ Referenser:
 
 
 
+* 41, 51, 63
+
+
+
 ## Fallbeskrivning 3
 Samina är 25 år gammal och gravid i vecka 11. Hon har nyligen fått resultatet på sitt NIPT-prov och analysen visade en ökad sannolikhet för trisomi 21 (T21).
 Detta är hennes andra graviditet och i den första påvisade ett KUB-test och den efterföljande NIPT-analysen också en ökad sannolikhet för T21 men graviditeten slutade i en spontan abort i vecka 13 innan några uppföljande analyser utförts.
 
 #### Vad är en NIPT-analys?
-None-invasive prenatal testing, upptäcker aneuploidi avseende kromosom 13, 18 och 21. Kan utföras från graviditetsvecka 9-10. Blodprov från den gravida kvinnan, i kvinnans blod förekommer smådelar av fostrets DNA.
+* None-invasive prenatal testing, 
+* upptäcker aneuploidi avseende kromosom 13, 18 och 21, X och Y (fler kromosom är på väg)
+* Kan utföras från graviditetsvecka 9-10. 
+* Blodprov från den gravida kvinnan, i kvinnans blod förekommer smådelar av fostrets DNA.
 
 #### Vilken information bör Samina få efter sitt testresultat?
 Alla med positivt NIPT -resultat bör verifieras med invasiv provtagning då det finns risk att det är ett falskt positivt resultat. Fostervattensprov eller moderkaksprov. 
@@ -213,32 +299,40 @@ https://www.sahlgrenska.se/for-dig-som-ar/vardgivare/laboratoriemedicin/analysli
 
 
 
+![bS37frcG7h](./imgs/klingen_sem_bS37frcG7h.png)
+
+
+
 ## Fallbeskrivning 4
 På din mottagning som vårdcentralsläkare träffar du Arda. Arda är 33 år gammal och berättar att han och hans fru önskar att skaffa barn. Arda är dock orolig, då hans äldre syster har en sjukdom som heter PKU (fenylketonuri) och lider av en svår funktionsnedsättning. Arda vet att sjukdomen kan vara ärftlig och söker ditt råd.
 Du ber Arda berätta mer om sin familj och ritar ett släktträd. Arda berättar att han och hans fru, Yasemin, ursprungligen är från Turkiet men att hans släkt bott i Sverige i många år. Han berättar vidare att han också har två yngre bröder som inte har några hälsoproblem. Hans föräldrar är båda i livet och friska, men Arda berättar att föräldrarna är kusiner. Angående Yasemins släkt är han inte medveten om att av hennes släktingar skulle ha någon sjukdom eller att det förekommit något släktgifte. Arda berättar också att han och Yasemin inte är släkt på något sätt.
 
 Frågor: 
-* Varför har Arda kommit till din mottagning? Vad är det han hoppas få svar på?
+* **Varför har Arda kommit till din mottagning? Vad är det han hoppas få svar på?**
 Vill veta ifall planerad avkomma löper risken att få PKU. 
-* Vad är Ardas risk att vara bärare av ett sjukdomsanlag?
-Ja Ardas risk att bära på sjukdomen är 2/3 eftersom att hans föräldrarna är släkt och har ett sjukt barn. (PKU är en autosomal recessiv sjukdom) 
+* **Vad är Ardas risk att vara bärare av ett sjukdomsanlag?**
+Ja Ardas risk att bära på sjukdomen är 2/3 eftersom att hans föräldrarna är släkt och har ett sjukt barn. 
+* (PKU är en autosomal recessiv sjukdom) 
 PKU = autosomalt recessiv ⅔ risk
-* Vad är Arda och Yasemins risk att få ett barn med sjukdomen PKU?
-(Incidensen i Turkiet för PKU är 1/4900 och är där med bland de högsta i världen, anlagsbärarfrekvens 1/3*   * 1/35 * ¼ = ca. 1/200
+* **Vad är Arda och Yasemins risk att få ett barn med sjukdomen PKU?**
+(Incidensen i Turkiet för PKU är 1/4900 och är där med bland de högsta i världen, anlagsbärarfrekvens 1/3 * 1/35 * ¼ = ca. 1/200
+* ***Hur skulle du påbörja en genetisk utredning i denna familj?***
+* Ska sekvensera indexpatienten, som är sjuk, för att få reda på mutationen. 
+* Sekvensering. Antingen för enskild gen eller genpanel. 
+* The PAH gene is located on chromosome 12 in the bands 12q22-q24.2.[19] As of 2000, around 400 disease-causing mutations had been found in the PAH gene. This is an example of allelic genetic heterogeneity.[5]
 
-* Hur skulle du påbörja en genetisk utredning i denna familj?
-Sekvensering. Antingen för enskild gen eller genpanel. 
-The PAH gene is located on chromosome 12 in the bands 12q22-q24.2.[19] As of 2000, around 400 disease-causing mutations had been found in the PAH gene. This is an example of allelic genetic heterogeneity.[5]
+**Det visar sig också att en fullständig utredning av Ardas äldre syster, Lisa, redan är utförd. Lisa visade sig vara homozygot för en patogen variant i genen PAH. Anlagsbärartest på Arda visar att Arda är heterozygot bärare av den patogena varianten i PAH som identifierades hos hans syster. När du kontaktar Arda för att berätta om resultatet så berättar han att de precis fått reda på att hans fru Yasemin blivit gravid. Han är nu mycket orolig och undrar hur man kan gå vidare?**
 
-Det visar sig också att en fullständig utredning av Ardas äldre syster, Lisa, redan är utförd. Lisa visade sig vara homozygot för en patogen variant i genen PAH. Anlagsbärartest på Arda visar att Arda är heterozygot bärare av den patogena varianten i PAH som identifierades hos hans syster. När du kontaktar Arda för att berätta om resultatet så berättar han att de precis fått reda på att hans fru Yasemin blivit gravid. Han är nu mycket orolig och undrar hur man kan gå vidare?
-* Hur stor är nu risken för Ardas och Yasemins barn att drabbas av PKU?
+* **Hur stor är nu risken för Ardas och Yasemins barn att drabbas av PKU?**
 1/35 * ¼ = 7/1000 eller ca. 1/143
-* Vilka möjligheter finns för att driva den genetiska utredningen vidare?
-Man man analysera Yasmines arvsanlag.
-Fosterdiagnostik.
+* **Vilka möjligheter finns för att driva den genetiska utredningen vidare?**
+  Man man analysera Yasmines arvsanlag.
+  Fosterdiagnostik.
+  * man behöver inte göra fosterdiagnostik om mamman inte är bärare föra tt det är en autosomalt recessiv sjuka.
 * Om Arda och Yasemin önskar att fortsätta graviditeten utan några tester, vad kan sjukvården då erbjuda när deras barn föds? Eventuell behandling mot sjukdomen? 
-Screening vid födsel: 
-PKU is commonly included in the newborn screening panel of many countries, with varied detection techniques. Most babies in developed countries are screened for PKU soon after birth.[30] Screening for PKU is done with bacterial inhibition assay (Guthrie test), immunoassays using fluorometric or photometric detection, or amino acid measurement using tandem mass spectrometry (MS/MS). Measurements done using MS/MS determine the concentration of Phe and the ratio of Phe to tyrosine, the ratio will be elevated in PKU.[31]
+* Screening vid födsel: 
+* PKU is commonly included in the newborn screening panel of many countries, with varied detection techniques. Most babies in developed countries are screened for PKU soon after birth.[30] Screening for PKU is done with bacterial inhibition assay (Guthrie test), immunoassays using fluorometric or photometric detection, or amino acid measurement using tandem mass spectrometry (MS/MS). Measurements done using MS/MS determine the concentration of Phe and the ratio of Phe to tyrosine, the ratio will be elevated in PKU.[31]
+* behand
 
 #### Behandling:
 Behandlingen vid fenylketonuri innebär en noggrann diet med en individuellt anpassad och proteinreducerad kost. Hur mycket eller lite protein kosten kan innehålla varierar och beror på om enzymet fenylalaninhydroxylas kan bryta ned fenylalanin i någon grad eller inte alls. Utformningen av dieten skiljer sig därför mellan personer med sjukdomen. Vissa kan äta en nästan normal mängd protein medan andra bara kan äta ytterst små mängder. Syftet med dieten är att minska intaget av fenylalanin, men små mängder av denna aminosyra behövs för att barnen ska växa och utvecklas normalt. En dietist kan räkna ut hur mycket protein och vilken sorts protein barnet bör äta för att få i sig en lämplig mängd fenylalanin. Det kan vara protein från rotsaker, grönsaker, frukt och särskilda lågproteinprodukter i exakt den mängd som behövs utan att det uppstår skadliga nivåer av fenylalanin i blodet.
@@ -282,6 +376,16 @@ Referens:  M Nordenskjöld, Genetiska sjukdomar; Kapitel 6 Syndromdiagnosti
 
 
 
+
+
+![fr9JmS3tlZ](./imgs/klingen_sem_fr9JmS3tlZ.png)
+
+
+
+![qLZJEEpVIH](./imgs/klingen_sem_qLZJEEpVIH.png)
+
+
+
 ## Bonusfall
 31-årig kvinna kommer till mottagningen och är gravid i vecka 8. Hon funderar över risken att barnet ska ha samma sjukdom som hennes farbror. Du gör en noggrann familjehistoria och dokumentera det i ett pedigree. Patienten är äldst av fyra syskon, inget av de andra ha något barn. Patientens mor har fyra syskon, två bröder och två systrar, som alla har barn.  På faderns sida finns det fanns det tre syskon, en syster som har fyra barn och bror som har två barn, och den aktuella farbrodern som dog i en lunginflammation vid 27 års ålder. Han lärde sig aldrig gå, kunde inte äta själv och kunde varken läsa eller skriva, han levde USA och obducerades aldrig.
 Du efterfrågar specifikt om det finns något släktgifte och det gör det inte. Kvinnan är inte heller släkt med den blivande pappan.
@@ -296,6 +400,10 @@ Troligen: autosomal recessiv, nymutation kromosomavvikelse.
 Utifrån pedigree har vi bedömt nedärvningen som ej sannolik. Ev autosomal recessiv. 
 
 
+
+
+
+![Ai5hv6b8XH](./imgs/klingen_sem_Ai5hv6b8XH.png)
 
 
 

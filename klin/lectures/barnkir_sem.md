@@ -898,6 +898,567 @@ Vissa får pulmonell hypertension och hjärtsvikt. Är mer känsliga för infekt
 
 
 
+## Barnortopediska fall 
+
+
+
+<img src="./imgs/barnkir_sem_ynIoEA97bv.png" alt="ynIoEA97bv" style="zoom:50%;" />
+
+
+
+* mindre mineraliserat
+* mer elastiskt
+* tillväxtzoner och seninfätningnar
+  * svaga punkter
+    * inte senor ligament som hos vuxna
+
+
+
+barnfrakturer
+
+* Fyseoly
+* infraktion: torusfraktrurer, buckele
+  * sätter gips på som man kan ta av ehmma efter 2 veckor
+  * blir alltid bra
+* metafysär
+* green-stick
+* komplett fiafysär
+* avulsion
+
+
+
+<img src="./imgs/barnkir_sem_MG2DzHbVFW.png" alt="MG2DzHbVFW" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/barnkir_sem_ebjaMCyVRH.png" alt="ebjaMCyVRH" style="zoom:50%;" />
+
+
+
+<img src="./imgs/barnkir_sem_aqMiuVwHyo.png" alt="aqMiuVwHyo" style="zoom:50%;" />
+
+* Fyseolysfrakturer har att göra med tillväxtzoner:
+  * om den skadar tillväxtzonen, kanske den gör att barnet inte kan växa normalt
+* Typ1: att det kan slutas helt och benet blir kort
+* den tredje: intraartikulär fraktur, om man int egör ngt åt d blir en benbrygga, o slutet mitt i, och det kan tilta, varpå den kan bli som en näbb artikulärt när den går ned
+  * om stort avstånd mellan intraartkulära fraktur planet att högre risk för artros
+  * att metagfysen osså kan dras upp
+* Typ 4: att man har en steg i leden, blir en benbrygga, blir defintivt en slutning och att det mblir en annan form,
+  * om knä kan bli extrem valgus i knäet
+* får man typ 3 eller typ 4 att man msåte reponera perkutant eller öppet för att hindra fysslytnngen
+
+
+
+
+
+<img src="./imgs/barnkir_sem_mpp9fEyAOg.png" alt="mpp9fEyAOg" style="zoom:50%;" />
+
+* Genesen: barnet har haft fraktur ena armen, varpå läkt och det har fuserats, varpå ulna växer förbi. 
+  * Kan presentera med ulnar impingement syndrome
+    * svårt att göra armhävningar
+  * samt at de säker för att det blir en enorm ulnar knöl, uppenbart för barnet. 
+  * barnet har ulna plus.
+  * Lösningen: vill att ulna slutar växa, gör en borr-fysodes, och den armen blir lite kortare
+    * det blir ingen handikapp av att armen är kortare
+  * om fysodesen inte fungerade gör man en step-cut
+* kan också frakturera benet, och förlänga benet med extern fixering. 
+
+
+
+
+
+<img src="./imgs/barnkir_sem_qdq3MriLWY.png" alt="qdq3MriLWY" style="zoom:50%;" />Riktlinjer
+
+
+
+* eminentiafraktur, avulsion, via främrekorsbandet av valgus vridvåld. 
+* reponering: man sträcker ut knäleden helt rak, varpå flisen sätter sig på plats, och den kan läka sig och vara bra, 
+* Fixering: man kan fixera den med skruvar. 
+  * artroskopiskt i första hand
+  * trycker ned den med socker-spik
+  * eller kan göra den öppet med skruv, 
+  * vill absolut inte gå förbi tillväxtzonen, utan fixerar i epifysen. 
+
+
+
+<img src="./imgs/barnkir_sem_I6UrEZH0qp.png" alt="I6UrEZH0qp" style="zoom:50%;" />
+
+
+
+* att man ramlar åp utsträckt arm. 
+
+
+
+<img src="./imgs/barnkir_sem_LOyoSClzoc.png" alt="LOyoSClzoc" style="zoom:50%;" />
+
+
+
+* distalstatus: medialis, ulnaris, radialis, kollar pulsen
+  * trots att fingrarna är rosa, pga kollateraler, så är kärlent riktigt skadat
+
+
+
+<img src="./imgs/barnkir_sem_bUE1R8wPRL.png" alt="bUE1R8wPRL" style="zoom:50%;" />
+
+
+
+* Man tar tag i kondylen mellan pekfinger och drar distalt, så att man böjer i armbågen, och puttar fram distala fragmentet. 
+* sen stiftar man perkutant, seer till att ulnara stiftet läggs framför och epikodylen. 
+
+
+
+<img src="./imgs/barnkir_sem_L1FAmjxKxR.png" alt="L1FAmjxKxR" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/barnkir_sem_RdHxScNXr4.png" alt="RdHxScNXr4" style="zoom:50%;" />
+
+
+
+* ***Spiralfraktur***: 
+  * epifysen är inte förbenad. 
+  * Det är en förlossningsskada
+  * denna fraktur kan man få vid kejsarsnitt och förlossning
+  * i bilden är det några veckor emellan
+  * ingenting har gjorts, med reponering, och stödjande bandage.
+  * Förlossningsskada på humerus, 2 veckor mellan bilderna, stödjande bandage men ej gips/annan åtgärd (!). 
+  * Alla barn över 9 år med knäskada genomgår MR, ej barn under 9 år.
+  * Vridvåld i knät hos barn → tänk på patellaluxation! Meniskskador ovanliga hos barn. 
+  * Coxitis simplex: vanligt upp till 5 åå, efter det avtar incidensen. 
+  * Mb Perthes: hos 3-8 åring vanlig orsak till höftsmärta. 
+  * BArlow är BAkåtluxation, Ortolanis test reponerar luxationen. 2-4/1000 barn har kongenital höftinstabilitet. 5 ggr vanligare hos flickor, även vid tvillinggraviditeter (trångt i uterus).
+  * A är i led, E är ur led. Behandlas med speciella byxor/von Rosen-skena i 6 veckor. Alla med instabila höfter görs UL på! 
+
+
+
+#### Fall 1
+
+***1 Pojke 2 år: Vägrar att använda höger arm efter mindre trauma. Röntgenbilder visar en färsk fraktur i diafysära humerus och en läkt fraktur i proximala humerus. Fortsatt utredning? Diagnos?*** 
+
+
+
+**Frågor:** 
+
+- Frisk/sjukdomar i botten? Mediciner? 
+- Hereditet? Andra i familjen/släkten som haft liknande problematik?
+- Beskriv traumat. 
+- Uppstod smärtan direkt efter traumat? Har det utvecklats?
+- Normal tillväxt eller kortväxt? Felställningar? Skolios? Huvudomfång (ofta för stort jämfört med längden)
+- Symtom från ledband/leder (överrörliga), ögonvitor (blå sclerae), tänder (mjuka) - hur är hörseln (kan vara nedsatt + tinnitus vid osteogenesis imperfecta). 
+- Smärta från skelettet?
+- Normal graviditet och partus? (Vid grav-UL kan benbrott, missbildningar ses, frakturer vid födseln?)
+
+
+
+**Diffar:** 
+
+* Oteogenesis imperfecta 
+  * (medfödd benskörhet, 
+  * bristande/avvikande kollagen typ 1 
+  * fel i kalkinlagringen av skelettet). 
+* Ev värre trauma än vad föräldrarna berättar? 
+* *Frakturer av olika datum då ska man tänka på misshandel.* 
+
+
+
+**Undersökning:** 
+
+* ***INLÄGGNING när man ska se ett barn som detta:***
+  * rutin om man är mindre än 3år, lägger man ***alltid in om fler benbrott som har olika ålder***
+  * måste alltid anmäla till socialtjänsten, gör det oavsett om det är osteogenesis imperfecta eller ngt annat
+  * man ska berätta detta för familjen att man ska göra detta. 
+  * man ska berätta att anmälningen är en rutin
+  * Vår uppgift är att ta hand om barnet, det är polisens uppgift att utreda brottet. 
+* Sedvanligt status + längd, vikt, huvudomfång. Skelettet, ryggen och tänderna undersöks. 
+* Blodprover för att analysera kalkomsättning (PTH, alb, Ca-jon...)**.**
+* OBS extra viktigt att lyssna på hjärtat då Osteogenesis Imperfecta kan ge hjärtklaffsinsufficiens. 
+* OBS koagulationsstatus viktigt att ta, vissa kan blöda lättare (påverkan på kärlväggar → påverkan på trombocyter). 
+
+
+
+**Vidare diagnostik:** 
+
+* Röntgenundersökning av skelettet. 
+* Ev DEXA-bentäthetsmätning. 
+* Remiss till klinisk genetik. 
+
+
+
+**Behandling:** 
+
+* smärtlindring, 
+* bisfosfonater po/iv, 
+* fysisk aktivitet. 
+* Genetisk vägledning till familjen. 
+* Fysioterapi vb. 
+* Kontakt med OI-team. 
+* VB ortopedkirurgisk behandling, 
+* ortopedtekniska hjälpmedel. 
+* Vb hörselnedsättningsundersökning via ÖNH-läkare. 
+
+https://www.socialstyrelsen.se/stod-i-arbetet/sallsynta-halsotillstand/osteogenesis-imperfecta/ 
+
+*  Vad tror vi om en möjlig barnmisshandel då?? 
+* Vi får ställa några frågor om olyckshändelsen nu och den tidigare frakturen barnet fått. 
+* Kolla ögonbotten. Paketprov för misshandel. 
+* Efter en vecka kan man kolla om det kommit nya kallus. 
+
+
+
+#### Fall 2
+
+***2 Flicka 11 år: Smärta och svullet höger knä efter vridvåld i samband med fotboll. Röntgen av knät är normal. Fortsatt utredning? Diagnos?*** 
+
+
+
+**Frågor:** 
+
+- Beskriv traumat. Tidigare trauma mot knät? Tidigare smärta från knät?
+- Patellalux/felställning efter traumat?
+- Kan belasta på benet? 
+
+
+
+**Diffar:** 
+
+- Korsbandsskada
+- Schlatters sjukdom
+- Kondromalaci
+- Bakercysta 
+- Sinding-Larsens sjukdom (höjdhopparknä)
+- Osteokondrit
+- Patellaluxation
+- kollateralligamentsskada
+- patellaluxation kan ske osså, hoppa ur led etc, sen blir ömma medialkanterna patella, den poppar tillbaka. 
+
+
+
+**Undersökning:** 
+
+* ***sedvanligt knästatus.*** 
+  * inspektion
+  * palpation
+  * rörelse
+  * stabilitetstest
+    * i friska testet
+  * sidovackling. 
+  * testa patella luxad: apprehensionstest, palpera medialt
+
+
+
+***Riktlinjer***: 
+
+* barn fr 9åå med akut knäskada följt hemartros 
+
+
+
+**Vidare diagnostik:** 
+
+* **MR Inom 2 veckor.**
+
+
+
+**Behandling:** 
+
+* beror på vad UNdersökningsfynd och MR visar. 
+* Om korsbandsskada konservativ behandling och sjukgymnastik. 
+* Om fortsatt dålig, korsbandsrekonstruktion. 
+* Om meniskruptur: Partiell resektion artoskopsikt 
+
+ 
+
+#### Fall 3
+
+***Flicka 5 år: Hälta sedan en dag utan föregående trauma. Klagar över smärta i höger knä. Smärta i höger höft vid höftundersökning. Röntgen av höfter normal. Ultraljud av höger höft visar ökad mängd ledvätska. Temp 37.5 och CRP 8. Fortsatt utredning? Diagnos?*** 
+
+
+
+**Frågor:** 
+
+- Symtomatologi och duration. Liknande besvär tidigare?
+- Andra sjukdomar, mediciner
+- Feber? Allmänpåverkan t ex trötthet, aptitlöshet? Lokala infektionstecken (rodnad, värmeökning, smärta), feber och allmänpåverkan? (talar för septisk artit)
+- Haft ÖLI? (Simplex coxit har okänd orsak, ev autoimmunt efter genomgången ÖLI)
+- generellt förstorade lymfkörtlar och feber över 2 veckor och/eller minst ett av följande - hudutslag på bålen, fler engagerade leder, lever eller mjältförstoring, serosit eller perikardit? (talar för JIA)
+
+
+
+**Diffar:** 
+
+* *Simplex-coxit.* 
+* JIA.
+*  Septisk artrit. 
+* 
+
+
+
+**Undersökning:** 
+
+- Gångmönster; hälta, ovilja att belasta benet?
+
+- Inspektion: svullnad, rodnad, värmeökning? Blåmärken eller purpura i huden?
+   
+- Undersök fotled, knäled, höftled i nämnd ordning. Uteslut även symtom från ryggen.
+
+- Simplexcoxit: Vid undersökning av den drabbade höften noteras ofta ömhet över leden i ljumsken. Vanligen finns också rörelseinskränkning, fr a vid inåtrotation, extension och abduktion. Barnet håller gärna benet lätt flekterat och utåtroterat då den ställningen framkallar minst smärta.
+- Man kan även fråga om tidigare ÖLI då detta kan uppkomma postinfektiöst. 
+- Det man ska säga: 
+  - att det lär vara simplexcoxit att det är benignt
+
+
+
+**Vidare diagnostik:** Blodstatus (ffa LPK), elstatus, CRP, SR. Radiologi behövs inte nödvändigtvis. Vid tveksamhet, t ex om septisk artrit inte kan uteslutas, görs ultraljud och/eller ledpunktion via (barn-)ortoped.
+
+
+
+**Behandling**: Vila och avlastning så länge barnet inte själv vill gå. Sängläge kan vara aktuellt. Uppföljning efter 1-2 veckor för att kontrollera att höftrörligheten är normal. Bra prognos, alla tillfrisknar men upprepning är vanligt.
+
+*Remiss till barnläkare/barnortoped:*
+
+- Vid osäkerhet på diagnos eller vid utebliven förbättring efter 1 v.
+- Vid misstanke om osteomyelit, septisk artrit, Perthes, fysiolys av caput femoris, juvenil idiopatisk artrit, bentumörer, leukemi eller annan allvarlig differentialdiagnos.
+- Konsultera gärna barnläkare på telefon, för att avgöra hur skyndsamt barnet skall remitteras.
+
+https://www.internetmedicin.se/behandlingsoversikter/allmanmedicin/coxitis-simplex/ 
+
+Ont i höften → smärtan strålar till knät. (både vuxna och barn). 
+
+
+
+
+
+<img src="./imgs/barnkir_sem_v2ERPyI40E.png" alt="v2ERPyI40E" style="zoom:50%;" />
+
+
+
+
+
+#### Fall 4
+
+Pojke 8 år: Hälta och smärta i höger knä sedan sex månader utan föregående trauma. Röntgen av knät och höft var normal för fyra månader sedan. Smärta vid rotation i höger höft. Fortsatt utredning? Diagnos?
+
+**Fortsatt utredning:** *Rtg kan vara normalt, röntga höften åter om 3-4 mån. Rtg kan vara normalt trots Perthes! Ej höftfyseolys pga åldern.* 
+
+**Diagnos:** *Mb Perthes.* *
+*Avaskulär aseptisk nekros i caput femoris pga försämrad blodcirkulation till caput. Ingen cirkulation → urkalkninging → kollaps när brosket trycks ned → läkningsprocess med blodförsörjning → byggs kalk, remodellering. Kan vara bilateralt (10-15%). 1/1000 barn. 80% pojkar. Samsjuklighet med ADHD. 
+Smärta i ljumsken, ökar under dagen (aktiva gör ont), inskränkt rörlighet pga smärta. 
+**Behandling:** Yngre barn: har bättre prognos. Anpassa aktivitet, smärtlindring, habilitering .Kan få en speciell ortos för att avlasta benet men har visats få dålig effekt av detta- stelhet i höften. → Bättre att anpassa aktivitet, ta det lugnt, habilitering för att behålla rörelsen i höften. 
+Över 8 år: variserande proximal femurosteotomi. 
+
+
+
+<img src="./imgs/barnkir_sem_ZJDXZnSIwk.png" alt="ZJDXZnSIwk" style="zoom:50%;" />
+
+
+
+<img src="./imgs/barnkir_sem_Oi9eblneV3.png" alt="Oi9eblneV3" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/barnkir_sem_spBEnboibX.png" alt="spBEnboibX" style="zoom:50%;" />
+
+
+
+
+
+* Väldigt vanligt att det gör ont i knäet, att man röntgar den sen inte hittar ngt, 
+
+<img src="./imgs/barnkir_sem_v8pr6Uc3CV.png" alt="v8pr6Uc3CV" style="zoom:50%;" />
+
+
+
+
+
+
+
+
+
+#### Fall 5
+
+Pojke 11 år: Hälta och smärta i höger knä sedan fyra månader utan föregående trauma. Röntgen av knät var normal för två månader sedan. Idag akut smärta i låret efter mindre trauma. Smärta vid rotation i höger höft. Fortsatt utredning? Diagnos?
+
+**Fortsatt utredning:** 
+
+* *Rtg höft. Kan ha haft en liten glidning → gjort något som gjort en större glidning. Trauma kan förvärra en liten glidning! Akut trauma på en kronisk skada.* 
+
+
+
+**Diagnos:** 
+
+* *Höftfyseolys.*: detta är den diagnos man ska fråga efter, det är typisk anamnes. 
+  * klassisk anamnes
+  * acute on chronic, en kronisk som man har ont hela tiden, sen fastnar man med foten coh man får dislokation varpå vaput går i nekros.
+
+
+
+***Differentialdiagnoser***
+
+* Perthes
+
+
+
+Över 10 år drabbas. Ofta kraftiga långa barn. Ont i knä och lårben, hälta. Minskad inåtrotation. Finns akut, kronisk och akut över kronisk variant. Påverkar hur operationen blir skruv, reponering, sträckbord osv. Om missar caputnekros.
+
+Om misstänker fyseolys och ser ej på rtg kan göra MR, man kan se ödem ovan och nedom fysen - inte stabilt- åtgärdar med skruv. 
+
+När man opererar en sida informera kan bli problem med andra sidan. Sök hjälp då. 
+
+Man brukar inte skruva den friska sidan, men vissa orter gör så. Kan bli avaskulonekros av skruvandet. Istället kör man: Om får symtom på friska sidan sök hjälp! 
+
+
+
+<img src="./imgs/barnkir_sem_TWvUW1FD9R.png" alt="TWvUW1FD9R" style="zoom:50%;" />
+
+
+
+* Att man ska byta protes vart tionde år
+* DET SKA EJ SKE DOCTORS DELAY med fyseolyser: för att det har så pass allvarliga konsekvenser. 
+
+
+
+<img src="./imgs/barnkir_sem_vhvPJGt3Xb.png" alt="vhvPJGt3Xb" style="zoom:50%;" />
+
+* Denna har sllutat med katastrof
+* ***BUDSKAPET: om ett barn klagar knäet, TÄNK HÖFT och TÄNK HÖFTFYSEOLYS***
+
+
+
+<img src="./imgs/barnkir_sem_HWlNTUBw2O.png" alt="HWlNTUBw2O" style="zoom:50%;" />
+
+* Man är rädd att caput tappar cirkulation, ett kärlen blir tillklämda, varpå skiten går i nekros. 
+* MAN ska inte repopnera om det gått för långt tid
+
+
+
+<img src="./imgs/barnkir_sem_VmYiWhbFCq.png" alt="VmYiWhbFCq" style="zoom:50%;" />
+
+
+
+
+
+
+
+#### Fall 6
+
+Flicka 3 år: Vill ej belasta. Stark smärta vid försök till rotation i höger höft. Röntgen av höft normal. Ultraljud visar utgjutning i höftleden. Temp 38,5 och CRP 90. Fortsatt utredning? Diagnos? 
+
+**Diagnos:** 
+
+* *Septisk artrit* med genombrott i leden, frö att det rinner ut var...
+* */osteomyelit.* 
+
+
+
+**Fortsatt utredning:** 
+
+* *Rundodla, ab, MR ...
+* Blododling, UL, CRP, temp, 
+* Ledpunktion!! man gör detta i narkos, ultraljudslett kan man göra
+  * odlar
+  * glukos: jömför med blodet, antagligen att det ska vara sänkt, pga bakteriellt infiltrat, där det 
+* ab. Se om det finns infektion. Spola.
+* Sätta dränage.
+* Om det kommer ut var, ska man öppna upp och spola ur. 
+* Septisk höftledsartrit: vill inte att någon rör i höften. Undersök försiktigt. Undersök friska sidan först. Se hur barnet reagerar- vill se uttryck av hur det är.
+* UL, MR, punktion.
+* MR för att se om det finns osteomyelit som kan behöva dräneras. 
+
+
+
+***Behandling***
+
+Behandling är antibiotika brukar vara 3-4 dagar. Tills temp är nästan normal och CRP mindre än 30-40 byte po ab 3-4 veckor. Åb efter en vecka till sjukhuset för att se om det fungerar bra med po ab. 
+
+
+
+<img src="./imgs/barnkir_sem_0wFWtyXcy8.png" alt="0wFWtyXcy8" style="zoom:50%;" />
+
+* tror bilden visar osteomyelit...
+
+
+
+
+
+<img src="./imgs/barnkir_sem_aVJ2b5MQJk.png" alt="aVJ2b5MQJk" style="zoom:50%;" />
+
+* Barnet ligger med utåtroterat ben för att det ökar utrymmet i höften
+* om man roterar in benet kommer det bli ökat tryck och ökad smärta. 
+* man kan ta PCR om det inte växerp på dränet. 
+
+
+
+#### Fall 7
+
+Pojke 4 år: Hälta och lokal smärta distala tibia sedan två dagar utan föregående trauma. Röntgen av underben normal. Ingen rodnad, svullnad eller värmeökning i underbenet. Temp 39,0° och CRP 70. Fortsatt utredning? Diagnos? 
+
+
+
+**Fortsatt utredning:** 
+
+* *rtg,*
+* *UL (för att upptäcka abscesser, är periostet upplyft);*: detta kan man använda om rtg inte funakr, se om det är upplyft periost. 
+* *MR vb.*
+* *Rundodling:* blododling, ...
+* antibiotika: bredspektrum, samma som för septisk artrit. 
+* *Brukar ha svulland, värmeökning.* 
+* // nämns scint
+
+
+
+**Diagnos:** 
+
+* *osteomyelit.*: som inte syns på röntgen ännu.
+
+ 
+
+Osteomyelit: 
+
+Spädbarn: sepsis symtom och pseudoparalys.Ofta multifokal osteomyelit. 
+
+Äldre barn: Feber, lokal smärta, hälta. 
+
+
+
+
+
+<img src="./imgs/barnkir_sem_w2JF4FcYIW.png" alt="w2JF4FcYIW" style="zoom:50%;" />
+
+<img src="./imgs/barnkir_sem_N0yuVmJKBe.png" alt="N0yuVmJKBe" style="zoom:50%;" />
+
+
+
+<img src="./imgs/barnkir_sem_rO287h6WGk.png" alt="rO287h6WGk" style="zoom:50%;" />
+
+
+
+
+
+#### Fall 8
+
+Nyfödd pojke: Vid födseln konstateras att vänster fot är inåtvriden, att hälen är uppdragen och att hälsenan är kort. Diagnos? Fortsatt behandling? 
+
+
+
+#### Fall 9
+
+Flicka 3 månader: Normal förlossning. Normal höftundersökning av barnläkare på BB. Vid kontroll på BVC konstateras en minskad abduktion i ena höften. Fortsatt utredning? Diagnos? 
+
+
+
+#### Fall 10
+
+I övrigt friskt barn som är remitterad av skolläkaren till barnortopeden pga benlängdsskillnad på 2 cm. Fortsatt utredning? Orsak till benlängdsskillnaden?  
+
+
+
+
+
 ## Barnurologiska fall: 
 
 1. Erik 5 år kommer till akuten eftersom föräldrarna noterat att han går lite bredbent och att han är svullen i pungen. Man ser även en viss rodnad. 
@@ -908,18 +1469,3 @@ Vissa får pulmonell hypertension och hjärtsvikt. Är mer känsliga för infekt
 6. Sex månader gamla Elin kommer med sina föräldrar till akuten en sen kväll pga hög feber och allmänpåverkan. Hon ömmar i buken till vänster. 
 7. Sandra 5 år kommer med remiss till barnkirurgiska mottagningen pga vaginala flytningar. 
 8. Per, 13 månader, kommer till akuten med sina föräldrar för att de noterat att hans mage blivit så framträdande och svullen. 
-
-
-
-## Barnortopediska fall 
-
-1. Pojke 2 år: Vägrar att använda höger arm efter mindre trauma. Röntgenbilder visar en färsk fraktur i diafysära humerus och en läkt fraktur i proximala humerus. Fortsatt utredning? Diagnos? 
-2. Flicka 11 år: Smärta och svullet höger knä efter vridvåld i samband med fotboll. Röntgen av knät är normal. Fortsatt utredning? Diagnos? 
-3. Flicka 5 år: Hälta sedan en dag utan föregående trauma. Klagar över smärta i höger knä. Smärta i höger höft vid höftundersökning. Röntgen av höfter normal. Ultraljud av höger höft visar ökad mängd ledvätska. Temp 37.5 och CRP 8. Fortsatt utredning? Diagnos? 
-4. Pojke 8 år: Hälta och smärta i höger knä sedan sex månader utan föregående trauma. Röntgen av knät och höft var normal för fyra månader sedan. Smärta vid rotation i höger höft. Fortsatt utredning? Diagnos?
-5. Pojke 11 år: Hälta och smärta i höger knä sedan fyra månader utan föregående trauma. Röntgen av knät var normal för två månader sedan. Idag akut smärta i låret efter mindre trauma. Smärta vid rotation i höger höft. Fortsatt utredning? Diagnos?
-6. Flicka 3 år: Vill ej belasta. Stark smärta vid försök till rotation i höger höft. Röntgen av höft normal. Ultraljud visar utgjutning i höftleden. Temp 38,5 och CRP 90. Fortsatt utredning? Diagnos? 
-7. Pojke 4 år: Hälta och lokal smärta distala tibia sedan två dagar utan föregående trauma. Röntgen av underben normal. Ingen rodnad, svullnad eller värmeökning i underbenet. Temp 39,0° och CRP 70. Fortsatt utredning? Diagnos? 
-8. Nyfödd pojke: Vid födseln konstateras att vänster fot är inåtvriden, att hälen är uppdragen och att hälsenan är kort. Diagnos? Fortsatt behandling? 
-9. Flicka 3 månader: Normal förlossning. Normal höftundersökning av barnläkare på BB. Vid kontroll på BVC konstateras en minskad abduktion i ena höften. Fortsatt utredning? Diagnos? 
-10. I övrigt friskt barn som är remitterad av skolläkaren till barnortopeden pga benlängdsskillnad på 2 cm. Fortsatt utredning? Orsak till benlängdsskillnaden?  

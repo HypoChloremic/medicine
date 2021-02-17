@@ -1445,9 +1445,132 @@ Nyfödd pojke: Vid födseln konstateras att vänster fot är inåtvriden, att h�
 
 
 
+**Diagnos:** 
+
+* Klumpfot/PEVA-fot. PEVA innebär en medfödd spontan felställning (spetsfot, varusställning av bakfoten, framfotsadduktion) med varierande rigiditet.
+* 
+
+**Fortsatt behandling:** 
+
+* Initialt sker behandling genom veckovisa redressioner och gipsningar enligt Ponseti. 
+* Sedan akillotomi, ***helbensgips***. 
+* När foten är färdigredresserad underhålls läget i Dennis-Brownskor (DB-skor) på skena enligt schema, upp till cirka 4 års ålder. 
+* Behandlingen kan avslutas när patienten har uppnått tillräckligt motoriska mognad, t ex kan stå och hoppa på ett ben. 
+* Fortsatt ”egenbehandling” med stretchning och rörlighetsträning rekommenderas. 
+* Vid behov även kontakt med sjukgymnast. 
+* Fortsatta kontroller upp till vuxenålder enligt schema. 
+* Om tecken till recidiv, bör i första hand ny gipsserie övervägas. 
+* Finns behov, utförs operativ åtgärd t ex hälseneförlängning etc. 
+
+
+
+<img src="./imgs/barnkir_sem_rfaOlZa2nB.png" alt="rfaOlZa2nB" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/barnkir_sem_MeB9zB8qww.png" alt="MeB9zB8qww" style="zoom:50%;" />
+
+
+
+<img src="./imgs/barnkir_sem_0JXoPLXzeY.png" alt="0JXoPLXzeY" style="zoom:50%;" />
+
+
+
+<img src="./imgs/barnkir_sem_Hds4RHTjvy.png" alt="Hds4RHTjvy" style="zoom:50%;" />
+
+
+
+
+
+
+
 #### Fall 9
 
 Flicka 3 månader: Normal förlossning. Normal höftundersökning av barnläkare på BB. Vid kontroll på BVC konstateras en minskad abduktion i ena höften. Fortsatt utredning? Diagnos? 
+
+
+
+**Fortsatt utredning:** 
+
+* Inspektion, status, funktionstest (Barlows test, Ortolanis test, abduktionstest) samt anamnes. **UL höft,** remiss till barnortoped. 
+* 
+
+**Diagnos:** 
+
+* Höftledsinstabilitet, DDH Developmental Hip Dysplasia; antingen att man misat denna eller att den har utveckalts.
+
+https://www.netdoktorpro.se/pediatrik/medicinska-oversikter/hoftledsdysplasihoftinstabilitet-hos-nyfodda/ 
+
+
+
+Höftledsinstabilitet/ höftledsluxation hos nyfödda.
+
+Hereditet - mamma pappa syskon.
+
+Klick i höften eller luxation. Kan få remiss för att böjveck inte är symmetriskt eller att benen är olika långa.
+
+Kan vara ärftligt. 
+
+Barlows och ortolanis: Barlow ska göras först. Provokation. Sen ortolani som är reposition. Funkar upp till 3 mån ålder. 
+
+ 
+
+<img src="./imgs/barnkir_sem_TIVMAUV9b2.png" alt="TIVMAUV9b2" style="zoom:50%;" />
+
+* Ortolami betyder att den glider över och ***hoppar in**** (ett klick är ngt annat.)
+
+
+
+
+
+<img src="./imgs/barnkir_sem_Hxq5U21CEl.png" alt="Hxq5U21CEl" style="zoom:50%;" />
+
+
+
+<img src="./imgs/barnkir_sem_ziUs2owfnA.png" alt="ziUs2owfnA" style="zoom:50%;" />
+
+<img src="./imgs/barnkir_sem_IWm8ytOlyK.png" alt="IWm8ytOlyK" style="zoom:50%;" />
+
+
+
+* det är abduktionsbehandlingar
+
+
+
+
+
+<img src="./imgs/barnkir_sem_qykldCCq9g.png" alt="qykldCCq9g" style="zoom:50%;" />
+
+* man ser den minskade abduktionsförmågan (40grader...)
+* och kortare lår
+
+
+
+<img src="./imgs/barnkir_sem_3gi82Bv63L.png" alt="3gi82Bv63L" style="zoom:50%;" />
+
+
+
+<img src="./imgs/barnkir_sem_yble6EcTWe.png" alt="yble6EcTWe" style="zoom:50%;" />
+
+
+
+* heel-buttock test, att de ska line up med the crak. 
+* man skickar på ultraljd så fort man misstänker ngt. 
+
+
+
+<img src="./imgs/barnkir_sem_Ro9pp1mCeq.png" alt="Ro9pp1mCeq" style="zoom:50%;" />
+
+* sent upptäckt höftledsluxation
+
+
+
+<img src="./imgs/barnkir_sem_cMilWWEsuE.png" alt="cMilWWEsuE" style="zoom:50%;" />
+
+* På den luxerade sidan att höftextenseorn har liten hvarm, så drf lutar sig mot luxerade högten
+* Trendelenburgs tecken: har man bägge höft kmr man att vagga båda hållen, 
 
 
 
@@ -1456,6 +1579,79 @@ Flicka 3 månader: Normal förlossning. Normal höftundersökning av barnläkare
 I övrigt friskt barn som är remitterad av skolläkaren till barnortopeden pga benlängdsskillnad på 2 cm. Fortsatt utredning? Orsak till benlängdsskillnaden?  
 
 
+
+**Utredning:** 
+
+* 2cm för vuxen är normalt, men för barn är det för mkt för att det kan bli mer
+* sedvanligt höft, knä, fotstatus bilat. Benlängdmätning. 
+* Mätning: liggande och stående
+  * 
+
+**Orsak:** 
+
+* funktionell orsak (ofta fel i höften) 
+* vs strukturell orsak (pga frakturer, infektion, idiopatiskt, skador på tillväxtplattan, tid osteomyelit, skelettumörer, JIA). 
+
+**Behandling:** 
+
+* inläggning/påbyggnad av skon. 
+* Stoppa tillväxten i längre benet (destruktion av tillväxtplattan i femur/tibia alt förkortning av femur) 
+* alt förlängning av korta benet (om skillnad på >5 cm). 
+* ALLTID RÖNTGA HÖFTEN! 
+* Märgspik kan opereras för förlängning av benet i alla åldrar, 
+* tillväxtzonerna manipuleras i barndomen. 
+
+Viktigt att veta vad som är orsaken till detta. Se om det finns asymmetri. Se om det finns något på bilddiagnostik. Skolios. Oupptäckt höftluxation. Varus i fotled. Fraktur som läkt fel. Osteomyelit som påverkat tillväxtzon. Acetabulumdysplasi. Kan vara många olika saker. 
+
+
+
+
+
+
+
+<img src="./imgs/barnkir_sem_xnIPVBdhuA.png" alt="xnIPVBdhuA" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/barnkir_sem_UpA3Xe7e2r.png" alt="UpA3Xe7e2r" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/barnkir_sem_FNjLGLEjjR.png" alt="FNjLGLEjjR" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/barnkir_sem_3wvxiPSXkN.png" alt="3wvxiPSXkN" style="zoom:50%;" />
+
+
+
+
+
+
+
+<img src="./imgs/barnkir_sem_MM3sWyoRIC.png" alt="MM3sWyoRIC" style="zoom:50%;" />
+
+
+
+
+
+
+
+
+
+<img src="./imgs/barnkir_sem_vqAmErVaZN.png" alt="vqAmErVaZN" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/barnkir_sem_HGUtuTCoCO.png" alt="HGUtuTCoCO" style="zoom:50%;" />
 
 
 

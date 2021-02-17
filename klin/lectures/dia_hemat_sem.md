@@ -419,3 +419,206 @@ Malek väger 50 kg. Redhydrering:
   * Hos en människa som inte har diabetes skickas automatiskt signaler  till bukspottskörteln (där insulinproduktionen sker) om att dra ned  insulinet till ett minimum när leverns sockerintag är blockerat, dvs när man druckit alkohol. Men en människan med diabetes tillför insulin via  penna/spruta/pump till kroppen. Om en person tar sin vanliga dos insulin och dricker alkohol utan att samtidigt äta innebär detta därför risk  för hypoglykemi. Hypoglykemi kan leda till långvarig och djup  medvetslöshet vilken i sin tur kan leda till hjärnskador.
 * "We have now found that alcohol exerts substantial influences on pancreatic microcirculation by evoking a massive redistribution of pancreatic blood flow from the exocrine into the endocrine (insulin-producing) part via mechanisms mediated by the messenger molecule nitric oxide and the vagus nerve, augmenting late phase insulin secretion, and thereby evoking hypoglycemia" says lead investigator Åke Sjöholm.
 
+
+
+# Hematologi
+
+
+
+### Fall 1: 
+
+* Alfred har hunnit bli 6 mån. Han föddes i fullgången tid med FV 3700g och FL 50cm. Föräldrarna är så stolta över sin första lilla guldklimp... 
+
+
+
+a) ...som du träffar som AT-läkare på närakuten i januari. Pappa kommer med Alfred eftersom han nu haft så hög feber i 4d. Alvedon fungerar sisådär. Alfred vill inte äta så mkt, men dricker iaf på nappflaska. Du tycker att Alfred har en ÖLI men beställde prover för säkerhets skull: CRP 11 och LPK 3,5.
+
+
+
+***Hur tolkar du detta?***  
+
+* LPK lågt
+* vid virus-inf hos barn går LPK liksom TPK ned
+
+
+
+***Behövs ytterligare prover***
+
+* Blodstatus med diff för utesluta neutropeni (<1,5). Diff visar neutrofila på 0,5  infektiös neutropeni. Lågt värde, men ingen neutropen feber. 
+* Upprepade inf? Andra symtom än ÖLI? 
+
+
+
+***Behov av uppföljning?***
+
+Kan följas upp via VC efter utläkt inf. Ta om diff om ca 1 vecka. 
+
+
+
+b) ...som du träffar som AT-läkare på ”valfri vecka” vid barnklinikens akutmottagning. Din handledare från VC har träffat Alfred på BVC. Han utreddes för ev komjölksproteinallergi. I rutinproverna sågs bra Hb och TPK, men lågt LPK med neutrofila 0,4
+
+***Hur tolkar du detta***
+
+Neutropeni. Om man har låga neutrofiler, men alla andra celler är ua kan man vara ganska lugn. Det är en frisk gosse. Han har däremot flera påverkade cellinjer ska man bli mer orolig
+
+
+
+***Differentialdiagnoser?***
+
+* Autiommun neutropeni (växter bort vid 6-7åå), benmärgshämning pga ärftlig sjd, inf, malignitet, näringsbrist.
+
+
+
+***Behövs ytterligare prover***
+
+BUMM. Om man påvisar Ak mot neutrofiler  dessa barn blir inte sjukare/oftare sjuk än andra barn.
+
+
+
+***c) ...som du träffar som AT-läkare på VC. Alfred är sjuk! Mamma och pappa är oroliga. Alfred har inte växt så bra enligt BVC-kurvan. Han hostar och flåsar. Dessutom har han alltid varit lös i magen, trots att det provats Sempers Magdroppar. Du tycker Alfred ser sjuk ut, hör takykardi och lätta ronki. I ljumskarna ser du ett ilsket rött utslag. Proverna visar CRP 11 och LPK 3,0. Hur tolkar du detta?***
+
+Sjukt barn. Växter dåligt. Pågående svampinf. GI-besvär.
+
+
+
+***Differentialdiagnoser?***
+
+SCID! Jätteovanligt, men viktigt att upptäcka annars dör de.
+
+***Behövs ytterligare prover?***  
+
+Blodstatus med diff  ua utom lymfocyter på 0,2 (jättelågt).
+
+***Lägger du in?***  
+
+Akuten! 
+
+***Behov av uppföljning?***
+
+ Beh: Benmärgstx. Med så låga lymfocyter är det SCID tills motsatsen är bevisad.  
+
+Pancytopeni med/utan splenomegali  misstänk malignitet eller hypersplenism.
+
+
+
+### Fall 2
+
+***Beata har hunnit bli 4 år och storasyster. Lillebror har börjat på dagis, så nu är Beata därför tillbaka på heltid på sitt dagis. Men det är inte som förr. Beata grinar och gnäller. Hon är petig i maten och lite blek om nosen. Helst vill hon sitta i dagisfrökens knä och läsa böcker. Igår petade hon in en fiamedknuffpjäs i näsan, så det forsade blod. Trots att det bara är i början på september har Beata redan ätit 2 kurer med Kåvepenin pga ”oklar inf”. Mamma har läst på vårdguiden om coxitis simplex, eftersom Beata klagar på ont i benen. Nu sitter de i ditt väntrum.***
+
+
+
+***Hur vill du undersöka Beata?***
+
+Körtlar? Blåsljud?  
+
+***Vad har du för differentialdiagnoser?***  
+
+B-ALL är den vanligaste barnleukemin och har god prognos. Hemolytisk anemi, ITP. 
+
+
+
+***Behövs prover?*** 
+
+Blodstatus med diff, Hb 80, TPK 50, LPK 50 med blaster  leukemi. Alla poeser är påverkade. LPK kan vara lågt vid leukemi.
+
+
+
+***Remiss någonstans?*** 
+
+Kontakt med barnonkologjour på direkten
+
+
+
+***Avvakta och följa upp?*** 
+
+Onkologen: Benmärgspunktion, molekylärdiagnostisk us, LP, ev radiologi.
+
+
+
+### Fall 3
+
+***Calle är 3 år och ganska snacksalig. Han har ritat en huvudfoting till dig medan han satt i väntrummet på barnläkarmottagningen. Calles mamma har fått nog! I höstas hade Calle 2 lunginfl och nu har han haft öroninfl ett par gånger. På dagis har de andra mammorna talat om att man kan få rör i öronen. Calles tillväxtkurva är hyfsad. Hans storasyster är glad och frisk.*** 
+
+***Hur tolkar du detta?***  
+
+Inte normalt i denna ålder  utred. Öronbarn? Man får ha 10-15 ÖLI/år. Om det blir fler än så ska man reagera. Andra varningstecken: Allvarliga inf (meningit/sepsis, osteomyelit), hereditet
+
+
+
+***Differentialdiagnoser?*** 
+
+Primär immunbrist, cystisk fibros (ökad slembenägenhet  flera inf, dålig tillväxt pga malabsorption och GI-besvär pga pankreasdysfunktion), ciliedysfunktion
+
+
+
+***Behövs prover och isf vilka?***  
+
+Blodstatus med diff, B12, folat, immunelfores (IgG, IgM, IgA), kan även testa subklasser i samråd med barnhematolog.
+
+
+
+***Remiss någonstans?*** 
+
+***BUMM***: Barn med ökad inf-benägenhet, bakteriella eller atypiska inf, där primär utredning är genomförd men misstanke kvarstår om PID (primär immunbristsjd). 
+
+***Specialist***: Barn med svår inf-problematik där utredning inger misstanke om PID. Barn i behov av specifik immunoterapi. Splenektomerade barn. 
+
+***Beh***: IVIG, men bättre att ge det subkutant pga jämnare fördelning. 
+
+
+
+### Fall 4
+
+***Stefania är 14 år och en ganska trulig tonåring. Hennes mamma har nu tvingat iväg henne till VC där du vikar före AT. Stefania har fått ”konstiga prickar” på underbenen och magen sen några dagar tillbaka. Hon är annars fullt frisk, förutom en rejäl förkylning för några veckor sedan.*** 
+
+***Hur tolkar du detta?*** 
+
+ITP i samband med ÖLI. Förr idiopatisk trombocytopen purpura, numera immunmedierad trombocytopen purpura. Uteslutningsdiagnos. Anamnes viktig! Hos små barn ska man titta efter dysmorfa drag (Fanconi, TAR, WAS, Alport). Få som får kronisk ITP, men akuta skov är vanliga. Man får petekier vid 30-40 TPK, slemhinneblödningar först vid 10-15(-20). 
+
+***Differentialdiagnoser***
+
+HUS, leukemi, lymfom/myelom, B12/folsyrabrist, aplastisk anemi, splenomegali, lm, TTP. 
+
+***Behövs prover och i sådana fall vilka?***  
+
+Blodstatus med diff, blodutstryk, ASAT, ALAT, ALP, bilirubin, g-GT, SR, CRP.
+
+***Remiss någonstans?*** 
+
+***Specialist**:* Pat med TPK 20-80 utan pågående blödningssymtom. Akuten: Pat med nyupptäckt TPK <20. Pat med mindre uttalad trombocytopeni i komb med högt/lågt  LPK kan ha akut leukemi. Pat med nyupptäckt trombocytopeni och pågående blödning. >60 TPK inga som helst restriktioner, men under det ska man undvika kampsporter, osv.  ***Beh***: Kortison. Ingen större idé att ge trombocyter då de bryts ned. IVIG, cyklokapron (ffa kvinnor).
+
+
+
+### Fall 5
+
+***a) Kim är 9 år gammal, tidigare väs frisk, men har nu varit trött och håglös de senaste veckorna. Kim brukar i vanliga fall älska att spela fotboll, men är nu grymt osugen på detta. Har varit lite småsnuvig hela vintern, men ingen större skolfrånvaro. Äter och dricker hyfsat. Inget avvikande i status förutom att han ev är lite blek. I rutinprover finner du bla följande: Hb 95, MCV 65.*** 
+
+***Hur tolkar du detta?***
+
+Mikrocytär anemi pga järnbrist (tillväxt under ungdom  ökat järnbehov).
+
+***Diffdiagnoser?***  
+
+Sekundär anemi pga infl/inf, talassemi.
+
+***Ytterliggare prover?***  
+
+Komplett blodstatus med diff, S-Fe, TIBC, S-ferritin, retikulocyter, glutenprover, SR, CRP, B12, folsyra, LD, bilirubin, haptoglobin.
+
+***Behandling?*** 
+
+Kostråd, järnsubstitution
+
+***b) Hamid 2 år som är remitterad till dig på BLM från BVC då han växer dåligt (-2SD). Hamid är en liten blek/gul(?) gosse med stor buk och lite utskjutande panna. Föräldrarna pratar bara arabiska, då familjen nyligen kommit till Sverige från Syrien. Du initierar en ganska bred provtagning och finner bla Hb 65, MVC 60, targetcells på diff.***  
+
+***Hur tolkar du detta?*** 
+
+Talassemi major. Mutationer i beta-globulin  fastnar i mjälten. Man kan få bendeformation av talassemi pga extramedullär produktion. Splenohepatomegali. Mikrocytär anemi. 
+
+***Diffdiagnoser?*** 
+
+Järnbrist, sekundär anemi pga infl/inf
+
+***Provtagning?*** 
+
+Komplett blodstatus med diff, S-Fe, TIBC, S-ferritin, SR, CRP, B12, folsyra, retikulocyter, LD, bilirubin, haptoglobin, F-Hb. Perifert blodutstryk visar targetceller. Diagnos ställs genom analys av hemoglobinfraktioner. Hb-fores. Finns även genetisk analys. Vid talassemi minor är man frisk men bärare. Rådgivning vid framtida partnerval. Sicklecellanemi: Mutation i betaglobulingenen. Vanligast i mitten av Afrika. 3 saker viktiga: Beh smärta (Alvedon, Ipren), beh inf (inf-känsliga, har funktionell asplenism, mjälten är förstörd och de ska ha ab-profylax), benmärgstx är enda botande beh. 

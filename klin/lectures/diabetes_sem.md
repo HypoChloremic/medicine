@@ -224,11 +224,12 @@
 
 #### Vad blir din initiala åtgärder
 
+* ABCDE
 * ***Utredning***
-  * Om svårt att avgöra symptom, enbart beror på ketoacid eller dessutiom akut kirugisk bukåkomma för man först
+  * ***Om svårt att avgöra symptom, enbart beror på ketoacid eller dessutiom akut kirugisk bukåkomma för man först***
     *  korrigera ketoacidostilltånd ochj 
     * därefter på nytt ta ställning t evt kvarstående buksymptom
-  * Blodprover
+  * ***Blodprover***
     * glukos
     * B-ketoner
     * B-HB
@@ -240,11 +241,11 @@
     * blodgas
     * HbA1c
     * odling vid feber
-  * urin
+  * ***urin***
     * glukos
     * ketoner
-  * EKG på alla 
-  * vikten, dagligen och ankomst sjk
+  * ***EKG på alla*** 
+  * ***vikten***, dagligen och ankomst sjk*
 * ***Handlägg***
   * v-sond: om stora mäönder sockerhaltig vätska behövs, görs med v-sond
 * ***Behandling***
@@ -252,17 +253,169 @@
   * IVA-fall
   * bakjour tillkallas
   * undvik hjärnödem och hypokalemi med vätsketerapin
-  * ***rehydrering***: långsam rehydrering
+  * ***rehydrering***: snabb rehydrering med NaCl, långsam rehydrering med ringer. 
+    * addex kalim
+    * kräver blodgas innan
   * ketoacidos karakterisas av fölkand ebiokem förändringar
-  * nedsatt perifert glukosutnyttjande. Detta leder t hypergl
-  * ***Häva acidos***
-    * med insulin
-  * när acidos hävd: eftersträva normoglykemi
-  * ***osmolalitet***: långsamt normalisera osmolalitet som hyperglykemin orsakat
-  * 
+  * ***nedsatt perifert glukosutnyttjande***. Detta leder t hypergl
+  * ***Häva acidos***: med insulin
+    * om B-glukos mer än 5mM per timme efter första 2 timmarna, ska man bromsa fallet
+    * insulin infusion
+  * ***när acidos hävd:*** eftersträva normoglykemi
+  * ***Osmolalitet***: långsamt normalisera osmolalitet som hyperglykemin orsakat
+  * ***Långsam rehydrering över 48 timmar***
 
 
 
 <img src="./imgs/diab_sem_yO17q8T1Uc.png" alt="yO17q8T1Uc" style="zoom: 67%;" />
 
 <img src="./imgs/diab_sem_6UPrUlveOZ.png" alt="6UPrUlveOZ" style="zoom: 67%;" />
+
+
+
+#### Fruktade komplikationer
+
+* ***Vid korrigering***
+  * ***hjärnödem***: snabb korrigering
+  * ***hypokalemi***: insulin
+    * kräkningar producerar volym depletion och metabol alkalos och ökad renal kalium exkretion, denna mekanism f
+* ***Ketoacidos***
+  * acidosen: dödlig
+* ***Hyperosmolär icke-ketotiskt koma***
+  * Hyperosmolärt hyperglykemiskt tillstånd förekommer oftast hos en äldre patient med typ 2 diabetes och vätskebrist. Patienten har sänkt medvetandegrad och uttalad dehydrering. Koma är ovanligt och oftast associerat med en S-Osmolalitet >340 mosm/kg.
+  * Utlöses av t ex infektioner, stroke, ileus, kirurgi med flera tillstånd och dessa kan dominera den kliniska bilden. Slarv med mediciner förekommer som utlösande faktor liksom läkemedel, t ex tiazider/kaliumbrist, steroider, betablockad, neuroleptika och HIV-mediciner. Diabetes mellitus typ 2 kan debutera med hyperosmolärt syndrom.
+    - pH >7,30 och standard bikarbonat >15 mmol/l.
+    - Blodketoner <3 mmol/l.
+    - P-Glukos >30 mmol/l.
+    - P-Osmolalitet >320 mosm/kg.
+  * ***Förhöjt natriumvärde och urea är vanligt liksom hypokalemi***
+
+
+
+#### Hur ser Maleks behandling ut de närmaste dygnen?
+
+* ***Rehydrering långsamt***
+* ***följa B-glukos***: glukos kan sänkas till 6-10mM, närmaste dygnen
+* ***vätskebalans följa***, timdiures
+* ***glukos + ketoner***: blod o plasma varje timme
+* ***syrabasstatus varannan timme*** 
+* ***Na, K, Urea***: detta för att få fram plasma osmol. 
+  * 2*(Na + K) + vP-glukos (venös plasma glukos) (+ urea enl internetmedicin)
+* ***EKG***
+* ***pulsoximeter***
+* ***övergår sedan till subkut insulinbehandling när pH är över 7.3 och ketoner under 1.0***
+
+
+
+
+
+1.1. Vilket tillstånd bör du misstänka?
+Diabetesketoacidos (DKA). Buksmärtor, kräkningar, illamående hos en känd diabetespat är ketoacidos
+tills motsatsen är bevisad. Pumpen är snabbverkande. Efter borttagning av pump är man helt utan
+insulin efter 2h. Ketoner tar 3-4h att producera.
+
+Symtomflora:
+* Polydipsi/polyuri  UVI?
+* Illamående/kräkningar/trötthet  Gastroenterit?
+* Magont  Kirurgisk buk?
+* Ökad AF  Astma?
+* Viktnedgång  Anorexia nervosa? 1.2. Hur ställs diagnosen?
+* P-glukos >11 mmol/l
+  * venöst pH <7,3 (eller standardbikarbonat <15 mmol/l eller BE <–10)
+  * ketonemi/ketonuri (B-ketoner >= 3,9 mmol/l)
+  * glukosuri
+
+Saknas en allmänt accepterad definition av DKA.
+2. Hur har tillståndet uppkommit? 
+Oftast pga sent diagnostiserat nyinsjuknande. Hos pat med känd DM är vanliga orsaker akuta inf eller
+otillräcklig insulinbeh. Bortglömda doser? Havererad insulinpump? Dessa pumpar innehåller bara
+direktverkande insulin, därför kan barn snabbt utv DKA. Ju yngre barn desto snabbare DKA.
+3.1. Vilka är riskerna med tillståndet?
+0,3% med DKA dör. 2/3 av hjärnödem (pga hyponatremi), 1/3 av andra orsaker såsom hypokalemi
+(arytmier), dehydrering, cirkulationssvikt, tromoembolier (heparin kan övervägas), hypoglykemi.
+0,5-1% med DKA utv hjärnödem. Hjärnödemsprognos: 1/5 dör, 1/5 skadade/hemiplegi, 3/5 friska.
+
+3.2. Hur blir det så?
+Elektrolytrubbningar: Hypokalemi, hyponatremi, hypofosfatemi.
+* Nedsatt perifert glukosupptag  hyperglykemi + glukosuri  osmotiskt diures  dehydrering, hemokoncentration och chock.
+* Nedsatt lipogenes + ökad lipoys  ökad fettsyraförbränning  överprod av ketonkroppar  ketonemi, ketonuri och metabol acidos.
+* Ökad glukossyntes från levern pga glukoneogenesen (där glukos återbildas från aminosyror) och glykogenolys.
+* Katabolism, ureastegring, renala förluster av Na, K, Cl och fosfat.
+
+3.3. Vad behöver du för hjälp?
+Ev narkoshjälp.
+
+4.1. Hur ser Maleks behandling ut de närmaste dygnen?
+4 hörnstenar:
+* Vätska: Snabb i 2h + långsam i 48h (rehydrering)
+* Insulin
+* Elektrolyter (kalium)
+* Provtagning och övervakning
+Syftet med beh är inte att snabbt uppnå normoglykemi, utan långsamt korrigera acidosen, elrubbningen och dehydreringen utan att sänka S-osmolaliteten för snabbt. Pat bör hållas fastande. Rehydrering: Snabb + långsam rehydrering. Om nedsatt perifer cirkulation  snabb rehydrering i 0- 2h. Övergång till långsam rehydrering när perifera cirkulation återställd (kapillär återfyllnad, BT, diures). Pat med opåverkad perifer cirkulation börjar med långsam rehydrering direkt. Under den snabba fasen anv man 0,9% NaCl (12,5 ml/kg/h, max 500 ml/h). I den långsamma fasen vill man sänka p-glukos med 4-5 mmol/l. Ringer-Acetat med K-tillsats ges.
+
+Insulin: Stäng av ev insulinpump. Efter att man säkrat vätsketillförsel startas insulinbeh. Vid K <3,3 får inte insulinbeh initieras utan att K först korrigerats, då det finns risk för allvarlig hypokalemi. Fram tills nyligen rek en bolusdos insulin på 0,1 E/kg följd av infusion av 0,1 E/kg/h. Nyare studier förespråkar primärt ej bolusdos, såvida det inte dröjer innan insulininfusion kopplas. Infusionen ska fortgå så länge acidosen kvarstår och hastigheten justeras utifrån P-glukos och acidoskorrektion.
+Kalium: Då K sjunker vid beh av DKA och den totala bristen kan vara mkt stor, krävs noggrann Kmonitorering. Vid K <5,2 bör substitution inledas, vilket ofta blir redan vid 2:a litern dropp. Vid hypokalemi (<3,5) kan K ges redan i den snabba rehydreringsfasen, annars tillsätts den i den långsamma. Målet är att bibehålla P-kalium mellan 4-5. K bör kontrolleras minst varannan timme.
+
+4.2. Var?
+IVA – Intensivvård!
+
+5. Hur ska tillståndet förebyggas?
+* Symtom upptäcks genom utbildning.
+* Högt blodsocker och ketoner i blod upptäcks genom blodsockermätare och ketonmätare. 
+* Ketoner och socker i urin upptäcks genom vanlig urinsticka (ger utslag om p-glukos >12 = njurtröskel).
+* Ta diabetesbeh enl läkarens anvisningar, ät hälsosamt och motionera regelbundet. Insulinpumpsanv måste kontrollera ofta att insulin fortfarande flyter i slangen och att det inte finns några blockeringar.
+
+Malek väger 50 kg. Redhydrering:
+* Första 2h – RingerAcetat 500ml + 500ml = 1L. Ej insulin direkt då blodsockret rusar ner. Långsam
+* rehydrering tills pH:t är normalt: 5% glukos 4200 ml/dygn, 176 ml/h. 5E/h insulin. Kolla Na, K varje h. 
+
+### Fall 3
+
+* Lina har varit på fotbollsturnering ochspelatflera matcher under dagen. 
+* På kvällen festar hon med några kompisar och dricker alkohol. 
+* På natten vaknar föräldrarna av att Linassensor larmar för lågt blodsocker och de hittar henne krampandes i sängen.
+
+
+
+#### Vad bör föräldrarna göra?
+
+* Glukagon spruta: detta verkar inte behöva ett kap glukos utan räcker med misstanke hypoglykemi...
+* Ringa ambulans
+* Om inte aspirationsrisk: lägga socker i munnen. det föreligger dock aspirationsrisk i detta fallet
+  * en tablett 3g för varje 10kg som patienten väger. 
+  * dextrosol, 4kcal/g
+* Se till att krampande barn inte blir manglat.
+* Bör kanske mäta B-glukoset när barnet krampat färdigt 
+
+
+
+
+
+***Hur behandlas en hypoglykemi med medvetslöshet på sjukhus?***
+
+* Injektion Glukos 100 mg/ml, 3-5 ml/kh iv, upprepas tills blodsocker >4-6 mmol/l. Vaken patient ges ”mjölk och smörgås”.
+  * D
+* Om infart saknas ges inj Glukagon 1 mg im mitt på lårets utsida.
+* Om patienten inte vaknar inom 5-10 minuter efter blodsocker >6 mmol/l leta andra orsaker, t ex intoxikation eller cerebrovaskulär sjukdom. Vid behov av upprepade bolusdoser glukos ge inf Glukos 50-100 mg/ml 1000 ml på 4-6 timmar och kontrollera P-Glukos frekvent. Enstaka patienter med långvarig och svår hypoglykemi vaknar inte vid normoglykemi vilket är indikation för IVA-vård.
+* Vid insulinutlöst hypoglykemi hemgång efter ”mat och dryck” om patienten är fullt orienterad och blodsocker är stabilt under några timmar. Tag ställning till lämplighet att köra motorfordon.
+* Försök att klarlägga bakomliggande orsaker och/eller korrigera vid behov insulindoseringen eller tidpunkten för injektionerna.
+* Vid hypoglykemi orsakad av perorala diabetesmediciner av typen sulfonylurea (glibenklamid, glimepirid, glipizid) samt repaglinid alltid inläggning under 1-2 dygn. I övriga fall individuell bedömning utifrån möjliga orsaker till hypoglykemin. Eventuellt inläggning för medicinjustering efter svar på HbA1c. Glukosinfusion endast vid symtomatisk hypoglykemi. (Se även intoxikationskapitlet). Följ P-Kalium.
+
+
+
+<img src="./imgs/diab_sem_jqgkhoJJlM.png" alt="jqgkhoJJlM" style="zoom: 67%;" />
+
+
+
+<img src="./imgs/diab_sem_qjSp3sp80b.png" alt="qjSp3sp80b" style="zoom: 67%;" />
+
+
+
+#### Faktorer i anamnesensomsannolikt bidragit till allvarlig hypoglykemi?
+
+* ***Alkohol***: inhib glukosfrisättning fr lever, varpå hypoglykemi
+  * alkohol hindrar glukoneogenes gm att hålla enzymerna sysselsatta med...
+  * Att levern släpper ut glukos är människans naturliga sätt att hålla  rätt blodsockernivå mellan måltiderna. Kroppen suger även upp socker via tarmen. Det innebär att om du äter samtidigt som du dricker alkohol har kroppen möjlighet att ta upp socker i blodet trots att leverns  sockerflöde är blockerat. För alla människor medför blockeringen av  sockerintaget via levern i kombination med att man inte äter risk för  hypoglykemi.
+  * Hos en människa som inte har diabetes skickas automatiskt signaler  till bukspottskörteln (där insulinproduktionen sker) om att dra ned  insulinet till ett minimum när leverns sockerintag är blockerat, dvs när man druckit alkohol. Men en människan med diabetes tillför insulin via  penna/spruta/pump till kroppen. Om en person tar sin vanliga dos insulin och dricker alkohol utan att samtidigt äta innebär detta därför risk  för hypoglykemi. Hypoglykemi kan leda till långvarig och djup  medvetslöshet vilken i sin tur kan leda till hjärnskador.
+* "We have now found that alcohol exerts substantial influences on pancreatic microcirculation by evoking a massive redistribution of pancreatic blood flow from the exocrine into the endocrine (insulin-producing) part via mechanisms mediated by the messenger molecule nitric oxide and the vagus nerve, augmenting late phase insulin secretion, and thereby evoking hypoglycemia" says lead investigator Åke Sjöholm.
+

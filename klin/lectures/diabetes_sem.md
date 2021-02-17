@@ -189,27 +189,80 @@
 
 
 
-***Utrending när diagnos oklar***
+***Utredning när diagnos oklar***
 
-* fB-glukos
-* Hba1c
-* OGTT: oral grlukostolerans
-* c-peptid
-* HLA-typning
+* ***fB-glukos***
+* ***Hba1c***
+* ***OGTT:*** oral grlukostolerans
+* ***c-peptid***
+* ***HLA-typning***
 * ***antikroppantikroppar***: 
   * GADA
   * IA-2A
   * IAA
   * ICA
   * Zink-antikroppar
-  * DEssa antikroppar kan upptäckas långt före klinisk diabetsdebut
+  * Dessa antikroppar kan upptäckas långt före klinisk diabetsdebut
 
 
 
 ### Fall 2
 
-* 11åå Malek kommer medambulans och du är vik läkpå barnakuten. Han har diabetes typ 1 sedan 8 års ålder och har pump. Nu hittad i sängen efter att ha varit ”magsjuk” med kräkningar under natten. Malek är medvetandesänkt och andas tungt
+* 11åå Malek kommer medambulans och du är vik läkpå barnakuten. 
+* Han har diabetes typ 1 sedan 8 års ålder och har pump. 
+* Nu hittad i sängen efter att ha varit ”magsjuk” med kräkningar under natten. 
+* Malek är medvetandesänkt och andas tungt
 
 
 
-#### Vilket tillstånd bör du misstänka?Hur förklarar du hans symtom?Vad kan den bakomliggande orsaken vara?
+#### Vilket tillstånd bör du misstänka? Hur förklarar du hans symtom?Vad kan den bakomliggande orsaken vara?
+
+* DKA
+* respiratorisk kompensation av metabol acidos
+
+
+
+#### Vad blir din initiala åtgärder
+
+* ***Utredning***
+  * Om svårt att avgöra symptom, enbart beror på ketoacid eller dessutiom akut kirugisk bukåkomma för man först
+    *  korrigera ketoacidostilltånd ochj 
+    * därefter på nytt ta ställning t evt kvarstående buksymptom
+  * Blodprover
+    * glukos
+    * B-ketoner
+    * B-HB
+    * B-EVF
+    * B-CRP
+    * Na, ka, cl, calcium
+    * alb urea krea
+    * osmol i serum
+    * blodgas
+    * HbA1c
+    * odling vid feber
+  * urin
+    * glukos
+    * ketoner
+  * EKG på alla 
+  * vikten, dagligen och ankomst sjk
+* ***Handlägg***
+  * v-sond: om stora mäönder sockerhaltig vätska behövs, görs med v-sond
+* ***Behandling***
+  * omedelbar kontakt under adekvat övervak närmsta barnklinik
+  * IVA-fall
+  * bakjour tillkallas
+  * undvik hjärnödem och hypokalemi med vätsketerapin
+  * ***rehydrering***: långsam rehydrering
+  * ketoacidos karakterisas av fölkand ebiokem förändringar
+  * nedsatt perifert glukosutnyttjande. Detta leder t hypergl
+  * ***Häva acidos***
+    * med insulin
+  * när acidos hävd: eftersträva normoglykemi
+  * ***osmolalitet***: långsamt normalisera osmolalitet som hyperglykemin orsakat
+  * 
+
+
+
+<img src="./imgs/diab_sem_yO17q8T1Uc.png" alt="yO17q8T1Uc" style="zoom: 67%;" />
+
+<img src="./imgs/diab_sem_6UPrUlveOZ.png" alt="6UPrUlveOZ" style="zoom: 67%;" />

@@ -687,3 +687,34 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 * Undet det akuta skedet: behöver ingen bolus...
 * Under de nämaste timmarna: sond ORS, 250mL/4h
 * Under det kommand dygnet: sond, bröstmjölk, ersättning: 150mL x 5 = 750mL/24h
+
+
+
+
+
+## Reumatologi
+
+### Svullet knä
+
+***Presentation***
+
+* . Stina är 6 år och har sedan 1 vecka haft ett svullet höger knä. Hon har ingen feber. Hon harhaft  svårt att gå och haltar. Pappa har psoriasis men Stina har inga hudbesvär. Anger ingensmärta i vila. I status: gott AT, afebril. Hon har svullnad runt patella höger knä, ingen rodnadmen värmeökning jämfört med framsidan av underbenet. Har en extensions och flektionsdefektpå ca 20 grader i hö knä. Status i övrigt är utan anmärkning inkl hud.Vilken diagnos är minst sannolik med ovanstående anamnes och status?
+  a) Reaktiv artrit
+  b) JIA monoartrit
+  c) Borrelia artrit
+  d) Septisk artrit
+  e) Psoriasis artrit
+
+
+
+
+
+
+
+## Endokrin
+
+### Diabetes
+
+***Etiologi och patofysiologi***
+
+<img src="./lectures/imgs/diab_hemat_sem_dFkFyH4QnG.png" alt="dFkFyH4QnG" style="zoom:50%;">

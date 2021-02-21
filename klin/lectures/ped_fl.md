@@ -1212,6 +1212,8 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
   * bakteren utlöser toxiner -> förstör ciliae, orsakar slemhinnesvullnad
   * väldigt smittsam, droppsmitta
 
+
+
 ***Kliniska kännetecken***
 
 * ***Catarrhal fas***: ca en vecka

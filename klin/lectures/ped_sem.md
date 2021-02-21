@@ -790,12 +790,10 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
 
 ***Differentialdiagnoser***
 
-* pneumoni: denna typ andningsbesvär, men att det är infektiöshärd i lungorna, men at kan te sig på detta sättet
-* bronkioliten: RS-fall och RS-bronkioliter. Ter sig osså sågär, låter annorludna auskulterar, inte så hög feber, yungre än den här flickan. 
+* ***pneumoni***: denna typ andningsbesvär, men att det är infektiöshärd i lungorna, men at kan te sig på detta sättet
+* ***bronkioliten***: RS-fall och RS-bronkioliter. Ter sig osså sågär, låter annorludna auskulterar, inte så hög feber, yungre än den här flickan. 
   * svårt diffa förkylningsastma och en bronkiolit
 * krupp: men det är karakteristiskt mer
-
-
 
 
 
@@ -894,7 +892,8 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
 
 
 
-Faktorer som ökar risken för bestående astma:
+***Faktorer som ökar risken för bestående astma:***
+
 * Hereditet för astma eller atopiAnnan samtidig atopi (allergi el eksem)
 * Astma orsakad av annat än luftvägsinfektion (ex ansträngning)
 * Sensibilisering mot luftvägsallergen
@@ -1571,16 +1570,17 @@ Anafylaxigrader
     * Ökad förlust – blödning från näsa, tarm, Meckels divertikel, riklig menstruation
     * Provsvar – lågt MCV, ferritin och järn
 * // det är vanligt vid den åldern, samt att nutritionen är inadekvat med bröstmjölk och fruktpurre inte har mkt järn i
+  
   * barn med lågt Hb värden är den vanligaste orsaken dietär järnbristanemi
 * ***hur länge järnet klarar sig på med bröstmjölken***
     * **6 månader**
     * bröstmjölken innehåller mindre järn
     * samt att barnet växer
+
   
-  
-  
+
   **Vad ska en 9 mån gammal gosse äta**
-  
+
   * **Introduktion av mat:**
     * Vid (4)-6 månaders ålder: 
     * rotfrukter, grönsaker 
@@ -1648,8 +1648,9 @@ Anafylaxigrader
   
 
   
+
 ***Lugnande besked? Gränserna för utvecklingsfaserna är ju vida (!?).***
-  
+
   * ***Pat har gått tillbaka i utvecklingen, varpå indikation för neurologutredning.*** 
   * ***Uteslut att det förekommer indikation för akut remiss t neuro:*** akut förlusten av förmågor
     * regression färdighetsmässigt
@@ -2040,7 +2041,7 @@ Anafylaxigrader
     * som eksem eller födoämnesallergi 
     * så säger vi att barnet har astma 
     * oberoende på ålder  
-  * ***1a obstruktiva episoden i samband med förkylning > 3 åå (förra riktlinjen är 2 år)*** 
+  * ***1a obstruktiva episoden i samband med förkylning > 2 åå (förra riktlinjen är 2 år)*** 
     * så säger vi att barnet har astma !
     * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen av denna
 * **barn under 3år har så pass reaktiva luftvägar att de får obstruktiva besvär** 

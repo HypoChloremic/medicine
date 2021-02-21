@@ -363,6 +363,122 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+## Allergi
+
+### Astma 
+
+Presentation
+* 8 månaders flicka 
+    * Pga feber och andningsbesvär sedan 2 dagar. 
+    * Hon är rosslig och hostig, har jobbigt att andas och föräldrarna har noterat att det stundom piper ur luftvägarna när hon andas. 
+    * Hennes temp är 39,4.1.
+    * Diffar: pneumoni, bronkioloit, krupp, förkylningsastma, infektionsastma
+
+***Epidemiologi och***
+* Ålder: svårt att diagnosticera yngre än 3år. 
+* Hälften av alla barn har pipande andning första 3 åren av sina liv.
+
+***Etiologi patofysiologi***
+
+* ***barn med PBD bronchopulmonell dysplasi,***: att man har fått syragas upp t 36v har högre benägenhet för obstruktivitet och problem med luftvägsinfektioner med obstruktivitet under denna period.
+* ***Allergi***, viktig komponent astma
+* ***IgE-antikroppar, aeroallergener***: påverkade barn har ofta IgE-antikroppar mot aeoroallergener
+* ***Aeroallergener***: house-dust mite, trä, gräs, weed pollens; mögel; animal dander (shedding fr animals) 
+* ***Tre olika former av ronki***
+* ***Viral episodisk ronki***: ronki endast som svar till virala infektioner
+* ***“Multiple trigger ronki”:*** som svar på multipla triggers, som är sannolikt att bli astma
+* astma
+
+***Genetik,***
+
+***Diagnos***
+
+* ***Astma diagnos 3 punkter***:  
+  * ***Efter 3 obstruktiva episoder***: 
+    * < 2åå så kallas de för astma 
+    * annars är de akut bronkit  
+  * ***1a obstruktiva episoden och andra tecken på allergi***: 
+    * som eksem eller födoämnesallergi 
+    * så säger vi att barnet har astma 
+    * oberoende på ålder  
+  * ***1a obstruktiva episoden i samband med förkylning > 2 åå (förra riktlinjen är 2 år)*** 
+    * så säger vi att barnet har astma !
+    * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen av denna
+* **barn under 3år har så pass reaktiva luftvägar att de får obstruktiva besvär** 
+
+
+
+
+***Differentialdiagnoser,***
+* ***Pneumoni***: samma andningsbesvär som i det första patientfallet, men att det finns en infektionshärd i lungorna.
+* ***Bronkiolit***: RS-fall, RS-bronkioliter. Tes sig också sig på detta sättet, låter annorlunda vid auskultation, inte så hög feber, yngre patienter...
+* ***Krupp***
+
+***Naturalförlopp,***
+
+***Utredningsgång***
+
+* Polikliniskt
+  * PEF
+  * Spirometri
+  * ansträngnings-spirometri
+  * 
+
+***Anamnes***
+
+* TIdg andningsbesvär, hereditet, atopisk eksem, födoämnesallerig, 
+* Prematuritet? Neonatalperiod?:** större benägenhet av denna nadningsbesvär vid infektioner med obstuktivitet, med indragningar och pip i bröstet.
+* Allmäntillstånd, orkar äta, dricka, kissat
+
+
+
+***Undersökningar***
+
+* Akut undersökning
+* Andningsfrekvens, bukandning, näsvingspel, 
+* Interkostala indragningar: lågt sittande hinder
+* Jugulära indragningar: högt sittande hinder. 
+* Sibilanta ronki: klassiskt på utandningen
+* Stridor, inspiratoriska eller expiratoriska: andningsljud inandninge, tyder övre luftvägsobtstruktion, konstriktion
+* Titta övre luftvägarna också 
+* Hosta: torr, blöt rossling, skällande
+* Torr hosta: obstruktiva barn har som regel torr hosta.
+* Hosta på nätterna: starkt tecken för obstruktivitet
+* Kroppsållning:, hyperinflaterad
+* Saturation
+* Feber
+* Tecken obstrktivitet: 
+* pipig utandning, 
+* ronki vid auskultation,
+* Trötta patienter
+* Dehydrerade patienter
+* Saturation som sjunker
+* ***Radiologi:***     
+* ***Röntgen***: föreligger det hyperinflation, fråga efter hyperinflation*
+
+
+
+
+
+***Behandling***
+
+* ***Akut skede***
+  * **Inhalation beta2-agonister**: Detta för barn ***över 6 månader***, för att dilatera bronkerna. 
+    * Ventoline, aka eller salbutamol
+    * Ventoline är bronkvidgande och astmamedicine
+    * adrenalin är slemhinneavsvällande, och man generellt ska tänka att barn 0-6 månader har framförallt har problem med slemhinnesvullnad.
+    * barn över 6 månadero ch garanterat över 1år har den astmatiska komponenten.
+  * ***Börja med atrovent***
+    * det är ipratropium
+    * antikolinergika
+  * ***Steroider:*** nästa steg för att jobba mot inflammationen
+    * ***kan ta det peroralt, betapred tabletter lösa upp i vatten och mata med en spruta***
+  * ***NaCl inhalation***: ofta inhalera koksalt för att lätta upp slemmet
+  * ***Uppvätskning***
+  * ***Magnesiumsulfat iv (?):*** oftast att detta sker på ivA? 
+
+
+
 ## Gastroenterologi
 
 ### Funktionell förstoppning
@@ -585,6 +701,29 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 
 <img src="./imgs/pedsum_gVJFqHkYbL.png" alt="gVJFqHkYbL" style="zoom:67%;" />
 
+### Pertussis
+
+***Presentation***
+
+* 3mån pojke, prematur 35+1
+    * Nicaragua för drygt tre månader sedan 
+    * Erhållit 3 månaders vaccinationen för en vecka sedan.
+    * Epidemiologi Mor varit förkyld med hosta.
+    * pojken varit förkyld i ungefär två veckor med snor och hosta. 
+    * Den senaste veckan intensiv hosta och haft jobbigt med andningen. 
+    * Idag slutat andas i samband med flera hostattacker. 
+    * Förefaller ha varit röd i ansiktet i samband med hostattack men sedan blivit blå om läpparna. 
+    * Har sovit dåligt och äter sämre, äter BM-ersättning på flaska men det går väldigt långsamt.
+    * Har haft periodvis tempstegring upp till 38,5.
+    * Status nästoalett x 2 och natriumkloridinhalation med god effekt. 
+    * 5,2 kg, Andningsfrekvens 57 /min. Saturation 97 %, Pulsfrekvens 163 /min, 
+    * Kroppstemperatur 37 grader 
+    * Hjärta Regelbunden rytm, inga hörbara bi- eller blåsljud. 
+    * Lungor Ej påtagligt ökat andningsarbete, inga indragningar. Inga biljud 
+    * Buk Normala tarmljud. Palperas mjuk. Har ett litet navelbråck som lätt kan reponeras. Neurologiskt status Fin tonus, normalställd fontanell.
+    * Perifer cirkulation Kapillär återfyllnad två sekunder. 
+    * CRP < 5. LPK 27,8, Lymfocyter 18,5 (ref 1,5 – 8) Hb 104. Blodgas med pH 7,26, 7,2 i pCO2.
+
 
 
 ## Vätskebalans
@@ -718,3 +857,38 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 ***Etiologi och patofysiologi***
 
 <img src="./lectures/imgs/diab_hemat_sem_dFkFyH4QnG.png" alt="dFkFyH4QnG" style="zoom:50%;">
+
+
+
+
+
+## BUP
+
+### Autism
+
+***Kliniska Kännetecken***
+
+Impaired social interaction:
+* does not seek comfort, share pleasure, form close friendships
+* prefers own company, no interest or ability in interacting with peers (play or emotions)
+* gaze avoidance
+* lack of joint attention
+* socially and emotionally inappropriate behaviour
+* does not appreciate that others have thoughts and feelings
+* lack of appreciation of social cues.
+
+Speech and language disorder:
+* delayed development, may be severe
+* limited use of gestures and facial expression
+* formal pedantic language, monotonous voice
+* impaired comprehension with over-literal interpretation of speech
+* echoes questions, repeats instructions, refers to self as ‘you’
+* can have superficially good expressive speech.
+
+Imposition of routines with ritualistic and repetitive behaviour:
+* on self and others, with violent temper tantrums if disrupted
+* unusual stereotypical movements such as hand flapping and tiptoe gait
+* concrete play
+* poverty of imagination in play and generalactivities
+* peculiar interests and repetitive adherence
+* restriction in behaviour repertoire.

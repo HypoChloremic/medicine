@@ -1212,3 +1212,7 @@ Komplett blodstatus med diff, S-Fe, TIBC, S-ferritin, SR, CRP, B12, folsyra, ret
 
 
 <img src="./imgs/diab_hemat_sem_VJklJQ6Sft.png" alt="VJklJQ6Sft" style="zoom:50%;" />
+
+
+
+allt detta finns på VPH hemsida, man ska googla VPH PM

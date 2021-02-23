@@ -1125,15 +1125,15 @@ Vid säker AOM rekommenderas **antibiotikabehandling** för
 
 ***Behandling***
 
-* **syras om sat <92%**
+* **syrgas om sat <92%**
 * **rehydrering**
 * **antibiotika**
-  * iv: cefotax, PCG
-  * oral: 
+  * ***iv***: cefotax, PCG
+  * ***oral***: 
     * amoxicillin, förskolebarn
     * PCV: skolbarn
-    * erytromycin_ äldre barn med lång sjd anamnes
-    * 7 dagars behandlöing
+    * erytromycin äldre barn med lång sjd anamnes
+    * 7 dagars behandling
 
 <img src="./imgs/ped_IzKiHAOY82.png" alt="IzKiHAOY82" style="zoom:25%;" />
 
@@ -2445,7 +2445,7 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 
 * Globalt ledande orska t diarre som orsakar svår vätskevris, ffa barn <5åå
 * Enligt FoHM30 000 VAB dagar/år innan vaccin
-* nfördes i SLL 2014, Nationellt 2019
+* infördes i SLL 2014, Nationellt 2019
 * Oralt levande försvagat vaccin
 * Vaccination reducerar risken för allvarlig (sjukhuskrävande) rotavirusinfektion med ca 90% under första året och 80% under andra året -efter vaccination
 
@@ -2455,7 +2455,12 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 
 #### Sammanfattning
 
-* Barnhäsovård–hälsofrämjandeochförebyggande+tidigupptäckt+ hälsoövervakning•UtövasgenomBHV-programmet•BHV har mångavärdensvåraattmäta: tillit, bekräftelse, empowerment, samhällsorienterande•Ojämlikaförutsättningarförengod hälsa–riktadeprogram: utökathembesöksprogram, familjecentral•Barnhälsovårdhar livslångpåverkan
+* Barnhäsovård–
+  * Hälsofrämjande och förebyggande + tidigupptäckt + hälsoövervakning
+  * Utövasgenom 
+  * BHV-programmet
+  * BHV har mångavärden svåra att mäta: tillit, bekräftelse, empowerment, samhällsorienterande
+  * Ojämlika förutsättningar för en god hälsa – riktade program: utökathembesöksprogram, familjecentral•Barnhälsovårdhar livslångpåverkan
 
 
 
@@ -2526,11 +2531,15 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 * vuxna 1mL/kg/h
 * ***Viktigt med daglig mätning***:; timdiures p kg, på inneliggande för att styra vätskebeh
 
+
+
 ***Avföring kräkning***
 
 * normal avföring: begränsade vätskeförluster
 * diarrer o kräkiningar: ska mätas o ersättas
 * en diarre ca 1% kroppsvcikten: 10kg = 100mL/diarre
+
+
 
 ***Feber***
 
@@ -2696,8 +2705,7 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 ***Mekanism***
 
 * innebär förlust kroppsvatten: ***inte primärt elektrolyter***
-* ***intialt*** sker extravasal vattenförlust, med resulterande hög natriumkonc i ECV
-  * e.g. diarre
+* ***intialt*** sker extravasal vattenförlust, med resulterande hög natriumkonc i ECV: e.g. diarre
 * ***sekundärt***: vandrar vatten fr ICV t ECV, med sekundär ICV dehydrering som följd
 * ***osmotiska partiklar***: bildas i kroppen, varför vattenflöden mellan ICV o ECV upphör
 * ***Resultat***: förlust kroppsvatten, o ett hyperosmolärt tillstånd både extracellulärt och intracellulärt
@@ -2712,9 +2720,13 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 
 * Na < 135 mmol/L  alt  låg serumosmolalitet(< 270 mOsm/kg)
 
+
+
 ***Mekanism***
 
-* kan sekundärt till: diarrer, kräkningar, SIAD, iv vätsketerapi med hypotona vätskor, njurinsuff, diuretikabeh
+* ***kan sekundärt till***: diarrer, kräkningar, SIAD, iv vätsketerapi med hypotona vätskor, njurinsuff, diuretikabeh
+
+
 
 #### Akut hyponatremi
 

@@ -1072,7 +1072,7 @@ hos hnm: blodstatus ua men låga TPK (23)
   * har man många cirkulerande major platelet fraction är det att BM arbetar hårt
   * har man lågt IPF-majroplat frac är det för att benmärgen inte fungerar 
 * ***Viktigaste för att bedöma behandlingsmodus***
-  * Det är mkt blödnignsanames som determienrar hur man kommer att behandla
+  * Det är mkt blödningsanamnes som determienrar hur man kommer att behandla
   * det är först o främst kliniska status som determinerar behandlignen
   * det som skiljer är om slemhinneblödningar eller inte
   * petekier o blåmärken kan man ha så mkt man vill

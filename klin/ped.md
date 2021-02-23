@@ -1,8 +1,4 @@
-Pediatrik
-
-
-
-
+# Pediatrik
 
 
 
@@ -65,6 +61,7 @@ Det man bör ge
 
 * ***Formeln***
   * 2-7 år: $2\times\text{ålder} + 8$
+  * Yngre än 2åå
 * **1-3mån = 5kg**
 * **1år = 10kg**
 * **3år = 15kg**
@@ -309,9 +306,15 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
 
 
 
+
+
 #### Sammanfatt
 
 <img src="./imgs/pedsum_L5rU1lbCzE.png" alt="L5rU1lbCzE" style="zoom:80%;" />
+
+
+
+<img src="./imgs/ped_sum_o02X36gngf.png" alt="o02X36gngf" style="zoom: 67%;" />
 
 
 
@@ -363,20 +366,38 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+#### Vikt
+
+* ***quadrupled weight***: efter 2.5 år
+
+  
+
 ## Allergi
 
 ### Astma 
 
-Presentation
-* 8 månaders flicka 
+***Presentation***
+
+* ***8 månaders flicka*** 
     * Pga feber och andningsbesvär sedan 2 dagar. 
     * Hon är rosslig och hostig, har jobbigt att andas och föräldrarna har noterat att det stundom piper ur luftvägarna när hon andas. 
     * Hennes temp är 39,4.1.
     * Diffar: pneumoni, bronkioloit, krupp, förkylningsastma, infektionsastma
+* ***4 år gammal flicka*** 
+    * som söker för andra gången med andningsbesvär i samband med en förkylning, i övrigt frisk. 
+    * Hon har 37,8 i temp, har indragningar, ökad  andningsfrekvens och ensaturation på 95%. 
+    * Hon hostar mycket ffa nattetid nu när hon är förkyld och har då svårt att sova. 
+    * Vid lungauskultation noteras ronki basalt bilateralt.
+    * ***svar: förkylningsastma, rhinovirus, ventoline och syrgas.***
 
-***Epidemiologi och***
+
+
+***Epidemiologi***
+
 * Ålder: svårt att diagnosticera yngre än 3år. 
 * Hälften av alla barn har pipande andning första 3 åren av sina liv.
+
+
 
 ***Etiologi patofysiologi***
 
@@ -389,14 +410,18 @@ Presentation
 * ***“Multiple trigger ronki”:*** som svar på multipla triggers, som är sannolikt att bli astma
 * astma
 
+
+
 ***Genetik,***
+
+
 
 ***Diagnos***
 
 * ***Astma diagnos 3 punkter***:  
   * ***Efter 3 obstruktiva episoder***: 
     * < 2åå så kallas de för astma 
-    * annars är de akut bronkit  
+    * annars är de ***akut bronkit***  
   * ***1a obstruktiva episoden och andra tecken på allergi***: 
     * som eksem eller födoämnesallergi 
     * så säger vi att barnet har astma 
@@ -408,55 +433,70 @@ Presentation
 
 
 
+***Kliniska kännetecken***
+
+* Symptom värre natten
+* symptom med icke-virala triggers
+* intervall symptom, symptom mellan akuta exacerbationer
+* atopi i familjen eller att barnet har det
+* astma terapi, positiv terapt
+
+
 
 ***Differentialdiagnoser,***
+
 * ***Pneumoni***: samma andningsbesvär som i det första patientfallet, men att det finns en infektionshärd i lungorna.
 * ***Bronkiolit***: RS-fall, RS-bronkioliter. Tes sig också sig på detta sättet, låter annorlunda vid auskultation, inte så hög feber, yngre patienter...
 * ***Krupp***
+* ***Cystisk fibros, bronchiectasi***: finger clubbing, våt hosta, sputum produktion, dålig tillväxt, 
+
+
 
 ***Naturalförlopp,***
 
+
+
 ***Utredningsgång***
 
-* Polikliniskt
+* ***Polikliniskt***
   * PEF
   * Spirometri
   * ansträngnings-spirometri
-  * 
 
-***Anamnes***
+* ***Anamnes***
+  * tIdigare andningsbesvär, hereditet, atopisk eksem, födoämnesallerig, 
+  * ***prematuritet? Neonatalperiod?:*** större benägenhet av denna nadningsbesvär vid infektioner med obstuktivitet, med indragningar och pip i bröstet.
+  * allmäntillstånd, orkar äta, dricka, kissat
+  * hur frekvent
+  * vad triggar
+  * påverkas sport och generell aktivitet
+  * hur svåra är intervall symptomen mellan exacerbationer
+  * hur mkt skola har man skippat pga astma. 
+* ***Undersökningar***
 
-* TIdg andningsbesvär, hereditet, atopisk eksem, födoämnesallerig, 
-* Prematuritet? Neonatalperiod?:** större benägenhet av denna nadningsbesvär vid infektioner med obstuktivitet, med indragningar och pip i bröstet.
-* Allmäntillstånd, orkar äta, dricka, kissat
-
-
-
-***Undersökningar***
-
-* Akut undersökning
-* Andningsfrekvens, bukandning, näsvingspel, 
-* Interkostala indragningar: lågt sittande hinder
-* Jugulära indragningar: högt sittande hinder. 
-* Sibilanta ronki: klassiskt på utandningen
-* Stridor, inspiratoriska eller expiratoriska: andningsljud inandninge, tyder övre luftvägsobtstruktion, konstriktion
-* Titta övre luftvägarna också 
-* Hosta: torr, blöt rossling, skällande
-* Torr hosta: obstruktiva barn har som regel torr hosta.
-* Hosta på nätterna: starkt tecken för obstruktivitet
-* Kroppsållning:, hyperinflaterad
-* Saturation
-* Feber
-* Tecken obstrktivitet: 
-* pipig utandning, 
-* ronki vid auskultation,
-* Trötta patienter
-* Dehydrerade patienter
-* Saturation som sjunker
+  * Akut undersökning
+  * Andningsfrekvens, bukandning, näsvingspel, 
+  * Interkostala indragningar: lågt sittande hinder
+  * Jugulära indragningar: högt sittande hinder. 
+  * Sibilanta ronki: klassiskt på utandningen
+  * Stridor, inspiratoriska eller expiratoriska: andningsljud inandninge, tyder övre luftvägsobtstruktion, konstriktion
+  * Titta övre luftvägarna också 
+  * Hosta: torr, blöt rossling, skällande
+  * Torr hosta: obstruktiva barn har som regel torr hosta.
+  * Hosta på nätterna: starkt tecken för obstruktivitet
+  * Kroppsållning:, hyperinflaterad
+  * Saturation
+  * Feber
+  * Tecken obstrktivitet: 
+  * pipig utandning, 
+  * ronki vid auskultation,
+  * Trötta patienter
+  * Dehydrerade patienter
+  * Saturation som sjunker
 * ***Radiologi:***     
 * ***Röntgen***: föreligger det hyperinflation, fråga efter hyperinflation*
-
-
+* ***Spirometri***
+  * Mild intermittent astma: har över 80% på PEF/FEV1
 
 
 
@@ -479,6 +519,14 @@ Presentation
 
 
 
+<img src="./imgs/ped_sum_rZbcGneAUQ.png" alt="rZbcGneAUQ" style="zoom:50%;" />
+
+
+
+<img src="./imgs/ped_sum_VaEvlMb9IA.png" alt="VaEvlMb9IA" style="zoom:50%;" />
+
+
+
 ## Gastroenterologi
 
 ### Funktionell förstoppning
@@ -494,6 +542,96 @@ Presentation
 * Tillväxthämning, faltering growth: Hypothyroidism, celiaki, och andra orsaker
 
 
+
+### biliär atresi, gallvägsatresi
+
+***Behandling***
+
+* Kasais procedure: hepatoportoenterostomi
+
+
+
+### Bilirubin
+
+***Fysiologi***
+
+* Peak bilirubin: dag 3
+
+
+
+### Choledocal cyst
+
+***Utredning***
+
+* Ultraljudsundersökning
+
+
+
+
+
+### Diarre 
+
+
+
+***Etiologi och patofysiologi***
+
+* Många faktorer kan generera diarre- 
+* **Malabsorption**
+  * inadekvat absorption nutrienter, karakteriseras av diarre, abdominell distenison, försämrad tillväxt
+* ***Virala orsaker***
+  * ***Rotavirus***
+    * **Epidem**: världen, rotavirus vanlgiaste agens orsaka t gastroenterit. RNA-virus ses i **vintermånader** sprids enkelt **fekal-oralt**. incidens minskat signifikant hos spädbarn pga **vaccination första 6 månaderna**
+    * ***Kliniska kännetecken***: inkubation 1-3 dagar. kan vara asymptmatiska, eller kräk, diarre, dehydrering. diarre self-limiting, varar 4-7 dagar. Symptom ÖLI kan förekomma
+    * ***Diagnos***: pos ELISA avföring, ingen LPK i avföring
+    * ***Handläggning:*** understödjande behandling, specifikt vätska, tidig matning för att undvika gut atrofi (tarm atrofi?), hydrasec kan man ge. vissa barn kan få **transient laktosintolerans**
+  * ***Norovirus***
+    * ***EPidem***: RNA VIRUS, effektivt spridd fekal-oralt. kontakt med infekterade fomites (any inanimate object som har kontaminerats med infektiös grej)
+      * utbrott gastroenterit sker i alla åldersgrupper, speciellt avstängda populationer (dagis, skolor, kryssningsskepp)
+    * ***Kliniska kännetecken***: liknar rotavirus. kräkningar är ett prominent symptom. duration är 48-72 timmar, kortare duartion jämfört med andra virala orsaker
+    * ***Diagnos***: bekräftas med ELISA avföring
+    * ***Handläggning***: understödjande behandling, vätskeintag viktigt, elektrolyter
+  * ***Bakteriella orsaker***: se tabellen, men enterotoxigena (ecoli), enteropatogena (epec), shigella sommei, salmonella species, campylobacter
+  * ***Parasit orsaker***
+* ***Hyperton dehydrering***: initialt förlust hypoton vätska via diarre. sedan extravasal vattenförlust med resutlerande hög natriumkonc i ECV
+
+
+
+<img src="./imgs/ped_sum_6U3Z3xDSgV.png" alt="6U3Z3xDSgV" style="zoom:50%;" />
+
+<img src="./imgs/ped_sum_5bQP7L73DC.png" alt="5bQP7L73DC" style="zoom:50%;" />
+
+***Utredning och handläggning***
+
+* **Anamnes**
+  * epidem
+  * symptom: diarrefrekvens, blod, kräk, feber, buksmräöta, vätskeintag, födoitnag, urinmängd
+  * andra sjd: nedsatt immunförsvar, diabetes
+  * tidg anamens diarre (blodtillblandad) o viktnedgång
+  * antibiotika nyligen
+  * förekomst feber, utslag, abdominell smärta, kräkningar, blod i avföring, slem i avföring
+  * recent antibiotika användning (e.g. kan resultera i C. Difficile infection)
+* **Status**
+  * vitalparam, AT, hjärta, lungor, buk, inspek hud.
+  * **IBD** misstanke: anus åtminstone inspektera
+  * ***feber***: undersöka lymfkörtlar, öron, samt mun o svalg MoS
+  * ***bukstatus***: ofta normalt vid gastroenterit. ibland ömt utmed kolon, ffa vä sida. 
+    * vid peritonit o palpabel resistens bör man överväga invagination, toxisk megakolon, appendicit
+* ***Laboratorie***
+  * Blodstatus (CBC complete blood count)
+  * LPK
+  * Ova and parasite evaluation
+  * Specifik och snabbtest för ELISA och PCR är användbar vid rotavirus, norovirus, giardia lamblia, cryptosporidium, C difficile infektion. 
+  * Bakteriell multiplex PCR test 
+  * **Elektrolyter**: klassiskt att icke-anjon gap hyperklorem metabol acisdos, av bikarbonat förlust i avföring
+  * Användning med avföringsodling liten om man inte har vita blodkroppar i avföringen
+
+
+
+***Behandling***
+
+* **Vätskebehandling**: hörnsten för terapi vad gäller diarresjukdomar...
+* ***Antibiotika***: undvik vid blodig diarre, e.g. EHEC, för att **öka risken för HUS**
+* ***Vaccination***: infördes sll 2014, nationellt 2019. 
 
 
 
@@ -532,6 +670,17 @@ Presentation
 
 <img src="./lectures/imgs/ped_9D15xjXjny.png" alt="9D15xjXjny" style="zoom:80%;" />
 
+
+
+### Sepsis
+
+***Behandling***
+
+* VAsopressor
+  * hypovolemi eller hypoxi refraktär efter 3e bolus ringer, ej återställd cirkulation 
+
+
+
 ## Kirurgisk
 
 ### Invagination
@@ -546,10 +695,16 @@ Presentation
   * vätskeförlust
   * senare tarmperforation. peritonit, buk nekros. 
 
+
+
 ***Epidemiologi***
 
 * ***Tarmobstrktion vanligast orsak hos:*** invagination är den cvanligaste orsaken ftill intestinal obstrktion hos spädbarn **efter** neonatal ålder. 
 * ***Peak presentation***: 3mån-2år
+
+
+
+
 
 ***Kliniska kännetecken***
 
@@ -564,17 +719,23 @@ Presentation
   * kan ses efter rektal undersökning
 * **abdominell distension + chock**
 
+
+
 ***Handläggning***
 
 * ***Prompt diagnosis***
 * ***Vätskersättning:*** prompt resuscitation med vätska. 
 * ***Reduktion av invaginationen***: detta måste ske asap
 
+
+
 ***Behandling***
 
 * ***Reduktion***
   * Rectal air insufflation: om inte peritonit förekommer
   * ***Kirurgi***: indicierat om air insufflation eller om peritonit
+
+
 
 ## Kardiologi 
 
@@ -601,10 +762,14 @@ Presentation
 * Defect in the septum that divides the right and left ventricles
 * Most common congenital heart defect
 * Associated with fetal alcohol syndrome
-* Results in left-to-right shunt; size of defect determines extent of shunting and age
-at presentatio
-* Small defects are often asymptomatic; large defects can lead to
-Eisenmenger syndrom* * Treatment involves surgical closure; small defects may close spontaneousl* ,r--....
+* Results in left-to-right shunt; 
+* size of defect determines extent of shunting and age at presentation
+* Small defects are often asymptomatic; 
+* large defects can lead to Eisenmenger syndrom
+*  Treatment involves surgical closure; 
+* small defects may close spontaneously
+
+
 
 #### Atrial septal defect (ASD)
 
@@ -614,6 +779,8 @@ secundum (90% of cases).
 * Results in left-to-right shunt and split S2 on auscultation (increased blood in right
 heart delays closure of pulmonary valve)
 * Paradoxical emboli are an important complicatio
+
+
 
 #### Patent ductus arteriosus (PDA)
 
@@ -626,6 +793,8 @@ Eisenmenger syndrome, resulting in lower extremitets cyanosis
 * ***Behandling:*** indomethacin, which decreases PGE, resulting in PDA closure
 * (PGE maintains patency of the ductus arteriosus).
 
+
+
 #### Tetralogy of fallot
 
 * Characterized by (1) stenosis of the right ventricular outflow tract, (2) right
@@ -635,13 +804,15 @@ shunting and cyanosi Patients learn to squat in response to a cyanotic spell; in
 decreases shunting and allows more blood to reach the lung* ~
 * 'Boot-shaped' heart on x-ray (Fi* 8.10)
 
+
+
 #### Transposition of the great vessels
 
 * Characterized by pulmonary artery arising from the left ventricle and aorta arising
 from the right ventricle
 
 * Associated with maternal diabetes
-* Presents with early cyanosis; pulmonary and systemic circuits do not mi* * Creation of shunt (allowing blood to mix) after birth is required for surYiva* * 
+* Presents with early cyanosis; pulmonary and systemic circuits do not mi Creation of shunt (allowing blood to mix) after birth is required for surYiva* * 
 * PGE can be administered to maintain a PDA until definitive surgical repair is
 performe* * Results in hypertrophy of the right ventricle and atrophy of the left ventricle
 
@@ -675,6 +846,12 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 
 ## Pulmonologi
 
+
+
+### Allmänt
+
+
+
 ### Respiratorisk svikt
 
 ***Etiologi och patofysiologi***
@@ -686,6 +863,66 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 * ventilation-perfusion mismatch
 
 
+
+### Cystisk fibros
+
+***Presentation***
+
+* 13mån pojke
+  * och är inlagd på barnavdelning för en pneumoni diagnosticerad medröntgen. 
+  * Petter har tidigare varit inlagd för en pneumoni vid 10 månaders ålder men efter den har han inte blivit riktigt bra i luftvägarna. 
+  * Han har blivit ordinerad luftrörsvidgande med misstänkt astma men har ändå inte blivit besvärsfri i luftrören. 
+  * Han har fallit i vikt 1,5 SD sedan 8 månaders ålder och han har fallit 1 SD i längd. 
+  * Blodstatus visar lätt anemi och lätt stegrade neutrofiler, CRP 130 mg/l. 
+  * När du lyssnar på hans lungor är det rikliga biljud från båda sidorna med slembiljud, rhonki och rassel. 
+  * Överläkaren frågar dig under ronden vad du misstänker för sjukdom
+
+
+
+***Kliniska kännetecken***
+
+En kort lista över kliniska manifestationer av CF: 
+* ***Luftvägar***:
+    * Bronchiectasi, bronkit, bronkiolit, pneumoni
+    * Atelektas
+    * Hemoptys
+    * Pneuomothorax
+    * Näspolypos
+    * Sinusit
+    * Reactive airway disease
+    * Cor Pulmonale
+    * Respiratory failure
+    * Mukusplug i bronker
+    * Allergisk broncopulmonell aspergillos
+* ***Gastrointestinal***:
+    * Mekonium ileus/plug
+    * Mekonium peritonit
+    * Rektal prolaps
+    * Volvulus
+    * Pankreatit
+    * Biliär cirros
+    * Steatos, Kolelitias, GERD, Vtaminbrist AKED
+    * Malabsorption
+* ***Misc***:
+    * Infertilitet
+    * Försenad pubertet
+    * Clubbing
+    * DM
+
+
+
+***Diagnos***
+
+* ***Svettest*** (Förhöjda klorinvärden i svett = positivt)
+* ***Genotypning***
+* ***Ev. F-elastas***
+
+
+
+***Utredning och anamnes***
+
+* Komplettera anamnes
+  * Hereditet, friska/sjuka syskon
 
 
 
@@ -723,6 +960,216 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
     * Buk Normala tarmljud. Palperas mjuk. Har ett litet navelbråck som lätt kan reponeras. Neurologiskt status Fin tonus, normalställd fontanell.
     * Perifer cirkulation Kapillär återfyllnad två sekunder. 
     * CRP < 5. LPK 27,8, Lymfocyter 18,5 (ref 1,5 – 8) Hb 104. Blodgas med pH 7,26, 7,2 i pCO2.
+
+### RSV 
+
+***Behandling***
+
+* 
+* ***Profylaktisk behandling***
+  * immunsupprimerade eller neuromusk sjd, prematurt födda. 
+  * Monoklonala antikroppar, SYNAGIS
+
+
+
+### Vaccinationer
+
+* 3 månader
+  * ***TEDAP***
+  * 
+
+
+
+### Rubella
+
+***Kliniska kännetecken***
+
+* Blue-berry muffin rash
+
+
+
+### Mässling
+
+***Kliniska kännetecken***
+
+* ***Presenterar med exanthem i form av*** 
+  * Erytgenatls maculopapular utslag
+  * Descenderar from the huvud nacke område and 
+  * spreads to the trunk and limbs**
+* ***Kopliks fläckar i MoS***: vita fläckar i munnen
+
+
+
+***Etiologi och patofysiologi***
+
+* ***Encefalit***: detta är det man är rädd för 
+
+
+
+***Utredning och diagnos***
+
+* Klinisk diagnos
+* IgM- och IgG serologi.
+
+
+
+***Komplikation***
+
+* ***SSPE***: subakut sklerosarnde panencefalit, kan komma efter 7 år, väldigt ovanlig, tappar hjärnfunktion sen dör man. 
+
+
+
+***Behandling***
+
+* ***Vaccin***: 18 månader, för att man vill undvika immunbrist, man är säker att vid 18 månader så är barnet immunfriskt, annars skulle visat tecken på immunbrist tills dess. 
+
+
+
+### Bronchiolitis
+
+
+
+***Presentation***
+
+* 3 månader gammal pojke 
+  * som insjuknade för 4 dagar sedan med en förkylning. Ingen feber. 
+  * Nu vill han inte amma och han kräks i samband med hosta. 
+  * Han har  interkostala indragningar och ökad andningsfrekvens. 
+  * Du auskulterar en hel del slembiljud, saturationen är 89%. 
+  * Han har en storasyster som är förkyld, föräldrarna friska
+  * **svar: bronkiolit bronchiolitis, RSV, koksalt och syrgas**
+
+
+
+***Definition***
+
+* ***Bronchiolitis*** inflammatorisk bronkiolär obstruktion med cellulär debirs och mucus plugg, mest sekundärt t viral nedre luftvägsinfektion
+
+
+
+***Epidemiologi***
+
+* ***bronchiolitis är den vanligaste nedre luftvägsinfektionen under första 2 åren av livet och den vanligaste orsaken till sjukhusinlöäggning under första året***
+* male to female 2:1
+* epidemier occurs fr november t april
+* risk av infektion ökar with day care attendance, multipla syskon, exponering till tobakrök, ingen bröstamning
+* mer signifikant sjukdom occurs in patient 
+  * med kronisk lungsjd, kongenital hjärtsjd, historik av prematuritet,
+  * immunbrist, genetisk abnormalitet, satm spädbarn yngre än 3 månader
+
+
+
+***Etiologi***
+
+* ***Alltid viral***
+* ***RSV*** är den vanligaste orsaken
+* ***mindre vanligt***: human metapneumovirus, parainfluenza, adenovirus, rhinovirus, influenza, coronavirus,
+
+
+
+***Kliniska kännetecken***
+
+* ***Onset is gradual***: med övre luftvägssymptom, e.g. rhinorrhe, nasal congestion, feber, hosta
+* ***Progression***: of respiratory symptom inklusive takypne, fina rassel, ronki, och ökat andningsarbete
+* ***hypoxemi*** kan förekomma
+* **apne**, kan förekomma hos spädbarn och barn med historika av apne of prematuritet
+* **röntgen**: hyperinflation med luftfälla och patchy infiltrat och atelektas
+* ***komplikationer***: kan inkluder apne, respiratorisk insuff, respiratorisk failure, och död. Bakteriell superinfektion. 
+* ***torr, wheezy hosta***
+* ***takypne, takykardi***
+* ***subkostal och interkostala recessioner***
+* ***hyperinflation of the chest***
+* ***fina end-inspiratoriska rassel***
+* ***high-pitched wheezes*** - expiratoriska mer än inspiratoriska
+* ***Auskultation, mkt slembiljud***
+* ***desaturation***
+
+
+
+<img src="./imgs/ped_sum_zQMnflOr2I.png" alt="zQMnflOr2I" style="zoom:50%;" />
+
+
+
+***Diagnos***
+
+* ***kliniska diagnos***
+* ***virologisk testning***
+
+
+
+***Utredning och handläggning***
+
+* ***Anamnes***
+* ***Status***
+  * ***saturation: bör tas på alla barn med suspekt bronkiolit.*** 
+  * inga andra ujtredningar rekommenderas
+  * endast vid suspekt respiratorisk svikt: lungröntgen eller  blodgas.
+* ***sjukhusinläggning indicerat om:***
+  * apne (observerad eller rapporerad)
+  * persisterande syrgassaturation under 90%, när andas vanlig luft
+  * inadekvat oral vätskeintag, (50-75% av volym)
+  * svår respiratorisk distress: grunting, marked chest recession, andningsfrekvens över 70
+* ***På sjukhus***
+  * monitoreras för 
+
+
+
+***Behandling***
+
+* ***Understödjande primärt***: 
+  * **nasal bulb suctioning**, (spädbarn är obligata näsandare, drf viktigt), 
+  * **rehydrering**, 
+  * **syrgas humidifierad** om saturation under 92%. 
+  * **koksalt**
+* ***hand dekontamination (desinfektion)***: för att förhindra spridning av smittan
+* undvik tobakrök exponering
+
+
+
+
+
+### Varicella (Vattkoppor)
+
+***Epidemiologi***
+
+* incidens har sjunkit pga barndomsimmunisering (vaccin?) i många delstater i USA.
+* Hos icke-immunicerade kan man få vattkoppor närsom (ungdom som vuxen)
+
+
+
+***Kliniska kännetecken***
+
+* **intensiva pruritiska erythematösa makula** utveckals akut efter 7-21 dagars inkubation
+* **makula utvecklar centrala vesiklar** inom 1-2 dagar. 
+* **klassiska lesionen** beskrivs som "dew frop on a rose petal" eller en vesikel i röd bakgrund
+* **"crops of lesions"** utvecklas under 2-5 dagar. Hundratals vesiklar förekomma, som kommer att **skorpa över**
+* ***feber vanligt***
+
+
+
+***Komplikationer***
+
+* **sekundär bakteriell infektion**: staffar, GAS, eller andra. kan leda t komplikationer som toxisk chock syndrmo eller nekrotiserande fasciit. 
+* ***Encefalit***: kan vara generaliserad. kontrast till encefalit
+
+
+
+***Behandling***
+
+* **antipyretika**
+* **behandling bakteriell superinfektion**
+* **antihitaminer** för klåda
+* **monitorera och behandling av komplikationer**
+* **varicella pneumoni, encefalit**: intravenös aciklovir
+* **högrisk komplikationer:** oral adminstrering aciklovir, topikalt i ögon och för de med oftalmisk involvering
+
+
+
+<img src="./imgs/ped_sum_VSDw7mUru0.png" alt="VSDw7mUru0" style="zoom:50%;" />
+
+
+
+<img src="./imgs/ped_sum_G9CuAqFwci.png" alt="G9CuAqFwci" style="zoom:50%;" />
 
 
 
@@ -846,7 +1293,7 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 
 
 
-
+Ataxic cerebral palsy is due to [...] damage.
 
 
 
@@ -868,7 +1315,8 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 
 ***Kliniska Kännetecken***
 
-Impaired social interaction:
+***Impaired social interaction***
+
 * does not seek comfort, share pleasure, form close friendships
 * prefers own company, no interest or ability in interacting with peers (play or emotions)
 * gaze avoidance
@@ -877,7 +1325,10 @@ Impaired social interaction:
 * does not appreciate that others have thoughts and feelings
 * lack of appreciation of social cues.
 
-Speech and language disorder:
+
+
+***Speech and language disorder***
+
 * delayed development, may be severe
 * limited use of gestures and facial expression
 * formal pedantic language, monotonous voice
@@ -885,10 +1336,275 @@ Speech and language disorder:
 * echoes questions, repeats instructions, refers to self as ‘you’
 * can have superficially good expressive speech.
 
-Imposition of routines with ritualistic and repetitive behaviour:
+
+
+***Imposition of routines with ritualistic and repetitive behaviour:***
+
 * on self and others, with violent temper tantrums if disrupted
 * unusual stereotypical movements such as hand flapping and tiptoe gait
 * concrete play
 * poverty of imagination in play and generalactivities
 * peculiar interests and repetitive adherence
 * restriction in behaviour repertoire.
+
+
+
+
+
+## Hematologi
+
+
+
+### ALL
+
+***Presentation***
+
+* 4åå flicka
+  * Beata grinar och gnäller. Hon är petig i maten och lite blek om nosen. 
+  * Helst vill hon sitta i dagisfrökens knä och läsa böcker. 
+  * Igår petade hon in en fiamedknuffpjäs i näsan, så det forsade blod. 
+  * Trots att det bara är i början på september har Beata redan ätit 2 kurer med Kåvepenin pga ”oklar inf”. Mamma har läst på vårdguiden om coxitis simplex, eftersom Beata klagar på ont i benen. Nu sitter de i ditt väntrum.
+  * diffar vid denna punkt? ITP, leukemi, (hemolytisk anemi?)
+  * Prover visar: Hb 80, TPK 50, LPK 50, blaster i diff, PKINR 1.3, APTT ua, lätt förhöjt krea, normalt Na, urat förhöjt, normala-lättstegrade transaminaser, CRP 15
+  * arbetsdiagnos nu: leukemi kanske ALL specifikt
+* 
+* Lisa 3 år inkommer till akuten för att hon sedan tre dagar haft små petekier på bålen. Hon har också haft lite lätt feber 38,2 grader utan förkylningssymtom. Ingen blödning från slemhinnor eller tarm. Föräldrarna tycker att hon varit lite tröttare än vanligt och varit gnällig i slutet av dagarna på förskolan sedan cirka 2 veckor. I status kan du notera några få, diskreta petekier på bålen. Hon har fin färg. I buken känner du en resistens till vänster i buken ca 3 cm nedom arcus i mamillarlinjen och du misstänker en mjältförstoring. Hjärta lungor fysikaliskt ua. Du tar ett blodstatus som visar tpk 27 x 10 9 /l, Hb 85 g/l, Lpk 10,8 x 10 9 /l Med bakgrund av symtom, status och lab misstänker du i första hand (2p)
+    * Fel alternativ
+    * a) leukemi och anstaltar om diff, urat samt benmärgsundersökning
+    * b) ITP och kollar diff samt antikroppar mot trombocyter
+    * c) aplastisk anemi och anstaltar om diff
+    * d) aplastisk anemi och anstaltar om diff och benmärgsundersökning
+    * Rätt alternativ: e) leukemi och anstaltar om diff, urat, benmärgsundersökning med kromosomundersökning
+
+
+
+***Etiologi och patofysiologi***
+
+* Blodmaligniteter hos barn: B-ALL vanligast, men T-ALL och AML förekommer liksom MDS
+
+
+
+### Sickle-sjukdom
+
+
+
+***Etiologi och patofysiologi***
+
+***Kliniska kännetcken***
+
+* Avaskulär nekros: caput femoris
+
+### Thalassemia
+
+
+
+***Kliniska kännteckensopressors indicated in paediatric sepsis resus?***
+
+* ***Extramedullär hematopoes***: skallen blir stort. 
+* ***pallor***
+
+
+
+***Behandling***
+
+* Minor: ingen behandling utan symptom
+* Major: transfusion (oftast), benmärgstransplantation (supposedly inte funkar)
+
+
+
+### SCID
+
+***Presentation***
+
+* Alfred 6 mån. 
+  * Han föddes i fullgången tid med FV 3700g och FL 50cm
+  * som du träffar som AT-läkare på VC. Alfred har inte växt så bra enligt BVC-kurvan. Han hostar och flåsar. Dessutom har han alltid varit lös i magen, trots att det provats Sempers Magdroppar. Du tycker Alfred ser sjuk ut, hör takykardi och lätta ronki. I ljumskarna ser du ett ilsket rött utslag. 
+  * Proverna visar CRP 11 och LPK 3,0. Hur tolkar du detta?
+
+
+
+***Etiologi och patofysiologi***
+
+* ***Brist på***: lymocyter, T, NK, B
+* heterogen sjukdomngsgrupp, 15-tal kända fel
+* cellernas utv och funktion störd
+* eller thymys inte gungerar normalt
+* ingen/viss T-lymfocytfunktion med/utan B-lymfocyt och Nk-cellsfunktion
+* olika lymfocyter, under $2\times 10^9/L$
+
+
+
+***Kliniska kännetecken***
+
+* Debut: första levnadsmånaderna
+* ofta vaga symptom initialt
+* kronisk hosta, kronisk obstruktivitet, andningsbesvär: p jiroveci och virus
+* diarre, malabsorption
+* recidiverande kandidainfektioner
+* dålig tillväxt
+* hudutslag: mammalymfocyter eller omenn syndrom
+
+
+
+***Behandling***
+
+* Antimikrobiell behandling
+* rekombinant adenosin deaminas
+* benmärgstransplantation
+
+
+
+
+
+### ITP
+
+***Presentation***
+
+* Stefania är 14 år 
+  * och en ganska trulig tonåring. Hennes mamma har nu tvingat iväg henne till VC där du vikar före AT. Stefania har fått ”konstiga prickar” på underbenen och magen sen några dagar tillbaka. Hon är annars fullt frisk, förutom en rejäl förkylning för några veckor sedan.
+* s421 i Lassauer har ett fall.
+  * Sian, aged 5 years, developed bruising and a skin rash over 24 hours. She had had an upper respiratory tract infection the previous week. On examination she appeared well but had a purpuric skin rash with some bruises on the trunk and legs (Fig. 23.17). There were three blood blisters on her tongue and buccal mucosa, but no fundal haemorrhages, lymphadenopathy, or hepatosplenomegaly. Urine was normal on dipsticks testing. A full blood count showed Hb 115 g/L with normal indices, WBC and differential normal, platelet count 17 × 10 9 /L. The platelets on the blood film were large; the film was otherwise normal. A diagnosis of ITP was made and she was discharged home. Her parents were counselled and given emergency contact names and telephone numbers. They were also given litera- ture on the condition and advised that she should avoid contact sports but should continue to attend school. Over the next 2 weeks she continued to develop bruising and purpura but was asymptomatic. By the third week, she had no new bruises, and her platelet count was 25 × 10 9 /L; the blood count and film showed no new abnormalities. The following week, the platelet count was 74 × 10 9 /L and a week later it was 200 × 10 9 /L. She was discharged from follow-up.
+
+
+
+***Allmänt***
+
+* aka immunologisk trombocytopeni (tidigare idiopatisk trombocytopeni), aka immunmedierad trombocytopen purpura
+
+
+
+***Etiologi och patofysiologi***
+
+* Vanligaste acquired trombocyt abnormaliteten i ungdom
+* Etiologiskt: ITP kan vara viral, läkemedelsinducerad, eller idiopatisk
+* patofysiologiskt: 
+  * ITP följer virala infektion, 
+  * tros att virus trigger antikroppar som korsreagerar med trombicyter
+  * orsakar destruktion
+  * elimination via mjälten
+* Blödnignsbenägenhet: detta varierar mkt fr person t person. Det kan finnas patienter med TPK under 5 som man inte behöver oroa sig för alltför mkt för att den kliniskt mår bra. läkare menade att om man har 
+
+
+
+***Kliniska kännetecken***
+
+* **viral infek**: 1-4 veckor efter viral infektion
+* **börjar abrupt:** 
+  * cutaneous blödning (e.g. petekier, blåmärken)
+  * mukös membran blödnin (e.g. epistaxis, tandköttsblödning)
+  * intern blödning i hjärnan (under 1%), njurar, gastrointestinalt, kan ske men ovanligt
+* **TPK under 30**: behover inte ha symptom
+* **blödningar**: förekommer hud, minhåla, näsa, allvarlig inre blödning
+* **mjältförstoring**?
+* **Sammantaget**: normal blodbild förutom lågt PTK, ingen mjältförstoring eller annan bakomliggande sjd
+
+
+
+***Diagnos***
+
+* Primär ITP: TPK under $100 \times 10^9/L$, utan känd etiologi
+* Sekundär ITP: 20% av fallen, tirgger immuinförsvaret, e.g. SLE, HCV, HIV, vaccinationer, imminbrittillstånd (e.g. variabel immunbrist)
+
+
+
+***Differentialdiagnoser***
+
+* CNS-infektioner
+* Sepsis...
+* leukemi
+* Henoch-schönleins purpura
+
+
+
+***Utredning och handläggning***
+
+* ***blodstatus + diff***
+  * Labb visar trombocytopeni
+* ***kan blod-smear (blodutstryk):*** visar "large sticky platelets"
+* ***IPF:*** immature platelet fraction; kan användas för att diffa huruvida det är ett benmärgsproblem, i.e. nybildningsproblem, eller om det handlar om perifer destruering av trombocyterna. 
+* ***blod i citratrör***: 
+* ***Status***: blödningssymptom, palpation lever mjälte lymf, infektionstecken, dysmorfa drag (fanconi, TAR), andra symptom (e.g. njurdysfunk, hörselned vid MYH9 relaterade sjd, exem el immunbrist vid WAS)
+* "In children with immune thrombocytopenic purpura, in spite of impressive cutaneous manifestations and extremely low platelet count, the outlook is good and most  will remit quickly without any intervention"
+
+
+
+***Behandling***
+
+* ***Steroider***: prednisolon (vuxen 1-2mg/kg x 1 peroralt), vid mistanke ITP
+* ***inj gammaglobuliner (aka IvIG)***: många b lödningar, använder injektion gammaglobuliner för ***snabb effekt***. 
+  * e.g. 1.5åå + näsblödningar + benäget att slå sig = behandling med gammaglobuliner.'
+  * e.g. 14ååpatient + som inte jätte aktiv = prednisolonkur istället
+* // trombocytkoncentrat: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
+* ***Behandlingstrappa:*** Föreläsare nämnde behandlingstrappa som missades?
+
+
+
+## Neurologi
+
+### Ataxia telangectesia
+
+***Etiologi och patofysiologi***
+
+* IgA och IgM brist. 
+
+
+
+## Klinisk Genetik
+
+### Downs syndrom
+
+***Kliniska kännetecekn***
+
+* Duodenal atresi: associeras med klinisk genetik,
+
+
+
+
+
+### Pataus syndrom
+
+***Etiologi och patofysiologi***
+
+* Trisomi 13
+
+
+
+***Kliniska kännetecken***
+
+* Holoprosencfali
+
+
+
+## Metabolism
+
+### Homocysteinuri
+
+***Kliniska kännetecekn***
+
+* Koagulation
+
+
+
+
+
+## MISC
+
+### Scrotal swelling
+
+***Differentialdiagnoser***
+
+* Flera diffar till skrotal uppsvällning
+* ljumskbråck
+* henoch-schönleins purpura
+* hydrocele
+* tumör
+
+
+
+## Ortopedi
+
+### Höftdysplasi
+
+***Kliniska kännetecken***
+
+* Galeazzis tecken: knäet lägre på pvårkad sida, när höft flekterade och patient supin

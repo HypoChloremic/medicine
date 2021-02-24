@@ -1549,6 +1549,17 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
+
+
+## Neonatologi
+
+### Allmänt
+
+#### CTG - kardiotorakografi
+
+* aka cardiothoracography
+* 
+
 ## Klinisk Genetik
 
 ### Downs syndrom

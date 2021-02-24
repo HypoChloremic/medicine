@@ -759,6 +759,17 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 #### Ventricular septal defect (VSD)
 
+
+
+***Presentation***
+
+* A 1-month-old female infant is seen in your office for a routine health maintenance evaluation. On examination, you hear a grade 4 holosystolic murmur at the left sternal border. Femoral pulses and oxygen saturation in room air are normal. The infant is otherwise well and growing normally. Which of the following statements regarding this patient’s condition is correct?
+* You see a 7-week-old male infant with cough and poor feeding. Examination reveals a respiratory rate of 72 breaths/minute and a heart rate of 170 beats/minute. His weight is 7 pounds 6 oz, just 2 oz more than his birth weight. You hear diffuse rales throughout the lung fields and a systolic murmur on auscultation. The liver is 4 cm below the right costal margin. Which of the following conditions is the most likely cause of his signs and symptoms?
+
+
+
+***Etiologi och patofysiologi***
+
 * Defect in the septum that divides the right and left ventricles
 * Most common congenital heart defect
 * Associated with fetal alcohol syndrome
@@ -768,6 +779,19 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * large defects can lead to Eisenmenger syndrom
 *  Treatment involves surgical closure; 
 * small defects may close spontaneously
+
+
+
+
+
+***Kliniska kännetecekn***
+
+* This patient’s murmur is consistent with a small ventricular septal defect (VSD). With a small VSD, a patient is likely to remain asymptomatic with normal growth and development. Typically, the smaller the VSD, the louder the murmur. Small muscular or membranous VSDs may close on their own without intervention. Small VSDs do not generally result in congestive heart failure or in Eisenmenger syndrome. A patent ductus arteriosus would more commonly present with a machinery-like continuous murmur at the upper left sternal border. Balloon valvuloplasty is not indicated for a VSD.
+* This patient’s signs and symptoms are consistent with congestive heart failure (CHF). Forms of congenital heart disease that increase pulmonary blood flow, obstruct outflow, or overload portions of the heart through valvular regurgitation are among the many causes of CHF. Of the choices listed, only a large ventricular septal defect, which has a large left-to-right shunt with increased pulmonary blood blow, would cause CHF in a child of this age. Atrial septal defects, small patent ductus arteriosus defects, and mild to moderate pulmonary stenosis do not typically cause CHF. Critical or severe aortic stenosis may cause CHF, but this usually occurs within 24 hours of birth.
+
+
+
+
 
 
 
@@ -808,15 +832,41 @@ decreases shunting and allows more blood to reach the lung* ~
 
 #### Transposition of the great vessels
 
+***Presentation***
+
+* A 20-month-old boy with tetralogy of Fallot is admitted for evaluation of cyanosis that is increasing in frequency. As you conclude your history and physical examination, you witness an episode of cyanosis when the patient’s brother makes him cry. As the crying increases, the patient becomes more and more cyanotic. On examination, his cardiac murmur is now much softer than before he began crying. What is the next most appropriate step in management?
+
+
+
+
+
 * Characterized by pulmonary artery arising from the left ventricle and aorta arising
 from the right ventricle
-
 * Associated with maternal diabetes
 * Presents with early cyanosis; pulmonary and systemic circuits do not mi Creation of shunt (allowing blood to mix) after birth is required for surYiva* * 
 * PGE can be administered to maintain a PDA until definitive surgical repair is
 performe* * Results in hypertrophy of the right ventricle and atrophy of the left ventricle
 
+
+
+***Behandling***
+
+* ***Knee-chest position***
+  * Tetralogy of Fallot (hypercyanotic or “tet”) spells are defined as paroxysmal episodes of hyperpnea, irritability, and prolonged crying that result in increasing cyanosis and decreasing intensity of the heart murmur. This condition is often triggered by crying. Initial management is to increase systemic vascular resistance by placing the patient in a knee-chest position. Other therapeutic modalities include the administration of morphine sulfate, sodium bicarbonate, and intravenous fluids and the use of oxygen. Mechanical ventilation in combination with general anesthesia may be effective but would only be used when other management options fail to reverse the cyanosis. Dopamine and epinephrine are contraindicated because they may worsen the spell. A cardiology consultation may be useful, but the acuity of the patient’s clinical presentation requires immediate intervention
+
+
+
+
+
 #### Truncus arteriosus
+
+***Presentation***
+
+* You are called to the newborn nursery to evaluate a 2-hour-old newborn who has suddenly become cyanotic. The oxygen saturation on room air is 69%, and the patient is tachycardic and tachypneic. Oxygen is administered without improvement in the patient’s oxygen saturation. On examination, you hear a loud S 2 and no murmur. A chest radiograph shows increased pulmonary vascular markings, a narrow mediastinum, and a small heart. Which of the following would be the next step in management?
+
+
+
+
 
 * ***Diffa mot ductus arteriosus***
 * Characterized by a single large vessel arising from both ventricles
@@ -825,12 +875,56 @@ performe* * Results in hypertrophy of the right ventricle and atrophy of the lef
 oxygenated blood from left ventricle before pulmonary a nd aortic circulations
 separat
 
-#### TRICUSPID ATRESIA
+
+
+***Behandling***
+
+* Akut
+  * Infusion prostaglandin E (PGE): 
+    * detta för att vid transposition of the great vessels är de stora kärlen pulmonalis och aorta, i parallel och inte i serie, vilket innebär att d et är ductus arteriosus som måste hållas öppet för att shunta blod
+    * för att hålla den öppen ger vid dräför prostaglandin E (PGE)
+
+
+
+
+
+#### Tricuspid atresi
+
+***Presentation***
+
+* You are called to the nursery to evaluate a male newborn with cyanosis. On auscultation, you hear a single S 2 but no murmur. Pulse oximetry shows an oxygen saturation of 72% in room air. An electrocardiogram reveals left axis deviation and left ventricular hypertrophy. What is his likely diagnosis?
+
+
+
+
 
 * Tricuspid valve orifice fails to develop; right ventricle is hypoplasti* * Often associated with ASD, resulting in a right-to-left shunt; presents with early
 cyanosi
 
+
+
+***Etiologi och patofysiologi***
+
+* Pathophysiology. Whether a VSD is also present plays a significant role in determining
+  the clinical presentation.
+  a. If no VSD is present and the ventricular septum is intact, pulmonary atresia is also
+  present. For blood to flow to the lungs in this situation, a PDA must be present. As
+  the PDA constricts after birth, visible cyanosis develops.
+  b. If a VSD is present, blood flow from the left ventricle through the VSD and into the
+  pulmonary artery (left-to-right shunt) may be adequate, facilitating acceptable
+  systemic oxygen saturations (Figure 8-8).
+
+
+
 #### Coarction of the aorta
+
+***Presentation***
+
+* A 10-year-old girl is seen for a routine health maintenance evaluation. Five years ago, she underwent surgical repair of coarctation of the aorta. On examination, the blood pressure in her right arm is 173/81 mm Hg, and her oxygen saturation is 97% in room air. Auscultation reveals a systolic ejection murmur audible throughout the precordium. The patient is otherwise asymptomatic. Which of the following would be the most appropriate next step in management?
+
+
+
+
 
 * Narrowing of the aorta; classically divided into infantile and adult forms
 * Infantile form is associated with a PDA; 
@@ -843,6 +937,48 @@ pulses in the lower extremities; classically discovered in adulthood
 * Collateral circulation develops across the intercostal arteries; engorged arteries
 cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 * Associated with bicuspid aortic valve
+
+
+
+
+
+***Handläggning***
+
+* Auskultation alla extremiteter
+  * Restenosis is a known complication from repair of coarctation of the aorta, and these clinical features are consistent with restenosis. Patients with coarctation of the aorta classically present with hypertension in the right arm, and commonly in the left arm, and reduced blood pressures in the lower extremities. Therefore, the most appropriate initial step in this patient would be to obtain blood pressures in all four extremities. Balloon angioplasty with or without endovascular stenting is the treatment of choice for restenosis, rather than surgical repair, after the patient undergoes a complete evaluation. Confirmation of a bicuspid aortic valve is important because it may accompany coarctation in up to half of patients; however, it is not the most appropriate initial step in this patient’s management. The oxygen saturation is normal in room air and therefore does not require reassessment in 100% oxygen. Given the significantly elevated blood pressure, it is not appropriate to wait 6 months for reevaluation.
+
+
+
+
+
+#### Perikardit
+
+
+
+***Presentation***
+
+* A 7-year-old boy presents with a 3-day history of fever (temperature to 39.7°C [103.5°F]), shortness of breath, and weakness. He also complains of chest pain, which is most intense when he lies down and improves when he sits upright. His past medical history is significant for closure of a ventricular septal defect 2 weeks ago. Which of the following findings is consistent with the most likely diagnosis?
+
+
+
+***Kliniska kännetecken***
+
+* This patient’s clinical presentation is most consistent with pericarditis. The likely cause of his pericarditis is postpericardiotomy syndrome, given the recent closure of his ventricular septal defect before the onset of his symptoms. Postpericardiotomy syndrome is believed to be an autoimmune response to a concomitant viral infection and is associated with opening of the pericardium during cardiac surgery. Pulsus paradoxus, or a greater-than-10 mm Hg drop in systolic blood pressure on deep inspiration, is found in patients with pericarditis. Splinter hemorrhages are noted in patients with endocarditis, which is also associated with fever. Supraventricular tachycardia, which would present as a rapid heart rate with absent P waves on electrocardiogram, may cause chest pain, but the pain would not change with position and fever would be absent. Prolonged QT syndrome is most often associated with syncope and sudden cardiac arrest. Costochondritis is a common cause of chest pain, but fever is not associated with this diagnosis.
+
+
+
+
+
+
+
+#### Misc
+
+***Antibiotikaprofylax förhindra endokardit***
+
+* A 4-year-old boy is in the office for a routine health maintenance evaluation. His examination is normal except for multiple deep dental cavities. You plan on referring him for dental evaluation and possible dental extraction. His mother reminds you that he has a “heart condition.” Which of the following cardiac conditions requires antibiotic prophylaxis against endocarditis?
+  * Before any invasive procedures that may result in bacteremia, prophylaxis against bacterial endocarditis is required for any patient who had structural heart disease repaired within the past 6 months. Patients with uncomplicated Kawasaki disease and cardiac dysrhythmias, including Wolff–Parkinson–White syndrome, or with acyanotic structural heart defects, such as patent ductus arteriosus, do not require antibiotic prophylaxi
+
+
 
 ## Pulmonologi
 

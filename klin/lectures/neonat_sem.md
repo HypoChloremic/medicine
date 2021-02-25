@@ -1,3 +1,29 @@
+# Neonat föreläsning
+
+***Neonatal perioden***
+
+* Första 28 dagarna
+* Problem under denna period
+  * att födas
+  * prematuritet
+  * andnignsstörningar
+  * gulsto
+  * infektioner
+  * asfyxi
+
+
+
+***Variansen patienter***
+
+* Stor variation storlek på patienter: 
+  * 500g. 
+  * makrosom: att man är jättestor; finns en stor risk när man är ett stort arn också. 
+* 115-200k barn föds om året i Sverige. 
+
+
+
+
+
 # Neonat seminarium
 
 ## Fall 1
@@ -13,6 +39,8 @@
 ***Vad gör du?***
 
 * Påbörjar neo-HLR?
+* Välduigt viktigt att förstå att luftvägarna kan kollapsa väldigt enkelt. e.g. så fort hakan nere kan det vara kollapsad luftväg,
+* pga väldigt mjuka luftvägar att den kan kollapsa
 
 #### ***Hur ser algoritmen för neo-HLR ut?***
 
@@ -44,29 +72,46 @@
 * Fortsätt neo-HLR tills att man får adekvat hjärtfrekvens enl HLR algoritmen
 * Med HLR algoritmen kunna intubera eller ej. Möjligt att man redan intuberat. 
 * Blodgasen antyder att vi ventilerar för lite, varpå möjlig indikation för intubation eller att säkerställa effektiv ventilation, i enlighet med neo-HLR algoritmen. 
+* enl läk
+  * bestämma sig för kontexten
+  * visar sig att barnet är super surt
+  * då har vi nu, vi vet inte hur länge vi ventilerade, hur länge innan barnet andas,
+  * men vi vet att det är så surt att det ***utgör ett A-kriterium***
 
 
 
 #### Vårdnivå
 
-* NEO-IVA
+* Vi skickar barnet t NEO-IVA med CPAP
 
 
 
 #### Vilken diagnos misstänks
 
-* intrauterin asfyxi
+* ***enl läk: asfyxi***
 
 
 
 #### Vid 4 timmars ålder ses liksidiga ryckningar i armar och ben. Barnet blir samtidigt cyanotiskt.
+
+***INdikationer för kylbehandling***
+
+* A-kriterium krävs
+  * APGAR <= 5 vid 10 min
+  * pgåående HLR o maskventilation vid 10 min ålder
+  * pH under 7 första 60min
+  * BE <= -16 försat 60min
+
+
+
+
 
 #### Vad har hänt
 
 * ***Asfyxiinducerat epileptiskt anfall.***
   * De flesta neonatala anfall är reaktiva, det vill säga de är utlösta av en störning såsom till exempel hypoxi, ischemi, »asfyxi«, hypoglykemi och infektioner. Av denna anledning är neonatala anfall vanligast förekommande under de första levnadsdygnen. Mekanismerna för neonatala anfall varierar beroende på de bakomliggande orsakerna. Bristande substrattillförsel vid hypoxi – ischemi, hypoglykemi och metabola sjukdomar leder till att energikrävande cellulära processer inte kan fortsätta och att cellmembranens integritet inte kan upprätthållas. Synaptiskt återupptag av till exempel excitatoriska aminosyror som glutamat och aspartat försämras, vilket kan bidra till fortsatt anfallsaktivitet och ge neurotoxiska effekter. Pyridoxinberoende anfall, som orsakas av störningar i GABA-metabolismen, är sannolikt mer vanligt förekommande än vad som diagnostiseras [13]. Biotinidasbrist medför ofta epileptiska anfall under det första levnadsåret och ibland även under neonatalperioden.
   * Neonatala stroke, företrädesvis i arteria cerebri media, är vanligare än vad man tidigare trott och förekommer hos cirka 1 av 3 000 – 4 000 födda. De resulterar ofta i fokala anfall hos ett i övrigt välmående barn. Genesen varierar och inkluderar bland annat defekter i koagulationssystemet, placentära embolier, infektioner och svår kärlspasm på basen av maternellt missbruk [14]. Ett fåtal neonatala anfall orsakas av missbildningar eller specifika epileptiska syndrom, till exempel benigna familjära neonatala anfall, som man nu vet är orsakade av en mutation på kromosom 20 [15]. De så kallade femtedagskramperna, som tidigare ansågs som relativt vanliga och som troligen var orsakade av hypokalcemi, är nuförtiden sällsynta. Omkring 65 – 75 procent av prematura barn som utvecklar periventrikulär blödning eller ischemi utvecklar epileptisk anfallsaktivitet, som ofta är subklinisk eller endast har subtila motoriska manifestationer [16, 17]
-* ***Hypoxisk ischemisk encefalopati (HIE):*** 
+* ***enl läk: Hypoxisk ischemisk encefalopati (HIE):*** 
   * Kramperna är ett tecken till måttligt-svår HIE
   * Förändrad vakenhetsgrad, förändrad tonus och påverkade reflexer
 
@@ -80,6 +125,8 @@
 
 #### Vad blir nästa steg
 
+* A och B-kriterier behövs för kylbehandling indikation
+  * Enbart a-krtiereir räcker ej för att 
 * ***Kylbehandling för att B-kriterie uppfyllt.*** 
   * Ska påbörjas efter 60 min, före 6 timmar
   * ***Ska inte påbörjas innan uppfyllda B-kriterier***
@@ -90,6 +137,24 @@
   * EEG övervakning
   * Ökning med 0,5°C/timme
   * MR dag 5-10
+* ***Kylbehandling***
+  * man måste ge morfin o midazolam för att bli så nedkyuld är ett enomrt stresspåslag
+  * andningen kan bli svårare också vid kylbehandling
+  * det är en jättegrej när man kylbehandlas
+  * Det är ingenting som man gör "just-incase"
+  * följer man kriterier ör NNT 7
+  * det ska pågå o 6 timmar för att få effekt av behandlingen
+  * temp 33-34
+  * kylning 72 timmar
+  * ultraljud hjärnan för att utesluta hjärnblödnign eller missbildning
+  * lägger A-EEG, amplitudkopplad EEG, bedside, 
+    * då kan man följa kramper,
+    * och hur illa vi tkr hjärnan är påverkad av asfyxin
+    * händer att man vill avsluta behandling o låta barnet dö
+    * man vill se om kurvan är för usel
+  * om man ska värma barnet: 0.5 grader per timme
+    * inte alltför snabbt
+  * efter kylningen gör man MR-hjärna för prognostiskt värde. 
 * ***enl medinsikt***
   * Grad I HIE
     * Pulsoximeter

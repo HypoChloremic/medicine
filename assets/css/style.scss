@@ -7,3 +7,98 @@
 body{
     background: #3e3e3e !important;
 } 
+
+
+h1,
+h2,
+h3{
+    margin-left: -30px !important;
+    /* text-indent: -30px;*/
+}
+
+h4,
+h5,
+h6{
+    margin-left: -20px !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Open Sans", "sans-serif","Lucida Grande", "Corbel", sans-serif;
+    font-weight: normal;
+    clear: both;
+    -ms-word-wrap: break-word;
+    word-wrap: break-word;
+    margin: 0;
+    padding: 0;
+    color: #DEDEDE;
+    margin-bottom: 0.6rem !important;
+
+}
+
+h1 {
+    font-size: 2.5rem;
+    /* 36px */
+    line-height: 2.75rem;
+    /* 40px */
+    margin-bottom: 1.5rem;
+    /* 24px */
+    letter-spacing: -1.5px;
+}
+
+h2 {
+    font-size: 1.63rem;
+    /* 24px */
+    line-height: 1.875rem;
+    /* 30px */
+    margin-bottom: 1.5rem;
+    /* 24px */
+    letter-spacing: -1px;
+    font-weight: bold;
+    border-top: 1px solid;
+}
+
+h3 {
+    font-size: 1.2rem;
+    /* 18px */
+    line-height: 1.5rem;
+    /* 24px */
+    margin-bottom: 1.5rem;
+    margin-top: 1.2rem !important;
+    /* 24px */
+    letter-spacing: -1px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-underline-position: under;
+}
+
+h4 {
+    font-size: 1rem;
+    /* 16px */
+    line-height: 1.375rem;
+    /* 22px */
+    margin-bottom: 1.5rem;
+    /* 24px */
+    color: white;
+}
+
+h5 {
+    font-size: 0.9rem;
+    /* 16px */
+    line-height: 1.25rem;
+    /* 22px */
+    margin-bottom: 1.5rem;
+}
+
+h6 {
+    font-size: 0.8rem;
+    /* 16px */
+    line-height: 1rem;
+    /* 16px */
+    margin-bottom: 0.75rem;
+    color: white;
+}

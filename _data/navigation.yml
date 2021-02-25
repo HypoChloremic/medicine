@@ -7,8 +7,8 @@
   # url: /klinik/
   sublinks:
     - title: Pediatrik Sammanställning
-      url: /klinik/ped.html
+      url: /klin/ped.html
     - title: Ped FL
-      url: /klinik/lectures/ped_fl.html
+      url: /klin/lectures/ped_fl.html
     - title: Ped sem
-      url: /klinik/lectures/ped_sem.html
+      url: /klin/lectures/ped_sem.html

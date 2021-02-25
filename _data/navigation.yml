@@ -3,12 +3,12 @@
 - title: Home
   url: /
 
-- title: Group of Things
-  url: /group/
+- title: Klinik
+  # url: /klinik/
   sublinks:
-    - title: Sub-item 1
-      url: /group/si1
-    - title: Sub-item 2
-      url: /group/si2
-    - title: Sub-item 3
-      url: /group/si3
+    - title: Pediatrik Sammanställning
+      url: /klinik/ped.html
+    - title: Ped FL
+      url: /klinik/lectures/ped_fl.html
+    - title: Ped sem
+      url: /klinik/lectures/ped_sem.html

@@ -370,7 +370,199 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 * ***quadrupled weight***: efter 2.5 år
 
-  
+
+
+### Tillväxtkurvor
+
+
+
+***Hormonellt***
+
+<img src="./imgs/ped_sam_till_0Nbo7ybf32.png" alt="0Nbo7ybf32" style="zoom:50%;" />
+
+
+
+* notera att tillväxthormon menar man IGF1 när man screenar (det medräknar GH och IGF); för att GH varierar så mkt över tid mäter man IGF1 istället. 
+* Har man normalt IGF1 har man ingen GH-brist
+* GH och IGF1 är sammankopplade ska man notera. man använder inte GH för att prvota. 
+* GH är by itself drivande för att generera tillväxten, men finns assistans. 
+
+
+
+***Viktmässigt***
+
+* Tredubbling vikt första året. 
+
+
+
+***Kurva 0-2åå***
+
+* Fortsättning intrauterin tillväxt
+
+
+
+***Kurva 2-7åå***
+
+* barnet växer ca 5-6cm/år
+* tillväxten ffa beroende på GH: därför faller man ut vad gäller GH brist i denna fast, ibland tidigare
+* man pratar om slanka barndomsfasen
+* minskad fettmassa, BMI sjunker
+* Det är många barn som hoppar över den slanka barndomsfasen tyvärr, dessa ska man identifiera så tidigt man kan.
+* // notera ingen överburen korrigerar man
+
+
+
+***Speciella kurvor***
+
+* Prematurkurvor: ålderskorrigering upp t 2åå
+  * denna korrigerin kommer att mötas efter en liten period
+  * kan ske en längd och viktcatchup. 
+* Downs syndrom barnen: är kortare
+* Turners syndrom: har en Turner kurvva
+* skelettdysplasier: man kan kolla på deras sitthöjd, då de har korta ben etc.....
+
+
+
+***Tillväxt barn jfr med normalkurvan (SD)***
+
+* Tillväxt barn jfr med SD är när man jämför med normalen
+* Notera att normalen baseras på studier fr 70-talets Sverige. Har man ej korrigerat för d då?
+
+
+
+***Target height***
+
+* flicka: $\frac{M_{längd} + P_{längd}}{2} - 6.5cm$
+* pojke: $\frac{M_{längd} + P_{längd}}{2} + 6.5cm$
+* ***98% växer inom $+-1.5SD$ fr TH (target height)***
+* Längden anges i SD jrf med normalkurvan och TH. 
+* Har man väldigt olika långa i SD föräldrars längder skiljer sig kommer att få barn som varierar mycket i längd-
+
+
+
+***Systematisk tolkning tillväxtkurvor***
+
+* Grundförutsättning
+  * fullständigt kurva med korrekta mätuppgifter
+* ***Tillväxthastighet:*** normal för ålder? kanalföljare
+* ***Relation mellan längdo ch vikt*** vad faller först
+
+
+
+
+
+### Hypothyreos
+
+* Kurvan ser enligt kalle okej ut, att det är inte helt manglat kurva, bara en avplaning som man ska beakta.
+
+
+
+
+
+### Pubertas praecox - För tidig pubertet
+
+* Man gillar det inte
+* man ska utreda detta, att man tar hormonprover för att se. 
+
+
+
+***Presentation***
+
+* isolerad svettlukt eller behåring... klan vara binjurebarkstumör
+  * MEN då ska man inte ha tillväxt eller könskognad, detta sker ej med binjurebarksmognad. 
+
+
+
+***Allmänt***
+
+* Notera att adenarche att binjurebarkspubertet kan ske tidigt, och det kan vara okej
+  * man gör ej MR hjärna för att man luktar svett
+  * utan man ska titta på de andra tecken på pubertet som man ska vara varsam för och uppmärksam. 
+
+
+
+***Definition:***
+
+* Flickor: Brösttillväxt < 8 åå
+* Pojkar: Testikelvolym > 4 ml < 9 åå
+
+
+
+***Orsak:***
+
+* Hos pojkar ofta patologisk orsak -> utredning obligat
+* Hos flickor oftast idiopatiskt
+* Centralt utlöst: CNS-tumör, idiopatisk
+* Perifert utlöst: Binjurebarkstumör
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Handläggning och Utredning***
+
+* Gonadotroppiner, bla LH, FSH, CENTRAL
+* könshormoner: östrogen, testosteron, PERIFER
+* skelettålder
+* MR hjärna
+* Gällande om man luktar svett
+  * att isolerat lukta svett, sen att det går bort etc, detta är okej
+  * notera 
+
+
+
+***Behandling***
+
+* GnRH-analoger (block av gonadotropin-utsöndring)
+
+
+
+### Förstorad huvudomfång
+
+Utredning
+
+* Ultraljud: förutsätter att fontanellerna är kvar, man skickar de till ultraljud för utredning. 
+  * bakre skallgropsförändringar ser ma nitne med ultraljud, som man ska komma ihåg. 
+* letar ökat tryck, tumör
+* MR: tveksamheter med ultraljud
+* 
+
+### Pubertas tarda
+
+***Etiologi och patofysiologi***
+
+* Multifaktoriellt, samt många olika orsaker
+* Heriditet för sen pubertet: dominerar störst, se till att fråga föräldrarna om de hade för sen pubertet
+* ***Anorexia***
+* ***Kronisk sjukdom***
+* ***Hård träning***: både män och kvinnor. 
+* allvarligare diagnoser som ska beaktas
+  * ***CNS-tumör*** (ex kraniofaryngiom): detta att man får utreda.
+    * hypofystumör
+  * ***Turners syndrom***
+
+
+
+***Utrednin***
+
+* Gonadotropiner: bla FSH, LH;
+  * dessa bör dra iväg först. 
+* Könshormoner: östrogen och testosteron
+  * har man ett testo som börjar dra iväg ibland, då vet man att pubertet är snart igång
+
+
+
+***Handläggning och utredning***
+
+
+
+***Behandling***
+
+* testostoron im inj
+* östrogen plåster
+  * många tjejer som avstår. 
 
 ## Allergi
 

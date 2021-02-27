@@ -305,6 +305,8 @@
 * WAGR: 11p13
 * Williams: 7q11.23
 
+
+
 #### Prader-willis syndrom
 
 ***Etiologi och Patofysiologi***
@@ -312,9 +314,11 @@
 * ***Mikrodeletion lång arm kromosom 15:*** 70% av pradi-willis syndrom fallen orskas av denna deletion
 * Väldigt liten deletion
 
+
+
 ***Kliniska kännetecken***
 
-* kraftigövervikt
+* kraftig övervikt
 * hypogonadism
 * små händer och fötter
 * ***Hypotoni***: initlat efter födsel
@@ -322,6 +326,8 @@
 * fetma: för att inte hejda hunger
 * variernnde grad förståndshandikapp
 * kortväxt
+
+
 
 ***Utredning och diagnostik***
 

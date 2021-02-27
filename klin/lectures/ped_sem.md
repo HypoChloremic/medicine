@@ -1190,10 +1190,6 @@ Anafylaxigrader
 * **Hasselnöt -specifik allergi:** Cora8 (a9, a14)korsallergi: Cora1
 * Ägg –IgE ak mot Gal d1 (ovomucoid) indikerar svårare allergi
 
-
-
-
-
 # Akut och allmän ped
 
 ### Fall 1
@@ -2958,6 +2954,24 @@ Anafylaxigrader
 
 
 
+
+
+# Tillväxtseminariet
+
+
+
+
+
+
+
+
+
+
+
+
+
 # ***Referenser***
+
+
 
 ![fFW1HC0ebz](./imgs/pedsem_fFW1HC0ebz.png)

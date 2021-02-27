@@ -15,6 +15,7 @@
 <!-- Then we build the nav bar. -->
 <nav>
     {{fullurl}}
+    {{entry.url}}
     <ul>
     {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}

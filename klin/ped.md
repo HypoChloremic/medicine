@@ -850,15 +850,29 @@ Utredning
   * **Akut buk:** appendicit, peritonit
   * **Intestinal obstruktion:** intussuception (invagination), malrotation, tarm-atresi, tarm-stenos
 
-### Pediatrisk resuscitation
+### Pediatrisk resuscitation: HLR o grabbarna
 
 #### Wet Flag
+
+***Läkemedel enl WET-FLAG***
+
+* ***adrenalinet***: notera att doseringen 0.1ml/kg av 0.1mg/ml avser 0.01mg/kg också, vilket är samma dos som avsett.
 
 <img src="./imgs/wet_flag.png" alt="wetflag" style="zoom:50%;" />
 
 
 
-#### A-hlr
+
+
+
+
+#### A-HLR
+
+***Läkemedel***
+
+* **Adrenalin**: 0.01mg/kg dos. 
+  * **OMEDELBART VID ASYSTOLI/PEA/UNDER 60HF**: sedan var 4e minut. 
+  * EFter 3e deffen, för VF/VT
 
 <img src="./lectures/imgs/ped_9D15xjXjny.png" alt="9D15xjXjny" style="zoom:80%;" />
 
@@ -1501,6 +1515,8 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+
+
 ## Vätskebalans
 
 ### Allmänt
@@ -1612,12 +1628,13 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Presentation***
 
-* . Stina är 6 år och har sedan 1 vecka haft ett svullet höger knä. Hon har ingen feber. Hon harhaft  svårt att gå och haltar. Pappa har psoriasis men Stina har inga hudbesvär. Anger ingensmärta i vila. I status: gott AT, afebril. Hon har svullnad runt patella höger knä, ingen rodnadmen värmeökning jämfört med framsidan av underbenet. Har en extensions och flektionsdefektpå ca 20 grader i hö knä. Status i övrigt är utan anmärkning inkl hud.Vilken diagnos är minst sannolik med ovanstående anamnes och status?
-  a) Reaktiv artrit
-  b) JIA monoartrit
-  c) Borrelia artrit
-  d) Septisk artrit
-  e) Psoriasis artrit
+* Stina är 6 år och har sedan 1 vecka haft ett svullet höger knä. Hon har ingen feber. Hon harhaft  svårt att gå och haltar. Pappa har psoriasis men Stina har inga hudbesvär. Anger ingensmärta i vila. I status: gott AT, afebril. Hon har svullnad runt patella höger knä, ingen rodnadmen värmeökning jämfört med framsidan av underbenet. Har en extensions och flektionsdefektpå ca 20 grader i hö knä. Status i övrigt är utan anmärkning inkl hud.Vilken diagnos är minst sannolik med ovanstående anamnes och status?
+  * **Sannolika diagnoser**
+    * **Reaktiv artrit)** 
+    * **JIA monoartrit**
+    * **Borrelia artrit**
+    * **Psoriasis artrit**
+  * **Detta är ingen: Septisk artrit**
 
 
 
@@ -1947,3 +1964,279 @@ Ataxic cerebral palsy is due to [...] damage.
 ***Kliniska kännetecken***
 
 * Galeazzis tecken: knäet lägre på pvårkad sida, när höft flekterade och patient supin
+
+
+
+## Farmakologi
+
+### Intoxikation
+
+***Epidemiologi***
+
+* 60% av alla intoxer i barn sker under 6 år
+* 90% av intoxerna är accidentala; majoriteten hemma när vårdnadshavare är distraherad
+* flesta ämnen intas oralt av barnen. men kan inhaleras, spillas på hud eller ögon, eller injiceras intravenöst
+* mortalitet är under 1%
+
+
+
+***Etiologi och patofysiologi***
+
+* Vanligaste toxin exponeringen är hushållsprodukter:
+  * flesta exponeringarna: kosmetika, personal care products
+  * rengöringsmedel
+  * hostmedel eller förkyulningsmedel
+  * vitaminer, inklusive järn
+  * analgetika: paracetamol, NSAID, ASA
+  * växter: 6-7% av alla oralt intagna intoxer...
+  * alkohol: etanol,
+  * hydrocarons: gasoline, paint thinner, furniture polish
+  * kolmonoxid
+  * förskrivna läkemedel
+
+
+
+
+
+***Kliniska kännetecken för olika toxiner***
+
+* **Dofter**
+  * Bitter mandel: cyanid
+  * vitlök: arsenik, organofosfater
+  * aceton: salicylater, isopropyl alkogol
+  * wintergreen: metyl salicylater
+  * moth ball: camphor
+* **Hud tecken**
+  * Cherry red color, cherry röd: kolmonoxid, cyanid
+  * svettig: organofosfater, sympatomimetika (sympathomimetics)
+  * torr hud: antikolinergika
+  * urtikaria: allergisk reaktino
+  * grå cyanos: methemglobinemi
+* **ögon**
+  * **miosis:** opiater, phencyclidiner, organofosfater, phenothiazines
+  * **mydriasis**: amfetaminer, kokain, tricykliska antidepressiva, atropin
+  * **nystagmus**: dilantin, phencyclidine
+  * **retinala blödningar**: kolmonoxid, metanol
+* **allmäntillstånd**
+  * **feber**: kokain, TCA, phencyclidine, salicylater, thyroxin, antikolinergika, amfetaminer, teofyllin
+
+
+
+
+
+***Utredning***
+
+* ***Tänk på intox***: hos patienter som presenterar med **icke-specifia tekcen och symptom**
+  * kramper
+  * svår kräkning
+  * diarre
+  * dysrytmi
+  * förändrat sinnestillstånd, mental status
+  * abnormt beteende
+  * chock
+  * trauma
+  * icke-förklarad metabol acidos
+* ***Anamnes***: fr vårdnadshavare typiskt sett identifierar intoxer
+  * info om toxinet: bör inkludera namnet, toxin koncentration om känt, och hur pat exponerats
+  * potentiell intox-dos räkanas fr **worst-case scenario**
+    * toxicitet är vanligtvis på basis av dos per kg kroppsvikt
+  * **multipla ämnen eller medel hos ungdomar (adolescents)**
+  * **Bakgrundsinfo**: plats där upptäckt patienten, växter, vitaminer, herbs, kemikalier hemma, tid som det skett
+  * läkemedel
+* ***Status***: bör täcka allt, kan ge tecken på intoxmedel, 
+* ***Labb***:
+  * **screening**: glukso, u-tox, elektrolyter
+  * **blodgas**
+  * **anjon-gapet**: [Na - (cl + hco3)]
+  * **Akuta intoxprover enligt lokala rutiner** (etanol, metanol, paracetamol, aceton m m)
+  * **Biologiska alkoholmarkörer** vid misstanke om alkoholmissbruk (PEth, CDT)
+  * **Drogscreening** av narkotika i urinprov (på patienter med KAD)
+  * **Riktade toxikologiska prover** (urin, serum, ev hår naglar)
+  * **Täta kontroller av elektrolytstatus** (rutinstatus)
+  * **Arteriella blodgaser med syra-basstatus** (inklusive laktat, CO-Hb, Met-Hb)
+  * **SvO2 och laktat** vid misstanke om **cyanidförgiftning** eller **grav hjärtsvikt**
+  * **B-glukos**
+  * **Myoglobin i serum (rabdomyolys**)
+  * **Hjärtenzymmarkörer** vid **kolmonoxidförgiftning** eller EKG-förändringar eller hjärtischemi plus CO-Hb
+  * **Spara och frys ett extrarör med venblod** (serum) från inkomsten för kompletterande diagnostik i oklara eller mycket allvarliga fall
+
+
+
+ ***Handläggning***
+
+* ***Allmänna saker att tänka på***
+  * **övervaka**: vakenhet, andning
+  * **understödja**: andning, cirkulation, vb
+  * **behandla**: akut förvirring, motorisk oro på ett lugnt säkert sätt
+  * **identifiera tox agens**
+  * **aktiv elimination, vid indikation**: ventrikeltömning, medicinskt kol, dialysbehandling. så länge nyttan överväger riskerna
+  * **antidotbehandling, vid tydlig indikation**
+  * **vårdnivå**: korrket vårdnivå för att korrekt handlägga evt sänkning medvetande etc
+  * **uppföljning socialtjänst + psykiatri**
+* ***Akut omhändertagande***
+  * **ABCDE**: följ denna algoritm och allt vad det leder till, med syrgas, EKG, saturation, etc
+  * **infarter:** pvk, gärna två infarter
+  * **artärnål, när medvetslös, acidos, cirkpåverkan**
+  * **cvk, nämns internetmed**
+
+<img src="./imgs/ped_samman_vgcE5eb6o5.png" alt="vgcE5eb6o5" style="zoom: 67%;" />
+
+
+
+***Anjon-gapet***
+
+* ***ökat anjon-gap***: AMUDPILES mnemonic
+  * Alkohol
+  * metanol
+  * uremi
+  * diabetesketoacidos
+  * paraldehyd
+  * iron
+  * isoniazind
+  * laktacidos
+  * etylene glykol
+  * salicylater
+
+
+
+***Behandling***
+
+* **Ventrikeltömning**
+  * **manuellt**: endast småbarn, initialskedet
+  * **ventrikelsköjning, grov sond gm munnen**
+* **Aktivt kol**
+  * **manuellt eller pipmugg**
+  * **deponerat** (instillerat) i magen via ventrikelsond upplöst i vatten
+
+
+
+
+
+
+
+<img src="./imgs/ped_samman_ddV9taWyoe.png" alt="ddV9taWyoe" style="zoom: 67%;" />
+
+<img src="./imgs/ped_samman_cZwgCMdoZq.png" alt="cZwgCMdoZq" style="zoom:50%;" />
+
+
+
+<img src="./imgs/ped_samman_eKk4738Yr0.png" alt="eKk4738Yr0" style="zoom: 67%;" />
+
+
+
+<img src="./imgs/ped_samman_7PwJesI7Hs.png" alt="7PwJesI7Hs" style="zoom: 67%;" />
+
+
+
+<img src="./imgs/ped_samman_JiRUw4J4bK.png" alt="JiRUw4J4bK" style="zoom: 67%;" />
+
+
+
+
+
+<img src="./imgs/ped_samman_YIBeXyLTzH.png" alt="YIBeXyLTzH" style="zoom: 67%;" />
+
+
+
+
+
+### Intox paracetamol
+
+***Presentation***
+
+* Du är akutjour på barnakuten. Anna, 1,5 år inkommer med sin mormor. Hon har hittat Anna sittandes på golvet i badrummet lekande med en öppnad burk kapslar Panodil (paracetamol 500mg). Du undersöker Anna som är glad och opåverkad. Mormor har ingen aning om hur många tabletter som fanns i burken, och det går inte att utesluta att Anna fått isig tabletter.
+  * inläggningsfall, leverprover
+  * antidot: acetylcystein för att undvika leversvikt
+* Du är akutjour på barnakuten en torsdagkväll. Med ambulans kommer en 16-åriga Frida som är ledsen och luktar sprit. Enligt bästa kompisen som har larmat ambulansen har Frida SMS:at tidigare ikväll att hon inte längre vill leva. Frida, som är vaken och svarar på tilltal, berättar att hon för ungefär fyra timmar sedan tagit en massa värktabletter hon köpt på ICA och sköljt ned det med sprit från en dunk som pappa köpt av en kompis. a) När du har förvissat dig om att ABC är ok ordinerar du intoxikationsprover från infarten som ambulansen satt. 
+  * **Vilka substanser är de viktigaste att fråga efter i det här läget (ange 4 st)? (1p)**: paracetamol, etanol, metanol, ASA (enl tentadok)
+  * acetylcystein mot värktabletten, motverkar leverskador om ges innan paracetamolet brytits ned...
+  * utöver bakjour, andra kontakter: BUP, Socialtjänsten, föräldrar (enl tentadokument)
+
+
+
+***Kliniska kännetecken***
+
+* **Tid efter intag**
+  * **30min-24h**: asymptomatisk, eller kräkningar och diarre
+    * buksmärtor, ibland mer lokaliserat i övre högre kvadranten
+    * illamående, kräk, diarre
+    * takykardi
+    * medvetandepåverkan,
+  * **18-25h:** 
+    * minskad symptom
+    * ASAT och ALAT höjning
+    * stegring av PKINR
+    * blodlaktatstegring 2-3mM. 
+  * **24-72h**: gastrointestinala symptom resolve; vid 36timmar lever transaminaser stiger (ASAT,ALAT)
+  * **72-96h**: levernekros, hepatisk nekros, ikterus, hypoglykemi, laktacidos, leverencefalopati, koagulopati, eller njursvikt
+  * **4d-2v**: resolution av symptom, progressiv leverskada kräver levertransplantation eller död
+
+<img src="./imgs/ped_samman_JiRUw4J4bK.png" alt="JiRUw4J4bK" style="zoom: 67%;" />
+
+***Differentialdiagnoser***
+
+* Gastroenterit
+* gastrit
+* hepatit
+* pankreatit
+* svampförgiftning
+
+
+
+***Handläggning***
+
+* ***Anamnes***
+* **Status**
+  * ABCDE
+* ***Labb***
+  * EKG
+  * S-paracetamol
+  * Blodstatus (Hb, LPK, TPK)
+  * Leverstatus (ASAT, ALAT)
+  * Koagulationsstatus (PK-INR, aPTT)
+  * Elektrolytstatus
+  * P-glukos
+  * S-amylas
+  * Venös eller arteriell blodgas (blodlaktat kan vara förhöjt vid allvarlig förgiftning)
+* **Monitorering**
+  * Daglig och v b uppföljning av:
+    - Leverstatus (ASAT + ALAT + PK-INR)
+    - Elektrolytstatus
+    - Syra-bas inklusive blodlaktat (4-5)
+    - Koagulationsstatus
+    - Vätske- och elektrolytbalans
+  * P g a risken för blandintoxikation skall ALLA intoxikationer monitoreras initialt med avseende på vitalparametrarna: 
+    - Andning
+    - Cirkulation
+    - Vakenhet
+  * **S-paracetamol mätningar:** Tänk också på att ett normalt eller lätt förhöjt S-paracetamol kan ha varit högt och på väg ner, eller är på väg att stiga.
+
+
+
+***Behandling***
+
+* Acetylcystein iv
+  * *Acetylcystein behandling vid icke-depotpreparat när s-paracetamol saknas:* Starta behandling, ge först 200 mg/kg kroppsvikt i 500 ml glukos 50 mg/ml eller isoton NaCl under 4 timmar (50 mg/kg/timme) och därefter 6,25 mg/kg/timme under 16 timmar eller längre. Ring GIC om oklarhet, 010 456 67 00.
+  * *Acetylcystein vid behandling av icke-depotpreparat ges enligt nedan när svar på s-paracetamol finns:* Acetylcystein insätts om s-paracetamol ligger > 1000 mikromol/l vid 4 timmar, 700 mikromol/l vid 6 timmar, 500 mikromol/l vid 8 timmar och 350 mikromol/l vid 10 timmar efter överdosering. Ring GIC vid oklarhet/osäkerhet, 010 456 67 00.
+  * *Acetylcystein vid överdosering av depotpreparat:* Exempelvis Alvedon 665 mg. Ge 200 mg/kg kroppsvikt i 500 ml isoton glukos eller NaCl-lösning under 4 timmar. Därefter underhållsbehandling med acetylcystein 12,5 mg/kg/timme under minst 20 timmar. 150 mg/kg löses i 500 ml under varje 12 timmars period. Innan acetylcysteinbehandlingen avslutas skall s-paracetamol kontrolleras och inte vara påvisbart.
+* ***Ventrikeltömning och medicinskt kol***
+  * Ventrikeltömning samt medicinskt kol eller enbart medicinskt kol (Kolsuspension 150 mg/ml, 100 ml) kan bli aktuellt. 
+    * **Kortare tidsintervall = bättre:** Dessa åtgärder är dock mer effektiva ju kortare tidsintervall det föreligger mellan tablettintag och inkomst till sjukhus.
+  * **relativ kontraindikationer:** mot kol är risk för aspiration vid exv kräkning och medvetandepåverkan.
+  * Överväg ventrikelsond vb.
+  * **acetylcystein ge ej medicinskt kol:** Rekommendationen är dock att antidot alltid bör ges intravenöst.
+* Elektrolytkorrektion, korrektio acidos: Korrektion av elektrolytstörningar och eventuell acidos
+* Undvik hypoglykemi
+* Upprätthåll god diures. Timdiures v b
+* Motverka hypotension
+* Undvik hypoxi
+* Antibiotika vid minsta misstanke om infektion
+
+### Intox petroleumprodukter
+
+***Behandling***
+
+* **Kontraindicerat**
+  * ventrikelsköljning/kräkning kontraindik: risk aspiration lungor, kemisk pneumoni
+* ***drick grädde istället.***
+

@@ -3170,7 +3170,7 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
 
 ***Kliniska kännetecken***
 
-* Proteinuri_ ualbkrea kvot över 500mg/mM
+* Proteinuri, ualbkrea kvot över 500mg/mM
 * hypoalbunimemi: palb under 25
 * dem
 * hyperlipidemi
@@ -3257,7 +3257,7 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
     * MMF
     * plasmaferes (plasma byte): för att faktorer i plasma är oxiska
     * rituximab: minska antikroppsproduktion med rituximab som är antikroppar mot B-celler
-  * Podocyt produktion
+  * ***Podocyt produktion***
     * ACEi och ARB: minskar trycket i glomerulus och skyddar därför glomerulus
 
 ## Fall 3 - Nefritiskt syndrom (aka glomerulonefrit)

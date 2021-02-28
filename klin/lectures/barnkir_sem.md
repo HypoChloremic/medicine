@@ -1201,7 +1201,7 @@ https://www.socialstyrelsen.se/stod-i-arbetet/sallsynta-halsotillstand/osteogene
 - Gångmönster; hälta, ovilja att belasta benet?
 
 - Inspektion: svullnad, rodnad, värmeökning? Blåmärken eller purpura i huden?
-   
+  
 - Undersök fotled, knäled, höftled i nämnd ordning. Uteslut även symtom från ryggen.
 
 - Simplexcoxit: Vid undersökning av den drabbade höften noteras ofta ömhet över leden i ljumsken. Vanligen finns också rörelseinskränkning, fr a vid inåtrotation, extension och abduktion. Barnet håller gärna benet lätt flekterat och utåtroterat då den ställningen framkallar minst smärta.

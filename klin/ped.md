@@ -632,6 +632,7 @@ Utredning
 * intervall symptom, symptom mellan akuta exacerbationer
 * atopi i familjen eller att barnet har det
 * astma terapi, positiv terapt
+* ***Atopiska marschen***: atopiskt eksem, komjölksallergi, astma, sedan hösnuva
 
 
 
@@ -716,6 +717,27 @@ Utredning
 
 
 <img src="./imgs/ped_sum_VaEvlMb9IA.png" alt="VaEvlMb9IA" style="zoom:50%;" />
+
+
+
+### Komjölksallergi
+
+***Presentation***
+
+* ***Astrid, 11 månader*** 
+  * kommer med modern till barnmottagningen på grund av buksmärtor och lösa avföringar. Hon har haft säkert 6-7 luftvägsinfektioner och bedömts obstruktiv men har ej haft några säkra pneumoniermen väl 4 otiter. Hon är gnällig och missnöjd. Hon äter normalkostför åldern.
+  * För in följande vikt-och längdvärden i tillväxtkurvan på nästföljande sida:Födelse: 3,5 kg, 51 cm. 1 månad: 4,8 kg, 54 cm. 2 månader: 5,5 kg, 58 cm. 3 månader: 6,2 kg, 62 cm. 5 månader: 7,5 kg, 66 cm.7 månader: 7,7 kg, 70 cm. 9 månader: 7,9 kg, 72 cm. 11 månader: 8,1 kg, 74 cm. I status kan du se att hon är mager.
+  * ***Bild nedan***
+
+<img src="./imgs/ped_samman_mDLOZlPDla.png" alt="mDLOZlPDla" style="zoom:50%;" />
+
+
+
+
+
+
+
+
 
 
 
@@ -1472,6 +1494,14 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Varicella (Vattkoppor)
 
+***Presentation***
+
+
+
+
+
+
+
 ***Epidemiologi***
 
 * incidens har sjunkit pga barndomsimmunisering (vaccin?) i många delstater i USA.
@@ -1482,6 +1512,7 @@ En kort lista över kliniska manifestationer av CF:
 ***Kliniska kännetecken***
 
 * **intensiva pruritiska erythematösa makula** utveckals akut efter 7-21 dagars inkubation
+  * detta är ej makulopapulöst! notera detta för att makulopapulöst är mer som mässling verkare som. 
 * **makula utvecklar centrala vesiklar** inom 1-2 dagar. 
 * **klassiska lesionen** beskrivs som "dew frop on a rose petal" eller en vesikel i röd bakgrund
 * **"crops of lesions"** utvecklas under 2-5 dagar. Hundratals vesiklar förekomma, som kommer att **skorpa över**
@@ -1493,6 +1524,14 @@ En kort lista över kliniska manifestationer av CF:
 
 * **sekundär bakteriell infektion**: staffar, GAS, eller andra. kan leda t komplikationer som toxisk chock syndrmo eller nekrotiserande fasciit. 
 * ***Encefalit***: kan vara generaliserad. kontrast till encefalit
+* Reaktivering senare i livet av latent VZV orsakar **herpes zoster** (se [Varicella-zostervirus](https://www.internetmedicin.se/page.aspx?id=540)). Vid varicella första levnadsåret uppträder herpes zoster (bältros) inte sällan redan under barnaåren. 
+* **Sekundära hudinfektioner** med stafylokocker eller streptokocker förekommer speciellt hos små barn. 
+* Sällsynta fall av **streptokocksepsis** är den vanligaste orsaken till livshotande komplikation hos immunfriska barn. 
+* **Varicellapneumonit** är en allvarlig komplikation som framför allt drabbar vuxna rökare. Uppträder vanligen efter ett par dagars sjukdom. Orsakar svårigheter med syresättningen av blodet och kan ibland kräva intensivvård. 
+* **Cerebellit** är den vanligaste centralnervösa (CNS) komplikationen och innebär att barnet drabbas av *ataxi*, *bredspårig gång* och *nystagmus*. Ses med en incidens på ca 1/2000 barn. Benign komplikation som läker inom några veckor. 
+* **Encefalit** är ovanligare, men mer allvarligt. 
+* Vuxna kan få **arteritförändringar i CNS-kärl** i samband med vattkoppor med stroke som följd. 
+* **Perinatal varicella** är allvarlig om modern insjuknar under tiden 5 dagar före till 2 dagar efter förlossning. Om modern insjuknar tidigare u
 
 
 
@@ -1855,7 +1894,7 @@ Ataxic cerebral palsy is due to [...] damage.
 ***Differentialdiagnoser***
 
 * CNS-infektioner
-* Sepsis...
+* Sepsis
 * leukemi
 * Henoch-schönleins purpura
 
@@ -1878,8 +1917,8 @@ Ataxic cerebral palsy is due to [...] damage.
 * ***Steroider***: prednisolon (vuxen 1-2mg/kg x 1 peroralt), vid mistanke ITP
 * ***inj gammaglobuliner (aka IvIG)***: många b lödningar, använder injektion gammaglobuliner för ***snabb effekt***. 
   * e.g. 1.5åå + näsblödningar + benäget att slå sig = behandling med gammaglobuliner.'
-  * e.g. 14ååpatient + som inte jätte aktiv = prednisolonkur istället
-* // trombocytkoncentrat: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
+  * e.g. 14åå patient + som inte jätte aktiv = prednisolonkur istället
+* // **trombocytkoncentrat**: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
 * ***Behandlingstrappa:*** Föreläsare nämnde behandlingstrappa som missades?
 
 
@@ -1894,7 +1933,32 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
+### Kramper
 
+When is the lifespan risk of seizures highest?
+
+As a neonate
+
+
+>75% are cerebrovascular in origin:
+- hypoxic/ischaemic encephalopathy (60% overall)
+- intracranial haemorrhage (15%)
+- ischaemic stroke
+
+Infection (12%):
+- bacterial meningitis
+- viral meningoencephalitis
+- TORCH infections
+
+Metabolic:
+- electrolyte disturbance (hypoglycaemia, hypoCa, hypoMg, hypoNa or hyperNa
+- inborn pyridoxine deficiency
+- congenital amino acid or organic acid disorder
+
+Other:
+- drug withdrawal
+- cerebral dysgenesis
+- benign familial neonatal seizures
 
 ## Neonatologi
 
@@ -1903,7 +1967,100 @@ Ataxic cerebral palsy is due to [...] damage.
 #### CTG - kardiotorakografi
 
 * aka cardiothoracography
-* 
+
+
+
+## Nefrologi
+
+### Nefrotiskt syndrom - NS
+
+
+
+***Presentation***
+
+* Mustafa 7år, 
+  * sedan tidigare astma, inkommer till akuten pga av att han av föräldrarna uppfattas som svullen sedan ett par dagar i ansikte/ögon ochpå fötterna. I status kan du se diskret svullnad bilateralt, symmetriskt enligt ovanmed i övrigt intakt hud.AT gott, afebril. Vitalparametrar ua för åldern. Hjärta: normalfynd, 
+  * ***Lungor***: normalfynd, BT 90/60mm Hg(normalvärde). Du misstänker en specifik sjukdom, den mest troliga,och vill lägga in Mustafaför utredningochta prover för att komma vidare i diagnostiken. 
+  * **Prover som man vill ta:**
+
+
+
+***Etiologi och patofysiologi***
+
+* Förlust normal charge- and size-selective glomerulär barriär till filtrering av **plasmaproteiner**
+* Excessiv urinära proteinförluster, leder till **hypoproteinenmi hos nefrotiskt syndrom**
+* ***Hyperkolesterolemi = konsekvens till hypoproteinemi***, kompenserande?
+  * reducerad plasma oncotic pressure inducerar förhöjd hepatisk produktuion plasma proteiner inklusive **lipoproteiner**
+  * plasma lipid clearande reduceras av reducerad aktivitet av lipoprotein lipas i adipö vävnad. 
+* ***Bakomliggande orsaker till nefrotiskt syndrom***
+  * ***MCNS***: Minimal change nephrotic syndrome; representerar 80% av barnen 1-12åå
+  * Focal Segmental glomerulosclerosis
+
+
+
+***Kliniska kännetecken***
+
+* ***kännetecknas*** av svår proteinuri >50mg/kg/24h urin total protein/krea kvot, över 3.5%, hypoalbuminemi, hyperkolesterolomi, ödem
+* Flesta barn med ödem, kan variera fr mild periorbital ödem till skrotal, labial ödem, till utbredd ödem
+* ***övre luftvägsinfektion, ödemet:*** ödemet efterföljer oftast en övre luftvägs infektion (ÖLI)
+* pleurala effusioner eller hypotension kan ske
+* **asymptomatiskt:** 
+* ***predisponerad trombos***: sekundärt till hyperkoagulabilitet
+  * sällan presenterar med stroke eller andra trombotiska händelse
+* ***ökad risk för enkapsulerande organism:***
+  * **pneumokocker**
+  * kan presentera med spontana bakteriella peritoniter, pneumoni eller överväldigande sepsis
+
+
+
+***Diagnos***
+
+ * **Massiv proteinuri** (U-alb/U-kreat >400 mg/mmol, U-alb > 50 mg/kg/dygn)
+* **Hypoalbuminemi** (s-albumin <25 g/L)
+* **Perifera ödem** (och hyperkolesterolemi)
+
+
+
+***Handläggning och utredning***
+
+* ***Laboratorieprover***
+  * **enl tenta?:** U-Alb/krea, S-alb, S-krea, urinsticka, (U-alb mätning per dygn)
+* **enl PM:** 
+  * **Blod**: Hb, evf, LPK, TPK, CRP albumin, kreatinin, cyst C, Na, K, Ca, P C3, C4, ANA Varicella serologi (immunitet?) ev. hepatit B, C serologi, ANCA, antitrombin III, fibrinogen, (kolesterol, triglycerider)
+  * **Urin**: urinsticka, u-alb/krea
+  * **Övrigt**: ultraljud njurar, urinvägar, ev rtg cor-pulm (övervätskning? infektion?)
+  * **Övervakning under vårdtid:** 
+    * **vikt vätskebalans:** x2/dygn, bukomfång 1x/dygn
+    * **prover:** följ S-alb, Hb, evt, krea, Na, K, CRP, u-alb/krea, urinsticka
+    * **vital:** blodtryck, puls, andningsfrekvens x2 - 4/dygn
+* ***På avdelning***
+  * **Vikt, vätskebalans**: timdiures
+  * **BT, puls, AF** (PEWS)
+  * **Mäta bukomfång** 1gg om dagen
+* ***Njurbiopsi***
+  * Indikationer för njurbiopsi
+
+
+
+***Behandling***
+
+* ***Steroidbehandling***: prednisolon
+
+
+
+
+
+### Nefritiskt syndrom
+
+
+
+**Kliniska kännetecken**
+
+* **Hematuri**
+* **högt BT**
+* **sen omkringliggande faktorer:** 
+
+
 
 ## Klinisk Genetik
 
@@ -1961,7 +2118,7 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ### Höftdysplasi
 
-***Kliniska kännetecken***
+***Kliniska känneteckenVanligaste toxin exponeringen är hushållsprodukter***
 
 * Galeazzis tecken: knäet lägre på pvårkad sida, när höft flekterade och patient supin
 
@@ -1982,19 +2139,17 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ***Etiologi och patofysiologi***
 
-* Vanligaste toxin exponeringen är hushållsprodukter:
+* **Vanligaste toxin exponeringen är hushållsprodukter**:
   * flesta exponeringarna: kosmetika, personal care products
   * rengöringsmedel
   * hostmedel eller förkyulningsmedel
   * vitaminer, inklusive järn
-  * analgetika: paracetamol, NSAID, ASA
-  * växter: 6-7% av alla oralt intagna intoxer...
-  * alkohol: etanol,
-  * hydrocarons: gasoline, paint thinner, furniture polish
+  * **analgetika**: paracetamol, NSAID, ASA
+  * **växter**: 6-7% av alla oralt intagna intoxer...
+  * **alkohol**: etanol,
+  * **hydrocarons**: gasoline, paint thinner, furniture polish
   * kolmonoxid
   * förskrivna läkemedel
-
-
 
 
 
@@ -2019,8 +2174,6 @@ Ataxic cerebral palsy is due to [...] damage.
   * **retinala blödningar**: kolmonoxid, metanol
 * **allmäntillstånd**
   * **feber**: kokain, TCA, phencyclidine, salicylater, thyroxin, antikolinergika, amfetaminer, teofyllin
-
-
 
 
 

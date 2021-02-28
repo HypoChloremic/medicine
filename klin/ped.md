@@ -849,6 +849,12 @@ Utredning
 
 
 
+### Ej passera avföring
+
+<img src="./imgs/ped_samman_mAMH0d6QoJ.png" alt="mAMH0d6QoJ" style="zoom: 67%;" />
+
+
+
 ## Akut pediatrik
 
 ### Presentation och orsaker till svår sjd hos barn

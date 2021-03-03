@@ -20,6 +20,8 @@ Man får en återhämtningstillväxt efter att barnet går igm depressionen och 
 
 Trots att man får en återhämtningsfas, kompenseras det inte tillräckligt när barnet får sin tillväxtspurt när puberteten i sin tur kommer igång. (barnet blir kortare?)
 
+
+
 #### Faktorer som påverkar barnets tillväxt
 
 1. ***graviditet***: undernäring, övernäring (diabetes etc)
@@ -125,14 +127,20 @@ Hormoner som är viktiga intrautering och alltifrån födelsen:;
 3. Insulin
 4. kortison: om för ltie kortison växer man sämre, men osså om han har för mkt. 
 
+
+
 #### Spädbarnsfasen
 
 1. ***Tillväxthormon***: det är fr 1åå som tillväxthormon receptorerna blir mer aktiva och tillväxthormonet börjar komma igång innan dess.
+
+
 
 #### Barndomsfasen
 
 1. ***binjureandrogener*** som aktiveras o börjar produceras hos barnet. Manliga hormoner fr binjurar som gör detta, att man luktar svett etc, det är helt normalt
 2. barnet börjar svettas etc, som föräldrarna söker för, men som är normalt för barnet, det är inget fel. 
+
+
 
 #### Pubertetsfasen 
 
@@ -4215,12 +4223,20 @@ tidiagre ***juvenil ankyloserande spondylit***
     * ACE-h
     * kontroller
     * konsult barnnefrolog enl behandlingsrekommendationer
-* ***Prognos***
-  * ***Oftast självbegränsande 1/3 återkommande symptom 4-6mån***
-  * ***Risk för nedsatt njurfunktion***
-    * ingen om normalt urin efter 6 mån
-    * 1.5% om isolerad hematuri / proteinuri vid debut
-    * 20% om nefrit / nefros vid diagnos
+
+
+
+***Prognos***
+
+* ***Oftast självbegränsande 1/3 återkommande symptom 4-6mån***
+* ***Risk för nedsatt njurfunktion***
+  * ingen om normalt urin efter 6 mån
+  * 1.5% om isolerad hematuri / proteinuri vid debut
+  * 20% om nefrit / nefros vid diagnos
+
+
+
+
 
 ## Kawasaki
 

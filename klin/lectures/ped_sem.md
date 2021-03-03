@@ -3043,7 +3043,7 @@ Generellt sen i utv, bör ha pincettgrepp vid 10 min, börja gå vid 12-18 mån,
 
 ***allmänt***
 
-* fr vecka 4 till 6 är man som mest känslig. 
+* fr vecka 4 till 6 är man som mest känslig. Pediatrik
 * Delvis är det en inviduell dos-respons nivå. men inte super säkra antal glas, utan det är många faktorer som samvierar, samt att fostrets inneboende förmåga. 
 * för att vara på den helt säkra sidan ska man ha noll intag alkohol i samband me datt man planerar åp graviditet etc. 
 

@@ -1,4 +1,4 @@
-# Pediatrik
+## Pediatrik
 
 
 
@@ -1307,6 +1307,92 @@ En kort lista över kliniska manifestationer av CF:
 
 
 <img src="./imgs/pedsum_gVJFqHkYbL.png" alt="gVJFqHkYbL" style="zoom:67%;" />
+
+### Henoch-schönlein - IgA-vaskulit
+
+***Diagnos***
+
+* **Palpabel purpura** + minst en av följande
+  * **diffus buksmärta**
+  * **biopsi med IgA-deposition**
+  * **akut artrit eller artralgi**
+  * **Njurpåverkan**
+
+
+
+***Epidemiologi***
+
+* Vanligaster vaskulitet: hos barn
+* incidens: 10-20:100k p år
+* högst insjuk vid 4-6åå
+* 1.2:1 p:f. Något vanligare hos vita och asian barn. än hos afrikanska
+
+
+
+***Kliniska kännetecken***
+
+* symmetrisk artrit i knä och eller fot
+* artriten kan komma före purpura med flera veckor
+* gör ordentligt ont
+* overgående
+* **Hud:** 100% har; purpura; ödem
+* **Leder:** upp t 82%; ledsvullnad och ledvärk
+* **Mage och tarm**: 50-72%;  buksmärta, gastrointestinal blödning, invagination
+* **Njure**: föregår sällan purpura; mikroskopisk hematuri vanligast; makroskopisk hematuri; nefrit; nefros; njursvikt
+* **Urinvägar och kön**: upp t 27% av pojkar, inflammation av testikeln svllnad av skorutm
+* **CNS**: 2%; huvudvärk, kramper, blödninga, cerebral vaskulit
+* **Lungor**: under 1%; interstitiell lunginflammation
+* **Buk**: buksmärtor, kräkningar, blöning, perforation, invagination, pankreatit
+
+
+
+***Handläggning och utredning***
+
+* ***Primär utredning***
+  * ***Blodprover***: blodstatus + diff, kreatinin
+  * ***Urinstatus***: urinsticka
+  * ***Blodtryck***
+  * ***Strep A*** test
+* ***Sekundär utredning***
+  * ***Njure***
+    * U-sediment + U-alb/krea
+    * Cystatin-C, albumin, sänka, PK
+    * ASO titer
+    * IgA, C3, C4
+    * ANA, anti-DNA, C-ANCA
+  * ***Buk***
+    * Ultraljud
+    * BÖS
+  * ***andra organ***
+
+
+
+***Behandling***
+
+* **Streptokocktonsillit**: penicillin behandling
+* **ledsmärta, buksmärta**: paracetamol, nsaid
+* **Hypertension:** ACEh
+* Prednisolon: 1mg/kg; minskar ledsymptom, GI symptom, 
+  * minskar inte risken för utveckling av nefrit
+* ***Hypertoni***: ACEh, 
+
+
+
+***Prognos***
+
+* ***Oftast självbegränsande 1/3 återkommande symptom 4-6mån***
+* ***Risk för nedsatt njurfunktion***
+  * ingen om normalt urin efter 6 mån
+  * 1.5% om isolerad hematuri / proteinuri vid debut
+  * 20% om nefrit / nefros vid diagnos
+
+
+
+***Uppföljning***
+
+* Föjer U-sticka 6 månader; polikliniskt; kanske 1gg i månaden
+
+
 
 ### Pertussis
 

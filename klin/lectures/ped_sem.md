@@ -3368,6 +3368,167 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
   * EEG ska vara normalt efter att man sätter in behandling 
   * om det inte visar sig föräbttrad på EEG efter beh ska man tänka på beh ingen, om man ska byta preparat etc. 
 
+
+
+### Fall 7
+
+* Du är BVC-läkare och SSK har bokat in ett extrabesök. Ulla 6 mån som sedan ungefär 10 dagar drar ihop sig i attacker som upprepas flera gånger efter varandra och sedan är det paus ett par timmar. Ulla blir ledsen och gråter. Hon har stannat upp i sin utveckling. 
+* Det såg ut som att barnet fick moro-reflexer men läkar förklara att det är infantila spasmer, där hon blir ledsen efter dem. 
+
+
+
+**Differentialdiagnoser**
+
+* Infantila spasmer: dessa är d viktiga att känna igen, det är farligt och skadligt för hjärnan, ska snabbt handläggas
+* West syndrom: är en symptomtriad som inkluderar infantila spasmer
+
+
+
+***Vad gör du omedelbart?***
+
+* **Infantil spasm/ aka West syndrom /BNS-kramper.** 
+* Skicka till akuten? 
+* Ganska omgående EEG, MR och inledning av beh. 
+* Ska göras inom ett par dagar. 
+
+
+
+**Komplettera anamnes?** 
+
+* Hereditet? 
+* Grav/förlossning? 
+* Trauma? Inf? 
+* Andra sjd? 
+* Status? 
+  * Cor, pulm, pulsar, utv-nivå, skalltillväxt, neurologstatus (fokalitet), dysmorfologi. 
+  * man ska titta på om man mött det man ska för viss ålder
+  * man ska kunna upp sittande, byta hand med klossar, 
+  * o fråga föräldrarna om detta
+  * titta på huden: Woods ljus, ash-leaves med depigmenteringar, makulöst inget upphöjt, det är hudplansnivå. Tänker tuberös skleros som går med infantila spasmer
+    * om det är infantila spasmer + tuberös skleros = specifik behandling,
+    * Woods ljus att man ska använda för att titta på huden. 
+    * kan skriva remiss till hud för att be dem titta på d o leta depigmenteringar. 
+* ärftlighet försenad utveckling
+
+
+
+**Hur utreder man detta tillstånd?** 
+
+* ska direkt skickas till akuten, för att man ska utreda det akut. 
+* EEG: akut ska göras, 
+* MR: 2-4 veckor, 1 månad, för att humm vad det beror på
+* neurometabol skreening, genetisk utredning. 
+* EEG ska visa hyxarrytmi: ser ut som kaos och jättehöga amplituder. 200-300mikro Volt, vanligtvis runt 50 mikrovolt. 
+* West syndrom: EEG karak i.e. hyxmönster + avstannad utveckling + infantila spasmer = West syndrom
+
+
+
+**Behandling?** 
+
+* **Vitamin-B6 behandling under samtidig EEG registrering**: kan ge direkt iv men risk hypotension eller arrytmi därför behöver övervak och EEG samtidigft när man sprutar B6
+  * om tur o ger effekt avstannar epilepsi aktiviteten ganska snabbt
+  * ingen tillgång B6 kan man ge peroralt istället
+  * men om söker akut på kvällstid etc, kanske man ej har tillgång, oftast då att man börjar med synacthen (intramuskulärt varannan dag i låret). gondotropiner ACTH-analog som piskar på kortisol produktion som med den effekten tror man att man kan dämpa EP aktiviteten. 
+  * till barn som har tuberös skleros, gör MR tidigt i förloppet ser tecken tuberös skleros (ser tubera i hjärnana ansamlingar nervävnad konstigt sätt) ska behandlas med digabatrin eller sabrilex,
+  * andra barnen vit B6 och/eller synacthen
+  * andra gruppen får sabrilex digabatrin. kommre nog inte behövs vit-B6.
+  * **Blodprover:** Ska därför ha säkrat pipekolsyra det värdet är förhöjt på vit-B6 då kan man efter att det är taget kan man behandla med kapslarna. 
+    * det är ett metabolt prov som man skickar till CMM-labbet. 
+* ACTH-injektioner i 2v, om ingen effekt efter 1v tillägg av Vigabatrin. 
+* idag används prednisolon osså t dessa barnen, kan ha lika bra effekt som synacthen o pregabalin...
+  * det är enklare med prednisolonet där det kan ätas hemma
+
+
+
+**Prognos?** 
+
+* Beror på om symtomatiska eller okända spasmer. Betydligt sämre prognos vid de symtomatiska, då finns en strukturell hjärnskada. Om ingen strukturell hjärnskada + bra beh-svar förbättras prognosen. Annars 70-80% risk för utvstörning.
+* majoriteten har en utvecklingsstörning. 
+* de det går bra för är de utan tuberös skleros / konstig genetisk avvikelse / hjärnmissbildning, men detta vet man ej när man ser de på akuten, därför ska man behandla de dirket. 
+* många i denna gruppen har en hjärnmissbildning eller en tubreös skleros. 
+
+
+
+
+
+### Fall 8
+
+5-årig gosse som sedan 2-3 mån har återkommande HV. Kan vakna mitt i natten och skrika pga HV. Har ibland kräkts och somnat efteråt. Pigg då han vaknar efter ett par timmar. Söker akut söndag kväll. Du är primärjour på barnmedicin på ett universitetssjukhus, där avdelningen är fullbelagd. 
+
+**Vad gör du?** 
+
+* ***Varningstecken, red flags***: Kräkningar, vaknar mitt i natten pga HV. 
+* Info, ge paracetamol, ASA och ev andra NSAID.  
+
+
+
+***Statusfynd?***
+
+* Mår barnet bra annars? Ensidig? Pulserande? Bättre i mörker? Sämre vid fysisk aktivitet?
+* Dygnsvariation? blir bättre sämra i olika huvudlänge, blir bättre av kräkning
+
+
+
+***utredning***
+
+* neurostatus, kartläggning av utlösande faktorer
+* akut DT för att utesluta expansiv provess,
+* kan göras dagen efter, men om man känner sig lite osäke rkan man göra neuroradiologin direkt möjligt för DT och MR beror på hur snabbt, kan höra sig för, även om överbelagt kan man låta dessa vara kvar på akuten etc. 
+* DT behöver barnet ej sövas så det är mkt bättre p den delen
+* vid återkommande besävr kan man ge betablockad t lite äldre barn.... enl morgna
+* man måste veta vad det är menar läk, hra man inte mer bråttom avvaktar man mde direkt behandling o gör neuroradiologi först. 
+* tecken på förhöjt intrakraniellt tryck, status: 
+
+
+
+**Utredning?** 
+
+* **tecken höjd intrakraniellt tryck:** abducenspares är ett tecken på stiagnde intrakraniellt tryck, eller ptos, eller olikstora pupiller tecken på det
+* Neurostatus, HV-dagbok, kartläggning av utlösande faktorer. 
+* Akut DT för utesluta expansiv process. 
+* Behöver ej göras på natten, men väl dagen efter. 
+* Gör hellre DT än MR då det går snabbarej behöver sövas.
+* bredspårig gång att man kan få vid tryckstegring. 
+
+
+
+***Differentialdiagnoser***
+
+* tumör, 
+* likvor-störning kan behöva shunt, eller avlastning
+* migrän osannolikt. 
+
+
+
+***Primär eller sekundär HV***
+
+* short history or change in character
+* no family historu of migraine
+* abnormal neurological exam
+* morning nausea or vomiting
+* wakes up at night with headache
+* change in behavior or personality
+* young age: cancersjukdomar förekommer ofta hos yngre
+
+
+
+
+
+### Fall 9
+
+![1bvQeXzw4G](./imgs/ped_neuro_sem_1bvQeXzw4G.png)
+
+
+
+* ser att huvudomfånget vuxit väldigt mkt och after 3 förbättras den, så man har förbättrat detta
+* Detta är makrocefali för att över +3sd: kan vara hydrocefalus som är vanligast etiologiskt
+
+![4twbCwn8Us](./imgs/ped_neuro_sem_4twbCwn8Us.png)
+
+
+
+![i29YoiW2id](./imgs/ped_neuro_sem_i29YoiW2id.png)
+
 # ***Referenser***
 
 

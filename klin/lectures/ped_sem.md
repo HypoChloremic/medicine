@@ -2964,14 +2964,417 @@ Anafylaxigrader
 
 
 
+# Neurologi fallet
+
+### Fall 1 - FAS/FASD
+
+***3½ årig pojke kommer till BVC för utvecklingsbedömning:***
+
+* Pincettgrepp vid 12 mån ålder, Gick vid 2åå 
+* Talet sent, precis börjat med 2-3 ordsmeningar. Lite svår att förstå
+* I undersökningsrummet :
+  * Väldig aktiv, undersöker allt i rummet 
+  * Verkar inte alltid reagera på tilltal 
+  * Han har lite stort avstånd mellan ögonen
+
+
+
+***Vad vill du komplettera anamnesen med?*** 
+
+Generellt sen i utv, bör ha pincettgrepp vid 10 min, börja gå vid 12-18 mån, 2-3-ordsmeningar vid 2åå. 
+
+* Har barnet alltid varit sent eller är det nytillkommet? 
+* **Grav/förlossning?** 
+  * prematuritet, okomplicerad graviditet
+  * alkoholkonsumtion under graviditet. 
+  * läkemedelsbehandling hos mamma: e.g. antidepressiv, antipsykotika. 
+* Postnatalperioden (inf, tillväxt)? 
+* **Dålig hörsel?** 
+  * om detta är orsaken till att han inte reagerar
+  * detta ska man alltid tänka på
+  * man brukar göra en bra hörselundersökning, även om man gjort otoakustismhörselkontroll vid födsel. 
+* Öronbarn (otiter/SOM)? 
+* **Hereditet?** 
+  * liknande drag i släkten?
+  * intellektuella funktionsnedsättningar?
+* **Socialt samspel med andra barn**
+  * förhoppningsvis går han förskola, så man får höra hur det funkar. 
+* jd? 
+* Lm? 
+* Alkohol/droger under grav?
+
+* Kommenteras att pincettgreppet kring 9-10 månader
+* 12 månader börjar flesta att gå. 
+  * en del tar kanske 18 månader på sig för att börja gå. 
+* 1år 1 ord, 2år 2ord, 3år 3 ord.
+  * han är språkligt sett acceptabelt.  
+
+
+
+***Vad vill du titta på mer i status?*** 
+
+* Hur leker han? Hur går han? Cor, pulm, pulsar, 
+* **neurologstatus**: hur leker dem, hur de rör på sig, symmetriskt ej symmetriskt, reflexer, ögonrörelser om det funkar bra eller ej, att de spontant leker, att mna lockar med en boll.
+  * då får man med interaktion, balans, asymmetri, rörelsemönster, spontana rörelser
+  * knacka reflexer brukar går bra om man vill undersöka det. 
+* ansiktsdrag (syndromutseende; ögon, öron, litet huvud, nästa, skelett). FAS: Kort FL, låg FV.
+
+***Utredning?*** 
+
+* vi tänker han e sen, hyperaktiv, får inte mkt napp på andra saker.
+
+* ***Remiss***: fr BVC kan man skicka till en BUMM eller en barnneurologen. beror på hur säker man är i sin bedömning
+* Resten av dess nämndes inte
+  * ASAT, ALAT, krea som skreening. Blodstatus, tyroidea, insulin, GF, celiaki. Klinisk genetik, spec om hereditet. 
+  * Ögon-us, logopedbed, psykologbed, arbetsterapeutbed? MR-hjärna om fokalneurologi, ep eller mkt avvikande huvudform (stort/litet)
+* ***objektiva utredningar***
+  * man är **frikostig med array-cgh** där man tittar åp överskott o underskott genetiskt material
+  * MR-hjärna är man frikostig med på barnneurologen, för att se utvecklingsavvikelse cerebralt eller cerebellärt. 
+
+
+
+***Diffdiagnoser?***
+
+* Fetalt alkoholsyndrom (FAS): breddhet mellan ögonen, sen i utvecklingen, potentiellt autism. 
+* Andra syndrom, i.e. FASD: att D är ett spektrum, olika former av FAS, 
+* celiaki, hypotyreos, Downs? Uppföljning med avseende på: Hypotyreos, celiaki, inf-känslighet, ALL(?).
+
+
+
+***allmänt***
+
+* fr vecka 4 till 6 är man som mest känslig. 
+* Delvis är det en inviduell dos-respons nivå. men inte super säkra antal glas, utan det är många faktorer som samvierar, samt att fostrets inneboende förmåga. 
+* för att vara på den helt säkra sidan ska man ha noll intag alkohol i samband me datt man planerar åp graviditet etc. 
+
+
+
+### Fall 2 Down
+
+![HHVFO4gYte](./imgs/ped_sem_neuro_HHVFO4gYte.png)
+
+***Du går rond på BB. Barnmorskan säger att du genast ska gå och titta på barnet i undersökningsrummet. Nyfödd pojke, första barnet till 19-årig kvinna.***
+
+***Vad tror du att det är? (se bild nästa sida)***
+
+Downs syndrom (aka trisomi 21). 
+
+
+
+***Ge exempel på vissa drag***
+
+* **Platt ansikte,** 
+* **öppen mun**: stor tonga relativt med liten munhåla, varför tungan skjuter ut.
+* **nackskinn,** 
+* **snedställda ögonspringor,** 
+* **fyrfingerfåra,** 
+* **slappa barn,** 
+* **kort lillfinger**; att man saknar en mellanfalang.   
+* stort avstånd mellan stortån och de andra tårna
+* ***philtrum***: det är ett långt spann, distansen mellan näsan och mun. 
+* **sandle-gap**: att man har avstånd mellan stortå och resten av tårna. 
+
+
+
+***Vad säger du?***
+
+* Man kan säga till mamman att man misstänker att det kan handla om en trisomi 21. Men att man såklart bör gå vidare med utredning
+* kan osså säga att man ser avvikelser i barnet, men att överläkarkollega bör titta på barnet. Utöver att man också grattar mamman
+* man kan säga t mamman hur tkr du att d går, etc, för att branmorskan bad mig kika lite extra, o så undersöker man. 
+
+
+
+***Vilken utredning gör Du?***
+
+* ***Bekräftande***: Karyotypreing (kromosomanalys i form av karyotypering). 
+* ***Snabb-FISH***: om man vill få ett snabbare svar på trisomi 21.
+* **QF-PCR**
+* **Halls kriterier.** 
+* ***Hjärtmissbildningar***
+  * **AVSD** atrioventrikulr septumdefekt
+* ***matningssvårigheter***: behöver matas med sond
+* ***längre tid***: ökad risk celiaki, hyperthyreos, vilket man bör screena barnen för
+* Blodstatus, 
+* tyroidea, 
+* insulin, 
+* hjärt-us/EKO (medfött hjärtfel), 
+* hörsel, 
+* Kuratorkontakt för föräldrarna. Habilitering – en nationell organisation. 
+
+
+
+![Hqd6CtElyw](./imgs/ped_sem_neuro_Hqd6CtElyw.png)
+
+
+
+### Fall 3 CP
+
+***Du är läkare på en barnläkarmottagning och har fått en remiss från BVC på en knappt 2 år gammal pojke•I remissen står det bla:***
+
+***–PN v 40, grav ua, ammat helt, ger god kontakt, men avvikande motorik***
+
+
+
+* I status noteras att han griper föremål helst med hö hand. Kan gripa med vä, men flyttar direkt över till hö 
+
+* Står gärna direkt på tå på väsida, men kan komma ner på hela foten
+* Tonus något högre och livligare reflexer på väsida jmf hö
+* Du beställer en MR-hjärna
+* MR-hjärna vid 2 åå:Höger sidoventrikel är lätt förstorad och i anslutning till periventrikulärasubstansen finns ett litet område med avvikande signal tydande på lättare PVL (periventrikulärleukomalaci)
+
+
+
+![ccfvLc2zgP](./imgs/ped_sem_neuro_ccfvLc2zgP.png)
+
+
+
+***Diagnos?*** 
+
+* Unilateral spastisk cerebral pares: man säger unilateral för att det enbart är en sida som är påverkat hos ungen. 
+
+Oftast prenatal orsak. Man väljer hand först när man är 3-4 år. En hjärnskada som uppstår under grav, under förlossning eller upp till 2 år postnatalt. 
+
+
+
+***Differentialdiagnoser***
+
+* Stroke: detta kan neonatalt drabbas av, speciellt prematura eller komplicerat förlossning, eller vaskulär malformation
+* men för barn som utvecklats framåt där det gått trögt framåt är inte akut stroke lika sannolikt. här märker man progressivt assymmetri i rörelsemönstret. 
+  * stroke ger akut påkomna symptom inte fallet här
+  * men kan vara så att neonatalt stroke, att man märker av symptomen senare. 
+* **neurometabola sjukdomar:** man fortsättning att barnet tappar färdigheter, kan ge progredierande funktionsnedsättning. 
+
+***Etiologi?*** 
+
+Asfyxi, perinatal stroke, perinatal inf, missbildningar, urogenital inf hos mamman? 
+
+***Uppföljning?*** 
+
+* ***uppföljning***: på barnneurologen, alltså vidare fr barnmottagningen. 
+  * första besöket tittar att diagnosen är rätt
+  * CP är ingen radiologisk diagnos, utan man kan ställa den på kliniska fynd. Radiologin är att det ska stämma in med kliniken. Ibland att det ser väldigt fint ut i hjärnan att barnet ändå uppvisar spasticitet, därför ska man sortera bort alla andra tänkbara differentialdiagnoser. 
+* ***CPUP*** – uppföljningsprogram (står för CP-uppföljningsprogram). US och beh av rörelseorgan. Öka kunskap om CP. Bättre kommunikation mellan olika yrkesgrupper. Uppföljning från spädbarnsålder till vuxen ålder. Utred: MR, man ska helst vänta med MR till 2åå då myeliniseringen avslutats = bättre bild. Skadan är redan skedd och är statisk.
+* ***habilitering***: att mna skickas till habilitering, där kan de hjälpa til lmed hjälpmedel 
+
+
+
+***Allmänt***
+
+* **PN** = partus normalis, i.e. att det är en vaginal förlossning
+* **PVL** = periventrikulärleukomalaci
+* det man kan göra på neurologne: ge behandling för spasticitet. de med svårare spasticitet kan behöva baklofen (spasmicitetsreducering), kan behöva hjälp med ... då svårt äta och dricka med åkomman. 
+* En instans som man alltid remitterar till för att få hjälpmedel e.g. sittstolar, skenor för fotleden, där finns logoped är habilitering?
+
+
+
+### Fall 4 CP
+
+**Fall 4: Du är läkare på BUMM/Barnklinikens mottagning. Kristina 6 mån kommer för uppföljning efter neovård. Kristina är född v34, han hade en lättare asfyxi, hade en misstänkt men aldrig odlingsverifierad sepsis. Du finner en flicka som kan lyfta huvudet kort i bukläge. Hon kan inte vända runt. I axillarhäng spänner benen och korsar nästan.** 
+
+**Vilka milstolpar ska en 6 månaders baby uppnått?**
+
+* Vända runt, dra sig upp mot sittande, 
+* sitta med stöd, 
+* flytta föremål mellan händerna, 
+* titta efter tappad leksak, 
+* nyanserat joller.  
+
+Hur ser det ut för Kristina?
+
+***Hon ligger efter i utvecklingen. Kan det en 2-månaders ska kunna. Vad gör du nu?***
+
+* Saker man ska kunna göra vid 6 månader
+  * De ska kunna dra sig upp, ska ej vara trasdockor
+  * ska minst jollra.
+  * Notera att barnet är född v34, att man ska dra tillbaka henne. i v40 är man en fullgången bebis. 
+  * Man ska kunna vända runt vid 3-4 månader
+  * att lyfta huvet ska ske vid 1-2 månader. 
+  * **Att vara spänd i benen, och korsar när tar upp = Spasticitet, ökad tonus**
+
+* Barnneurolog remiss direkt: ska utreda henne vidare
+* (Sjukgymnastbed. Ligg lite lågt när det gäller medicinsk utredning då hon är prematur. Följ upp om 2-3 mån. MR vid ungefär 2 åå. Vid CP-skador undersöks alltid syn och hörsel.)
+
+
+
+***Återbesök vid 3åå . Kristina går nu på tå, korsar benen, har svårt att stå på hälarna. Dålig viktuppgång. Har svårt att svälja annat en blandad mat.*** 
+
+***Diagnos?***
+
+* Bilateral spastisk cerebral pares. Bulbära symtom, hjärnstam och CN.  
+
+***Etiologi?***
+
+* **född prematurt med evt sepsis:** kan ha varit född med en lättare asfyxi. HIE för asfyxi, att det kannat vara perinatal del i det hela.
+  * kan fråga sig varför föddes prematurt, att de som har dålig fostertillävxt o dåligt intrauterint att de vill ut tidigare. 
+  * möjligt att man ser PVL skadan åp denna patienten, att kortikospinala banorna ligger skadan, men det inte alltid man ser det på MR. 
+  * asfyxi pre- eller perinatalt är möjligt
+* Asfyxi
+* hypoxi. 
+* Inf?
+* Blödning?
+* Bilat CP: Oftast prematurer, hjärnskada i samband med födseln. ½ av alla med CP-skada har också mental retardation. 
+
+***Uppföljning?***
+
+* **Habilitering ska kopplas in**: remiss hit ,får dietist, logoped, fysioterapeut, ortoser, skenor för benen, Detta är smama plats dit vi skickade det tidigare barnet
+  * en del tappar muskelmassa, men det vet dietisterna mkt om, hur mkt kcal som ungen behöver. 
+* **beror osså på hur hon utvceklas, med maten etc**
+* **följs upp 1gg per år**, upp tills att de börjar skolan
+* **kan spasticitetsreducerande medicin**: att man försöker hämma spinalt den ökade tonusen.
+* **enl morgan**
+  * Kompl: Höftledslux, kontrakturer, uppfödningssvårigheter, skolios. Viktigt kolla viktkurvan. 
+  * Vid CP: Dålig viktuppgång pga sväljningssvårigheter + det går åt mer energi till rörelser (pga spasticitet). Lm mot spasticitet: Baklofen, stesolid, botulinumtoxin i enstaka muskler
+
+
+
+***Allmänt***
+
+![EmxfjrGhPO](./imgs/ped_sem_neuro_EmxfjrGhPO.png)
+
+* **spastisk är 80% av alla CP**; idag kallas för unilateral, bilateral och tetraplegisk. 
+  * Tetraplegisk: spastisk CP blir svaga i muskulaturen i bålen. Dessa barnen ofta framåtlutade och kan inte åhlla huvet uppe, behöver strap för att hålla huvet uppe
+  * 100% av den tetraplegiska har ngn form av intellektuell funktionsnedsättning. 
+* **dyskinetisk cerebral pares**: kernikterus ger dyskinetisk cerebral pares. detta att man inte ljusbehandlat bort eller att man inte bytt blod på. Detta är ofta fullgångna bebisar, som av hyperbilirubinemi får en skada på de basala ganglierna, varpå de dyskinetiska typen som är helt motsatt till den spastiska formen. 
+* Visar film på "**right hemiplegia cerebral palsy** (med right hemiplegia, är det att höger sida är hemiplegiskt)
+
+
+
+finns ett regionalt vårdprogram för CP som hon visar upp. 
+
+gnfcs: gross motor function classification system, grad 1-5, som är väldigt lätt o bra att få med. 
+
+
+
+### Fall 5 fokal ep
+
+7-årig pojke som kommer in till akuten. Familjen var på väg hem från skidsemester i fjällen, och pojken sov troligen, när föräldrarna hörde konstiga ljud från baksätet, det började rycka runt höger mungipa, saliven rann, sedan började pojken rycka i hela kroppen. Spikes i Rolandiska området på båda sidorna.
+
+***Vad är det första du gör på akuten?*** 
+
+* Stesolid rektalt efter vitalparametrar. 
+* Generell handläggning enl ABCDE. Sätt in iv infart, fria luftvägar, pulsoxymeter, ge syrgas. Hb, LPK, TPK, glukos, CRP, elektrolyter, blodgas.  
+* Uteslut meningit, encefalit, hypoglykemi.  
+* Om stark meningitmisstanke – ge ab innan LP.  
+* Om fokalitetmisstanke – DT-skalle akut för att utesluta blödning. 
+
+***Vad vill du komplettera anamnesen med?*** 
+
+* Inf? (För gammal för feberkramp, 0,5-4 år). 
+* Hänt tidigare? 
+* Hereditet? 
+* Hur länge krampat? 
+* Urin/faecesavgång? 
+* Postiktalt? 
+* Lm? 
+* Tid sjd (CNS-inf, skalltrauma, perinatal skada)? 
+* Utveckling
+* hjärnblödning, stroke. 
+
+***Vad undersöker du i status?*** 
+
+* Cor, pulm, BT, 
+* nackstelhet, neurologstatus, tungbett, skallskada? 
+* Utredningar? 
+* EKG, temp, blodprov, LP. 
+* Diffdiagnoser? 
+* ***det man ska vara uppmärksam åp***: fokalneurologiska bortfall, sämre funktion, känselbortfall, assymetri någonstans. 
+  * neurologen menar att det är möjligt att det är en stroke (antar en blödning)
+* **Rolandisk/benign barn-ep**: 
+  * Fokal, ofta under insomning eller uppvaknande då man sovit dåligt. Håller sig ofta till regionen kring munnen, men ibland som i detta fall ses en sekundär generalisering. 
+  * Ep-krampanfall, funktionell kramp, långt QT-syndrom
+  * **Läs på om denna**
+  * oxkarbazepin, tileptan som dessa barnen brukar få nämner hon, 
+  * har ett väldigt karakteristiskt EEG, det är en snäll EP, man behöver ej gå vidare med bilddiagnostik om man får denna EEG bilden menar neurologne
+  * kan lugna familjen att anfallen växer bort
+  * kan blir att koncentrationssvårigheter i skolan, men när barnet växer bort går det jättefint
+  * ovanligt att den går över till status
+* **torrs-pares**: halvsidig förlamning som kan kvarstå efter ngra timmar, som ger paralys. om man är osäker därför är det bättre att man fäller istället för att fria. 
+* ***Vidare utredning:*** EEG ska ej göras akut, kan med fördel göras efter ett par veckor. 
+* man är frikostig med att de är kvar på sjukhuset. att man utreder de med radiologi på sjukhuset.
+* Tumör ovanlitg hos bran i denna åldern, men man vill göra bilddiagnostik ngn form.
+* EEG inom 24-timmar: nya riktlinjer att göra EEG inom 24 timmar. Kommer man på helgen kansvårt, men man beställer ett akut EEG, 
+* sen kan man tänka på DT eller MR, men man kan vänta med dessa så länge ingen stroke misstanke. 
+
+
+
+**typer epilepsier**
+
+* genetiska, inflammatoriska, infektiösa, 
+* idiopatiska. 
+
+
+
+***Allmänt***
+
+* Att det inte är EEGt man behandlar på 
 
 
 
 
 
+Detta är ett gammalt PM för pågående epileptiskt anfall. Det kommer alldeles strax ett nytt PM. det som kommer vara kvar i det nua, är ABCDE, ge extra syrgas koll luftväg. rent farma att det är midazolam och IV-infart. om ej iv infart kan man ge buccolam vilket är i kinden eller diazepam via rumpan. Om barnet fortsätter att krampa o gått 10 minuter, går man till steg 2 i.e. iv midazolam och infusion. senare steg kommer att ändras med lkm som levetiracetam valproat etc. 
+
+![y1KbpwmuUe](./imgs/ped_sem_neuro_y1KbpwmuUe.png)
+
+
+
+
+
+### Fall 6: 
+
+**Lisa är en 6-årig pigg och glad flicka som går i 6-årsverksamhet, allt fungerar bra med kompisar, Lisa kan sitta stilla under samlingarna. Men Lisa liksom tittar bort och försvinner sekundsnabbt ibland, om hon pratar kan hon tystna mitt i en mening. Såväl föräldrarna som Lisas fröken i förskolan har märkt detta. Du är läkare på en Barnläkarmottagning. Spike’n’Wave typisk för absensepilepsi.** 
+
+**Hur kompletterar du anamnesen?**
+
+* Krampat? Hur ofta/länge? Känner på sig att det är på gång? Feberkramp? Hereditet? Andra sjd? Lm? Växer bra?  
+* psykomotorisk utveckling, när börjat läsa, ngt mer kognitivt som man ska tänka
+* sociala aspekten: vissa barn som har det dåligt hemma kan försvinna på samma sätt osså. 
+
+**Vad undersöker du i status?** 
+
+* Cor, pulm, BT,
+* neurologstatus: balans, asymmetri, ataxi, neuro symptom
+
+
+
+***Differentialdiagnoser***
+
+* Absens-ep, juvenil myoklon ep, ADHD, dagdrömmeri, tics. 
+* Enl sem
+  * absens-ep
+  * autism: kan få uppfattning när man pratar med pat
+  * kan ha fått det av kompisarna...
+  * dagdrömmeri: viktig differentialdiagnoser. 
+
+
+
+***Utredning***
+
+* EKG, 
+* EEG – provokation med hyperventilering; visar video där ett barn får blåsa på en lapp gång på gång, och
+* MR/DT? 
+
+
+
+
+
+EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave.. 
+
+![UvrJaO9eiD](./imgs/ped_sem_neuro_UvrJaO9eiD.png)
+
+
+
+* **Absensepilepsi**: 1-2s långa anfall, man märker inte av anfallen, så drf kan haölka efter i skolprestationer. Viktigt att behandla dessa patienter. 
+  * EEG ska vara normalt efter att man sätter in behandling 
+  * om det inte visar sig föräbttrad på EEG efter beh ska man tänka på beh ingen, om man ska byta preparat etc. 
 
 # ***Referenser***
 
 
 
 ![fFW1HC0ebz](./imgs/pedsem_fFW1HC0ebz.png)
+
+
+
+
+

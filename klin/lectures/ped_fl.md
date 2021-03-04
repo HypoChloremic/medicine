@@ -2190,6 +2190,8 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
   * 4x dödlighet
 * I höginkomstländer: ser man fortfarande signifinakt riskreduktion för SIDS, diarre, pneumoni, otiter om man ammat
 
+
+
 ***Bröstmjölk***
 
 * Näring, energi upp t 6mån lder
@@ -2268,6 +2270,8 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 * ***Pneumokock***: 96.9%
 * ***Mässling, påssjuka, röda hund***: 1 dos når 97% av 2åringar
 
+
+
 ##### Vaccinationsschema
 
 ![2TKL7cZdVL](./imgs/ped_2TKL7cZdVL.png)
@@ -2276,15 +2280,17 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 
 ##### Mässling
 
-* 300ggr ökning av mässling
+* **300ggr ökning av mässling**
+
+
 
 ***Etiologi och patofysiologi***
 
-* orsakas av virus
+* ***orsakas av virus***
 * ***Försvagat immunförsvaret***: slår ut B-minnesceller, och 11-74% av antikroppar
   * ***Alltsp***: slår ut minnes B-celllinjer som byggs upp vid tidigare exponering för patogen
   * ***Förklarar***: tidigare observerad långvarig immun amnesi
-  * ***Reducerar antikroppsrepertoiren***: iom minnes B-celler attackeras, får reduceras repertoiren antirkoppar available
+  * ***Reducerar antikroppsrepertoiren***: iom minnes B-celler attackeras, får reduceras repertoiren antikroppar available
   * ***Mässlingvaccin användning***: kopplat t lägre dödlighet i andra sjukdomar, med 30-40% LIC
   * ***Ökad dödlighet andra sjukdomar***: 2-3 år efter infektion
 
@@ -2293,32 +2299,38 @@ MångavärdenavBVC svåraattmäta: ByggatillitBliseddsomförälderBekräftelse, 
 ***Kliniska kännetecken***
 
 * ***Feber + röda utslag***: huvud t fot
-* Barnet påverkat
-* konjunktivit
+* ***Barnet påverkat***
+* ***konjunktivit***
+
+
 
 ***Faran i mässling***
 
-* 20% får extra besvär
-* 20% hamnar sjukhus
-* 1 på 1k encefalit
-* 1 på 2k dör
-* SSPE allvalig komplikation, 7år efter akuta infektionen
+* ***20% får extra besvär***
+* ***20% hamnar sjukhus***
+* ***1 på 1k encefalit***
+* ***1 på 2k dör***
+* **SSPE allvalig komplikation:** 7år efter akuta infektionen
 
-![Re4r04JKXR](./imgs/ped_Re4r04JKXR.png)
+<img src="./imgs/ped_Re4r04JKXR.png" alt="Re4r04JKXR" style="zoom:50%;" />
 
 
 
-![AD5zg8MraH](./imgs/ped_AD5zg8MraH.png)
+
+
+<img src="./imgs/ped_AD5zg8MraH.png" alt="AD5zg8MraH" style="zoom: 50%;" />
+
+
 
 ##### Nå flockimmunitet
 
 <img src="./imgs/ped_mgDmCcp8G1.png" alt="mgDmCcp8G1" style="zoom:67%;" />
 
-![qd6D1gGERS](./imgs/ped_qd6D1gGERS.png)
+<img src="./imgs/ped_qd6D1gGERS.png" alt="qd6D1gGERS" style="zoom:50%;" />
 
 
 
-![WMchpuB2YR](./imgs/ped_WMchpuB2YR.png)
+<img src="./imgs/ped_WMchpuB2YR.png" alt="WMchpuB2YR" style="zoom: 33%;" />
 
 
 

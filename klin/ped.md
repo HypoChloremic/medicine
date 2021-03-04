@@ -739,6 +739,65 @@ Utredning
 
 
 
+## Akut pediatrik
+
+### Presentation och orsaker till svår sjd hos barn
+
+* **Chocktillstånd, shock**
+  * **Hypovolemi**: sepsis, dehydrering (gastroenterit), diabetes ketoacidos, blodförlust (trauma)
+  * **Maldistribution av vätska**: sepsis, anafylaxis
+  * **kardiogent**: arrytmier, och hjärtsvikt
+  * **neurogent**: spinal skada
+* **Respiratory distress, andningssvikt**
+  * **Övre luftvägs obstruktion:** krupp, epiglottit, kongenitala malformationer, trauma, främmande kropp
+  * **Nedre luftvägs disorders:** astma, bronkiolit (bronchiolitis), pneumoni, pneumothorax
+* **somnolent (dåsig), medvetslös, krampande barn**
+  * **postiktalitet, status epilepticus**:
+  * **infektion**: meningit, encefalit
+  * **metabol**: diabetes ketoacidos, hypoglykemi, elektrolyt påverkan (kalcium, mangesium, antrium), medfödda metabola syndrom
+  * **huvudskada**: trauma, icke-accidental skada
+  * **läkemedel, toxisk ingestions**
+  * **intrakraniell blödning**
+* **Kirurgiska akuta tillstånd**
+  * **Akut buk:** appendicit, peritonit
+  * **Intestinal obstruktion:** intussuception (invagination), malrotation, tarm-atresi, tarm-stenos
+
+### Pediatrisk resuscitation: HLR o grabbarna
+
+#### Wet Flag
+
+***Läkemedel enl WET-FLAG***
+
+* ***adrenalinet***: notera att doseringen 0.1ml/kg av 0.1mg/ml avser 0.01mg/kg också, vilket är samma dos som avsett.
+
+<img src="./imgs/wet_flag.png" alt="wetflag" style="zoom:50%;" />
+
+
+
+
+
+
+
+#### A-HLR
+
+***Läkemedel***
+
+* **Adrenalin**: 0.01mg/kg dos. 
+  * **OMEDELBART VID ASYSTOLI/PEA/UNDER 60HF**: sedan var 4e minut. 
+  * EFter 3e deffen, för VF/VT
+
+<img src="./lectures/imgs/ped_9D15xjXjny.png" alt="9D15xjXjny" style="zoom:80%;" />
+
+
+
+### Sepsis
+
+***Behandling***
+
+* VAsopressor
+  * hypovolemi eller hypoxi refraktär efter 3e bolus ringer, ej återställd cirkulation 
+
+
 
 
 ## Gastroenterologi
@@ -853,65 +912,6 @@ Utredning
 
 <img src="./imgs/ped_samman_mAMH0d6QoJ.png" alt="mAMH0d6QoJ" style="zoom: 67%;" />
 
-
-
-## Akut pediatrik
-
-### Presentation och orsaker till svår sjd hos barn
-
-* **Chocktillstånd, shock**
-  * **Hypovolemi**: sepsis, dehydrering (gastroenterit), diabetes ketoacidos, blodförlust (trauma)
-  * **Maldistribution av vätska**: sepsis, anafylaxis
-  * **kardiogent**: arrytmier, och hjärtsvikt
-  * **neurogent**: spinal skada
-* **Respiratory distress, andningssvikt**
-  * **Övre luftvägs obstruktion:** krupp, epiglottit, kongenitala malformationer, trauma, främmande kropp
-  * **Nedre luftvägs disorders:** astma, bronkiolit (bronchiolitis), pneumoni, pneumothorax
-* **somnolent (dåsig), medvetslös, krampande barn**
-  * **postiktalitet, status epilepticus**:
-  * **infektion**: meningit, encefalit
-  * **metabol**: diabetes ketoacidos, hypoglykemi, elektrolyt påverkan (kalcium, mangesium, antrium), medfödda metabola syndrom
-  * **huvudskada**: trauma, icke-accidental skada
-  * **läkemedel, toxisk ingestions**
-  * **intrakraniell blödning**
-* **Kirurgiska akuta tillstånd**
-  * **Akut buk:** appendicit, peritonit
-  * **Intestinal obstruktion:** intussuception (invagination), malrotation, tarm-atresi, tarm-stenos
-
-### Pediatrisk resuscitation: HLR o grabbarna
-
-#### Wet Flag
-
-***Läkemedel enl WET-FLAG***
-
-* ***adrenalinet***: notera att doseringen 0.1ml/kg av 0.1mg/ml avser 0.01mg/kg också, vilket är samma dos som avsett.
-
-<img src="./imgs/wet_flag.png" alt="wetflag" style="zoom:50%;" />
-
-
-
-
-
-
-
-#### A-HLR
-
-***Läkemedel***
-
-* **Adrenalin**: 0.01mg/kg dos. 
-  * **OMEDELBART VID ASYSTOLI/PEA/UNDER 60HF**: sedan var 4e minut. 
-  * EFter 3e deffen, för VF/VT
-
-<img src="./lectures/imgs/ped_9D15xjXjny.png" alt="9D15xjXjny" style="zoom:80%;" />
-
-
-
-### Sepsis
-
-***Behandling***
-
-* VAsopressor
-  * hypovolemi eller hypoxi refraktär efter 3e bolus ringer, ej återställd cirkulation 
 
 
 
@@ -1310,6 +1310,27 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Henoch-schönlein - IgA-vaskulit
 
+
+
+***Presentation***
+
+* ***Sexåriga Charlotta*** 
+  * inkommer pga svullnader på fötterna och ont i benen sedan 2-3 dagar.Av och till också ont i magen. Du finner några blåmärken på underbenen, men också flera 1-10mm stora hudblödningar. Ingen lever eller mjältförstoring. Ingen ömhet i buken.Nämn tre viktiga diagnoser som du bör överväga: Henoch schönleins purpura (IgA vaskulit; har palpabel purpura + artralgi/artrit), minimal change nefropati, misshandel; blodmalignitet
+* ***Vilken/vilka av symptom och manifestationer kan innebära allvarlig sjukdom hos barnet:*** hematuri, nefrit, nefros, njursvikt
+* Stina 5 år 
+  * har sedan tre dagar haft utslag på benen som är lokaliserade till baksidan av låren, på skinkorna samt på underbenen. Utslagen är rödblå från mm stora till flera cm stora. De går ej att trycka bort. Hon har dessutom svullnad vid fotleden samt därav hälta. Det senaste dygnet har hon dessutom klagat över bukont. Vilken diagnos ligger närmast till hands? Vilka enkla prover vill du ta och varför? Hur kan man behandla buksmärtorna?
+
+
+
+***Etiologi och patofysiologi***
+
+* Typ 3 hypersensitivitet
+* småkärls vaskulit (small-vessel vasculitis)
+* IgA-vaskulit: IgA immun komplex deposition
+* ***Njurpåverkan***: immun-komplexen kan deponeras glomerulärt också, som i sin tur kan driva njursvikt. 
+
+
+
 ***Diagnos***
 
 * **Palpabel purpura** + minst en av följande
@@ -1329,12 +1350,16 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+
+
+
+
 ***Kliniska kännetecken***
 
 * symmetrisk artrit i knä och eller fot
 * artriten kan komma före purpura med flera veckor
-* gör ordentligt ont
-* overgående
+* **gör ordentligt ont**
+* **overgående**
 * **Hud:** 100% har; purpura; ödem
 * **Leder:** upp t 82%; ledsvullnad och ledvärk
 * **Mage och tarm**: 50-72%;  buksmärta, gastrointestinal blödning, invagination
@@ -1381,16 +1406,35 @@ En kort lista över kliniska manifestationer av CF:
 ***Prognos***
 
 * ***Oftast självbegränsande 1/3 återkommande symptom 4-6mån***
-* ***Risk för nedsatt njurfunktion***
+* ***!!! Risk för nedsatt njurfunktion***
   * ingen om normalt urin efter 6 mån
   * 1.5% om isolerad hematuri / proteinuri vid debut
   * 20% om nefrit / nefros vid diagnos
 
 
 
+***Komplikationer***
+
+* **IgA Nephropathy:** is a type of glomerulonephritis that can be seen in Henoch-Schonlein Purpura (HSP) both prior to or after onset of the associated rash.
+* 
+
+
+
 ***Uppföljning***
 
 * Föjer U-sticka 6 månader; polikliniskt; kanske 1gg i månaden
+
+
+
+***Bilder Henoch, HSP, IgA-vaskulit***
+
+<img src="./imgs/ped_sammanstallning_4HpCm0XY2V.png" alt="4HpCm0XY2V" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/ped_sammanstallning_p73kCSQn6C.png" alt="p73kCSQn6C" style="zoom:50%;" />
 
 
 
@@ -1446,38 +1490,112 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Mässling
 
-***Kliniska kännetecken***
 
-* ***Presenterar med exanthem i form av*** 
-  * Erytgenatls maculopapular utslag
-  * Descenderar from the huvud nacke område and 
-  * spreads to the trunk and limbs**
-* ***Kopliks fläckar i MoS***: vita fläckar i munnen
+
+***Presentation***
+
+* A 29-year-old Maltese man 
+  * without a significant past medical history presented with a 4-day history of intermittent fever associated with chills and rigours, nausea and multiple episodes of vomiting. A generalised maculopapular pruritic rash developed on the second day and he was sent to hospital for further investigation. On general examination the patient was haemodynamically stable with a temperature of 38°C. An exanthematous maculopapular rash was evident over the face, trunk and lower limbs including the soles of the feet ([figure 1](https://casereports.bmj.com/content/13/2/e232408.full#F1)). No Koplik spots were found. On examination there was tenderness in the right upper quadrant of his abdomen
+* A 18-year-old British woman, 
+  * on holiday in Malta, presented with a 3-day history of a pruritic generalised macular erythematous rash over her trunk ([figure 2](https://casereports.bmj.com/content/13/2/e232408.full#F2)), face and limbs. She also complained of a prominent dry cough with oxygen desaturation of 89% on room air despite a clear chest, myalgias and right iliac fossa tenderness on palpation, exacerbated by movement. Faint Koplik's spots were evident on examination. The patient had never received the MMR vaccine.
+  * <img src="./imgs/ped_sammanstallning_NzWqMPQGi6.png" alt="NzWqMPQGi6" style="zoom: 25%;" />
+* A 6-year-old boy 
+  * from northern Thailand developed rhinorrhea and a mild non-productive cough 8 days before admission to the Chiang Mai University Hospital (CMUH). Six days before admission to CMUH, he developed a tactile fever and was taken to a local clinic. He was prescribed a mucolytic and an antihistamine. Despite this treatment, his cough worsened and his fever persisted. Three days before admission to CMUH, he developed a facial rash, which proceeded to spread to his trunk ([figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3369465/figure/bcr.12.2011.5411.f1/)). On the day before admission to CMUH his fever and cough persisted, and he was transferred to CMUH for severe respiratory distress and potential need for mechanical ventilation. He was diagnosed with measles pneumonia. The child had no medical or surgical history. He did not take any medications. His birth history was unremarkable. He had no known drug allergies. His vaccination history included: BCG vaccine; diphtheria, pertussis and tetanus vaccine; oral polio virus vaccine (three doses); and hepatitis B vaccine (three doses).n the patient’s admission to CMUH, he was febrile (39.5°C), tachycardic (110–120 beats/min) and tachypnoeic (40 respirations/min). The child appeared ill and had bilateral conjunctivitis, a normal oral pharynx, decreased breath sounds with fine crepitation throughout, mild subcostal retractions and a generalised erythematous macular-papular rash with confluence on face, trunk and extremities
+
+
+
+
 
 
 
 ***Etiologi och patofysiologi***
 
+* ***Viruset, paramyxovirus***
 * ***Encefalit***: detta är det man är rädd för 
+* ***Försvagat immunförsvaret***: slår ut B-minnesceller, och 11-74% av antikroppar
+  * ***Alltsp***: slår ut minnes B-celllinjer som byggs upp vid tidigare exponering för patogen
+  * ***Förklarar***: tidigare observerad långvarig immun amnesi
+  * ***Reducerar antikroppsrepertoiren***: iom minnes B-celler attackeras, får reduceras repertoiren antirkoppar available
+  * ***Mässlingvaccin användning***: kopplat t lägre dödlighet i andra sjukdomar, med 30-40% LIC
+  * ***Ökad dödlighet andra sjukdomar***: 2-3 år efter infektion
+* ***Mässling aka rubeola eller 10-dagars mässling***: (i kontrast till rubella 3-dagars mässling) och orsakas av RNA-virus av paramyxoviridae familj
+* ***Neonatal mässling ovanligt av antikroppar***: det verkar som att mödrar har antikroppar mot mässling redan som förs över till barnet 
+* ***Vitamin A brist:*** Enl publikationer PMID11869601, är vitamin A briust en riskfaktore för att utveckla mässling. 
 
 
 
-***Utredning och diagnos***
+***Kliniska kännetecken***
 
-* Klinisk diagnos
-* IgM- och IgG serologi.
+* ***Kopliks fläckar i MoS***: vita fläckar i munnen; små grå papula på erythematös bas. 
+  * patognomont till mässlingt
+  * förekmmer innan generaliserat exantem
+  * transieent
+  * frånvarande vid tidpunkt som andra symptom uppkommer. 
+* ***Inkubationstid:*** 8-12d inkubationstid varpå symptom. 
+* ***klassisk klinisk prodrom***, efterföljt av transient enanthem (utslag på mukösa membran), sedan kännetecknas exantem (utslag på hud)
+* ***Tre C's***: ***Cough, Conjunctivitis, and Coryza***, för att komma ihåg klassisk prodrom. 
+* ***Andra tidiga symptom***: fotofobi och låggradig feber
+* ***Exanthem*** 
+  * erythematös maculopapular utslag
+  * Descenderar from the huvud området, nedåt nacke område  
+  * sprider till trunk and limbs
+* ***Temperatur:*** vanligtvis över 38.3 grader, följer onset symptom. 
 
 
 
 ***Komplikation***
 
-* ***SSPE***: subakut sklerosarnde panencefalit, kan komma efter 7 år, väldigt ovanlig, tappar hjärnfunktion sen dör man. 
+* ***Respiratorisk***
+  * **Pneumoni, vanligast**: samt vanligaste orsaken till mortalitet
+  * ***Otitis media:*** är också vanligt
+  * **Laryngit, laryngotracheobronchitis (krupp, är det riktig krupp)**
+* ***Encefalomyelit*** (i.e. inflammaton både hjärnan och ryggmärgan)
+* ***SSPE, subakut sklerosarnde panencefalit***, kan komma efter 7 år, väldigt ovanlig, tappar hjärnfunktion sen dör man. 
+* Enl illustrated, s 272
+  * Diarre,
+  * hepatit
+  * appendicit
+  * korneal ulceration
+  * myokardit
+
+
+
+***Epidemiologi***
+
+* Rutin mässlingvaccination signifikant sänkt och nästan eliminerat i incidens i USA, över senaste 50 pren.
+* innan vaccinationsprogrammet miljoner fall mässling varje år.
+* 50-100 fall i USA varje år nu
+* ***Infektiös***: mässling är väldigt infektiös
+
+
+
+***Utredning och diagnos***
+
+* ***Klinisk diagnos***
+* ***IgM- och IgG serologi.***
+* (enl BRS: PCR tst urin, hals, nasofarynx, eller )
+
+
+
+***Handläggning***
+
+* Behandling för mässling är mestadels symptomatiskt enl Illustrated paediatrics
+* 
 
 
 
 ***Behandling***
 
-* ***Vaccin***: 18 månader, för att man vill undvika immunbrist, man är säker att vid 18 månader så är barnet immunfriskt, annars skulle visat tecken på immunbrist tills dess. 
+* ***Vaccination***: 
+  * icke-akut: 18 månader, för att man vill undvika immunbrist, man är säker att vid 18 månader så är barnet immunfriskt, annars skulle visat tecken på immunbrist tills dess.
+  * **Akut: inom 72 timmar efter exponering**, ger god skyddseffekt mot kliniskt insjuknande. 
+* **Akut, mer än 72 timmar efter exponering**: Gammaglobulin (Beriglbin) 160mg/mL, im. 
+  * **nyförlötst spädbarn, immunsuppade** ges 0.5mL/kg, maximalt 15mL 
+* **Finns ej specifik behandling**: Vitamin A verkar användas i USA i de akuta fallen. 
+
+
+
+
 
 
 
@@ -1964,7 +2082,7 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ***Kliniska kännetecken***
 
-* **viral infek**: 1-4 veckor efter viral infektion
+* **viral infek**: 1-4 veckor efter viral infektionqtconsole jupyternotebook
 * **börjar abrupt:** 
   * cutaneous blödning (e.g. petekier, blåmärken)
   * mukös membran blödnin (e.g. epistaxis, tandköttsblödning)
@@ -2051,6 +2169,17 @@ Other:
 - drug withdrawal
 - cerebral dysgenesis
 - benign familial neonatal seizures
+
+
+
+### Tumör
+
+***Presentation***
+
+* ***Sture, 7 år***
+  * har sedan två månader börjat bli gnällig och missnöjd. Vid några tillfällen har han vaknat och klagat över huvudvärk. Vid flera tillfällen de senaste veckorna kräkts på morgonen. Han berättar också att han ser dubbelt, och i status misstänker du abduscenspares. Vilken sjukdom misstänker Du i första hand?
+
+
 
 ## Neonatologi
 

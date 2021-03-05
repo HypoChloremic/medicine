@@ -4,86 +4,68 @@
 
 ## Allmänt
 
-### Första levnadsåret
 
 
 
 
+### Barnets tillväxt
 
-### Undersökning
-#### ABCDE
+#### Drivfaktorer under tillväxt
 
-3e månaden
+* ***Fetalt***: 30% av adult längd
+  * **uterin miljö**: är drivande för den längden
+* ***Spädbarnsfasen***: 15% av adult längd, representeras under denna fas
+  * **Nutrition**
+  * **Bra hälsa och glädje**
+  * **Thyroidea hormon**
+* ***Barndomen***: 40% av den adulta längden
+  * **genetik**
+  * **bra hälsa och glädje**
+  * **tillväxthormon**, Growth Hormone (GH)
+  * **Thyroidea hormon**
+* ***Pubertet***: 15% av adult längd
+  * **testosteron och östrogen**
+  * **tillväxthormon**, GH
+* ***Könsskillnader***: vuxna män är längre än kvinnor, för att de har en längre barndomsfas + högre peak hastighet tilläxt + tillväxten hävs senare
 
-* Värt 
+<img src="./imgs/pedsum_mOWEJiY3vy.png" alt="mOWEJiY3vy" style="zoom: 50%;" />
 
-#### Grovmotorik
+***Fetalt***
 
-#### Skallen
+* Snabbaste tillväxtperioden. 
+* Determinerar 30% av den eventuella slutlängden som vuxne
 
-#### Gastroenterologi
+***Storlek vid födsel***
 
-#### Neurologiskt
-* Titta efter tappad leksak: månad
-* Fallreflexer åt sidan
-* Moro reflexen: cerebral pares om den fortfarande är tydlig efter att tidsfristen är över. 
-* tå-reflexen
-
-
-
-### Föda, nutrition och vikt
-
-#### Innehåll
-Saker att undvika
-* Saltmat ska man inte
-* Jordnötter för att det finns saker de kan sätta sig i halsen
-
-Det man bör ge
-* i princip alla födoämnen förutom d ovan. 
-
-#### Daglig energibehov
-
-* **1mån 120kcal/kg/d**
-* **1år 100kcal/kg/d**
-* **3år 85kcal/kg/d**
-* **pubertet 65kcal/kg/d**
-* **vuxen 30kcal/kg/d**
-
-#### Energiekvivalenter
-
-* 1kcal = 5.18kJ
-* 1kJ = 0.24kcal
-* 1g fett = 9kcal
-* 1g protein = 4kcal
-* 1g kolhydrat = 4kcal
-
-#### Viktutveckling
-
-* ***Formeln***
-  * 2-7 år: $2\times\text{ålder} + 8$
-  * Yngre än 2åå
-* **1-3mån = 5kg**
-* **1år = 10kg**
-* **3år = 15kg**
-* **5år = 20kg**
-* **7år = 25kg**
-* **9år = 30kg**
-* **12år = 40kg**
-* **14år = 50kg**
+* Påverkas av flera faktorer
+* **mammas storlek**
+* **placental nutrient supply**: Modulerar fetala tillväxtfaktorer
+  * IGF-2
+  * Human placental lactogen 
+  * insulin
+* ***påverkas ej av***: storlek vid födsel är *oberoende* av pappans längd + tillväxthormon (GH)
+* ***Långt gående konsekvenser***: låg storlek vid födsel har en högre sannolikhet för barnet att utveckla obesitas senare i livet. 
 
 
 
-#### Bröstmjölk och amning
+***Vikt***
 
-* Optimal sammansättning
-* reducerar infektionsrisk
-* förstoppar inte
-* mer hygieniskt
-* ekonomiskt
-* tillgängligt
-* anknytning
+* ***quadrupled weight***: efter 2.5 år
 
-***Rekommendera: upp t 6mån ålder***
+
+
+***!!! Endokrinologiskt***
+
+* **fosterfasen**: Insulin kortison.  
+* **spädbarnsfas**: IGF-1, tyrodieahormon, insulin, kortison. 
+* **barndomsfas**: tillväxthormon ( from 1,5åå), senare androgener (. From 7åå).  
+* **Pubertetsfas**: könshormoner.
+* I enlighet med olika åldrar
+  * 3 månader, IGF-1, insulin, thyroideahormon, kortisol.  
+  * 4 år, Barndomsfasen: Tillväxthormon 
+  * 12år,  Pubertetsfas: könshormone
+
+
 
 
 
@@ -147,7 +129,7 @@ Motorisk utveckling sker som snabbast det första levnadsåret.
   * ***Gränsåldern***: är 18 månader.
   * ***om ej uppnådd efter detta misstänk:***
     *  cerebral pares (cerebral palsy, CP), 
-    * psykosocialt: understimulering socialt, social deprivation
+    *  psykosocialt: understimulering socialt, social deprivation
   * ***Motorisk mönster***: det finns olika sätt att ta sig upp p ben, fr krälgång, crawling, till att man direkt ställer sig upp o går
     * det som determinerar tiden, som mest, är om barnet hasar först, då brukar det ta längre tid. 
 * ***Cefalocaudalt mönster, cephalocaudal pattern***
@@ -318,6 +300,251 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
 
 
 
+
+
+
+
+
+
+### Förstorad huvudomfång
+
+Utredning
+
+* Ultraljud: förutsätter att fontanellerna är kvar, man skickar de till ultraljud för utredning. 
+  * bakre skallgropsförändringar ser ma nitne med ultraljud, som man ska komma ihåg. 
+* letar ökat tryck, tumör
+* MR: tveksamheter med ultraljud
+
+
+
+
+
+
+
+* 
+
+
+
+### Föda, nutrition och vikt
+
+#### Innehåll
+Saker att undvika
+* Saltmat ska man inte
+* Jordnötter för att det finns saker de kan sätta sig i halsen
+
+Det man bör ge
+* i princip alla födoämnen förutom d ovan. 
+
+#### Daglig energibehov
+
+* **1mån 120kcal/kg/d**
+* **1år 100kcal/kg/d**
+* **3år 85kcal/kg/d**
+* **pubertet 65kcal/kg/d**
+* **vuxen 30kcal/kg/d**
+
+#### Energiekvivalenter
+
+* 1kcal = 5.18kJ
+* 1kJ = 0.24kcal
+* 1g fett = 9kcal
+* 1g protein = 4kcal
+* 1g kolhydrat = 4kcal
+
+#### Viktutveckling
+
+* ***Formeln***
+  * 2-7 år: $2\times\text{ålder} + 8$
+  * Yngre än 2åå
+* **1-3mån = 5kg**
+* **1år = 10kg**
+* **3år = 15kg**
+* **5år = 20kg**
+* **7år = 25kg**
+* **9år = 30kg**
+* **12år = 40kg**
+* **14år = 50kg**
+
+
+
+#### Bröstmjölk och amning
+
+* Optimal sammansättning
+* reducerar infektionsrisk
+* förstoppar inte
+* mer hygieniskt
+* ekonomiskt
+* tillgängligt
+* anknytning
+
+***Rekommendera: upp t 6mån ålder***
+
+
+
+
+
+### Hypothyreos
+
+* Kurvan ser enligt kalle okej ut, att det är inte helt manglat kurva, bara en avplaning som man ska beakta.
+
+
+
+
+
+
+
+### Medfödda missbildningar
+
+***Medfödda missbildningar svårupptäckta vid födsel som kan vara plötsligt livshotande***
+
+* **Enl studentsvar tenta**
+  * **Gallvägsatresi**, över 4 veckor, konjugerat bili
+  * **Vitium organicum cordis, hjärtvitier, ductusberoende** under 3 fel
+    * koarktio aortae, coarctio
+    * TGA (transposition of the great arteries)
+    * pulmonalisatresi
+  * **tracheoesofageal fistel** (ofta kopplat t esofagusatresi)
+  * **avsaknad thymus**
+  * **koanalatresi**
+    * membran mellan näsan och luftvägar typ 
+    * märks om den är helt sluten bilateral
+    * då behöver de andas genom munnen
+    * annars om det är bara är en del kan de andas gm näsan lite
+  * **duodenalatresi**
+  * **gallvägsatresi**
+  * **malrotation**
+  * **diafragmabåck**: blir värre av ventilering eftersmo lyft också ner i ventrikel o luft i tarmar som är påväg upp i thorax
+  * **transposition**
+  * **VSD**
+
+
+
+### Pubertas praecox - För tidig pubertet
+
+* Man gillar det inte
+* man ska utreda detta, att man tar hormonprover för att se. 
+
+
+
+***Presentation***
+
+* isolerad svettlukt eller behåring... klan vara binjurebarkstumör
+  * MEN då ska man inte ha tillväxt eller könskognad, detta sker ej med binjurebarksmognad. 
+
+
+
+***Allmänt***
+
+* Notera att adenarche att binjurebarkspubertet kan ske tidigt, och det kan vara okej
+  * man gör ej MR hjärna för att man luktar svett
+  * utan man ska titta på de andra tecken på pubertet som man ska vara varsam för och uppmärksam. 
+
+
+
+***Definition:***
+
+* Flickor: Brösttillväxt < 8 åå
+* Pojkar: Testikelvolym > 4 ml < 9 åå
+
+
+
+***Orsak:***
+
+* Hos pojkar ofta patologisk orsak -> utredning obligat
+* Hos flickor oftast idiopatiskt
+* Centralt utlöst: CNS-tumör, idiopatisk
+* Perifert utlöst: Binjurebarkstumör
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Handläggning och Utredning***
+
+* Gonadotroppiner, bla LH, FSH, CENTRAL
+* könshormoner: östrogen, testosteron, PERIFER
+* skelettålder
+* MR hjärna
+* Gällande om man luktar svett
+  * att isolerat lukta svett, sen att det går bort etc, detta är okej
+  * notera 
+
+
+
+***Behandling***
+
+* GnRH-analoger (block av gonadotropin-utsöndring)
+
+
+
+* 
+
+### Pubertas tarda
+
+***Etiologi och patofysiologi***
+
+* Multifaktoriellt, samt många olika orsaker
+* Heriditet för sen pubertet: dominerar störst, se till att fråga föräldrarna om de hade för sen pubertet
+* ***Anorexia***
+* ***Kronisk sjukdom***
+* ***Hård träning***: både män och kvinnor. 
+* allvarligare diagnoser som ska beaktas
+  * ***CNS-tumör*** (ex kraniofaryngiom): detta att man får utreda.
+    * hypofystumör
+  * ***Turners syndrom***
+
+
+
+***Utrednin***
+
+* Gonadotropiner: bla FSH, LH;
+  * dessa bör dra iväg först. 
+* Könshormoner: östrogen och testosteron
+  * har man ett testo som börjar dra iväg ibland, då vet man att pubertet är snart igång
+
+
+
+***Handläggning och utredning***
+
+
+
+***Behandling***
+
+* testostoron im inj
+* östrogen plåster
+  * många tjejer som avstår. 
+
+
+
+
+
+### Undersökning
+
+#### ABCDE
+
+3e månaden
+
+* Värt 
+
+#### Grovmotorik
+
+#### Skallen
+
+#### Gastroenterologi
+
+#### Neurologiskt
+
+* Titta efter tappad leksak: månad
+* Fallreflexer åt sidan
+* Moro reflexen: cerebral pares om den fortfarande är tydlig efter att tidsfristen är över. 
+* tå-reflexen
+
+
+
+
+
 ### Utveckling screening
 
 Man kan screena barnet för flera saker, under dess utvecklingsperiod:
@@ -326,62 +553,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 <img src="./imgs/pedsum_t7u9axJ1mD.png" alt="t7u9axJ1mD" style="zoom:80%;" />
 
-### Barnets tillväxt
-
-#### Drivfaktorer under tillväxt
-
-* ***Fetalt***: 30% av adult längd
-  * **uterin miljö**: är drivande för den längden
-* ***Spädbarnsfasen***: 15% av adult längd, representeras under denna fas
-  * **Nutrition**
-  * **Bra hälsa och glädje**
-  * **Thyroidea hormon**
-* ***Barndomen***: 40% av den adulta längden
-  * **genetik**
-  * **bra hälsa och glädje**
-  * **tillväxthormon**, Growth Hormone (GH)
-  * **Thyroidea hormon**
-* ***Pubertet***: 15% av adult längd
-  * **testosteron och östrogen**
-  * **tillväxthormon**, GH
-* ***Könsskillnader***: vuxna män är längre än kvinnor, för att de har en längre barndomsfas + högre peak hastighet tilläxt + tillväxten hävs senare
-
-<img src="./imgs/pedsum_mOWEJiY3vy.png" alt="mOWEJiY3vy" style="zoom: 50%;" />
-
-***Fetalt***
-
-* Snabbaste tillväxtperioden. 
-* Determinerar 30% av den eventuella slutlängden som vuxne
-
-***Storlek vid födsel***
-
-* Påverkas av flera faktorer
-* **mammas storlek**
-* **placental nutrient supply**: Modulerar fetala tillväxtfaktorer
-  * IGF-2
-  * Human placental lactogen 
-  * insulin
-* ***påverkas ej av***: storlek vid födsel är *oberoende* av pappans längd + tillväxthormon (GH)
-* ***Långt gående konsekvenser***: låg storlek vid födsel har en högre sannolikhet för barnet att utveckla obesitas senare i livet. 
 
 
 
-***Vikt***
-
-* ***quadrupled weight***: efter 2.5 år
-
-
-
-***!!! Endokrinologiskt***
-
-* **fosterfasen**: Insulin kortison.  
-* **spädbarnsfas**: IGF-1, tyrodieahormon, insulin, kortison. 
-* **barndomsfas**: tillväxthormon ( from 1,5åå), senare androgener (. From 7åå).  
-* **Pubertetsfas**: könshormoner.
-* I enlighet med olika åldrar
-  * 3 månader, IGF-1, insulin, thyroideahormon, kortisol.  
-  * 4 år, Barndomsfasen: Tillväxthormon 
-  * 12år,  Pubertetsfas: könshormone
 
 ### Tillväxtkurvor
 
@@ -460,116 +634,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-### Hypothyreos
 
-* Kurvan ser enligt kalle okej ut, att det är inte helt manglat kurva, bara en avplaning som man ska beakta.
-
-
-
-### Pubertas praecox - För tidig pubertet
-
-* Man gillar det inte
-* man ska utreda detta, att man tar hormonprover för att se. 
-
-
-
-***Presentation***
-
-* isolerad svettlukt eller behåring... klan vara binjurebarkstumör
-  * MEN då ska man inte ha tillväxt eller könskognad, detta sker ej med binjurebarksmognad. 
-
-
-
-***Allmänt***
-
-* Notera att adenarche att binjurebarkspubertet kan ske tidigt, och det kan vara okej
-  * man gör ej MR hjärna för att man luktar svett
-  * utan man ska titta på de andra tecken på pubertet som man ska vara varsam för och uppmärksam. 
-
-
-
-***Definition:***
-
-* Flickor: Brösttillväxt < 8 åå
-* Pojkar: Testikelvolym > 4 ml < 9 åå
-
-
-
-***Orsak:***
-
-* Hos pojkar ofta patologisk orsak -> utredning obligat
-* Hos flickor oftast idiopatiskt
-* Centralt utlöst: CNS-tumör, idiopatisk
-* Perifert utlöst: Binjurebarkstumör
-
-
-
-***Kliniska kännetecken***
-
-
-
-***Handläggning och Utredning***
-
-* Gonadotroppiner, bla LH, FSH, CENTRAL
-* könshormoner: östrogen, testosteron, PERIFER
-* skelettålder
-* MR hjärna
-* Gällande om man luktar svett
-  * att isolerat lukta svett, sen att det går bort etc, detta är okej
-  * notera 
-
-
-
-***Behandling***
-
-* GnRH-analoger (block av gonadotropin-utsöndring)
-
-
-
-### Förstorad huvudomfång
-
-Utredning
-
-* Ultraljud: förutsätter att fontanellerna är kvar, man skickar de till ultraljud för utredning. 
-  * bakre skallgropsförändringar ser ma nitne med ultraljud, som man ska komma ihåg. 
-* letar ökat tryck, tumör
-* MR: tveksamheter med ultraljud
-* 
-
-### Pubertas tarda
-
-***Etiologi och patofysiologi***
-
-* Multifaktoriellt, samt många olika orsaker
-* Heriditet för sen pubertet: dominerar störst, se till att fråga föräldrarna om de hade för sen pubertet
-* ***Anorexia***
-* ***Kronisk sjukdom***
-* ***Hård träning***: både män och kvinnor. 
-* allvarligare diagnoser som ska beaktas
-  * ***CNS-tumör*** (ex kraniofaryngiom): detta att man får utreda.
-    * hypofystumör
-  * ***Turners syndrom***
-
-
-
-***Utrednin***
-
-* Gonadotropiner: bla FSH, LH;
-  * dessa bör dra iväg först. 
-* Könshormoner: östrogen och testosteron
-  * har man ett testo som börjar dra iväg ibland, då vet man att pubertet är snart igång
-
-
-
-***Handläggning och utredning***
-
-
-
-***Behandling***
-
-* testostoron im inj
-* östrogen plåster
-  * många tjejer som avstår. 
 
 ## Allergi
 
@@ -903,21 +968,9 @@ Utredning
 
 ## Gastroenterologi
 
-### Funktionell förstoppning
-
-***Diagnos***
-
-* Förstoppning utan känd orsak
-
-### Förstoppning
-
-***Röda flaggor***
-
-* Tillväxthämning, faltering growth: Hypothyroidism, celiaki, och andra orsaker
 
 
-
-### biliär atresi, gallvägsatresi
+### Biliär atresi, gallvägsatresi
 
 ***Behandling***
 
@@ -1013,6 +1066,43 @@ Utredning
 
 <img src="./imgs/ped_samman_mAMH0d6QoJ.png" alt="mAMH0d6QoJ" style="zoom: 67%;" />
 
+
+
+
+
+### Funktionell förstoppning
+
+***Diagnos***
+
+* Förstoppning utan känd orsak
+
+### Förstoppning
+
+***Röda flaggor***
+
+* Tillväxthämning, faltering growth: Hypothyroidism, celiaki, och andra orsaker
+
+
+
+
+
+## Hepatologi
+
+### Ikterus hos barn
+
+***Presentation***
+
+* **Du går BB rond och blir informerad om ett barn som är 30 timmar gammalt och harbilirubin 280 (högt) varav konjugerat 20**
+  * ABO-immunisering, Rh-immunisering
+  * sfärocytos
+  * fysiologisk
+* **3 dygn gammalt arn, ikteriskt, bilirubin 380, konjugerat 10**
+  * Bröstmjölksinducerad
+  * fysiologisk
+* **6 veckor gammalt barn ikteristk, gulgrön ton som tilltagit senaste tre veckorna. bili 270, konjugerat 90**
+  * Gallvägsatresi
+  * lever/gallvägssjukdom - hepatit
+  * 
 
 
 
@@ -1346,7 +1436,9 @@ cause 'notching' of ribs on x-ray (Fi* 8.11 B).
   * Han har fallit i vikt 1,5 SD sedan 8 månaders ålder och han har fallit 1 SD i längd. 
   * Blodstatus visar lätt anemi och lätt stegrade neutrofiler, CRP 130 mg/l. 
   * När du lyssnar på hans lungor är det rikliga biljud från båda sidorna med slembiljud, rhonki och rassel. 
-  * Överläkaren frågar dig under ronden vad du misstänker för sjukdom
+    * Överläkaren frågar dig under ronden vad du misstänker för sjukdom: cystisk fibros
+    * Vilket/vilka prover vill du ta för att styrka din misstanke? Svettest, genotypning ev F-elastas
+    * ytterligare anamnes relevant fråga: hereditet? friska sjuka syskon
 
 
 
@@ -2135,14 +2227,13 @@ Ataxic cerebral palsy is due to [...] damage.
   * diffar vid denna punkt? ITP, leukemi, (hemolytisk anemi?)
   * Prover visar: Hb 80, TPK 50, LPK 50, blaster i diff, PKINR 1.3, APTT ua, lätt förhöjt krea, normalt Na, urat förhöjt, normala-lättstegrade transaminaser, CRP 15
   * arbetsdiagnos nu: leukemi kanske ALL specifikt
-* 
 * Lisa 3 år inkommer till akuten för att hon sedan tre dagar haft små petekier på bålen. Hon har också haft lite lätt feber 38,2 grader utan förkylningssymtom. Ingen blödning från slemhinnor eller tarm. Föräldrarna tycker att hon varit lite tröttare än vanligt och varit gnällig i slutet av dagarna på förskolan sedan cirka 2 veckor. I status kan du notera några få, diskreta petekier på bålen. Hon har fin färg. I buken känner du en resistens till vänster i buken ca 3 cm nedom arcus i mamillarlinjen och du misstänker en mjältförstoring. Hjärta lungor fysikaliskt ua. Du tar ett blodstatus som visar tpk 27 x 10 9 /l, Hb 85 g/l, Lpk 10,8 x 10 9 /l Med bakgrund av symtom, status och lab misstänker du i första hand (2p)
-    * Fel alternativ
-    * a) leukemi och anstaltar om diff, urat samt benmärgsundersökning
-    * b) ITP och kollar diff samt antikroppar mot trombocyter
-    * c) aplastisk anemi och anstaltar om diff
-    * d) aplastisk anemi och anstaltar om diff och benmärgsundersökning
-    * Rätt alternativ: e) leukemi och anstaltar om diff, urat, benmärgsundersökning med kromosomundersökning
+  * Fel alternativ
+  * a) leukemi och anstaltar om diff, urat samt benmärgsundersökning
+  * b) ITP och kollar diff samt antikroppar mot trombocyter
+  * c) aplastisk anemi och anstaltar om diff
+  * d) aplastisk anemi och anstaltar om diff och benmärgsundersökning
+  * Rätt alternativ: e) leukemi och anstaltar om diff, urat, benmärgsundersökning med kromosomundersökning
 
 
 
@@ -2152,7 +2243,144 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
-### Sickle-sjukdom
+
+
+### G6PD - hemolysrelaterat
+
+***Etiologi och patofysiologi***
+
+
+
+
+
+***Kliniska kännetecken***
+
+
+
+### Hemoglobinets fysiologi under barnaåren
+
+***Fysiologi***
+
+* **Hematopoes prenatalt**: processen som underhåller livslång produktion av blodceller. 
+  * ***Locale:*** huvudsakliga lokalen är ***levern!***. Postnatalt överförs till benmärgen. 
+* ***hematopoetiska celler***: alla stammar fr plurpotenta hematopetiska stamceller, essentiella för blodcellsproduktion. 
+  * brist på dessa stamceller leder till benmärgssvikt varpå ej kan tillhanadahålla tillräckliga med blodceller. 
+* **Hemoglobin produktion fetalt**
+  * **Mönster hemoglobinproduktion**
+  * **Hemoglobin proteiner utefter stadie:**
+    * **Embryonalt**: Hb Gower 1-2, Hb Portland
+    * **Fetalt**: HbF
+    * **Adult**: HbA och HbA2
+  * **Hemoglobin typer i nyfödd och adult**
+    * **nyfödd**: HbF 74%, HbA 25%, HbA2 1%
+    * **barn över 1 år och adulta**: HbA 97%, HbA2 2%
+* **HbF**: Fetalt hemoglobin har högre affinitet för syrgas, jämfört med HbA. Nyttigt för att väldigt hypoxisk miljö i den fetala cirkulationen. Saturationsnivån är kring 60% i det venösa blodet som kommer tilblaka fr placenta. 
+  * saturationen (alltså att man saturerat loci för syrgas i hemoglobin proteinerna) är högre för lägre tryck syrgas i cirkulationen. 
+* **Graduell ersättning efter födsel**: HbF ersätts graduellt postnatalt med HbA och HBAw. 
+  * **1åå, HbF låg**: vid 1åå är koncentrationen HbF låg hos barnet. 
+
+
+
+***Protektivt med HbF***
+
+* **HbF är protektivt vissa anemier**
+* **Sickle-cell anemi**: förklarar varför nyfödda är asymptomatiska första året, men att symptom utvecklas efter det. 
+* ***Thalassemi och viss typ av benmärgssvikt***: Högre koncentration HbF kan vara indikativt för thalassemi också, 
+
+<img src="./imgs/ped_samman_MSJMVKVxxw.png" alt="MSJMVKVxxw" style="zoom:50%;" />
+
+
+
+
+
+
+
+### Hemolys
+
+***Etiologi och patofysiologi***
+
+* **Autimmun hemolytisk anemi**
+* **G6PD**
+* **Hereditär sfärocytos relaterad hemoloys**
+* **Sickle-cell anemi**
+
+
+
+### Lymfom
+
+***Kliniska kännetecken***
+
+* **vanligaste**: hastigt växande oömma lymfkörtlar
+  * ofta halsen
+  * kan vara bröstkorg, mage
+* **lokalisation relaterat med symptom**
+  * **andningsproblem**: lymfom i bröstkorgen
+  * **smärta**: lymfom i buk
+* **generell påverkan:** trötthet, feber, avmagring, B-symptom generellt. 
+
+
+
+***Initial utredning***
+
+* **Labb**: 
+  * **Blodstatus + diff:** essentiell del i utredningen
+  * **leverstatus + njurstatus:** evaluera status av viktiga organ, då möjligt med härdar i respektive organ eller att njurarna tar skada av tumörsjukdomen. 
+
+
+
+### Sfärocytos - hemolysrelaterat
+
+
+
+***Etiologi och patofysiologi***
+
+* 1:5000 födslar in caucasians
+* autosomalt dominant
+* 25% sporadisk
+* mutationer membranproteiner: spectrin, ankyrin, band3
+* ***Förlust av membran när passerar gm mjälten***: muterade membranproteinerna leder till att RBC förlorar en del membran när RBC passerar gm mjälten. 
+* ***Reducerar yt-volym kvot:*** cellerna blir sfäroidala (spheroidal); blir mindre omformbara (deformable) jfr normala blodceller, leder till destruktion i mikrovaskulaturen i mjälten.
+
+
+
+***Kliniska kännetecken***
+
+* Hereditet, familjehistorik
+* högst variable kliniska kännetecekn
+* **asymptomatiska** 
+* **ikterus**: utvecklas vanligtvis utvecklas under barndom, men kan vara intermittent. 
+  * **kan hemolytisk ikterus första dagarna i livet**
+* **Anemi**: presenterar i barndomen med mild anemi (Hb 90-110g/L), men Hb nivåerna kan sjunka under **infektioner**
+* **! Aplastisk kris**: ovanlig, transient (2-4 veckor), orsakas av parvovirus B19 infektion (i.e. erythema infectiosum, femte sjukan)
+* **Gallstenar**: pga ökad exkretion bilirubin
+
+
+
+***Diagnos***
+
+* **Blodfilm** (blodutstryk?)
+* **mer specifika tester**: e.g. dye binding assay eller osmotisk fragilitet
+* **although seldom required**
+* **autoimmun hemolytisk anemi** är också associerad med sfärocyter, men detta kan exkluderas med direkt antikropps test (DAT?) och frånvaro familjehistorik av hereditär sfärocytos
+
+
+
+***Utredning och handläggning***
+
+* enl illustrated paediatrics
+
+  * **flesta barn har mild kronisk hemolytisk anemi;** 
+    * **Folsyra**: enda behandling som behövs är oral folsyra  för att de har högre folsyrebehov sekundärt till ökad blodcellsproduktion. 
+  * **Splenektomi:** beneficial men indikeras för poor growth eller trobulesom symptom av anemi (e.g. ssvår trötthet, minskad vigör) och vanligtvis deferred tills 7pp, för att riskerna med postsplenektomisk sepsis. 
+  * **Vaccinationer**: innan splenektomi considered, ska man vara vaccinerad, HiB, meningit C, och streptococcus pneumoniae,
+  * ***Aplastisk kris***: fr parvovirus B19 infektion vanligtvis behöver en eller två **blodtransfusioner** över 3-4v period, när ingen röda blodkropps produceras. 
+  * **Gallstenar**: symptomatiska kan föranleda kolecystekomi
+
+  
+
+
+
+### Sickle cell sjukdom
 
 
 
@@ -2161,22 +2389,6 @@ Ataxic cerebral palsy is due to [...] damage.
 ***Kliniska kännetcken***
 
 * Avaskulär nekros: caput femoris
-
-### Thalassemia
-
-
-
-***Kliniska kännteckensopressors indicated in paediatric sepsis resus?***
-
-* ***Extramedullär hematopoes***: skallen blir stort. 
-* ***pallor***
-
-
-
-***Behandling***
-
-* Minor: ingen behandling utan symptom
-* Major: transfusion (oftast), benmärgstransplantation (supposedly inte funkar)
 
 
 
@@ -2224,7 +2436,7 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
-### ITP
+###  ITP
 
 ***Presentation***
 
@@ -2304,6 +2516,26 @@ Ataxic cerebral palsy is due to [...] damage.
   * e.g. 14åå patient + som inte jätte aktiv = prednisolonkur istället
 * // **trombocytkoncentrat**: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
 * ***Behandlingstrappa:*** Föreläsare nämnde behandlingstrappa som missades?
+
+
+
+
+
+### Thalassemia
+
+
+
+***Kliniska kännteckensopressors indicated in paediatric sepsis resus?***
+
+* ***Extramedullär hematopoes***: skallen blir stort. 
+* ***pallor***
+
+
+
+***Behandling***
+
+* Minor: ingen behandling utan symptom
+* Major: transfusion (oftast), benmärgstransplantation (supposedly inte funkar)
 
 
 
@@ -2498,6 +2730,56 @@ Other:
 
 
 
+
+
+### Wilms tumör
+
+***Presentation***
+
+
+
+***Etiologi och patofysiologi***
+
+* Renal tumör
+* 5% av patienterna har bilateral sjukdom
+* en av de vanligaste renala tumörerna hos barn
+
+
+
+***Kliniska kännetecken***
+
+* Ofta: presenterar med stor abdominell massa
+* ofta hittas incidentalt i annars friska barn.
+
+
+
+***Utredning och handläggning***
+
+* **Anamnes**
+  * svullnad magen
+  * sällan symptom men föräldrar noterar knöl eller svullnad på ena sidan av barnets mage
+* **Diagnosen ställs med hjälp av ultraljud**. Viktigt att undersöka båda njurarna kan förekomma bilateralt. Kan i vissa fall men sällsynt sprida sig till lever och skelett. 
+* **Radiologiskt**: kmr visa intern renal massa distorting the normal structure. 
+  * Ultraljud
+  * och/eller DT el MR
+* **Staging**: assess fjärrmetastaser (lunga vanligtvis); intiial tumör resektabilitet; funktion av kontralateral njure. 
+
+
+
+***Behandling***
+
+* I UK enl Illustrated paediatrics
+  * receive initiell kemoterapi + delayed nefrektomi
+  * tumören stageas efter det histologiskt och sedan bedöms kirurgiska och patologiska fynden
+
+
+
+***Prognos***
+
+* Väldigt god, över 80-90% botade
+
+
+
 ## Klinisk Genetik
 
 ### Downs syndrom
@@ -2551,6 +2833,18 @@ Other:
 
 
 ## Ortopedi
+
+### Coxitis simplex
+
+***Presentation***
+
+* En 5-årig pojke
+  *  kommer in till akuten pga hälta på höger sida. Han klagar inte så mycket men vill inte gå på det högra benet. Han har ingen feber och är tidigare frisk. Du undersöker honom och noterar då skyddsreflexer o smärta vid rotation i höger höft. Övrigt status i leder och rörelseapparaten är utan anmärkning. Blodstatus med diff är normalt, CRP < 5.
+  * sannolik diagnos: coxitis simplex
+  * bekräfta diagnos: UL-höft kan göras, ej nödvändigt för diagnos enl tentasvar fr student
+  * om diagnosmisstanke bekräftas vad visar undersökningen: ledutgjutning åp ultraljud, i.e. ökad vätska i leden.
+
+
 
 ### Höftdysplasi
 

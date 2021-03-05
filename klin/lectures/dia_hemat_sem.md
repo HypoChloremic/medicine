@@ -849,7 +849,7 @@ Onkologen: Benmärgspunktion, molekylärdiagnostisk us, LP, ev radiologi.
 * detta är en stamcellssjuka: trilinjär påverkan + blaster i blodet (det är malignitet tills motsatsen bevisad)
 * Om man har malignitetsmisstanke: 
   * man kan ringa barnonkologjouren och fråga: om det kan vänta till morgondagen
-* ***om det är s"att man tagit blodproverna o vill se proverna innan gör ngt, om man misstänker ngt om malignitet***
+* ***om det är så att man tagit blodproverna o vill se proverna innan gör ngt, om man misstänker ngt om malignitet***
   * då antingen skicka in barnet
   * eller ha ngn som bevakar proverna med en jour
 * ***har man stark misstanke malignitet***
@@ -1110,7 +1110,9 @@ hos hnm: blodstatus ua men låga TPK (23)
 
 ### Fall 5
 
-***a) Kim är 9 år gammal, tidigare väs frisk, men har nu varit trött och håglös de senaste veckorna. Kim brukar i vanliga fall älska att spela fotboll, men är nu grymt osugen på detta. Har varit lite småsnuvig hela vintern, men ingen större skolfrånvaro. Äter och dricker hyfsat. Inget avvikande i status förutom att han ev är lite blek. I rutinprover finner du bla följande: Hb 95, MCV 65.*** 
+* Kim är 9 år gammal, tidigare väs frisk, men har nu varit trött och håglös de senaste veckorna. Kim brukar i vanliga fall älska att spela fotboll, men är nu grymt osugen på detta. Har varit lite småsnuvig hela vintern, men ingen större skolfrånvaro. Äter och dricker hyfsat. Inget avvikande i status förutom att han ev är lite blek. I rutinprover finner du bla följande: Hb 95, MCV 65.
+
+
 
 ***Hur tolkar du detta?***
 

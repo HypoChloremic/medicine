@@ -3882,6 +3882,8 @@ Händerna väldigt karakteristiska
 * observerat av läk
 * inte primärt orsakad av mekaniska eller andra identifierbara orsaker
 
+
+
 ***Förekomst***
 
 * Incidens: 12-18 p 100k
@@ -3903,6 +3905,8 @@ Händerna väldigt karakteristiska
   * ***borreliaserologi***: antibiotika
   * ***skelett-röntgen***: tumör, ortopedi, infektion
 * ***Annat:*** RF, anti-CCP, odlingar serologi, CK, ALAT, ASAT,A Krea, skelettscint, Ultraljud, MR med gadoliniumkontrast
+
+
 
 ***Differentialdiagnostiskt***
 

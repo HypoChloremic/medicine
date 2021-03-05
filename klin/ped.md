@@ -348,7 +348,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 <img src="./imgs/pedsum_mOWEJiY3vy.png" alt="mOWEJiY3vy" style="zoom: 50%;" />
 
-#### Fetalt
+***Fetalt***
 
 * Snabbaste tillväxtperioden. 
 * Determinerar 30% av den eventuella slutlängden som vuxne
@@ -366,11 +366,22 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-#### Vikt
+***Vikt***
 
 * ***quadrupled weight***: efter 2.5 år
 
 
+
+***!!! Endokrinologiskt***
+
+* **fosterfasen**: Insulin kortison.  
+* **spädbarnsfas**: IGF-1, tyrodieahormon, insulin, kortison. 
+* **barndomsfas**: tillväxthormon ( from 1,5åå), senare androgener (. From 7åå).  
+* **Pubertetsfas**: könshormoner.
+* I enlighet med olika åldrar
+  * 3 månader, IGF-1, insulin, thyroideahormon, kortisol.  
+  * 4 år, Barndomsfasen: Tillväxthormon 
+  * 12år,  Pubertetsfas: könshormone
 
 ### Tillväxtkurvor
 
@@ -449,13 +460,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-
-
 ### Hypothyreos
 
 * Kurvan ser enligt kalle okej ut, att det är inte helt manglat kurva, bara en avplaning som man ska beakta.
-
-
 
 
 
@@ -565,6 +572,32 @@ Utredning
   * många tjejer som avstår. 
 
 ## Allergi
+
+### Anafylaxi
+
+
+
+***Presentation***
+
+* En 7 årig flicka 	
+  * söker p g a av en allergisk reaktion efter intag av jordnötter. Hon har urtikaria över större delen av hudkostymen. Vilken kombination av symptom – utöver urikarian - gör att hon inte uppfyller kriterierna för anafylaxi?
+    * Detta är EJ anafylaxi: Svullen tunga, en kräkning och klåda i munnen
+    * Dessa är anafylaxi: Andningsbesvär med ronki, svullna läppar och konjunktivit med klåda; Upprepade kräkningar, heshet och klåda i halsen; Nysningar, ökande buksmärta och heshet; Hjärtklappning, diarré och sväljningsbesvär
+
+
+
+***Definition***
+
+* Snabbt insättande svår överkänslighetsreaktion med symptom från flera organsystem som är potentiellt livshotande. Reaktionen kan utlösas av födoämnen, insektsstick, läkemedel samt okända faktorer. 
+
+
+
+***Kliniska kännetecken***
+
+* ***Hud***: Urtikaria, quinckeödem, klåda, flush, blekhet.
+*  GI: Kräkning, illamående, sväljningssvårigheter, diarré.
+*  Luftvägar: Svullnad i övre luftvägar, astma, hosta, heshet, nästäppa, rinnsnuva.
+  *  Cirkulation: Kardiovaskulär chock, takykardi, svag puls, blodtrycksfall. 
 
 ### Astma 
 
@@ -796,6 +829,74 @@ Utredning
 
 * VAsopressor
   * hypovolemi eller hypoxi refraktär efter 3e bolus ringer, ej återställd cirkulation 
+
+
+
+
+
+
+
+## Dermatolog
+
+### Erythema migrans
+
+
+
+***Etiologi och patofysiologi***
+
+* ***Borrelia Burgdorferi:*** bakteire, spiroket, sprids fästngar. Fästingar i stor mängd, större delen av Sverige
+
+
+
+***Epidemiologi***
+
+* 
+
+
+
+***Kliniska kännetecken***
+
+* Erytemet börjar som en homogen ljusröd eller blåröd rodnad i hudens plan 
+* 1-4 veckor efter fästingbett. 
+* Efter en tid klarnar rodnaden centralt och antar en ringform, som långsamt växer i storlek. Atypiska fall förekommer mer sällan som hudrodnad utan övergång i ringform eller som vätskande hudulceration.
+* Vanligtvis förekommer inga lokalsymtom, men några patienter upplever klåda och sensibilitetstörningar över rodnaden.
+* Knappt 10 % av patienterna utvecklar multipla erytem. Detta, liksom feber, anses utgöra tecken på disseminerad infektion med ökad risk för spridning till andra organ.
+* Bilderna nedan visar hur erytema migrans kan se ut.
+
+
+
+***Differentialdiagnoser***
+
+* Bettreaktion (försvinner inom 1 vecka)
+* Kontaktallergi
+* Svampdermatoser
+* Erysipelas
+
+
+
+***Behandling***
+
+* ***Singelerytem utan feber (vuxna)***: Fenoximetylpenicillin, Kåvepenin) 1 g x 3 i 10 dagar. 
+  * Barn 25 mg/kg x 3. Rodnaden brukar blekna efter 4-5 dagar och därefter successivt försvinna men kan finnas diskret kvar efter behandlingsavslut, vilket inte innebär att infektionen finns kvar. 
+* ***Multipla erytem eller feber***  
+  * **doxycyklin** 200 mg x 1 i 10 dagar. 
+  * **Barn < 8 år amoxicillin** (Amimox) 15 mg/kg x 3 i 14 dagar.
+  * **Barn > 8 år doxycyklin** 4 mg/kg x 1 i 14 dagar. 
+* ***Pc-allergi*** - doxycyklin 200 mg x 1 i 10 dagar. 
+  * **Till barn > 8 år doxycyklin** 4 mg/kg x 1.
+* **allergi cefalosporiner**: kan ett sämre alternativ prövas, t e x [azithromycin](https://www.fass.se/LIF/result?userType=0&query=azithromycin) ([Azitromax](https://www.fass.se/LIF/result?userType=0&query=Azitromax)) eller doxycyklin trots ålder < 8 år. 
+  * Risk för missfärgning på tänderna av doxycyklin efter kortare kurer till barn har inte påvisats (se ref Todd et al).
+* **Amoxicillin** kan vara ett alternativ till barn som inte tål smaken av vanligt PcV. 
+* **Gravida dubbel dos Fenoximetylpenicillin** (Kåvepenin) vid hudmanifestationer och intravenöst ceftriaxon) 
+  * Rocephalin vid andra manifestationer för att minska risken för infektion av foster.
+
+
+
+
+
+
+
+
 
 
 
@@ -1298,7 +1399,45 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Obstruktiv bronkit
+
+***Presentation***
+
+* Mustafa, 18 månader gammal, inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft
+  * ***Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)***
+  * ***Initial behandling på akuten:*** 
+    * syrgas + ventoline (ventoline pga allvarlighetsgraden) med optichamber
+    * utefter effekt kan man överväga steroider i form av betapred eller solu-cortef (solu-cortef om det är en svår obstruktivitet)
+    * sedan fortsätta med syrgas + ventoline
+    * utebliven förbättring: magnesiumsyulfat, överväga tillägg iv teofyllamin
+  * ***Efter sex timmars behandling på akuten blir han närmast helt symptomfri. Syresättningen har stigit till 99%. Modern önskar åka hem till övriga familjemedlemmar***
+    * **Airomir (saba) + inhalationssteroid**, som kommer att tas i en spacer/mask antagligen...
+    * detta ska följa ett förkylningsastma schema som han får fr akuten
+    * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
+    * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
+  * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
+
+
+
+
+
 ## Infektion och Immunologi
+
+### Borrelia
+
+***Presentation***
+
+* Fästingburna infektioner hos barn är vanligt under sommar och höstmånaderna i Sverige. Vilket påstående om denna typ av infektioner är mest korrekt?
+  * Perifer facialispares är ett vanligt symptom på neuroborrelios hos barn och fyndet bör föranledda lumbalpunktion för att verifiera diagnosen.
+  * Fel alternativ inkluderade: 
+
+
+
+***Behandling***
+
+* Neuroborrelios
+  * Doxycyklin verkar vara det generella behandlingsalterantivet
+  * ceftriaxon iv: kan ges till barn smo inte kan ta tabletter. 
 
 ### Immunologiskt
 
@@ -1869,6 +2008,16 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+#### Spädbarn gosse
+
+Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cirkulationssvikt är avgörande för valet av behandling. En tidigare frisk ettårig gosse som väger 10 kg har inkommit till barnakuten där du vikarierar med symptom förenliga med en viral gastroenterit. Han har stora förluster och är hängig. Han har en kapillär återfyllnad på 4 sekunder och läpparna är torra
+
+* Bolus Ringeracetat iv 200 ml följt av Ringeracetat iv 5% av vikten på 4 timmar
+  * efter dett ska han ha plasmalyteglukos i underhållsbehandling
+  * 1000mL plasmalyte 5% glukos, över 24 timmar, in accord med att det är 100mL/kg mellan 0-10kg
+
+
+
 
 
 ## Reumatologi
@@ -1891,6 +2040,17 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
+
+
+### JIA
+
+***Presentation***
+
+* Du sitter på en barnläkarmottagning och Anna 4 år kommer till din mottagning. Hon har haft ett svullet höger knä och en svullen vänster fotled i många veckor. Hon är stel på morgonen och det tar ett par timmar innan hon har normal gång. Hon har en mormor som har ledgångsreumatism i övrigt inga reumatiska sjukdomar i närmaste släkten. Anna blev fästingbiten i somras men fick ingen ring runt bettet. I status kan du konfirmera anamnesen. Övrigt ledstatus är utan anmärkning Du misstänker en diagnos och beställer prover. Vilket alternativ stämmer bäst med din bedömning och plan:
+  * Juvenil idiopatisk artrit. Borreliaserologi, Blodstatus, CRP och SR, ANA
+
+
+
 ## Endokrin
 
 ### Diabetes
@@ -1902,6 +2062,20 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
+
+
+
+### Diabetes-ketoacidos
+
+***Presentation***
+
+* Diabetes med ketoacidos är ett fruktat och livshotande tillstånd hos både barn och vuxna. Tillståndet kräver skyndsam handläggning.
+  * pH 7,28, BE -12, risk för hypokalemi när insulin ges, takypné vanligt
+  * Fel alternativ
+    * pH 7,04, BE -15, risk för hjärnödem om blodsockret inte sänks nog fort, acetondoft förekommer
+    * pH 7,42, BE -14, insulin bör ges parallellt med glukosdropp för att förhindra snabb sänkning av blodsockret, behandling bör initialt ske på IVA: 
+      * enl abbe att glukosdropp ges parallelt med insulin stämmer, detta överensstämmer med janusinfo också
+    * pH 7,47, BE -15, insulinbehandlingen bör starta omgående, risk för hyponatremi och hjärnödem
 
 ## BUP
 
@@ -2133,6 +2307,38 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
+
+
+### Varningstecken hos barn
+
+
+
+#### Primär immunbrist hos barn
+
+***Stämmer ett eller flera av följande varningstecken*** in och andra vanliga orsaker uteslutits, ***bör utredning avseende primär immunbrist övervägas:***
+
+* **Upprepade antibiotikakrävande** 
+  * otiter (≥4/år), 
+  * sinuiter (≥2/år) eller 
+  * pneumonier (≥2/år)
+* **Infektioner som inte läker** på förväntat sätt med adekvat antibiotikabehandling
+* **Återkommande** 
+  * **hud- och mjukdelsinfektioner,** 
+  * **organabscesser eller** 
+  * **icke-infektiösa granulom**
+* **Infektioner med ovanlig lokalisation** eller orsakade av **ovanliga agens**
+* **≥1 invasiv infektion såsom** 
+  * osteomyelit, 
+  * meningit eller 
+  * sepsis
+* **Uttalad kronisk oral eller kutan candidos**
+* **Multipla autoimmuna sjukdomar** eller **mycket tidig debut av autoimmun sjukdom** (≤3år)
+* **Omfattande hudförändringar**, **erytrodermi** eller **eksem** som **inte svarar på behandling**
+* **Spädbarn som inte växer som förväntat**
+* **Känd primär immunbristsjukdom i familjen**
+
+
+
 ## Neurologi
 
 ### Ataxia telangectesia
@@ -2178,6 +2384,15 @@ Other:
 
 * ***Sture, 7 år***
   * har sedan två månader börjat bli gnällig och missnöjd. Vid några tillfällen har han vaknat och klagat över huvudvärk. Vid flera tillfällen de senaste veckorna kräkts på morgonen. Han berättar också att han ser dubbelt, och i status misstänker du abduscenspares. Vilken sjukdom misstänker Du i första hand?
+
+
+
+### Rolandisk epilepsi
+
+***Presentation***
+
+* Benign barnepilepsi - eller Rolandisk epilepsi - är en vanlig epilepsiform med god prognos. Vilken beskrivning stämmer bäst överens med diagnosen?
+  * Drabbar barn från 3-13 års ålder, anfall ofta nattetid, typiska centro temporala spikes och sharp-waves på EEG
 
 
 
@@ -2614,3 +2829,21 @@ Other:
   * ventrikelsköljning/kräkning kontraindik: risk aspiration lungor, kemisk pneumoni
 * ***drick grädde istället.***
 
+
+
+
+
+## Professionell Utveckling
+
+### Anamnes
+
+***Presentation***
+
+* Du ser i tidboken att du ska träffa Max, 15 år, för första gången. Han har akut intermittent porfyri och denna gång kommer han ensam till mottagningen. Du berättar om den villkorade tystnadsplikten och frågar om det är ok att du ställer några frågor för att lära känna honom, utöver det du läst i journalen. Din tanke är att ta en ungdomsmedicinsk anamnes enligt internationell standard, så du planerar att fråga om:
+  * Hem, skola, fritid, droger, sex
+
+
+
+***Utredning***
+
+* HEADS: Home, education, activities, drugs, sex

@@ -1529,42 +1529,45 @@ Anafylaxigrader
 
 ### Fall 5
 
-* **9 mån pojke**
 
+
+* **9 mån pojke**
   * Ahmed kommer med sin mamma till barnakuten. 
   * Han har blivit väldigt blek och trött de senaste dagarnaenligt mor.
-  *  Han ammas fullt och äterlite fruktpuréer som mamma själv tillverkat. 
+  * Han ammas fullt och äterlite fruktpuréer som mamma själv tillverkat. 
   * Vikt och längdökning normal. 
   * I status finner du en mycket blek och passiv gosse.
-  *  CRP< 10. 
+  * CRP< 10. 
   * Hb 63g/L
 
-  
 
-  ***Anemi definition***
 
-  * The definition of anaemia varies with age: Hb <100 g/L in infants (postneonatal), Hb <110 g/L from 1 year
-    old to 12 years old
+***Anemi definition***
 
-  
+* The definition of anaemia varies with age: 
+  * Hb <100 g/L in infants (postneonatal), 
+  * Hb <110 g/L from 1 year old to 12 years old
 
-  **Vilken diagnos misstänker du i första hand?** 
 
-  * Järnbristanemi: 
 
-  
+**Vilken diagnos misstänker du i första hand?** 
 
-  **Vad grundar du din misstanke på**
+* Järnbristanemi: 
 
-  * Sen avnavling vid födelsen och introduktion av järnrikkost vid 6 månaders ålder är faktorer som minskar risken för järnbrist.
-  * Låg födelsevikt, utebliven introduktion av järnrikkost vid 6 månader och intag av komjölk är riskfaktorer för järnbrist.
-  * Barn med låg födelsevikt (<2 500 g) är en särskild riskgrupp och erbjuds rutinmässig profylax mot järnbrist:
-    * profylax i form av järn i kontrollerad form
-  * Järnstatus bör ingå i utredningen av bl a beteendeproblem och kognitiva svårigheter hos barn och ungdomar
-  * **Andra orsaker järnbrist**
-    * Minskat intag eller upptag – helamning från 1 års-åldern, ensidig eller vegetarisk kost, högt mjölkintag, celiaki
-    * Ökad förlust – blödning från näsa, tarm, Meckels divertikel, riklig menstruation
-    * Provsvar – lågt MCV, ferritin och järn
+
+
+**Vad grundar du din misstanke på**
+
+* Sen avnavling vid födelsen och introduktion av järnrikkost vid 6 månaders ålder är faktorer som minskar risken för järnbrist.
+* Låg födelsevikt, utebliven introduktion av järnrikkost vid 6 månader och intag av komjölk är riskfaktorer för järnbrist.
+* Barn med låg födelsevikt (<2 500 g) är en särskild riskgrupp och erbjuds rutinmässig profylax mot järnbrist:
+  * profylax i form av järn i kontrollerad form
+* Järnstatus bör ingå i utredningen av bl a beteendeproblem och kognitiva svårigheter hos barn och ungdomar
+* **Andra orsaker järnbrist**
+  * Minskat intag eller upptag – helamning från 1 års-åldern, ensidig eller vegetarisk kost, högt mjölkintag, celiaki
+  * Ökad förlust – blödning från näsa, tarm, Meckels divertikel, riklig menstruation
+  * Provsvar – lågt MCV, ferritin och järn
+
 * // det är vanligt vid den åldern, samt att nutritionen är inadekvat med bröstmjölk och fruktpurre inte har mkt järn i
   
   * barn med lågt Hb värden är den vanligaste orsaken dietär järnbristanemi

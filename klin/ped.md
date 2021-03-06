@@ -2787,21 +2787,111 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ***Etiologi och patofysiologi***
 
-* Hemoglobinopati
+* **Hemoglobinopati**
+* **Reduktion produktion Beta-globin**: Thlassemi föranleder **minskad produktion beta-globin**, vilket innebär att man **ej kan producera HbA**. 
+* **Svårighet beror på mängd kvar av HbA och HbF**
+* **Former**
+  * **!! Beta-thalassemia major**: svåraste formen. **HbA** ***kan inte produceras pga abnormal Beta-globin gen***
+  * **Beta-thalassemia intermedia**: denna formen av sjd är mildare med variabel svårighet. Beta-globin mutationenerna tillåter mindre mängd HbA och/eller stor mängd HbF att produceras.
 
 
 
-***Kliniska kännteckensopressors indicated in paediatric sepsis resus?***
+***Kliniska känntecken***
 
-* ***Extramedullär hematopoes***: skallen blir stort. 
-* ***pallor***
+* **Extramedullär hematopoes**: detta förhindras av regelbundna transfusioner. I frånvaro av blodtansfusoner utvecklar man hepatosplenomegali (hepatomegali, splenomegali) och benmärgsexpansion.
+  * benmärgsexpansionen leder till klassiska ansikten med maxillär övertillväxt och skull-bossing (ovanligt i UK och I-länder)
+* **pallor**
+* **Ikterus**
+* **Bossing of the skull, maxillär övertillväxt**
+* **splenomegali, hepatomegali**
+* **behov repeterade transfusioner**
+
+***Utredning och handläggning***
+
+* Prenatal diagnostik: patienter som är ehterzygota för Beta-thalassemi trait, har en 1:4 chans för att få påverkat barn. 
+  * DNA-analys korion villi, bör ges
+  * genetisk vägledning: för att veta om de bör fortsätta med graviditet eller ej, ska vara ett informerat beslut. 
 
 
 
 ***Behandling***
 
-* Minor: ingen behandling utan symptom
-* Major: transfusion (oftast), benmärgstransplantation (supposedly inte funkar)
+* **Beta-thalassemia major**: fatalt om inte transfunderas regelbundet. 
+  * **livslång blodtransfusioner, månatligen**
+    * målet är att ha Hb över 100g/L. 
+    * reducerar risk för growth-failure och bendeformation 
+    * Komplikationer: diabaetes, lever cirrhos, kardiomyopati, infertilitet, growth-failure.
+  * **järn-kelering:** för att hindra komplikationer fr blodtransfusioner
+    * deferasirox,
+    * börjar fr 2åå-3åå
+  * bra compliance och regelbundna transfusioner, kan pats överleva upp t 40.
+  * ***Mortalitet***: järnoverload, om dålig compliance etc. 
+  * **Benmärgstransplantation**: är ett alternativ. reserverat vanligtvis för barn med HLA-identiska ssykon, för att 90-95% success då, men 5% mortalitet
+
+* **Minor**: ingen behandling utan symptom
+* **Major**: transfusion (oftast), benmärgstransplantation (supposedly inte funkar)
+
+
+
+***sopressors indicated in paediatric sepsis resus?***
+
+
+
+### Thalassemia minor
+
+***Kliniska kännetecken***
+
+* Heterzygoter är vanligtvis asymptomatiska
+* **Hypokromicitet**
+* **Mikrocytära RBC**
+* **Anemi:** mild eller frånvarande; disproportionell reduktion av MCH och MCV
+  * Hb kommer vara sänkt MEN antalet erytrocyter kommer vara ökat!
+* HbA2 ökad: detta är den viktigaste diagnostiska aspekten; notera att HbA1 är den vanligaste typen, representerar den största fraktionen. 
+  * vanligtvis 5%
+* HbF: ökad 1% till 3%
+* Kan vara förvirrande: minor kan ge mild järnbrist pga hypokromicitet o mikrocytära celler; men kan diffas mha seruum ferritin som är lågt i järnbrist men ÄR EJ LÅG HOS THALASSEMIA MINOR. 
+
+
+
+**Utredning och handläggning**
+
+* För att undvika onödig järnbehandling behöver man utreda järnstatus hos barnet
+  * föranleder Ferritin som bör vara normalt
+
+
+
+
+
+### Transfusioner - blodtransfusioner
+
+***Indikationer***
+
+* Thalassemia
+* Sickle-cells sjukdom (SCD): mest under akut anemier, Hb för lågt, etc. 
+* Risk för kernikterus - hyperbilirubinemi över en viss nivå
+* Immunisering: Rh-immunisering, ABO-immunisering. 
+
+
+
+***Komplikationer***
+
+* **Hemokromatos, järninlagring, viktigast**
+  * hjärta: kardiomyopati
+  * lever: cirrhos
+  * pankreas: diabetes
+  * hypofys: påverkad tillväxt, sexuell mognad, pubertet...
+  * hud: hyperpigmentering
+* **Antikroppsformation**: 10% av barn
+  * allo-antikroppar till transfuserade RBC, gör det svårt att hitta kompatibelt blod
+* **Infektion**: nu ovanligt, under 10% av barnen
+  * HAV, HBV, HCV,
+  * HIV
+  * Malaria
+  * prioner: e.g. CJD
+* **Venös access**: vanligt problem; för att man transfunderar så pass mkt
+  * ofta traumatiskt hos unga barn
+  * central ven access device (e.g. portakateter) kan behövas
+  * dessa predisponerar för infektion
 
 
 

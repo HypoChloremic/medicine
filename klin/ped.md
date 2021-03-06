@@ -2245,19 +2245,117 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
-### G6PD - hemolysrelaterat
+### G6PD brist
+
+
+
+***Presentation***
+
+* Chang, 4-årig pojke från Kina. Hade uttalad gulsot redan under andra levnadsdygnet och fick upprepade ljusbehandlingar. Ingen känd immunisering. Därefter väsentligen frisk. Nu akut blekhet och mörk urin. Okänd anledning. Status: blek och ikterisk i hud och sklerae. Ingen mjältförstoring. Hb 66 gli. MCV normalt. ferritin normalt. Bilirubin okonjugerat 123 (mkt högt). Misstänkt diagnos?  Anamnestisk fråga som kan styrka diagnosen
+  * G6PD? Hereditet, läkemedel, infektion, fava-bönor, moth-balls, antibiotika
+
+
 
 ***Etiologi och patofysiologi***
 
+* Glucose-6-phosphate dehydrogenase deficiency; glukos-6-fosfat dehydrogenas brist
+* aka G6PD
+* **Mutationer:** Många olika mutationer beskrivna
+* ***X-kopplad***: innebär att det är flest **män** som drabbas;
+  * kvinnor brukar ha hälften normal G6PD aktivitet, därför asymptomatiska
+  * **Kvinnor drabbas om**: de är homozygoter eller om sporadiskt har inaktiverat mer av den friska X-kromosomen. 
+* **olika kliniska presentationer**: pga den breda variationen typer mutationer
+* ***G6PD fysiologiskt:*** 
+  * hastighetsbegränsande enzymet i pentos-fosfat pathen (pentose-phosphate); 
+  * Hindrar oxidativ skada
+* ***Brist på G6PD hos röda blodkroppar***: brist av enzymet hos RBC innebär ökad oxidativ stress
+* **Oxidativ-stress inducrad hemolys**: brukar ha orsakats av ***olika läkemedel!*** Alltså states eller exposures som ökar det oxidativa trycket på  RBC som i sin tur leder till att RBC hemolyserar.
+* **Hemolysen intravaskulär**: predominant är hemolysen intravaskulär.  
 
+
+
+***Läkemedel och kemikalier som kan inducera hemolys hos G6PD***
+
+* ***Antimalaria***
+  * **primaquine**
+  * quinine
+  * klorokin
+* **Antibiotika**
+  * Sulfonamider: inkluderar co-tromoxazole
+  * kinoloner: ciprofloxacin, nalidixic syra
+  * nitrofurantoin
+* **Analgetika**
+  * ASA
+* **Kemikalier**
+  * Naphthalene (mothballs)
+  * Divicine (**Fava-beans** also called broad beans
+
+
+
+***Epidemiologi***
+
+* Vanligaste enzymopatien som påverkar 100M individer i världen. 
+
+* hög prevalens 10-20% av individer fr centralafrika, medelhavet, mellanöstern, östasien
+
+  
 
 
 
 ***Kliniska kännetecken***
 
+* ***Neonatal ikterus***: onset första **3 dagarna**. 
+  * internationellt är den vanligste orsaken till svår neonatal ikterus
+  * kräver transfusion
+* **Akut hemolys**: precipiterad av 
+  * **Infektion**: **Vanligaste precipiterande faktorn**
+  * **läkemedel o kemikalier: se listan ovan**
+  * **fava beans:** broad beans, andra typer av bönor orsakar inte hemolys
+  * **naphthalene in mothballs**
+* ***Intravaskulära hemolysen***: oftast är det intravaskulär hemolys, som associerat med specifika symptom
+  * feber
+  * malaise
+  * buksmärta
+  * mörkt urin
+  * hemoglobin sjunker snabbt, kan droppa under 50g/L över 24-48 timmar. 
 
 
-### Hemoglobinets fysiologi under barnaåren
+
+***Diagnos***
+
+* **MEllan episoder normal blodbild:**, nästan alla patienter har en normal blodbild mellan episoder
+  * ingen ikterus eller anemi mellan episoder
+* ***Mäta G6PD aktivitet***: för att få diagnos. 
+* ***Falsk-negativ under hemolytisk kris***: för att retikulocyter innehåller en högre fraktion G6PD jämfört mogna RBC, så kan man få ett falskt negtivt svar på G6PD brist under en hemolytisk kris. 
+  * **Repeat-assay**: att man tar om proovet när den hemolytiska episoden är över
+
+
+
+***Utredning och handläggning***
+
+* **Anamnes**:
+  * Familjehistorik
+  * epidemiologi
+  * infektion
+  * läkemedel
+  * kost
+  * neonatal period: var ungen ikterisk etc, för att postnatal ikterus första 3 dagarna kan förekomma hos G6PD.
+* **Labbprover**
+  * Blodstatus + diff
+  * G6PD aktivitet: falsk-förhöjd aktivitet under hemolytisk kris för att  det är så pass många retikulocyter som falskt förhöjer G6PD aktiviteten.
+
+
+
+***Behandling***
+
+* **Information:** 
+  * Föräldrar informeras om tecken till akut hemolys (ikterus, pallor/blekhet, mörk urin)
+  * lista på grejjor som kan inducera hemolysen
+* **Transfusioner sällan behövs**: men kan bli aktuella i hemolytiska kriser och svåra situationer. 
+
+
+
+### Hb fysiologi barn
 
 ***Fysiologi***
 
@@ -2303,136 +2401,6 @@ Ataxic cerebral palsy is due to [...] damage.
 * **G6PD**
 * **Hereditär sfärocytos relaterad hemoloys**
 * **Sickle-cell anemi**
-
-
-
-### Lymfom
-
-***Kliniska kännetecken***
-
-* **vanligaste**: hastigt växande oömma lymfkörtlar
-  * ofta halsen
-  * kan vara bröstkorg, mage
-* **lokalisation relaterat med symptom**
-  * **andningsproblem**: lymfom i bröstkorgen
-  * **smärta**: lymfom i buk
-* **generell påverkan:** trötthet, feber, avmagring, B-symptom generellt. 
-
-
-
-***Initial utredning***
-
-* **Labb**: 
-  * **Blodstatus + diff:** essentiell del i utredningen
-  * **leverstatus + njurstatus:** evaluera status av viktiga organ, då möjligt med härdar i respektive organ eller att njurarna tar skada av tumörsjukdomen. 
-
-
-
-### Sfärocytos - hemolysrelaterat
-
-
-
-***Etiologi och patofysiologi***
-
-* 1:5000 födslar in caucasians
-* autosomalt dominant
-* 25% sporadisk
-* mutationer membranproteiner: spectrin, ankyrin, band3
-* ***Förlust av membran när passerar gm mjälten***: muterade membranproteinerna leder till att RBC förlorar en del membran när RBC passerar gm mjälten. 
-* ***Reducerar yt-volym kvot:*** cellerna blir sfäroidala (spheroidal); blir mindre omformbara (deformable) jfr normala blodceller, leder till destruktion i mikrovaskulaturen i mjälten.
-
-
-
-***Kliniska kännetecken***
-
-* Hereditet, familjehistorik
-* högst variable kliniska kännetecekn
-* **asymptomatiska** 
-* **ikterus**: utvecklas vanligtvis utvecklas under barndom, men kan vara intermittent. 
-  * **kan hemolytisk ikterus första dagarna i livet**
-* **Anemi**: presenterar i barndomen med mild anemi (Hb 90-110g/L), men Hb nivåerna kan sjunka under **infektioner**
-* **! Aplastisk kris**: ovanlig, transient (2-4 veckor), orsakas av parvovirus B19 infektion (i.e. erythema infectiosum, femte sjukan)
-* **Gallstenar**: pga ökad exkretion bilirubin
-
-
-
-***Diagnos***
-
-* **Blodfilm** (blodutstryk?)
-* **mer specifika tester**: e.g. dye binding assay eller osmotisk fragilitet
-* **although seldom required**
-* **autoimmun hemolytisk anemi** är också associerad med sfärocyter, men detta kan exkluderas med direkt antikropps test (DAT?) och frånvaro familjehistorik av hereditär sfärocytos
-
-
-
-***Utredning och handläggning***
-
-* enl illustrated paediatrics
-
-  * **flesta barn har mild kronisk hemolytisk anemi;** 
-    * **Folsyra**: enda behandling som behövs är oral folsyra  för att de har högre folsyrebehov sekundärt till ökad blodcellsproduktion. 
-  * **Splenektomi:** beneficial men indikeras för poor growth eller trobulesom symptom av anemi (e.g. ssvår trötthet, minskad vigör) och vanligtvis deferred tills 7pp, för att riskerna med postsplenektomisk sepsis. 
-  * **Vaccinationer**: innan splenektomi considered, ska man vara vaccinerad, HiB, meningit C, och streptococcus pneumoniae,
-  * ***Aplastisk kris***: fr parvovirus B19 infektion vanligtvis behöver en eller två **blodtransfusioner** över 3-4v period, när ingen röda blodkropps produceras. 
-  * **Gallstenar**: symptomatiska kan föranleda kolecystekomi
-
-  
-
-
-
-### Sickle cell sjukdom
-
-
-
-***Etiologi och patofysiologi***
-
-***Kliniska kännetcken***
-
-* Avaskulär nekros: caput femoris
-
-
-
-### SCID
-
-***Presentation***
-
-* Alfred 6 mån. 
-  * Han föddes i fullgången tid med FV 3700g och FL 50cm
-  * som du träffar som AT-läkare på VC. Alfred har inte växt så bra enligt BVC-kurvan. Han hostar och flåsar. Dessutom har han alltid varit lös i magen, trots att det provats Sempers Magdroppar. Du tycker Alfred ser sjuk ut, hör takykardi och lätta ronki. I ljumskarna ser du ett ilsket rött utslag. 
-  * Proverna visar CRP 11 och LPK 3,0. Hur tolkar du detta?
-
-
-
-***Etiologi och patofysiologi***
-
-* ***Brist på***: lymocyter, T, NK, B
-* heterogen sjukdomngsgrupp, 15-tal kända fel
-* cellernas utv och funktion störd
-* eller thymys inte gungerar normalt
-* ingen/viss T-lymfocytfunktion med/utan B-lymfocyt och Nk-cellsfunktion
-* olika lymfocyter, under $2\times 10^9/L$
-
-
-
-***Kliniska kännetecken***
-
-* Debut: första levnadsmånaderna
-* ofta vaga symptom initialt
-* kronisk hosta, kronisk obstruktivitet, andningsbesvär: p jiroveci och virus
-* diarre, malabsorption
-* recidiverande kandidainfektioner
-* dålig tillväxt
-* hudutslag: mammalymfocyter eller omenn syndrom
-
-
-
-***Behandling***
-
-* Antimikrobiell behandling
-* rekombinant adenosin deaminas
-* benmärgstransplantation
-
-
 
 
 
@@ -2521,7 +2489,305 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
+
+
+### Lymfom
+
+***Kliniska kännetecken***
+
+* **vanligaste**: hastigt växande oömma lymfkörtlar
+  * ofta halsen
+  * kan vara bröstkorg, mage
+* **lokalisation relaterat med symptom**
+  * **andningsproblem**: lymfom i bröstkorgen
+  * **smärta**: lymfom i buk
+* **generell påverkan:** trötthet, feber, avmagring, B-symptom generellt. 
+
+
+
+***Initial utredning***
+
+* **Labb**: 
+  * **Blodstatus + diff:** essentiell del i utredningen
+  * **leverstatus + njurstatus:** evaluera status av viktiga organ, då möjligt med härdar i respektive organ eller att njurarna tar skada av tumörsjukdomen. 
+
+
+
+### Sfärocytos
+
+***Etiologi och patofysiologi***
+
+* 1:5000 födslar in caucasians
+* autosomalt dominant
+* 25% sporadisk
+* mutationer membranproteiner: spectrin, ankyrin, band3
+* ***Förlust av membran när passerar gm mjälten***: muterade membranproteinerna leder till att RBC förlorar en del membran när RBC passerar gm mjälten. 
+* ***Reducerar yt-volym kvot:*** cellerna blir sfäroidala (spheroidal); blir mindre omformbara (deformable) jfr normala blodceller, leder till destruktion i mikrovaskulaturen i mjälten.
+
+
+
+***Kliniska kännetecken***
+
+* Hereditet, familjehistorik
+* högst variable kliniska kännetecekn
+* **asymptomatiska** 
+* **ikterus**: utvecklas vanligtvis utvecklas under barndom, men kan vara intermittent. 
+  * **kan hemolytisk ikterus första dagarna i livet**
+* **Anemi**: presenterar i barndomen med mild anemi (Hb 90-110g/L), men Hb nivåerna kan sjunka under **infektioner**
+* **! Aplastisk kris**: ovanlig, transient (2-4 veckor), orsakas av parvovirus B19 infektion (i.e. erythema infectiosum, femte sjukan)
+* **Gallstenar**: pga ökad exkretion bilirubin
+
+
+
+***Diagnos***
+
+* **Blodfilm** (blodutstryk?)
+* **mer specifika tester**: e.g. dye binding assay eller osmotisk fragilitet
+* **although seldom required**
+* **autoimmun hemolytisk anemi** är också associerad med sfärocyter, men detta kan exkluderas med direkt antikropps test (DAT?) och frånvaro familjehistorik av hereditär sfärocytos
+
+
+
+***Utredning och handläggning***
+
+* enl illustrated paediatrics
+
+  * **flesta barn har mild kronisk hemolytisk anemi;** 
+    * **Folsyra**: enda behandling som behövs är oral folsyra  för att de har högre folsyrebehov sekundärt till ökad blodcellsproduktion. 
+  * **Splenektomi:** beneficial men indikeras för poor growth eller trobulesom symptom av anemi (e.g. ssvår trötthet, minskad vigör) och vanligtvis deferred tills 7pp, för att riskerna med postsplenektomisk sepsis. 
+  * **Vaccinationer**: innan splenektomi considered, ska man vara vaccinerad, HiB, meningit C, och streptococcus pneumoniae,
+  * ***Aplastisk kris***: fr parvovirus B19 infektion vanligtvis behöver en eller två **blodtransfusioner** över 3-4v period, när ingen röda blodkropps produceras. 
+  * **Gallstenar**: symptomatiska kan föranleda kolecystekomi
+
+  
+
+
+
+### Sickle cell sjukdom
+
+***Presentation***
+
+* 9-year-old girl 
+  * with known sickle cell anaemia (HbSS), presented with increasing chest pain for 6 hours. She had a nonproductive cough. On examina- tion, she had a fever of 39.7° C. Her breathing was laboured, respiratory rate increased and there was reduced air entry at both bases.
+  * Hb 60g/L, LPK 14, TPK 350
+  * Chest X-ray (see Fig. 23.11)
+  * Oxygen saturation – 89% in air
+  * Arterial PO 2 – 9.3 kPa (70 mmHg) breathing face-mask oxygen
+  * Blood cultures were taken and viral titres performed A diagnosis of acute sickle chest syndrome was made, a potentially fatal condition. She was given oxygen by continuous positive airways pressure (CPAP). An exchange transfusion was performed. Broad- spectrum antibiotics were commenced. She responded well to treatment.
+
+
+
+***Etiologi och patofysiologi***
+
+* **Hemoglobinopati**
+* **Autosomalt-recessiv**
+* **HbS ärvs ned**: sickle-cell är ett samlingsnamn för disorder där HbS ärvs ned. 
+  * **punktmutation**: kodon 6 i $\beta$-globin genen
+  * glutamin till valin
+* **Tre huvudformer sickle-cell disease**
+  * **Sickle-cell anemi HBSS**: patienter är homozygota för HbS, och virtuellt all deras Hb är HbS.
+    * har små mängder HbF och ingen HbS, för att sickle-cell mutation i båda $\beta$-globin generna
+  * **HbSC sjukdom (HbSC)**: påverkade barn har ärvt HbS fr **en förälder** och HbC fr andra. 
+    * **HbC**: resultat av annan punktmutation i $\beta$-globin genen
+    * Har ingen HbA för att ingen normal $\beta$-globin gener
+  * ***Sickle-cell $\beta$-thalassemi***: HbS fr en päron och Beta-thalassemi fr andra föräldern
+    * inga nomrala beta-globin gener, flesta patienter kan inte synta HbA och därför har liknande synmptom t de med sickle cell anemi
+* ***Bärare-sickle cell trait***: ärvt HbS fr ett päron och normal Beta-globin fr andra oäron. Patienterna är bärare. approximately 40% av deras hemoglobin är HbS.
+  * har ej sickle-cell disease.
+  * asymptomatiska
+  * kan ge vidare HbS till barn. 
+  * **endast identifieras med blodtester**
+* **HbS polymeriserar i RBC**: pga mutationen kan HbS polymerisera i RBC formar rigida tubulära spiralkroppar. 
+* ***deformerar sickle-shape***: polymeriseringen och spiralkropparna deformerar RBC till sickle-shapes. 
+* **reducerad livstid RBC**: pga sicklingen leder till att RBC inte överlever imikrovaskulärt. 
+* **mikroocklusioner**: vasoocklusion för att RBC fastnar i kärlen. 
+* **Ischemi**: leder till ischemiska pmråden , i organ eller ben. 
+  * **exacerebras av**: låg saturation, dehydreirng och kyla
+* **svårighetsgrad verierar med HbF**: högre grad HbF leder till att patienten klarar sig bättre. 
+  * flesta patienter och normala individer har 1% HbF
+  * men vissa mutationer kan öka andelen HbF och därför förbättra symptom. 
+  * mkt forskning för att aktivera HbF hos dessa patienter, i.e. genterapier. 
+* HbSS är den svåraste foremen
+* **Hyposplenism**: detta pga infarkter och kronisk sickling i mjälten, som leder till minskad funktion av organet och residenta immunceller (mainly fagocyterande vita blodkroppar i form av makrofager):
+  * kapselbärande mikroorganismer ökar: pneunokocker, haemofilus influenzae
+  * 
+
+
+
+***Epidemiologi***
+
+* vanligaste inherited disorder i många europeiska länder, inklusive UUK
+* afrikansk härlomst vanligast, hittas i mellanöstern och karibbean
+
+
+
+***Kliniska kännetcken***
+
+* varierar mellan individer
+* svårighet varierar med sickle-cell formen som individen lider av
+* **Anemi**: ALLA har moderat anemi, mellan 60-100g/L., med kliniskt detekterabar ikterus fr kronisk hemolys. 
+* **Akut anemi**: 
+  * **hemolytisk kris**, assoc infektion
+  * **aplastisk kris**: parvovirus infektioner B19 (erythema infectiosum)
+  * **sekvestreringskris**: akut mjälte eller leverförstoring, buksmärta, cirkulatorisk kollaps, pga **ackummulation sicklade celler i mjälte**
+* **infektion**: alla har markerat högre risk för infektion fr **kapselorganismer såsom pneumokocker och haeomfilus**. 
+  * ökad incidens **osteomyelit** av salmonella o andra organismer
+  * ***Orskat av hyposplensism sekundärt t kronsik sickling och mikroinfarkter i mjälten under spädbarnsperioden***
+  * **risk för överväldigande sepsis** är som störst i tidig barndom
+* **smärtsamma kriser**: vasoocklusiva kriser, orsakar **smärta** i mpnga organ, varierande frekvens och svårighetsgrad. 
+  * **Hand-foot syndrome**: dactylitis med svullnad och smärta i fingrar, och eller fötter pga vasoocklusion
+  * **benen i extremiteter vanligaste locales**: 
+  * **acute-chest syndrome, aka akut bröstsyndrom**: är den allvarligaste formen av smärtkris. som kan leda t svår hypoxi o behov av mekanisk ventilation + akut transfusion
+  * precipiteras av: köld, dehydrering, excessiv ansträngning eller stress, hypoxi, infektion. 
+* **priapism**: måste behandlas akut, transfusion, kan leda t fibros i corpus cavrernosus och efterföljande erektil impotens
+* **splenomegali**: vanligare yngre barn, mindre frekvent hos äldre barn. 
+* **långtidsprobblem**
+  * **kortväxthet, kognitiva besvär** 
+  * **stroke**: 1:10 barn får stroe av sickle-cell sjd
+  * **försenad pubertet**
+  * **stroke kognitiva problem**
+  * **kardiomegali, hjärtförstoring**
+  * **adenotonsillär hypertrofi**: apne, nokturnell hypoxi, kan leda t vasoocklusion kris. och eller stroke. 
+  * **hjärtsvikt:** fr okorrigerad anemi
+  * **renal dysfunktion**: kan exacerbera enuresis pga inabilitet att koncentrera urin
+  * **pgiment gallstenar**
+  * **bensår, leg ulcer**
+  * **psykosociala problem**: utbildnign, beteende, tid fr skola exaceberar detta
+* Avaskulär nekros: caput femoris
+
+
+
+
+
+<img src="./imgs/ped_sammanst_mar_aeCarsymtR.png" alt="aeCarsymtR" style="zoom:50%;" />
+
+
+
+***Utredning och handläggning***
+
+* **Anamnes**
+  * Epidemiologi
+  * hereditet
+  * familjeanamnes
+  * konsanguinitet
+  * härkomst
+  * neonatal period,
+  * smärtkriser, anemi, pallor, mörkurin
+* **Labbprover**
+  * Blodstatus + diff
+  * Leverstatus, njurstatus: tillstånd hos dessa organ
+  * urinsticka
+* **Senare utredningar**
+* Remisser? 
+
+
+
+***Behandling***
+
+* Profylax: 
+  * vaccin, för att immunisera mot kapselbärande organismer
+  * värme: hålla ungarna varma under vinter
+* **akut kris**
+  * **analgetika, hydrering, vila:** smärtkris bör beh med orala eller intravenösa analgetika vb (kan behöva opiater) och god **hydrering** (oralt eller iv vb).	
+    * RInger acetat iv vb, elelr sockerlösningar
+    * CAVE överhydrering
+  * **syrgas om desaturerd**
+  * **LMWH lågmolekykärt heparin vid inläggning, övervägas**: avsaknad kontraindikationer, 
+  * **infektion antibiotika**
+  * **transfusion**: indicerat vid akut bröstsyndrom, stroke eller priapism
+    * **Anemikorrektion**: är lägre än 65g/L. eller har fallit över 20g/L fr steady state. 
+    * transfusion åp fel indkation ger ökad viskositet och försärmad perfusion. 
+  * **minska respiratoriska komplikationer**: PEP-flaska, PEP-ventil, mobilisering, fysioterapi (sjykgymnastik). 
+  * **ingen kärlkirurgi eller propplösande behandlign**: ingen plats i kärlocklusiv sjd
+* **Kroniska problem**
+* **Antibiotika:** vida indikatione infektiösa symptom. kontinyuerlig penicillinprofyu fr 2månade kan övervägas 2 ggr per dag t ca 3åå därefter dubblerad dos t ca 5åå....
+* **Ultraljud:** 2-16åå regelbundet hjärnans större kärl (cerebri media, carotis interna); bedöma risk slaganfall (stroke?); flödeshastighet inverst relaterat t kärldiameter; högre hastighet högre risk för "slaganfall" (stroke?)
+* **Folsyra**: 1mg&dag liksom **vid andra hemolytiska anemier**; intas regelbundet
+* **övriga undersökningar:** UL hjärta, bentäthet, ögonundersökning regelbundet; labbprover avspeglande teckn t andra organskador bör analyseras regelbundet
+* **Malariaprofylax**: anlagsbärare o personer med sickle cell kan drabbas av malariainfektion. i sickle cell fallet ofta med dödlig utgång. 
+  * då G6PD brist förekommer i samma etniksa population kan test övervägas **innan malariaprofylax** förskrivs, vilket rekommenderas vid resa t endemiska områden
+* **Undvika**
+  * torka
+  * kyla
+  * smärta
+  * vinddrag
+  * miljöer med låg syrehalt i andningsluftne
+* **Risk järnöverskott vid upprepade transfusioner**: sekundär **hemokromatos**; S-ferritin är värdefull surrogatmarkör för initialt följa järnnivåerna. över 1000 bör radiologisk utredning med MR för bedöma risk järnrelaterade organskador **innan kelatbehandling inleds**
+* **SJukdomsmodifierande behandling**
+  * **Tre etablerade behandlingar mot sickle cell**: Hydroxyurea, blodtransfusioner, allogen benmärgstransplantation
+  * **Hydroxyurea**: 1a hands val många vuxna pat; sköts hematolog
+    * stimmar HbF produktionen
+    * halverar smärtsamma epsidoer
+    * goda resultat hos barn
+    * indikationer. upprepade smärtepisoder, genomgånet acute-chest syndrome eller allvarlig kärlocklusiv episod, symptomatisk anemi
+    * kan övervägas spädbarn
+    * ej t gravida: risk liten för sekundär malignitet
+  * **Transfusioner**
+    * aplastisk kris
+    * infektioner med aggrevering anemi
+    * mjältsekvestrering
+    * acute-chest syndrome, akut bröstyndrom
+    * inför kirurgi och förlossning
+    * **primär strokeprofylax hos bar med hög risk efter transkraniell doppler**
+    * tidg stroek
+    * hydroxikarbamid
+  * **allogen BMT, benmärgstransplantation**
+    * enda botande beh
+    * svårt välja rätt kandidater. 
+
+### SCID
+
+***Presentation***
+
+* Alfred 6 mån. 
+  * Han föddes i fullgången tid med FV 3700g och FL 50cm
+  * som du träffar som AT-läkare på VC. Alfred har inte växt så bra enligt BVC-kurvan. Han hostar och flåsar. Dessutom har han alltid varit lös i magen, trots att det provats Sempers Magdroppar. Du tycker Alfred ser sjuk ut, hör takykardi och lätta ronki. I ljumskarna ser du ett ilsket rött utslag. 
+  * Proverna visar CRP 11 och LPK 3,0. Hur tolkar du detta?
+
+
+
+***Etiologi och patofysiologi***
+
+* ***Brist på***: lymocyter, T, NK, B
+* heterogen sjukdomngsgrupp, 15-tal kända fel
+* cellernas utv och funktion störd
+* eller thymys inte gungerar normalt
+* ingen/viss T-lymfocytfunktion med/utan B-lymfocyt och Nk-cellsfunktion
+* olika lymfocyter, under $2\times 10^9/L$
+
+
+
+***Kliniska kännetecken***
+
+* Debut: första levnadsmånaderna
+* ofta vaga symptom initialt
+* kronisk hosta, kronisk obstruktivitet, andningsbesvär: p jiroveci och virus
+* diarre, malabsorption
+* recidiverande kandidainfektioner
+* dålig tillväxt
+* hudutslag: mammalymfocyter eller omenn syndrom
+
+
+
+***Behandling***
+
+* Antimikrobiell behandling
+* rekombinant adenosin deaminas
+* benmärgstransplantation
+
+
+
+
+
+
+
 ### Thalassemia
+
+
+
+***Etiologi och patofysiologi***
+
+* Hemoglobinopati
 
 
 

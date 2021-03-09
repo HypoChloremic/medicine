@@ -1188,3 +1188,56 @@ enl läk: detta barnet; två saker är dåliga här;
 * **Vaginal undersökning**: VVP ua. Uterus väs normalstor, anteflekterad, lätt ömmande. Fritt åt sidorna. Klamydiaprov tas. 
 * **Vaginalt ultraljud**: Normalkonfigurerad uterus med 12 mm slemhinna. Ingen synlig intrauterin graviditet. Bilateralt normala ovarier. Ingen fri vätska i fossa douglas.
 * **Provtagning**: Pos gravtest, Hb 125, CRP 8*VVP = vulva, vagina, portio
+
+
+
+
+
+
+
+## Antikonception
+
+### Lärandemål
+
+Syfte:
+* Ge en grundläggande introduktion till betydelsen av och verkningsmekanismen hos existerande preventivmetoderInlärningsmål:
+* Diskutera olika metoders effektivitet i teorin och i praktiken
+* Förklara hur barriär-och cykelmetoder fungerar
+* Förklara verkningsmekanismen hos hormonella metoder; både kombinerade och gestagena metoder
+* Förklara verkningsmekanism hos intrauterin antikonception
+* Redogöra för risker med kombinerad metod
+* Redogöra för kortsiktiga och långsiktiga hälsofördelar med preventivmedel och hur preventivmedel och rådgivning kan användas i förebyggande hälsoarbete
+* Kunna ge rådgivning om lämplig preventivmetod till majoriteten av fertila kvinnor
+
+
+
+### Sammanfattning metoder
+
+***Behandlingsmetoder***
+
+* **Barrärmetoder**: spermien kmr ej fram
+* **Hormonella metoder**
+  * Lågdoserade gestagena metoder; spermien kmr inte fram
+  * mellandos och högdoserade gestagena metoder: ingen ägglossning
+  * kombinerade metoder: ingen ägglossning
+* **Intrauterina metoder:** spermien inte kommer fram
+* **Sterilisering**: spermien kommer inte fram
+* **Cykelmetoder**: ägg o spermie finns aldrig på plats samtidigt
+* **Kortverkande**: P-piller, p-plåster, p-ring, p-spruta, barriärmetoder
+* **Långverkande**: implantat, intrauterina metoder
+* **Permanenta**: manlig och kvinnlig sterilisering
+
+
+
+***Preventiv utan hormoner***
+
+* Cykelmetoder
+* Barriärmetoder
+* intrauterin antikonception
+
+
+
+
+
+#### Cykelmetoder
+

@@ -355,10 +355,11 @@ cerivicit
 ***Gestagen***
 
 * **Mekanism**
-  * Hämmar LH-frisättning
+  * Hämmar LH-frisättning: är ett **antiandrogen!**
   * förtjockar cervixsekret
+  * // verkar som att det finns androgena gestagener osså...
 * **Resultat**
-  * hämmar ovulation
+  * ***hämmar ovulation***: det är gestagenet som gör att man inte ägglossar
   * hindrar spermier fr att *penetrera cervix*: i.e. de kommer ej förbi portio
 
 
@@ -368,6 +369,7 @@ cerivicit
 * **Mekanism**
   * ökar konc av progesteronreceptorer
   * hämmar FSH-frisättning
+  * ***SHBG resultat***: att den kan öka SHBG koncentrationen, sex hormone binding globulin
 * **Resultat**
   * bidrar t bättre blödningskontroll
   * hämmar utv av dominant follikel
@@ -376,13 +378,219 @@ cerivicit
 
 <img src="./lectures/gyn_lec/imgs/gyn_lec_a6DkGUPDPZ.png" alt="a6DkGUPDPZ" style="zoom:50%;" />
 
-* * 
+
+
+***Balansen antiandrogen + androgen***
+
+* Kombinerade preparat har olika effekter
+* **Diane**: som innehåller mest östrogen 35mikrogram/d och CPA (cypretone acetat, som har stark antiandrogen effekt)
+  * detta preparat är i Sverige enbart ett acne preparat
+  * den är också antikonception i andra länder i världen
+* **Dienorette**: lite mindre östrogen och stark ***antiandrogent gestagen***; antikonception i Sverige utöver acne preparat
+* **Levesia**: mindre östrogen, och ett ***androgent gestagen***
+  * ger mindre acne än placebo
+  * men det är fortfarande de antiandrogena man använder mer? .. .
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_1Rqg9ox18p.png" alt="1Rqg9ox18p" style="zoom:50%;" />
 
 
 
+***Biverkningar***
+
+* Östrogena biverkningar
+  * Vätskeretention: ökad vikt, svullnadskänsla 
+    * studier har visat att man inte går upp i vikt av preventivmedel
+  * illamående
+  * pigmentering: chloasma, melasma
+  * flytning
+* Gestagen biverkan (ofta androgen (som ger dessa?))
+  * ökad aptit o viktuppgång 
+  * amenorre, oligomenorre
+  * akne: cochrane review bekräftar att alla kom metoder *lindrar akne*
+  * torrhet: ögon, mun, vagina, antiöstrogen effekt
+  * trötthet, depression: se upp med PMS-pat
+  * minskad sexlust: vanligt klagomål
 
 
 
+***Sexlust***
+
+* I studier sjunker jfr med placebo vid användning av dessa. 
+* orgasm lika
+* lika tillfredställande samlag
+* Slutsats: This study shows no negative impact of a levonorgestrel-containing oral contraceptive on overall sexual function, although three of seven sexual function domains were adversely affected.
+
+
+
+***Halveringstiden och uppehåll*** 
+
+* **Äggblåsan blir större med tid**: ju mer tid man ger ägget att växa deto större äggblåsa blir det
+* **antikonceptionen hindrar att blåsan växer**: äggblåsan hindras växa mha antikonceptiva hormonerna (gestagenet?)
+* **uppehåll låter blåsan växa**: en studie som jämförde antalet dagar uppehåll med p-piller och storleken på äggblåsan
+* **uppehåll max 4 dagar**: slutsats fr studien var att man ej ska gå över 4 dagars uppehåll fr pillren
+  * **färre graviditeter om man har max 4 dagars uppehåll**
+  * för att 7 dagars uppehåll e lite för länge och äggblåsan växer sig stor
+* ***Mår sämre av uppehåll***: kvinnor mpr sämre av blödningarna, bäckensmärta, HB, ömma bröst, svullnadskänsla, äter en del alvedon
+
+
+
+***Rekommendation vad gäller uppehåll o p-piller***
+
+* Pat ska äta karta på karta på karta, utan uppehåll
+* **TILLS att de får en blödning**
+* **Efter blödning får man MAX ha 4 dagars uppehåll**
+
+
+
+***Aldrig farligt att inte blöda***
+
+* det är aldrig farligt att inte blöda
+* **så länge man får hormoner enl FL** ()
+
+
+
+***Förebygga ohälsa***
+
+* **menorrhagia, dyusmenorrhea**: blöder mindre, mindre ont
+  * enorm effekt bra påblödning o smärta
+* **ovarian cysta**: mindre cystor
+* **mindre benskörhet**: för att östrogen
+* **nedgång cancer**
+  *  ovarian cancer
+  * endometrial cancer: för att endometriet blir så tunt tunt att det minskar risken för detta
+  * kolon cancer: tror östrogen effekt
+  * mindre myom
+* **fibroider minde**
+* **acne**: mindre acne
+* **mindre PMS, PMDD**: minskar detta o behandlar detta
+* **järnbristanemi**
+* **Mindre mensvärk** hos alla kvinnor
+  * **Endometrios**: gestagenet (progeteronet) leder till att endometrialslemmhinna blir tunn och atrofisk, därför en behandling av endometrios.
+* **Mindre blödning**: olika effekt olika regimer
+  * vissa regimer kombinationsprep leder t att man aldrig behöver blöda
+  * även vid uppehåll att man blöder mindre jfr rest
+* **mindre risk benigna cystr**
+  * färre follikelcystor
+  * färre corpusluteum cystor
+* **PMDD**: pre menstrualt dysforisk syndrom
+  * gestagen dyspridenom är mkt snällare mot hjärnan jfr kroppens; menar att det är bättre än naturens. 
+* **acne**: ett preparat med en östrogennivå som höjer SHBG och mindre fritt testosteron, sen lägger till antiandrogena gestagener
+  * dubbeleffekt och bra effekt på acne.  
+  * ta upp det med patienter som kommer in med acne: att man kan använda preventivmedel för att combat acne.
+* ***Ovarial cancer***
+  * **komb metoder** reducerar ridsk dö ovarialcancer med hälften
+  * **anovulationen är skyddande**: ju färre ggr man anovulerar desto mindre risk för ovarialcancer, detta kan man alltså få med p-preparaten
+    * precis som amning o grav skyddar mot ovarialcancer
+* ***Endometriecancer***
+  * **progesteronet minskar risken**: gm att man får en atrofierad tunnare slemhinna som i sin tur leder till reducerad propensitet för att utveckla ovarialcacner
+* ***Kolorektalcance***
+  * relaterat med östrogen
+* **bröstcancer**: kom ihåg vilke kvinna man har framför sig, det är enbart EGEN bröstcancer i anamnesen som är kontraindikation för hormonell antikonception
+
+
+
+***Sammanfattning***
+
+* **Säkrare med kombinationspreparat**
+* **risk VTE** vid kombinerad med olika gestagener är oklar
+* **biverkningsprofilen** beror på balans östrogen o gestagen, samt gestagenets profil
+* komb har flera kortsiktiga häslofördelar såsom minskad blödning o mensvärk
+* komb metod har flera långsiktiga fördelar, e.g. minskad cancer risk
+
+
+
+***Läkemedelsinteraktioner***
+
+* Antiepileptika: obs antiepileptika kan användas för smärta o migrän
+* tuberkelostatika
+* johannesört
+* HIV-mediciner
+
+
+
+***Effektivitet preventivmedel***
+
+* nexplanon är världens mest effektiv preventivmedel: sitter den i armen är den fit and forget, kommer att fungera bra. 
+* användarberoende metoderna: att man ska behöva göra ngt, då märker man att skillnad perfekt användning jfr typisk användning att det finns väldigt stor skillnad
+  * kvinnor har inte koll på skillnadi effektivitt
+* unga kvinnor: dåliga med preventivmedel; visar att långtidspreventuivmedel är mkt effektivare. att kortverkande kvinnor många under 21åå som blir gravida jfr över 21.
+  * det är samma unga kvinnor som använder de minst effektiva metoderna
+  * SARC är inneffektiva
+  * LARC bör höjas upp: att 40% av kvinnor i Sverige bör använda dessa
+
+
+
+### Preventivmedelsråd
+
+
+
+I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera:
+* Vad gör du om du blir gravid? (om kvinnan ändå tänker sig behålla graviditeten är behovet av ett mycket säkert preventivmedel kanske lägre)
+* hur lång tidkvinnan har behov av preventivmedlet
+* hur ofta hon har behov av preventivmedel
+* vilka förväntningarhon har på sitt preventivmedel
+* hur livssituationen ser ut avseende fasta rutiner (som kan påverka möjligheter att komma ihågett dagligt intag)
+* om kvinnan har behov av några positiva hälsoeffekter av vissa preventivmedel
+
+
+
+***Fall 1***
+
+* 17åå, inget tidg prev medel, kondom sporadiskt; pojkvän sedan 3 mån, frisk, ingen heredite
+  * P-ring
+  * p-stav
+  * hon ska få rätt info o välja sj
+
+
+
+***Fall2***
+
+* fött 3 barn vaginalt
+* tidg p-piller fungerat bra
+* ammar fortfarande
+* ingen heredite av betydelse
+* fler frågor
+  * villu ha fler barn
+  * vad rek vi: vi ska informera om de andra alternativen, bra info; kanske ska vara en långverkande metod i 5år, 
+  * ***därför ett spiralfall***
+
+
+
+***Fall 3***
+
+* 28åå kvinna
+* inga barn
+* ingen fast partner
+* haft cellförändringar o koniserats
+* mamma haft blodpropp på  p piller
+* ätit gestagen mellanpiller men blödde hela tiden
+* prövat p-stav samma sak
+* vad ska vi rekommendera
+  * hormonspiral: kan rek ändå
+  * spelar ingen roll att hon koniserats
+  * bara för att hon blött på gestagena, betyder inte att hon blöder på spiral
+    * för att gestagena tar bort ovulation ägglossning
+    * och hormonspiralen agerar lokalt, och hon troligen har kvar sin ägglossning och ett bra blödningsmönster med hormonspiralen
+  * annars kopparspiral
+
+
+
+### Järnbristanemi
+
+***Etiologi och patofysiologi***
+
+* **järnbristanemi**
+  * 25% entrar grav har tomma järnförråd: järnbrist utan anemi; kmr bli trötta hängiga etc under graviditeten. 
+  * mensblödningar är särklass största orsak till järnbristanemi hos kvinnor
+
+
+
+***Utredning och handläggning***
+
+* Anamnes
+  * har man en trött hängig pat
+  * ge inte bra direkt järnpiller
+  * utan **fråga om menstruationerna**
 
 
 
@@ -412,6 +620,35 @@ cerivicit
 * p-sprutor (inte i Sverige)
 
 
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_3E2PVQsAbt.png" alt="3E2PVQsAbt" style="zoom:50%;" />
+
+
+
+
+
+#### P-ringen
+
+***Etiologi och patofysiologi***
+
+* **Den kombinerade ringen**
+  * **Verkar INTE lokalt**
+  * **Verkar via  blodet**: väldigt viktigt att förstå enl FL, att p-ringen verkar via blodet
+* ***Mycket jämnr serum-koncetration hormon***
+* **Mängd hormoni**: FL kommenterade ej mängden hormon
+
+
+
+
+
+#### P-plåster
+
+***Etiologi och patofysiologi***
+
+* mycket högre koncentrationer hormon: detta jfr med p-ringen denna får lägre men också jämnare, se ovan
+* Mycket jämNare koncentrationer hormon (östrogen som man presenterade i en studie på ppt)
+* jämfört med p-piller: med piller får man mycket kraftigare uppgångar och nedgångar
+* uppnår steady state
 
 
 

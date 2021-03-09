@@ -1,5 +1,237 @@
 ## Fertilitet
 
+
+
+### Abort
+
+***Etiologi och patofysiologi***
+
+* **Ovulation efter abort**: pat akan ovulera så snart som 8-10 d fr abort;
+* **Vikten av preventivmedel**: detta belyser att man bör börja med preventivmedel utan dröjsmål
+  * detta oavsett metod. 
+
+
+
+
+
+### Gestagena metoder
+
+#### Systemiska lågdoserad gestagen
+
+***Etiologi och patofysiologi***
+
+* **Gestagenets effekter**
+  * **cervixsekret**
+  * **endometriepåverkan**
+  * **ovulationspåverkan**: satt i parentes, TODO
+
+
+
+***Epidemiologi***
+
+* **p-piller**: mindre o mindre del av marknaden
+
+
+
+***Behandling***
+
+* **P-piller**
+  * **samma tid varje dag!**: exakt samma tid varje dag, endast 3-timmars glömskemarginal
+  * **gestagennivåerna kan sjunka för lågt**
+
+
+
+#### mellandoserade gestagena metoder
+
+***Etiologi och patofysiologi***
+
+* **ovulationshämmande**: 
+
+
+
+***Epidemiologi***
+
+* God säkerhet vid compliance
+* hög nöjdhet
+
+
+
+***Behaandling***
+
+* **kortverkande: p-piller**
+  * varje dag, 12h glömskemarginal
+* **långverkande: implantat**
+  * **sverige för 3 år: naxplanon**, armen lokalbedövning
+  * **världen även 5år: jadelle**, 2 stavar i armen lokalbedövning
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_BzJ3CPchbx.png" alt="BzJ3CPchbx" style="zoom:50%;" />
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_NGnCXKA73T.png" alt="NGnCXKA73T" style="zoom:50%;" />
+
+
+
+#### Högdoserade gestagena metoder
+
+***Etiologi och patofysiologi***
+
+* **ovulation kan ta ett tag komma tillbaka**
+
+
+
+***Biverkningar***
+
+* **bentäthet**: påverkar bentäthet
+  * suppression östrogen + östrogenreceptorer
+
+
+
+***Kontraindikation***
+
+* **ej t kvinnor under 23år**: innan "peak bone mass"; obs relativ kontraindik
+
+
+
+***Behandling***
+
+* **P-spruta**: depo-provera
+  * var 3e månad
+  * intramusk, im
+* **subkut inj finns**: mest USA, Afrika, mm
+
+
+
+
+
+
+
+### Hormonspiral
+
+***Hormonspiral*** (diffa mot kopparspiral)
+
+* **Levonorgestrel**: utsöndras lkalt i endometriet; endometiret blir ***tunt***
+* **Mirena**: 
+  * 25-40% av kvinnor blir amenorroiska (dosberoende) med jaydess ca 10% i studier, 
+  * kyleena 17%
+
+
+
+***Etiologi och patofysiologi***
+
+* **levonorgestrel effekter**
+* **Cervixsekret**: segt, ogenomträngligt
+* **hämmar spermiemotilitet**: levonorgestrel hämmar spermiemotiliteten
+* **minskad blödningsmänd**: med upp t 90%
+* **EJ ovulationshämmande som regel**
+
+
+
+***Epidemiologi***
+
+* **lika säker som sterilisering!**
+* **högst andel nöjda användare av alla preventivmedel**
+* Bra för kvinnor med hög risk för grav
+* ÖKar INTE risk för ektopsik grav: av de som blir gravida är andelen ektopiska grav högre jmf med om inget preventivmedel
+* ***Infek vid spiral***: ovanligt, liten ökad risk upp t 3v efter insättning
+  * tskf Davon shield fr 60-talet
+
+
+
+***Handläggning***
+
+* ***Vid evt graviditet***: OMGÅENDE dra hormonspiralen
+  * ***Utesluta ektopisk graviditet***
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_Hj9UD7fMoH.png" alt="Hj9UD7fMoH" style="zoom:50%;" />
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_4Ckb9eqdpA.png" alt="4Ckb9eqdpA" style="zoom:50%;" />
+
+
+
+
+
+### Hormonernas roll i p-piller
+
+
+
+***Gestagen***
+
+* **Mekanism**
+  * Hämmar LH-frisättning
+  * förtjockar cervixsekret
+* **Resultat**
+  * hämmar ovulation
+  * hindrar spermier fr att *penetrera cervix*: i.e. de kommer ej förbi portio
+
+
+
+***Östrogen***
+
+* **Mekanism**
+  * ökar konc av progesteronreceptorer
+  * hämmar FSH-frisättning
+* **Resultat**
+  * bidrar t bättre blödningskontroll
+  * hämmar utv av dominant follikel
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_a6DkGUPDPZ.png" alt="a6DkGUPDPZ" style="zoom:50%;" />
+
+* * 
+
+
+
+
+
+
+
+
+
+### Kombinerade metoder
+
+***Etiologi och patiofysiologi***
+
+* Innehåller
+  * östrogen
+  * gestagen
+
+
+
+***Handläggning***
+
+* Förstahandsval: när kombinerad hormonell antikonception önskas
+  * när man önskar kombad hormonell antikoncept rekommenderas vid förstagångsförskrivning monofasiskt preparat med levonorgestrel, norgestimat eller noretisteron efter som prep med dessa gestagener gr lägst risk för VTE, rek grad B
+  * vid rådgiv o förskrivning ska ta hänsyn t önskemål om preparat o neg faktorer som bedöms påverka nöjdhet o följsamet
+
+
+
+***Behandlingar***
+
+* p-piller
+* p-ring
+* p-plåster
+* p-sprutor (inte i Sverige)
+
+
+
+
+
+### Menstruation och Ovulation
+
+***Fysiologiskt***
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_gc5ycBIv9c.png" alt="gc5ycBIv9c" style="zoom: 80%;" />
+
+
+
+
+
+
+
 ### Preventivmedel
 
 ***Epidemiologi***
@@ -116,64 +348,55 @@
 
 
 
-### Hormonell antikonception
-
-***Hormonspiral*** (diffa mot kopparspiral)
-
-* **Levonorgestrel**: utsöndras lkalt i endometriet; endometiret blir ***tunt***
-* **Mirena**: 
-  * 25-40% av kvinnor blir amenorroiska (dosberoende) med jaydess ca 10% i studier, 
-  * kyleena 17%
 
 
+## Koagulation
 
-***Etiologi och patofysiologi***
-
-* **levonorgestrel effekter**
-* **Cervixsekret**: segt, ogenomträngligt
-* **hämmar spermiemotilitet**: levonorgestrel hämmar spermiemotiliteten
-* **minskad blödningsmänd**: med upp t 90%
-* **EJ ovulationshämmande som regel**
-
-
+### VTE
 
 ***Epidemiologi***
 
-* **lika säker som sterilisering!**
-* **högst andel nöjda användare av alla preventivmedel**
-* Bra för kvinnor med hög risk för grav
-* ÖKar INTE risk för ektopsik grav: av de som blir gravida är andelen ektopiska grav högre jmf med om inget preventivmedel
-* ***Infek vid spiral***: ovanligt, liten ökad risk upp t 3v efter insättning
-  * tskf Davon shield fr 60-talet
+* **risk VTE fertil kvinna**: 0.5:100k
+* **p-piller**: ökad risk 2-6x -> 1-20:100k
+* **högst risk 1a året på piller**
+* **riskökning uppehåll p-piller**
+* **Mortalitetrisk:** 6-16:1M p år
+* ***Gestagen påverkar EJ risk för VTE***
+* **graviditet:** förekommer hos 12:10k graviditeter
+* **trombosrisk**: vecka 6 = risken vid p-piller
+  * över v6 är risken högre än vid p-piller
 
 
 
-***Handläggning***
+***Riskfaktorer***
 
-* ***Vid evt graviditet***: OMGÅENDE dra hormonspiralen
-  * ***Utesluta ektopisk graviditet***
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_Hj9UD7fMoH.png" alt="Hj9UD7fMoH" style="zoom:50%;" />
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_4Ckb9eqdpA.png" alt="4Ckb9eqdpA" style="zoom:50%;" />
-
-### Abort
-
-***Etiologi och patofysiologi***
-
-* **Ovulation efter abort**: pat akan ovulera så snart som 8-10 d fr abort;
-* **Vikten av preventivmedel**: detta belyser att man bör börja med preventivmedel utan dröjsmål
-  * detta oavsett metod. 
-
-
-
-
-
-### Menstruation och Ovulation
-
-***Fysiologiskt***
-
-
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_gc5ycBIv9c.png" alt="gc5ycBIv9c" style="zoom:50%;" />
-
+* Riskfaktorer för VTE
+* Age >35 
+* Obesity-discuss weight in absolute numbers-BMI
+* smoking
+* Previous VTE
+* **Absolut kontraindikation**
+    * **VTE in parents, siblings**
+    * **Coagulation disorder:**
+        * antitrombindef
+        * protein C-def
+        * protein S-def
+        * factor V Leiden mutation
+        * APC-resistence without F V Leiden
+        * Protrombinmutation
+        * Dysfibrinogenemi
+        * High levels of av faktor VIII
+        * hyperhomocysteinemi
+    * **Heart failure, heart disease**
+    * **Cerebrovaskulär disease**
+    * **SLE**
+    * **Lupusantikoagulans**
+    * **Antifosfolipidsyndrome**
+    * **Inflammatory bowel disease**
+    * **Myeloproliferative conditions**
+    * **Malignancy**
+    * **Polycytemia vera**
+* **Komb metod skall ej påbörjas,** 
+* **Trombosprofylax bör ges om kvinnan har komb metod**.
+    * **Surgery**- consider LMWH
+    * **Immobilisation**- consider LMWH

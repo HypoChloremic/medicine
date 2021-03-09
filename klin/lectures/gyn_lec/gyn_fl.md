@@ -75,7 +75,8 @@
 
 * **Uppåtstigande disease**
 * **Innefattar olika grad av** 
-  * endometritP-piller om recidiverande cystor
+  * endometrit
+  * P-piller om recidiverande cystor
   * salpingit
   * ooforit
   * TOA: tuboovarialabscess

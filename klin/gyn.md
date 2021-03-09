@@ -1,3 +1,122 @@
+## Akut buk
+
+### PID
+
+***Etiologi och patofysiologi***
+
+* Enl gyn boken, s296: 
+  * äggledarinflammation med inslag cervicit och endometreit
+* **Uppåtstigande disease**
+* **Innefattar olika grad av** 
+  * endometrit
+  * P-piller om recidiverande cystor
+  * salpingit
+  * ooforit
+  * TOA: tuboovarialabscess
+  * peritonit
+  * perihepatit: 
+* **STD**: sexually transmittable diseases
+  * **klamydia**
+  * **gonorre**
+  * **mykoplasma urogenitale**
+  * **oftast salpingit**
+* **vaginal anaerob blandflora**
+* **tarmflora med bla E.coli**
+* **abscesser**: ofta polymikrob flora, endast 30% STD
+* **actinomyces och TBC kan**: ovanligt
+  * kan bli utsått över hela peritoneum
+  * diff diagnos: peritoneal-carcinos
+
+
+
+<img src="/home/ali/Documents/prwork/medicine/klin/lectures/gyn_lec/imgs/gyn_fl_IgAIWdaWpY.png" alt="IgAIWdaWpY" style="zoom:50%;" />
+
+
+
+
+
+***Kliniska kännetecekn***
+
+* varierar: 
+  * **fr subklinisk infek till**
+  * **!!! AT påverkan + spesis**
+* **nedre buksmärtor, ofta bilat**
+* **vaginal flytning**
+* **olaga vaginal blödning**
+* **feber**
+* **påverkan på mikton + avföring**
+
+
+
+***Utredning och handläggning***
+
+* **Odla**!
+* **UL**: ofta oregelbunden resistens med varierande ekogenicitet. vid aspiration, dränage
+* **DT**: bra för säkrare kartläggning samt att följa behandling. skilja fr divertikulit o appendicit
+* **Laparoskopi vid oklar diagnos**: eventuellt
+
+
+
+
+
+<img src="/home/ali/Documents/prwork/medicine/klin/lectures/gyn_lec/imgs/gyn_fl_OC9FazrLWR.png" alt="OC9FazrLWR" style="zoom:50%;" />
+
+
+
+
+
+<img src="/home/ali/Documents/prwork/medicine/klin/lectures/gyn_lec/imgs/gyn_fl_kGwhtiqa3E.png" alt="kGwhtiqa3E" style="zoom:50%;" />
+
+
+
+cerivicit 
+
+***DIfferentialdiagnoser + riskfaktorer***
+
+* **Riskfaktorer**
+  * Sexualbeteende
+  * låg ålder
+  * IUD (intrauterindevice) spiral; första 3v om kopparspiral suttit för länge
+  * iatrogent vid operationer uterus och adnexa: obs bakteriell vaginos
+* **DIfferentialdiagnoser**
+  * appendicit
+  * divertikulit med/utan abscess
+
+
+
+***Behandling***
+
+* Antibiotika po/iv beroende på infektiosutbredning
+* kirurgi vid abscess: akut eller lugnt skede; fertilitetsbevarande=?
+* dränage av abscess
+
+
+
+***Komplikationer / konsekvenser på sikt***
+
+* Infertilitet; tubarskador
+* risk för extrautering graviditet
+* adherenser med smärta
+
+
+
+
+
+<img src="/home/ali/Documents/prwork/medicine/klin/lectures/gyn_lec/imgs/gyn_fl_gbPgkU9QrU.png" alt="gbPgkU9QrU" style="zoom:50%;" />
+
+
+
+### TOA - Tuboovarial abscess
+
+***Etiologi och patofysiologi***
+
+* **icke-utläkt PID**
+  * vanligaste orsak
+  * finns kvar som en kronisk PID
+* **äggledare**: blir vätskefulld o avstängd (säcktuba), (i samband med icke-utläkt PID?)
+
+
+
 ## Fertilitet
 
 
@@ -16,26 +135,100 @@
 
 ### Gestagena metoder
 
+#### Gestagen
+
+***Etiologi och patofysiologi***
+
+* **Gestagen** = progesteron (s847 i blueprints boken)
+* **Två faktorer bidrar till hälsoeffekter o biverkningar**
+  * **förmåga öka SHBG** (sex hormone binding globulin) som **binder upp** androgener
+  * **gestageeffekter på androgenreceptorer**
+    * om stimmar androgenreceptorn
+    * om blockar androgenreceptorn
+
+
+
+***Balans och effekter***
+
+* **ökad gestagen** 
+  * **androgent**
+    * akne
+    * hirsutism
+    * dålig lipidbalans
+  * **mineral-kortikoid**
+    * svullnad
+    * natriumretention
+    * högre blodtryck
+* **minskad gestagen**
+  * **anti-androgen**
+    * minskad akne
+    * minskad hirsutism
+    * bättre lipidlbalans
+    * sämre sexlust
+  * **anti-mineralkortikoid**
+    * natriumförlist
+    * vätskeförlsut
+    * kaliumretention
+    * sänkt blodtryck
+
+
+
+***Huvudsakliga effekter***
+
+* De eftertraktade effekterna av gestagen
+* **Förtjockning av cervikal mucus**
+* **inhibiterande sperm motilitet**
+* **Förtunnar endometrial lining**: så att den ej kan implanteras
+
+
+
+
+
 #### Systemiska lågdoserad gestagen
 
 ***Etiologi och patofysiologi***
 
 * **Gestagenets effekter**
   * **cervixsekret**
-  * **endometriepåverkan**
+  * **endometriepåverkan**: endometrial atrofi, att man får mindre endometrie, noterar att denna effekt inte är för alla utan för subset
   * **ovulationspåverkan**: satt i parentes, TODO
+    * också subset effekt. , 50% av cyklerna
 
 
 
 ***Epidemiologi***
 
 * **p-piller**: mindre o mindre del av marknaden
+* **Effektivitet**: *inte lika effektiva som kombinationspreparat*
+* **Failure rate**: 8%, som ökar om man doserar fel.
+
+
+
+***Biverkningar***
+
+* oregelbundna ovulationscykler
+* "breakthru bleedings"
+* ökad formation follikulära cystor
+* acne
+* bröstömhet, bröstirritation
+
+
+
+***Indikationer och fördelar***
+
+* ***Innehåller ej östrogen***: 
+  * passar drf för **ammande mammor**
+  * kvinnor där östrogen e kontraindicerat
+  * inkl kvinnor över 35åå som röker
+  * kvninnor hypertension, CAPD, kollagen vaskulär disorder, lupus, migrän med aura, historik VTE, 
+* **Andra användningsområdne**: abnormala uterina blödningar hos högrisk populationer där blödningarna har evaluerats adekvat (i.e. anovulerane blöndingar och bening endometrial hyperplasi hos dåliga kirurgi kandidater)
 
 
 
 ***Behandling***
 
-* **P-piller**
+* **P-piller**: "progestin only pills" (aka POPs);
+  * **Effekten minskar efter viss tid**: effekten av försegad cervixmukus minskar efter 22h, därför är det viktigt att man tar pillen samma tid varje dag. 
   * **samma tid varje dag!**: exakt samma tid varje dag, endast 3-timmars glömskemarginal
   * **gestagennivåerna kan sjunka för lågt**
 
@@ -152,6 +345,10 @@
 
 
 ### Hormonernas roll i p-piller
+
+***Allmänt***
+
+* Två alternativ förekommer: progesteron (gestagen) only metod eller kombinerade med östrogen + progesteron (gestagen)
 
 
 
@@ -280,9 +477,16 @@
   * minimal marknad i Sverige
   * viss betydelse Afrika, särskilt sexarbetare
   * <img src="./lectures/gyn_lec//imgs/gyn_lec_q0xTaYaeoU.png" alt="q0xTaYaeoU" style="zoom:50%;"/>
-* **Pessar**
+* **Pessar** (diafragma på engelska=)
   * sätta in rätt viktigt
   * har spermiedödande medel
+  * **typer:** cervixpessar som nästan caps cervix, och vaginal pessar som täcker mer av vagina
+    * **cervixpessar** måste sättas av en kliniker, patienten kan ej göra detta sj; mindre effektiv jfr andra pessar,
+  * ***Effektivitet***: "actual" effectiveness med spermiedödande medelär runt 85%
+  * ***Biverkningar***: 
+    * Toxic schock syndrome (TSS) om den är kvar för länge, kan koloniseras av staf aureus
+    * hypersensitivitet till gummi, latex, eller spermiciden
+  * **Svåra att använda**: få som fortsätter med den
   * <img src="./lectures/gyn_lec/imgs/gyn_lec_A6OiqMA20B.png" alt="A6OiqMA20B" style="zoom:50%;"/>
 * **fem cap (cervixpessar i silikon)**
   * enl studier mindre säker än pessar, svårare att använda

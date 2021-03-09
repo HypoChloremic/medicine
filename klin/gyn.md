@@ -117,10 +117,6 @@ cerivicit
 
 
 
-
-
-
-
 ## Cancer
 
 ### Cervixcancer
@@ -224,11 +220,37 @@ cerivicit
 
 
 
+### Cowdens syndrom
+
+***Allmänt***
+
+
+
+***Etiologi och patofysiologi***
+
+* autosomalt dominant
+* PTEN mutation
+
+
+
+***Epidemiologi***
+
+* Känneteckans av 28% livstidsrisk för EC
+* Ökad risk bröstcancer och thyroideacancer
+* incidens 1:250k
+
+
+
+***Utredning och handläggning***
+
+* diagnosen baseras på NCCN: national comprehensive network clinical criteria
+* UL och eller EB och eller hysteroskopi
+
 ### Endometriecancer
 
 ***Etiologi och patofysiologi***
 
-* Endometriet: del av uteris (tänk ej ovarierna)
+* **Endometriet**: del av uteris (tänk ej ovarierna)
 * **Östradiol** (estradiol; E2): predominanta **intracellulära** östrogenet i endometriet
   * ***Stimulerar mitos endometriala celler***
 * **Progetiner reducerar mitos**:
@@ -237,15 +259,17 @@ cerivicit
   * **stimmar differentiering endometrieceller till sekretorisk**
 * **Malignt också yngre kvinnor**: notera att EC kan förekomma hos yngre kvinnor också, en risk som måste beaktas.
 
+
+
 ***Typer***
 
 * **Typ1: endometrioid carcinom, vanligaste**
-  * östrogenberoende carcinogenes: progression komplex atypisk hyperplasi t EC
-  * hos pre- eller perimenopaus
-  * histologiska tecken: 
-    * grad1 under 5% solid non gladular tillväxt
-    * grad2: 6-50% non non galdular growth
-    * grad3: över 50% solid growth
+  * **östrogenberoende carcinogenes:** progression komplex atypisk hyperplasi t EC
+  * **hos pre- eller perimenopaus**
+  * **histologiska tecken:** 
+    * **grad1:** under 5% solid non gladular tillväxt
+    * **grad2:** 6-50% non non galdular growth
+    * **grad3:** över 50% solid growth
 * **Typ2: serös carcinom**
   * 10% av EC
   * äldre kvinnor jfr typ1
@@ -253,6 +277,18 @@ cerivicit
   * behandling med tamoxifen: att pat har tidg beh med tamoxifne?
   * aggressiv neoplasm
   * peritoneal dissemination likt ovarial serös carcinom
+* **klassifikation malign mesenkymal tumör av uterus livmoder**
+  * leiomyosarkom: spindled, epitelodid, myxoid
+  * perivaskulär epitiloid tumör PEComa
+  * låggradig endometriell stromal sarkom
+  * odiffad endometriell sarkom
+  * låggradig myullerian adenosarkom,
+  * malign mixad myullerian tumör 
+  * andra
+* **Familjär EC**
+  * Ackummulation fall funnet i familj
+  * kallas för familjär EC
+  * 5% av EC
 
 
 
@@ -303,10 +339,44 @@ cerivicit
   * postmenopaus kvinnor gränsvärde <= 5mm
   * normal endometrie tjocklek ***utesluter inte EC***
 * **Alla postmenopaus blödning måste histologisk undersökning**
+* Doppler ultraljud, hysteroskopi endometrial polyp
 
 
 
 <img src="./lectures/gyn_lec/imgs/gyn_lec_X4TrPPnoew.png" alt="X4TrPPnoew" style="zoom:50%;" />
+
+
+
+***Staging***
+
+* **Stad1**: confined t corpus
+  * limited t endometriet
+  * under en halva myometrie invasion
+  * över en halva myometriell invasion
+* **stad2**: cervix involvering
+  * endocervikala kärtlar
+  * strmal invasion
+* **stad3**. extrauterin extension men limited t riktig pelvis
+  * serosal eller adnexala extension eller positiv peritoneal cytologi
+  * vaginal metastas
+  * pelvis eller parao-aortala nod involvering
+* **stad4**: extension beyond riktig pelvis in i närliggande rgan
+  * blåsa eller tarm
+  * fjärrmetastaser
+
+
+
+***Prognostiska faktorer***
+
+* pad staide, histo grad, histo typ, myometrie invasion, lymovaskulär invasion, lymfkörtel mets, ålder
+* **conflicting-possible prognostic factor**: serosal involvering, cervikal involvering,. 
+* **myometrieinvasion**: confied t endometriet är prognos god om yttre tredjedel myometrie är det dåligt
+* **ålder**
+* **DNA-polidy**: DNA analys + cytomertri mäter kopior DNA i tumören. 
+  * **diploid mindre aggresiv**
+  * **DNA plodiitet självständig prognostisk faktor**
+
+
 
 ***Riskfaktorer***
 
@@ -324,11 +394,23 @@ cerivicit
 * **östrogenbehandling**
   * ordinär dos östrognebehandling (ET, estrogen treatment) = resulterar i endometriell cellproliferation
   * östrogenbehandling längd proportionell EC risk
-  * risk fr östrogenbehandling rel med BMI osså: högre BMI lägre riskeffekt av östrogenbehandling vg EC.
+  * **risk fr östrogenbehandling rel med BMI osså**: högre BMI lägre riskeffekt av östrogenbehandling vg EC.
 * **HRT - hormone replacement therapy**
   * också relaterat med riskökning om den ges intermittent
-  * kontuinuerlig  kombinerad EPT har inen ökad risk för EC.
+  * kontuinuerlig kombinerad EPT har inen ökad risk för EC.
 * **Tamoxifen**: ökar risken för endometrie cancer 2-3ggr
+
+
+
+***RIskgrupper***
+
+* Högriskgrupp
+  * icke-endometroid typ
+  * figo-grad3
+  * djup myometrieinvasion/cervikal stroaminvasion enl USG eller MR
+  * klinisk misstanke om cervikal stromainvasion
+* lågrisk
+  * ingen ovanstående prognostisk faktor föreligger
 
 
 
@@ -340,9 +422,187 @@ cerivicit
 
 
 
+***Behandling***
+
+* **Kirurgi**
+  * **Stadie1**
+    * laparotomi
+    * peritoneal tvätt
+    * TAH, BSO
+    * Selekterad paraoartala o pelvis lyumf nod sampling
+    * i typ2 och klarcells carcinom: omentum resektion
+* **Lymfkörtelutrymning:** ingen evidens för overall eller recidiv fri överlevnad för pelvis lymfadenektomi med tidig EC
+  * pelvis lymfadenektomi kan inte rekomemndera som rutin procedut för terapeutisk purpose utanför klinisk trial
 
 
-### Kirurgi
+
+
+
+**Riskreducerande operation**
+
+* Hysterektomi och SOE
+* Risken för cancer minskar: liten kvarstående risk att utveckla peritoneal carcinos
+
+* SOE leder t besvärliga biverkningar
+  * klimakteriebesvär
+  * slemhinnetorrhet
+  * dyspareuni
+  * osteoporos
+* HRT
+
+
+
+
+
+### Endometriecancer och cancerhistorik
+
+***Allmänt***
+
+* In Swedish population:
+  * 13 % women with EC had at least one relative with the same disease. 
+  * Relative proportion of endometrial  cancer in families from patients with EC was increased compared to general cancer population: 5.5% vs3.05 %
+  * 47% of  patients had relatives who were diagnosed with EC cancer before the age of 50 years
+* A history of colorectal or ovarian cancer in first-degree relatives has also been associated with an increased risk of endometrial cancer
+
+
+
+***Bröstcancer***
+
+* personlig bröstcancer ökar risken för EC, oavsett familjehistoria
+* bröstcancer associerat serös carcinom yngre kvinnor
+* 5% kvinnor serös carcinom hade mutationer i börst ancer gener,
+* men endast 2 av 7 hade brsötcance i familjen
+
+
+
+***Multipla maligniteter***
+
+* högrisk synkrom eller metakronös ovarial och endometriecancer, speciellt endometrie carcinoid
+* swedish cohort: 16% index patienter diagnosticerades med minst en cancer
+* 45% av dessa patienter hade uterincancer och bröstcancer
+
+
+
+### Leiomyosarkom - EC
+
+
+
+***Epidemiologi***
+
+* 1% av alla uterina maligniter, 40% av alla uteruina sarkom
+* invidens 0.67:100k
+* incidens leiomyosarkom originate fr leuomyom
+
+
+
+***Kliniska kännetecken***
+
+* abnormal blödning
+* pelvis smärta
+* inga radiologiska procedurer som är diagnostiska för sarkom preoperativt
+* UL, DT, MR är unreliable för att diffa sarkom fr leiomyom
+
+
+
+***Behandling***
+
+* total abdominell hysterektomi
+* BSO
+* pelvis strålning: reducerar lokal pelvis recidiv, men inte prolongerad överlevnad
+* kemoterapi: response är låg
+* 5års överlevnad 30% 
+
+
+
+### Lynchsyndrom
+
+***Allmänt***
+
+
+
+***Etiologi och patofysiologi***
+
+
+
+
+
+***Epidemiologi***
+
+* Endometriecancer
+  * Prevalens Lynch syndrom: beräknas 1:440
+  * 13 nya diagnositeras årligen LS i Stockholm
+  * prognos kvinnor med livmodercancer: över 80% överlevnad efter 10år, 20% dör fr sin EC
+  * prognos EC + LS kan god med 81% 10års-överlev
+  * livstidsrisk för EC: 50%
+  * 2% av alla EC tillhör LS
+  * medelålder diangos 48år: 
+    * MLH1/MSH2 = 50år
+    * MSH6 = 60år
+  * 50% av EC diagnos före 50åå
+* Ovarial cancer
+  * livstidrisk för OC: 10%, normal p:1.4%
+  * 2-4% av alla OCs tillhör LS
+  * ofta symptomatisk
+  * medelålder 50åå
+  * samma histo som sporadisk OC
+  * samma prognos som sporadisk OC för varje klinisk stadie
+
+
+
+***Utredning och handläggning***
+
+* **Amsterdam II kriterier för att detektera LS**
+  * Three or more family members, one of whom is a first-degree relativeof the other two, with HNPCC-related cancers (colorectal, endometrial, stomach, ovarian, pancreas, ureter and renal pelvis, biliary tract, and brain (usually glioblastoma)
+  * Two successive affected generations
+  * One or more of the HNPCC-related cancers diagnosed before age 50 years
+  * Exclusion of familial adenomatous polyposis(FAP) 
+* **Gynekologisk screening hos LS-patienter**
+  * **screening börjar mellan 30-35åå**; för att tidigaste cancrar hittas då
+  * kontroller inkludera endometriell biopsi för EC screening, specillt i premenopausal patients
+  * for OC screening: ultraljud + CA-125 kombinerad med patientinformation
+
+
+
+
+
+
+
+### HNPCC, LS
+
+***Allmänt***
+
+* hereditary non-polyposis colon cancer
+* Lynch syndrom
+
+
+
+***Etiologi och patofysiologi***
+
+* Autosomalt dominant
+* Gener: MLH1, MSH2, MSH6, PMS2
+
+
+
+***Epidemiologi***
+
+* 1-2% av lla kolonmcacer o EC fall i Sverige o för ca 9% av alla EC som yppkommer före 50åå
+* kvinnor med LS har 40-60% risk för EC, livstid
+* 50% EC före koloncancer
+* medianålder insjuk EC vid LS är 46-62åå
+* ökad risk för: ventrikel, ovarial, tunntarn, uretercancer
+* HögstariskenförovarialcancerharMLH1/MSH2-bärare 
+
+
+
+
+
+
+
+
+
+
+
+## Kirurgi
 
 
 

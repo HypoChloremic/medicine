@@ -575,6 +575,16 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+#### Sammanfattning Preventivmedel
+
+
+
+
+
+
+
+
+
 ### Järnbristanemi
 
 ***Etiologi och patofysiologi***

@@ -117,6 +117,325 @@ cerivicit
 
 
 
+
+
+
+
+## Cancer
+
+### Cervixcancer
+
+***Epidemiologi***
+
+* Sjunker över år 
+* 550f p år
+* 100 i sthlm p år
+* näst vanligaste cancerformen globalt
+* 18e vanligaste cancerformen i Sverige
+* upptäcks vid screening 50%
+
+
+
+***Riskfaktorer***
+
+* HPV
+* Rökning
+* STD
+* p-piller
+
+
+
+***Kliniska kännetecken***
+
+* symptomlöst ofta
+* värk
+* bensvullnad
+
+
+
+***Utredning och handläggning***
+
+* screening
+* Koloskopi
+* biopsi, histologi
+* UIN. undersökning i narkos
+* MR, DT, PET
+* stadieindelning: kliniskt
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_jpRyC9DkyL.png" alt="jpRyC9DkyL" style="zoom:50%;" />
+
+
+
+***Behandling***
+
+* **Alla stadier över 1b1 = tumör större än 4 cm**
+  * strålning + kemoterapi (cytostatika)
+* **mikroinvasiva tumörer: dvs ej synlig PAD**
+  * mindre kirurgi: konisering eller enkel hysterektomi
+* **synliga tumörer samt stora mikroinvasiva**
+  * inegen skillnad överlevnad mellan strplning och kirurgi
+  * men skillnad morbiditet
+* **Strålbehandling**
+  * lalla tumörer, över 1b1
+  * kombination: extern + lokal (brachybehandling)
+  * om lymfkörtelmetastaser: adjuvant behandling efter kirurgi
+* **Cytostatika**
+  * tillsammans med strål
+  * öka känsligheten för strålbeh
+  * kan krympa tumörer, troligen ej bota: endast kemoterapi cytostatika
+* **Kirurgi**
+  * nervsparande
+  * wertheim
+  * fertilitetsbevarande: trackelektomi, förutsatt tumör under 2cm
+  * recidivkirurgi
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_1un3q6TpaP.png" alt="1un3q6TpaP" style="zoom:50%;" />
+
+***Biverkningar***
+
+* **Morbiditet vid strålning**
+  * strålproktit
+  * blåspåverkan: trängningar
+  * vaginal striktur, atrofi
+  * frozen pelvis
+* **Morbiditet vid kirurgi**
+  * nervpåverkan, jfr prostatektomi
+  * förkortning vagina
+  * lymfödem
+* **Primärbehandling**: ung patientgrupp, botbar sjd, risk skador centrala bäckennerver, problem t lymfadenektomi, risk strålinducerade skadpr blåsa, tarm genitalia
+* **Bergmark**: kort vagina, otillräcklig lubrikation, dyspareuni
+
+
+
+***Prognos***
+
+* ***5års-överlevnad***
+* **enl stadier**
+  * 1A: 100%
+  * 1b: 90%
+  * 2a: 80%
+  * 2b: 60%
+  * 3: 30%
+  * 4: 10%
+
+
+
+### Endometriecancer
+
+***Etiologi och patofysiologi***
+
+* Endometriet: del av uteris (tänk ej ovarierna)
+* **Östradiol** (estradiol; E2): predominanta **intracellulära** östrogenet i endometriet
+  * ***Stimulerar mitos endometriala celler***
+* **Progetiner reducerar mitos**:
+  * **reducerar östrogenreceptorer**
+  * **ökar metabolism E2 t mindre aktiv E1**
+  * **stimmar differentiering endometrieceller till sekretorisk**
+* **Malignt också yngre kvinnor**: notera att EC kan förekomma hos yngre kvinnor också, en risk som måste beaktas.
+
+***Typer***
+
+* **Typ1: endometrioid carcinom, vanligaste**
+  * östrogenberoende carcinogenes: progression komplex atypisk hyperplasi t EC
+  * hos pre- eller perimenopaus
+  * histologiska tecken: 
+    * grad1 under 5% solid non gladular tillväxt
+    * grad2: 6-50% non non galdular growth
+    * grad3: över 50% solid growth
+* **Typ2: serös carcinom**
+  * 10% av EC
+  * äldre kvinnor jfr typ1
+  * historia med bröstcancer
+  * behandling med tamoxifen: att pat har tidg beh med tamoxifne?
+  * aggressiv neoplasm
+  * peritoneal dissemination likt ovarial serös carcinom
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_RWNm3QuaYl.png" alt="RWNm3QuaYl" style="zoom:50%;" />
+
+
+
+
+
+***Epidemiologi***
+
+* 4e vanligaste tumör kvinnor, 6% av alla cancrar internationellt hos kvinnor. 
+* 1400 fall i Sverige varje år
+* livstidsrisk: 2%
+* mortalitet: 7-10:100k
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_86roAEaYn2.png" alt="86roAEaYn2" style="zoom:50%;" />
+
+
+
+***Kliniska kännetecken***
+
+* **onormal vaginal blödning** presenterar hos 90% av alla EC
+* **postmenopausal blödning**: notera postmenopausal, detta är ALLTID abnormalt
+  * progressivt högre risk för EC om man är äldre och får en postmenopausal blödnnig
+
+
+
+***Utredning och handläggning***
+
+* **Gynekologisk Status**
+  * blödningskälla
+  * cervikal stenos
+  * uterin storlek, pelvisk massa
+* **pap smear**
+  * cytologisk abnormalitet av cervix, vagina
+  * occasional information av upper tract disease
+* **endometriell biopsi**: endometriell lining
+* **hysteroskopi**: endometriell lining
+* **Diagnostiska tester**
+  * **transvaginal ultraljud**: endometriell stripe, uterusstorlek, adnexstorlek, förekomst cystor, massa
+  * **sonohysterogram**: endometriell stripe, förekomst submukös fibroider, polyper, endometriella kavitetsmassa
+  * **pelvis-MR**: myometriell abnornalitet, endometriell kavitet, adnexala strukturer, invasion in i parametria, vagina, blåsa, pelvic nodal disease
+  * **abdominopelvic-DT**: ascites, pelvis och para-aortal adenoatpier, intraparenkymala organabnormaliteter, peritoneala och omental sjukdom
+* ***Endometrietjocklek***: dubbellager mätning
+  * postmenopaus kvinnor gränsvärde <= 5mm
+  * normal endometrie tjocklek ***utesluter inte EC***
+* **Alla postmenopaus blödning måste histologisk undersökning**
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_X4TrPPnoew.png" alt="X4TrPPnoew" style="zoom:50%;" />
+
+***Riskfaktorer***
+
+* **allt som ökar biotillgänglighet östrogen ökar risken endometriecancer**
+  * **obesitas**: BMI starkt associerad ökad risk endometriecancer
+    * dubblas fr 23 BMI till 30 BMI 
+    * hos premenopaus, är BMI proportionel med ***längre anovulatoriska cykler*** (med anovulation att endometriet växer sig fetare?)
+    * **postmenopaus**: BMI proportionell med ökad E2 och sänkt SHBG
+  * **nullipara**
+  * **sen menopaus**
+  * **diabetes mellitus**
+  * **hypertension**
+  * **kronisk unopposed östrogen stimulering**
+  * **kronisk tamoxifen användning**
+* **östrogenbehandling**
+  * ordinär dos östrognebehandling (ET, estrogen treatment) = resulterar i endometriell cellproliferation
+  * östrogenbehandling längd proportionell EC risk
+  * risk fr östrogenbehandling rel med BMI osså: högre BMI lägre riskeffekt av östrogenbehandling vg EC.
+* **HRT - hormone replacement therapy**
+  * också relaterat med riskökning om den ges intermittent
+  * kontuinuerlig  kombinerad EPT har inen ökad risk för EC.
+* **Tamoxifen**: ökar risken för endometrie cancer 2-3ggr
+
+
+
+***Skyddande faktorer***
+
+* **graviditeter:** 35% reducert 1a para, 15% efter 2a para;
+* grav äldre ålder mer protektivt: EC reduceras med 51% kvinnror med last birt runt 35åå
+* **oral antikonception**: 7% reduktion för varje år som man använder
+
+
+
+
+
+### Kirurgi
+
+
+
+#### Fertilitetsbevarande kirurgi
+
+***Trachelectomi - cervix***
+
+* Cervixcancer behandling
+* bevarar fertiltiet
+* endast cervix med parametrier avlägsnas
+* förutsättning: tumör under 2cm
+* permanent cerklage
+* sectio
+* graviditetsutfall: grav rate 70-80*%, missfall 10-20%
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_FSWI4ztXzN.png" alt="FSWI4ztXzN" style="zoom:50%;" />
+
+
+
+#### Lymfkörtelmetastaser
+
+* Enskilt viktigate prognostiska faktorn efter kirurgi (cervix?)
+
+
+
+#### Nervsparande kirurgi - cervix
+
+***Viktiga nerver***
+
+* plexus hypogastricus sup
+* plexus hypogastricus inf
+* N splanchicus
+* N genitofemoralis
+* N obturatorius
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_NnOrJTf1X9.png" alt="NnOrJTf1X9" style="zoom:50%;" />
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_gYmdFJPJ2j.png" alt="gYmdFJPJ2j" style="zoom:50%;" />
+
+
+
+
+
+#### Recidivkirurgi
+
+***Allmänt***
+
+* recidiv som inte tidg strålats bär 1a föremål ***radiokemoterapi***
+* kirurgi aktuellt vid: tidg strålade kvinnor 
+  * bäckenutrymning = exentration
+
+
+
+***Utredning och handläggning***
+
+* radiologisk utredning krävs
+
+
+
+***Prognos***
+
+* beror på utbredning; utvalda fall ca 40-60%
+
+
+
+***relativa kontraindikationer***
+
+* engagemang av bäckenvägg
+* körtelmetastaser
+
+
+
+#### Wertheim meighs op
+
+***Innefattar***
+
+* radikal hysterektmomi
+* resektion parametrierna
+* resektion övre vagina
+* lymfkörtelutrymning i bäckenet
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_8wfku7ikHt.png" alt="8wfku7ikHt" style="zoom:50%;" />
+
+
+
 ## Fertilitet
 
 
@@ -341,6 +660,19 @@ cerivicit
 <img src="./lectures/gyn_lec/imgs/gyn_lec_4Ckb9eqdpA.png" alt="4Ckb9eqdpA" style="zoom:50%;" />
 
 
+
+
+
+### Hormoner
+
+#### Östradiol
+
+***Etiologi och patofysiologi***
+
+* **SHBG**: plasma E2 bundet med SHBG, 
+* **SHBG-bunden E2 ej biotillgänglig**
+* ! **Högre BMI -> mindre SHBG**
+  * **E2 ökar biotillgänglighet med ökande BMI**
 
 
 
@@ -576,8 +908,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 #### Sammanfattning Preventivmedel
-
-
 
 
 

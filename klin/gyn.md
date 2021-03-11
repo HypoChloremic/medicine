@@ -29,7 +29,7 @@
 
 
 
-<img src="/home/ali/Documents/prwork/medicine/klin/lectures/gyn_lec/imgs/gyn_fl_IgAIWdaWpY.png" alt="IgAIWdaWpY" style="zoom:50%;" />
+<img src="./lectures/gyn_lec/imgs/gyn_fl_IgAIWdaWpY.png" alt="IgAIWdaWpY" style="zoom:50%;" />
 
 
 
@@ -59,13 +59,13 @@
 
 
 
-<img src="/home/ali/Documents/prwork/medicine/klin/lectures/gyn_lec/imgs/gyn_fl_OC9FazrLWR.png" alt="OC9FazrLWR" style="zoom:50%;" />
+<img src="./lectures/gyn_lec/imgs/gyn_fl_OC9FazrLWR.png" alt="OC9FazrLWR" style="zoom:50%;" />
 
 
 
 
 
-<img src="/home/ali/Documents/prwork/medicine/klin/lectures/gyn_lec/imgs/gyn_fl_kGwhtiqa3E.png" alt="kGwhtiqa3E" style="zoom:50%;" />
+<img src="./lectures/gyn_lec/imgs/gyn_fl_kGwhtiqa3E.png" alt="kGwhtiqa3E" style="zoom:50%;" />
 
 
 
@@ -102,7 +102,7 @@ cerivicit
 
 
 
-<img src="/home/ali/Documents/prwork/medicine/klin/lectures/gyn_lec/imgs/gyn_fl_gbPgkU9QrU.png" alt="gbPgkU9QrU" style="zoom:50%;" />
+<img src="./lectures/gyn_lec/imgs/gyn_fl_gbPgkU9QrU.png" alt="gbPgkU9QrU" style="zoom:50%;" />
 
 
 
@@ -707,6 +707,15 @@ cerivicit
 * **Ovulation efter abort**: pat akan ovulera så snart som 8-10 d fr abort;
 * **Vikten av preventivmedel**: detta belyser att man bör börja med preventivmedel utan dröjsmål
   * detta oavsett metod. 
+* **Progesteronhämmare**: progesteron normalt sett relaxerar uterus 
+  * Med progesteronhämmare kommer uterus att kontrahera
+  * cervix kommer att relaxera också
+  * fostret kommer att stötats bort
+* **Prostaglandinerna**: kontraktionerna ökar i uterus. 
+
+
+
+
 
 
 

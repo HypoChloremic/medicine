@@ -613,37 +613,101 @@ Går på extrakontroller PE. Stilla i magen, riklig menstruation, vattnet verkar
 
 
 
+<img src="./imgs/gyn_sem_5RKAw1Kkmw.png" alt=5RKAw1Kkmw style="zoom:50%">
+
+
+
 **Vilken diagnos måste du utesluta och vilket råd ger du?** 
 
-Akut till förlossningen för kontroll. 
-Ablatio MÅSte uteslutas direkt. 
+* Detta är en placenta ablatio; en klinisk diagnos
+* Akut till förlossningen för kontroll. 
+* placenta ablatio måste uteslutas direkt. 
+* Uterusruptur ffa risk vid tidigare op livmodern, sectio. 
+* Sker under värkarbete oftast. 
+* Lågt sannolikhet pga ovanligt. 
 
 
 
-Uterusruptur ffa risk vid tidigare op livmodern, sectio. Sker under värkarbete oftast. Lågt sannolikhet pga ovanligt. 
-
-**
-****Malin kommer snabbt in till förlossningen. Man kopplar CTG som visar en basalfrekvens på 160 slag/min, nedsatt variabilitet och avsaknad av accelerationer. Täta korta kontraktioner ses. Vaginalundersökning visar att det blöder färskt ur cervix, som är bibehållen och öppen endast 1 cm.** 
+**Malin kommer snabbt in till förlossningen. Man kopplar CTG som visar en basalfrekvens på 160 slag/min, nedsatt variabilitet och avsaknad av accelerationer. Täta korta kontraktioner ses. Vaginalundersökning visar att det blöder färskt ur cervix, som är bibehållen och öppen endast 1 cm.** 
 
 **Hur bedömer du situationen? Vad gör du nu? Förklara hur blödningen uppstår! Ange allmänna riskfaktorer! Vilka andra orsaker till blödning i sen graviditet finns det?**
 
-HF är normalt, på gränsen. Inte normalt med nedsatt variabilitet och inga accelerationer. Man behöver inte ha accelerationer under förlossning med variabilitet är viktigt. Kan man lägga sytråd är det ett observandum. Dessutom har hon täta värkar så fostret kanske inte hinner syresätta sig. 
+* HF på gränsen. 
+* Inte normalt med nedsatt variabilitet och inga accelerationer. 
+* Man behöver inte ha accelerationer under förlossning med variabilitet är viktigt. 
+* Kan man lägga sytråd är det ett observandum. 
+* Dessutom har hon täta värkar så fostret kanske inte hinner syresätta sig. 
+* Nedsatt variabilitet kan vara tecken på etablerad hypoxi. 
+* Misstänker ablatio. Snitt men göra halv akut. Väldigt allvarligt tillstånd. 
+* kontinuerligt ctg + iv infarter + lab. 
+* Blödningen uppstår genom att det blir en liten blödning (retroplacentärt?) och det gör att det släpper och då blöder det ännu mer. 
+* Bildas ett hematom bakom placenta → dissekeras loss. 
 
-Nedsatt variabilitet kan vara tecken på etablerad hypoxi. 
 
-Misstänker ablatio. Snitt men göra halv akut. Väldigt allvarligt tillstånd. 
 
-kontinuerligt ctg + iv infarter + lab. 
+***Handläggningsmässigt***
 
-Blödningen uppstår genom att det blir en liten blödning och det gör att det släpper och då blöder det ännu mer. Bildas ett hematom bakom placenta → dissekeras loss. 
+* ablatio = klinisk diagnos
+* kontiuerligt CTG + infarter + lab (blodgrupp, BAS-test, etc)
+* sectioberedskap
+
+
+
+***Patofysiologiskt placenta ablatio***
+
+<img src="./imgs/gyn_sem_67EYs2QpKs.png" alt=67EYs2QpKs style="zoom: 80%;">
+
+* ett litet hematom bakom placentat, som leder till att placentan avstöts
+* hematomet dissekerar loss placenta
+
+
+
+***Riskfaktorer placenta ablatio***
+
+* Preeklampsi: som denna patient hade
+* trauma
+* trombos hereditet
+* hyperemisis gravidarum
+* hög maternell ålder
+* rökning
+* graviditetsdiabetes
+* saker som spänner livmodern: flerbörd, polyhydramnios
+
+
+
+**orsaker blödning sen graviditet**
+
+* **placenta ablatio**
+* **placenta previa**
+* **vasa previa**
+* **uterusruptur**: 
+  * **vanligare hons tidgare kejsarsnitt**
+  * **vanligast att under värkarbete**
+  * // låginkomstländer där kan vara förlossningsarbete som pågår lång tid att det kan förekomma osså
+    * långdragen förlossning: nu har man 1öppningscentimeter varannan timme. 
+  * **kan ske hos försföderskor, men väldigt ovanligt.** 
+  * **oxytocinstimulering hos en tidigare snittad är en riskigare patient:** 
+    * vill inte sätta igång kvinnor med oxy som är tidg snittade
+    * induktionsmetoder...
+* **sekundära orsaker**
+  * infektion som ger slemhinneblödningar
+  * cancer
+* **täckningsblödning**: att cervix börjar dilatera: presenteras inte som i detta fallet, det är bara en diffdiagnos hos en vaginal blödning i den trimestern
+  * när cervix dilaterar att vener går sönder, att det blir en vanlig celltillblandad blödning, kan ibland bli lite rikligare att man blir fundersam
 
 
 
 **Vasa Previa** 
 
-Fetala blodkärl ligger oskyddade i fosterhinnor över el intill modermunnen och ligger helt oskyddade. 
+* Fetala blodkärl ligger oskyddade i fosterhinnor över el intill modermunnen och ligger helt oskyddade. 
+* atde fetala kärlen inte är omgivna av gällen i navelsträngen, att  de blir omgivna av tryck o går sönder
+* då är det barnet som blöder, att ungen förlirar sin blodbolym väldigt snabbt
+* orsaker: 
+  * biplacenta, att det löper kärl mellan placentadelarna
+* förhoppnignsvis att man diagnosticerat antenatalt
+* finns vasa previa test: bomyllspinne att man tar fetalt HBF när man undersöker för att utesltua sådan blödnign
 
-<img src="./imgs/gyn_sem_CJC6fcnbgo.png" alt=CJC6fcnbgo style="zoom:50%">
+<img src="./imgs/gyn_sem_MPLvJ3gUXi.png" alt=MPLvJ3gUXi style="zoom: 80%;">
 
 
 
@@ -653,155 +717,120 @@ Andra orsaker till blödning: placenta previa, vasa previa, ablatio placentae, (
 
 
 
-**Postpartum blödning OBS! OSCE station**
+### **Postpartum blödning OBS! OSCE station**
 
-Orsaker: 
-TTTT
-Tone: Uterus drar inte ihop sig. Kan vara av olika anledningar. 
-Orsakas av:
+Epidem: att 10% får detta... 
 
-\- Uttänjd livmoder (makrosomi, polyhydramnios, fostermissbildningar, flerbörd)
+<img src="./imgs/gyn_sem_BjnLspXTpG.png" alt=BjnLspXTpG style="zoom:50%">
 
-\- Utdragen eller snabb förlossning
-
-\- Multipara (> III-para)
-
-\- Infektion
-
-\- Tidigare postpartumblödning
-
-\- Myom
-
-\- Uterusmissbildningar
-
-\- Placentaavlossning
-
-\- Uterusinversion
-
-\- Hypotermi
-
-\- Läkemedelspåverkan (betamimetika, isofluran, magnesiumsulfat, kalciumblockerare, NSAID) 
-
-
-
-Trauma 
-kejsarsnitt 
-
-- **Förlossningsskador**: Laceration av vagina, cervix, *isthmus uteri* eller hematom.
-- **Instrumentell vaginal förlossning (sugklocka eller tång) Episiotomi** 
-- **Uterusruptur**
-  Framför allt ökad risk efter tidigare kejsarsnitt eller annan uterusoperation.
-- **Uterusinversion**
-
-
-Tissue 
-**Placentaretention****
-**Kvarhållen placenta eller placentarest. DÅ kan inte placenta dra ihop sig. 
-
-
-- **Placenta previa****
-  **Föreliggande placenta.
-
-- **Placenta accreta, increta och percreta****
-  **Inväxt av placentavävnad i respektive igenom myometriet, med möjlig överväxt på närliggande organ.
+* **Tone**: Uterus drar inte ihop sig. Kan vara av olika anledningar. 
+  * Atoniblödning: vanligaste orsak till postpartumblödnig
+  * Uttänjd livmoder (makrosomi, polyhydramnios, fostermissbildningar, flerbörd)
+  * Utdragen eller snabb förlossning
+  * Multipara (> III-para)
+  * Infektion
+  * Tidigare postpartumblödning
+  * Myom
+  * Uterusmissbildningar
+  * Placentaavlossning
+  * Uterusinversion
+  * Hypotermi
+  * Läkemedelspåverkan (betamimetika, isofluran, magnesiumsulfat, kalciumblockerare, NSAID) 
+* **Trauma** 
+  * kejsarsnitt 
+  * **Förlossningsskador**: Laceration av vagina, cervix, *isthmus uteri* eller hematom.
+  * **Instrumentell vaginal förlossning (sugklocka eller tång) Episiotomi** 
+    * **Uterusruptur**
+      Framför allt ökad risk efter tidigare kejsarsnitt eller annan uterusoperation.
+  * **Uterusinversion**
+* **Tissue** 
+  * blöder fr placentabädden o att uterus inte drar ihop sig
+  * **Placentaretention****
+    **Kvarhållen placenta eller placentarest. DÅ kan inte placenta dra ihop sig. 
+  * **Placenta previa****
+    **Föreliggande placenta.
+  * **Placenta accreta, increta och percreta****
+    **Inväxt av placentavävnad i respektive igenom myometriet, med möjlig överväxt på närliggande organ.
+* **Thrombin**
+  * blött till sig en koagulationsdefekt
+  * **Koagulationsrubbning. Man blöder till sig detta.** 
+  * Preeklampsi/HELLP 
+  * **Anemi**
+    * **Placentaavlossning****
+      **Kan ge koagulationsrubbning (DIC)
+  * **Antikoagulantia**** 
+  * **Sekundär fibrinolys****: Kan uppstå p g a blödning (d v s för alla T)
 
 
-Thrombin
 
-- **Koagulationsrubbning. Man blöder till sig detta.** **
-  ** 
-- **Preeklampsi/HELLP****
-  ** 
-- **Anemi****
-  ** 
-- **Placentaavlossning****
-  **Kan ge koagulationsrubbning (DIC)
+***Definition***
 
-- **Antikoagulantia****
-  ** 
-- **Sekundär fibrinolys****
-  **Kan uppstå p g a blödning (d v s för alla T)
-
-
-Handläggning 
-
-Enligt den svenska versionen av ICD-10 registreras endast blödning ≥ 1000 ml som onormal postpartumblödning. 
+* Sverige, 1000mL: Enligt den svenska versionen av ICD-10 registreras endast blödning ≥ 1000 ml som onormal postpartumblödning. 
 
  
 
-- **Primär postpartumblödning****
-  **Onormal blödning inom 24 h postpartum.
-
-- **Sekundär postpartumblödning****
-  **Onormal blödning efter 24 h upp till 12 veckor postpartum.
-
-I detta PM behandlas endast primär postpartumblödning
+- **Primär postpartumblödning**: Onormal blödning inom 24 h postpartum.
+- **Sekundär postpartumblödning**: Onormal blödning efter 24 h upp till 12 veckor postpartum.
+- I detta PM behandlas endast primär postpartumblödning
 
 
 
 **Förebyggande åtgärder före förlossning**
 
- 
+* Första förebyggande åtgärd är att man har koll på sin pat: 
+  * riskfaktorer: med tidig haft d, utdraget förlossningsförlopp, stort barn, assisterad förlossning med sugklocka är osså sugklocka
+* På förlossningsenheten bör finnas en blödningslåda/vagn med förberedda läkemedel och instrument. Personalen bör vara väl bekant med rutiner och behandling av patient med postpartumblödning.
 
-På förlossningsenheten bör finnas en blödningslåda/vagn med förberedda läkemedel och instrument. Personalen bör vara väl bekant med rutiner och behandling av patient med postpartumblödning.
 
- 
 
- 
-
-**Förebyggande åtgärder efter förlossning**
-
- 
+**Förebyggande åtgärder <u>efter förlossning</u>**
 
 *”Active management of the third stage of labour”*
 
- 
-
 - Uterotonika: [Oxytocin](https://www.fass.se/LIF/result?userType=0&query=Oxytocin) 8,3 µg/ml (1 ml=5 IE) i.m. eller i.v. långsamt omedelbart efter barnets framfödande
-
+  - för att livmodern ska dra ihop sig
 - Avgång av placenta och hinnor med hjälp av kontrollerad traktion i navelstängen samt uterusmassage (i normalfallet inom 15 min) 
-
 - Töm urinblåsa
-
 - Larma obstetriker/anestesiolog vid onormal blödning
+- har koll på blödningsmängd o vitalparams. 
+- olika läkemedel man kan använda osså
+- Läkemedel
+  - upprepa oxytocin
+  - hänga förstärkt oxytocindropp som går på några timmar: om atonisk uterus
+  - ciklokapron / tranexamsyra
+  - metergin: kontraindik om preeklampsi el högt BT hos pat, för att det kan höja BT ganska mkt
+    - man ger ej t redan högt BT
+    - samt hjälper ej mot blödningen
+    - jätteffektivt för att uterus ska kontrahera
+    - uterussammandragande
+  - prostinofen
 
 
 
-Åtgärd 
+***Akut åtgärd*** 
 
-Patient med postpartumblödning handläggs strukturerat med ett ABC-tillvägagångssätt. Samarbeta med narkosläkare och koagulationsspecialist vid större blödning eller instabil patient. 
-
-*Diagnosticera blödningsorsaken*
-
-*Provtagning*
-
-*optimera koagulationen*
-
-
-
-*Uterotonika*
-
-*Koagulation och blodprodukter*
-
-**Kirurgisk behandling**
-
-*Ballongkateter i uterus. Håll koll på hur mycket det blöder.* 
-
-- *Artärembolisering**
-  **I samarbete med kärlkirurg/angiojour/interventions radiolog**
-  \* 
-- *Laparotomi**
-  **Gör vid behov aortakompression. (tryck strax ovanför naveln och lite till pats vänstra → inte bekvämt. GÅr bra på nyförlösta pga ingen rectusdiastas medan man går till op. Kompressionssuturer av uterus, B-Lynch- eller Haymann-suturer. Eventuellt ligatur av aa. uterinae, ev aa. ovaricae om ej möjligt med artärembolisering.**
-  \* 
-- *Hysterektomi**
-  **Subtotal eller total.**
-  \* 
-- *Bukpackning och chockbyxa**
-  **Alternativ inför transport till röntgen för embolisering eller till annat sjukhus.*
+* **Akut, ABCDE:** Patient med postpartumblödning handläggs strukturerat med ett ABC-tillvägagångssätt. 
+* Samarbeta med narkosläkare och koagulationsspecialist vid större blödning eller instabil patient. 
+* **Diagnosticera blödningsorsaken**
+* **Provtagning**
+* optimera koagulationen
+* Uterotonika
+* *Koagulation och blodprodukter*
+* **Kirurgisk behandling**
+  * Ballongkateter i uterus. Håll koll på hur mycket det blöder.* 
+  * Artärembolisering: I samarbete med kärlkirurg/angiojour/interventions radiolog 
+  * Laparotomi
+  * Gör vid behov aortakompression. (tryck strax ovanför naveln och lite till pats vänstra → inte bekvämt. GÅr bra på nyförlösta pga ingen rectusdiastas medan man går till op. Kompressionssuturer av uterus, B-Lynch- eller Haymann-suturer. Eventuellt ligatur av aa. uterinae, ev aa. ovaricae om ej möjligt med artärembolisering. 
+  * Hysterektomi: Subtotal eller total. 
+  * Bukpackning och chockbyxa: Alternativ inför transport till röntgen för embolisering eller till annat sjukhus.*
+* Aortakompression: lite vänster mot pats navel att man trycker så långt man kan: nyförlösta pat har inga bukmuskler, har rektusdiastas, så det kan vara ganska lätt, så då gör man d tills operation, för att stoppa blödning. 
+* bimanuellt trcker på cervix och tryucker utifrån för att uterus ska trycka ihopp sig
+* atonisk uterus: uterysmassage, eller komprimerar uterus är också en behandling
+  * kan känna när man trycker att den komprimerar o spänner o sen släpper att den e atonisk igen, så man gör om d, kan hålla på tills LKM har  fått effekt. 
 
 
 
-*![img](https://lh5.googleusercontent.com/Gz8LAJQp4gUOk0QcjKk8iJHcrL6caT1saDq3JrA_yAugk8rXa1vpLRm0xl9UcIIXa8nF7ASQjGDZWiLqkftDuzGl9dBsymWONNh6SMban0XuZDNF3S4epNNn8q3oVKVh9JBSRLNL)*
+*<img src="https://lh5.googleusercontent.com/Gz8LAJQp4gUOk0QcjKk8iJHcrL6caT1saDq3JrA_yAugk8rXa1vpLRm0xl9UcIIXa8nF7ASQjGDZWiLqkftDuzGl9dBsymWONNh6SMban0XuZDNF3S4epNNn8q3oVKVh9JBSRLNL" alt="img" style="zoom: 67%;" />*
 
 *Oxytocin ges direkt efter bebisen är född.* 
 

@@ -429,27 +429,46 @@ Tubotomi är omodernt.
 **Sara 30 år väntar sitt andra barn och är i vecka 28. Hon har mått bra under graviditeten och får plötsligt en riklig färsk blödning när hon är på arbetet. Hon ringer till förlossningen och frågar vad hon skall göra.** 
 
 **Vilka frågor ställer du till henne och vad råder du henne att göra?** **
-**Smärta? Värkarbete?
-Fosterrörelser?
 
-Hur mår du för övrigt? Mycket blod, blöder det fortfarande? Man kan fråga mer eller mindre än mens. 
-
-Man ska fråga om hon vet vart placenta sitter. 
-
-Råder henne till att åka till förlossningen. När säger man förlossning, när säger man gynakut?
-
+* Smärta? Värkarbete?
+* Fosterrörelser?
+* Hur mår du för övrigt? Mycket blod, blöder det fortfarande? Man kan fråga mer eller mindre än mens. 
+* Man ska fråga om hon vet vart placenta sitter. 
+* Råder henne till att åka till förlossningen. När säger man förlossning, när säger man gynakut?
+* Gynanamnes. 
 
 
-Gynanamnes. 
+
+<img src="./imgs/gyn_sem_tG5P7DGuqc.png" alt=tG5P7DGuqc style="zoom:50%">
+
+
 
 
 
 **Hur omhändertas Sara när hon 25 minuter senare kommer till förlossningen? Vilka orsaker till blödningen funderar du över? Hur går du vidare?**
 
-CTG, vital parametrar, beroende på omfattning av blödning (hb). Infarter. blodgruppering och bastest. 
-Obstetriskt UL (hjälper till att det man känner själv, hur ligger bebisen?) och vaginalt UL (mäta livmodertapp, teckningsblödning?). Gör spekulumundersökning, rinner det färskt blod eller är det gammalt? Hålla henne fastande om någon läggs in för blödning. 
-
-Inläggning med ctg övervakning. Man kan blöda av andra saker också. Polyper, cancer osv. 
+* 
+* beroende på omfattning av blödning (hb). 
+* Infarter. blodgruppering och bastest. 
+* Obstetriskt UL (hjälper till att det man känner själv, hur ligger bebisen?) och 
+* vaginalt UL (mäta livmodertapp, teckningsblödning?). 
+* Gör spekulumundersökning, 
+* rinner det färskt blod eller är det gammalt? 
+* Hålla henne fastande om någon läggs in för blödning. 
+* Inläggning med ctg övervakning. 
+* Man kan blöda av andra saker också. 
+* Polyper, cancer osv. 
+* ebnl läk
+  * **CTG**: Det första viktigaste som barnmorskorna på avdelnignen sätter på
+  * vital parametrar: BT, puls
+  * få infarter
+  * vill utesluta placenta ablatio (avlossnign): enl bok klinisk diagnos enl sanna; 
+  * // ultraljudet kommer enl läk inte tillägga så mkt, kmr vara fostervatten, retroplacentärt hematom (men det är inte diagnostiskt). Läkare säger att man ej kan utesluta ablatio med ett ultraljud
+  * placenta ablation: vaginal blödning, påvekrat ctg, sammandragningar ont över livmodern; kan vara sparsam placenta avlossning liten blödning o att fostret opåverkat. 
+    * säker blir man när man gör kejsarsnitt och det kommer koagler i uterotomin innan bebisen at
+    * kliniska diagnoser är lite svårgreppade
+  * // har man en pat som har påverkat CTG och blöder i sängen, är det inte mer än att man ska förlösa barnet. 
+  * // Optimera förhållanden för att förlösa en liten bebis = ge kortison (surfaktant), magnesium
 
 
 
@@ -465,17 +484,24 @@ Accreta är inge bra och kan bli problematiskt och stor risk för blödning. Pla
 
 
 
+**CTG fr patient**
+
 <img src="./imgs/gyn_sem_6k3b22C6nX.png" alt=6k3b22C6nX style="zoom:50%">
 
-Bas HR = 160 
+* Bas HR = 160 
+* Variabilitet finns
+* Accelerationer finns
+* Inga decelerationer. 
+* Normalt CTG. 
+* vad gäller värkarna: beror på patienten om den rör sig eller spänner;
 
-Variabilitet finns
+<img src="./imgs/gyn_sem_WqjW2I0sjY.png" alt=WqjW2I0sjY style="zoom:50%">
 
-Accelerationer finns
+***Differentialdiagnoser***
 
-Inga decelerationer. 
-
-Normalt CTG. 
+* Polyp,  tumör
+* placenta pravia
+* vaginala varicer
 
 
 
@@ -499,6 +525,74 @@ Delas in i lågt sittande placenta, marginell, partiell och total placenta previ
 
 
 Många placenta är tidigt lågt sittande. Man följer de för att kolla om placenta flyttar på sig. Om man är tidigare snittad är det högre risk att placenta sitter kvar lågt. 
+
+
+
+**enl läk**
+
+* inläggning: 
+* se till att blödningen inte fortsätter
+* komma vidare i diagnostiken: göra ett vaginalt ultraljud, kan se placenta läget
+  * kan se om placenta previa
+  * kan se vasa previa.
+  * spekulumundersökning: hur mkt blöder, eller om annan orsak: malingitet, polyp eller annat som kan blöda hos patienten. 
+* konstaterar placenta previa
+* avtar blödnign
+* efter 4 dagar lungt ingen blödning
+* vidare handlägg
+  * först o främst återgå t hemmet,
+  * bokar uppföljning
+    * kontrollerar placentaläöget
+    * beslut om föda vaginalt
+    * eller plan kejsarsnitt
+    * tillväxtmätning av barnet
+    * eftersom liten blödning finns risk för cirkulationsstörning i placenta och ger tillväxthämning hos barnet
+    * behöver få komma direkt t förlossning om hon blöder
+    * snabb förlossning om hon blöder mkt. 
+  * höra av sig om det händer ngt
+  * gör upp en förlossningsplan; för att det är ett snitt man får göra..., beroende på läget kan man göra en vaginal
+  * det är ganska vanligt att **den vandrar upp**: 
+
+
+
+**placenta previa**
+
+
+
+<img src="./imgs/gyn_sem_vARZeFpbVn.png" alt=vARZeFpbVn >
+
+<img src="./imgs/gyn_sem_vTvgWEotFw.png" alt=vTvgWEotFw style="zoom:50%">
+
+<img src="./imgs/gyn_sem_hWd4ebgSHc.png" alt=hWd4ebgSHc style="zoom:50%">
+
+
+
+<img src="./imgs/gyn_sem_VYWXlzSLFK.png" alt=VYWXlzSLFK style="zoom:50%">
+
+
+
+* att cervix öppnar sig, coh för att placenta ligger där precis på cervix däröfr läcker blod att den kan lossa och göra det hela lite mer komplicerat
+* former riskfaktorer
+  * lågt sittande
+  * marginell
+  * partiell täckt
+  * total täckt
+* riskfaktoreR: hög ålder, tidg kejsarsnitt, flera barn
+* placenta flyttar uterus uppåt, att den migrerar
+  * att en pat som kommer blöd vid månad 2a trimester att det är placenta preavia, men att den vidare kontroller att den har flyttats uppåt.
+* Finns lite olika uppdelningar
+* lågt sittande = inom 2 cm fr cervix. 
+* Placenta acreta: 
+  * ökar med antal tidigare snitt; invasiv placenta. 
+  * därför att de sitter över ett snitt; eller andra snitt i uterus. 
+  * pacreta att de växer in i andra organ: tarmar, blåsa, bukväggen. 
+  * förhoppningsvis diagnosticerats antenatalt, innan förlossning
+  * annars risk för att de blöder otroliga mängder
+  * // kan få en i första trimestern = ärrgraviditeter, att  den satt sig i ett ärr. 
+
+
+
+
 
 
 

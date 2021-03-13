@@ -117,6 +117,84 @@ cerivicit
 
 
 
+## Anatomi
+
+### Allmänt
+
+
+
+<img src="./imgs/gyn_sam_130321_5hF2Kp0XMM.png" alt="5hF2Kp0XMM" style="zoom:50%;" />
+
+
+
+<img src="./imgs/gyn_sam_130321_4WSKJOEtjl.png" alt="4WSKJOEtjl" style="zoom:50%;" />
+
+
+
+<img src="./imgs/gyn_sam_130321_MkYvuRD2Nt.png" alt="MkYvuRD2Nt" style="zoom: 80%;" />
+
+
+
+<img src="./imgs/gyn_sam_130321_my61Hz8B6T.png" alt="my61Hz8B6T" style="zoom:50%;" />
+
+
+
+### Livmodern uterus
+
+***Uppdelningar***
+
+* **cervix uteri:** detta är den distala delen av uterus
+* **corpus uteri:** huvuddelen av uterus, kroppen på uterus
+* **isthmus uteri:** del som separar corpus uteri fr cervix uteri
+
+
+
+#### Corpus uteri
+
+***Histologi***
+
+* **glatt muskulatur, myometrium:** huvudsakligen glatt muskulatur i corpus uteri. 
+* **ECM**: 40-50%
+
+
+
+***Histologiska delar***
+
+* **Endometrium**
+* **Myometrium** 
+* **Perimetrium**
+
+
+
+#### Cervix uteri
+
+***Histologi***
+
+* **glatt muskulatur:** 4-10% 
+* **ECM**: högt bindvävsinnehåll,
+
+
+
+***Förlopp***
+
+* **Första delen av graviditet**: fast + sluten; hålla foster, hinnsäck med fostervatten + placenta på plats
+* **Senare del graviditet**: tilltagande uppmjukning av av cervix och när flossningen startat  -> vidgas o i slutet av förlossning kmr vagina cervix nedre uterinsegment o corpus bilda en gemensam förlossningskanal, som fostret passerar
+
+
+
+#### Isthmus
+
+***Histologi***
+
+* **består ffa av ECM**
+* **glatt musk**: sparsamt
+* **ökar i längd** fr 0.5-10cm
+* **passivt segment** mellan cervix och corpus uteri
+
+
+
+
+
 ## Cancer
 
 ### Cervixcancer
@@ -460,7 +538,7 @@ cerivicit
 
 * In Swedish population:
   * 13 % women with EC had at least one relative with the same disease. 
-  * Relative proportion of endometrial  cancer in families from patients with EC was increased compared to general cancer population: 5.5% vs3.05 %
+  * Relative proportion of endometrial  cancer in famutatiiioner milies from patients with EC was increased compared to general cancer population: 5.5% vs3.05 %
   * 47% of  patients had relatives who were diagnosed with EC cancer before the age of 50 years
 * A history of colorectal or ovarian cancer in first-degree relatives has also been associated with an increased risk of endometrial cancer
 
@@ -1411,11 +1489,11 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Riskfaktorer***
 
-* Riskfaktorer för VTE
-* Age >35 
-* Obesity-discuss weight in absolute numbers-BMI
-* smoking
-* Previous VTE
+* **Riskfaktorer för VTE**
+* **Age >35** 
+* **Obesity-discuss weight in absolute numbers-BMI**
+* **smoking**
+* **Previous VTE**
 * **Absolut kontraindikation**
     * **VTE in parents, siblings**
     * **Coagulation disorder:**
@@ -1441,3 +1519,183 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **Trombosprofylax bör ges om kvinnan har komb metod**.
     * **Surgery**- consider LMWH
     * **Immobilisation**- consider LMWH
+
+
+
+
+
+## Obstetrik
+
+### CTG
+
+#### Sovande barn
+
+***Presentation***
+
+* Samira 27
+  * väntar sitt första barn och har kommit till vecka 37+0. Graviditeten har varit normal. Hon är orolig för förlossningen och undrar om den satt igång. Hon har haft tre sammandragningar under förmiddagen som gjort ont. Hon inkommer till förlossningen. kl13. BT 110/70. Urin neg för glukos och protein. Cevix är bibehållen, sacral sluten och fast. Ingen vattenavgång. CTG ser ut så här
+
+<img src="./imgs/gyn_sam_130321_9nTU4WNQaR.png" alt="9nTU4WNQaR" style="zoom:50%;" />
+
+
+
+### Missfall
+
+***Etiologi och patofysiologi***
+
+* **POCs**: products of conception; detta är de komponenter associerade med en graviditet, där vi har säcken, placenta, fostret etc
+* **POCs och missfall**: tittar man därför på ett missfall, kan typen av missfall baseras på hur mkt av POCs har eliminerats, med komplett vs inkomplett missfall exempelvis. 
+
+
+
+### Normal förlossning process
+
+***Etiologi och patofysiologi***
+
+*  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
+* **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
+* ***Fysiologisk inflammatorisk process***: uppmjukning cervix, tilltagande kontraktilitet i myometriet
+
+
+
+***Anatomiska förändringar***
+
+* **Cervix:** fr kontraherad och hård till avslappnad
+* **Uterus:** fr relaxerad till värkar med rytmiska kontraktioner
+  * **Braxton-hicks kontraktioner**: okoordinerade kontraktioner under grav som först vid förlossning *ska* bli rytmiska o tillta i kraft
+* **isthmus:** 
+
+
+
+### Postpartumblödning
+
+***Allmänt***
+
+* **PPH**: postpartum hemorrhage
+
+
+
+***Etiologi och patofysiologi***
+
+* **TTTT**
+  * **Tonus**: Atoni
+  * **Trauma**: uterusrupturer, laceration [vagina, isthmus, cervix], hematom
+  * **Tissue**: placenta praevia
+  * **Trombin**: koagulationsrubbningar
+* **Vanliga orsaker**: 
+  * **uterisatoni**, 
+  * **retenerad POCs** (products of conception)
+  * **placenta accreta:** 
+  * **cervikal laceration**
+  * **aginal laceration**
+* **vaginal förlossning**
+  * **vaginal laceration**
+  * **cervikal laceration**
+  * **uterin atoni**
+  * **placenta accreta**
+  * **vaginal hematom**
+  * **retenerad POCs**: 
+  * **uterin inversion**: 
+  * **uterin ruptur**
+  * // koagulationsrubbning?
+* **Kejsarsnitt**
+  * **Atonisk uteri**
+  * **Kirurgisk blodförlust**
+  * **placenta accreta**
+  * **uterin ruptur**
+
+
+
+***Riskfaktor***
+
+* **Prior postpartum hemorrhage**
+* **Abnormal placentation**
+  * placenta previa
+  * placenta accreta
+  * hydratiform mole
+* **Trauma under värkarbete och förlossning**
+  * episiotomi
+  * komplicerad vaginal förlossning
+  * low- or midforceps förlossning
+  * sulcal eller sidoväggs laceration
+  * uterin ruptur
+  * kejsarsnitt eller hysterektomi
+  * cervikal laceration
+* **Uterin atoni**
+  * uterin inversion
+  * overdistended uterus
+  * makrosom foster
+  * multiple gestation
+  * polyhydramnios
+* **Utröttade myometrium**
+  * snabb förlossning
+  * prolongerad förlossningsarbete
+  * oxytocin eller prostaglandin stimulering
+  * korioamnionit
+* **Koagulation defekt - intensifierade andra orsaker**
+  * placental abruption
+  * prolongerad retention of demised foster
+  * amniot vätske embolism
+  * svår intravaskulär hemolys
+  * svår preeklampsi eller eklampsi
+  * kongenital koagulopati
+  * antikoaguilant behandling
+
+
+
+#### Hematom
+
+***Etiologi och patofysiologi***
+
+* ***Vaginalt***
+  * **förlossningstrauma och mukosa**: förlossning kan leda t trauma skada blodkärl utan att disrupt epitel ovanpå den (alltså att ovanliggande epitel inte skadas men underliggande blodkärl skadas). 
+  * **Utveckling av hematom**: skadan på kärlet leder t utv av hematom vaginalt
+
+
+
+***Utredning och handläggning***
+
+* **Gynekologisk undersökning**
+* **Tömning av hematom:** utefter storlek
+
+### Preeklampsi
+
+
+
+***Presentation***
+
+* **Jie kommer på efterkontroll.** 
+  * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
+  * Fyra möjliga orsaker till den stora blödningen
+    * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

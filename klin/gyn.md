@@ -1535,48 +1535,46 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ## Obstetrik
 
-### CTG
 
-#### Sovande barn
+
+
+
+### Blödning - antepartum
 
 ***Presentation***
 
-* Samira 27
-  * väntar sitt första barn och har kommit till vecka 37+0. Graviditeten har varit normal. Hon är orolig för förlossningen och undrar om den satt igång. Hon har haft tre sammandragningar under förmiddagen som gjort ont. Hon inkommer till förlossningen. kl13. BT 110/70. Urin neg för glukos och protein. Cevix är bibehållen, sacral sluten och fast. Ingen vattenavgång. CTG ser ut så här
-
-<img src="./imgs/gyn_sam_130321_9nTU4WNQaR.png" alt="9nTU4WNQaR" style="zoom:50%;" />
-
+* **Sara söker vårdcentralen** 
+  * I Norrtälje för en liten blödning efter samlag. Den har varit brun och mindre än en mens. Hon väntar sitt första barn och har kommit till vecka 31. Graviditeten har varit normal. BT 110/70. Inga buksmärtor. Barnet sparkar bra.
+  * **Differentialdiagnoser**: placenta ablatio och placenta previa
 
 
-### Missfall
 
 ***Etiologi och patofysiologi***
 
-* **POCs**: products of conception; detta är de komponenter associerade med en graviditet, där vi har säcken, placenta, fostret etc
-* **POCs och missfall**: tittar man därför på ett missfall, kan typen av missfall baseras på hur mkt av POCs har eliminerats, med komplett vs inkomplett missfall exempelvis. 
+* **Första trimester blödningar, assoc**
+  * spontan abort
+  * ektopisk graviditete
+  * t.o.m. normal graviditet
+* **tredje trimester blödningar**
+* **Obstetriska orsaker**
+  * **Placental**: placenta previa, placenta ablation, vasa previa
+  * **maternell**: uterin ruptur
+  * **fetal**: fetal kärl ruptur
+* **Icke-obstetriska orsaker**
+  * **cervikal**: svår cervicit, polyp, cervikal dysplasi, cervikal cancer
+  * **vaginal, vulvär**: laceration, varicer, cancer
+  * **andra**: hemorrojer, kongenital blödningsrubbning (congenital bleeding disorder), abdominal eller pelvis trauma, hematuri
 
 
 
-### Normal förlossning process
+***Epidemiologi***
 
-***Etiologi och patofysiologi***
-
-*  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
-* **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
-* ***Fysiologisk inflammatorisk process***: uppmjukning cervix, tilltagande kontraktilitet i myometriet
+* **Tredje trimester blödningar:** 4-5% av gravditter
+  * kan vara obstetriska eller icke obstetriska
 
 
 
-***Anatomiska förändringar***
-
-* **Cervix:** fr kontraherad och hård till avslappnad
-* **Uterus:** fr relaxerad till värkar med rytmiska kontraktioner
-  * **Braxton-hicks kontraktioner**: okoordinerade kontraktioner under grav som först vid förlossning *ska* bli rytmiska o tillta i kraft
-* **isthmus:** 
-
-
-
-### Postpartumblödning
+### Blödning - Postpartum
 
 ***Allmänt***
 
@@ -1648,7 +1646,86 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   * svår intravaskulär hemolys
   * svår preeklampsi eller eklampsi
   * kongenital koagulopati
-  * antikoaguilant behandling
+  * antikoagulant behandling
+
+
+
+***Behandling***
+
+* **ÖVERVÄG ALLTID AORTAKOMPRESSION**
+* **Handläggningsmässigt**
+  * **Steg 1: blödning över 500mL**	
+    * **Tillkalla extra BM + USK samt läkare**
+    * **blödningsvagn + protokoll**
+    * **PVK + BASTEST**
+    * **Oxytocin totalt 16.6mikrogram im/iv** (max 16.6 mikrogram)
+    * **Tappa urinblåsan**
+    * **Identifiera orsak och påbörja åtgärder**
+      * atoni 
+      * placenta
+      * bristning
+      * koagulation
+  * **Steg 2: fortsatt blödning**
+    * Säkerställ steg 1
+    * Lös placenta
+    * metylergometrin 0.2mg iv/im
+    * tranexamsyra 1g iv
+    * uteruskompression
+    * förstärkt oxytocindropp
+    * misoprostol 200mikrogram, 3 tabl subl
+    * prostifenem 0.25mg im
+  * **Steg 3: blödning >1000mL**
+    * Säkerställ steg 2
+    * kontroller enl ONEWS2
+    * syrgas 10L
+    * planläga, höjda ben
+    * kroppsvarm Ringer 1L
+    * tranexamsrya 1giv
+    * KAD
+  * **Steg 4: BLödning >1500mL**
+    * **time out, utvärdera orsak åtgärd**
+    * **överväg**
+      * resursförstärk e.g. anestesiolog, bakjour
+      * skicka t operation
+      * transfusion
+      * fibrinogen 2-4g iv
+      * följ blodprover: Hb, TPK, PK, APTT, S-CA, fibrinogen
+* **Läkemedel**
+  * **Antitonilkm**
+    * oxytocin
+    * förstärkt oxytocindropp
+    * metylergometrin
+    * prostinfenem
+    * misoprostol
+  * **hemostasläkemedel**
+    * Tranexamsyra
+    * kalciumglukonat
+    * fibrinogen
+    * antitrombin
+    * desmopressin
+    * haemate
+  * **transfusion av vätska**
+    * ringer-acetat
+  * **transfusion av blodprodukter**
+    * blodförlust < halv blodvolym ersätts i 1a hand erytrocytkoncentrat
+    * blodförlust > halv blodvolym ersätts med balanserade blodprodukter i förhånnade enl nedan
+      * erykoncentrat 4-8E
+      * färskfrusen plasma 4E
+      * trombocytkoncentrat 1E
+
+
+
+<img src="./imgs/gyn_sam_130321_k4qNIUdZbj.png" alt="k4qNIUdZbj" style="zoom: 67%;" />
+
+
+
+#### Cervikal laceration
+
+***Etiologi och patofysiologi***
+
+* Förlossningsskada
+* Snabb dilatation av cervix udner stadie1 av värkarbete 
+* eller maternell expulsiva efforts innan komplett dilatation av cervix.
 
 
 
@@ -1659,6 +1736,8 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * ***Vaginalt***
   * **förlossningstrauma och mukosa**: förlossning kan leda t trauma skada blodkärl utan att disrupt epitel ovanpå den (alltså att ovanliggande epitel inte skadas men underliggande blodkärl skadas). 
   * **Utveckling av hematom**: skadan på kärlet leder t utv av hematom vaginalt
+* ***Retro-peritonealt***
+  * kan leda till stor blodförlust
 
 
 
@@ -1666,6 +1745,92 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 * **Gynekologisk undersökning**
 * **Tömning av hematom:** utefter storlek
+
+
+
+***Behandling***
+
+* **Kirurgi**
+  * öppning
+  * kärligering
+
+
+
+
+
+#### Uterus atoni
+
+***Etiologi och patofysiologi***
+
+
+
+***Epidemiologi***
+
+* Största PPH
+
+
+
+***Riskfaktor***
+
+* korionamnionit
+* exponering till magnesiumsulfat
+* multiple gestation
+* makrosomisk foster
+* polyhydramnios
+* förlängd värkarbete 
+* tidigare atoni hos tidigare para
+* grand multipara
+
+
+
+***Behandling***
+
+* 
+
+
+
+### CTG
+
+#### Sovande barn
+
+***Presentation***
+
+* Samira 27
+  * väntar sitt första barn och har kommit till vecka 37+0. Graviditeten har varit normal. Hon är orolig för förlossningen och undrar om den satt igång. Hon har haft tre sammandragningar under förmiddagen som gjort ont. Hon inkommer till förlossningen. kl13. BT 110/70. Urin neg för glukos och protein. Cevix är bibehållen, sacral sluten och fast. Ingen vattenavgång. CTG ser ut så här
+
+<img src="./imgs/gyn_sam_130321_9nTU4WNQaR.png" alt="9nTU4WNQaR" style="zoom:50%;" />
+
+
+
+### Missfall
+
+***Etiologi och patofysiologi***
+
+* **POCs**: products of conception; detta är de komponenter associerade med en graviditet, där vi har säcken, placenta, fostret etc
+* **POCs och missfall**: tittar man därför på ett missfall, kan typen av missfall baseras på hur mkt av POCs har eliminerats, med komplett vs inkomplett missfall exempelvis. 
+
+
+
+### Normal förlossning process
+
+***Etiologi och patofysiologi***
+
+*  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
+* **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
+* ***Fysiologisk inflammatorisk process***: uppmjukning cervix, tilltagande kontraktilitet i myometriet
+
+
+
+***Anatomiska förändringar***
+
+* **Cervix:** fr kontraherad och hård till avslappnad
+* **Uterus:** fr relaxerad till värkar med rytmiska kontraktioner
+  * **Braxton-hicks kontraktioner**: okoordinerade kontraktioner under grav som först vid förlossning *ska* bli rytmiska o tillta i kraft
+* **isthmus:** 
+
+
+
+
 
 ### Preeklampsi
 
@@ -1676,13 +1841,28 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **Jie kommer på efterkontroll.** 
   * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
   * Fyra möjliga orsaker till den stora blödningen
-    * 
+  * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
 
 
 
+***Etiologi och patofysiologi***
+
+* 
 
 
 
+***Behandling***
+
+* Riskfaktor reduktion
+  * ASA
+  * Folsyra
+  * viktkontroll, minska BMI
+  * kontroller i ny grav: UL, BT
+  * screening: finns ingen bra metod, osäekert man gör med infon
+  * Sluta röka
+  * hålla normal vikt
+  * motionera
+  * kontrollera blodtryck i framtiden
 
 
 

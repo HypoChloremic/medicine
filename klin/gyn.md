@@ -199,6 +199,14 @@ cerivicit
 
 ### Cervixcancer
 
+
+
+***Etiologi och patofysiologi***
+
+* Orsak till död hos endstage: njursvikt (nefrostomi tuber minskar risken)
+
+
+
 ***Epidemiologi***
 
 * Sjunker över år 
@@ -244,10 +252,10 @@ cerivicit
 
 ***Behandling***
 
+* **mikroinvasiva tumörer: dvs ej synlig PAD (stadie 1a1?)**
+  * mindre kirurgi: konisering eller enkel hysterektomi
 * **Alla stadier över 1b1 = tumör större än 4 cm**
   * strålning + kemoterapi (cytostatika)
-* **mikroinvasiva tumörer: dvs ej synlig PAD**
-  * mindre kirurgi: konisering eller enkel hysterektomi
 * **synliga tumörer samt stora mikroinvasiva**
   * inegen skillnad överlevnad mellan strplning och kirurgi
   * men skillnad morbiditet
@@ -328,7 +336,7 @@ cerivicit
 
 ***Etiologi och patofysiologi***
 
-* **Endometriet**: del av uteris (tänk ej ovarierna)
+* **Endometriet**: del av uterus (tänk ej ovarierna)
 * **Östradiol** (estradiol; E2): predominanta **intracellulära** östrogenet i endometriet
   * ***Stimulerar mitos endometriala celler***
 * **Progetiner reducerar mitos**:
@@ -406,7 +414,8 @@ cerivicit
 * **pap smear**
   * cytologisk abnormalitet av cervix, vagina
   * occasional information av upper tract disease
-* **endometriell biopsi**: endometriell lining
+* **endometriell biopsi**: endometriell lining; behov för diagnos. 
+* (enl USMLE) D&C: dilatation o skrapning
 * **hysteroskopi**: endometriell lining
 * **Diagnostiska tester**
   * **transvaginal ultraljud**: endometriell stripe, uterusstorlek, adnexstorlek, förekomst cystor, massa
@@ -561,6 +570,31 @@ cerivicit
 
 
 
+
+
+### Koriokarcinom
+
+***Etiologi och patofysiologi***
+
+* Elakartad tumör
+* trofoblastisk epitek
+* utsöndring koriongonadotropin (hCG?): mängder utsöndras
+* fr befruktningsframkallande fosterhinneprodukter
+  * hydatidmola blåsa
+  * normal grav
+  * efter abort
+  * trestikelteratom
+  * mediastinum
+  * tallkottkörtel
+
+
+
+***Behandling***
+
+* Methotrexate + actinomycin D (cytostatika?) + etopside
+
+
+
 ### Leiomyosarkom - EC
 
 
@@ -674,9 +708,68 @@ cerivicit
 
 
 
+## Cystor
+
+### PCOS
+
+***Allmänt***
+
+* polycystisk ovarial syndrom (PCOS)
 
 
 
+***Kliniska kännetecken***
+
+* **"String of pearls":** pga multipla folliklar som blir cystiska
+
+
+
+<img src="./imgs/gyn_sam_140321_w5xaC0D2zy.png" alt="w5xaC0D2zy" style="zoom:50%;" />
+
+
+
+
+
+## Infektion
+
+### Bakteriell vaginos
+
+***Kliniska kännetecken***
+
+* Grå-vit vattning discharge
+
+
+
+### Candidal vaginit
+
+***Behandling***
+
+* Gravid: nystatin vaginal tabletter
+
+
+
+## Hud
+
+### Cholasma
+
+* Pigmentförändringar under graviditet
+* blotchy pignemtering över näsa o ansikte under grav
+
+
+
+
+
+### Vulvär eksem
+
+***Behandling***
+
+* Betametason
+
+### Vulvär psoriasis
+
+***Behandling***
+
+* Högdos kort period kortikosteroider
 
 
 
@@ -1650,6 +1743,13 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+***Diagnos***
+
+* Sverige: över 1000mL
+* Utanför Sverige: över 500mL
+
+
+
 ***Behandling***
 
 * **ÖVERVÄG ALLTID AORTAKOMPRESSION**
@@ -1756,8 +1856,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-
-
 #### Uterus atoni
 
 ***Etiologi och patofysiologi***
@@ -1796,9 +1894,83 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Presentation***
 
 * Samira 27
-  * väntar sitt första barn och har kommit till vecka 37+0. Graviditeten har varit normal. Hon är orolig för förlossningen och undrar om den satt igång. Hon har haft tre sammandragningar under förmiddagen som gjort ont. Hon inkommer till förlossningen. kl13. BT 110/70. Urin neg för glukos och protein. Cevix är bibehållen, sacral sluten och fast. Ingen vattenavgång. CTG ser ut så här
+  * väntar sitt första barn och har kommit till vecka 37+0. Graviditeten har varit normal. Hon är orolig för förlossningen och undrar om den satt igång. Hon har haft tre sammandragningar under förmiddagen som gjort ont. Hon inkommer till förlossningen. kl13. BT 110/70. Urin neg för glukos och protein. Cevix är bibehållen, sacral sluten och fast. Ingen vattenavgåstora-tox: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, ng. CTG ser ut så här
 
 <img src="./imgs/gyn_sam_130321_9nTU4WNQaR.png" alt="9nTU4WNQaR" style="zoom:50%;" />
+
+
+
+### Eklampsi
+
+***Etiologi patofysiologi***
+
+* pat som har preeklampsi som utvecklar ***kramper***
+* kan vara tt man får kramper, men vet ej att pat har preeklampsi: senare upptcäks i grav eller i samband med kramperna
+
+
+
+### HELLP
+
+***Allmänt***
+
+* ***HELLP*** - Hemolysis-elevated liver enzymes-low platelet count syndrome
+* preeklampsi-liknande tillstånd
+
+
+
+***Kliniska kännetecken***
+
+* 20% ingen tidigare hypertension
+* tredje trimestern...
+* RUQ smärta
+* illamående
+* huvudvärk
+* epigastrisk smärta
+
+
+
+***Utredning och handläggning***
+
+* **grav presenterar tredje trimester med ovan symptom:** 
+  * **SKA uteluta HELLP**
+  * **Ej påverkad**: U-sticka + lilla tox ()
+  * **Påverkad**: U-sticka + stora-tox
+
+
+
+
+
+***Komplikationer***
+
+* DIC
+* Moderdöd
+* leverruptur
+
+
+
+
+
+### Hypertensiva tillstånd graviditet
+
+***Etiologi och patofysiologi***
+
+* **GH, eller graviditetsorsakad hypertension**
+* **preeklampsi utan svåra karakteristika**
+* **preeklampsi med svåra karakteristika**
+* **kronisk hypertension**
+* **kronisk hypertension med superimposed preeklampsi**: med eller utan svåra karakteristika
+* **HELLP syndrom**
+* **AFLP**
+* **AFLP:** akut fatty liver of pregnancy: GH, gestational hypertension; HELLP - hemolys av 
+
+
+
+***TIdsindelning***
+
+* **v14-v20 (andra trimester)** 
+  * **Hydratiform mole**: tillväxt abnormal fertiliserat ägg eller övertillväxt vävnad fr placenta. 
+  * **tidigare ej diagnosticerad kronisk hypertension** 
+  * **gestationell hypertoni**: antagligen graviditetsrelaterad enl abe. 
 
 
 
@@ -1811,7 +1983,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-### Normal förlossning process
+### Förlossning process - normal
 
 ***Etiologi och patofysiologi***
 
@@ -1830,7 +2002,23 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+***Faserna***
 
+* Förlängd latensfas: det är B grafen på bilden nedan. 
+
+<img src="./imgs/gyn_sam_140321_Ypkkcc4NQ4.png" alt="Ypkkcc4NQ4" style="zoom: 67%;" />
+
+
+
+
+
+### Förlossning process - onormal
+
+
+
+***Dilatationsarrest***
+
+* under aktiv fas, Definieras som över 2 timmar 
 
 ### Preeklampsi
 
@@ -1845,24 +2033,144 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+***Allmänt***
+
+* aka havandeskapsförgiftning
+
+
+
+***Diagnos***
+
+* **Hypertoni** efter v20 + [proteinuri eller andra former av organskada]
+* **Blodtrycket**: över 140, två mätningar 4-6 timmars mellanrum
+  * förutsatt att mamman inte haft hypertoni innan graviditet
+
+
+
 ***Etiologi och patofysiologi***
 
-* 
+* **trofoblaster, decidua, spiralartärer:** Trofoblasterna, när invadera decidua går gm myometriet och infiltrerar spiralartärerna som försörjer uterus
+* **spiralartärer abnormala**: Abnormal utveckling v blodkärlen i placenta
+* **placenta underperfusion**: om dålig access till spiralartärerna kommer den försörjas dåligt
+  * Senare i graviditet ökar syreförsörjning till placentan fysiologiskt
+  * placentan har ett större syrgasbehov
+  * men pga defekten i blodförsörjningen kommer man att märka av defekten nu
+* **placenta inflammatoriska mediatorer**: börjar frisätta inflam mediatorer, som
+* **endotel dysfunktion, hypertoni**: pga inflam mediatorer (antiangiogena faktorer) fr placenta
+  * tonus i blodkärlen påverkas
+  * producerar **hypertoni**
+  * kärlen blir mer genomsläppliga -> proteinuri, ödem, ökad leverenzymer pga dysfunktionen, tillväxthämning foster
+  * mikroangiopatisk hemolys
+  * vasokonstriktion, manifesteras kliniskt som hypertoni
+* **endotel skada**, trombos: frisätter sina faktorer och ökar risken för trombos
+* **sjunkande blodflöde till placenta:** pga systemisk vasokonstriktion inklusive till placenta, 
+  * akut uteroplacental insufficiens
+  * resulterar i placentar ablatio eller fetal hypoxi
+* ***Systemisk vasokonstriktion, maternellt***: generealiserade arteriolär vasokonstriktion
+  * **kramper**
+  * **stroke**
+  * **njurar**: oliguri, njursvikt
+  * **lungor**: lungödem
+  * **lever**: ödem, subkapsulär hematom
+  * **små blodkärl:** trombocytopeni, DIC
+* ***Tidmässigt***: definieras som efter v20, men sker 5%-6% av alla live births. 
+  * vanligast efter tredje trimestern,. near term
+  * 
+
+
+
+***Komplikationer till preeklampsi***
+
+* **fetala**
+  * **Relaterat t prematuritet**
+    * Akut uteroplacental insufficiens
+    * placental infarkt och eller ablatio
+    * intrapartum fetal distress
+    * stillbirth - i svåra fall
+  * **Kronisk uteroplacental insufficiens**
+    * asymmetrisk and symmetrisk SGA fetuses
+    * IGUR
+  * **Oligohydramnios**
+  * **IUGR**: intrauterine-growth restriction
+  * **placentär ablatio**
+  * **fetal hypoxi**
+* **maternella**
+  * **medicinska manifestationer**
+    * **kramper**
+    * **cerebral blödning**
+    * **njurar**: oliguri, njursvikt
+    * **lungor**: lungödem
+    * **lever**: leverruptur, ödem, subkapsulär hematom
+  * **obstetriska komplikationer**
+    * uteroplacental insufficiens
+    * placental ablatio
+    * ökad prematur förlossning
+    * ökad kejsarsnitt förlossning
+  * **små blodkärl:** trmobcytopeni, DIC
+* **! long-term komplikationer**
+  * **! ökad risk för kardiovaskulär sjukdom senare i livet**
+
+
+
+***Riskfaktorer***
+
+* **Primär sjd relaterat**
+  * **kronisk hypertensuion**
+  * **kronisk njursjd**
+  * **DM2**
+  * **antifosfolipid syndrom APLS**
+  * **kollagen vaskulär sjd:** SLE
+  * **pregestationell diabetes**
+  * **african-ameria**
+  * **maternell ålder:** under 20åå, över 35
+* **Primör immunrelterat**
+  * nullipara
+  * tidigare preekmlampsi
+  * multiple gestation
+* **immunoegena**
+  * **multipara men ny man**: samma risk som nullipara.
+  * **multipel gestation**: i.e. tvillingar o grejor, att fler foster implanterade
+  * **abnormal placentation**: 
+  * **ny paternitet:** att det är en ny pappa
+* **Familjehistorik**
+  * female relatives of parturient
+  * mother-in-law
+  * cohabitation under 1år
+
+
+
+***Skyddande faktor (minskad relativ risk)***
+
+* Multipara utan tidigare preeklampsi
+* Ett barn, inte tvillingar etc
+* Rökning: verkar sänka risken...
+
+
+
+***Utredning och handläggning***
+
+* **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
+* **Om mamma inte jättesjuk o diffar preeklampsi**
+  * **U-sticka**
+  * **lilla-tox**: Hb, TPK, ALAT, Krea, urat
+* **svårt sjuk o diffar preeklampsi**
+  * **stora-tox**: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, 
+    * diffa preeklampsi mot HELLP (hemolysis-elevated liver enzymes-low platelet count syndrome)
 
 
 
 ***Behandling***
 
-* Riskfaktor reduktion
-  * ASA
-  * Folsyra
-  * viktkontroll, minska BMI
-  * kontroller i ny grav: UL, BT
-  * screening: finns ingen bra metod, osäekert man gör med infon
-  * Sluta röka
-  * hålla normal vikt
-  * motionera
-  * kontrollera blodtryck i framtiden
+* **Riskfaktor reduktion**
+  * **ASA**
+  * **Folsyra**
+  * **viktkontroll, minska BMI**
+  * **kontroller i ny grav:** UL, BT
+  * **screening**: finns ingen bra metod, osäekert man gör med infon
+  * **Sluta röka**
+  * **hålla normal vikt**
+  * **motionera**
+  * **kontrollera blodtryck i framtiden**
 
 
 
@@ -1870,6 +2178,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+### Termer och definitioner
 
 
 
@@ -1877,14 +2186,47 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+#### Fullgången
+
+* Förlossning efter v37
+
+#### Prematur
+
+* Förlossning mellan v24-v37
+
+#### Previabel
+
+* Förlossning innan v23-24
+
+#### Överburen
+
+* Förlossning efter v42
+
+#### Trimester
+
+* Första trimester: fram till v12-14
+* andra trimester: fr v12-12 t v24-28
+* tredje trimeter: fr v24-28 t förlossning
 
 
 
+## Tester
+
+### NST
+
+* Non-stress test
+* att man stressar fostret med CTG övervak
 
 
 
+***Utredning och handläggning***
 
+* NST stressar fostret: 
+* konstitution: 2 FHR (fetal heart rate?) accelerationer under 20 minuter
+* NST mäts över 40 minuter max,
 
+### Pap-smear
 
+***Utredning och handläggning***
 
-
+* Inkomplett papsmear: ta om den...

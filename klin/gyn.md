@@ -334,6 +334,19 @@ cerivicit
 
 ### Endometriecancer
 
+***Presentation***
+
+* En 55-årig kvinna, tenta viktig
+  * 0-gravida söker dig på grund av vaginal blödning. Hon har tidigare i livet varit frisk frånsett övervikt (mellan 85 och 90 kg, hon är 165 cm lång). Patientens föräldrar är döda: pappa i hjärtinfarkt, mamma i bröstcancer. Patienten berättar för dig att när hon var tonåring hade hon också oregelbundna blödningar. Dessa normaliserades dock under de 8 år som hon tog kombinerade p-piller. Hon slutade med dessa då hon var 27 år då hon önskade bli gravid. När detta inte lyckades sökte hon läkare, men utredningen fullföljdes aldrig på grund av skilsmässa. Det visade sig dock att maken hade ett normalt spermiogram. Efter att hon slutade med p-piller var blödningarna alltid oregelbundna, kom sällan och var ganska små. Vid 45 års ålder fick hon dock en tre veckor lång blödning och behövde skrapas på grund av detta. I journalen ser du att PAD på skrapningen visar en enkelt hyperplasi (metropathia haemorrhagica cystica MHC). Med hjälp av vaginalt ultraljud konstaterades då också ett myom i fundus. Menopausen inträffade vid 50 års ålder och patienten har inte blött förrän nu. Du ordnar med en ny skrapning på denna patient och diagnosen blir högt differentierat endometriecarcinom.
+  * tre faktorer för EC: 
+    * 0-para
+    * obestias
+    * PCOs enl anamnes... TODO
+
+
+
+
+
 ***Etiologi och patofysiologi***
 
 * **Endometriet**: del av uterus (tänk ej ovarierna)
@@ -491,12 +504,12 @@ cerivicit
 
 ***RIskgrupper***
 
-* Högriskgrupp
+* **Högriskgrupp**
   * icke-endometroid typ
   * figo-grad3
   * djup myometrieinvasion/cervikal stroaminvasion enl USG eller MR
   * klinisk misstanke om cervikal stromainvasion
-* lågrisk
+* **lågrisk**
   * ingen ovanstående prognostisk faktor föreligger
 
 
@@ -527,15 +540,15 @@ cerivicit
 
 **Riskreducerande operation**
 
-* Hysterektomi och SOE
-* Risken för cancer minskar: liten kvarstående risk att utveckla peritoneal carcinos
+* **Hysterektomi och SOE**
+* **Risken för cancer minskar**: liten kvarstående risk att utveckla peritoneal carcinos
 
-* SOE leder t besvärliga biverkningar
+* **SOE leder t besvärliga biverkningar**
   * klimakteriebesvär
   * slemhinnetorrhet
-  * dyspareuni
+  * dyspareuniRT
   * osteoporos
-* HRT
+* **HRT**
 
 
 
@@ -640,7 +653,7 @@ cerivicit
 
 ***Epidemiologi***
 
-* Endometriecancer
+* **Endometriecancer**
   * Prevalens Lynch syndrom: beräknas 1:440
   * 13 nya diagnositeras årligen LS i Stockholm
   * prognos kvinnor med livmodercancer: över 80% överlevnad efter 10år, 20% dör fr sin EC
@@ -651,7 +664,7 @@ cerivicit
     * MLH1/MSH2 = 50år
     * MSH6 = 60år
   * 50% av EC diagnos före 50åå
-* Ovarial cancer
+* **Ovarial cancer**
   * livstidrisk för OC: 10%, normal p:1.4%
   * 2-4% av alla OCs tillhör LS
   * ofta symptomatisk
@@ -672,10 +685,6 @@ cerivicit
   * **screening börjar mellan 30-35åå**; för att tidigaste cancrar hittas då
   * kontroller inkludera endometriell biopsi för EC screening, specillt i premenopausal patients
   * for OC screening: ultraljud + CA-125 kombinerad med patientinformation
-
-
-
-
 
 
 
@@ -886,7 +895,11 @@ cerivicit
 
 
 
+***Utredning och handläggning***
 
+* Abort med dilaterad OS (portio öppning?)	
+  * "inevitable"
+  * inkomplett
 
 
 
@@ -1639,15 +1652,17 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **Sara söker vårdcentralen** 
   * I Norrtälje för en liten blödning efter samlag. Den har varit brun och mindre än en mens. Hon väntar sitt första barn och har kommit till vecka 31. Graviditeten har varit normal. BT 110/70. Inga buksmärtor. Barnet sparkar bra.
   * **Differentialdiagnoser**: placenta ablatio och placenta previa
+  * Viktiga diagnoser utesluta: placenta previa, placenta ablatio,
+  * undersökningar kvinnor + blöd sen grav: UL + vaginal undersökning
 
 
 
 ***Etiologi och patofysiologi***
 
 * **Första trimester blödningar, assoc**
-  * spontan abort
-  * ektopisk graviditete
-  * t.o.m. normal graviditet
+  * **spontan abort**
+  * **ektopisk graviditete**
+  * **t.o.m. normal graviditet**
 * **tredje trimester blödningar**
 * **Obstetriska orsaker**
   * **Placental**: placenta previa, placenta ablation, vasa previa
@@ -1664,6 +1679,17 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 * **Tredje trimester blödningar:** 4-5% av gravditter
   * kan vara obstetriska eller icke obstetriska
+
+
+
+
+
+***Utredning och handläggning***
+
+* Blödnign sen graviditet
+  * UL
+  * vaginal undersökning
+  * // koagulationsprover enl Abbe
 
 
 

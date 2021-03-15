@@ -1097,7 +1097,7 @@ cerivicit
 * **lika säker som sterilisering!**
 * **högst andel nöjda användare av alla preventivmedel**
 * Bra för kvinnor med hög risk för grav
-* ÖKar INTE risk för ektopsik grav: av de som blir gravida är andelen ektopiska grav högre jmf med om inget preventivmedel
+* **ÖKar INTE risk för ektopsik grav**: av de som blir gravida är andelen ektopiska grav högre jmf med om inget preventivmedel
 * ***Infek vid spiral***: ovanligt, liten ökad risk upp t 3v efter insättning
   * tskf Davon shield fr 60-talet
 
@@ -1118,14 +1118,23 @@ cerivicit
 
 ### Hormoner
 
+#### Östrogen
+
+***Etiologi och patofysiologi***
+
+* östrogen är ett gruppnamn
+
 #### Östradiol
 
 ***Etiologi och patofysiologi***
 
+* Östradiol är det mest potenta östrogenet
 * **SHBG**: plasma E2 bundet med SHBG, 
 * **SHBG-bunden E2 ej biotillgänglig**
 * ! **Högre BMI -> mindre SHBG**
   * **E2 ökar biotillgänglighet med ökande BMI**
+
+
 
 
 
@@ -1449,9 +1458,99 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Fysiologiskt***
 
+* **Folliklarna**
+  * Består av äggcell oocyt med omgivande celler
+  * 5v germinalcell migration, gonader: könscellerna (germincalcellerna) fr gulesäckens vägg, 
+  * mitotisk delning: loppet följande veckor, oogonier. v20 innehåller ovariet 6-7M oogonier
+  * flesta försvinner apoptos
+  * vissa ombildas primära oocyuter
+  * ogmges enkelt lager epitel: = follikelceller
+  * primordialfollikel = oocyut + omgivande follikeceller
+  * denna tidpunkt, v20..? första meiotiska celldelnig, som stannar i sen profas
+  * återuptpas strax före ovulation: kan ligga i sen profas i 45-50 år vissa av oocyterna.
+  * födsel, kvarstår 1M oocyter
+  * **atresi, minskar antalet folliklar, när börjar växa tid utv stadium**
+  * **genetiskt styrd atresi hastighet:** Turners syndrom; ena X-kromosom saknas eller defekt, atresihastighet accelerad, fördröjd eller uteliven pubertet eller prematur ovrialsvikt
+  * pubertet inträffar, ca 400 000 kvar follikar
+  * avtar antal ålder, klin konsekvenser
+    * spontanaborter ökad
+    * aneuploidier ökt
+    * anovulatoriska blödningsstörningar
+    * minsknings follikelantl bedömas med UL: minskad ovarial volum, miskning antal antralfolliklar, 2-5mm
+* **Follikelutveckling**: 
+  * under den fertila perioden hos kvinnan, sker kontin tillväxt folliklar
+  * **3 månader primordialfollikel -> ovulation**
+  * **tillväxt follikel startar föregående menscyukel**: fr 0.15mm-> 1mm i D
+  * **follikel 5mm:** senare del lutealfas före aktuell menscykel, växer follikel t 5mm
+  * **tillväxt oberoende av hormonell miljö **
+  * **MEN, FSH krävs bilda antrum, annars  atresi**
+  * **sent lutealfas, FSH stiga, rekrytering 5mm** redan före menstruatio start o under cykelns första dagar, rekrytering folliklar diameter ca 5mm
+  * **blir känsliga FSH, granuloas prolif, blir primärfollikel**
+  * **FSH o LH stimmar granulosa ökar östradiolprod**: via androgenprekursorer, diffunderat via basalmembra fr teca-interna
+  * **östradiol ökar FSH receptorer granulosa**
+  * **zona pellucida runt oocyt bildas mukopolysackaridstruktur:**, åtskilder fr omgivande granulosaceller
+  * hålrum mellan granulosa o antrum som är fyllt follikelvätska
+  * **cumulus oophorus, oocyt i moln av granulosaceller**
+  * nu sekundär follikel
+  * **mellan 5e-7e dagen i cykel**, selekteras 1 follikel för bli dominant
+    * **mest känslig för FSH skaffar försprång**
+    * **bildar då högre östrogenmängder,** 
+    * **granulosa prolif**
+    * **o follikel antar östrogen miljö**
+    * **östrogenerna i follikeln inducerar ännu fler FSH rec**
+    * **östrogenbildning + evt stegring inhibin fr granulosaceller -> hämmar selktivt FSH**
+    * **dominant follikel överlever pga mga FSH receptorer**, men **resterande går i atresi.** 
+    * dominant follikel ledande, uppnår 15-20mm som utnyttjas monitorering fertilitetsbeh 
+  * 
 
 
-<img src="./lectures/gyn_lec/imgs/gyn_lec_gc5ycBIv9c.png" alt="gc5ycBIv9c" style="zoom: 80%;" />
+
+***Faserna***
+
+* **Två faser**
+
+  * **Follikulär och luteal fasen**: förändringar i ovarierna över längden på cykeln
+  * **proliferative och sekretoriska fasen:** underhåller endoemtrie slemhinnan inför förväntad fertiliserat ovum. Om ingen fertilisering, corpus luteum degenererar o progesteron faller. Utan progesteron endometrial lining = menstruation
+
+* **Follikulär fasen**: elimination av östrogen + progesteron fr tidigare luteal fas -> graduell ökning FSH
+
+  * **FSH stimmar tillväxt ovarial folliklar,** 5-15 st, startar follikel fasen igen. 
+  * **primordial folliklar**: en blir den dominanta follikeln, utvecklas o mognar till ovulation
+  * **dominant follikel, östrogen**: den dominanta follikeln producerar östrogen, ökar mognaden follikel, 
+  * **dominant follikel, FSH LH receptorer:** östrogenet leder till att man ökar FSH o LH receptorer autokrint
+  * ***<u>Östrogensyntesen</u>***: två-cells teorin (two-cell theory). postulerar rollen FSH o LH (gonadotropiner) på ovarial follikulär mognad
+    * **theca celler, granulosa celler**: de två olika cellerna
+    * **theca celler, androgenprod, LH:** LH stimmar androgenprod fr kolesterol + pregnenolon i theca cellerna
+    * **androgen transport in i granulosa cellerna**: 
+    * **granuloas, FSH stimmar konvesion androgen t östrogen** (östron; det svagaste östrogenet)
+  * **ökande östrogen, negativ feedback FSH**: dominant follikel är skuddat fr sjunaknde FSH gm ökade FSH receptorer
+
+* ***Ovulation***
+
+  * **Tidsmässigt:** 14d om mens cykel 28d
+  * **Slutet av follikelfasen, surge östrogen**
+  * **Trigger anterior hypofys, LH spike**
+  * **LH spike, progest, prostaglandin, follikel**: trigger resumed meios i oocyuter, inducerar prod progesteron + prostaglandin i follikeln
+  * ***Progesteron + prostaglandin -> ruptur follikelväggen -> släpper iväg oocyten***: 
+  * **Ovum passerar in i tuba**: swept in i uterus med cilier av tuba. Tar 3-4d
+
+* **Fertilisering**: måste ske inom 24h eller den degenererar
+
+* **Luteal fasen**: 
+
+  * **Corpus luteum, LH stim**: Granulosa + theca interna väggen
+
+  * **corpus luteum, östrogen + mkt progesteron**: corpus luteum producerar östrogen och signifikanta mängder progesteron. 
+
+  * **endometrie glandulärt, sekretorisk**: preppar inför implantation fertiliserat ovum
+
+  * **OM fertilisering, trofoblaster, hCG, LH**: trofoblasterna producerar hCG, glykoprotein likt LH
+
+    
+
+
+
+<img src="./imgs/gyn_sam_150321_vx5W65MOsQ.png" alt="vx5W65MOsQ" style="zoom: 80%;" />
 
 
 

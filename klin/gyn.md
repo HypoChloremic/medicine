@@ -1,5 +1,12 @@
 ## Akut buk
 
+### Ektopisk graviditet
+
+***Etiologi och patofysiologi***
+
+* observationer fr ektopiska grav, transmigration äggceller t *andra sidans tuba* kan ske
+  * möjligen pga peritonealvätska i fossa douglasi
+
 ### PID
 
 ***Etiologi och patofysiologi***
@@ -455,7 +462,7 @@ cerivicit
   * över en halva myometriell invasion
 * **stad2**: cervix involvering
   * endocervikala kärtlar
-  * strmal invasion
+  * stromal invasion
 * **stad3**. extrauterin extension men limited t riktig pelvis
   * serosal eller adnexala extension eller positiv peritoneal cytologi
   * vaginal metastas
@@ -554,6 +561,10 @@ cerivicit
 
 
 
+
+
+
+
 ### Endometriecancer och cancerhistorik
 
 ***Allmänt***
@@ -582,6 +593,33 @@ cerivicit
 * 45% av dessa patienter hade uterincancer och bröstcancer
 
 
+
+
+
+### HNPCC, LS
+
+***Allmänt***
+
+* hereditary non-polyposis colon cancer
+* Lynch syndrom
+
+
+
+***Etiologi och patofysiologi***
+
+* Autosomalt dominant
+* Gener: MLH1, MSH2, MSH6, PMS2
+
+
+
+***Epidemiologi***
+
+* 1-2% av lla kolonmcacer o EC fall i Sverige o för ca 9% av alla EC som yppkommer före 50åå
+* kvinnor med LS har 40-60% risk för EC, livstid
+* 50% EC före koloncancer
+* medianålder insjuk EC vid LS är 46-62åå
+* ökad risk för: ventrikel, ovarial, tunntarn, uretercancer
+* HögstariskenförovarialcancerharMLH1/MSH2-bärare 
 
 
 
@@ -688,30 +726,15 @@ cerivicit
 
 
 
-### HNPCC, LS
-
-***Allmänt***
-
-* hereditary non-polyposis colon cancer
-* Lynch syndrom
-
-
+#### Myom
 
 ***Etiologi och patofysiologi***
 
-* Autosomalt dominant
-* Gener: MLH1, MSH2, MSH6, PMS2
+* **beingn glatt muskel tumör i uterus**
+* "**muskelknutor**"
+* **rikliga blödningar:** en mekanisk påverkan 
 
 
-
-***Epidemiologi***
-
-* 1-2% av lla kolonmcacer o EC fall i Sverige o för ca 9% av alla EC som yppkommer före 50åå
-* kvinnor med LS har 40-60% risk för EC, livstid
-* 50% EC före koloncancer
-* medianålder insjuk EC vid LS är 46-62åå
-* ökad risk för: ventrikel, ovarial, tunntarn, uretercancer
-* HögstariskenförovarialcancerharMLH1/MSH2-bärare 
 
 
 
@@ -1454,7 +1477,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-### Menstruation och Ovulation
+### Menstruationscykeln
 
 ***Fysiologiskt***
 
@@ -1491,7 +1514,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   * **zona pellucida runt oocyt bildas mukopolysackaridstruktur:**, åtskilder fr omgivande granulosaceller
   * hålrum mellan granulosa o antrum som är fyllt follikelvätska
   * **cumulus oophorus, oocyt i moln av granulosaceller**
-  * nu sekundär follikel
+  * **nu sekundär follikel**
   * **mellan 5e-7e dagen i cykel**, selekteras 1 follikel för bli dominant
     * **mest känslig för FSH skaffar försprång**
     * **bildar då högre östrogenmängder,** 
@@ -1501,6 +1524,21 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
     * **östrogenbildning + evt stegring inhibin fr granulosaceller -> hämmar selktivt FSH**
     * **dominant follikel överlever pga mga FSH receptorer**, men **resterande går i atresi.** 
     * dominant follikel ledande, uppnår 15-20mm som utnyttjas monitorering fertilitetsbeh 
+* ***Corpus luteum***
+  * efter ovulation, follikel är kvar = granulosa celler + theca interna celler
+  * kollaberar, ihopveckt utseende
+  * basalmembran bryts ned
+  * kärlförande bindväv växer in i follikel
+  * ses på UL
+  * bildas koagel i follikel
+  * granulosaceller + theca interna förändras morfologiskt, större, innehålla gult pigment, 
+  * luteinisering = den här omvandlignen som sker,
+  * celler kallas granulosaluteinceller och tekaluteinceller
+  * bildar östrogen + progesteron
+  * varierar storlek, regel 1cm i diameter.
+  * livslängd 11-13 d utan hCG
+  * luteolys utan hCG och minskade LH nivåer
+  * välvaskulariserad-> ibland brista, tsmptomgivande intraabdominella blödningar, cystbildningar, utgör viktig diff t ektopisk graviditet
   * 
 
 
@@ -1508,12 +1546,9 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Faserna***
 
 * **Två faser**
-
   * **Follikulär och luteal fasen**: förändringar i ovarierna över längden på cykeln
   * **proliferative och sekretoriska fasen:** underhåller endoemtrie slemhinnan inför förväntad fertiliserat ovum. Om ingen fertilisering, corpus luteum degenererar o progesteron faller. Utan progesteron endometrial lining = menstruation
-
 * **Follikulär fasen**: elimination av östrogen + progesteron fr tidigare luteal fas -> graduell ökning FSH
-
   * **FSH stimmar tillväxt ovarial folliklar,** 5-15 st, startar follikel fasen igen. 
   * **primordial folliklar**: en blir den dominanta follikeln, utvecklas o mognar till ovulation
   * **dominant follikel, östrogen**: den dominanta follikeln producerar östrogen, ökar mognaden follikel, 
@@ -1524,35 +1559,55 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
     * **androgen transport in i granulosa cellerna**: 
     * **granuloas, FSH stimmar konvesion androgen t östrogen** (östron; det svagaste östrogenet)
   * **ökande östrogen, negativ feedback FSH**: dominant follikel är skuddat fr sjunaknde FSH gm ökade FSH receptorer
-
 * ***Ovulation***
-
+  * **ovulationen är ingen momentan process, tar 2d**
   * **Tidsmässigt:** 14d om mens cykel 28d
-  * **Slutet av follikelfasen, surge östrogen**
-  * **Trigger anterior hypofys, LH spike**
-  * **LH spike, progest, prostaglandin, follikel**: trigger resumed meios i oocyuter, inducerar prod progesteron + prostaglandin i follikeln
+  * **!!! Slutet av follikelfasen**, 
+    * **!!! har östrogenproduktionen ökat exponentiellt** -> **Trigger anterior hypofys, LH spike**
+  * **LH spike, progest, prostaglandin, follikel**: 
+    * trigger resumed meios i oocyuter, inducerar prod progesteron + prostaglandin i follikeln
+    * frisätts prostalglandeiner, + rad tillväxtfaktorer + cytokiner + proteolytiska enzymer + aktivera kontraktila element i stroma kring follikel
   * ***Progesteron + prostaglandin -> ruptur follikelväggen -> släpper iväg oocyten***: 
   * **Ovum passerar in i tuba**: swept in i uterus med cilier av tuba. Tar 3-4d
-
+  * **Meios, sekundär oocyt, polkroppen**: meios avstannad edan fosterliv, återupptas under follikelmognad
+  * i o med första meiotiska delningan bildas den så kallade första polkroppen (som verkar går i atresi): 
+  * äggceller är därefter = sekundär oocyt
+  * sekundär oocyt fortsätter in i andra meiotisk delning, stannar i metafas
+  * delning avslutas efter ovuklation, troligen bara om oocyt blivit fertiliserad, normalt sker i tubans ampulldel
 * **Fertilisering**: måste ske inom 24h eller den degenererar
-
 * **Luteal fasen**: 
-
+  * **Östrogen faller efter ovulation, stegrar under lutealfas 1a vecka**
   * **Corpus luteum, LH stim**: Granulosa + theca interna väggen
-
   * **corpus luteum, östrogen + mkt progesteron**: corpus luteum producerar östrogen och signifikanta mängder progesteron. 
+    * progesteron når max prod cap efter 1 vecka fr ovulation
+    * östrogen når sällan lika hög nivå som före ovulation
+  * **östrogen + preogesteron -> preppar endometriet för implant**
+  * **endometrie glandulärt, sekretorisk**: inför implant; körtlarna utvidgas, blir slingriga, morfologiska tecken som sekretion, ödem i stroma. 
+    * cervixsekret mer sparsamt, segt, grumligt, ogenomtränligt för spermier
+  * **progesteron medför ökad basaltemp 0.3-0.5grader**: beror på progesteron termoreglerande effekt på hypothalamus
+  * **OM fertilisering, trofoblaster, hCG, LH**: trofoblasterna formas efter fertilisering; dessa producerar hCG, glykoprotein likt LH, underhåller corpus luteum, så att fortsätta producera östrogen + progesteron för att underhålla endometrium. 
+  * **trofoblaster prolif efter implantation**
+  * **kom ihåg corpus luteum 10 dagar nästan innan den går i atresi utan hCG, så vi har tid för att implantera och proliferera trofoblaster och prod hCG!**
+  * **fortsätter tills placenta utvecklas egen syntes av hcg, vid v8-v10 gestationsvecka.**
+  * om fertilisering med konkomitant hCG inte sker, corpus luteum degen, progesteron faller, endometriet kan inte underhållas, menstruation sker
+* **Menstruation**
+  * follikel fas = proliferationsfas i endometriet, pga östrogen, proliferar
+  * luteal fasen  = sekretorisk fas i endometriet, mognar för att kunna support implantation
+  * om ovum ej fertiliserad, corpus luteum går igm luteolys efter 11-13d, 
+  * fall östrogen o progesteron,
+  * endometrieslemhinnan kan inte underhållas, varpå stöts bort  = menstruatino
 
-  * **endometrie glandulärt, sekretorisk**: preppar inför implantation fertiliserat ovum
 
-  * **OM fertilisering, trofoblaster, hCG, LH**: trofoblasterna producerar hCG, glykoprotein likt LH
-
-    
 
 
 
 <img src="./imgs/gyn_sam_150321_vx5W65MOsQ.png" alt="vx5W65MOsQ" style="zoom: 80%;" />
 
 
+
+
+
+<img src="./imgs/gyn_sam_150321_acvVzShNpJ.png" alt="acvVzShNpJ" style="zoom:50%;" />
 
 
 

@@ -35,6 +35,8 @@
 * Snabbaste tillväxtperioden. 
 * Determinerar 30% av den eventuella slutlängden som vuxne
 
+
+
 ***Storlek vid födsel***
 
 * Påverkas av flera faktorer
@@ -48,13 +50,14 @@
 
 
 
-***Vikt***
+#### Vikt
 
-* ***quadrupled weight***: efter 2.5 år
+* ***Spädbarnsåren***: 150-175g/v
+* ***quadrupled weight***: efter 2.5 år...
 
 
 
-***!!! Endokrinologiskt***
+#### ***!!! Endokrinologiskt***
 
 * **fosterfasen**: Insulin kortison.  
 * **spädbarnsfas**: IGF-1, tyrodieahormon, insulin, kortison. 
@@ -899,6 +902,46 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+## BUP
+
+### Autism
+
+***Kliniska Kännetecken***
+
+***Impaired social interaction***
+
+* does not seek comfort, share pleasure, form close friendships
+* prefers own company, no interest or ability in interacting with peers (play or emotions)
+* gaze avoidance
+* lack of joint attention
+* socially and emotionally inappropriate behaviour
+* does not appreciate that others have thoughts and feelings
+* lack of appreciation of social cues.
+
+
+
+***Speech and language disorder***
+
+* delayed development, may be severe
+* limited use of gestures and facial expression
+* formal pedantic language, monotonous voice
+* impaired comprehension with over-literal interpretation of speech
+* echoes questions, repeats instructions, refers to self as ‘you’
+* can have superficially good expressive speech.
+
+
+
+***Imposition of routines with ritualistic and repetitive behaviour:***
+
+* on self and others, with violent temper tantrums if disrupted
+* unusual stereotypical movements such as hand flapping and tiptoe gait
+* concrete play
+* poverty of imagination in play and generalactivities
+* peculiar interests and repetitive adherence
+* restriction in behaviour repertoire.
+
+
+
 
 
 ## Dermatolog
@@ -957,7 +1000,302 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+## Endokrin
 
+### Diabetes
+
+***Etiologi och patofysiologi***
+
+<img src="./lectures/imgs/diab_hemat_sem_dFkFyH4QnG.png" alt="dFkFyH4QnG" style="zoom:50%;">
+
+
+
+
+
+
+
+### Diabetes-ketoacidos
+
+***Presentation***
+
+* Diabetes med ketoacidos är ett fruktat och livshotande tillstånd hos både barn och vuxna. Tillståndet kräver skyndsam handläggning.
+  * pH 7,28, BE -12, risk för hypokalemi när insulin ges, takypné vanligt
+  * Fel alternativ
+    * pH 7,04, BE -15, risk för hjärnödem om blodsockret inte sänks nog fort, acetondoft förekommer
+    * pH 7,42, BE -14, insulin bör ges parallellt med glukosdropp för att förhindra snabb sänkning av blodsockret, behandling bör initialt ske på IVA: 
+      * enl abbe att glukosdropp ges parallelt med insulin stämmer, detta överensstämmer med janusinfo också
+    * pH 7,47, BE -15, insulinbehandlingen bör starta omgående, risk för hyponatremi och hjärnödem
+
+
+
+## Farmakologi
+
+### Intoxikation
+
+***Epidemiologi***
+
+* 60% av alla intoxer i barn sker under 6 år
+* 90% av intoxerna är accidentala; majoriteten hemma när vårdnadshavare är distraherad
+* flesta ämnen intas oralt av barnen. men kan inhaleras, spillas på hud eller ögon, eller injiceras intravenöst
+* mortalitet är under 1%
+
+
+
+***Etiologi och patofysiologi***
+
+* **Vanligaste toxin exponeringen är hushållsprodukter**:
+  * flesta exponeringarna: kosmetika, personal care products
+  * rengöringsmedel
+  * hostmedel eller förkyulningsmedel
+  * vitaminer, inklusive järn
+  * **analgetika**: paracetamol, NSAID, ASA
+  * **växter**: 6-7% av alla oralt intagna intoxer...
+  * **alkohol**: etanol,
+  * **hydrocarons**: gasoline, paint thinner, furniture polish
+  * kolmonoxid
+  * förskrivna läkemedel
+
+
+
+***Kliniska kännetecken för olika toxiner***
+
+* **Dofter**
+  * Bitter mandel: cyanid
+  * vitlök: arsenik, organofosfater
+  * aceton: salicylater, isopropyl alkogol
+  * wintergreen: metyl salicylater
+  * moth ball: camphor
+* **Hud tecken**
+  * Cherry red color, cherry röd: kolmonoxid, cyanid
+  * svettig: organofosfater, sympatomimetika (sympathomimetics)
+  * torr hud: antikolinergika
+  * urtikaria: allergisk reaktino
+  * grå cyanos: methemglobinemi
+* **ögon**
+  * **miosis:** opiater, phencyclidiner, organofosfater, phenothiazines
+  * **mydriasis**: amfetaminer, kokain, tricykliska antidepressiva, atropin
+  * **nystagmus**: dilantin, phencyclidine
+  * **retinala blödningar**: kolmonoxid, metanol
+* **allmäntillstånd**
+  * **feber**: kokain, TCA, phencyclidine, salicylater, thyroxin, antikolinergika, amfetaminer, teofyllin
+
+
+
+***Utredning***
+
+* ***Tänk på intox***: hos patienter som presenterar med **icke-specifia tekcen och symptom**
+  * kramper
+  * svår kräkning
+  * diarre
+  * dysrytmi
+  * förändrat sinnestillstånd, mental status
+  * abnormt beteende
+  * chock
+  * trauma
+  * icke-förklarad metabol acidos
+* ***Anamnes***: fr vårdnadshavare typiskt sett identifierar intoxer
+  * info om toxinet: bör inkludera namnet, toxin koncentration om känt, och hur pat exponerats
+  * potentiell intox-dos räkanas fr **worst-case scenario**
+    * toxicitet är vanligtvis på basis av dos per kg kroppsvikt
+  * **multipla ämnen eller medel hos ungdomar (adolescents)**
+  * **Bakgrundsinfo**: plats där upptäckt patienten, växter, vitaminer, herbs, kemikalier hemma, tid som det skett
+  * läkemedel
+* ***Status***: bör täcka allt, kan ge tecken på intoxmedel, 
+* ***Labb***:
+  * **screening**: glukso, u-tox, elektrolyter
+  * **blodgas**
+  * **anjon-gapet**: [Na - (cl + hco3)]
+  * **Akuta intoxprover enligt lokala rutiner** (etanol, metanol, paracetamol, aceton m m)
+  * **Biologiska alkoholmarkörer** vid misstanke om alkoholmissbruk (PEth, CDT)
+  * **Drogscreening** av narkotika i urinprov (på patienter med KAD)
+  * **Riktade toxikologiska prover** (urin, serum, ev hår naglar)
+  * **Täta kontroller av elektrolytstatus** (rutinstatus)
+  * **Arteriella blodgaser med syra-basstatus** (inklusive laktat, CO-Hb, Met-Hb)
+  * **SvO2 och laktat** vid misstanke om **cyanidförgiftning** eller **grav hjärtsvikt**
+  * **B-glukos**
+  * **Myoglobin i serum (rabdomyolys**)
+  * **Hjärtenzymmarkörer** vid **kolmonoxidförgiftning** eller EKG-förändringar eller hjärtischemi plus CO-Hb
+  * **Spara och frys ett extrarör med venblod** (serum) från inkomsten för kompletterande diagnostik i oklara eller mycket allvarliga fall
+
+
+
+ ***Handläggning***
+
+* ***Allmänna saker att tänka på***
+  * **övervaka**: vakenhet, andning
+  * **understödja**: andning, cirkulation, vb
+  * **behandla**: akut förvirring, motorisk oro på ett lugnt säkert sätt
+  * **identifiera tox agens**
+  * **aktiv elimination, vid indikation**: ventrikeltömning, medicinskt kol, dialysbehandling. så länge nyttan överväger riskerna
+  * **antidotbehandling, vid tydlig indikation**
+  * **vårdnivå**: korrket vårdnivå för att korrekt handlägga evt sänkning medvetande etc
+  * **uppföljning socialtjänst + psykiatri**
+* ***Akut omhändertagande***
+  * **ABCDE**: följ denna algoritm och allt vad det leder till, med syrgas, EKG, saturation, etc
+  * **infarter:** pvk, gärna två infarter
+  * **artärnål, när medvetslös, acidos, cirkpåverkan**
+  * **cvk, nämns internetmed**
+
+<img src="./imgs/ped_samman_vgcE5eb6o5.png" alt="vgcE5eb6o5" style="zoom: 67%;" />
+
+
+
+***Anjon-gapet***
+
+* ***ökat anjon-gap***: AMUDPILES mnemonic
+  * Alkohol
+  * metanol
+  * uremi
+  * diabetesketoacidos
+  * paraldehyd
+  * iron
+  * isoniazind
+  * laktacidos
+  * etylene glykol
+  * salicylater
+
+
+
+***Behandling***
+
+* **Ventrikeltömning**
+  * **manuellt**: endast småbarn, initialskedet
+  * **ventrikelsköjning, grov sond gm munnen**
+* **Aktivt kol**
+  * **manuellt eller pipmugg**
+  * **deponerat** (instillerat) i magen via ventrikelsond upplöst i vatten
+
+
+
+
+
+
+
+<img src="./imgs/ped_samman_ddV9taWyoe.png" alt="ddV9taWyoe" style="zoom: 67%;" />
+
+<img src="./imgs/ped_samman_cZwgCMdoZq.png" alt="cZwgCMdoZq" style="zoom:50%;" />
+
+
+
+<img src="./imgs/ped_samman_eKk4738Yr0.png" alt="eKk4738Yr0" style="zoom: 67%;" />
+
+
+
+<img src="./imgs/ped_samman_7PwJesI7Hs.png" alt="7PwJesI7Hs" style="zoom: 67%;" />
+
+
+
+<img src="./imgs/ped_samman_JiRUw4J4bK.png" alt="JiRUw4J4bK" style="zoom: 67%;" />
+
+
+
+
+
+<img src="./imgs/ped_samman_YIBeXyLTzH.png" alt="YIBeXyLTzH" style="zoom: 67%;" />
+
+
+
+
+
+### Intox paracetamol
+
+***Presentation***
+
+* Du är akutjour på barnakuten. Anna, 1,5 år inkommer med sin mormor. Hon har hittat Anna sittandes på golvet i badrummet lekande med en öppnad burk kapslar Panodil (paracetamol 500mg). Du undersöker Anna som är glad och opåverkad. Mormor har ingen aning om hur många tabletter som fanns i burken, och det går inte att utesluta att Anna fått isig tabletter.
+  * inläggningsfall, leverprover
+  * antidot: acetylcystein för att undvika leversvikt
+* Du är akutjour på barnakuten en torsdagkväll. Med ambulans kommer en 16-åriga Frida som är ledsen och luktar sprit. Enligt bästa kompisen som har larmat ambulansen har Frida SMS:at tidigare ikväll att hon inte längre vill leva. Frida, som är vaken och svarar på tilltal, berättar att hon för ungefär fyra timmar sedan tagit en massa värktabletter hon köpt på ICA och sköljt ned det med sprit från en dunk som pappa köpt av en kompis. a) När du har förvissat dig om att ABC är ok ordinerar du intoxikationsprover från infarten som ambulansen satt. 
+  * **Vilka substanser är de viktigaste att fråga efter i det här läget (ange 4 st)? (1p)**: paracetamol, etanol, metanol, ASA (enl tentadok)
+  * acetylcystein mot värktabletten, motverkar leverskador om ges innan paracetamolet brytits ned...
+  * utöver bakjour, andra kontakter: BUP, Socialtjänsten, föräldrar (enl tentadokument)
+
+
+
+***Kliniska kännetecken***
+
+* **Tid efter intag**
+  * **30min-24h**: asymptomatisk, eller kräkningar och diarre
+    * buksmärtor, ibland mer lokaliserat i övre högre kvadranten
+    * illamående, kräk, diarre
+    * takykardi
+    * medvetandepåverkan,
+  * **18-25h:** 
+    * minskad symptom
+    * ASAT och ALAT höjning
+    * stegring av PKINR
+    * blodlaktatstegring 2-3mM. 
+  * **24-72h**: gastrointestinala symptom resolve; vid 36timmar lever transaminaser stiger (ASAT,ALAT)
+  * **72-96h**: levernekros, hepatisk nekros, ikterus, hypoglykemi, laktacidos, leverencefalopati, koagulopati, eller njursvikt
+  * **4d-2v**: resolution av symptom, progressiv leverskada kräver levertransplantation eller död
+
+<img src="./imgs/ped_samman_JiRUw4J4bK.png" alt="JiRUw4J4bK" style="zoom: 67%;" />
+
+***Differentialdiagnoser***
+
+* Gastroenterit
+* gastrit
+* hepatit
+* pankreatit
+* svampförgiftning
+
+
+
+***Handläggning***
+
+* ***Anamnes***
+* **Status**
+  * ABCDE
+* ***Labb***
+  * EKG
+  * S-paracetamol
+  * Blodstatus (Hb, LPK, TPK)
+  * Leverstatus (ASAT, ALAT)
+  * Koagulationsstatus (PK-INR, aPTT)
+  * Elektrolytstatus
+  * P-glukos
+  * S-amylas
+  * Venös eller arteriell blodgas (blodlaktat kan vara förhöjt vid allvarlig förgiftning)
+* **Monitorering**
+  * Daglig och v b uppföljning av:
+    - Leverstatus (ASAT + ALAT + PK-INR)
+    - Elektrolytstatus
+    - Syra-bas inklusive blodlaktat (4-5)
+    - Koagulationsstatus
+    - Vätske- och elektrolytbalans
+  * P g a risken för blandintoxikation skall ALLA intoxikationer monitoreras initialt med avseende på vitalparametrarna: 
+    - Andning
+    - Cirkulation
+    - Vakenhet
+  * **S-paracetamol mätningar:** Tänk också på att ett normalt eller lätt förhöjt S-paracetamol kan ha varit högt och på väg ner, eller är på väg att stiga.
+
+
+
+***Behandling***
+
+* Acetylcystein iv
+  * *Acetylcystein behandling vid icke-depotpreparat när s-paracetamol saknas:* Starta behandling, ge först 200 mg/kg kroppsvikt i 500 ml glukos 50 mg/ml eller isoton NaCl under 4 timmar (50 mg/kg/timme) och därefter 6,25 mg/kg/timme under 16 timmar eller längre. Ring GIC om oklarhet, 010 456 67 00.
+  * *Acetylcystein vid behandling av icke-depotpreparat ges enligt nedan när svar på s-paracetamol finns:* Acetylcystein insätts om s-paracetamol ligger > 1000 mikromol/l vid 4 timmar, 700 mikromol/l vid 6 timmar, 500 mikromol/l vid 8 timmar och 350 mikromol/l vid 10 timmar efter överdosering. Ring GIC vid oklarhet/osäkerhet, 010 456 67 00.
+  * *Acetylcystein vid överdosering av depotpreparat:* Exempelvis Alvedon 665 mg. Ge 200 mg/kg kroppsvikt i 500 ml isoton glukos eller NaCl-lösning under 4 timmar. Därefter underhållsbehandling med acetylcystein 12,5 mg/kg/timme under minst 20 timmar. 150 mg/kg löses i 500 ml under varje 12 timmars period. Innan acetylcysteinbehandlingen avslutas skall s-paracetamol kontrolleras och inte vara påvisbart.
+* ***Ventrikeltömning och medicinskt kol***
+  * Ventrikeltömning samt medicinskt kol eller enbart medicinskt kol (Kolsuspension 150 mg/ml, 100 ml) kan bli aktuellt. 
+    * **Kortare tidsintervall = bättre:** Dessa åtgärder är dock mer effektiva ju kortare tidsintervall det föreligger mellan tablettintag och inkomst till sjukhus.
+  * **relativ kontraindikationer:** mot kol är risk för aspiration vid exv kräkning och medvetandepåverkan.
+  * Överväg ventrikelsond vb.
+  * **acetylcystein ge ej medicinskt kol:** Rekommendationen är dock att antidot alltid bör ges intravenöst.
+* Elektrolytkorrektion, korrektio acidos: Korrektion av elektrolytstörningar och eventuell acidos
+* Undvik hypoglykemi
+* Upprätthåll god diures. Timdiures v b
+* Motverka hypotension
+* Undvik hypoxi
+* Antibiotika vid minsta misstanke om infektion
+
+### Intox petroleumprodukter
+
+***Behandling***
+
+* **Kontraindicerat**
+  * ventrikelsköljning/kräkning kontraindik: risk aspiration lungor, kemisk pneumoni
+* ***drick grädde istället.***
 
 
 
@@ -1103,411 +1441,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Gallvägsatresi
   * lever/gallvägssjukdom - hepatit
   * 
-
-
-
-## Kirurgisk
-
-### Invagination
-
-***Etiologi och patofysiologi***
-
-* Intussuception beskrivar invagination av **proximal** tarm ***in i*** ett distalt segment. 
-* ***Vanligast locale:*** ileum och caecum, vid ileocaecal valve
-* ***Seriös komplikation***: tension och konstriktion av mesenteriet,
-  * resulterar i venös obstruktion
-  * orsakar engorgement + blödning fr mukosa 
-  * vätskeförlust
-  * senare tarmperforation. peritonit, buk nekros. 
-
-
-
-***Epidemiologi***
-
-* ***Tarmobstrktion vanligast orsak hos:*** invagination är den cvanligaste orsaken ftill intestinal obstrktion hos spädbarn **efter** neonatal ålder. 
-* ***Peak presentation***: 3mån-2år
-
-
-
-
-
-***Kliniska kännetecken***
-
-* paroxysmal, svår kolisk smärta, med pallor (blekhet)
-  * under episoder av smärta blir pat blekt
-  * speciellt runt munnen och drar upp benen
-  * recovery mellan smärtepisoderna förekommer
-* **Kan vägra att äta,** 
-* **kan kräkas**: gallkräkning kan förekomma
-* **Palpation**: korvformad massa i palperas i buken
-* ***avföring***: redcurrant jelly avföring, utgörs av blodstänkt mucus,
-  * kan ses efter rektal undersökning
-* **abdominell distension + chock**
-
-
-
-***Handläggning***
-
-* ***Prompt diagnosis***
-* ***Vätskersättning:*** prompt resuscitation med vätska. 
-* ***Reduktion av invaginationen***: detta måste ske asap
-
-
-
-***Behandling***
-
-* ***Reduktion***
-  * Rectal air insufflation: om inte peritonit förekommer
-  * ***Kirurgi***: indicierat om air insufflation eller om peritonit
-
-
-
-## Kardiologi 
-
-### Hjärtstopp
-
-***Etiologi och patofysiologi***
-
-* ***HYPOXI:*** vanligaste orsaken bland vuxna är ischemisk hjärtsjukdom, men hos barn med friska hjärtan är orsaken till hjärtstopp ***sekundärt till hypoxi fr respiratorisk eller neurologisk svikt eller chock***. 
-* ***Sekundärt till***
-  * Respiratorisk svikt
-  * Chock
-  * Neurologisk svikt 
-
-***Handläggning***
-
-* Basal livsuppehållande hjälp behövs direkt
-
-<img src="./imgs/wet_flag.png" alt="wetflag" style="zoom:50%;" />
-
-### Hjärtdefekter
-
-#### Ventricular septal defect (VSD)
-
-
-
-***Presentation***
-
-* A 1-month-old female infant is seen in your office for a routine health maintenance evaluation. On examination, you hear a grade 4 holosystolic murmur at the left sternal border. Femoral pulses and oxygen saturation in room air are normal. The infant is otherwise well and growing normally. Which of the following statements regarding this patient’s condition is correct?
-* You see a 7-week-old male infant with cough and poor feeding. Examination reveals a respiratory rate of 72 breaths/minute and a heart rate of 170 beats/minute. His weight is 7 pounds 6 oz, just 2 oz more than his birth weight. You hear diffuse rales throughout the lung fields and a systolic murmur on auscultation. The liver is 4 cm below the right costal margin. Which of the following conditions is the most likely cause of his signs and symptoms?
-
-
-
-***Etiologi och patofysiologi***
-
-* Defect in the septum that divides the right and left ventricles
-* Most common congenital heart defect
-* Associated with fetal alcohol syndrome
-* Results in left-to-right shunt; 
-* size of defect determines extent of shunting and age at presentation
-* Small defects are often asymptomatic; 
-* large defects can lead to Eisenmenger syndrom
-*  Treatment involves surgical closure; 
-* small defects may close spontaneously
-
-
-
-
-
-***Kliniska kännetecekn***
-
-* This patient’s murmur is consistent with a small ventricular septal defect (VSD). With a small VSD, a patient is likely to remain asymptomatic with normal growth and development. Typically, the smaller the VSD, the louder the murmur. Small muscular or membranous VSDs may close on their own without intervention. Small VSDs do not generally result in congestive heart failure or in Eisenmenger syndrome. A patent ductus arteriosus would more commonly present with a machinery-like continuous murmur at the upper left sternal border. Balloon valvuloplasty is not indicated for a VSD.
-* This patient’s signs and symptoms are consistent with congestive heart failure (CHF). Forms of congenital heart disease that increase pulmonary blood flow, obstruct outflow, or overload portions of the heart through valvular regurgitation are among the many causes of CHF. Of the choices listed, only a large ventricular septal defect, which has a large left-to-right shunt with increased pulmonary blood blow, would cause CHF in a child of this age. Atrial septal defects, small patent ductus arteriosus defects, and mild to moderate pulmonary stenosis do not typically cause CHF. Critical or severe aortic stenosis may cause CHF, but this usually occurs within 24 hours of birth.
-
-
-
-
-
-
-
-#### Atrial septal defect (ASD)
-
-* Defect in the septum that divides right and left atria; most common type is ostium
-secundum (90% of cases).
-* Ostium primum type is associated with Down syndrom
-* Results in left-to-right shunt and split S2 on auscultation (increased blood in right
-heart delays closure of pulmonary valve)
-* Paradoxical emboli are an important complicatio
-
-
-
-#### Patent ductus arteriosus (PDA)
-
-* Failure of ductus arteriosus to close; associated with congenital rubella
-* ***left-to-right shunt***: between the aorta and the pulmonary artery
-* During development, the ductus arteriosus normally shunts blood from the
-pulmonary artery to the aorta, bypassing the lung
-* Asymptomatic at birth with continuous 'machine-like' murmur; may lead to
-Eisenmenger syndrome, resulting in lower extremitets cyanosis
-* ***Behandling:*** indomethacin, which decreases PGE, resulting in PDA closure
-* (PGE maintains patency of the ductus arteriosus).
-
-
-
-#### Tetralogy of fallot
-
-* Characterized by (1) stenosis of the right ventricular outflow tract, (2) right
-ventricular hypertrophy, (3) VSD, and (4) an aorta that overrides the VSD
-* Right-to-left shunt leads to early cyanosis; degree of stenosis determines the extent of
-shunting and cyanosi Patients learn to squat in response to a cyanotic spell; increased arterial resistance
-decreases shunting and allows more blood to reach the lung* ~
-* 'Boot-shaped' heart on x-ray (Fi* 8.10)
-
-
-
-#### Transposition of the great vessels
-
-***Presentation***
-
-* A 20-month-old boy with tetralogy of Fallot is admitted for evaluation of cyanosis that is increasing in frequency. As you conclude your history and physical examination, you witness an episode of cyanosis when the patient’s brother makes him cry. As the crying increases, the patient becomes more and more cyanotic. On examination, his cardiac murmur is now much softer than before he began crying. What is the next most appropriate step in management?
-
-
-
-
-
-* Characterized by pulmonary artery arising from the left ventricle and aorta arising
-from the right ventricle
-* Associated with maternal diabetes
-* Presents with early cyanosis; pulmonary and systemic circuits do not mi Creation of shunt (allowing blood to mix) after birth is required for surYiva* * 
-* PGE can be administered to maintain a PDA until definitive surgical repair is
-performe* * Results in hypertrophy of the right ventricle and atrophy of the left ventricle
-
-
-
-***Behandling***
-
-* ***Knee-chest position***
-  * Tetralogy of Fallot (hypercyanotic or “tet”) spells are defined as paroxysmal episodes of hyperpnea, irritability, and prolonged crying that result in increasing cyanosis and decreasing intensity of the heart murmur. This condition is often triggered by crying. Initial management is to increase systemic vascular resistance by placing the patient in a knee-chest position. Other therapeutic modalities include the administration of morphine sulfate, sodium bicarbonate, and intravenous fluids and the use of oxygen. Mechanical ventilation in combination with general anesthesia may be effective but would only be used when other management options fail to reverse the cyanosis. Dopamine and epinephrine are contraindicated because they may worsen the spell. A cardiology consultation may be useful, but the acuity of the patient’s clinical presentation requires immediate intervention
-
-
-
-
-
-#### Truncus arteriosus
-
-***Presentation***
-
-* You are called to the newborn nursery to evaluate a 2-hour-old newborn who has suddenly become cyanotic. The oxygen saturation on room air is 69%, and the patient is tachycardic and tachypneic. Oxygen is administered without improvement in the patient’s oxygen saturation. On examination, you hear a loud S 2 and no murmur. A chest radiograph shows increased pulmonary vascular markings, a narrow mediastinum, and a small heart. Which of the following would be the next step in management?
-
-
-
-
-
-* ***Diffa mot ductus arteriosus***
-* Characterized by a single large vessel arising from both ventricles
-* Truncus fails to divide
-* Presents with early cyanosis; deoxygenated blood from right ventricle mixes with
-oxygenated blood from left ventricle before pulmonary a nd aortic circulations
-separat
-
-
-
-***Behandling***
-
-* Akut
-  * Infusion prostaglandin E (PGE): 
-    * detta för att vid transposition of the great vessels är de stora kärlen pulmonalis och aorta, i parallel och inte i serie, vilket innebär att d et är ductus arteriosus som måste hållas öppet för att shunta blod
-    * för att hålla den öppen ger vid dräför prostaglandin E (PGE)
-
-
-
-
-
-#### Tricuspid atresi
-
-***Presentation***
-
-* You are called to the nursery to evaluate a male newborn with cyanosis. On auscultation, you hear a single S 2 but no murmur. Pulse oximetry shows an oxygen saturation of 72% in room air. An electrocardiogram reveals left axis deviation and left ventricular hypertrophy. What is his likely diagnosis?
-
-
-
-
-
-* Tricuspid valve orifice fails to develop; right ventricle is hypoplasti* * Often associated with ASD, resulting in a right-to-left shunt; presents with early
-cyanosi
-
-
-
-***Etiologi och patofysiologi***
-
-* Pathophysiology. Whether a VSD is also present plays a significant role in determining
-  the clinical presentation.
-  a. If no VSD is present and the ventricular septum is intact, pulmonary atresia is also
-  present. For blood to flow to the lungs in this situation, a PDA must be present. As
-  the PDA constricts after birth, visible cyanosis develops.
-  b. If a VSD is present, blood flow from the left ventricle through the VSD and into the
-  pulmonary artery (left-to-right shunt) may be adequate, facilitating acceptable
-  systemic oxygen saturations (Figure 8-8).
-
-
-
-#### Coarction of the aorta
-
-***Presentation***
-
-* A 10-year-old girl is seen for a routine health maintenance evaluation. Five years ago, she underwent surgical repair of coarctation of the aorta. On examination, the blood pressure in her right arm is 173/81 mm Hg, and her oxygen saturation is 97% in room air. Auscultation reveals a systolic ejection murmur audible throughout the precordium. The patient is otherwise asymptomatic. Which of the following would be the most appropriate next step in management?
-
-
-
-
-
-* Narrowing of the aorta; classically divided into infantile and adult forms
-* Infantile form is associated with a PDA; 
-  * coarctation lies after (distal to) the aortic arch, but before (proximal to) the PD
-  * presents as lower extremity cyanosis in infants, often at birth
-* Associated with Turner syndrome
-* Adult form is not associated with a PDA; coarctation lies after (distal to) the aortic
-arc Presents as hypertension in the upper extremities and hypotension with weak
-pulses in the lower extremities; classically discovered in adulthood
-* Collateral circulation develops across the intercostal arteries; engorged arteries
-cause 'notching' of ribs on x-ray (Fi* 8.11 B).
-* Associated with bicuspid aortic valve
-
-
-
-
-
-***Handläggning***
-
-* Auskultation alla extremiteter
-  * Restenosis is a known complication from repair of coarctation of the aorta, and these clinical features are consistent with restenosis. Patients with coarctation of the aorta classically present with hypertension in the right arm, and commonly in the left arm, and reduced blood pressures in the lower extremities. Therefore, the most appropriate initial step in this patient would be to obtain blood pressures in all four extremities. Balloon angioplasty with or without endovascular stenting is the treatment of choice for restenosis, rather than surgical repair, after the patient undergoes a complete evaluation. Confirmation of a bicuspid aortic valve is important because it may accompany coarctation in up to half of patients; however, it is not the most appropriate initial step in this patient’s management. The oxygen saturation is normal in room air and therefore does not require reassessment in 100% oxygen. Given the significantly elevated blood pressure, it is not appropriate to wait 6 months for reevaluation.
-
-
-
-
-
-#### Perikardit
-
-
-
-***Presentation***
-
-* A 7-year-old boy presents with a 3-day history of fever (temperature to 39.7°C [103.5°F]), shortness of breath, and weakness. He also complains of chest pain, which is most intense when he lies down and improves when he sits upright. His past medical history is significant for closure of a ventricular septal defect 2 weeks ago. Which of the following findings is consistent with the most likely diagnosis?
-
-
-
-***Kliniska kännetecken***
-
-* This patient’s clinical presentation is most consistent with pericarditis. The likely cause of his pericarditis is postpericardiotomy syndrome, given the recent closure of his ventricular septal defect before the onset of his symptoms. Postpericardiotomy syndrome is believed to be an autoimmune response to a concomitant viral infection and is associated with opening of the pericardium during cardiac surgery. Pulsus paradoxus, or a greater-than-10 mm Hg drop in systolic blood pressure on deep inspiration, is found in patients with pericarditis. Splinter hemorrhages are noted in patients with endocarditis, which is also associated with fever. Supraventricular tachycardia, which would present as a rapid heart rate with absent P waves on electrocardiogram, may cause chest pain, but the pain would not change with position and fever would be absent. Prolonged QT syndrome is most often associated with syncope and sudden cardiac arrest. Costochondritis is a common cause of chest pain, but fever is not associated with this diagnosis.
-
-
-
-
-
-
-
-#### Misc
-
-***Antibiotikaprofylax förhindra endokardit***
-
-* A 4-year-old boy is in the office for a routine health maintenance evaluation. His examination is normal except for multiple deep dental cavities. You plan on referring him for dental evaluation and possible dental extraction. His mother reminds you that he has a “heart condition.” Which of the following cardiac conditions requires antibiotic prophylaxis against endocarditis?
-  * Before any invasive procedures that may result in bacteremia, prophylaxis against bacterial endocarditis is required for any patient who had structural heart disease repaired within the past 6 months. Patients with uncomplicated Kawasaki disease and cardiac dysrhythmias, including Wolff–Parkinson–White syndrome, or with acyanotic structural heart defects, such as patent ductus arteriosus, do not require antibiotic prophylaxi
-
-
-
-## Pulmonologi
-
-
-
-### Allmänt
-
-
-
-### Respiratorisk svikt
-
-***Etiologi och patofysiologi***
-
-* Flera orsaker förekommer som skulle ge respiratorisk svikt
-* alveolär hypoventilation
-* diffusion påverkan
-* ***intrapulmonell shunting***: 
-* ventilation-perfusion mismatch
-
-
-
-### Cystisk fibros
-
-***Presentation***
-
-* 13mån pojke
-  * och är inlagd på barnavdelning för en pneumoni diagnosticerad medröntgen. 
-  * Petter har tidigare varit inlagd för en pneumoni vid 10 månaders ålder men efter den har han inte blivit riktigt bra i luftvägarna. 
-  * Han har blivit ordinerad luftrörsvidgande med misstänkt astma men har ändå inte blivit besvärsfri i luftrören. 
-  * Han har fallit i vikt 1,5 SD sedan 8 månaders ålder och han har fallit 1 SD i längd. 
-  * Blodstatus visar lätt anemi och lätt stegrade neutrofiler, CRP 130 mg/l. 
-  * När du lyssnar på hans lungor är det rikliga biljud från båda sidorna med slembiljud, rhonki och rassel. 
-    * Överläkaren frågar dig under ronden vad du misstänker för sjukdom: cystisk fibros
-    * Vilket/vilka prover vill du ta för att styrka din misstanke? Svettest, genotypning ev F-elastas
-    * ytterligare anamnes relevant fråga: hereditet? friska sjuka syskon
-
-
-
-***Kliniska kännetecken***
-
-En kort lista över kliniska manifestationer av CF: 
-* ***Luftvägar***:
-    * Bronchiectasi, bronkit, bronkiolit, pneumoni
-    * Atelektas
-    * Hemoptys
-    * Pneuomothorax
-    * Näspolypos
-    * Sinusit
-    * Reactive airway disease
-    * Cor Pulmonale
-    * Respiratory failure
-    * Mukusplug i bronker
-    * Allergisk broncopulmonell aspergillos
-* ***Gastrointestinal***:
-    * Mekonium ileus/plug
-    * Mekonium peritonit
-    * Rektal prolaps
-    * Volvulus
-    * Pankreatit
-    * Biliär cirros
-    * Steatos, Kolelitias, GERD, Vtaminbrist AKED
-    * Malabsorption
-* ***Misc***:
-    * Infertilitet
-    * Försenad pubertet
-    * Clubbing
-    * DM
-
-
-
-***Diagnos***
-
-* ***Svettest*** (Förhöjda klorinvärden i svett = positivt)
-* ***Genotypning***
-* ***Ev. F-elastas***
-
-
-
-***Utredning och anamnes***
-
-* Komplettera anamnes
-  * Hereditet, friska/sjuka syskon
-
-
-
-
-
-### Obstruktiv bronkit
-
-***Presentation***
-
-* Mustafa, 18 månader gammal, inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft
-  * ***Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)***
-  * ***Initial behandling på akuten:*** 
-    * syrgas + ventoline (ventoline pga allvarlighetsgraden) med optichamber
-    * utefter effekt kan man överväga steroider i form av betapred eller solu-cortef (solu-cortef om det är en svår obstruktivitet)
-    * sedan fortsätta med syrgas + ventoline
-    * utebliven förbättring: magnesiumsyulfat, överväga tillägg iv teofyllamin
-  * ***Efter sex timmars behandling på akuten blir han närmast helt symptomfri. Syresättningen har stigit till 99%. Modern önskar åka hem till övriga familjemedlemmar***
-    * **Airomir (saba) + inhalationssteroid**, som kommer att tas i en spacer/mask antagligen...
-    * detta ska följa ett förkylningsastma schema som han får fr akuten
-    * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
-    * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
-  * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
 
 
 
@@ -1997,215 +1930,7 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-## Vätskebalans
 
-### Allmänt
-
-* Nyfödda, under 1 mån:
-  * utgörs av 77% vatten. 
-  * ECV volymen är större än ICV volymen 
-* Över 1.5månader
-  * ICV volymen nu större än ECV volymen, som kommer att förbli resten av livet. 
-
-### Vätsketillstånd
-
-#### Chock
-
-***Kliniska kännetecken***
-
-* CRT
-* Puls
-* färg
-* medvetandegrad
-
-
-
-***Behandling***
-
-* Ringer-acetat: isoton vätska
-  * 20mL/kg, så snabbt det går på droppen och given pvk, vanligtvis 1mL/kg/min, så då tar det 10-20 mins för given PVK
-  * 10mL/kg:  prematurfött barn, under 44v gestationsålder...; trauma; hjärtsjd
-* upprepas om cirkulationen är ej tillfredställande efter given vätska
-* överväg albumin om tredje bolus vätska behövs. 
-
-
-
-#### Dehydrering
-
-***Kliniska kännetecken***
-
-* Färg
-* Gråter utan tårar
-* Slemhinnor
-* Urinproduktion
-
-***Behandling***
-
-* ***Uppvätskning, rehydrering, ersätta***: Detta innebär att man ersätter förlorad volym vätska
-  * ORS (oral rehydration solution, aka vätske ersättning, aka VES): 
-  * 5% av kroppsvikten över 4 timmar. 
-  * sedan reevaluering av vätskestatus
-* ***Underhållsbehandling***: 
-  * ***Peroral form***: Då är patienten tillräckligt adekvat för att ta drycken sj, eller att det sker via sond
-    * 0-6mån: 150mL/kg/d
-    * 6-12mån: 125mL/kg/d
-    * \>12mån: 100mL/kg/d
-    * Då är det i form av näringsdrycker, välling etc, som barnet kan ta vid given ålder
-  * ***Intravenös form***: att pat har en infart som man kan vätska upp med
-    * Plasmalyte glukos, 5% glukos, 140mM Na, 20mM Kalium
-    * 0-10kg: 100mL/kg/d
-    * 10-20kg: 1000mL + 50mL per kg över 10kg
-    * \> 20kg: 1000mL + 20mL per kg över 20kg
-
-#### Hyperton dehydrering
-
-***Definition***
-
-* Na ≥ 150 mmol/L. 
-* Svår hypernatremi: ≥ 170 mmol/l
-
-***Typfallet uppkommer***
-
-* ej färdigutvecklad  njurfunktion –d v s patienter  <1 år
-* långdragen gastroenterit(>3-4 d)
-* stor viktnedgång  (>10%) 
-* sedan  införande  av rotavirusvaccinet  i det nationella  programmet  2019   har antalet  fall  av hypertondehydreringminskat  påtagligt  i Sverige
-
-
-
-***Mekanism***
-
-* innebär förlust kroppsvatten: ***inte primärt elektrolyter***
-* ***intialt*** sker extravasal vattenförlust, med resulterande hög natriumkonc i ECV
-  * e.g. diarre
-* ***sekundärt***: vandrar vatten fr ICV t ECV, med sekundär ICV dehydrering som följd
-* ***osmotiska partiklar***: bildas i kroppen, varför vattenflöden mellan ICV o ECV upphör
-* ***Resuktat***: förlust kroppsvatten, o ett hyperosmolärt tillstånd både extracellulärt och intracellulärt
-
-### fall - vätskebehov
-
-#### Alex 9kg  
-
-* ***Undet det akuta skedet***: Ringer-Acetat, iv bolus, 180mL (20mL/kg)
-* Under de nämaste timmarna: Ringer-acetat iv, 450mL/4h
-* Under det kommand dygnet: plasmalyte glukos, iv, 100mL x 9 = 900mL/24h
-
-
-
-#### Miriam 5kg
-
-* Undet det akuta skedet: behöver ingen bolus...
-* Under de nämaste timmarna: sond ORS, 250mL/4h
-* Under det kommand dygnet: sond, bröstmjölk, ersättning: 150mL x 5 = 750mL/24h
-
-
-
-#### Spädbarn gosse
-
-Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cirkulationssvikt är avgörande för valet av behandling. En tidigare frisk ettårig gosse som väger 10 kg har inkommit till barnakuten där du vikarierar med symptom förenliga med en viral gastroenterit. Han har stora förluster och är hängig. Han har en kapillär återfyllnad på 4 sekunder och läpparna är torra
-
-* Bolus Ringeracetat iv 200 ml följt av Ringeracetat iv 5% av vikten på 4 timmar
-  * efter dett ska han ha plasmalyteglukos i underhållsbehandling
-  * 1000mL plasmalyte 5% glukos, över 24 timmar, in accord med att det är 100mL/kg mellan 0-10kg
-
-
-
-
-
-## Reumatologi
-
-### Svullet knä
-
-***Presentation***
-
-* Stina är 6 år och har sedan 1 vecka haft ett svullet höger knä. Hon har ingen feber. Hon harhaft  svårt att gå och haltar. Pappa har psoriasis men Stina har inga hudbesvär. Anger ingensmärta i vila. I status: gott AT, afebril. Hon har svullnad runt patella höger knä, ingen rodnadmen värmeökning jämfört med framsidan av underbenet. Har en extensions och flektionsdefektpå ca 20 grader i hö knä. Status i övrigt är utan anmärkning inkl hud.Vilken diagnos är minst sannolik med ovanstående anamnes och status?
-  * **Sannolika diagnoser**
-    * **Reaktiv artrit)** 
-    * **JIA monoartrit**
-    * **Borrelia artrit**
-    * **Psoriasis artrit**
-  * **Detta är ingen: Septisk artrit**
-
-
-
-Ataxic cerebral palsy is due to [...] damage.
-
-
-
-
-
-### JIA
-
-***Presentation***
-
-* Du sitter på en barnläkarmottagning och Anna 4 år kommer till din mottagning. Hon har haft ett svullet höger knä och en svullen vänster fotled i många veckor. Hon är stel på morgonen och det tar ett par timmar innan hon har normal gång. Hon har en mormor som har ledgångsreumatism i övrigt inga reumatiska sjukdomar i närmaste släkten. Anna blev fästingbiten i somras men fick ingen ring runt bettet. I status kan du konfirmera anamnesen. Övrigt ledstatus är utan anmärkning Du misstänker en diagnos och beställer prover. Vilket alternativ stämmer bäst med din bedömning och plan:
-  * Juvenil idiopatisk artrit. Borreliaserologi, Blodstatus, CRP och SR, ANA
-
-
-
-## Endokrin
-
-### Diabetes
-
-***Etiologi och patofysiologi***
-
-<img src="./lectures/imgs/diab_hemat_sem_dFkFyH4QnG.png" alt="dFkFyH4QnG" style="zoom:50%;">
-
-
-
-
-
-
-
-### Diabetes-ketoacidos
-
-***Presentation***
-
-* Diabetes med ketoacidos är ett fruktat och livshotande tillstånd hos både barn och vuxna. Tillståndet kräver skyndsam handläggning.
-  * pH 7,28, BE -12, risk för hypokalemi när insulin ges, takypné vanligt
-  * Fel alternativ
-    * pH 7,04, BE -15, risk för hjärnödem om blodsockret inte sänks nog fort, acetondoft förekommer
-    * pH 7,42, BE -14, insulin bör ges parallellt med glukosdropp för att förhindra snabb sänkning av blodsockret, behandling bör initialt ske på IVA: 
-      * enl abbe att glukosdropp ges parallelt med insulin stämmer, detta överensstämmer med janusinfo också
-    * pH 7,47, BE -15, insulinbehandlingen bör starta omgående, risk för hyponatremi och hjärnödem
-
-## BUP
-
-### Autism
-
-***Kliniska Kännetecken***
-
-***Impaired social interaction***
-
-* does not seek comfort, share pleasure, form close friendships
-* prefers own company, no interest or ability in interacting with peers (play or emotions)
-* gaze avoidance
-* lack of joint attention
-* socially and emotionally inappropriate behaviour
-* does not appreciate that others have thoughts and feelings
-* lack of appreciation of social cues.
-
-
-
-***Speech and language disorder***
-
-* delayed development, may be severe
-* limited use of gestures and facial expression
-* formal pedantic language, monotonous voice
-* impaired comprehension with over-literal interpretation of speech
-* echoes questions, repeats instructions, refers to self as ‘you’
-* can have superficially good expressive speech.
-
-
-
-***Imposition of routines with ritualistic and repetitive behaviour:***
-
-* on self and others, with violent temper tantrums if disrupted
-* unusual stereotypical movements such as hand flapping and tiptoe gait
-* concrete play
-* poverty of imagination in play and generalactivities
-* peculiar interests and repetitive adherence
-* restriction in behaviour repertoire.
 
 
 
@@ -2927,6 +2652,369 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
+
+
+## Kirurgisk
+
+### Invagination
+
+***Etiologi och patofysiologi***
+
+* Intussuception beskrivar invagination av **proximal** tarm ***in i*** ett distalt segment. 
+* ***Vanligast locale:*** ileum och caecum, vid ileocaecal valve
+* ***Seriös komplikation***: tension och konstriktion av mesenteriet,
+  * resulterar i venös obstruktion
+  * orsakar engorgement + blödning fr mukosa 
+  * vätskeförlust
+  * senare tarmperforation. peritonit, buk nekros. 
+
+
+
+***Epidemiologi***
+
+* ***Tarmobstrktion vanligast orsak hos:*** invagination är den cvanligaste orsaken ftill intestinal obstrktion hos spädbarn **efter** neonatal ålder. 
+* ***Peak presentation***: 3mån-2år
+
+
+
+
+
+***Kliniska kännetecken***
+
+* paroxysmal, svår kolisk smärta, med pallor (blekhet)
+  * under episoder av smärta blir pat blekt
+  * speciellt runt munnen och drar upp benen
+  * recovery mellan smärtepisoderna förekommer
+* **Kan vägra att äta,** 
+* **kan kräkas**: gallkräkning kan förekomma
+* **Palpation**: korvformad massa i palperas i buken
+* ***avföring***: redcurrant jelly avföring, utgörs av blodstänkt mucus,
+  * kan ses efter rektal undersökning
+* **abdominell distension + chock**
+
+
+
+***Handläggning***
+
+* ***Prompt diagnosis***
+* ***Vätskersättning:*** prompt resuscitation med vätska. 
+* ***Reduktion av invaginationen***: detta måste ske asap
+
+
+
+***Behandling***
+
+* ***Reduktion***
+  * Rectal air insufflation: om inte peritonit förekommer
+  * ***Kirurgi***: indicierat om air insufflation eller om peritonit
+
+
+
+## Kardiologi 
+
+### Hjärtstopp
+
+***Etiologi och patofysiologi***
+
+* ***HYPOXI:*** vanligaste orsaken bland vuxna är ischemisk hjärtsjukdom, men hos barn med friska hjärtan är orsaken till hjärtstopp ***sekundärt till hypoxi fr respiratorisk eller neurologisk svikt eller chock***. 
+* ***Sekundärt till***
+  * Respiratorisk svikt
+  * Chock
+  * Neurologisk svikt 
+
+***Handläggning***
+
+* Basal livsuppehållande hjälp behövs direkt
+
+<img src="./imgs/wet_flag.png" alt="wetflag" style="zoom:50%;" />
+
+### Hjärtdefekter
+
+#### Ventricular septal defect (VSD)
+
+
+
+***Presentation***
+
+* A 1-month-old female infant is seen in your office for a routine health maintenance evaluation. On examination, you hear a grade 4 holosystolic murmur at the left sternal border. Femoral pulses and oxygen saturation in room air are normal. The infant is otherwise well and growing normally. Which of the following statements regarding this patient’s condition is correct?
+* You see a 7-week-old male infant with cough and poor feeding. Examination reveals a respiratory rate of 72 breaths/minute and a heart rate of 170 beats/minute. His weight is 7 pounds 6 oz, just 2 oz more than his birth weight. You hear diffuse rales throughout the lung fields and a systolic murmur on auscultation. The liver is 4 cm below the right costal margin. Which of the following conditions is the most likely cause of his signs and symptoms?
+
+
+
+***Etiologi och patofysiologi***
+
+* Defect in the septum that divides the right and left ventricles
+* Most common congenital heart defect
+* Associated with fetal alcohol syndrome
+* Results in left-to-right shunt; 
+* size of defect determines extent of shunting and age at presentation
+* Small defects are often asymptomatic; 
+* large defects can lead to Eisenmenger syndrom
+* Treatment involves surgical closure; 
+* small defects may close spontaneously
+
+
+
+
+
+***Kliniska kännetecekn***
+
+* This patient’s murmur is consistent with a small ventricular septal defect (VSD). With a small VSD, a patient is likely to remain asymptomatic with normal growth and development. Typically, the smaller the VSD, the louder the murmur. Small muscular or membranous VSDs may close on their own without intervention. Small VSDs do not generally result in congestive heart failure or in Eisenmenger syndrome. A patent ductus arteriosus would more commonly present with a machinery-like continuous murmur at the upper left sternal border. Balloon valvuloplasty is not indicated for a VSD.
+* This patient’s signs and symptoms are consistent with congestive heart failure (CHF). Forms of congenital heart disease that increase pulmonary blood flow, obstruct outflow, or overload portions of the heart through valvular regurgitation are among the many causes of CHF. Of the choices listed, only a large ventricular septal defect, which has a large left-to-right shunt with increased pulmonary blood blow, would cause CHF in a child of this age. Atrial septal defects, small patent ductus arteriosus defects, and mild to moderate pulmonary stenosis do not typically cause CHF. Critical or severe aortic stenosis may cause CHF, but this usually occurs within 24 hours of birth.
+
+
+
+
+
+
+
+#### Atrial septal defect (ASD)
+
+* Defect in the septum that divides right and left atria; most common type is ostium
+  secundum (90% of cases).
+* Ostium primum type is associated with Down syndrom
+* Results in left-to-right shunt and split S2 on auscultation (increased blood in right
+  heart delays closure of pulmonary valve)
+* Paradoxical emboli are an important complicatio
+
+
+
+#### Patent ductus arteriosus (PDA)
+
+* Failure of ductus arteriosus to close; associated with congenital rubella
+* ***left-to-right shunt***: between the aorta and the pulmonary artery
+* During development, the ductus arteriosus normally shunts blood from the
+  pulmonary artery to the aorta, bypassing the lung
+* Asymptomatic at birth with continuous 'machine-like' murmur; may lead to
+  Eisenmenger syndrome, resulting in lower extremitets cyanosis
+* ***Behandling:*** indomethacin, which decreases PGE, resulting in PDA closure
+* (PGE maintains patency of the ductus arteriosus).
+
+
+
+#### Tetralogy of fallot
+
+* Characterized by (1) stenosis of the right ventricular outflow tract, (2) right
+  ventricular hypertrophy, (3) VSD, and (4) an aorta that overrides the VSD
+* Right-to-left shunt leads to early cyanosis; degree of stenosis determines the extent of
+  shunting and cyanosi Patients learn to squat in response to a cyanotic spell; increased arterial resistance
+  decreases shunting and allows more blood to reach the lung* ~
+* 'Boot-shaped' heart on x-ray (Fi* 8.10)
+
+
+
+#### Transposition of the great vessels
+
+***Presentation***
+
+* A 20-month-old boy with tetralogy of Fallot is admitted for evaluation of cyanosis that is increasing in frequency. As you conclude your history and physical examination, you witness an episode of cyanosis when the patient’s brother makes him cry. As the crying increases, the patient becomes more and more cyanotic. On examination, his cardiac murmur is now much softer than before he began crying. What is the next most appropriate step in management?
+
+
+
+
+
+* Characterized by pulmonary artery arising from the left ventricle and aorta arising
+  from the right ventricle
+* Associated with maternal diabetes
+* Presents with early cyanosis; pulmonary and systemic circuits do not mi Creation of shunt (allowing blood to mix) after birth is required for surYiva* * 
+* PGE can be administered to maintain a PDA until definitive surgical repair is
+  performe* * Results in hypertrophy of the right ventricle and atrophy of the left ventricle
+
+
+
+***Behandling***
+
+* ***Knee-chest position***
+  * Tetralogy of Fallot (hypercyanotic or “tet”) spells are defined as paroxysmal episodes of hyperpnea, irritability, and prolonged crying that result in increasing cyanosis and decreasing intensity of the heart murmur. This condition is often triggered by crying. Initial management is to increase systemic vascular resistance by placing the patient in a knee-chest position. Other therapeutic modalities include the administration of morphine sulfate, sodium bicarbonate, and intravenous fluids and the use of oxygen. Mechanical ventilation in combination with general anesthesia may be effective but would only be used when other management options fail to reverse the cyanosis. Dopamine and epinephrine are contraindicated because they may worsen the spell. A cardiology consultation may be useful, but the acuity of the patient’s clinical presentation requires immediate intervention
+
+
+
+
+
+#### Truncus arteriosus
+
+***Presentation***
+
+* You are called to the newborn nursery to evaluate a 2-hour-old newborn who has suddenly become cyanotic. The oxygen saturation on room air is 69%, and the patient is tachycardic and tachypneic. Oxygen is administered without improvement in the patient’s oxygen saturation. On examination, you hear a loud S 2 and no murmur. A chest radiograph shows increased pulmonary vascular markings, a narrow mediastinum, and a small heart. Which of the following would be the next step in management?
+
+
+
+
+
+* ***Diffa mot ductus arteriosus***
+* Characterized by a single large vessel arising from both ventricles
+* Truncus fails to divide
+* Presents with early cyanosis; deoxygenated blood from right ventricle mixes with
+  oxygenated blood from left ventricle before pulmonary a nd aortic circulations
+  separat
+
+
+
+***Behandling***
+
+* Akut
+  * Infusion prostaglandin E (PGE): 
+    * detta för att vid transposition of the great vessels är de stora kärlen pulmonalis och aorta, i parallel och inte i serie, vilket innebär att d et är ductus arteriosus som måste hållas öppet för att shunta blod
+    * för att hålla den öppen ger vid dräför prostaglandin E (PGE)
+
+
+
+
+
+#### Tricuspid atresi
+
+***Presentation***
+
+* You are called to the nursery to evaluate a male newborn with cyanosis. On auscultation, you hear a single S 2 but no murmur. Pulse oximetry shows an oxygen saturation of 72% in room air. An electrocardiogram reveals left axis deviation and left ventricular hypertrophy. What is his likely diagnosis?
+
+
+
+
+
+* Tricuspid valve orifice fails to develop; right ventricle is hypoplasti* * Often associated with ASD, resulting in a right-to-left shunt; presents with early
+  cyanosi
+
+
+
+***Etiologi och patofysiologi***
+
+* Pathophysiology. Whether a VSD is also present plays a significant role in determining
+  the clinical presentation.
+  a. If no VSD is present and the ventricular septum is intact, pulmonary atresia is also
+  present. For blood to flow to the lungs in this situation, a PDA must be present. As
+  the PDA constricts after birth, visible cyanosis develops.
+  b. If a VSD is present, blood flow from the left ventricle through the VSD and into the
+  pulmonary artery (left-to-right shunt) may be adequate, facilitating acceptable
+  systemic oxygen saturations (Figure 8-8).
+
+
+
+#### Coarction of the aorta
+
+***Presentation***
+
+* A 10-year-old girl is seen for a routine health maintenance evaluation. Five years ago, she underwent surgical repair of coarctation of the aorta. On examination, the blood pressure in her right arm is 173/81 mm Hg, and her oxygen saturation is 97% in room air. Auscultation reveals a systolic ejection murmur audible throughout the precordium. The patient is otherwise asymptomatic. Which of the following would be the most appropriate next step in management?
+
+
+
+
+
+* Narrowing of the aorta; classically divided into infantile and adult forms
+* Infantile form is associated with a PDA; 
+  * coarctation lies after (distal to) the aortic arch, but before (proximal to) the PD
+  * presents as lower extremity cyanosis in infants, often at birth
+* Associated with Turner syndrome
+* Adult form is not associated with a PDA; coarctation lies after (distal to) the aortic
+  arc Presents as hypertension in the upper extremities and hypotension with weak
+  pulses in the lower extremities; classically discovered in adulthood
+* Collateral circulation develops across the intercostal arteries; engorged arteries
+  cause 'notching' of ribs on x-ray (Fi* 8.11 B).
+* Associated with bicuspid aortic valve
+
+
+
+
+
+***Handläggning***
+
+* Auskultation alla extremiteter
+  * Restenosis is a known complication from repair of coarctation of the aorta, and these clinical features are consistent with restenosis. Patients with coarctation of the aorta classically present with hypertension in the right arm, and commonly in the left arm, and reduced blood pressures in the lower extremities. Therefore, the most appropriate initial step in this patient would be to obtain blood pressures in all four extremities. Balloon angioplasty with or without endovascular stenting is the treatment of choice for restenosis, rather than surgical repair, after the patient undergoes a complete evaluation. Confirmation of a bicuspid aortic valve is important because it may accompany coarctation in up to half of patients; however, it is not the most appropriate initial step in this patient’s management. The oxygen saturation is normal in room air and therefore does not require reassessment in 100% oxygen. Given the significantly elevated blood pressure, it is not appropriate to wait 6 months for reevaluation.
+
+
+
+
+
+#### Perikardit
+
+
+
+***Presentation***
+
+* A 7-year-old boy presents with a 3-day history of fever (temperature to 39.7°C [103.5°F]), shortness of breath, and weakness. He also complains of chest pain, which is most intense when he lies down and improves when he sits upright. His past medical history is significant for closure of a ventricular septal defect 2 weeks ago. Which of the following findings is consistent with the most likely diagnosis?
+
+
+
+***Kliniska kännetecken***
+
+* This patient’s clinical presentation is most consistent with pericarditis. The likely cause of his pericarditis is postpericardiotomy syndrome, given the recent closure of his ventricular septal defect before the onset of his symptoms. Postpericardiotomy syndrome is believed to be an autoimmune response to a concomitant viral infection and is associated with opening of the pericardium during cardiac surgery. Pulsus paradoxus, or a greater-than-10 mm Hg drop in systolic blood pressure on deep inspiration, is found in patients with pericarditis. Splinter hemorrhages are noted in patients with endocarditis, which is also associated with fever. Supraventricular tachycardia, which would present as a rapid heart rate with absent P waves on electrocardiogram, may cause chest pain, but the pain would not change with position and fever would be absent. Prolonged QT syndrome is most often associated with syncope and sudden cardiac arrest. Costochondritis is a common cause of chest pain, but fever is not associated with this diagnosis.
+
+
+
+
+
+
+
+#### Misc
+
+***Antibiotikaprofylax förhindra endokardit***
+
+* A 4-year-old boy is in the office for a routine health maintenance evaluation. His examination is normal except for multiple deep dental cavities. You plan on referring him for dental evaluation and possible dental extraction. His mother reminds you that he has a “heart condition.” Which of the following cardiac conditions requires antibiotic prophylaxis against endocarditis?
+  * Before any invasive procedures that may result in bacteremia, prophylaxis against bacterial endocarditis is required for any patient who had structural heart disease repaired within the past 6 months. Patients with uncomplicated Kawasaki disease and cardiac dysrhythmias, including Wolff–Parkinson–White syndrome, or with acyanotic structural heart defects, such as patent ductus arteriosus, do not require antibiotic prophylaxi
+
+
+
+
+
+## Klinisk Genetik
+
+### Downs syndrom
+
+***Kliniska kännetecekn***
+
+* Duodenal atresi: associeras med klinisk genetik,
+
+
+
+
+
+### Pataus syndrom
+
+***Etiologi och patofysiologi***
+
+* Trisomi 13
+
+
+
+***Kliniska kännetecken***
+
+* Holoprosencfali
+
+
+
+
+
+
+
+
+
+## Metabolism
+
+### Homocysteinuri
+
+***Kliniska kännetecekn***
+
+* Koagulation
+
+
+
+
+
+## MISC
+
+### Scrotal swelling
+
+***Differentialdiagnoser***
+
+* Flera diffar till skrotal uppsvällning
+* ljumskbråck
+* henoch-schönleins purpura
+* hydrocele
+* tumör
+
+
+
+
+
 ## Neurologi
 
 ### Ataxia telangectesia
@@ -3136,56 +3224,6 @@ Other:
 
 
 
-## Klinisk Genetik
-
-### Downs syndrom
-
-***Kliniska kännetecekn***
-
-* Duodenal atresi: associeras med klinisk genetik,
-
-
-
-
-
-### Pataus syndrom
-
-***Etiologi och patofysiologi***
-
-* Trisomi 13
-
-
-
-***Kliniska kännetecken***
-
-* Holoprosencfali
-
-
-
-## Metabolism
-
-### Homocysteinuri
-
-***Kliniska kännetecekn***
-
-* Koagulation
-
-
-
-
-
-## MISC
-
-### Scrotal swelling
-
-***Differentialdiagnoser***
-
-* Flera diffar till skrotal uppsvällning
-* ljumskbråck
-* henoch-schönleins purpura
-* hydrocele
-* tumör
-
 
 
 ## Ortopedi
@@ -3210,275 +3248,6 @@ Other:
 
 
 
-## Farmakologi
-
-### Intoxikation
-
-***Epidemiologi***
-
-* 60% av alla intoxer i barn sker under 6 år
-* 90% av intoxerna är accidentala; majoriteten hemma när vårdnadshavare är distraherad
-* flesta ämnen intas oralt av barnen. men kan inhaleras, spillas på hud eller ögon, eller injiceras intravenöst
-* mortalitet är under 1%
-
-
-
-***Etiologi och patofysiologi***
-
-* **Vanligaste toxin exponeringen är hushållsprodukter**:
-  * flesta exponeringarna: kosmetika, personal care products
-  * rengöringsmedel
-  * hostmedel eller förkyulningsmedel
-  * vitaminer, inklusive järn
-  * **analgetika**: paracetamol, NSAID, ASA
-  * **växter**: 6-7% av alla oralt intagna intoxer...
-  * **alkohol**: etanol,
-  * **hydrocarons**: gasoline, paint thinner, furniture polish
-  * kolmonoxid
-  * förskrivna läkemedel
-
-
-
-***Kliniska kännetecken för olika toxiner***
-
-* **Dofter**
-  * Bitter mandel: cyanid
-  * vitlök: arsenik, organofosfater
-  * aceton: salicylater, isopropyl alkogol
-  * wintergreen: metyl salicylater
-  * moth ball: camphor
-* **Hud tecken**
-  * Cherry red color, cherry röd: kolmonoxid, cyanid
-  * svettig: organofosfater, sympatomimetika (sympathomimetics)
-  * torr hud: antikolinergika
-  * urtikaria: allergisk reaktino
-  * grå cyanos: methemglobinemi
-* **ögon**
-  * **miosis:** opiater, phencyclidiner, organofosfater, phenothiazines
-  * **mydriasis**: amfetaminer, kokain, tricykliska antidepressiva, atropin
-  * **nystagmus**: dilantin, phencyclidine
-  * **retinala blödningar**: kolmonoxid, metanol
-* **allmäntillstånd**
-  * **feber**: kokain, TCA, phencyclidine, salicylater, thyroxin, antikolinergika, amfetaminer, teofyllin
-
-
-
-***Utredning***
-
-* ***Tänk på intox***: hos patienter som presenterar med **icke-specifia tekcen och symptom**
-  * kramper
-  * svår kräkning
-  * diarre
-  * dysrytmi
-  * förändrat sinnestillstånd, mental status
-  * abnormt beteende
-  * chock
-  * trauma
-  * icke-förklarad metabol acidos
-* ***Anamnes***: fr vårdnadshavare typiskt sett identifierar intoxer
-  * info om toxinet: bör inkludera namnet, toxin koncentration om känt, och hur pat exponerats
-  * potentiell intox-dos räkanas fr **worst-case scenario**
-    * toxicitet är vanligtvis på basis av dos per kg kroppsvikt
-  * **multipla ämnen eller medel hos ungdomar (adolescents)**
-  * **Bakgrundsinfo**: plats där upptäckt patienten, växter, vitaminer, herbs, kemikalier hemma, tid som det skett
-  * läkemedel
-* ***Status***: bör täcka allt, kan ge tecken på intoxmedel, 
-* ***Labb***:
-  * **screening**: glukso, u-tox, elektrolyter
-  * **blodgas**
-  * **anjon-gapet**: [Na - (cl + hco3)]
-  * **Akuta intoxprover enligt lokala rutiner** (etanol, metanol, paracetamol, aceton m m)
-  * **Biologiska alkoholmarkörer** vid misstanke om alkoholmissbruk (PEth, CDT)
-  * **Drogscreening** av narkotika i urinprov (på patienter med KAD)
-  * **Riktade toxikologiska prover** (urin, serum, ev hår naglar)
-  * **Täta kontroller av elektrolytstatus** (rutinstatus)
-  * **Arteriella blodgaser med syra-basstatus** (inklusive laktat, CO-Hb, Met-Hb)
-  * **SvO2 och laktat** vid misstanke om **cyanidförgiftning** eller **grav hjärtsvikt**
-  * **B-glukos**
-  * **Myoglobin i serum (rabdomyolys**)
-  * **Hjärtenzymmarkörer** vid **kolmonoxidförgiftning** eller EKG-förändringar eller hjärtischemi plus CO-Hb
-  * **Spara och frys ett extrarör med venblod** (serum) från inkomsten för kompletterande diagnostik i oklara eller mycket allvarliga fall
-
-
-
- ***Handläggning***
-
-* ***Allmänna saker att tänka på***
-  * **övervaka**: vakenhet, andning
-  * **understödja**: andning, cirkulation, vb
-  * **behandla**: akut förvirring, motorisk oro på ett lugnt säkert sätt
-  * **identifiera tox agens**
-  * **aktiv elimination, vid indikation**: ventrikeltömning, medicinskt kol, dialysbehandling. så länge nyttan överväger riskerna
-  * **antidotbehandling, vid tydlig indikation**
-  * **vårdnivå**: korrket vårdnivå för att korrekt handlägga evt sänkning medvetande etc
-  * **uppföljning socialtjänst + psykiatri**
-* ***Akut omhändertagande***
-  * **ABCDE**: följ denna algoritm och allt vad det leder till, med syrgas, EKG, saturation, etc
-  * **infarter:** pvk, gärna två infarter
-  * **artärnål, när medvetslös, acidos, cirkpåverkan**
-  * **cvk, nämns internetmed**
-
-<img src="./imgs/ped_samman_vgcE5eb6o5.png" alt="vgcE5eb6o5" style="zoom: 67%;" />
-
-
-
-***Anjon-gapet***
-
-* ***ökat anjon-gap***: AMUDPILES mnemonic
-  * Alkohol
-  * metanol
-  * uremi
-  * diabetesketoacidos
-  * paraldehyd
-  * iron
-  * isoniazind
-  * laktacidos
-  * etylene glykol
-  * salicylater
-
-
-
-***Behandling***
-
-* **Ventrikeltömning**
-  * **manuellt**: endast småbarn, initialskedet
-  * **ventrikelsköjning, grov sond gm munnen**
-* **Aktivt kol**
-  * **manuellt eller pipmugg**
-  * **deponerat** (instillerat) i magen via ventrikelsond upplöst i vatten
-
-
-
-
-
-
-
-<img src="./imgs/ped_samman_ddV9taWyoe.png" alt="ddV9taWyoe" style="zoom: 67%;" />
-
-<img src="./imgs/ped_samman_cZwgCMdoZq.png" alt="cZwgCMdoZq" style="zoom:50%;" />
-
-
-
-<img src="./imgs/ped_samman_eKk4738Yr0.png" alt="eKk4738Yr0" style="zoom: 67%;" />
-
-
-
-<img src="./imgs/ped_samman_7PwJesI7Hs.png" alt="7PwJesI7Hs" style="zoom: 67%;" />
-
-
-
-<img src="./imgs/ped_samman_JiRUw4J4bK.png" alt="JiRUw4J4bK" style="zoom: 67%;" />
-
-
-
-
-
-<img src="./imgs/ped_samman_YIBeXyLTzH.png" alt="YIBeXyLTzH" style="zoom: 67%;" />
-
-
-
-
-
-### Intox paracetamol
-
-***Presentation***
-
-* Du är akutjour på barnakuten. Anna, 1,5 år inkommer med sin mormor. Hon har hittat Anna sittandes på golvet i badrummet lekande med en öppnad burk kapslar Panodil (paracetamol 500mg). Du undersöker Anna som är glad och opåverkad. Mormor har ingen aning om hur många tabletter som fanns i burken, och det går inte att utesluta att Anna fått isig tabletter.
-  * inläggningsfall, leverprover
-  * antidot: acetylcystein för att undvika leversvikt
-* Du är akutjour på barnakuten en torsdagkväll. Med ambulans kommer en 16-åriga Frida som är ledsen och luktar sprit. Enligt bästa kompisen som har larmat ambulansen har Frida SMS:at tidigare ikväll att hon inte längre vill leva. Frida, som är vaken och svarar på tilltal, berättar att hon för ungefär fyra timmar sedan tagit en massa värktabletter hon köpt på ICA och sköljt ned det med sprit från en dunk som pappa köpt av en kompis. a) När du har förvissat dig om att ABC är ok ordinerar du intoxikationsprover från infarten som ambulansen satt. 
-  * **Vilka substanser är de viktigaste att fråga efter i det här läget (ange 4 st)? (1p)**: paracetamol, etanol, metanol, ASA (enl tentadok)
-  * acetylcystein mot värktabletten, motverkar leverskador om ges innan paracetamolet brytits ned...
-  * utöver bakjour, andra kontakter: BUP, Socialtjänsten, föräldrar (enl tentadokument)
-
-
-
-***Kliniska kännetecken***
-
-* **Tid efter intag**
-  * **30min-24h**: asymptomatisk, eller kräkningar och diarre
-    * buksmärtor, ibland mer lokaliserat i övre högre kvadranten
-    * illamående, kräk, diarre
-    * takykardi
-    * medvetandepåverkan,
-  * **18-25h:** 
-    * minskad symptom
-    * ASAT och ALAT höjning
-    * stegring av PKINR
-    * blodlaktatstegring 2-3mM. 
-  * **24-72h**: gastrointestinala symptom resolve; vid 36timmar lever transaminaser stiger (ASAT,ALAT)
-  * **72-96h**: levernekros, hepatisk nekros, ikterus, hypoglykemi, laktacidos, leverencefalopati, koagulopati, eller njursvikt
-  * **4d-2v**: resolution av symptom, progressiv leverskada kräver levertransplantation eller död
-
-<img src="./imgs/ped_samman_JiRUw4J4bK.png" alt="JiRUw4J4bK" style="zoom: 67%;" />
-
-***Differentialdiagnoser***
-
-* Gastroenterit
-* gastrit
-* hepatit
-* pankreatit
-* svampförgiftning
-
-
-
-***Handläggning***
-
-* ***Anamnes***
-* **Status**
-  * ABCDE
-* ***Labb***
-  * EKG
-  * S-paracetamol
-  * Blodstatus (Hb, LPK, TPK)
-  * Leverstatus (ASAT, ALAT)
-  * Koagulationsstatus (PK-INR, aPTT)
-  * Elektrolytstatus
-  * P-glukos
-  * S-amylas
-  * Venös eller arteriell blodgas (blodlaktat kan vara förhöjt vid allvarlig förgiftning)
-* **Monitorering**
-  * Daglig och v b uppföljning av:
-    - Leverstatus (ASAT + ALAT + PK-INR)
-    - Elektrolytstatus
-    - Syra-bas inklusive blodlaktat (4-5)
-    - Koagulationsstatus
-    - Vätske- och elektrolytbalans
-  * P g a risken för blandintoxikation skall ALLA intoxikationer monitoreras initialt med avseende på vitalparametrarna: 
-    - Andning
-    - Cirkulation
-    - Vakenhet
-  * **S-paracetamol mätningar:** Tänk också på att ett normalt eller lätt förhöjt S-paracetamol kan ha varit högt och på väg ner, eller är på väg att stiga.
-
-
-
-***Behandling***
-
-* Acetylcystein iv
-  * *Acetylcystein behandling vid icke-depotpreparat när s-paracetamol saknas:* Starta behandling, ge först 200 mg/kg kroppsvikt i 500 ml glukos 50 mg/ml eller isoton NaCl under 4 timmar (50 mg/kg/timme) och därefter 6,25 mg/kg/timme under 16 timmar eller längre. Ring GIC om oklarhet, 010 456 67 00.
-  * *Acetylcystein vid behandling av icke-depotpreparat ges enligt nedan när svar på s-paracetamol finns:* Acetylcystein insätts om s-paracetamol ligger > 1000 mikromol/l vid 4 timmar, 700 mikromol/l vid 6 timmar, 500 mikromol/l vid 8 timmar och 350 mikromol/l vid 10 timmar efter överdosering. Ring GIC vid oklarhet/osäkerhet, 010 456 67 00.
-  * *Acetylcystein vid överdosering av depotpreparat:* Exempelvis Alvedon 665 mg. Ge 200 mg/kg kroppsvikt i 500 ml isoton glukos eller NaCl-lösning under 4 timmar. Därefter underhållsbehandling med acetylcystein 12,5 mg/kg/timme under minst 20 timmar. 150 mg/kg löses i 500 ml under varje 12 timmars period. Innan acetylcysteinbehandlingen avslutas skall s-paracetamol kontrolleras och inte vara påvisbart.
-* ***Ventrikeltömning och medicinskt kol***
-  * Ventrikeltömning samt medicinskt kol eller enbart medicinskt kol (Kolsuspension 150 mg/ml, 100 ml) kan bli aktuellt. 
-    * **Kortare tidsintervall = bättre:** Dessa åtgärder är dock mer effektiva ju kortare tidsintervall det föreligger mellan tablettintag och inkomst till sjukhus.
-  * **relativ kontraindikationer:** mot kol är risk för aspiration vid exv kräkning och medvetandepåverkan.
-  * Överväg ventrikelsond vb.
-  * **acetylcystein ge ej medicinskt kol:** Rekommendationen är dock att antidot alltid bör ges intravenöst.
-* Elektrolytkorrektion, korrektio acidos: Korrektion av elektrolytstörningar och eventuell acidos
-* Undvik hypoglykemi
-* Upprätthåll god diures. Timdiures v b
-* Motverka hypotension
-* Undvik hypoxi
-* Antibiotika vid minsta misstanke om infektion
-
-### Intox petroleumprodukter
-
-***Behandling***
-
-* **Kontraindicerat**
-  * ventrikelsköljning/kräkning kontraindik: risk aspiration lungor, kemisk pneumoni
-* ***drick grädde istället.***
-
 
 
 
@@ -3497,3 +3266,267 @@ Other:
 ***Utredning***
 
 * HEADS: Home, education, activities, drugs, sex
+
+
+
+
+
+## Reumatologi
+
+### Svullet knä
+
+***Presentation***
+
+* Stina är 6 år och har sedan 1 vecka haft ett svullet höger knä. Hon har ingen feber. Hon harhaft  svårt att gå och haltar. Pappa har psoriasis men Stina har inga hudbesvär. Anger ingensmärta i vila. I status: gott AT, afebril. Hon har svullnad runt patella höger knä, ingen rodnadmen värmeökning jämfört med framsidan av underbenet. Har en extensions och flektionsdefektpå ca 20 grader i hö knä. Status i övrigt är utan anmärkning inkl hud.Vilken diagnos är minst sannolik med ovanstående anamnes och status?
+  * **Sannolika diagnoser**
+    * **Reaktiv artrit)** 
+    * **JIA monoartrit**
+    * **Borrelia artrit**
+    * **Psoriasis artrit**
+  * **Detta är ingen: Septisk artrit**
+
+
+
+Ataxic cerebral palsy is due to [...] damage.
+
+
+
+
+
+### JIA
+
+***Presentation***
+
+* Du sitter på en barnläkarmottagning och Anna 4 år kommer till din mottagning. Hon har haft ett svullet höger knä och en svullen vänster fotled i många veckor. Hon är stel på morgonen och det tar ett par timmar innan hon har normal gång. Hon har en mormor som har ledgångsreumatism i övrigt inga reumatiska sjukdomar i närmaste släkten. Anna blev fästingbiten i somras men fick ingen ring runt bettet. I status kan du konfirmera anamnesen. Övrigt ledstatus är utan anmärkning Du misstänker en diagnos och beställer prover. Vilket alternativ stämmer bäst med din bedömning och plan:
+  * Juvenil idiopatisk artrit. Borreliaserologi, Blodstatus, CRP och SR, ANA
+
+
+
+
+
+## Pulmonologi
+
+
+
+### Allmänt
+
+
+
+### Respiratorisk svikt
+
+***Etiologi och patofysiologi***
+
+* Flera orsaker förekommer som skulle ge respiratorisk svikt
+* alveolär hypoventilation
+* diffusion påverkan
+* ***intrapulmonell shunting***: 
+* ventilation-perfusion mismatch
+
+
+
+### Cystisk fibros
+
+***Presentation***
+
+* 13mån pojke
+  * och är inlagd på barnavdelning för en pneumoni diagnosticerad medröntgen. 
+  * Petter har tidigare varit inlagd för en pneumoni vid 10 månaders ålder men efter den har han inte blivit riktigt bra i luftvägarna. 
+  * Han har blivit ordinerad luftrörsvidgande med misstänkt astma men har ändå inte blivit besvärsfri i luftrören. 
+  * Han har fallit i vikt 1,5 SD sedan 8 månaders ålder och han har fallit 1 SD i längd. 
+  * Blodstatus visar lätt anemi och lätt stegrade neutrofiler, CRP 130 mg/l. 
+  * När du lyssnar på hans lungor är det rikliga biljud från båda sidorna med slembiljud, rhonki och rassel. 
+    * Överläkaren frågar dig under ronden vad du misstänker för sjukdom: cystisk fibros
+    * Vilket/vilka prover vill du ta för att styrka din misstanke? Svettest, genotypning ev F-elastas
+    * ytterligare anamnes relevant fråga: hereditet? friska sjuka syskon
+
+
+
+***Kliniska kännetecken***
+
+En kort lista över kliniska manifestationer av CF: 
+
+* ***Luftvägar***:
+  * Bronchiectasi, bronkit, bronkiolit, pneumoni
+  * Atelektas
+  * Hemoptys
+  * Pneuomothorax
+  * Näspolypos
+  * Sinusit
+  * Reactive airway disease
+  * Cor Pulmonale
+  * Respiratory failure
+  * Mukusplug i bronker
+  * Allergisk broncopulmonell aspergillos
+* ***Gastrointestinal***:
+  * Mekonium ileus/plug
+  * Mekonium peritonit
+  * Rektal prolaps
+  * Volvulus
+  * Pankreatit
+  * Biliär cirros
+  * Steatos, Kolelitias, GERD, Vtaminbrist AKED
+  * Malabsorption
+* ***Misc***:
+  * Infertilitet
+  * Försenad pubertet
+  * Clubbing
+  * DM
+
+
+
+***Diagnos***
+
+* ***Svettest*** (Förhöjda klorinvärden i svett = positivt)
+* ***Genotypning***
+* ***Ev. F-elastas***
+
+
+
+***Utredning och anamnes***
+
+* Komplettera anamnes
+  * Hereditet, friska/sjuka syskon
+
+
+
+
+
+### Obstruktiv bronkit
+
+***Presentation***
+
+* Mustafa, 18 månader gammal, inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft
+  * ***Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)***
+  * ***Initial behandling på akuten:*** 
+    * syrgas + ventoline (ventoline pga allvarlighetsgraden) med optichamber
+    * utefter effekt kan man överväga steroider i form av betapred eller solu-cortef (solu-cortef om det är en svår obstruktivitet)
+    * sedan fortsätta med syrgas + ventoline
+    * utebliven förbättring: magnesiumsyulfat, överväga tillägg iv teofyllamin
+  * ***Efter sex timmars behandling på akuten blir han närmast helt symptomfri. Syresättningen har stigit till 99%. Modern önskar åka hem till övriga familjemedlemmar***
+    * **Airomir (saba) + inhalationssteroid**, som kommer att tas i en spacer/mask antagligen...
+    * detta ska följa ett förkylningsastma schema som han får fr akuten
+    * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
+    * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
+  * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
+
+
+
+
+
+
+
+
+
+## Vätskebalans
+
+### Allmänt
+
+* Nyfödda, under 1 mån:
+  * utgörs av 77% vatten. 
+  * ECV volymen är större än ICV volymen 
+* Över 1.5månader
+  * ICV volymen nu större än ECV volymen, som kommer att förbli resten av livet. 
+
+### Vätsketillstånd
+
+#### Chock
+
+***Kliniska kännetecken***
+
+* CRT
+* Puls
+* färg
+* medvetandegrad
+
+
+
+***Behandling***
+
+* Ringer-acetat: isoton vätska
+  * 20mL/kg, så snabbt det går på droppen och given pvk, vanligtvis 1mL/kg/min, så då tar det 10-20 mins för given PVK
+  * 10mL/kg:  prematurfött barn, under 44v gestationsålder...; trauma; hjärtsjd
+* upprepas om cirkulationen är ej tillfredställande efter given vätska
+* överväg albumin om tredje bolus vätska behövs. 
+
+
+
+#### Dehydrering
+
+***Kliniska kännetecken***
+
+* Färg
+* Gråter utan tårar
+* Slemhinnor
+* Urinproduktion
+
+***Behandling***
+
+* ***Uppvätskning, rehydrering, ersätta***: Detta innebär att man ersätter förlorad volym vätska
+  * ORS (oral rehydration solution, aka vätske ersättning, aka VES): 
+  * 5% av kroppsvikten över 4 timmar. 
+  * sedan reevaluering av vätskestatus
+* ***Underhållsbehandling***: 
+  * ***Peroral form***: Då är patienten tillräckligt adekvat för att ta drycken sj, eller att det sker via sond
+    * 0-6mån: 150mL/kg/d
+    * 6-12mån: 125mL/kg/d
+    * \>12mån: 100mL/kg/d
+    * Då är det i form av näringsdrycker, välling etc, som barnet kan ta vid given ålder
+  * ***Intravenös form***: att pat har en infart som man kan vätska upp med
+    * Plasmalyte glukos, 5% glukos, 140mM Na, 20mM Kalium
+    * 0-10kg: 100mL/kg/d
+    * 10-20kg: 1000mL + 50mL per kg över 10kg
+    * \> 20kg: 1000mL + 20mL per kg över 20kg
+
+#### Hyperton dehydrering
+
+***Definition***
+
+* Na ≥ 150 mmol/L. 
+* Svår hypernatremi: ≥ 170 mmol/l
+
+***Typfallet uppkommer***
+
+* ej färdigutvecklad  njurfunktion –d v s patienter  <1 år
+* långdragen gastroenterit(>3-4 d)
+* stor viktnedgång  (>10%) 
+* sedan  införande  av rotavirusvaccinet  i det nationella  programmet  2019   har antalet  fall  av hypertondehydreringminskat  påtagligt  i Sverige
+
+
+
+***Mekanism***
+
+* innebär förlust kroppsvatten: ***inte primärt elektrolyter***
+* ***intialt*** sker extravasal vattenförlust, med resulterande hög natriumkonc i ECV
+  * e.g. diarre
+* ***sekundärt***: vandrar vatten fr ICV t ECV, med sekundär ICV dehydrering som följd
+* ***osmotiska partiklar***: bildas i kroppen, varför vattenflöden mellan ICV o ECV upphör
+* ***Resuktat***: förlust kroppsvatten, o ett hyperosmolärt tillstånd både extracellulärt och intracellulärt
+
+### fall - vätskebehov
+
+#### Alex 9kg  
+
+* ***Undet det akuta skedet***: Ringer-Acetat, iv bolus, 180mL (20mL/kg)
+* Under de nämaste timmarna: Ringer-acetat iv, 450mL/4h
+* Under det kommand dygnet: plasmalyte glukos, iv, 100mL x 9 = 900mL/24h
+
+
+
+#### Miriam 5kg
+
+* Undet det akuta skedet: behöver ingen bolus...
+* Under de nämaste timmarna: sond ORS, 250mL/4h
+* Under det kommand dygnet: sond, bröstmjölk, ersättning: 150mL x 5 = 750mL/24h
+
+
+
+#### Spädbarn gosse
+
+Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cirkulationssvikt är avgörande för valet av behandling. En tidigare frisk ettårig gosse som väger 10 kg har inkommit till barnakuten där du vikarierar med symptom förenliga med en viral gastroenterit. Han har stora förluster och är hängig. Han har en kapillär återfyllnad på 4 sekunder och läpparna är torra
+
+* Bolus Ringeracetat iv 200 ml följt av Ringeracetat iv 5% av vikten på 4 timmar
+  * efter dett ska han ha plasmalyteglukos i underhållsbehandling
+  * 1000mL plasmalyte 5% glukos, över 24 timmar, in accord med att det är 100mL/kg mellan 0-10kg
+
+
+

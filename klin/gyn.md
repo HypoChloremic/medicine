@@ -213,17 +213,15 @@ cerivicit
 ***Behandling***
 
 - Infusion inleds med 20mL/h
-
 - infusionshastighet ökas med 20mL var 20e-30e minut tills adekvat värkar
-
 - eftersträva 
-
 - - i öppningsskede 4-5 värkar/10min, med misnt 60s lpays mellan,
   - utdrivningsskede max 5värkar/10min med minst 45-50s paus mellan
-
 - anpassa dos efter individuell respons o använd minsta möjliga effektiva dos
 
-- 
+
+
+
 
 ## Cancer
 
@@ -233,7 +231,7 @@ cerivicit
 
 ***Etiologi och patofysiologi***
 
-* Orsak till död hos endstage: njursvikt (nefrostomi tuber minskar risken)
+* **Orsak till död hos endstage**: njursvikt (nefrostomi tuber minskar risken)
 
 
 
@@ -245,6 +243,10 @@ cerivicit
 * näst vanligaste cancerformen globalt
 * 18e vanligaste cancerformen i Sverige
 * upptäcks vid screening 50%
+
+
+
+<img src="./imgs/gyn_sam_160321_ZusmGIMogL.png" alt="ZusmGIMogL" style="zoom: 33%;" />
 
 
 
@@ -361,6 +363,179 @@ cerivicit
 
 * diagnosen baseras på NCCN: national comprehensive network clinical criteria
 * UL och eller EB och eller hysteroskopi
+
+
+
+### Dysplasi
+
+<img src="./imgs/gyn_sam_160321_DscfnZFfC5.png" alt="DscfnZFfC5" style="zoom:50%;" />
+
+
+
+***Presentation***
+
+* **Pia, 31år** 
+  * 2 grav 2 para, senaste partus 2013. Hade cellförändringar för 10 år sedan, går på årliga kontroller hos sin gynekolog, sista kontroll för 1 år sedan. 
+  * Cytologi ua.Söker i juli 2014 pga illaluktande blodtillblandade flytningar. Bilden och PAD visade invasiv cervix cancer lågdifferentierad, stad 1B1
+  * <img src="./imgs/gyn_sam_160321_JM7xKMoIg8.png" alt="JM7xKMoIg8" style="zoom:50%;" />
+
+
+
+***Etiologi och patofysiologi***
+
+* **HPV, omogna celler, i metaplastisk område**: HPV når lättast de omogna celler i det metaplastiska området
+* **Sexuellt aktiv**: alla sexuellt aktiva kvinnor löper risk att bli smittade med onkogent HPV
+* **HPV smittar lätt vid sexuella kontakter**
+* **80% sexuellt aktiva kvinnor** ngn gg infek m HPV
+* **HPV kan överföras genitalt**: behövs inte genomfört samlag för att viruset ska överföras
+* **HPV16, HPV18:** infektioner med dessa är rel ovanligt
+  * 70% all cervixcancer
+  * 70% av de prcancerösa o 
+  * 50% av de potentiellt precancerösa cellförändringar i cervix
+
+
+
+| <img src="./imgs/gyn_sam_160321_jDkOZ9ay9v.png" alt="jDkOZ9ay9v" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_S3ViuI2udc.png" alt="S3ViuI2udc" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_zDLwSzKvWy.png" alt="zDLwSzKvWy" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_sam_160321_V4RZt4FVDD.png" alt="V4RZt4FVDD" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_VBhQ4WYPFq.png" alt="VBhQ4WYPFq" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_3ZxhGEm9WV.png" alt="3ZxhGEm9WV" style="zoom:50%;" /> |
+| <img src="./imgs/gyn_sam_160321_ilINTKFO3h.png" alt="ilINTKFO3h" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_kFKFkDo9ne.png" alt="kFKFkDo9ne" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_zEvXMi7yrU.png" alt="zEvXMi7yrU" style="zoom:50%;" /> |
+| <img src="./imgs/gyn_sam_160321_Wpm0QjuHdH.png" alt="Wpm0QjuHdH" style="zoom:50%;" /> |                                                              |                                                              |
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Kom ihåg***
+
+* Dysplasier symptomfria
+* Sens av cytologprov är 60% 
+* 25% av alla cx-fall har normal cytologi
+* cervixcancer pres med symptom
+* ett cytologprov vid utredning kan fördröja
+* Nya riktlinjer
+  * Nya svenska riktlinjer för HPV-screening finns, men är inte implementerade i klinisk praxis.
+  * I de nya riktlinjernahöjs den övre gränsen till 64 år. Cytologiscreening görs i åldrarna 23–29.
+  * HPV-screening inleds vid 32, fortsätter vart tredje år till 50 års ålder och sedan vart sjunde år. 
+  * Vid 41 föreslås screening med både HPV-test och cytologi. HPV-positiva kvinnor med normal cytologi ska hänvisas åter till screeningprogrammet med nytt prov efter tre år, och vid positivt test remitteras för utredning.
+  * Screeningintervall på minst fem år rekommenderas för god balans mellan nytta och risk för överdiagnostik och överbehandlin
+
+
+
+
+
+***Epidemiologi***
+
+* Sedan slutet av 60-talet finns screening program i alla Sveriges landsting
+* Sedan slutet av 1960-talet finns screning program i alla Sveriges landsting
+* Resulterade att antalet fall av livmoderhalscancer minskat med 60%
+* **incidens**: sjunker över tid
+* **screeningprogram**: suboptimal täckning,
+* **ett enda cytologiprov**: har begränsad mindre än 70% känslighet för höggadiga cellförändringar i livmoderhalsen
+* **Regelbundna**: kontroller behövs för bra screening prestanda
+* **Som avvikelser**: 8% av cellprov visar en avvikelse 2012 (54k prover); baserat på data fr NKCx årsrapport 2013
+* **Cellförändringar**
+  * LSIL 40%
+  * ASCUS 40%
+  * HSIL 16% 
+  * Körtelatypi 4%
+* **Cervixcancer drabbas idag**
+  * **HPV infekterade**
+  * **aldrig screenade**: 2:3 fall upptäcks varje år har aldrig varit på cellprovtagning
+  * **tidigare konsierade**: trots att radikalt exiderat cellförändringen; recidiv drabbar 10-15%
+  * **äldre kvinnor**
+* **Primär screening med HPV o vaccinatioer**: både tjejer o pojkar kommer ge nya möjligheter förebygga cervixcancer
+
+
+
+***Utredning och handläggning***
+
+* **Screening program...**
+  * 23-50åå kallas vart tredje år t mödravården för att ta ett prov
+  * o kvinnor mellan 50-64åå vart 7e år
+  * Syfte cellprovtagning: upptäcka tidg förändringar för att kunna behandla de i tid innan evt cancer 
+* **Utredning på mottagning**
+  * **Kolposkopi**: är visuell inspektion cervix med special low-magnification microscope, in search for abnormaliteter aiming to identify och ta sample fr atypiska site for biopsi
+  * **Riktade biopsier**
+  * Bedömning: vas sm orsakar cellatypin; hur evt behandling ska ske; ger allmänt lugnande info
+
+
+
+
+
+<img src="./imgs/gyn_sam_160321_IgFWcjWDZq.png" alt="IgFWcjWDZq" style="zoom:50%;" />
+
+
+
+***Behandling***
+
+* **Vid CIN**
+* **Destruktion**
+  * **Diatermi**: koagulering
+  * **Kryo**
+  * **Laser**: förångning
+* **Excision**
+  * **Diatermislynga / kniv**
+  * **Laser**
+  * **LEEP**: Loop Elektrosurgical Excision
+  * **LLETZ**: Large loop excision of the transformation zone (i Storbritannien)
+
+
+
+### Dysplasi, HPV
+
+***Etiologi och patofysioogi***
+
+* **Cirkulärt genom, 8kbp**
+* **3 regioner**: 
+  * LCR: long ctrl region
+  * Region of early proteins E1 t E7
+  * region of late proteins: L1 and L2
+* **Typer**: över 189 typer
+  * **40 infekterar slemhinnan** genitalt och eller oralt
+    * 15 högrisk typer
+    * resten lågrisk typer
+  * **60 infekterar hud**: Hudvårtor (händer, fötter)
+* **HPV-infektioner**: mycket vanliga, men för det mesta kortvariga; flesta HPV-infektioner går spontant tillbaka
+* **HPV onkogena proteiner E6/E7**: 
+  * **cervixcancer**: E6oE7 involverad i utv cervixcancer
+  * **samspel** tumörsupressor proteiner p53, pRB
+  * **E2** repressor funk för syntes E6 och E7
+  * **E2** bryts upp vid integration i värdcellens genom
+  * **E6 E7** mRNA translateras t E6 o E7 proteiner
+
+
+
+***Behandling***
+
+* **HPV-vaccin**: 
+  * **tillgängligt sedan 2006, Bivalent (cervarix, glaxosmithkline):** HPV16,HPV18
+  * **kvadrivalent (gardasil, merch and co):** HPV16,HPV18, HPV6, HPV11
+  * Ger ett ~70% skydd mot cervix cancer
+  * **innehåller virusliknande partiklar (VLP)** som består av ett tomt skal av protein
+  * **kapsidproteinet L1**: tillverkas av detta.
+  * **Ej levande vaccin**
+  * **Innehåller inte virus-DNA**, kan inte ge infek eller cancer
+  * **intramusk, deltoideus:** vaccinet ges IM vanligast Deltoideus
+* **HPV-vaccin 2dos adminstrering**
+  * **3dos tidg standard**
+  * **Sammantaget resultat**: titerkonc 2dos lägre än 3dos men inte sämre
+
+
+
+***Vaccinationsprogrammet***
+
+* **Skolvaccinationsprogrammet i Sverige**
+  * Organiserad vaccination mot HPV sedan 2011-2012
+  * Gardasil
+  * 11-12åå gratis vaccination i skolan
+  * födda 93-98 gratis vaccin övergångstid: catch-up vaccinering
+  * Jan 2015-2
+* **Framtid**: 9-valent HPV vaccin: 9 HPV typer, GK FDA 2014, 90% skydd cervixcancer
+  * infört Sverige 2017
+
+
 
 ### Endometriecancer
 
@@ -570,7 +745,7 @@ cerivicit
 
 **Riskreducerande operation**
 
-* **Hysterektomi och SOE**
+* **Hysterektomi och SOE** (salpingo ooforektomi)
 * **Risken för cancer minskar**: liten kvarstående risk att utveckla peritoneal carcinos
 
 * **SOE leder t besvärliga biverkningar**
@@ -749,17 +924,52 @@ cerivicit
 
 
 
-#### Myom
+### Myom
+
+
+
+***Presentera***
+
+* Kvinna rikliga blödningar + myom = ge hormonspiral
+
+
 
 ***Etiologi och patofysiologi***
 
-* **beingn glatt muskel tumör i uterus**
+* **benign glatt muskel tumör i uterus**
 * "**muskelknutor**"
-* **rikliga blödningar:** en mekanisk påverkan 
+* **rikliga blödningar:** en mekanisk påverkan på uterus eller lokala faktorer som åpverakr kärlbild eller koag, 
+
+
+
+***Kliniska kännetecekn***
+
+* Trycksymptom: trännignar, förstoppning, 
+* rikliga menstruationer: medför järnbristanemi
+* dyspareuni
+* några mm t mkt stora
+* oftast asymptomatiska 
+* tendens växa grav -> kan ge smärta ffa tidig grav
+* UL rundad struktur, vaerierad ekogenictet, kan förkalkat skal, ofta skugga bakom
+* infertilitet kan pga mekanisk orsak, att implantation försvåras
+* upptäcks som bifynd, kan ge kroniska o akuta symptom som kräver beh
+* akut buksmärta: nekros i myom
 
 
 
 
+
+***Behandling***
+
+* **Radikalt eller uterussparande**
+* **farmakologiskt:** 
+  * esyma: selektiv prostaglandin 
+  * GNRH analog minskar myometriets volym
+  * hormonspiral: minskar ej myometriet men kan minska blödningsbesvären specifikt
+* **kirurgiskt**
+  * hysterektomi
+  * enukleation
+  * ocklusion av arteria uterina för att minska myomets storlek
 
 
 
@@ -928,6 +1138,18 @@ cerivicit
 
 ### Abort
 
+
+
+***Presentation***
+
+* **Eva, 16 år,** 
+  * söker på abortmottagningen tillsammans med pojkvännen Adam. Hon hade senaste mens för 6 veckor sedan. På ungdomsmottagningen har man tagit graviditetstest och klamydiatest, båda var positiva. Eva och Adam, som just fyllt 18 år, har praktiserat avbrutet samlag de senaste månaderna. I början använde de kondom. Eva önskar nu genomgå abort.
+  * **ytterligare uppgifter vilka prover innan abort**: kroniska sjd, mediciner, allergier, tid grav, tid gyn sjd, gyn yndersök inkl UL infek, gravlängd, normal grav, se t att klamydiainfek behandlad disk preventivmedel
+  * **beh alternativ**: medicinsk abort eller kirurgisk abort
+  * **vill ej få berättat för päron**: har rätt t abort enl abortlagen. Dock inte ålder för integritetsskydd fr päron, bör överväga informera. Men kan finnas skyldighet att henmlighålla uppgifter om henne enl 14 kap 4 sekretesslagen. Om det kan antas hon lider betydande om uppgifter delges vårdnadshavare. Socialnämnd anmälan ska också övervägas.
+
+
+
 ***Etiologi och patofysiologi***
 
 * **Ovulation efter abort**: pat akan ovulera så snart som 8-10 d fr abort;
@@ -943,11 +1165,29 @@ cerivicit
 
 ***Utredning och handläggning***
 
+* Innan abort,
+  * Anamnes	
+    * Kroniska sjd
+    * lkm
+    * allergier
+    * tid grav
+    * tid gyn sjd
+    * gyn undersök inkl UV infek
+    * gravlängd
+    * normal grav
+  * Måste ha utförts innan abort
+    * STD blivit behandlade: klamydiainfek. 
 * Abort med dilaterad OS (portio öppning?)	
   * "inevitable"
   * inkomplett
 
 
+
+***Behandling***
+
+* Före 13v (innan andra trimester?)
+  * medicinsk abort
+  * kirurgisk abort: vakuumexeres / skrapning
 
 
 
@@ -1885,6 +2125,17 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+### Blödning
+
+***Presentation***
+
+* På akutmottagningen söker en 17-årig flicka för ont i magen. Hon har lätt illamående, hade lös avföring på morgonen och har behövt kissa oftare. Temp 37.6. Vid palpation av buken ömmar hon diffust utan tydligt sidoskillnad. Vid försiktigt gynekologisk undersökning med en smalt spekulum finner du måttlig blodblandad flytning ur cervix samt diffus palpationsömhet över uterus och bilateralt kanske mest åt höger.
+  * anamnes viktigt uppfattning om diagnos: SM, haft samlag o när, P-medel
+  * prov undersökningar för sätta ni rätt beh: U-hCG om ej viro, UL, CRP, LPK, klamydia odling, u-odling
+  * **!!! tre troliga diagnoser: salp, app, X, gastroenterit, uvi, rupturerat corpus luteum cysta**
+
+
+
 ### Blödning - antepartum
 
 ***Presentation***
@@ -2138,9 +2389,9 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 * korionamnionit
 * exponering till magnesiumsulfat
-* multiple gestation
-* makrosomisk foster
-* polyhydramnios
+* multiple gestation 
+* makrosomisk foster 
+* polyhydramnios 
 * förlängd värkarbete 
 * tidigare atoni hos tidigare para
 * grand multipara
@@ -2159,7 +2410,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Indikationer***
 
-- överväg kontinuerlig mätning
+- **överväg kontinuerlig mätning**
 
 - - förlängd latens
   - tillväxthämning
@@ -2175,7 +2426,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   - flerbörd
   - feber
 
-- Fr intermittent till kontinuerlig mätning
+- **Fr intermittent till kontinuerlig mätning**
 
 - - tillkomst mekoniumfärgat fostervatten (amniotisk vätska)
   - oxytocinstim (induktion, värksvaghet)
@@ -2183,7 +2434,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   - avvikelser auskultation av fosterhjärtljudsfrekvens
   - tidigare sectio-förlösta kvinnor i aktiv förlossning
 
-- övergång fr yttre t inre CTG-registrering
+- **övergång fr yttre t inre CTG-registrering**
 
 - - signalstörning
 
@@ -2197,7 +2448,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
   - övervägs inför under aktiv krystning vid otillfredställande signal kontakt för att undvika onödigt forcerande av framfödandet pga osäkerhet kring fosterhjärtfrekvens
 
-- intermittent CTG 2-3h intervall
+- **intermittent CTG 2-3h intervall**
 
 - - förlängd latensfas
   - längre intervall nattetid om pat sover
@@ -2227,19 +2478,19 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   - **avvikande**
   - **Patologiskt**: under 5bpm över 60min3; över 25bpm över 30min; sinusoidalt över 30min
 
-- Decelerationer
+- **Decelerationer**
 
 - - **Normalt**: Inga repetitiva, repetitiva variabla okomplicerade / uniforma tidiga; 
   - **avvikande**: repetitiva variabla komplicerade med normal basalfrekvens och normal variabilitet
   - **Patologiskt**: repetitiva uniforma sena över 30min vid takykardi el nedsatt variab över 20min; rep variabla komplicerade vid takykardi nedsatt variabilittet över 20min; rep förlängda över 3min; en förlängd över 5min
 
-- Tolkning
+- **Tolkning**
 
 - - **Normalt**: ej pågående hypoxi
   - **avvikande**: låg risk hypoxi
   - **Patologiskt**:_ medel hög risk hypoxi
 
-- Åtgärd
+- **Åtgärd**
 
 - - **Normalt**: ingen åtgärd
   - **avvikande**: korrigera reversibla orsaker, fortsatt CTG, överväg stimtest el skalpblodprov
@@ -2253,7 +2504,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Presentation***
 
-* Samira 27
+* **Samira 27**
   * väntar sitt första barn och har kommit till vecka 37+0. Graviditeten har varit normal. Hon är orolig för förlossningen och undrar om den satt igång. Hon har haft tre sammandragningar under förmiddagen som gjort ont. Hon inkommer till förlossningen. kl13. BT 110/70. Urin neg för glukos och protein. Cevix är bibehållen, sacral sluten och fast. Ingen vattenavgåstora-tox: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, ng. CTG ser ut så här
 
 <img src="./imgs/gyn_sam_130321_9nTU4WNQaR.png" alt="9nTU4WNQaR" style="zoom:50%;" />
@@ -2266,6 +2517,130 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 * pat som har preeklampsi som utvecklar ***kramper***
 * kan vara tt man får kramper, men vet ej att pat har preeklampsi: senare upptcäks i grav eller i samband med kramperna
+
+
+
+### Endometrios
+
+***Presentation***
+
+* 
+
+
+
+***Etiologi och patofysiologi***
+
+* **Exakt orsak okänd**
+* **Sampsons teori**: fragment av endometrium passerar med retrograd mens via äggledaren och implanteras på den peritoneala ytan
+* **Metplasimodellen**: endometrioslesioner bildas via differentiering mesoteliala celler t endometrieceller
+* **Metastaseringsteorin**: spridning av celler eller fragment av endometrium av lymfbanor och vener 
+* **Smärtmekanismer**: nociceptic smärta, neuropatisk smörta
+
+
+
+<img src="./imgs/gyn_sam_160321_m0JNImkNcZ.png" alt="m0JNImkNcZ" style="zoom:50%;" />
+
+
+
+***Kliniska kännetecken***
+
+* DDDD
+* Dysmenorre
+* Dyspareuni
+* Dyschezi
+* Dysuri
+* "Mittelshmertz" ägglossningssmärta
+* Buk-bäckensmärta
+* Trötthet
+* Infertilitet
+* Depression
+* IBS-liknande symptom
+
+
+
+***Differentialdiagnoser***
+
+* Myom
+* Adenomyos
+* Polyper
+* Varikösa vener
+* PID
+* adnextosrion
+* extrauterin grav
+* appendicit
+* Divertikulit
+* Ljunskbråck
+* Pyelonefrit
+* Uterusanomalier
+* Diskbråck
+
+
+
+***Utredning och handläggning***
+
+* **Diagnos**: laparoskopi eller ultraljud
+* **lokalisation**
+* **Status**
+  * **Bukpalp**
+  * **Gynundersökning:** 
+    * ömhet över adnexae, 
+    * uterus, 
+    * FD, och SU-ligament, 
+    * ovarialresistens? 
+    * Noduli över sakrouterina? 
+    * frozen pelvis
+  * **Vaginalt UL**
+    * Vätska i FD (fossa douglassi)
+    * Endometriom
+    * Adherenser
+    * Uretärer
+  * **abd UL**: njurar
+  * **MR**: DIE
+  * **Laparoskopi**: see and treat 
+
+
+
+***Klassifikation***
+
+* ASRM
+* Laparoskopisk scoring stadie 1-4; 
+* Speglar inte fertilitetsprgonos samt ej DIE
+* T idag ingen klassifikation som täcker allt vad gäller patofys, locale, progress, smärta, infertilitet, behandling, prognos o recidiv
+
+
+
+***Behandling***
+
+* ***Behandlingstrappa***
+  * **Steg1**: COCs eller PG; NSAID + alvedon
+  * **Steg2**: kombinationsbehandling; trappsteg 1 + hormonspiral; TCA
+  * **Steg3**: GnRH analog; Svag opioid
+* ***Smärtbehandling***
+  * Mål: smärtkontroll, över QOL, minska spridning av sjd, skydda fertilitet, minska antal operationer, amenorré
+  * Gabapentin
+  * TCA
+  * TENS
+  * Sjukgymnastik
+  * Akupunktur
+* **Multidisciplinärt team**: gyn, repr, smärtkonsult, tarmkir, psykiater, kuratorer, sexolog, uroterapist, endometrios ssk, sjukgymnast, beroende läkare
+* ***Alternativ***
+  * **COCs continous** 
+  * **GnRH agonists**
+  * **Antiprogestiner**
+  * **Danazol**
+  * orala progestiner
+  * injecerbara progestiner
+  * levonorgestrel-IUS
+  * GnRH-antagonister
+  * Aromatas inhibitorer
+
+***Take home***: hög misstanke för endometrios för det är vanligt; beh kan påbörjas utan laparoskopi; DDDD
+
+
+
+<img src="./imgs/gyn_sam_160321_9ZeUIRg61D.png" alt="9ZeUIRg61D" style="zoom:50%;" />
+
+
 
 
 
@@ -2729,3 +3104,16 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Utredning och handläggning***
 
 * Inkomplett papsmear: ta om den...
+
+
+
+### Allmän ospec utredning
+
+***Utredning och handläggning***
+
+* **U-sticka**
+* **U-hCG**: om ej virgo
+* **CRP**
+* **LPK**
+* **UL**
+* (klamydia odling, u-odling)

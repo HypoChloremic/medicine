@@ -1431,8 +1431,6 @@ cerivicit
 
 ## Fertilitet
 
-
-
 ### Abort
 
 
@@ -2060,6 +2058,14 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 ### Menstruationscykeln
+
+
+
+***Utredning och handläggning***
+
+* Ovulation: S-Progesteron kan man följa
+
+
 
 ***Fysiologiskt***
 

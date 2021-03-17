@@ -994,13 +994,28 @@ cerivicit
 
 ## Cystor
 
+### Allmänt
+
+***Riskfaktorer***
+
+* vanligast mellan pubertet - menopaus
+* rökning: 2-faldig öknign risk funktionella cystor
+
 ### Benigna cystor
+
+
+
+<img src="./imgs/gyn_sam_170321_IGDg16V8yL.png" alt="IGDg16V8yL" style="zoom:50%;" />
+
+
 
 ***Etiologi och patofsiologi***
 
+* **Cystisk adnexala massor**: indelas funktionella och neoplastiska
 * **Funktionella cystor:** 
   * follikelcysta, corpus luteum cysta, theca lutein cysta
   * "följer menscykeln": därför följer de menscykeln enl ovan för att de utgår fr follikeln...
+  * **Uppkommer fysiologiskt**: resulterar fr normal fusiologisk funktion i ovarier. 
 * **Äkta cystor:** 
   * endometriom 
   * benign neioplasi  (dermoid och cystadenom); dessa är benigna
@@ -1039,15 +1054,39 @@ cerivicit
 
 #### Follikelcysta
 
+
+
+***Etiologi och patofysiologi***
+
+* Vanligaste funktionella cystan
+* ***Failure follikel rupturera under follikulär mognad***: under menscyjkeln
+* Resolve av sig själva: spontant, efter 60-90d
+* enkla cystor mindre än 2.5cm är fusiologiska
+
+
+
+***Kliniska kännetecken***
+
+* **Varierar stolrlek: 3-8cm** 
+* **klassiskt asymptomatiska**, och vanligtvis unilaterala 
+* **stora follikulära cystor:** ömma, palpabla ovariella massa
+  * **torsion**: kan ge torsion; när över 4cm i storlek
+* **ovanligt mens påverkan**: prolongerad intermenstruella intervaller eller korta cykler
+* **större follikelcystor**
+  * pelvis smärta
+  * dyspareuni
+  * ovariell torsion
+* **akut buksmärta, ruptur follikelcysta**
+
+
+
 ***Behandling***
 
-* Exspektans många fall
-* följs upp efter 6-8v
+* **Exspektans många fall**
+* **följs upp efter 6-8v**
 * **Cystenukleation?:** laparoskopi om smärta eller om större cysta som ej går tillvaka (ca 6cm)
   * skalar ut cysta o bevara ovariet
 * **P-piller:** recidiverande besvär
-
-
 
 
 
@@ -1055,14 +1094,20 @@ cerivicit
 
 ***Etiologi och patofysiologi***
 
-* BIldas efter ovulation, makes sense
-  * Bildas i lutealfasen
+* **BIldas efter ovulation, lutealfasen**
+* **vanliga funktionella cystor**
+* **Formas, failed lutelys**: flest formas när corpus luteum failar att regress efter 14d o blir förstorade (över 3cm) + hemorrhagiska (corpus hemarrhagicum)
+* **Ruptur**: kan rupturera, orsaka intraabdominell blödning
 
 
 
 ***Kliniska kännetecken***
 
-* Kan få torsion
+* **Kan få torsion**
+* **lokal pevis smärta**
+* **amenorre eller försenad mens**
+* **akut buksmärta,** 
+  * **hemorrhagisk corpus luteum cysta**:
 
 
 
@@ -1081,6 +1126,36 @@ cerivicit
 
 
 #### Theca luteincysta, ovanlig
+
+***Etiologi och patofysiologi***
+
+* pga abnormalt hög hCG: e.g. fr molar graviditet, koriokarcinom eller ovulation induktionsterapi
+
+
+
+***Kliniska kännetecekn***
+
+* Stora bilaterala cystor
+* fyllda med klar, straw-colored vätska
+
+
+
+#### Endometriom
+
+***Etiologi och patofysiologi***
+
+* **ektopisk endometrial vävnad i ovarierna**
+
+
+
+***Kliniska kännetecken***
+
+* **Choklad cystor**: tjock brun gammalt blod i dem
+* **presentera endometrios liknande symptom:** 
+  * pelvis smräta
+  * dysmenorre
+  * dyspareuni
+  * infertilitet
 
 
 
@@ -1190,7 +1265,7 @@ cerivicit
 
 
 
-## Infektion
+## Infektion o inflammation
 
 ### Bakteriell vaginos
 
@@ -1225,6 +1300,13 @@ cerivicit
 ***Etiologi och patofysiologi***
 
 * **transmissionväg för kongenital herpes simplex**: Intrapartalt
+
+### Salpingit
+
+***Kliniska kännetecken***
+
+* åalpömhet i nedre delen av buken
+* purulent flytning
 
 
 
@@ -1653,6 +1735,14 @@ cerivicit
 
 ### Hormonernas roll i p-piller
 
+
+
+***Presentation***
+
+* När på p-pillerkartan är det mest riskabelt glömma piller: början, slutet
+
+
+
 ***Allmänt***
 
 * Två alternativ förekommer: progesteron (gestagen) only metod eller kombinerade med östrogen + progesteron (gestagen)
@@ -1707,16 +1797,16 @@ cerivicit
 * **Östrogena biverkningar**
   * **Vätskeretention:** ökad vikt, svullnadskänsla 
     * studier har visat att man inte går upp i vikt av preventivmedel
-  * illamående
-  * pigmentering: chloasma, melasma
-  * flytning
-* Gestagen biverkan (ofta androgen (som ger dessa?))
-  * ökad aptit o viktuppgång 
-  * amenorre, oligomenorre
-  * akne: cochrane review bekräftar att alla kom metoder *lindrar akne*
-  * torrhet: ögon, mun, vagina, antiöstrogen effekt
-  * trötthet, depression: se upp med PMS-pat
-  * minskad sexlust: vanligt klagomål
+  * **illamående**
+  * **pigmentering**: chloasma, melasma
+  * **flytning**
+* **Gestagen biverkan** (ofta androgen (som ger dessa?))
+  * **ökad aptit o viktuppgång** 
+  * **amenorre, oligomenorre**
+  * **akne**: cochrane review bekräftar att alla kom metoder *lindrar akne*
+  * **torrhet**: ögon, mun, vagina, antiöstrogen effekt
+  * **trötthet, depression:** se upp med PMS-pat
+  * **minskad sexlust**: vanligt klagomål
 
 
 
@@ -1724,8 +1814,10 @@ cerivicit
 
 * I studier sjunker jfr med placebo vid användning av dessa. 
 * orgasm lika
-* lika tillfredställande samlag
-* Slutsats: This study shows no negative impact of a levonorgestrel-containing oral contraceptive on overall sexual function, although three of seven sexual function domains were adversely affected.
+* **lika tillfredställande samlag**
+* **Slutsats**: 
+  * This study shows no negative impact of a levonorgestrel-containing oral contraceptive on overall sexual function, 
+  * although three of seven sexual function domains were adversely affected.
 
 
 
@@ -1763,10 +1855,10 @@ cerivicit
 * **ovarian cysta**: mindre cystor
 * **mindre benskörhet**: för att östrogen
 * **nedgång cancer**
-  *  ovarian cancer
-  * endometrial cancer: för att endometriet blir så tunt tunt att det minskar risken för detta
-  * kolon cancer: tror östrogen effekt
-  * mindre myom
+  *  **ovarian cancer**
+  * **endometrial cancer:** för att endometriet blir så tunt tunt att det minskar risken för detta
+  * **kolon cancer**: tror östrogen effekt
+  * **mindre myom**
 * **fibroider minde**
 * **acne**: mindre acne
 * **mindre PMS, PMDD**: minskar detta o behandlar detta
@@ -2347,6 +2439,13 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **Tidig grav**: mkt hög
 * **andra hälften grav:** linjärt, 15g/kg/d
 * **längd**: mitten gav 25cm, ökar sedan 5cm per månad efter d
+
+
+
+#### Status
+
+* Livmodern, palpatoriskt under graviditet
+  * upp till naveln, livmodern: 19+3
 
 
 
@@ -2972,7 +3071,9 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Faserna***
 
-* Förlängd latensfas: det är B grafen på bilden nedan. 
+* **Öppningsfasen, öppningsskedet**: 
+  * hastighet: 1cm/h
+* **Förlängd latensfas**: det är B grafen på bilden nedan. 
 
 <img src="./imgs/gyn_sam_140321_Ypkkcc4NQ4.png" alt="Ypkkcc4NQ4" style="zoom: 67%;" />
 

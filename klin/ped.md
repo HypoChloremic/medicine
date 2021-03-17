@@ -1649,6 +1649,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 ***Kliniska kännetecken***
 
 * Blue-berry muffin rash
+* Kongenital katarakt: TORCH infektioner som kan ge e toxoplasmos, syfilis, rubella, CMB
 
 
 
@@ -3249,6 +3250,17 @@ Other:
 
 
 
+
+## Oftalmologi
+
+### Kongenital katarakt
+
+***Etiologi och patofysiologi***
+
+* Rubella
+* toxoplasmos
+* syfilis
+* CMV
 
 
 

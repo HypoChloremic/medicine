@@ -409,12 +409,12 @@ cerivicit
 
 ***Kom ihåg***
 
-* Dysplasier symptomfria
-* Sens av cytologprov är 60% 
-* 25% av alla cx-fall har normal cytologi
-* cervixcancer pres med symptom
-* ett cytologprov vid utredning kan fördröja
-* Nya riktlinjer
+* **Dysplasier symptomfria**
+* **Sens av cytologprov är 60%** 
+* **25% av alla cx-fall har normal cytologi**
+* **cervixcancer pres med symptom**
+* **ett cytologprov vid utredning kan fördröja**
+* **Nya riktlinjer**
   * Nya svenska riktlinjer för HPV-screening finns, men är inte implementerade i klinisk praxis.
   * I de nya riktlinjernahöjs den övre gränsen till 64 år. Cytologiscreening görs i åldrarna 23–29.
   * HPV-screening inleds vid 32, fortsätter vart tredje år till 50 års ålder och sedan vart sjunde år. 
@@ -973,7 +973,131 @@ cerivicit
 
 
 
+### Ovarialcancer
+
+***Riskfaktorer***
+
+* HRT
+* tidig menarche + sen menopaus
+* joniserad stlning
+* hereditet
+* ålder
+* nullipartum, inga tidg barn.
+
+### Vulvacancer
+
+***Utredning och handläggnign***
+
+* PAD + kolposkopi + acetoacetat test
+
+
+
 ## Cystor
+
+### Benigna cystor
+
+***Etiologi och patofsiologi***
+
+* **Funktionella cystor:** 
+  * follikelcysta, corpus luteum cysta, theca lutein cysta
+  * "följer menscykeln": därför följer de menscykeln enl ovan för att de utgår fr follikeln...
+* **Äkta cystor:** 
+  * endometriom 
+  * benign neioplasi  (dermoid och cystadenom); dessa är benigna
+
+
+
+***Kliniska kännetecken***
+
+* Smärta varierande grad o karaktär
+* Trycksmärta över urinblåsa o tarm -> svårt att sitta + gå eftersom den sitter i fossa douglasi (lägsta punkten i buken)
+* torsion: kan ge kraftiga smärtor i olika intervall
+* Olaga blödning som kan störa menscykeln
+* mga symptomfria, kan hittas som bifynd
+
+
+
+***Utredning och handläggning***
+
+* ***Status***
+  * Fast cysta kan palperas: beksriv, storlek, regelbunden eller ej, rörlighet, förhållande t uterus, palpöm mm
+  * en cysta som inte har för mkt vätska svår att palperas.
+* ***UL: Diagnositskt***
+  * diagnostiskt hjälpmedel
+
+
+
+***Behandling***
+
+* **Cystenukleation**: 
+  * mindre cystor skalas ut 
+  * ovarievävnad kan sparas
+  * cystor under 5cm brukar försvinna spontant
+  * större cystor kan behöva peukteras, då det finns risk för torsion + intracystiska blödningar
+
+
+
+#### Follikelcysta
+
+***Behandling***
+
+* Exspektans många fall
+* följs upp efter 6-8v
+* **Cystenukleation?:** laparoskopi om smärta eller om större cysta som ej går tillvaka (ca 6cm)
+  * skalar ut cysta o bevara ovariet
+* **P-piller:** recidiverande besvär
+
+
+
+
+
+#### Corpus luteum cysta
+
+***Etiologi och patofysiologi***
+
+* BIldas efter ovulation, makes sense
+  * Bildas i lutealfasen
+
+
+
+***Kliniska kännetecken***
+
+* Kan få torsion
+
+
+
+***Handläggning***
+
+* Inläggning övervakning: kan brista med blödning ut i buken
+
+
+
+***Behandling***
+
+* Om stor blödning: hela blödningsspåret antagligen
+* Ciklokapron om stör blödning
+* laparoskopi med diatermi: kan vara svårt att skala ut o blodstilla
+
+
+
+#### Theca luteincysta, ovanlig
+
+
+
+
+
+### Funktionell cysta
+
+***Kliniska kännetecken***
+
+* **Olaga blödning**
+* **Intervallsmärta**
+
+
+
+
+
+
 
 ### PCOS
 
@@ -993,6 +1117,77 @@ cerivicit
 
 
 
+## Endokrinologi
+
+### Hyperprolaktinemi
+
+***Utredning och anamnes***
+
+* ***Anamnes***: 
+  * **Utesluta amning + graviditet**
+  * **Läkemedel**: neuroleptika, H2-antagonister, antiemetika, opioider
+  * **lakritsmedel**
+* **Status**
+  * **Bröst**: galaktorre, pressa fram sekretion
+  * **Gynekologiskt ultraljud:** OBS! samtidig PCO/PCOS utesluter ej prolaktinom
+* **Hormonutredning**
+  * **Utesluta grav**: U-hCG
+  * **hyperprolaktinemi**: S-prolakitin förhöjt (lågmolek prolaktin), vid 2 tillfällen
+    * bör tas 3 timmar efter uppvaknande o under avstressade förhållanden, då man annars kan få falskt förhöjda värden
+  * **gonadaxel**: S-LH, S-FSH, samt S-östradiol
+  * **primär hypothyreos**: S-TSH, fritt T4, fritt T3
+    * samtidig hypothyreos kan ge hyperprolaktinemi
+* **Radiologiskt**
+  * **MRT sella turcica**: låga nivåer ffa LH + hög prolaktin (>496 mIE/mL) +- galaktorre ska utredas med MRT sella för uteslutande av prolaktinom
+  * DT vid kontraindikation MRT
+* **Ögonsymptom +- makroadenom på MRT**
+  * remiss ögonmottagning för visus + synfältsundersökning
+* **Tolkning**
+  * Makroadenom + lätt förhöjd prolaktin -> talar emot prolaktinom -> remiss endokrinolog
+    * kliniskt inaktiv hypofystumör eller blandtumör (producerar tillväxthormon, kortisol, eller TSH)
+  * hyperprolaktinemi + ingen synlig adenom -> uteslut annan förklaring t hyperprolaktinemi, överväg beh försök, uteslut makroprolaktin
+* **Hyperprolaktinemi utan symptom**
+  * **finner höjda serumprolaktinnivåer** men pat saknar symptom på hyperprolaktinemi
+  * **makroprolaktin**: pat kan ha detta; konglomerat prolaktinmonomerer bundna t IgG eller ha heterofial ak riktade mot prolaktin
+  * **lågmolekylärt prolaktin** utesluter makroprolaktin o analyseras automatiskt på Karolinska. 
+  * **förhöjd prolaktin** vanlig metod men normalt lågmolekylärt prolaktin kan lämnas utan åtgärd
+
+
+
+***Diagnostik***
+
+* Hormonutredning -> neuroradiologi
+
+
+
+***Differentialdiagnoser***
+
+* Hypothyreos
+* Kronisk njursvikt
+* grav leverinsufficiens
+* PCOS: lätt förhöjt prolaktin utan annan samtidig orsak t hyperprolaktinemi
+
+
+
+***Behandling***
+
+* **Farmakologiskt**
+  * **bromokriptin, pravidel**: 1a hands val; kontroll S-prolaktin efter 6-8v., därefter tel kontakt för ev dosjustering. 
+  * **bromokriptin, gravoda**: kan prövas, inga effekter på fostret supposedly 
+* **Kirurgi**
+  * vöervägas saällsynt  fall makroprolaktinom + synpåverk som inte snabbt förbättras
+  * endokrin + neurokir bestämmer
+* **Gammstrålning beh**
+  * stereotaktisk strålbeh kan övervägas vid adenomrest
+* **exspektans**; övervägas i enstaka fall
+
+
+
+***Uppföljning***
+
+* första åb 6-10mån, därefter varje eller vartannat år om pat god kontroll. ska informeras krälvs långtidsmed
+* intolerans el prolaktin ej minskar med bromokriptin -> byta t annan dopaminagonist e.g. kabergolin el quinagolide sänkta prolaktin o ger färre biverkningar.
+
 
 
 ## Infektion
@@ -1010,6 +1205,26 @@ cerivicit
 ***Behandling***
 
 * Gravid: nystatin vaginal tabletter
+
+
+
+### Graviditet - infektion
+
+***Kompliaktioner infektion grav***
+
+* sjukdom, död neonatalperiod
+* prematuritet
+* PPROM: prematur för tidig vattenavgång
+* Missbildning: rubella kan ge kraniella 
+* Tillväxthämning
+
+
+
+### Herpes simplex - kongenital
+
+***Etiologi och patofysiologi***
+
+* **transmissionväg för kongenital herpes simplex**: Intrapartalt
 
 
 
@@ -1165,8 +1380,8 @@ cerivicit
 
 ***Utredning och handläggning***
 
-* Innan abort,
-  * Anamnes	
+* **Innan abort,**
+  * **Anamnes**	
     * Kroniska sjd
     * lkm
     * allergier
@@ -1175,9 +1390,9 @@ cerivicit
     * gyn undersök inkl UV infek
     * gravlängd
     * normal grav
-  * Måste ha utförts innan abort
+  * **Måste ha utförts innan abort**
     * STD blivit behandlade: klamydiainfek. 
-* Abort med dilaterad OS (portio öppning?)	
+* **Abort med dilaterad OS (portio öppning?)**	
   * "inevitable"
   * inkomplett
 
@@ -1185,6 +1400,7 @@ cerivicit
 
 ***Behandling***
 
+* På kvinna begäran: före 18+0
 * Före 13v (innan andra trimester?)
   * medicinsk abort
   * kirurgisk abort: vakuumexeres / skrapning
@@ -1359,9 +1575,17 @@ cerivicit
 
 ### Hormonspiral
 
+***Presentation***
+
+* vf ett av de mest effektiva preventivmedlen	
+  * maximal hämning endometrietillväxt
+  * inget användarfel
+
+
+
 ***Hormonspiral*** (diffa mot kopparspiral)
 
-* **Levonorgestrel**: utsöndras lkalt i endometriet; endometiret blir ***tunt***
+* **!!! Levonorgestrel**: utsöndras likalt i endometriet; endometiret blir ***tunt***
 * **Mirena**: 
   * 25-40% av kvinnor blir amenorroiska (dosberoende) med jaydess ca 10% i studier, 
   * kyleena 17%
@@ -1371,16 +1595,17 @@ cerivicit
 ***Etiologi och patofysiologi***
 
 * **levonorgestrel effekter**
-* **Cervixsekret**: segt, ogenomträngligt
+* **cervixsekret**: segt, ogenomträngligt
 * **hämmar spermiemotilitet**: levonorgestrel hämmar spermiemotiliteten
-* **minskad blödningsmänd**: med upp t 90%
+* **minskad blödningsmängd**: med upp t 90%
 * **EJ ovulationshämmande som regel**
+* enl abbe: endometrie tunnare
 
 
 
 ***Epidemiologi***
 
-* **lika säker som sterilisering!**
+* **!!! lika säker som sterilisering!**
 * **högst andel nöjda användare av alla preventivmedel**
 * Bra för kvinnor med hög risk för grav
 * **ÖKar INTE risk för ektopsik grav**: av de som blir gravida är andelen ektopiska grav högre jmf med om inget preventivmedel
@@ -1409,6 +1634,8 @@ cerivicit
 ***Etiologi och patofysiologi***
 
 * östrogen är ett gruppnamn
+
+
 
 #### Östradiol
 
@@ -1439,8 +1666,8 @@ cerivicit
   * förtjockar cervixsekret
   * // verkar som att det finns androgena gestagener osså...
 * **Resultat**
-  * ***hämmar ovulation***: det är gestagenet som gör att man inte ägglossar
-  * hindrar spermier fr att *penetrera cervix*: i.e. de kommer ej förbi portio
+  * **hämmar ovulation**: det är gestagenet som gör att man inte ägglossar
+  * **hindrar spermier** fr att *penetrera cervix*: i.e. de kommer ej förbi portio
 
 
 
@@ -1462,7 +1689,7 @@ cerivicit
 
 ***Balansen antiandrogen + androgen***
 
-* Kombinerade preparat har olika effekter
+* **Kombinerade preparat** har olika effekter
 * **Diane**: som innehåller mest östrogen 35mikrogram/d och CPA (cypretone acetat, som har stark antiandrogen effekt)
   * detta preparat är i Sverige enbart ett acne preparat
   * den är också antikonception i andra länder i världen
@@ -1477,8 +1704,8 @@ cerivicit
 
 ***Biverkningar***
 
-* Östrogena biverkningar
-  * Vätskeretention: ökad vikt, svullnadskänsla 
+* **Östrogena biverkningar**
+  * **Vätskeretention:** ökad vikt, svullnadskänsla 
     * studier har visat att man inte går upp i vikt av preventivmedel
   * illamående
   * pigmentering: chloasma, melasma
@@ -1629,23 +1856,23 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * tidg p-piller fungerat bra
 * ammar fortfarande
 * ingen heredite av betydelse
-* fler frågor
-  * villu ha fler barn
-  * vad rek vi: vi ska informera om de andra alternativen, bra info; kanske ska vara en långverkande metod i 5år, 
+* **fler frågor**
+  * **villu ha fler barn**
+  * **vad rek vi:** vi ska informera om de andra alternativen, bra info; **kanske ska vara en långverkande metod i 5år,** 
   * ***därför ett spiralfall***
 
 
 
 ***Fall 3***
 
-* 28åå kvinna
+* **28åå kvinna**
 * inga barn
 * ingen fast partner
 * haft cellförändringar o koniserats
 * mamma haft blodpropp på  p piller
 * ätit gestagen mellanpiller men blödde hela tiden
 * prövat p-stav samma sak
-* vad ska vi rekommendera
+* v**ad ska vi rekommendera**
   * hormonspiral: kan rek ändå
   * spelar ingen roll att hon koniserats
   * bara för att hon blött på gestagena, betyder inte att hon blöder på spiral
@@ -1720,7 +1947,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Etiologi och patofysiologi***
 
 * **Den kombinerade ringen**
-  * **Verkar INTE lokalt**
+  * **!!! Verkar INTE lokalt**
   * **Verkar via  blodet**: väldigt viktigt att förstå enl FL, att p-ringen verkar via blodet
 * ***Mycket jämnr serum-koncetration hormon***
 * **Mängd hormoni**: FL kommenterade ej mängden hormon
@@ -2168,7 +2395,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Epidemiologi***
 
-* **Tredje trimester blödningar:** 4-5% av gravditter
+* **Tredje trimester blödningar:** 4-5% av graviditeter
   * kan vara obstetriska eller icke obstetriska
 
 
@@ -2262,8 +2489,8 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Diagnos***
 
-* Sverige: över 1000mL
-* Utanför Sverige: över 500mL
+* **Sverige**: över 1000mL
+* **Utanför Sverige**: över 500mL
 
 
 
@@ -2535,6 +2762,9 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **Metplasimodellen**: endometrioslesioner bildas via differentiering mesoteliala celler t endometrieceller
 * **Metastaseringsteorin**: spridning av celler eller fragment av endometrium av lymfbanor och vener 
 * **Smärtmekanismer**: nociceptic smärta, neuropatisk smörta
+* **Lokalisation**: Endometrios kan förekomma VARSOMHELST; detta gör den svår att diffa o hitta...
+  * peritoneum, ovarier, blåsa, tarmar, djupa pelvina nerver, uretärerna, huden, diafragma, lungor, hjärna. 
+  * dröjsmål fr symptomdebut t dess diagnosen endometrios sätts är i snitt 7 år
 
 
 
@@ -2544,17 +2774,17 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Kliniska kännetecken***
 
-* DDDD
-* Dysmenorre
-* Dyspareuni
-* Dyschezi
-* Dysuri
-* "Mittelshmertz" ägglossningssmärta
-* Buk-bäckensmärta
-* Trötthet
-* Infertilitet
-* Depression
-* IBS-liknande symptom
+* **DDDD**
+  * **Dysmenorre**
+  * **Dyspareuni**: smärta vid samlag
+  * **Dyschezi**: smärta vid avföring
+  * **Dysuri**
+* **"Mittelshmertz" ägglossningssmärta**
+* **Buk-bäckensmärta**
+* **Trötthet**
+* **Infertilitet**
+* **Depression**
+* **IBS-liknande symptom**
 
 
 
@@ -2580,6 +2810,8 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 * **Diagnos**: laparoskopi eller ultraljud
 * **lokalisation**
+* **Prover**
+  * CRP: denna kan vara förhöjd
 * **Status**
   * **Bukpalp**
   * **Gynundersökning:** 
@@ -2597,6 +2829,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   * **abd UL**: njurar
   * **MR**: DIE
   * **Laparoskopi**: see and treat 
+    * detta är det enda definitiva sättet att få diagnosen
 
 
 

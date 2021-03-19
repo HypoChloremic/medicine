@@ -878,65 +878,106 @@ Om det blir graviditet och implantation så börjar det produceras hCg och på c
 
 Vid höga nivåer östradiol så ökar det gonadotropoinnivåerna. 
 
+
+
+
+
+<img src="./imgs/gyn_sem_BrXnLHgpjm.png" alt="BrXnLHgpjm" style="zoom:50%;" />
+
 ### Fall 1 
 
 **Amanda 14 år inkommer akut med sin mamma. Amanda började blöda rikligt vaginalt för 2 dagar sedan och blödningen har inte minskat…”det bara forsar” och nu känner sig Amanda lite yr.** 
 
-**Vilka frågor ställer du till Amanda?** **
-**Har du fått din första mens? 
+**Vilka frågor ställer du till Amanda?**
 
-När hade du senast mens? 
-Hur ofta behöver du byta binda eller tampong?
+* Har du fått din första mens?
+* När hade du senast mens? 
+* Hur ofta behöver du byta binda eller tampong?
+* Färg på blodet?
+* Smärtor?
+* Preventivmedel?
+* Sexual debut 
+* Tidigare gyn anamnes? 
+* Ärftlighet? blödningssjd
+* Har det hänt förut?
+* Viktnedgång → Om man går ner mycket i vikt så blir det en påverkan på hypothalamus och gnRH frisättningen. Hård fysisk träning eller stress som påverkar hormonssystemet.
+* lm, sjukdomar. 
+* urin, avföring
+* tecken på anemi
 
-Färg på blodet?
-Smärtor?
-Preventivmedel?
-Sexual debut 
 
-Tidigare gyn anamnes? 
 
-Ärftlighet? blödningssjd
+Enl läk
 
-Har det hänt förut?
-
-Viktnedgång → Om man går ner mycket i vikt så blir det en påverkan på hypothalamus och gnRH frisättningen. Hård fysisk träning eller stress som påverkar hormonssystemet. 
-lm, sjukdomar. 
-
-Oregelbunden mens sendan menarche, virgo, ingen viktnedgång, frisk, inga lm. 
+* Oregelbunden mens sendan menarche, virgo, ingen viktnedgång, frisk, inga lm. 
+* gynanamne
+  * mensdebut: menarche 9mån sen
+  * regelbundenhet: lite oregelbunden, senaste blödning 6v sedan, den var sparsam
+  * sexualdebit: virgo
+  * viktnedgång: inte ned i vikt
+* övr sjd, lm,
+* allergier
 
 
 
 **Vilken är den troligaste orsaken till blödningen?** 
 
-RKB = Riklig menstruationsblödning. Kan i sin tur tex. bero på koagulationsdefekt. 
-Blödning >80 ml = riklig
+* **RKB = Riklig menstruationsblödning.** 
+  * Kan i sin tur tex. bero på koagulationsdefekt. 
+  * Blödning >80 ml = riklig
+* **Anovulatorisk blödning.** 
+  * Om man inte får LH peak så triggas inte ägglossningen och då får man inget ägg → ingen corpus luteum, ingen progesteron → kontinuerligt östrogenpåslag som gör att slemhinnan bara späds på och späds på. 
+  * Ingen progesteron uppgång så endometriet växer till och växer till och det blir en riklig blödning som inte upphör. 
 
-Anovulatorisk blödning. Om man inte får LH peak så triggas inte ägglossningen och då får man inget ägg → ingen corpus luteum, ingen progesteron → kontinuerligt östrogenpåslag som gör att slemhinnan bara späds på och späds på. Ingen progesteron uppgång så endometriet växer till och växer till och det blir en riklig blödning som inte upphör. 
+
+
+enl läk
+
+* Arbetsdiagnos: **anovulatorisk blödning:** ovulationsstörning i puberteten, för att hon precis kommit igång
+  * utan ägglössning, är östradiol fortsatt hög och endometrie fortsätter prolif
+  * man får riklig långdragen blödning
+  * Typiskt: kan ske unga och hos äldre, perimenopausalt. 
+  * unga: obalans hypothalamus-hypofys axeln, som ej kommit igång ör att regleras på rätt sätt. 
+  * äldre: ovariell dysfunktion. 
 
 ![img](https://lh3.googleusercontent.com/PQoTmBQeJZImphqqEBBnB7ZBQ_6y8k4tftNCWPcAa90LUh5Ix8-KC4XqwSVNtRYKDv3vlByc-tfIin0lz-_EjBl68vEhqc5ZRNXJ65k2A2T5hRULXM31MqIOp0U-_VymJthbh-7P) 
 
 
 
 **Vilka prover kan vara relevanta? Motivera.** **
-**Man skulle kunna tänka sig ett Hb för att kvantifiera blödningen
 
-U-sticka pga utesluta graviditet (blödning tfa missfall). 
-Vitalparametrar 
+* Enl läk
+  * U-sticka pga utesluta graviditet (blödning tfa missfall). 
+  * Neg grav test, Hb 115, okej vitala. 
+  * Fullständigt blodstatus 
+  * järnstatus: ferritin, att man kan rek järnsubst
+  * u-hCG utesluta grav
+  * vitalparametrar
+  * thyroidea prover: om oregelbunden mens
+  * kap-Hb
 
-Neg grav test, Hb 115, okej vitala. 
+**Behöver du gyn-undersöka Amanda? Motivera.**
 
-**
-****Behöver du gyn-undersöka Amanda? Motivera.** **
-**Beror på vad hon svarar på frågorna. Känna på magen och ta vitalparametrar känns rimligt. 
-Om ingen anamnes på kraftiga smärtor just nu, om trolig menstruation behövs det inte men prata med henne och säga att om det blir värre får hon söka igen. Om inte anamnes på sexualdebut → avvakta. Hon är ung. 
+* Enl läk
+  * Beror på vad hon svarar på frågorna. 
+  * Känna på magen och ta vitalparametrar känns rimligt. 
+  * Om ingen anamnes på kraftiga smärtor just nu, om trolig menstruation behövs det inte men prata med henne och säga att om det blir värre får hon söka igen. 
+  * Om inte anamnes på sexualdebut / sexualanamnes → avvakta. Hon är ung. 
+  * vanligt bukstatus
+  * abdominellt UL
+  * perianalt UL
 
 
 
-**Vilka behandlingar föreslår du?** **
-**Gestagen för att starta om cykeln ca 10 dagar. 10 mg i 10 dagar. 
-Tranexamsyra akut. Minskar blödningsmängden 
+**Vilka behandlingar föreslår du?**
 
-Info om blödningen. 
+* Gestagen för att starta om cykeln ca 10 dagar. 10 mg i 10 dagar. 
+* Ciklokaprin tranexamsyra akut. Minskar blödningsmängden 
+* Info om blödningen. 
+* Enl läk
+  * gestagen, provera, progesteron i princip: som man kan ge direkt, som en cyklisk beh, 10d, man tillför progesteron o bryter östrogenpåslaget. Får informera att hon kan blöda mer först, men slutar när sltuar med tabletterna; bortfallsblödning efter avslutad kur.
+  * rekommendera kombinerade p-piller om ingen kontraindikation för det
+  * 
 
 
 
@@ -953,23 +994,29 @@ Blödningen brukar normaliseras 2 år efter menarche.
 
 **Differentialdiagnoser vid oligomenorré?** 
 
-Oligomenorré är menstruationer ≥ 6 veckors mellanrum. Cykellängd över 40 dagar. 
+* Oligomenorré är menstruationer ≥ 6 veckors mellanrum. Cykellängd över 40 dagar. 
+* polycystiskt ovarialsyndrom (PCOS), 
+* (hyperandrogenism 
+* hypotalam amenorré 
+* hyperprolaktinemi.
+  * Uteslut ALLTID graviditet
+* Hypothalamisk hämning (ätstörningar, överdriven träning, näringsbrist)
+* Thyroidea (hypothyreos, hyperthyreos)
+  * PCOS (här behövs behandling med livsstilinterventioner). P-piller för att kunna blöda och även gestagen cykliskt. 
+  * POI. Kvinnorna ska behandlas till naturliga menopause ca 51 år. Högre östroge dock. 
+  * Hyperprolaktinemi 
+  * Ovarialcysta
+* PCOS
+  * klinisk eller biokemisk .. e.g. hirutism eller acne
+* prolaktinom
 
-polycystiskt ovarialsyndrom (PCOS), (hyperandrogenism 
-
-hypotalam amenorré 
-
-hyperprolaktinemi.
-
-- Uteslut ALLTID graviditet
-- Hypothalamisk hämning (ätstörningar, överdriven träning, näringsbrist)
-- Thyroidea (hypothyreos, hyperthyreos)
-- PCOS (här behövs behandling med livsstilinterventioner). P-piller för att kunna blöda och även gestagen cykliskt. 
-- POI. Kvinnorna ska behandlas till naturliga menopause ca 51 år. Högre östroge dock. 
-- Hyperprolaktinemi 
-- Ovarialcysta
 
 
+***Enl läk***
+
+* Oligomenorre
+* PCOS
+* ...
 
 
 
@@ -989,38 +1036,48 @@ Progesteron för att fastställa ovulation.
 
 **Katarina 45 år söker pga rikliga blödningar sedan 3 veckor. Sjuksköterskan har tagit prover som visar kap Hb 98, puls 85, BT 135/85.** 
 
-**
-****Vilka frågor vill du ställa till Katarina?** **
-**Normal menstruation är ca 8 dagar. SÅ detta är onormalt. 
-Smärtor i buken? 
-Har hon fortfarande menstruation varje månad? Regelbunden?
+**Vilka frågor vill du ställa till Katarina?** 
 
-Färg, mängd?
-
-Tidigare gynanamnes?
-Viktnedgång, feber?
-
-Antikonception?
-
-Trycksymtom?
-
-Hereditet?
-Läkemedel?
-Senaste gynundersökningen 
-Cellprov?
-
-Fast partner?
+* Normal menstruation är ca 8 dagar. SÅ detta är onormalt. 
+* Smärtor i buken? 
+* Har hon fortfarande menstruation varje månad? Regelbunden?
+* Färg, mängd?
+* Tidigare gynanamnes?
+* Viktnedgång, feber?
+* Antikonception?
+* Trycksymtom?
+* Hereditet?
+* Läkemedel?
+* Senaste gynundersökningen 
+* Cellprov?
+* Fast partner?
 
 
 
-Tidigare frisk, inga lm, 5 grav 3 para, 2pn 1 sectio. Kondylom som ung. Cytologi 5 år sedan, samkönad relation. Tidigare regelbunden mens, nu kortare intervall under flera dagar. **
+Tidigare frisk, inga lm, 5 grav 3 para, 2pn 1 sectio. Kondylom som ung. Cytologi 5 år sedan, samkönad relation. Tidigare regelbunden mens, nu kortare intervall under flera dagar.
 
-**
 
-**Saknar du något prov?** **
-**Grav test
 
-u-prov 
+<img src="./imgs/gyn_sem_qRXQcsCCIh.png" alt="qRXQcsCCIh" style="zoom:50%;" />
+
+<img src="./imgs/gyn_sem_IQVtFxVpjM.png" alt="IQVtFxVpjM" style="zoom:50%;" />
+
+**Saknar du något prov?** 
+
+* Grav test
+* u-prov 
+* blodstatus
+
+
+
+prover i samband undersök
+
+* cellprov
+* klam gonorr
+
+<img src="./imgs/gyn_sem_H8iawll8Y9.png" alt="H8iawll8Y9" style="zoom:50%;" />
+
+
 
 
 
@@ -1037,143 +1094,190 @@ Klamydia, gonorré, mycoplasma.
 
 Om postmenopausal hade man kunnat ta en biopsi. 
 
-**Du undersöker Katarina. Buken är mjuk och väs oöm. En fast rundad resistens palperas i nedre delen av buken, ej ömmande. Vid vaginalundersökning ses blodkoagel i vagina, lite sipprande blödning från ymm. Portio inspekteras ua. Uterus palperas fast, rundad och förstorad.** 
+**Du undersöker Katarina. Buken är mjuk och väs oöm. En fast rundad resistens palperas i nedre delen av buken, ej ömmande. Vid vaginalundersökning ses blodkoagel i vagina, lite sipprande blödning från ymm (yttre modermunnen). Portio inspekteras ua. Uterus palperas fast, rundad och förstorad.** 
 
 **Vad tror ni UL visar?** 
 
-Myom (ger skuggbild på UL). 
+* Myom (ger skuggbild på UL). 
 
-**
+<img src="./imgs/gyn_sem_AL5b9bOMdn.png" alt="AL5b9bOMdn" style="zoom:50%;" />
 
-**
+**Vilka behandlingsalternativ finns?** 
 
-
-
-
-
-**Vilka behandlingsalternativ finns?** **
-
-**![img](https://lh6.googleusercontent.com/SJtF_PXU1FzvcBw8W116m1UO6y3HwTitK8fQXvl9E_PXxaClL6-gBdJQ8-lQIYbvJorsQ1-HoWP1My8_pAZqW_hFrwrH0CVDWcsHfawZnoPNkFrgatHru9AcdElHKG9okUVi_d2_)
+![img](https://lh6.googleusercontent.com/SJtF_PXU1FzvcBw8W116m1UO6y3HwTitK8fQXvl9E_PXxaClL6-gBdJQ8-lQIYbvJorsQ1-HoWP1My8_pAZqW_hFrwrH0CVDWcsHfawZnoPNkFrgatHru9AcdElHKG9okUVi_d2_)
 
 
 
-Akut vid blödning så cyklokapron.
+* Akut vid blödning så cyklokapron: ciklokaprin 10 dagar
+* Man kan ge p-piller (gestagener). 
+* Järn
+* Om man hittar ett myom som är orsaken till blödningen kan man diskutera hysterektomi om kvinnan inte önskar fler barn (görs om flertalet myom, problem med blödningar osv.)
+* Nackdelen med hysterktomi är bukkirurgi. Rent hormonellt påverkar det inte. Om man sparar ovarierna. Man kan även kanske tänka sig en spiral. 
+* Hysteroskopisk resektion av myomet. 
+* Endometrieablation och spiral är de som används mest. 
+* enl läk
+  * nsätan alla fall börjar medicinsk behandling för myom
+  * nästan alla minskade besvär efter kliamkteriet
+  * kanske god effekt av tex spiral, tills klimakteriet, därefter förbättrade besvär för att menopaus
+* // om vill bli gravida då högre indik för kirurgi; myomet kan påverka fertiliteten. 
 
-Man kan ge p-piller (gestagener). 
-Järn
 
 
-
-Om man hittar ett myom som är orsaken till blödningen kan man diskutera hysterektomi om kvinnan inte önskar fler barn (görs om flertalet myom, problem med blödningar osv.)
-
-Nackdelen med hysterktomi är bukkirurgi. Rent hormonellt påverkar det inte. Om man sparar ovarierna. Man kan även kanske tänka sig en spiral. 
-
-
-
-Hysteroskopisk resektion av myomet. 
-Endometrieablation och spiral är de som används mest. 
+<img src="./imgs/gyn_sem_3fnb73RwG5.png" alt="3fnb73RwG5" style="zoom:50%;" />
 
 
 
 **Differentialdiagnoser?** 
 
-Malignitet (sarkom)
+* Malignitet (sarkom)
+* Adenomyos: endometriet växer in i uterus myometriet, likt endometros. 
+* Polyp 
+* Myom 
+* HPV 
+* Infektion
+* tuboovarial abscess
+* Anovulatorisk blödning vanligt hos de som precis fått mens och hos de som är påväg in i klimakteriet. 
 
-Adenomyos
-Polyp 
-Myom 
-HPV 
 
-INfektion
-Anovulatorisk blödning vanligt hos de som precis fått mens och hos de som är påväg in i klimakteriet. 
+
+<img src="./imgs/gyn_sem_Wu7WTWN5DA.png" alt="Wu7WTWN5DA" style="zoom:50%;" />
+
+***Myom***
+
+
 
 ![img](https://lh4.googleusercontent.com/mr-FNasG15yIzRXQuTVHmLFriWFQlfRUCnPwfZsDJj-v_O7AjYE5lHWAHj4aAoTkFIc5_KPDMn0glxv_9UDbTr56_w1BZ1ISlh70DbKs-UGrmrRuac1SIPC_PsW3oKQNALC9EGL3)
 
-Kan växa till mycket under graviditet. Kan ge implantationssvårigheter, kan eventuellt leda till ökad risk för missfall och prematuritet. 
+<img src="./imgs/gyn_sem_wHmXUrHoj7.png" alt="wHmXUrHoj7" style="zoom:50%;" />
+
+* Kan växa till mycket under graviditet. Kan ge implantationssvårigheter, kan eventuellt leda till ökad risk för missfall och prematuritet. 
+* horomonkänsliga, bra därför med hormonlkm
+* submukösa kommer åt med hysteroskopisk resektion. 
 
 
 
-Riskfaktorer: ökad ålder, etnicitet 
-Symtom: Ofta asymtomatiska om mindre. Annars blödning,tryckkänsla, miktions symtom, obstipation, infertilitet.
-Akuta komplikationer: 
-Myomnekros (risk under graviditet så de växer till sig), torsion om de är stjälkade (behöver ofta opereras, prolaps (ner genom cervixkanalen). 
+***Riskfaktorer***: ökad ålder, etnicitet 
+***Symtom***: Ofta asymtomatiska om mindre. Annars blödning,tryckkänsla, miktions symtom, obstipation, infertilitet.
+***Akuta komplikationer:*** 
+***Myomnekros*** (risk under graviditet så de växer till sig), torsion om de är stjälkade (behöver ofta opereras, prolaps (ner genom cervixkanalen). 
 
-![img](https://lh5.googleusercontent.com/b2RNopGEMSwpn12PAymxkXA-sc3BY5LhXSWBvPXmTWlGZNzA9n74qLagVTPR8g4q9AZX12gZfvJs7K6ZuE6T7cZmpAKL9YB2aWtgObVAKKuVidMgnmKwKz13nISdgH5yRr-C2gPg)
+
+
+<img src="./imgs/gyn_sem_fPRtmtR5rC.png" alt="fPRtmtR5rC" style="zoom:50%;" />
+
 Progesteron R modulator. Är indragen för tillfället pga har gett leversvikt. 
 
 ### Fall 3 
 
 **Maria 27 år söker pga mellanblödningar sedan några månader. Står på p-piller (kombinerade) sedan 3 år. Blöder ibland vid samlag. Ny manlig partner sedan 3 månader. Har varit på screeningen för 4 år sedan. Arbetar natt och har oregelbundna sovtider. Tid frisk. Gjort en abort för tre år sedan. Inga barn.** 
 
+
+
 **Ytterligare frågor till Maria?** 
 
-Testat för klamydia/gonorré sedan nya partnern? 
-När var senaste ordentliga mensen?
-Smärtor?
+* När var senaste ordentliga mensen?
+* Smärtor?
+* Flytningar? 
+* Vaccinerad HPV?
+* Har du alltid blött vid samlag eller är det nytillkommet?
+* Preventivmedel?
+* Fråga var hon är i kartan. 
+* Läkemedel? Använder p-piller. Fråga om de tar dom dagligen och om regelbundet. 
+* Hereditet? blödningssjukdomar,
+* Vidare sexanamnes
+* Vad visade förra screeningen
+* Miktion avföringsproblem, el om d normalt. 
+* typ av abort senaste ggen 
+* Testat för klamydia/gonorré sedan nya partnern? 
 
-Flytningar
 
-Vaccinerad HPV?
-Har du alltid blött vid samlag eller är det nytillkommet?
 
-Preventivmedel?
-
-Läkemedel? Använder p-piller. Fråga om de tar dom dagligen och om regelbundet. Fråga var hon är i kartan. 
-Hereditet?
+<img src="./imgs/gyn_sem_z0omgK2FyP.png" alt="z0omgK2FyP" style="zoom:50%;" />
 
 
 
 **Vilka prover kan vara lämpliga? Varför?** **
-**klamydia/gonorré. Frågan är om man ska ta ett Hb och sen järn för ev. brist men det verkar inte anamnestiskt vara ett problem 
-Ny partner, inte testat sig på 4 år (var 3:e år enligt screening). 
-Mellanblödningar kan vara tecken på HPV eller anan könssjukdom. 
 
-Grav test. 
+* Klamydia/gonorré prover: sotborsten för klam gonorre odling
+  * ny partner, samt anamens med nya blödningar
+* Frågan är om man ska ta ett Hb och sen järn för ev. 
+* Brist men det verkar inte anamnestiskt vara ett problem 
+  * Ny partner, inte testat sig på 4 år (var 3:e år enligt screening). 
+  * Mellanblödningar kan vara tecken på HPV eller anan könssjukdom. 
+* U-hCG: Grav test. utesluta om gravid
+* CRP. 
+* U-sticka
+* Feber
+* Blodstatus, iaf ett Hb är väl rimligt
+* Cellprov
 
-CRP. 
+<img src="./imgs/gyn_sem_JKPJTt04WP.png" alt="JKPJTt04WP" style="zoom:50%;" />
 
-**
-****Vilka prover förbereder du inför us?** 
 
-Cellprov och klamydia/gonorré test. Smear prov. Cytologi + HPV. 
+
+**Vilka prover förbereder du inför us?** 
+
+* Cellprov och klamydia/gonorré test. 
+* Smear prov
+* Cytologi + HPV (acetoacetat för HPV provet). 
+* Färgtest: bakteriell vaginos (kaliumnitrat), 
+* Sniff-test
 
 
 
 **Vid gyn-us ses en lättblödande portio med relativt stor ektopi. Uterus är normalstor, fast och lätt ömmande. Lätt ruckömhet över portio. Inga palpabla resistenser över adnexa men lätt ömmande på båda sidorna. Ultraljud visar tunn slemhinna på 3mm, inga synliga polyper intrakavitärt. Ovarier bilat ua** 
 
-**
-****Vilka diagnoser kan man tänka sig i detta fall?** **
-**HPV, klamydia. Infektion. 
+**Vilka diagnoser kan man tänka sig i detta fall?**
 
-Ektopi = körtelepitel i cervixkanalen och skivepitel i vagina. Vid graviditet eller vissa preventivmedel så flyttas körtelepitelet ut på portio. Transformationszon är där körtelepitel möter skivepitel. 
-
-Atypi kan uppstå i den här zonen. 
-
-Kontaktblödning, jätteviktigt att utesluta cervixcancer. 
-
-
-
-**Behövs någon ytterligare utredning, behandling?** **
-**Nej inte i nuläget. 
-
-Om man tycker cervix verkligen ser avvikande ut så gör man Px med kolskopi. Diagnostisk konisering om ej adekvat biopsi. 
-
-
-
-**Vad säger du till Maria?** **
-**Att vi misstänker att orsaken kan vara en bakomliggande sexuellt överförbar sjukdom men att vi tagit prov och väntar på resultat. Tills dess får hon skydda sig med kondom vid samlag eller avstå. 
+* STD
+  * HPV: celldysplasi med tanke på ektopi i portio
+  * klamydia med mellanblödningar
+  * Infektion. 
+* Ektopi = körtelepitel i cervixkanalen och skivepitel i vagina. 
+  * Vid graviditet eller vissa preventivmedel så flyttas körtelepitelet ut på portio. 
+  * Transformationszon är där körtelepitel möter skivepitel. 
+* Atypi kan uppstå i den här zonen. 
+* Kontaktblödning, jätteviktigt att utesluta cervixcancer. 
+* Tänka STI om det lättblödande + ömhet
+* om lätt ruckömhet på tappen = cervicit
+* endometrit om det är uterus, 
+* eller salpingit om det är adnexa: bilateral ömhet i buken. 
+* Enl läök
+  * ngt som måste utesltuas vid kontaktblödning = cervixcancer som måste utslutas. 
 
 
 
-Klamydia positiv. Smittskyddsanmälan. Smittspårning. Behandla partnern, behövs inget prov. 
+**Behövs någon ytterligare utredning, behandling?**
+
+* Nej inte i nuläget.  	
+  * Om ektopin avvikande, misstänker CIN av ngt slag att man tar ett PX. 
+* Diagnostisk konisering om ej adekvat biopsi. 
+* man kan ta px utan kolposkopi, tar px där det ser konstigt ut. 
+
+<img src="./imgs/gyn_sem_qAHGHbbplL.png" alt="qAHGHbbplL" style="zoom:50%;" />
+
+**Vad säger du till Maria?** 
+
+* Att vi misstänker att orsaken kan vara en bakomliggande sexuellt överförbar sjukdom men att vi tagit prov och väntar på resultat. 
+* Kondom vid samlag: Tills dess får hon skydda sig med kondom vid samlag eller avstå...
+* informera att anmälningspliktigt att man behöver smittspåra
+* **Klamydia positiv**. 
+  * Smittskyddsanmälan. 
+  * Smittspårning.
+  * Behandla partnern, behövs inget prov. 
+  * Behandlingen: doxycyklin behandling
+  * skickar remiss till kurator på venereloihälsan som smittspårar och anmäler. 
 
 
 
-![img](https://lh4.googleusercontent.com/V69e0ts1Yg4uF2GLdmIXe8_RZUNZgR4dlvK9772Gxqy5q3VPSrfP6NX-BHO9WfGm3NCklBrx6Dbja44H4bCmOp95yO1KpA4L2aGuh00k1LASXJ3JBCa4VgCEcPa4ZTweT7ErIfC3)
+<img src="./imgs/gyn_sem_NX2PmMOo6z.png" alt="NX2PmMOo6z" style="zoom:50%;" />
 
-Vanligaste symtomet är vaginal blödning (kontakt eller mellanblödning), avvikande flytning, om anemi är det mer tecken på avancerad sjukdom. 
-
-Vanligaste är skivepitelcancer. Adenocarcinom finns och de är mer aggressiva. Stadieindela. Behandla utifrån stadiet. 
+* Det är asymptomatiskt väldigt länge
+* Vanligaste symtomet är vaginal blödning (kontakt eller mellanblödning), avvikande flytning, om anemi är det mer tecken på avancerad sjukdom. 
+* Vanligaste är skivepitelcancer. 
+* Adenocarcinom finns och de är mer aggressiva. Stadieindela. Behandla utifrån stadiet. 
+* // anemi, smärta, viktnedgång mer avancer vid sjd
+* behandling beror på vilket stadium. 
 
 ### Fall 4 
 
@@ -1181,66 +1285,84 @@ Vanligaste är skivepitelcancer. Adenocarcinom finns och de är mer aggressiva. 
 
 **Ytterligare frågor till Monika?** 
 
-Novaldex är antiöstrogen 
-Smärtor?
-Blödning varje dag?
-hereditet?
+* Novaldex är antiöstrogen 
+* Smärtor?
+* Blödning varje dag? SOCRATES
+* hereditet? hon har opats för en bröstcancer
+* Andra symtom?
+* Lm?
+* Miktion och avföring ua
+* Senaste cytologi 20 år sedan, gillar inte gyn undersökningar. 
+* Inga buksmärtor. 
+* Första gången postmenopausal blödning
 
-Andra symtom?
-Lm?
-
-
-Miktion och avföring ua
-
-Senaste cytologi 20 år sedan, gillar inte gyn undersökningar. 
-Inga buksmärtor. 
-Första gången postmenopausal blödning
-
-
+<img src="./imgs/gyn_sem_AYBaBkuLht.png" alt="AYBaBkuLht" style="zoom:50%;" />
 
 **Utredning?** 
 
-Vaginal undersökning + UL
+* Vaginal undersökning + UL
+
+
+
+<img src="./imgs/gyn_sem_LmlWD0oyBO.png" alt="LmlWD0oyBO" style="zoom:50%;" />
+
+
 
 
 
 **Du undersöker Monika och finner atrofiska slemhinnor i vagina, inga synliga cx-polyper och portio ser normal ut, ingen pågående blödning ur ymm. Uterus normalstor, oöm. Sidor fria och oömma UL-vaginalt visar endometrieslemhinna på 10mm, hittar inte ovarier, ingen fri vätska** 
 
-**
-****Vilka ytterligare utredningar föreslår du?** **
-**Det är inte normalt med förtjockad slemhinna när man är postmenopausal. Minst 5 mm ger 25% risk för endometriecancer. 
+**Vilka ytterligare utredningar föreslår du?** **
 
-Biopsi från endometriet. 
+* Det är inte normalt med förtjockad slemhinna när man är postmenopausal. 
+  * Minst 5 mm ger 25% risk för endometriecancer. 
+* **Biopsi från endometriet.** 
+* **Cellprov**
+* **Hydrosonografi.** 
+* **Koksalt installation i uteruskaviteten.** 
+* **Man använder en plastslang och sprutar in koksalt i uteruskaviteten.** 
+* **Lyser upp svart i endometriet. Då kan man se om det är resistens som buktar in i kaviteten.** 
+* **Hysteroskopi**
+* **Cytologi**
+* **Allmänna prover.** 
 
-Hydrosonografi. Koksalt installation i uteruskaviteten. Man använder en plastslang och sprutar in koksalt i uteruskaviteten. Lyser upp svart i endometriet. Då kan man se om det är resistens som buktar in i kaviteten. 
-
-Hysteroskopi
-Cytologi
-Allmänna prover. 
-
-
+<img src="./imgs/gyn_sem_myOh5vs8Jv.png" alt="myOh5vs8Jv" style="zoom:50%;" />
 
 **Vilka orsaker finns till postmenopausal blödning?** **
-**Tumörer: benignt, malignt benigna polyper i cervix och corpus, intrakavitära myom, cellförändringar i cervix och endometrium, cervixcancer, corpuscancer
 
-Atrofiska slemhinnor
-Tillfälligt ökad mängd hormon. 
-Läkemedelsutlöst, Nolvadex. Stimulering med HRT → Nolvadex. 
-Fetma kan ge östrogenpåslag som orsakar endometrie påslag. 
+* **Tumörer**: 
+  * benignt, 
+  * malignt benigna polyper i cervix och corpus, 
+  * intrakavitära myom, 
+  * cellförändringar i cervix och endometrium, 
+  * cervixcancer, 
+  * corpuscancer
+* **Atrofiska slemhinnor**
+* **Tillfälligt ökad mängd hormon.** 
+* **Läkemedelsutlöst,** Nolvadex. Stimulering med HRT → Nolvadex. 
+  * notera att nolvadex är en tamoxifen som är antiöstrogent, har en östrogen effekt på endometriet.
+  * // HRT verkar vara lika med tamoxifen
+* **Fetma** kan ge östrogenpåslag som orsakar endometrie påslag. 
+
+
+
+<img src="./imgs/gyn_sem_8ixUUKyPNo.png" alt="8ixUUKyPNo" style="zoom:50%;" />
+
+
 
 
 
 **Kan Monika få lokalt östrogen mot atrofiska slemhinnor?** 
 
-Ja om man kan utesluta cancer. 
+* Ja om man kan utesluta cancer. 
 
 
 
 **Monika undrar om det kan vara cancer och om hon i sådana fall kommer att dö av det?** **
 
 * Prognosen vid tidig upptäckt är god 90% 5 års överlevnad, man tar bort livmodern. 
-* Upptäcks ofta tidigt pga ger symtom som blödning. 
-* Total hysterektomi + bilateral SOE. 
+* Upptäcks ofta tidigt pga ger symtom som blödning: dett till skillnad fr ovariell cancer
+* Total hysterektomi + bilateral SOE (salpingooofreketomi, att tuba o ovarier tas bort). 
 * Ev. efterbeh med strålning.
 
  
@@ -1256,6 +1378,8 @@ Ja om man kan utesluta cancer.
 **Oligomenorré: långa intervall AUB abnorm uterin blödning**
 
 
+
+<img src="./imgs/gyn_sem_eXSGdE2vBE.png" alt="eXSGdE2vBE" style="zoom:50%;" />
 
 # Bäckenresistenser 
 

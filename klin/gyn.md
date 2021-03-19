@@ -1024,11 +1024,11 @@ cerivicit
 
 ***Kliniska kännetecken***
 
-* Smärta varierande grad o karaktär
-* Trycksmärta över urinblåsa o tarm -> svårt att sitta + gå eftersom den sitter i fossa douglasi (lägsta punkten i buken)
-* torsion: kan ge kraftiga smärtor i olika intervall
-* Olaga blödning som kan störa menscykeln
-* mga symptomfria, kan hittas som bifynd
+* **Smärta varierande grad o karaktär**
+* **Trycksmärta över urinblåsa o tarm** -> svårt att sitta + gå eftersom den sitter i fossa douglasi (lägsta punkten i buken)
+* **torsion**: kan ge kraftiga smärtor i olika intervall
+* **Olaga blödning** som kan störa menscykeln
+* **mga symptomfria**, kan hittas som bifynd
 
 
 
@@ -1262,6 +1262,252 @@ cerivicit
 
 * första åb 6-10mån, därefter varje eller vartannat år om pat god kontroll. ska informeras krälvs långtidsmed
 * intolerans el prolaktin ej minskar med bromokriptin -> byta t annan dopaminagonist e.g. kabergolin el quinagolide sänkta prolaktin o ger färre biverkningar.
+* 
+
+## Graviditet
+
+
+
+### Allmänt
+
+#### Graviditets längd
+
+**Beräkna**
+
+* Enl Naegelees regel
+  * t den sista mens första dag SM adderas 7d, o fr månaden subtraheras 3 månader: e.g. SM 080408 -> 150109
+* ultraljudsfetometri: erbjuda alla en ultraljudsdatering efter grav första hälft
+  * diffa hotande för tid förlossning, intrauterin tillväxthämning, överburenhet, 
+
+
+
+**Definitioner**
+
+* anges (fullbordade veckor + dagar) fr första dagen av sista mens
+* Fullgången = 37-41+6
+* överburen = äver 42v; över 294d
+* underburenhet, preterm pregnancy: under v37
+* extrem underburen: under v28
+
+
+
+#### Fostertillväxt
+
+***Allmänt***
+
+* 50cm 3500g
+* ***Kroppsproportioner***: ändras med tid. slutet 1 trimester huvet 1:3 storlek, fullgånget 1:4, vuxen 1:8
+
+
+
+***Könen***
+
+* manliga foster större än kvinnliga, 130g efter fullgången
+
+
+
+***Metabolt***
+
+* Flyter nästan viktlöst i fostervatten
+* energiförbrukning hos foster är lågt
+* **överskottsenergi lagras:** glykogen i lever, muskel, hjärtmuskel, samt placenta, 
+* reserver komma t anänding om fostret utv hypoxi o tvunget övergå t anaerob metab
+* **fettsyror**: bildar o lagrar i underhudsvävv, värmeisol, fettlager. 
+* **fettdepå**: v24-26 är 1& subkut fett av vikt, cid v35 är det 15% av vikt
+* **brunt fett:** nacke, skulderblad, bakom bröstben, runt njurar
+* **slaggprodukter, placenta, o lever**: avlägsnas placentalt, drf lever saknar vissa transferaser -> neonatal ikterus
+
+
+
+***Takt***
+
+* **Tidig grav**: mkt hög
+* **andra hälften grav:** linjärt, 15g/kg/d
+* **längd**: mitten gav 25cm, ökar sedan 5cm per månad efter d
+
+
+
+### Fysiologi
+
+* **Viktuppgång under graviditet:** 
+  * **för normalviktig kvinna:** 10-12kg 
+* **Hjärta och cirkulation**
+  * **Ökad cardiac output**: t bla bröst, hud, njurar o uterus
+  * **Sänkt BT**: BT öndras under grav osså
+  * **Blodvolym ökar**: plasmavolym ökar 30-40%.
+    * **Singelgrav blodvolym 1L**
+    * **Duplex blodvolym ökar 1.5-2.5L**
+  * **Erytrocytvolum (blodkroppsvolym?)** ökar med 250-500mL
+    * **järnbehovet:** 4mg/d -> 30-60mg/d eftersom upptaget är dåligt
+  * **Labb under normal grav**
+    * CRP normalt eller lätt förhöjt
+    * SR stiger
+    * LPK ökar
+    * Koagulationsfaktorer ökar
+    * TPK oförändrat
+    * Hb sjunker
+    * EVF sjunker
+* **Njurfunktion**
+  * **GFR ökar med 50%**: 
+    * S-krea och S-urea sjunker
+    * Na-utsöndring ökar: pga ökad GFRm ökad progesteron, sjunkande albumin (tubulär påverkan ger minskad resorption albumin)
+  * **albumin sjunker**: minskad tubulär resorption albumin
+  * **nettoeffekt, ökad Na-retention**: pga högre motsatt effekt av aldosteron, östrogen, dexycortison, hPL
+* **Leverfunktion**
+  * **ALP ökar x2**: ASAT, ALAT, och bilirubin oförändrad
+  * **Albumin minskar**: med 20%, även pga ökad utsöndring via urin
+  * **Kolesterol ökar x2**: 
+  * **Fibrinogen ökar 50%**: ökad trombosrisk
+* **Respiratoriska systemet**
+  * **Svullnad luftvägarnas slemhinnor:**
+  * **förändring thoraxform, ökad tidalvolym 40%**
+    * syrekonsumtion ökar med 20%
+  * **Blodgas**: 
+    * po2 oförändrat
+    * pCo2 sänks pga minskad alveolär + arteriell kolsyrespänning
+* **Förändring skelett muskler**
+  * **Uppluckring** 
+    * symfysen, 
+    * sacroiliacalederna och 
+    * sacrococcygeusleden
+* **Förändringar GI-kanal**
+  * **ökad aptit o törst**
+  * **illamående**: hyperemesis
+  * **PICA**: att man äter för mkt? 
+  * **Halsbränna**
+  * **Obstipation, **
+  * **förlångsammad venrkeltömning, **
+  * **ökad surhetsgrad ventrikeln**
+* **Förändringar i metabolismen**
+  * **Basalmetabolismen ökar**: 15-20%
+    * kcal ökar med 300kcal/d = 2 smörgåsar ca
+* **Huden**
+  * **Chloasma**: ökad pigmentering ansikte, ofta symmetrisk. även vissa p-pill
+  * **spider naevi**: telangiektasi. 2:3 ljushyade. främst första o andra ditrikitet
+  * **striae**: hudbrustning
+  * **palmar-erythem**: 2:3 ljushyade
+  * **linea nigra**: mörk strimma mitt åp magen
+
+
+
+### Försämrande faktorer
+
+***Infektion***
+
+* **Faktorer som försämrar möjlighet t att bli gravid**
+  * **Klamydia**
+  * **Ej påverkar möjligheten:** HPV, bakteriell vaginos, candida
+
+### Hormonellt
+
+***Target effekter hormonellt***
+
+* förlänga corpus luteumfunktion
+* förändra maternell kardiovaskulära systeme
+* tillgodose fostrets nutrition
+* möjliggör immunologisk kompatilibetet
+* möjliggöra somatiska frändringar
+
+
+
+***Vilka hormoner och cytokiner som är med***
+
+* **Östrogen**
+* **Progesteron**
+* **Prostaglandin**
+* **hCG:** humant choriongonadotropin
+* **hCG, LH**
+* **hGH**: humant placentärt tillväxthormon
+* **FSH**
+
+
+
+***Östrogeneffekter***
+
+* **Stimmar uterustillväxt**
+* **blödtillflöde uterus**
+* **mjölkgångar, bröstvårta utv**
+* **ökar prod oxytocinniver blod**
+* **initierar vätskeretention vävnad**
+* **förhindrar fortsatta ägglossningar**
+* **förhindrar bröstmjölk produceras**
+* **ökar insulinresistens**
+
+
+
+***Progesteroneffekter***
+
+* Stimma utv tillväxt decidua: graviditetsomvandlat endometrium
+* påverkar körtelväv bröst
+* relaxerar glatt musk
+* substrat mineralkortikoidprod hos foster
+
+
+
+
+
+### Puerperiet
+
+* fr förlossning till 6-8v efter graviditet
+
+
+
+### Rutinundersökningar
+
+<img src="./imgs/gyn_sam_190321_kXDR2lHDdF.png" alt="kXDR2lHDdF" style="zoom: 67%;" />
+
+* **Inskrivning MVC** v12
+* **Fosterdiagnostik**: erbjud tidigt i grav, 
+  * **KUB**: v11-v14 då ultraljudet oftast görs
+* **Rutinultraljud** v18
+* **Barnmorskebesök**: totalt 6-10ggr, nästan 1gg per månad
+* **Efterkontroll MVC +v8** efter förlossning
+
+
+
+***Riskfaktorer som kräver tätare undersökningar***
+
+* **Inkurrent sjd, redan innan graviditet**
+  * diabetes
+  * njursjukdom
+  * hjärtsjukdom
+  * essentiell hypertoni
+* **sjd kopplade t grav**
+  * graviditetshypertoni
+  * preeklampsi
+  * graviditetsdiabetes, GDM
+* **andra grav komplikationer**
+  * **föreliggande placenta**: fångas ofta upp vid rutinultraljudet
+
+
+
+
+
+***Rutinultraljud***
+
+* **Utförs kring v18**
+* **Gestationslängd**: 
+  * senade bedömning prematuritet resp överburenhet baseras på denna
+  * utgångspt för bedöm tillväxthämning senare i grav
+
+
+
+### Status
+
+* **Livmodern, palpatoriskt under graviditet**
+  * Precis vid symfysen: v12
+  * Lite mer ovan symfysen: v16
+  * Kring navelområdet: v19-24
+  * Ovan navelområdet: v28
+  * Lite nedom epigastriskt: v32
+  * Epigastriet: v36
+  * upp till naveln, livmodern: 19+3
+
+<img src="./imgs/gyn_sam_190321_FXxRKJAXcW.png" alt="FXxRKJAXcW" style="zoom:50%;" />
+
+
+
+
 
 
 
@@ -1283,15 +1529,29 @@ cerivicit
 
 
 
+### GBS infektion
+
+***Riskfaktorer***
+
+* Neonatal GBS-infektion
+  * Tidigare barn med GBS-sepsis
+  * Tidigare IUFD: intrauterin fosterdöd
+
+
+
 ### Graviditet - infektion
 
 ***Kompliaktioner infektion grav***
 
-* sjukdom, död neonatalperiod
-* prematuritet
+* Sjukdom, död neonatalperiod
+* Prematuritet
 * PPROM: prematur för tidig vattenavgång
 * Missbildning: rubella kan ge kraniella 
 * Tillväxthämning
+
+
+
+
 
 
 
@@ -1301,12 +1561,140 @@ cerivicit
 
 * **transmissionväg för kongenital herpes simplex**: Intrapartalt
 
+### HIV
+
+***Handläggning och utredning***
+
+* Minska risk för överföring till foster eller spädbarn
+  * inte amma
+  * sectio om prematurbörd före v34
+  * undvika vakuumextraktion
+  * undvika skalpelektrod
+
+
+
+### Mastit
+
+***Presentation***
+
+* Ett korrket alternativ:
+  * tenta, MJökstockning kan uppkomma efter flera månaders amning (rätt)
+  * ej korrekt var: bröstböld ofta ihållande hög feber, 
+
+
+
+***Allmänt***
+
+* Mjölkstockning: icke-infektiös inflammation bröstväv
+
+
+
+***Etiologi och patofysiologi***
+
+* **Ej lyckas tömma bröstet**: barnet suger dåligt eller smärtor pga sugning då sprickor våtgården
+* **Stafylokocker**: ofta agens
+
+
+
+***Kliniska kännetecken***
+
+* **Snabbt förlopp**
+* **lokal rodnad**
+* **generell bröstsvullnad**
+* **kraftig smärta**
+* **spänt spända bröst**
+* **feber:** hög ofta undulerande, upp t 39-40° grader är vanligt 
+* **tidsförlopp**: vanligast första 3 månaderna, men kan uppkomma närsomhelst under amningsperioden.
+
+
+
+***Behandling***
+
+* **Konservativt**
+  * suga bättre, ungen
+  * tömma bröstet alltså
+  * akupunktur
+  * oxytocinspray: kontraherar mjölkgångarnas glatta muskler, underlätter mjölktömnig
+* **Om ej funka**
+  * fast bh + flukloxacillin (po): 
+  * flukoxa iv om svårt 
+
+### Mastit - Bröstböld
+
+
+
+***Etiologi och patofysiologi***
+
+* **infektion kan lätt sprida sig**
+  * Luckert i bröstparenkymet
+  * Fett i bröstparenkymet
+  * näringsrik mjölk
+* Smältning av vävnadenn
+* därmed bildas bröstabscess
+
+
+
+***Kliniska kännetecken***
+
+* **feber undulerande (fluktuerande, svängande), fortsatt**: fortsatt undulerande feber, trots antibiotika 
+  * det är EJ ihållande feber
+* **Smärta**
+* **Palpömhet**
+* **fluktuerande ömmande resistens**
+
+
+
+***Diagnos***
+
+* **UL**: underlättar, tydligt visar abscess
+
+
+
+***Utredning och handläggning***
+
+* **Vid dränage, odling pus**
+
+
+
+***Behandling***
+
+* **Kirurgisk dränering**
+  * **kniv** + **dränage i abscesshåla**: 3-7d ska den vara kvar
+  * alt **UL ledd punktion bröstvöld**
+  * **odling pus**
+* **antibiotika**: flukloxa po, 1gx3 10d
+* **smärtstillande:** vb
+* **Patienten ska sj**
+  * spola + tömma abcesshåla
+  * 3-4ggr p d
+* **Fortsatt amning**
+
+
+
+***Uppföljning***
+
+* Läkningstid: 
+
 ### Salpingit
 
 ***Kliniska kännetecken***
 
-* åalpömhet i nedre delen av buken
-* purulent flytning
+* **palpömhet i nedre delen av buken**: 
+* **purulent flytning**
+
+
+
+### STI
+
+***Utredning och handläggning***
+
+* Genitala infektioner ej partnerbehandlas
+  * Herpes
+  * Bakteriell vaginos
+
+
+
+
 
 
 
@@ -1475,6 +1863,7 @@ cerivicit
 * **Abort med dilaterad OS (portio öppning?)**	
   * "inevitable"
   * inkomplett
+* **Beviljar tillstånd för abort efter  v18**: socialstyrelsen
 
 
 
@@ -1484,6 +1873,7 @@ cerivicit
 * Före 13v (innan andra trimester?)
   * medicinsk abort
   * kirurgisk abort: vakuumexeres / skrapning
+* Senast tillåtet abort enl lag (healthy foster): v22
 
 
 
@@ -1917,65 +2307,6 @@ cerivicit
 
 
 
-### Preventivmedelsråd
-
-
-
-I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera:
-* Vad gör du om du blir gravid? (om kvinnan ändå tänker sig behålla graviditeten är behovet av ett mycket säkert preventivmedel kanske lägre)
-* hur lång tidkvinnan har behov av preventivmedlet
-* hur ofta hon har behov av preventivmedel
-* vilka förväntningarhon har på sitt preventivmedel
-* hur livssituationen ser ut avseende fasta rutiner (som kan påverka möjligheter att komma ihågett dagligt intag)
-* om kvinnan har behov av några positiva hälsoeffekter av vissa preventivmedel
-
-
-
-***Fall 1***
-
-* 17åå, inget tidg prev medel, kondom sporadiskt; pojkvän sedan 3 mån, frisk, ingen heredite
-  * P-ring
-  * p-stav
-  * hon ska få rätt info o välja sj
-
-
-
-***Fall2***
-
-* fött 3 barn vaginalt
-* tidg p-piller fungerat bra
-* ammar fortfarande
-* ingen heredite av betydelse
-* **fler frågor**
-  * **villu ha fler barn**
-  * **vad rek vi:** vi ska informera om de andra alternativen, bra info; **kanske ska vara en långverkande metod i 5år,** 
-  * ***därför ett spiralfall***
-
-
-
-***Fall 3***
-
-* **28åå kvinna**
-* inga barn
-* ingen fast partner
-* haft cellförändringar o koniserats
-* mamma haft blodpropp på  p piller
-* ätit gestagen mellanpiller men blödde hela tiden
-* prövat p-stav samma sak
-* v**ad ska vi rekommendera**
-  * hormonspiral: kan rek ändå
-  * spelar ingen roll att hon koniserats
-  * bara för att hon blött på gestagena, betyder inte att hon blöder på spiral
-    * för att gestagena tar bort ovulation ägglossning
-    * och hormonspiralen agerar lokalt, och hon troligen har kvar sin ägglossning och ett bra blödningsmönster med hormonspiralen
-  * annars kopparspiral
-
-
-
-#### Sammanfattning Preventivmedel
-
-
-
 
 
 
@@ -1992,7 +2323,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Utredning och handläggning***
 
-* Anamnes
+* **Anamnes**
   * har man en trött hängig pat
   * ge inte bra direkt järnpiller
   * utan **fråga om menstruationerna**
@@ -2063,7 +2394,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Utredning och handläggning***
 
-* Ovulation: S-Progesteron kan man följa
+* **Ovulation**: S-Progesteron kan man följa
 
 
 
@@ -2201,6 +2532,20 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+### Menopaus
+
+
+
+***Diagnos***
+
+* Tidpunkt för sista menstruation definieras efetr 1års amenorré
+
+
+
+***Utredning och handläggning***
+
+
+
 ### Preventivmedel
 
 ***Epidemiologi***
@@ -2324,9 +2669,394 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+
+
+### Preventivmedelsråd
+
+
+
+I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera:
+
+* Vad gör du om du blir gravid? (om kvinnan ändå tänker sig behålla graviditeten är behovet av ett mycket säkert preventivmedel kanske lägre)
+* hur lång tidkvinnan har behov av preventivmedlet
+* hur ofta hon har behov av preventivmedel
+* vilka förväntningarhon har på sitt preventivmedel
+* hur livssituationen ser ut avseende fasta rutiner (som kan påverka möjligheter att komma ihågett dagligt intag)
+* om kvinnan har behov av några positiva hälsoeffekter av vissa preventivmedel
+
+
+
+***Fall 1***
+
+* 17åå, inget tidg prev medel, kondom sporadiskt; pojkvän sedan 3 mån, frisk, ingen heredite
+  * P-ring
+  * p-stav
+  * hon ska få rätt info o välja sj
+
+
+
+***Fall2***
+
+* fött 3 barn vaginalt
+* tidg p-piller fungerat bra
+* ammar fortfarande
+* ingen heredite av betydelse
+* **fler frågor**
+  * **villu ha fler barn**
+  * **vad rek vi:** vi ska informera om de andra alternativen, bra info; **kanske ska vara en långverkande metod i 5år,** 
+  * ***därför ett spiralfall***
+
+
+
+***Fall 3***
+
+* **28åå kvinna**
+* inga barn
+* ingen fast partner
+* haft cellförändringar o koniserats
+* mamma haft blodpropp på  p piller
+* ätit gestagen mellanpiller men blödde hela tiden
+* prövat p-stav samma sak
+* v**ad ska vi rekommendera**
+  * hormonspiral: kan rek ändå
+  * spelar ingen roll att hon koniserats
+  * bara för att hon blött på gestagena, betyder inte att hon blöder på spiral
+    * för att gestagena tar bort ovulation ägglossning
+    * och hormonspiralen agerar lokalt, och hon troligen har kvar sin ägglossning och ett bra blödningsmönster med hormonspiralen
+  * annars kopparspiral
+
+
+
+#### Sammanfattning Preventivmedel
+
+
+
+
+
+
+
+
+
 ## Fysiologi
 
 ### Fostrets fysiologi
+
+
+
+
+
+
+
+## Förlossning
+
+
+
+### CTG
+
+
+
+***Indikationer***
+
+- **överväg kontinuerlig mätning**
+
+- - förlängd latens
+  - tillväxthämning
+  - prematuritet
+  - blödning som ej är teckningsblödning
+  - tjockt mekonium
+  - fetal malposition: vidöppen hjässbjudning, pannbjudning, ansiktsbjudning, säte
+  - patologisk fostervattenmängd
+  - tidigare sectio
+  - allvarlig grundsjd hos kvinna: diabtes, obesitas, SLE, mm
+  - annan högriskgraviditet: preekmalpsi, immunisering, hepatos, infektion mm
+  - abnormt värkarbete
+  - flerbörd
+  - feber
+
+- **Fr intermittent till kontinuerlig mätning**
+
+- - tillkomst mekoniumfärgat fostervatten (amniotisk vätska)
+  - oxytocinstim (induktion, värksvaghet)
+  - aktiv krystning över 30min 
+  - avvikelser auskultation av fosterhjärtljudsfrekvens
+  - tidigare sectio-förlösta kvinnor i aktiv förlossning
+
+- **övergång fr yttre t inre CTG-registrering**
+
+- - signalstörning
+
+  - dålig kontakt
+
+  - frekventa avbrott registrering
+
+  - nedsatt, upphävd variabilitet eller misstanke därom
+
+  - - takykardi, decelerationer kräver i sig inte inre registrering om signalkvalite är god
+
+  - övervägs inför under aktiv krystning vid otillfredställande signal kontakt för att undvika onödigt forcerande av framfödandet pga osäkerhet kring fosterhjärtfrekvens
+
+- **intermittent CTG 2-3h intervall**
+
+- - förlängd latensfas
+  - längre intervall nattetid om pat sover
+
+
+
+***Bedömning***
+
+- Beskriv enl SFOGs terminologi
+
+- - basalfrekvens
+  - variabilitet
+  - förekomst accelerationer, decelerationer: variabla [okomplicerade, komplicerade], eller uniforma [tidiga, sena]
+  - värkar: frekvens var 10e minut, och duration på värkarna
+
+- CTG aldrig för sig sj, utan i relation till kliniska situationen 
+
+- **Basalfrekvens**
+
+- - **Normalt**: 110-160bpm
+  - **Avvikande**: 100-109, över 160bpm
+  - **Patologiskt**: under 100bpm
+
+- **Variabilitet**
+
+- - **Normalt**: 5-25npm
+  - **avvikande**
+  - **Patologiskt**: under 5bpm över 60min3; över 25bpm över 30min; sinusoidalt över 30min
+
+- **Decelerationer**
+
+- - **Normalt**: Inga repetitiva, repetitiva variabla okomplicerade / uniforma tidiga; 
+  - **avvikande**: repetitiva variabla komplicerade med normal basalfrekvens och normal variabilitet
+  - **Patologiskt**: repetitiva uniforma sena över 30min vid takykardi el nedsatt variab över 20min; rep variabla komplicerade vid takykardi nedsatt variabilittet över 20min; rep förlängda över 3min; en förlängd över 5min
+
+- **Tolkning**
+
+- - **Normalt**: ej pågående hypoxi
+  - **avvikande**: låg risk hypoxi
+  - **Patologiskt**:_ medel hög risk hypoxi
+
+- **Åtgärd**
+
+- - **Normalt**: ingen åtgärd
+  - **avvikande**: korrigera reversibla orsaker, fortsatt CTG, överväg stimtest el skalpblodprov
+  - **Patologiskt**: korrigera reversibla orsaker, utför stimtest, tag skalblodprov eller förlö
+
+
+
+
+
+#### Sovande barn
+
+***Presentation***
+
+* **Samira 27**
+  * väntar sitt första barn och har kommit till vecka 37+0. Graviditeten har varit normal. Hon är orolig för förlossningen och undrar om den satt igång. Hon har haft tre sammandragningar under förmiddagen som gjort ont. Hon inkommer till förlossningen. kl13. BT 110/70. Urin neg för glukos och protein. Cevix är bibehållen, sacral sluten och fast. Ingen vattenavgåstora-tox: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, ng. CTG ser ut så här
+
+<img src="./imgs/gyn_sam_130321_9nTU4WNQaR.png" alt="9nTU4WNQaR" style="zoom:50%;" />
+
+
+
+### Faserna
+
+* **Latensfasen**
+* **Öppningsfasen, öppningsskedet**: 
+  * **hastighet**: 1cm/h
+* **Förlängd latensfas**: det är B grafen på bilden nedan. 
+
+<img src="./imgs/gyn_sam_140321_Ypkkcc4NQ4.png" alt="Ypkkcc4NQ4" style="zoom: 67%;" />
+
+
+
+***Latensfas***
+
+* 
+
+
+
+
+
+
+
+### Förlossning: Normal
+
+***Fysiologi***
+
+*  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
+*  **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
+*  **Fysiologisk inflammatorisk process**: uppmjukning cervix, tilltagande kontraktilitet i myometriet
+*  **Ökar kontraktilitet i uterus**
+   *  **Oxytocin**
+   *  **Östrogen**
+   *  **Prostaglandiner**
+   *  **Cytokiner**
+
+
+
+***Anatomiska förändringar***
+
+* **Cervix:** fr kontraherad och hård till avslappnad
+* **Uterus:** fr relaxerad till värkar med rytmiska kontraktioner
+  * **Braxton-hicks kontraktioner**: okoordinerade kontraktioner under grav som först vid förlossning *ska* bli rytmiska o tillta i kraft
+* **isthmus:** 
+
+### Förlossning: onormal
+
+
+
+***Presentation***
+
+* **Annika är 28 år gammal, är helt frisk och har haft en normal graviditet.** 
+  * Hon kom till förlossningsavdelningen under gårdagen med egna värkar. När hon var utplånad och öppen 5 cm kl 01.00 utfördes amniotomi i värkförstärkande syfte. Senare kl 04.00 då ingen progress noterats på tre timmar startades oxytocininfusion som fortsatt pågår. Klockan är nu 20.00 och hon har varit retraherad i 4 timmar. Hon har 5 värkar/10 minuter och CTG är ua. Trots epiduralbedövning är hon mycket trött och önskar att man ska avsluta förlossningen. Vid inre undersökning finner du cervix retraherad, en tjock fostersvulst och vertex precis ovan spinae. Vilket är det mest lämpliga sättet att i nuläget avsluta förlossningen? (1p) 
+  * Välj ett alternativ: 
+    * **Kejsarsnitt: detta baserat på uteslutningsmetoden**
+    * Vakuumextraktion: vertex är inte nedom spinae
+    * Yttre press 
+    * Övertala Annika att fortsätta vaginal förlossning med ökat oxytocindropp eftersom barnet mår bra. 
+    * Tång: vertex är inte nedom spinae
+
+
+
+***Dilatationsarrest***
+
+* under aktiv fas, definieras som över 2 timmar 
+
+
+
+***Utredning och Handläggning***
+
+* 
+
+
+
+### Förlossning instrumentell
+
+***Presentation***
+
+- **35åå kvinna**
+  - 3 para 2 förlossningar
+  - v41+0
+  - latensfas började samma dag, inkommer med värkar, amniotomeras
+  - foster ger öppen hjässbjudning, näsa kl11 om man klockur fr läk persp
+  - pat inducerad med oxytocin, ökar infusionshastighet fr 20->140, ti
+  - blir cervix eliminerad öppen 10cm, varpå pat vill krysta
+  - håller på i 2-3 timmar med krystning. olika positioner prövades utan resultat
+  - tillkallar läk, ordinerar sugklocka, säkerställer att pat är urintappad
+  - Med sugklocka tug hårt verkligen i samband med värk + krystning
+  - barnet kommer ut, får K-vitamin intramusk direkt
+
+
+
+***Allmänt***
+
+- aka sugklocka användning
+
+
+
+**Risker**
+
+- **mamma**
+  - vaginalbrist
+  - perniealbrist
+  - sfinkterbrist
+  - blödning
+  - negativ upplevelse
+
+- **barnet**
+  - skulderdystoci
+  - intracerebrala eller extracerebrala fetala blödningar
+
+
+
+**Indikationer**
+
+- värksvaghet
+- uttröttad moder
+- hotande fosterasfuxi
+- lägeskorrektion
+- kontraindikation för krystning
+- fr grav 37+0
+- möjligt 34+0
+
+
+
+**Kontraindikationer för VE**
+
+- **Absolut kontraindikation**
+  - ansiktsbjudning
+  - sätesbjudning
+  - **!!! fosterhuvud ovan spinae; vertex ovan spinae: gäller inte för tvilling II** [tenta]
+  - klinisk misstanke om disproportion: tex kraftig nivåskillnad mellan skallbenen
+- **Relativ kontraindikation**
+  - vissa maternella infektioner med hög smittsamhet
+  - misstänkt fetal koagulopati
+
+
+
+**Handläggning och utredning**
+
+- Krystning: mamman ska krysta med sugklockan på enl BM. 
+
+- förutsättningar för VE, instrumentell förlossning, sugklocka
+
+- Cervix fullvidgade, eller kant fram som kan hållas undan
+
+- **!!! vertex vid spinae eller lägre**
+
+- **vid YP (yttre palp?) inga yttre palpabla segment eller endast ett litet segment på ena sidan**
+
+- **Team**: 1-2 läkare varav 1 specialist, 2 BM, uska, barnläkare
+
+- **time out**
+  - tömd blåsa. ej KAD, PVK, BAS-test, VU, YP bedöma bjudning utesluta palpabla segment
+  - värdera smärtlindringsbehov, överväg inre PDB (pudendusblockad)
+  - överväg värkstimulering
+  - barnläk kallas vid hotande fosterasfyxi, o om extraktuion förväntas bli eller visar sig vara svår
+
+- **Perinealskydd**
+
+- **skalpelektrod bör tas bort**
+
+- **varefter ny skalp sätts...**
+
+- **alternativt yttre registrering**
+
+- **Perineotomi (episotomi?) efter bedömning**
+
+- **Avbryt och överväg konvertering t sectio**
+  - om 1-2 klocksläpp (att klockan släpper)
+  - fosterhuve inte följer efter tre värkar eller har kommit ned o står kvar på bäckenbotten efter tre dragningar 
+  - (3+3-regeln, bra grundregel, dvs 3 drag t bäckenbotten + 3 drag fr bäckenbotten t genomskärning/partus)
+  - om förväntas ej förlöst inom 15-20minuter, inklusive anläggningstid
+
+- **Efter framfött barn**
+  - syra-basstatus i navelsträng, fr artär som ven
+  - om man behöver ta barn t barnbord direkt ska man klampa med 3 peanger, så att prov kan tas senare
+
+
+
+
+
+### Förlossningskanal
+
+***Utredning och handläggning***
+
+- Mätningar palpatoriskt
+
+- **Utplånad cervix**: att förlossningskanalen som utgörs av corpus uteri, isthmus uteri och cervix uteri har bildat en kanal. Vid en utplådan cervix kan man inte palpera en cervix at all, så det finns ingen cervix längd att tala om
+
+- **Vertex**: detta är den yttersta delen som pekar ut av skallen på barnet
+
+- - **svulst räknas ej**: av traumat att ungens huvud slår måt bäckenet o man försöker pusha ut den, så kan den utveckla en svulst mellan huden och skallbenet. Denna ska ej räknas som vertex, utan man måste palpera fram skallen för att determinera vertex på ungen
+  - **distans vertex och spina**: man mäter distansen mellan vertex och spina ischiadica. detta gör man med fingertip på huvet och fingerryggen på spina ischiadica. 
+
+- **Cervixlängd**: längden på cervix är något man följer på partogrammet också. för att den måste utplånas, varpå det är relevant att följa den
+
+- - normallängd: 3-4cm palperas
+  - utplånad längd: 0cm cervix palperas
+
+
 
 
 
@@ -2387,76 +3117,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ## Obstetrik
 
-
-
-### Allmänt
-
-#### Graviditets längd
-
-**Beräkna**
-
-* Enl Naegelees regel
-  * t den sista mens första dag SM adderas 7d, o fr månaden subtraheras 3 månader: e.g. SM 080408 -> 150109
-* ultraljudsfetometri: erbjuda alla en ultraljudsdatering efter grav första hälft
-  * diffa hotande för tid förlossning, intrauterin tillväxthämning, överburenhet, 
-
-
-
-**Definitioner**
-
-* anges (fullbordade veckor + dagar) fr första dagen av sista mens
-* Fullgången = 37-41+6
-* överburen = äver 42v; över 294d
-* underburenhet, preterm pregnancy: under v37
-* extrem underburen: under v28
-
-
-
-#### Fostertillväxt
-
-***Allmänt***
-
-* 50cm 3500g
-* ***Kroppsproportioner***: ändras med tid. slutet 1 trimester huvet 1:3 storlek, fullgånget 1:4, vuxen 1:8
-
-
-
-***Könen***
-
-* manliga foster större än kvinnliga, 130g efter fullgången
-
-
-
-***Metabolt***
-
-* Flyter nästan viktlöst i fostervatten
-* energiförbrukning hos foster är lågt
-* **överskottsenergi lagras:** glykogen i lever, muskel, hjärtmuskel, samt placenta, 
-* reserver komma t anänding om fostret utv hypoxi o tvunget övergå t anaerob metab
-* **fettsyror**: bildar o lagrar i underhudsvävv, värmeisol, fettlager. 
-* **fettdepå**: v24-26 är 1& subkut fett av vikt, cid v35 är det 15% av vikt
-* **brunt fett:** nacke, skulderblad, bakom bröstben, runt njurar
-* **slaggprodukter, placenta, o lever**: avlägsnas placentalt, drf lever saknar vissa transferaser -> neonatal ikterus
-
-
-
-***Takt***
-
-* **Tidig grav**: mkt hög
-* **andra hälften grav:** linjärt, 15g/kg/d
-* **längd**: mitten gav 25cm, ökar sedan 5cm per månad efter d
-
-
-
-#### Status
-
-* Livmodern, palpatoriskt under graviditet
-  * upp till naveln, livmodern: 19+3
-
-
-
-
-
 ### Blödning
 
 ***Presentation***
@@ -2498,6 +3158,16 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+***Differentialdiagnoser***
+
+* **Blödning eller smärta tidig graviditet**
+  * ektopisk grav
+  * normal grav
+  * trofoblasttumör
+  * icke-viabel graviditet
+
+
+
 ***Epidemiologi***
 
 * **Tredje trimester blödningar:** 4-5% av graviditeter
@@ -2505,11 +3175,9 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-
-
 ***Utredning och handläggning***
 
-* Blödnign sen graviditet
+* **Blödning sen graviditet**
   * UL
   * vaginal undersökning
   * // koagulationsprover enl Abbe
@@ -2736,113 +3404,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-### CTG
-
-
-
-***Indikationer***
-
-- **överväg kontinuerlig mätning**
-
-- - förlängd latens
-  - tillväxthämning
-  - prematuritet
-  - blödning som ej är teckningsblödning
-  - tjockt mekonium
-  - fetal malposition: vidöppen hjässbjudning, pannbjudning, ansiktsbjudning, säte
-  - patologisk fostervattenmängd
-  - tidigare sectio
-  - allvarlig grundsjd hos kvinna: diabtes, obesitas, SLE, mm
-  - annan högriskgraviditet: preekmalpsi, immunisering, hepatos, infektion mm
-  - abnormt värkarbete
-  - flerbörd
-  - feber
-
-- **Fr intermittent till kontinuerlig mätning**
-
-- - tillkomst mekoniumfärgat fostervatten (amniotisk vätska)
-  - oxytocinstim (induktion, värksvaghet)
-  - aktiv krystning över 30min 
-  - avvikelser auskultation av fosterhjärtljudsfrekvens
-  - tidigare sectio-förlösta kvinnor i aktiv förlossning
-
-- **övergång fr yttre t inre CTG-registrering**
-
-- - signalstörning
-
-  - dålig kontakt
-
-  - frekventa avbrott registrering
-
-  - nedsatt, upphävd variabilitet eller misstanke därom
-
-  - - takykardi, decelerationer kräver i sig inte inre registrering om signalkvalite är god
-
-  - övervägs inför under aktiv krystning vid otillfredställande signal kontakt för att undvika onödigt forcerande av framfödandet pga osäkerhet kring fosterhjärtfrekvens
-
-- **intermittent CTG 2-3h intervall**
-
-- - förlängd latensfas
-  - längre intervall nattetid om pat sover
-
-
-
-***Bedömning***
-
-- Beskriv enl SFOGs terminologi
-
-- - basalfrekvens
-  - variabilitet
-  - förekomst accelerationer, decelerationer: variabla [okomplicerade, komplicerade], eller uniforma [tidiga, sena]
-  - värkar: frekvens var 10e minut, och duration på värkarna
-
-- CTG aldrig för sig sj, utan i relation till kliniska situationen 
-
-- **Basalfrekvens**
-
-- - **Normalt**: 110-160bpm
-  - **Avvikande**: 100-109, över 160bpm
-  - **Patologiskt**: under 100bpm
-
-- **Variabilitet**
-
-- - **Normalt**: 5-25npm
-  - **avvikande**
-  - **Patologiskt**: under 5bpm över 60min3; över 25bpm över 30min; sinusoidalt över 30min
-
-- **Decelerationer**
-
-- - **Normalt**: Inga repetitiva, repetitiva variabla okomplicerade / uniforma tidiga; 
-  - **avvikande**: repetitiva variabla komplicerade med normal basalfrekvens och normal variabilitet
-  - **Patologiskt**: repetitiva uniforma sena över 30min vid takykardi el nedsatt variab över 20min; rep variabla komplicerade vid takykardi nedsatt variabilittet över 20min; rep förlängda över 3min; en förlängd över 5min
-
-- **Tolkning**
-
-- - **Normalt**: ej pågående hypoxi
-  - **avvikande**: låg risk hypoxi
-  - **Patologiskt**:_ medel hög risk hypoxi
-
-- **Åtgärd**
-
-- - **Normalt**: ingen åtgärd
-  - **avvikande**: korrigera reversibla orsaker, fortsatt CTG, överväg stimtest el skalpblodprov
-  - **Patologiskt**: korrigera reversibla orsaker, utför stimtest, tag skalblodprov eller förlö
-
-
-
-
-
-#### Sovande barn
-
-***Presentation***
-
-* **Samira 27**
-  * väntar sitt första barn och har kommit till vecka 37+0. Graviditeten har varit normal. Hon är orolig för förlossningen och undrar om den satt igång. Hon har haft tre sammandragningar under förmiddagen som gjort ont. Hon inkommer till förlossningen. kl13. BT 110/70. Urin neg för glukos och protein. Cevix är bibehållen, sacral sluten och fast. Ingen vattenavgåstora-tox: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, ng. CTG ser ut så här
-
-<img src="./imgs/gyn_sam_130321_9nTU4WNQaR.png" alt="9nTU4WNQaR" style="zoom:50%;" />
-
-
-
 ### Eklampsi
 
 ***Etiologi patofysiologi***
@@ -2982,6 +3543,8 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+
+
 ### HELLP
 
 ***Allmänt***
@@ -2994,11 +3557,11 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Kliniska kännetecken***
 
 * 20% ingen tidigare hypertension
-* tredje trimestern...
-* RUQ smärta
-* illamående
-* huvudvärk
-* epigastrisk smärta
+* **tredje trimestern...**
+* **RUQ smärta**
+* **illamående**
+* **huvudvärk**
+* **epigastrisk smärta**
 
 
 
@@ -3008,6 +3571,10 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   * **SKA uteluta HELLP**
   * **Ej påverkad**: U-sticka + lilla tox ()
   * **Påverkad**: U-sticka + stora-tox
+* **Prover**
+  * hemolys
+  * leverenzymer stiger
+  * trombocyter sjunker
 
 
 
@@ -3055,182 +3622,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **POCs och missfall**: tittar man därför på ett missfall, kan typen av missfall baseras på hur mkt av POCs har eliminerats, med komplett vs inkomplett missfall exempelvis. 
 
 
-
-### Förlossning process - normal
-
-***Etiologi och patofysiologi***
-
-*  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
-* **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
-* ***Fysiologisk inflammatorisk process***: uppmjukning cervix, tilltagande kontraktilitet i myometriet
-
-
-
-***Anatomiska förändringar***
-
-* **Cervix:** fr kontraherad och hård till avslappnad
-* **Uterus:** fr relaxerad till värkar med rytmiska kontraktioner
-  * **Braxton-hicks kontraktioner**: okoordinerade kontraktioner under grav som först vid förlossning *ska* bli rytmiska o tillta i kraft
-* **isthmus:** 
-
-
-
-***Faserna***
-
-* **Öppningsfasen, öppningsskedet**: 
-  * hastighet: 1cm/h
-* **Förlängd latensfas**: det är B grafen på bilden nedan. 
-
-<img src="./imgs/gyn_sam_140321_Ypkkcc4NQ4.png" alt="Ypkkcc4NQ4" style="zoom: 67%;" />
-
-
-
-
-
-### Förlossning process - onormal
-
-
-
-***Dilatationsarrest***
-
-* under aktiv fas, Definieras som över 2 timmar 
-
-
-
-### Förlossning instrumentell
-
-***Presentation***
-
-- **35åå kvinna**
-
-- - 3 para 2 förlossningar
-  - v41+0
-  - latensfas började samma dag, inkommer med värkar, amniotomeras
-  - foster ger öppen hjässbjudning, näsa kl11 om man klockur fr läk persp
-  - pat inducerad med oxytocin, ökar infusionshastighet fr 20->140, ti
-  - blir cervix eliminerad öppen 10cm, varpå pat vill krysta
-  - håller på i 2-3 timmar med krystning. olika positioner prövades utan resultat
-  - tillkallar läk, ordinerar sugklocka, säkerställer att pat är urintappad
-  - Med sugklocka tug hårt verkligen i samband med värk + krystning
-  - barnet kommer ut, får K-vitamin intramusk direkt
-
-- 
-
-***Allmänt***
-
-- aka sugklocka användning
-
-
-
-**Risker**
-
-- mamma
-
-- - vaginaöbrist
-  - perniealbrist
-  - sfinkterbrist
-  - blödning
-  - negativ upplevelse
-
-- barnet
-
-- - skulderdystoci
-  - intracerebrala eller extracerebrala fetala blödningar
-
-
-
-**Indikationer**
-
-- Värksvaghet
-- uttröttad moder
-- hotande fosterasfuxi
-- lägeskorrektion
-- kontraindikation för krystning
-- fr grav 37+0
-- möjligt 34+0
-
-
-
-**Kontraindikationer för VE**
-
-- Absolut kontraindikation
-
-- - ansiktsbjudning
-  - sätesbjudning
-  - fosterhuvud ovan spinae: gäller inte för tvilling II
-  - klinisk misstanke om disproportion: tex kraftig nivåskillnad mellan skallbenen
-
-- relativa
-
-- - vissa maternella infektioner med hög smittsamhet
-  - misstänkt fetal koagulopati
-
-
-
-**Handläggning och utredning**
-
-- Krystning: mamman ska krysta med sugklockan på enl BM. 
-
-- förutsättningar för VE, instrumentell förlossning, sugklocka
-
-- Cervix fullvidgade, eller kant fram som kan hållas undan
-
-- vertex vid spinae eller lägre
-
-- vid YP (yttre palp?) inga yttre palpabla segment eller endast ett litet segment på ena sidan
-
-- Team: 1-2 läkare varav 1 specialist, 2 BM, uska, barnläkare
-
-- time out
-
-- - tömd blåsa. ej KAD, PVK, BAS-test, VU, YP bedöma bjudning utesluta palpabla segment
-  - värdera smärtlindringsbehov, överväg inre PDB (pudendusblockad)
-  - överväg värkstimulering
-  - barnläk kallas vid hotande fosterasfyxi, o om extraktuion förväntas bli eller visar sig vara svår
-
-- Perinealskydd
-
-- skalpelektrod bör tas bort
-
-- varefter ny skalp sätts...
-
-- alternativt yttre registrering
-
-- Perineotomi (episotomi?) efter bedömning
-
-- **Avbryt och överväg konvertering t sectio**
-
-- - om 1-2 klocksläpp (att klockan släpper)
-  - fosterhuve inte följer efter tre värkar eller har kommit ned o står kvar på bäckenbotten efter tre dragningar 
-  - (3+3-regeln, bra grundregel, dvs 3 drag t bäckenbotten + 3 drag fr bäckenbotten t genomskärning/partus)
-  - om förväntas ej förlöst inom 15-20minuter, inklusive anläggningstid
-
-- Efter framfött barn
-
-- - syra-basstatus i navelsträng, fr artär som ven
-  - om man behöver ta barn t barnbord direkt ska man klampa med 3 peanger, så att prov kan tas senare
-
-
-
-
-
-### Förlossningskanal
-
-***Utredning och handläggning***
-
-- Mätningar palpatoriskt
-
-- **Utplånad cervix**: att förlossningskanalen som utgörs av corpus uteri, isthmus uteri och cervix uteri har bildat en kanal. Vid en utplådan cervix kan man inte palpera en cervix at all, så det finns ingen cervix längd att tala om
-
-- **Vertex**: detta är den yttersta delen som pekar ut av skallen på barnet
-
-- - **svulst räknas ej**: av traumat att ungens huvud slår måt bäckenet o man försöker pusha ut den, så kan den utveckla en svulst mellan huden och skallbenet. Denna ska ej räknas som vertex, utan man måste palpera fram skallen för att determinera vertex på ungen
-  - **distans vertex och spina**: man mäter distansen mellan vertex och spina ischiadica. detta gör man med fingertip på huvet och fingerryggen på spina ischiadica. 
-
-- **Cervixlängd**: längden på cervix är något man följer på partogrammet också. för att den måste utplånas, varpå det är relevant att följa den
-
-- - normallängd: 3-4cm palperas
-  - utplånad längd: 0cm cervix palperas
 
 
 

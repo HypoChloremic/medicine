@@ -1505,7 +1505,98 @@ cerivicit
 
 <img src="./imgs/gyn_sam_190321_FXxRKJAXcW.png" alt="FXxRKJAXcW" style="zoom:50%;" />
 
+## Graviditet sjukdomar
 
+### Anemi
+
+***Presentation***
+
+* **Eva  26 år** 
+  * MVC
+  * och väntar sitt första barn i vecka 26. Hon besväras av trötthet. Hennes Hb är 101 och hon använder ingen behandling. Vilken är den vanligaste orsaken till anemi under graviditet? (1p)
+    * järnbrist
+
+
+
+***Etiologi och patofysiologi***
+
+* **Utspädningsanemi**: 
+  * blodvolymen ökar 30-40%
+  * plasmavolymen ökar mer än prod RBC
+  * ökad utspädning RBC
+* **Brist näringsämnen**: järn, folsyra, B12
+  * allvarlig brist -> anemi
+* **Medfödda defekter bilda hemoglobin**
+  * Thalasssemi
+  * sickle cell anemi
+* **Anemi efter obstetrisk blödning**
+
+
+
+***Diagnos***
+
+* **Anemi under grav**
+  * **-> v28:** under 110g/L
+  * **efter v28:** under 106g/L
+* **anemi postpartum**: under 100g/L
+* **svår anemi postpartum**: Hb under 80g/L
+
+
+
+***Handläggning och utredning***
+
+* **Peroral järnterapu under 2-3v vid anemi:** 
+* **om ingen effekt, labb**
+  * Hb, EVF, MCV, S-ferritin, TPK, LPK
+* **Högt MCV**: s-B12, s-folat, s-metylmalonat
+* **Övriga prover, annan orsak anemi**
+  * **s-haptoglobin, LD**: misstanke hemolys
+  * **B-diff**
+  * **MCH, MCHC**
+  * **Hb-elfores**
+  * **S-homocystein, S-metylmalonat**: känsligt test, misstanke b12-brist trots nroamla B12 nivåer
+  * **S-TIBC**: total järnbindningskjapacitet om b12-brist; utesluter järnbrist
+  * **S-krea, U-protein**: utesluta njursjd som orsak t anemi
+
+
+
+***Behandling***
+
+* **Järnbrist**
+  * mikrocytär, hypokrom med lågt s-ferritin
+  * peroral järnterapi
+  * ineffektiv peroral: järninfusion
+* **b12-brist, folatbrist**
+  * makrocytär anemi
+  * peroral eller injektionsbeh b12 och folsyra
+
+
+
+### APS
+
+
+
+### Reumatoid artrit
+
+
+
+
+
+### Sjögrens
+
+
+
+### Sklerodermi
+
+### SLE
+
+
+
+### Thyroidea
+
+#### Hypothyreos
+
+#### Hyperthyreos
 
 
 
@@ -1629,8 +1720,8 @@ cerivicit
   * Luckert i bröstparenkymet
   * Fett i bröstparenkymet
   * näringsrik mjölk
-* Smältning av vävnadenn
-* därmed bildas bröstabscess
+* **Smältning av vävnadenn**
+* **därmed bildas bröstabscess**
 
 
 
@@ -1682,8 +1773,6 @@ cerivicit
 * **palpömhet i nedre delen av buken**: 
 * **purulent flytning**
 
-
-
 ### STI
 
 ***Utredning och handläggning***
@@ -1691,10 +1780,6 @@ cerivicit
 * Genitala infektioner ej partnerbehandlas
   * Herpes
   * Bakteriell vaginos
-
-
-
-
 
 
 
@@ -2743,10 +2828,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-
-
-
-
 ## Förlossning
 
 
@@ -2759,7 +2840,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 - **överväg kontinuerlig mätning**
 
-- - förlängd latens
+  - förlängd latens
   - tillväxthämning
   - prematuritet
   - blödning som ej är teckningsblödning
@@ -2774,8 +2855,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   - feber
 
 - **Fr intermittent till kontinuerlig mätning**
-
-- - tillkomst mekoniumfärgat fostervatten (amniotisk vätska)
+  - tillkomst mekoniumfärgat fostervatten (amniotisk vätska)
   - oxytocinstim (induktion, värksvaghet)
   - aktiv krystning över 30min 
   - avvikelser auskultation av fosterhjärtljudsfrekvens

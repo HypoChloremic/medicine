@@ -39,7 +39,7 @@
 
 ***Storlek vid födsel***
 
-* Påverkas av flera faktorer
+* **Påverkas av flera faktorer**
 * **mammas storlek**
 * **placental nutrient supply**: Modulerar fetala tillväxtfaktorer
   * IGF-2
@@ -74,7 +74,7 @@
 
 ### Barnets utveckling
 
-Det förekommer fyra fält som man attribuerar till barnutvecklingen: 
+**Det förekommer fyra fält som man attribuerar till barnutvecklingen:** 
 
 * Motoriskt, 
 * syn, finmotoriskt
@@ -120,7 +120,7 @@ Flera faktorer måste beaktas
 
 #### Motoriskt
 
-Motorisk utveckling sker som snabbast det första levnadsåret. 
+**Motorisk utveckling sker som snabbast det första levnadsåret.** 
 
 * ***De första stegen***
   * 25% vid 11 månader

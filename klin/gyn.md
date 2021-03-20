@@ -78,6 +78,8 @@
 
 cerivicit 
 
+
+
 ***DIfferentialdiagnoser + riskfaktorer***
 
 * **Riskfaktorer**
@@ -229,9 +231,24 @@ cerivicit
 
 
 
+***Presentation***
+
+*  Lotta 42 år, 
+  * I gravida, 1-para med PN för 5 år sedan. Hon söker för blödning efter samlag. Vilken åkomma bör du i första hand tänka på av nedanstående? (1p)
+    * Cervixcancer: svaret 
+    * (ett av alternativen var corpuscancer..)
+
+
+
 ***Etiologi och patofysiologi***
 
 * **Orsak till död hos endstage**: njursvikt (nefrostomi tuber minskar risken)
+
+
+
+***Kliniska kännetecken***
+
+* Blödning vid samlag
 
 
 
@@ -458,7 +475,7 @@ cerivicit
 * **Utredning på mottagning**
   * **Kolposkopi**: är visuell inspektion cervix med special low-magnification microscope, in search for abnormaliteter aiming to identify och ta sample fr atypiska site for biopsi
   * **Riktade biopsier**
-  * Bedömning: vas sm orsakar cellatypin; hur evt behandling ska ske; ger allmänt lugnande info
+  * **Bedömning**: vad som orsakar cellatypin; hur evt behandling ska ske; ger allmänt lugnande info
 
 
 
@@ -1604,19 +1621,272 @@ cerivicit
 
 ## Infektion o inflammation
 
-### Bakteriell vaginos
+
+
+
+
+### Endometrios
+
+***Presentation***
+
+* **1 altern korr**
+  * Misstanke om endometrios skall alltid verifieras med laparoskopi
+  * Endometrios bör i första hand behandlas med enbart NSAID
+  * Endometrios är vanligare hos kvinnor från västra Afrika.
+  * Endometrios är vanligt hos kvinnor vars mödrar har endometrios
+  * Endometrios bör i första hand behandlas kirurgiskt och radikalt med laparoskopisk resektion och diatermi.
+
+
+
+***Etiologi och patofysiologi***
+
+* **Exakt orsak okänd**
+* **Sampsons teori**: fragment av endometrium passerar med retrograd mens via äggledaren och implanteras på den peritoneala ytan
+* **Metplasimodellen**: endometrioslesioner bildas via differentiering mesoteliala celler t endometrieceller
+* **Metastaseringsteorin**: spridning av celler eller fragment av endometrium av lymfbanor och vener 
+* **Smärtmekanismer**: nociceptic smärta, neuropatisk smörta
+* **Lokalisation**: Endometrios kan förekomma VARSOMHELST; detta gör den svår att diffa o hitta...
+  * peritoneum, ovarier, blåsa, tarmar, djupa pelvina nerver, uretärerna, huden, diafragma, lungor, hjärna. 
+  * dröjsmål fr symptomdebut t dess diagnosen endometrios sätts är i snitt 7 år
+* **Samsjuklighet**: långdragna tillstånd finns ofta samsjuk andra somatiska + psyk tillstånd
+  * IBS
+  * migrän
+  * interstitiell cystit
+  * fibromyalgi
+  * sömnstörningar
+  * ångest
+  * depression
+  * ADHD
+  * beroendesjd
+
+
 
 ***Kliniska kännetecken***
 
-* Grå-vit vattning discharge
+* **DDDD**
+  * **Dysmenorre**
+  * **Dyspareuni**: smärta vid samlag
+  * **Dyschezi**: smärta vid avföring
+  * **Dysuri**
+* **"Mittelshmertz" ägglossningssmärta**
+* **Buk-bäckensmärta**
+* **Trötthet**
+* **Infertilitet**
+* **Depression**
+* **IBS-liknande symptom**
+* **Smärta**: 
+  * akut o begränsad i tid, e.g. samband menstruation, dysmenorre
+  * aktivitet endometrioshärdare utanför uterus
+  * kan bli långvarigt smrtsyndrom: inflam proesser, fibros, adherenser, neuroena mekanismer kan bidra liskom myofasciella tillstånd i bukvägg o bäckenbotten.
+  * när finns inflammatorisk o neurogen komponent kan smärt ändra fenotyp, ger sensitisering lokalt , vissa fall smärtöverkänlighet.
+  * neuropatisk smärta efter skada ernv postop eller posttrauma, .g. förlossning
 
 
 
-### Candidal vaginit
+***Epidemiologi***
+
+* Var tionde kvinna drabbas
+* vanligt tonår till klimakteriet
+
+
+
+***Differentialdiagnoser***
+
+* Myom
+* Adenomyos
+* Polyper
+* Varikösa vener
+* PID
+* adnextosrion
+* extrauterin grav
+* appendicit
+* Divertikulit
+* Ljunskbråck
+* Pyelonefrit
+* Uterusanomalier
+* Diskbråck
+
+
+
+***Utredning och handläggning***
+
+* **Diagnos**: laparoskopi eller ultraljud
+* **lokalisation**
+* **Prover**
+  * CRP: denna kan vara förhöjd
+* **Status**
+  * **Bukpalp**
+  * **Gynundersökning:** 
+    * ömhet över adnexae, 
+    * uterus, 
+    * FD, och SU-ligament, 
+    * ovarialresistens? 
+    * Noduli över sakrouterina? 
+    * frozen pelvis
+  * **Vaginalt UL**
+    * Vätska i FD (fossa douglassi)
+    * Endometriom
+    * Adherenser
+    * Uretärer
+  * **abd UL**: njurar
+  * **MR**: DIE
+  * **Laparoskopi**: see and treat 
+    * detta är det enda definitiva sättet att få diagnosen
+* **Utredning enl PM**
+  * **Nogrann anamnes** 
+  * **Gyn undersökning**
+    * varsamt
+    * kan vara mkt smärtsamt för patienten pga endometriosen
+  * **Vaginalt UL:** 
+    * kan påvisa flera saker
+    * ovarialendometriom
+    * adenomyos
+    * lesioner spetum rektovaginale
+    * **peritonealendometrios kan EJ ses med UL**
+  * **MR**: 
+    * misstanke infiltrativt växande endomeetrios
+    * oklar sjd bild
+    * uretärstas
+    * preoperativt vid avancerad endometrios
+  * // DT har ingen plats i diagnostiken
+  * **Laparoskopi**: slutsatsen är att man ej hoppar på laparoskopi direkt, men detta är det enda sättet att defintivt få svar på om det handlar om en endometros. 
+    * **(endast?) vid terapisvikt hormonell beh**: trots adekvat hormonbeh och smärtbeh
+    * **vid infiltrativt växande endometrios**
+    * **vid oklar diagnos**
+    * **hittas endometrios, see and treat, avlägsna lesioner:** bör alla lesioner avlägsnas, px skickas för PAD
+    * **endometriosteam konsulteras före evt ovarialendometriom avlägsnas**
+    * op o fynd måste beskrivas ordentligt 
+    * fotodokumentation
+
+
+
+***Klassifikation***
+
+* ASRM
+* Laparoskopisk scoring stadie 1-4; 
+* Speglar inte fertilitetsprgonos samt ej DIE
+* T idag ingen klassifikation som täcker allt vad gäller patofys, locale, progress, smärta, infertilitet, behandling, prognos o recidiv
+
+
 
 ***Behandling***
 
-* Gravid: nystatin vaginal tabletter
+* **Enl FL**
+  * ***Behandlingstrappa***
+    * **Steg1**: COCs (kombinerade orala antikonception) eller PG (prostaglandin); 
+      * NSAID + alvedon
+    * **Steg2**: kombinationsbehandling; trappsteg 1 + hormonspiral; 
+      * NSAID + alvedon
+      * TCA
+    * **Steg3**: GnRH analog; 
+      * NSAID + alvedon
+      * TCA
+      * Svag opioid
+  * ***Annan Smärtbehandling***: Målsätter smärtkontroll, över QOL, minska spridning av sjd, skydda fertilitet, minska antal operationer, amenorré
+    * Gabapentin
+    * TCA
+    * TENS
+    * Sjukgymnastik
+    * Akupunktur
+  * **Multidisciplinärt team**: gyn, repr, smärtkonsult, tarmkir, psykiater, kuratorer, sexolog, uroterapist, endometrios ssk, sjukgymnast, beroende läkare
+  * ***Alternativ***
+    * **COCs continous** 
+    * **GnRH agonists**
+    * **Antiprogestiner**
+    * **Danazol**
+    * orala progestiner
+    * injecerbara progestiner
+    * levonorgestrel-IUS
+    * GnRH-antagonister
+    * Aromatas inhibitorer
+* **Enl PM**
+  * **Smärtstillande**
+    * **Farmakologiskt**
+      * **Paracetamol**: alvedon full dos, 665mg, under perioder smärta, annars vb
+      * **cox-hämmare**: brufen ipren 400mgx3, orudis retard 200gmx1, eller annat. 
+        * undvik diclofenac
+        * svåa besär: ta dagligen under längre period
+        * annars vb
+      * **Tramadol**: 50-100mg, alt citodon.
+        * försiktiv förskrivning
+        * 1-2t när det är som mest ont
+      * **Fungerar ej ovanstående:** kontakta endometriosläkare, alt överts pat för behandling av endometriosteam
+    * **Annan smärtlindring**
+      * **Fysisk aktivitet**
+      * **träning**
+      * **TENS (endometrios SS/BM)**
+      * **akupunktur (fysioterapeut)**
+  * **Hormonell behandling**: smärtlindrande nedreglera ovarialaktivitet och uppnå **amenorre**. valet av prep styrs pats önskemål o evt biverkningar. 
+    * **beh effekt likvärdig mellan tre preparatgrupper**
+    * **P-piller**: monofasisk typ, e.g. neovletat/prionelle 21
+      * **tas kontinuerligt eller så få uppehåll som möjligt**
+      * **genombrottsblödning**: 
+        * 1) antingen 4d uppehåll eller 
+        * 2) tas 2t dagligen 5d
+        * Blöder det ändå eller börjar blöda återgår t en tablett dagligen -> görs uppehåll i 4d
+      * **amenorre, ingen bortre gräns**
+      * **andra monofasiska p-piller**: zoley, el fasiska qlaira
+      * **vid kontraindik p-piller**: kan sättas över på gestagen, visanne, ell GnRH analog; samråd med endometriosteam
+    * **Gestagen**: MPA föreslagsivs (provera, depo-provera)
+      * **startdos 10-20mg**
+      * **target 5-50mg**
+      * **pat kan sj justera dos** inom givna ramar: e.g. upp o ner 5mg var 14e dygn, för lämplig underhållsdos
+      * **dosjust utfrånn behandlingseffekt**, evt bviverknignar
+      * mår pat bra på provera kan -> depopreovera, såvida det inte finns aktuell barnönskan
+      * **ingen bortre gräns** för behandlingslängd gestagen
+      * **andra gestagener:** 
+        * cerazette kan tetas; 
+        * mirena funk ofta mkt bra för beh endometrios o kan kombas med andra gestagener eller p-piller
+    * **Visanne:** gestagen, tas i dos 1x2mg dagligen. 
+      * **prövas innan GnRH el kirurgi**
+      * dienogest hög endometriespec
+      * om p-piller eller andra gestgener ej tolereras el dålig smärteffekt: bör visanne testas före GnRH-analog el kirurgi
+    * **GnRH-analog**: 
+      * **nässpray (sunarela) el injektion** (e.g. enanton-depot subkut) under 3-6 månader
+      * inj kan ges av BM el sköterska på gynmottagning el öppenvård eller pat sj
+      * **add-back** ges med början 2v efter inledd GnRH beh, minska risk besvärande östrogenbrstsymptom o hindra osteoporosutv
+      * livial alt activelle ges med 1t dagligen
+      * **Bortre gräns:** GnRH beh kan fortsättas flera år såvida patienten använder add-back
+      * **DEXA** (bentäthet) görs efter 6månader + 1år. vid beh GnRH analog enbart årligen kontroll. Eller vartannat år kontroll med add-back
+    * **Kirurgi**: 
+      * **Indikationer**
+        * om hormonell o smärtlndr med inte tillräckligt bra symptomlindr 
+        * djupt växande endometrios som ger andra symptom utöver smärta
+        * om äggplockning inte kan göras pga ovarialendometriom
+      * **Djupt växande lesioner svarar dåligt på hormonell beh, ofta.**
+      * **vid kirurgi:** all synlig för ögat o UL el MR o palpabel endometrios avlägsnas som helhet, inte ba öppna o destruera
+      * **ang ovarialendometriom**: kanske je bör avlägsnas om ej symptom + om graviditetsönskan
+      * op ovarierna försämrar alltid ovarialfunk
+      * ovarialendometriom handläggning: konsultera endometriosläkare.
+      * **Hormonell behandling efter kirurgi, tills vidare**
+    * **erbjudas kurator o sjukgymnast. diskutera endometriosläkare innan remiss**
+
+
+
+***Uppföljning***
+
+* beh effekt utvärderas 1-3mån efter insatt beh
+* utvärdering över tel av endometriossköterska el BM, el läk
+* dosjustering gestagen ska sträva mot *lägsta effektiv dos*: varierar över tid hos en o samma pat, mkt individuell
+* uppföljande mottagningsbesök rek efter 6mån beh för ställningstagande t fortsatt handlägg
+
+
+
+***Take home***: 
+
+* hög misstanke för endometrios för det är vanligt; 
+* **beh kan påbörjas utan laparoskopi;** 
+* DDDD
+
+<img src="./imgs/gyn_sam_200321_aQ0UqJcKFC.png" alt="aQ0UqJcKFC" style="zoom:50%;" />
+
+<img src="./imgs/gyn_sam_160321_9ZeUIRg61D.png" alt="9ZeUIRg61D" style="zoom:50%;" />
+
+
+
+<img src="./imgs/gyn_sam_160321_m0JNImkNcZ.png" alt="m0JNImkNcZ" style="zoom:50%;" />
+
+
 
 
 
@@ -1627,6 +1897,14 @@ cerivicit
 * Neonatal GBS-infektion
   * Tidigare barn med GBS-sepsis
   * Tidigare IUFD: intrauterin fosterdöd
+
+
+
+
+
+
+
+
 
 
 
@@ -1651,6 +1929,12 @@ cerivicit
 ***Etiologi och patofysiologi***
 
 * **transmissionväg för kongenital herpes simplex**: Intrapartalt
+* **primär infektion hos mamma, rIsk vertikal transmission t neonat, vid förlossning = 30-60%**
+  * gm förlossning
+  * cervikal ciral shedding
+  * kan vara transplacentl
+* **primär infektion**: att mamman får d för första gången. 
+  * **inga antikroppar som passerat över**: för att primäör infektion passerar ingen transplacentärt, så spädbarnet har inget som kan skydda det när den exponeras för viruset. 
 
 ### HIV
 
@@ -1766,12 +2050,151 @@ cerivicit
 
 * Läkningstid: 
 
-### Salpingit
+
+
+## Infektion - genital
+
+
+
+### Bakteriell vaginos
 
 ***Kliniska kännetecken***
 
-* **palpömhet i nedre delen av buken**: 
-* **purulent flytning**
+* Grå-vit vattning discharge
+
+
+
+### Candidal vaginit
+
+***Behandling***
+
+* Gravid: nystatin vaginal tabletter
+
+
+
+### Cervix, cervicit
+
+***Etiologi och patofysiologi***
+
+* Bakteriella infektioner
+  * klamydia
+  * mykoplasma genitalis
+  * gonoore
+  * utöver vaginala agens
+
+
+
+***Kliniska kännetecken***
+
+* flytning
+* spottings
+* blödning v samlag
+* djup samlagssmärta (dyspareuni?)
+* rodnad
+* lättblödande
+* pus
+* ömhet
+
+
+
+
+
+### Flytning
+
+
+
+***Handläggning och utredning***
+
+* Konsistens
+* färg
+* doft
+* pH
+* wet semar med natriumklorid kaliumhydroxid
+
+
+
+### Genital infektion
+
+
+
+***Etiologi och patofysiologi***
+
+* **Infektioner, andra mikrobiella manifest**
+  * **Vulva, vulvit**: HPV, herpes, candida, syfilis
+  * **Vagina, vaginit**: HPV, herpes, candida, syfilis, bakteriell vaginos, trichomonas
+  * **Cervix, cervicit**: HPV, herpes, candida, syfilis, bakteriell vaginos, trichomonas, gonorre, mykoplasma genitalis
+  * **Uterus, endometrit**: bakteriella som ovan (bakteriell vaginos? gonorre, mykoplasma genitalis, ), tarmbakterier
+  * **Tubor, salpingit, TOA**: bakteriella infektioner
+  * **Ovarier, TOA**: bakteriella agens
+  * **Bäckenet, PID**: bakteriella
+  * **Extragenitala manifest**: periappendicit, perihepatit, artrit, konjunktivit, proktit
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utrending och handläggning***
+
+* Anamnes
+  * partner,
+  * har du haft sex
+  * vem, vilkar har du sex
+  * typ av sex
+
+
+
+### Herpes
+
+***Etiologi och patofysiologi***
+
+* Genital herpes: 
+  * 60% HSV2
+  * 40% HSV1
+* Recurrent infektion: HSV2
+* shedding: 
+
+
+
+***Utredning och handläggning***
+
+* Diagnos: PCR
+
+
+
+***Behandling***
+
+* Valaciklovir 500mg 1x2 3-14d
+  * profylax 1x1 aciklovir..
+* Ingen lokal behandling har en plats (LKM boken)
+
+
+
+### PID - Pelvic inflammatory disorder
+
+***Etiologi och patofysiologi***
+
+* Involverade organ
+  * Uterus
+  * äggledare
+  * ovarier
+  * intilligande organ
+* **STi orsakar 50%:** riskfaktor
+
+
+
+
+
+***Kliniska kännetecken***
+
+* Generell ömhet vid bimanuell palpation
+* peritonitretning
+* purulent flytning
+* CRP stegring
+* feber
+
+
 
 ### STI
 
@@ -1783,6 +2206,138 @@ cerivicit
 
 
 
+
+
+
+
+### Tubor, Salpingit
+
+
+
+***Etiologi och patofysiologi***
+
+* Bakteriell infektion
+* grad tubarskada rel symptomduration
+* pyosalpinx -> hydrosalpinx
+
+
+
+***Kliniska kännetecken***
+
+* **palpömhet i nedre delen av buken**: 
+* **purulent flytning**
+
+
+
+***Utredning och handläggning***
+
+* Laparoskopisk diagnos
+  * rodnad
+  * ödematös tuba
+  * tunna adherenser
+
+
+
+***Differentialdiagnoser***
+
+* appendicit
+* divertikulit
+
+
+
+
+
+### Vagina
+
+***Etiologi och patofysiologi***
+
+* HPV
+* candida
+* herpes
+* syfilis
+* trichomonas
+* bakteriell vaginos
+
+
+
+***Kliniska kännetecken***
+
+* Smärta
+* Klåda
+* Flytning
+* Torrhet
+* Blödning
+* (feber)
+
+
+
+### Vulvit
+
+***Etiologi och patofysiologi***
+
+* HPV
+* Herpes
+* Candida
+* syfilis
+
+
+
+***Kliniska kännetecken***
+
+* Smärta,
+* klåda
+* feber
+* rodnad
+* svullnad
+* resisteneser,
+* sår sprickor
+
+
+
+***Utrending och handläggning***
+
+* Status
+  * Inspektion
+  * palpation
+  * provtagning
+  * biopsi
+
+
+
+
+
+### Uterus - endometrit
+
+***Etiologi och patofysiologi***
+
+* Klamydia
+* GC (gonorrhea?)
+* MG (mykoplasma genitalis)
+* vaginalflora
+* tarmflora
+
+
+
+***Kliniska kännetecekn***
+
+* Molvärk
+* allmänpåverkan
+* flytning / blödning
+* purulent flytning
+* ömhet
+* allmänpåverkan
+* feber
+
+
+
+***Utredning och handläggning***
+
+* **NAAT (nucleic acid amplification tests)**: STI, GAS, GBS,
+  * inte allmänodling mikroskopi
+* **Labb**: CRP, LPK
+
+
+
 ## Hud
 
 ### Cholasma
@@ -1791,6 +2346,37 @@ cerivicit
 * blotchy pignemtering över näsa o ansikte under grav
 
 
+
+
+
+### Kondylom
+
+***Etiologi och patofysiologi***
+
+* **Orsak kondylom:** HPV6, HPV11
+* 30 olika HPV kan ge
+* **Vanligast HPV som ger:** HPV6, HPV11
+
+
+
+***Kliniska kännetecken***
+
+* Inga symptom
+* obehag
+* klåda
+* sveda
+* sprickor
+* samlagssmrärta
+* psykosexuella symptom
+
+
+
+***Behandling***
+
+* Exspektans
+* lokalbehandling: podofyllotoxin (wartec)
+* immunmodulerande: aldara
+* kirurgi: laser, kryo, diatermi
 
 
 
@@ -3493,136 +4079,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-### Endometrios
-
-***Presentation***
-
-* 
-
-
-
-***Etiologi och patofysiologi***
-
-* **Exakt orsak okänd**
-* **Sampsons teori**: fragment av endometrium passerar med retrograd mens via äggledaren och implanteras på den peritoneala ytan
-* **Metplasimodellen**: endometrioslesioner bildas via differentiering mesoteliala celler t endometrieceller
-* **Metastaseringsteorin**: spridning av celler eller fragment av endometrium av lymfbanor och vener 
-* **Smärtmekanismer**: nociceptic smärta, neuropatisk smörta
-* **Lokalisation**: Endometrios kan förekomma VARSOMHELST; detta gör den svår att diffa o hitta...
-  * peritoneum, ovarier, blåsa, tarmar, djupa pelvina nerver, uretärerna, huden, diafragma, lungor, hjärna. 
-  * dröjsmål fr symptomdebut t dess diagnosen endometrios sätts är i snitt 7 år
-
-
-
-<img src="./imgs/gyn_sam_160321_m0JNImkNcZ.png" alt="m0JNImkNcZ" style="zoom:50%;" />
-
-
-
-***Kliniska kännetecken***
-
-* **DDDD**
-  * **Dysmenorre**
-  * **Dyspareuni**: smärta vid samlag
-  * **Dyschezi**: smärta vid avföring
-  * **Dysuri**
-* **"Mittelshmertz" ägglossningssmärta**
-* **Buk-bäckensmärta**
-* **Trötthet**
-* **Infertilitet**
-* **Depression**
-* **IBS-liknande symptom**
-
-
-
-***Differentialdiagnoser***
-
-* Myom
-* Adenomyos
-* Polyper
-* Varikösa vener
-* PID
-* adnextosrion
-* extrauterin grav
-* appendicit
-* Divertikulit
-* Ljunskbråck
-* Pyelonefrit
-* Uterusanomalier
-* Diskbråck
-
-
-
-***Utredning och handläggning***
-
-* **Diagnos**: laparoskopi eller ultraljud
-* **lokalisation**
-* **Prover**
-  * CRP: denna kan vara förhöjd
-* **Status**
-  * **Bukpalp**
-  * **Gynundersökning:** 
-    * ömhet över adnexae, 
-    * uterus, 
-    * FD, och SU-ligament, 
-    * ovarialresistens? 
-    * Noduli över sakrouterina? 
-    * frozen pelvis
-  * **Vaginalt UL**
-    * Vätska i FD (fossa douglassi)
-    * Endometriom
-    * Adherenser
-    * Uretärer
-  * **abd UL**: njurar
-  * **MR**: DIE
-  * **Laparoskopi**: see and treat 
-    * detta är det enda definitiva sättet att få diagnosen
-
-
-
-***Klassifikation***
-
-* ASRM
-* Laparoskopisk scoring stadie 1-4; 
-* Speglar inte fertilitetsprgonos samt ej DIE
-* T idag ingen klassifikation som täcker allt vad gäller patofys, locale, progress, smärta, infertilitet, behandling, prognos o recidiv
-
-
-
-***Behandling***
-
-* ***Behandlingstrappa***
-  * **Steg1**: COCs eller PG; NSAID + alvedon
-  * **Steg2**: kombinationsbehandling; trappsteg 1 + hormonspiral; TCA
-  * **Steg3**: GnRH analog; Svag opioid
-* ***Smärtbehandling***
-  * Mål: smärtkontroll, över QOL, minska spridning av sjd, skydda fertilitet, minska antal operationer, amenorré
-  * Gabapentin
-  * TCA
-  * TENS
-  * Sjukgymnastik
-  * Akupunktur
-* **Multidisciplinärt team**: gyn, repr, smärtkonsult, tarmkir, psykiater, kuratorer, sexolog, uroterapist, endometrios ssk, sjukgymnast, beroende läkare
-* ***Alternativ***
-  * **COCs continous** 
-  * **GnRH agonists**
-  * **Antiprogestiner**
-  * **Danazol**
-  * orala progestiner
-  * injecerbara progestiner
-  * levonorgestrel-IUS
-  * GnRH-antagonister
-  * Aromatas inhibitorer
-
-***Take home***: hög misstanke för endometrios för det är vanligt; beh kan påbörjas utan laparoskopi; DDDD
-
-
-
-<img src="./imgs/gyn_sam_160321_9ZeUIRg61D.png" alt="9ZeUIRg61D" style="zoom:50%;" />
-
-
-
-
-
 
 
 ### HELLP
@@ -3896,6 +4352,17 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 ## Tester
+
+### NAAT
+
+* Nucleic acid amplification test
+* tillgängligt hela landet
+* sens högre än odling
+* spec lägre 
+* män: första urinportion
+* kvinnor: vagina, cevix prov
+* rektalt prov: proktopskop el blint 3-4cm upp i analkanal
+* pos svar -> odling för resistensbestömning
 
 ### NST
 

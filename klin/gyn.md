@@ -1598,7 +1598,7 @@ cerivicit
 * **Ovarium**: 
   * **ena änden**: stort antal antralfolliklar + stor volym 
   * **andra änden**, motsatsen: oligofollukulär ovarie + lågt antal antralfolliklar + liten ovarialvolym
-  * 
+  * mellan dessa extremer är det normala multifollikulär ovariet. 
 
 
 

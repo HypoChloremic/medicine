@@ -1,3 +1,19 @@
+## Titlar
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
 ## Akut buk
 
 ### Ektopisk graviditet
@@ -804,10 +820,30 @@ cerivicit
 ***Multipla maligniteter***
 
 * högrisk synkrom eller metakronös ovarial och endometriecancer, speciellt endometrie carcinoid
-* swedish cohort: 16% index patienter diagnosticerades med minst en cancer
+* **swedish cohort**: 16% index patienter diagnosticerades med minst en cancer
 * 45% av dessa patienter hade uterincancer och bröstcancer
 
 
+
+### Gener ökar cancerrisk
+
+
+
+***Presentation***
+
+* Louise 38 år 
+  * 3 gravida, 1 para, kommer till Kvinnoklinikens mottagning med remiss från Klinisk Genetik på
+    Karolinska Universitetssjukhuset på grund av att hon tillhör en familj med Lynch syndrom med flera cancerfall i släkten.
+    * Vilka cancerformer förutom endometriecancer är de vanligaste hos kvinnor med Lynch syndrom?(1p):  Koloncancer?
+    * Nämn ytterligare minst en annan genetisk mutation som ger en ökad risk för cancer i kvinnliga könsorgan samt vilka organ som påverkas? (2p): BRCA1 och BRCA2 mutationer, som kan leda t cancer i bröst och ovarie ? 
+
+
+
+***Olika gener och mutationer***
+
+* **Lynch-syndrom**: endometriecancer, kolo(rektal?)cancer
+* **BRCA1**: bröstcancer, ovarialcancer
+* **BRCA2**: bröstcancer, ovarialcancer
 
 
 
@@ -1191,22 +1227,6 @@ cerivicit
 
 
 
-### PCOS
-
-***Allmänt***
-
-* polycystisk ovarial syndrom (PCOS)
-
-
-
-***Kliniska kännetecken***
-
-* **"String of pearls":** pga multipla folliklar som blir cystiska
-
-
-
-<img src="./imgs/gyn_sam_140321_w5xaC0D2zy.png" alt="w5xaC0D2zy" style="zoom:50%;" />
-
 
 
 ## Endokrinologi
@@ -1279,9 +1299,365 @@ cerivicit
 
 * första åb 6-10mån, därefter varje eller vartannat år om pat god kontroll. ska informeras krälvs långtidsmed
 * intolerans el prolaktin ej minskar med bromokriptin -> byta t annan dopaminagonist e.g. kabergolin el quinagolide sänkta prolaktin o ger färre biverkningar.
-* 
 
-## Graviditet
+
+
+
+
+### Menstruationscyk
+
+
+
+***Utredning och handläggning***
+
+* **Ovulation**: S-Progesteron kan man följa
+
+
+
+***Fysiologiskt***
+
+* **Folliklarna**
+  * Består av äggcell oocyt med omgivande celler
+  * 5v germinalcell migration, gonader: könscellerna (germincalcellerna) fr gulesäckens vägg, 
+  * mitotisk delning: loppet följande veckor, oogonier. v20 innehåller ovariet 6-7M oogonier
+  * flesta försvinner apoptos
+  * vissa ombildas primära oocyuter
+  * ogmges enkelt lager epitel: = follikelceller
+  * primordialfollikel = oocyut + omgivande follikeceller
+  * denna tidpunkt, v20..? första meiotiska celldelnig, som stannar i sen profas
+  * återuptpas strax före ovulation: kan ligga i sen profas i 45-50 år vissa av oocyterna.
+  * födsel, kvarstår 1M oocyter
+  * **atresi, minskar antalet folliklar, när börjar växa tid utv stadium**
+  * **genetiskt styrd atresi hastighet:** Turners syndrom; ena X-kromosom saknas eller defekt, atresihastighet accelerad, fördröjd eller uteliven pubertet eller prematur ovrialsvikt
+  * pubertet inträffar, ca 400 000 kvar follikar
+  * avtar antal ålder, klin konsekvenser
+    * spontanaborter ökad
+    * aneuploidier ökt
+    * anovulatoriska blödningsstörningar
+    * minsknings follikelantl bedömas med UL: minskad ovarial volum, miskning antal antralfolliklar, 2-5mm
+* **Follikelutveckling**: 
+  * under den fertila perioden hos kvinnan, sker kontin tillväxt folliklar
+  * **3 månader primordialfollikel -> ovulation**
+  * **tillväxt follikel startar föregående menscyukel**: fr 0.15mm-> 1mm i D
+  * **follikel 5mm:** senare del lutealfas före aktuell menscykel, växer follikel t 5mm
+  * **tillväxt oberoende av hormonell miljö **
+  * **MEN, FSH krävs bilda antrum, annars  atresi**
+  * **sent lutealfas, FSH stiga, rekrytering 5mm** redan före menstruatio start o under cykelns första dagar, rekrytering folliklar diameter ca 5mm
+  * **blir känsliga FSH, granuloas prolif, blir primärfollikel**
+  * **FSH o LH stimmar granulosa ökar östradiolprod**: via androgenprekursorer, diffunderat via basalmembra fr teca-interna
+  * **östradiol ökar FSH receptorer granulosa**
+  * **zona pellucida runt oocyt bildas mukopolysackaridstruktur:**, åtskilder fr omgivande granulosaceller
+  * hålrum mellan granulosa o antrum som är fyllt follikelvätska
+  * **cumulus oophorus, oocyt i moln av granulosaceller**
+  * **nu sekundär follikel**
+  * **mellan 5e-7e dagen i cykel**, selekteras 1 follikel för bli dominant
+    * **mest känslig för FSH skaffar försprång**
+    * **bildar då högre östrogenmängder,** 
+    * **granulosa prolif**
+    * **o follikel antar östrogen miljö**
+    * **östrogenerna i follikeln inducerar ännu fler FSH rec**
+    * **östrogenbildning + evt stegring inhibin fr granulosaceller -> hämmar selktivt FSH**
+    * **dominant follikel överlever pga mga FSH receptorer**, men **resterande går i atresi.** 
+    * dominant follikel ledande, uppnår 15-20mm som utnyttjas monitorering fertilitetsbeh 
+* ***Corpus luteum***
+  * efter ovulation, follikel är kvar = granulosa celler + theca interna celler
+  * kollaberar, ihopveckt utseende
+  * basalmembran bryts ned
+  * kärlförande bindväv växer in i follikel
+  * ses på UL
+  * bildas koagel i follikel
+  * granulosaceller + theca interna förändras morfologiskt, större, innehålla gult pigment, 
+  * luteinisering = den här omvandlignen som sker,
+  * celler kallas granulosaluteinceller och tekaluteinceller
+  * bildar östrogen + progesteron
+  * varierar storlek, regel 1cm i diameter.
+  * livslängd 11-13 d utan hCG
+  * luteolys utan hCG och minskade LH nivåer
+  * välvaskulariserad-> ibland brista, tsmptomgivande intraabdominella blödningar, cystbildningar, utgör viktig diff t ektopisk graviditet
+
+
+
+<img src="./imgs/gyn_sam_210321_rUbjgPbjjF.png" alt="rUbjgPbjjF" style="zoom:50%;" />
+
+
+
+
+
+***Faserna***
+
+* **Två faser**
+  * **Follikulär och luteal fasen**: förändringar i ovarierna över längden på cykeln
+  * **proliferative och sekretoriska fasen:** underhåller endoemtrie slemhinnan inför förväntad fertiliserat ovum. Om ingen fertilisering, corpus luteum degenererar o progesteron faller. Utan progesteron endometrial lining = menstruation
+* **Follikulär fasen**: elimination av östrogen + progesteron fr tidigare luteal fas -> graduell ökning FSH
+  * **FSH stimmar tillväxt ovarial folliklar,** 5-15 st, startar follikel fasen igen. 
+  * **primordial folliklar**: en blir den dominanta follikeln, utvecklas o mognar till ovulation
+  * **dominant follikel, östrogen**: den dominanta follikeln producerar östrogen, ökar mognaden follikel, 
+  * **dominant follikel, FSH LH receptorer:** östrogenet leder till att man ökar FSH o LH receptorer autokrint
+  * ***<u>Östrogensyntesen</u>***: två-cells teorin (two-cell theory). postulerar rollen FSH o LH (gonadotropiner) på ovarial follikulär mognad
+    * **theca celler, granulosa celler**: de två olika cellerna
+    * **theca celler, androgenprod, LH:** LH stimmar androgenprod fr kolesterol + pregnenolon i theca cellerna
+    * **androgen transport in i granulosa cellerna**: 
+    * **granuloas, FSH stimmar konvesion androgen t östrogen** (östron; det svagaste östrogenet)
+  * **ökande östrogen, negativ feedback FSH**: dominant follikel är skuddat fr sjunaknde FSH gm ökade FSH receptorer
+* ***Ovulation***
+  * **ovulationen är ingen momentan process, tar 2d**
+  * **Tidsmässigt:** 14d om mens cykel 28d
+  * **!!! Slutet av follikelfasen**, 
+    * **!!! har östrogenproduktionen ökat exponentiellt** -> **Trigger anterior hypofys, LH spike**
+  * **LH spike, progest, prostaglandin, follikel**: 
+    * trigger resumed meios i oocyuter, inducerar prod progesteron + prostaglandin i follikeln
+    * frisätts prostalglandeiner, + rad tillväxtfaktorer + cytokiner + proteolytiska enzymer + aktivera kontraktila element i stroma kring follikel
+  * ***Progesteron + prostaglandin -> ruptur follikelväggen -> släpper iväg oocyten***: 
+  * **Ovum passerar in i tuba**: swept in i uterus med cilier av tuba. Tar 3-4d
+  * **Meios, sekundär oocyt, polkroppen**: meios avstannad edan fosterliv, återupptas under follikelmognad
+  * i o med första meiotiska delningan bildas den så kallade första polkroppen (som verkar går i atresi): 
+  * äggceller är därefter = sekundär oocyt
+  * sekundär oocyt fortsätter in i andra meiotisk delning, stannar i metafas
+  * delning avslutas efter ovuklation, troligen bara om oocyt blivit fertiliserad, normalt sker i tubans ampulldel
+* **Fertilisering**: måste ske inom 24h eller den degenererar
+* **Luteal fasen**: 
+  * **Östrogen faller efter ovulation, stegrar under lutealfas 1a vecka**
+  * **Corpus luteum, LH stim**: Granulosa + theca interna väggen
+  * **corpus luteum, östrogen + mkt progesteron**: corpus luteum producerar östrogen och signifikanta mängder progesteron. 
+    * progesteron når max prod cap efter 1 vecka fr ovulation
+    * östrogen når sällan lika hög nivå som före ovulation
+  * **östrogen + preogesteron -> preppar endometriet för implant**
+  * **endometrie glandulärt, sekretorisk**: inför implant; körtlarna utvidgas, blir slingriga, morfologiska tecken som sekretion, ödem i stroma. 
+    * cervixsekret mer sparsamt, segt, grumligt, ogenomtränligt för spermier
+  * **progesteron medför ökad basaltemp 0.3-0.5grader**: beror på progesteron termoreglerande effekt på hypothalamus
+  * **OM fertilisering, trofoblaster, hCG, LH**: trofoblasterna formas efter fertilisering; dessa producerar hCG, glykoprotein likt LH, underhåller corpus luteum, så att fortsätta producera östrogen + progesteron för att underhålla endometrium. 
+  * **trofoblaster prolif efter implantation**
+  * **kom ihåg corpus luteum 10 dagar nästan innan den går i atresi utan hCG, så vi har tid för att implantera och proliferera trofoblaster och prod hCG!**
+  * **fortsätter tills placenta utvecklas egen syntes av hcg, vid v8-v10 gestationsvecka.**
+  * om fertilisering med konkomitant hCG inte sker, corpus luteum degen, progesteron faller, endometriet kan inte underhållas, menstruation sker
+* **Menstruation**
+  * follikel fas = proliferationsfas i endometriet, pga östrogen, proliferar
+  * luteal fasen  = sekretorisk fas i endometriet, mognar för att kunna support implantation
+  * om ovum ej fertiliserad, corpus luteum går igm luteolys efter 11-13d, 
+  * fall östrogen o progesteron,
+  * endometrieslemhinnan kan inte underhållas, varpå stöts bort  = menstruatino
+
+
+
+
+
+<img src="./imgs/gyn_sam_150321_vx5W65MOsQ.png" alt="vx5W65MOsQ" style="zoom: 80%;" />
+
+
+
+
+
+<img src="./imgs/gyn_sam_150321_acvVzShNpJ.png" alt="acvVzShNpJ" style="zoom:50%;" />
+
+
+
+
+
+### Menstruation
+
+***Data***
+
+* **Intervall:** 21-35d
+* **Duration:** 4-6d
+* **Blodförlust:** 25-40mL
+* **!!! Anemi om >80mL**
+
+
+
+***Utredning och handläggning***
+
+* **Faststäla kliniskt ovulation**
+  * **Anamnes**: regelbundna mens -> premenstruella symptom
+  * **Bedömning cervixsekret**
+  * **Kroppstemp stiger**: progesteronmetaboliter höjer temp.
+  * **UL ovarier**: dominant follikel 20-25mm
+  * **Progesteronnivå:** 21-23d, corpus luteuminfektion
+  * **LH-nivå**: ovulation ca 10h <u>**efter**</u> LH-peak
+
+
+
+### Menstruation - amenorre
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* Orsaker till amenorre
+  * viktnedgång, anorexia nervosa
+  * intensiv träning: idrottsamenorre
+  * emotionell stress
+  * hyperprolaktinemi
+  * PCOS
+  * Thyroideadysfunktion
+  * Ovariellsvikt
+  * kromosomrubbningar
+  * missbildningar
+
+
+
+***Indelning***
+
+* **Indelning amenorre enl gonadotropinnivåer**
+  * **Hypogonadotrop hypogonadism:** 
+    * Fysiologisk försening
+    * anorexia nervosa
+    * intensiv träning
+    * hyperprolaktinemi
+  * **Normogonadotrop hypogonadism**
+    * fysiologisk försening
+    * PCOS
+    * intensiv träning
+    * missbildningar
+  * **Hypergonadotrop hypogonadism**
+    * Kromosomavvikelser
+    * prematur ovariellsvikt
+
+
+
+***Diagnostik***
+
+* ***Nivådiagnostik***
+  * **Nivå1, uterus:**, mullerian agenesi, hymen imperforatum
+  * **Nivå2, ovarier:**  gonaddysgenesi
+  * **Nibå3, hypofys**: adenom
+  * **Nivå4, hypothalamus**: kallmans syndorm, anosmi, utebliven pubertet
+* **Primär amenorre**: spontan menstruation har aldrig förekommit, oavsett ålder
+* **Försenade menarche:** Ingen menstruation vid fyllda 16åå
+* **Försenad pubertet:** inga pubertetstecken vid 14åå
+  * Pubertet: längd utveckling - thelarche - adenarche
+* **Sekundär amenorre:** Menstruationsuppehåll >= 3 månader
+
+
+
+***Epidemiologi***
+
+
+
+***Kliniska kännetecken***
+
+* Utebliven menstruation
+
+
+
+***Utredning och handläggning***
+
+* ***Anamnes***
+  * **hereditet**
+  * **tillväxt**
+  * **emotionellstress**
+  * **nutrition**: 
+    * vegetarian, 
+    * tecken t ätstörningar, 
+    * viktnedgång, 
+    * **viktuppgång + ökad behåring**
+  * **Galaktorre, huvudvärk**
+  * **fysisk aktivitet**
+  * **kroniska sjukdomar**
+  * **medicinering**
+* **Status**
+  * **BMI, fettfördelning**
+  * **pubertetsutv** enl Tanner
+  * **galaktorre**
+  * **östrogenpåverkan**: bröstutv, slemhinnor
+  * **androgenpåverkan:** acne, hirsutism, klitorisförstoring
+  * **UL**: uterus, ovariestorlek
+* **Labb o test**
+  * **uteslut graviditet**: u-hCG
+  * **hormonanalyser**: FSH, LH, prolaktin, TSH, fT4
+  * **Progesterontest**
+  * **uteslut kromosommissbildningar**: mullerska gångar (vet ej oom man antyder statusmässigt)
+  * **kromosomanalys**: bestäm karyotyp
+* **Neuroradiologi**: 
+  * **MRT sella turcica**: misstanke hypofystumör
+* **Progesterontest**: Provera 10mg 1x1 7d
+  * kontroll endogen östrogennivå + om normal anatomi
+  * om blödning -> anovulation
+
+
+
+***Behandling***
+
+
+
+
+
+### PCOS
+
+***Presentation***
+
+***Allmänt***
+
+* polycystisk ovarial syndrom (PCOS)
+
+
+
+***Etiologi och patofysiologi***
+
+* **Polycystiska mångblåsiga ovariet**: är en normalvariant 
+  * **prevalens** 20% unga kvinnor
+* **Ovarium**: 
+  * **ena änden**: stort antal antralfolliklar + stor volym 
+  * **andra änden**, motsatsen: oligofollukulär ovarie + lågt antal antralfolliklar + liten ovarialvolym
+  * 
+
+
+
+***Epidemiologi***
+
+* vanligaste endokrina avvikelsen hos kvinnor fertil ålder, 
+* prevalesns 5-10%
+
+
+
+***Kliniska kännetecken***
+
+* **heterogen klinisk bild**
+* **menstruationsrubbningar**
+  * ovulationsstörningar
+  * anovulatorisk infertilitet
+  * **kutan manifestation av hyperandrogenism:** 
+    * hirsutism 
+    * akne
+* **föreligger ofta metabol avvikelser**
+  * central fetma
+  * insulinresistens
+* **"String of pearls":** pga multipla folliklar som blir cystiska
+* **Tillståndet varierar**
+  * **baserat på antalet antralfolliklar**: i ovarierna
+
+
+
+<img src="./imgs/gyn_sam_140321_w5xaC0D2zy.png" alt="w5xaC0D2zy" style="zoom:50%;" />
+
+
+
+***Långtidsrisker***
+
+* **DM2**
+* **CVDs:** kardiovaskulär sjukdom
+* **endometriecancer**
+
+
+
+***Diagnos***
+
+* **PCOS diagnosticeras med gyn UL**: uppvisar 12 antralfolliklar och eller en ovarievolym på 10cm3
+* **enl ROtterdam, ska ha påvisats, minst 2 av 3**:
+  * polycystiska ovarier på UL
+  * anovulation
+  * kliniska hormonella tecken hyperandrogenism
+* **Differentialdiagnoser ska vara uteslutna.** 
+* **Fler krafter på g**: att enbart använda antimullerskt hormon (AMH) för att diffa, eller att man höjer antalet ID antralfolliklar till 19 ist för 12, då man är duktig på att hitta dessa folliklar nu med current UL teknik, 
+
+
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
+## Grav
 
 
 
@@ -1522,7 +1898,7 @@ cerivicit
 
 <img src="./imgs/gyn_sam_190321_FXxRKJAXcW.png" alt="FXxRKJAXcW" style="zoom:50%;" />
 
-## Graviditet sjukdomar
+## Grav sjd
 
 ### Anemi
 
@@ -2058,9 +2434,78 @@ cerivicit
 
 ### Bakteriell vaginos
 
+
+
+***Presentation***
+
+* Ett alternativ korrekt
+  * Vid vulvovaginal svampinfektion finns relativt hög risk för uppåtstigande infektion (salpingit).
+  * Vid bakteriell vaginos noteras ofta rodnade slemhinnor.
+  * Vid bakteriell vaginos bör man alltid överväga partnerbehandling.
+  * Vid vulvovaginal svampinfektion noteras ofta gråaktig flytning.
+  * Vid bakteriell vaginos kan man behandla både systemiskt och vaginalt
+
+
+
+***Etiologi och patofysiologi***
+
+* Obalans i bakteriefloran
+* 
+
+
+
 ***Kliniska kännetecken***
 
 * Grå-vit vattning discharge
+* illaluktande flytning
+* 3 av 4 amsels kriterier
+  * tunn 
+  * honogen ofta bubblig flytning
+
+
+
+***Utredning och handläggning***
+
+* **positivt snifftest**
+* **pH över 4.5**
+* **clueceller i wet smeat, få laktobaciller**
+
+
+
+***Behandling***
+
+* Dalacinkräm / vag, 
+* donaxul
+* zidovalgel
+* flagyl
+
+
+
+***!!! Komplikationer***
+
+* Prematurbörd
+* **!!! Endometrit**
+
+
+
+### Bartolinit
+
+***Etiologi och patofysiologi***
+
+* Bakteriell infektion i bartolinis körtlar
+* ofta anaerober
+
+
+
+***Kliniska kännetecken***
+
+* Snabbt uppseglande svullnad i vuvlas nedre del
+
+
+
+***Behandling***
+
+* Incision och dränering
 
 
 
@@ -2079,7 +2524,7 @@ cerivicit
 * Bakteriella infektioner
   * klamydia
   * mykoplasma genitalis
-  * gonoore
+  * gonorre
   * utöver vaginala agens
 
 
@@ -2145,6 +2590,52 @@ cerivicit
 
 
 
+
+
+### Gonorre
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* Neisseria gonorrhoeae: gramnegativ diplokock
+
+
+
+***Epidemiologi***
+
+* 2700 fall i Sverige, 2018.
+* ökat senaste åren
+* kvinnor 24%
+* 50% var MSM (män sex med andra män)
+
+
+
+***Kliniska kännetecken***
+
+* **Som vid klamydiainfektion**
+  * miktionssveda?
+  * blödningar?
+* **septisk artrit**: gonorre kan ge
+* **svalginfektion**
+
+
+
+***Utredning och handläggning***
+
+* **NAATs vid screening**
+* **vid misstanke:** 
+  * odling fr lokaler beroende på lokaler
+  * uretra, endocervix, svalg, rektum
+* **Odling innan behandling**, antibiotikaresistens
+* **tala med venerolog**
+
+
+
+***Behandling***
+
+* Förstagångsbehandling: inj ceftriaxon m lidocain 1g im engångsdos
+
 ### Herpes
 
 ***Etiologi och patofysiologi***
@@ -2168,6 +2659,140 @@ cerivicit
 * Valaciklovir 500mg 1x2 3-14d
   * profylax 1x1 aciklovir..
 * Ingen lokal behandling har en plats (LKM boken)
+
+
+
+
+
+### Klamydia
+
+***Presentation***
+
+* 23 åring 1g 0 p, 1 l.a. för några år sedan
+  * Sveda vid miktion
+  * Lite spottings
+  * Manlig partner sedan några månader
+  * Urinsticka visar 4+ lpk, neg nitrit
+  * Ingen feber
+  * Undersökning visar: 
+    * cervicit, ingen ömhet uteurus adnexa, UL normalt, CRP normalt, 
+    * prover? behandling?
+
+
+
+***Etiologi och patofysiologi***
+
+* **Vanligaste STI**: 90M per år
+* **Kan relateras t flertalet infektioner**
+  * cervicit
+  * endometrit
+  * salpingit
+  * PID
+  * tuboovarialabscess
+  * perihepatit
+  * periappendicit
+  * proktit
+  * konjunktivit
+  * bartolinit
+  * reaktiv artrit
+* Barn: barn kan smittas vid födsel: konjunktivit, pneumoni
+
+
+
+***Epidemiologi***
+
+* 32k Sverige 2018, 57% kvinnor
+
+
+
+***Kliniska kännetecken***
+
+* 70-80% utan symptom
+* miktionssveda
+* blödningar
+* barn kan smittas vid födsel: konjunktivit, pneumoni
+
+
+
+***Utredning och handläggning***
+
+* Provtgning för: NAAT
+  * cervix eller vaginalvägg
+  * ev förstaportion urin
+  * EJ enbart urinprov på kvinnor
+  * övriga lokaler bas på anamnes: rektalprov, ögon
+* barn kan smittas vid födsel: konjunktivit, pneumoni
+
+
+
+***Behandling***
+
+* Doxycyklin 100mg 1x2, morgon o kväll, 7d
+* uppåtstigande infek: doxy 100mg 1x2, 10-14d
+* anmälningspliktig enl SIML
+
+
+
+***Komplikationer***
+
+* kronisk buksmärta
+* reaktiv artrit
+* infertilitet pga skada på äggledare
+* extrauterin grav
+
+
+
+
+
+### Mykoplasma genitalis
+
+***Presentation***
+
+
+
+***Etiologi och patofysiologi***
+
+* Liknar klamydiainfektion
+  * uretrit
+  * cervicit
+  * endometrit
+  * salpingit
+  * PID
+  * konjunktivit
+  * reaktiv artrit
+
+
+
+***Epidemiologi***
+
+* Lika vanlig som klamydia
+* ej anmälningspliktig enl smittskyddslagen
+
+
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+* **omfattas ej av SML**
+* **NAAT **
+  * **pinne vagina cervix,** 
+  * **i förstaportionsurin vid symptom**
+  * partnerprov
+* Resistensprov: kontrollprov 4v efter insatt behandling
+
+
+
+***Behandling***
+
+* Azitromycin 250mg, 2st dag 1, 1st 4d
+* resistensutv: kontrollprov 4v
+
+
+
+***Komplikationer***
+
+* Infertilitet?
 
 
 
@@ -2196,6 +2821,56 @@ cerivicit
 
 
 
+### Smittskyddslagen
+
+
+
+***Presentation***
+
+* Fatima 
+  * har fått ett brev att hon bör testa sig för klamydia. Hon har inga besvär men DNA-testen bekräftar att hon är smittad. Hon har nu en fast relation med Konrad.Vad är korrekt i denna situation? (1p)
+
+
+
+***Infektioner som omfattas av lagen***
+
+* HIV
+* HBV
+* Klamydia
+* Gonorre
+* Syfilis
+
+
+
+***Syfte***
+
+* skydda befolkningen mot smittsamma sjukdomar
+* förhindra komplikationer gm tid behandling
+* vara skydd stöd samhällets sida
+* tydliggöra rättigheter o skyldigheter
+* öka kunskap om STI o erbjuda stöd o råd
+
+
+
+***Behandlande läkare***
+
+* Kostnadsfri undersökning + provtagning
+* kostnadsfri behandling, ange på recept: "kostnadsfritt enl SML"
+* vid misstanke om infektion behandla innan provsvar
+* informera om infektionen och smittsamhet och skyldighet att hindra smittspridning, rek avhållsamhet, kondom
+* erbjud fast partner behandling efter provtagning
+* smittskyddsanmäler
+* smittspårning
+
+
+
+***Patientens skyldigheter***
+
+* Den som vet eller har anledning att misstänka att han eller hon bär på en smittsam sjukdom är skyldig att vidta de åtgärder som krävs för att skydda andra mot smittrisk.
+* Den som vet att han eller hon bär på en allmänfarlig sjukdom är skyldig att lämna information om smittan till andra människor som han eller hon kommer i sådan kontakt med att beaktansvärd risk för smittoöverföring kan uppkomma.
+
+
+
 ### STI
 
 ***Utredning och handläggning***
@@ -2205,6 +2880,75 @@ cerivicit
   * Bakteriell vaginos
 
 
+
+### Syfilis
+
+***Etiologi och patofysiologi***
+
+* Treponema pallidum, spiroket
+
+* primärchanker genitalt eller oralt
+
+* tre stadier
+
+  * stadium 1-2, smittsam första 2 åren
+
+  
+
+
+
+***Kliniska kännetecken***
+
+* oömt
+
+
+
+***Epidemiologi***
+
+* 450 fall 2018; 12% kvinnor, ökat 22% jfr 2017
+
+
+
+***Utredning och handläggning***
+
+* Diagnos med serologi
+* kontrakt med venerolog
+
+
+
+### Svamp
+
+***Etiologi och patofysiologi***
+
+* candida albicans 90%
+* candida glabrata 40%
+
+
+
+***Kliniska kännetecken***
+
+* Klåda
+* sveda
+* sprickor
+* eksem
+* rodnad
+* kornig flytning
+
+
+
+***Utredning och handläggning***
+
+* **Diagnos**: klinik + mikroskopi + odling
+
+
+
+***Behandling***
+
+* enstaka lokalbehandling
+  * canesten
+  * pevaryl
+  * po fluconazol 150mg
+* hygienråd
 
 
 
@@ -2338,16 +3082,69 @@ cerivicit
 
 
 
+### Trichomonas
+
+***Etiologi och patofysiologi***
+
+* Trichomonas vaginalis: anaerob flagellat
+
+
+
+***Kliniska kännetecken***
+
+* Illaluktande flytningar, 
+* blödningar, 
+* klåda, 
+* sveda
+
+
+
+***Utredning och handläggning***
+
+* Diagnos: mikroskopi ! odling
+
+
+
+***Behandling***
+
+* 2g flagyl
+* partnerbehandling
+
+
+
+
+
+## Hematologi
+
+### Anemi - järnbrist
+
+
+
+***Etiologi och patofysiologi***
+
+* **järnbristanemi**
+  * **25% entrar grav har tomma järnförråd:** järnbrist utan anemi; kmr bli trötta hängiga etc under graviditeten. 
+  * **mensblödningar är särklass största orsak till järnbristanemi** hos kvinnor
+
+
+
+***Utredning och handläggning***
+
+* **Anamnes**
+  * har man en trött hängig pat
+  * ge inte bra direkt järnpiller
+  * utan **fråga om menstruationerna**
+
+
+
+
+
 ## Hud
 
 ### Cholasma
 
 * Pigmentförändringar under graviditet
 * blotchy pignemtering över näsa o ansikte under grav
-
-
-
-
 
 ### Kondylom
 
@@ -2545,6 +3342,149 @@ cerivicit
   * medicinsk abort
   * kirurgisk abort: vakuumexeres / skrapning
 * Senast tillåtet abort enl lag (healthy foster): v22
+
+
+
+
+
+
+
+### Assisterad befrukt
+
+
+
+***Presentation***
+
+
+
+***Metoder***
+
+* **Allmänt**
+  * Make-insemination
+  * Make-insemination + hormonell stimulering
+  * IVF
+* **Stimulering och punktion**
+  * **Hormonstimuleringsmodell**: 
+    * GnRH-agonist  eller GnRH-antagonist 
+    * \+ kmbinerad med inj FSH eller hMG
+    * \+ samt hCG
+    * **orsak**: inducera slutlig äggmognad (dominanta folliklar)
+    * **syfte**: erhålla 5-12 mogna äggceller; förefaller bäst resultat
+  * **Uthämtning ägg**: gm transvaginal punktioin mha vaginalt UL, utan eller med måttlig anestesi. 
+  * **odling utanför kroppen**: några timmar
+  * **tillsätts tvättade spermier**
+  * **injektion spermier, ICSI:** om spermiemängd eller rörlighet låg
+  * **odling igen efter fertilisering**: inspekteras efter ett dygn, letar 2 förkärnor aka pronuclei
+* **Odling**
+  * Stor variation
+  * **Enklaste medien:** balanserad koksaltlösning + buffert + glukos + pyruvat + protein + evt aminosyror
+    * 5% CO2, 
+    * 5-20% O2
+  * **Tidsspann**: 1-3d, vissa odlar upp t 5-6d (för att blastocyststadiet)
+  * **stadier befruktade äggceller**: fr pronukleisstadiet på dag 1, över 4-cellstadie dag 2, t 6-10 cellstadiet dag 
+    * vissa till blastocyststadiet om man väntar tillräckligt länge. 
+* **Frysning**
+  * successful med spermier
+  * inte kliniskt brett med äggceller
+  * **möjliggort för fler chans gör grav**: ett ägg återförs stimmad cykel, resten sparas,
+* **Återförande**
+  * med kateter, mjuk
+  * återför endast 1 embryo unless diskuterat med pat
+  * **vid spermiedonation:** befruktas tilltänkt moderns ägg med donator spermier
+  * **vid äggdonation**: donatorn stimmas o genomgår ägguttag, äggen sen befrutkas tilltänkta faderns spermier, o efter befrukt återförs t tilltänkt moder som förebeh med östrogen o progest
+  * **flera befruktade ägg**: frysa ned dessa.
+
+
+
+***Indikationer för assisterad befruktning***
+
+* **Allmänt**
+  * Impotens hos man
+  * oförklarad infertilitet
+  * mild manlig faktor
+  * cervixfaktor
+* **Indikation för IVF**
+  * tubarskada
+  * endometrios
+  * oförklarad infrtilitet
+  * **manlig faktor**: största orsaken, efter att ICSI uppfunnits
+  * allra flesta former av infertilitet
+  * alla typer av infertilitet kan behandlas
+  * isolerade eller i kombination infertilitet
+  * **kan ej behandlas**: förändringar livmodern (uterusfaktor), 
+
+
+
+***Epidemiologi***
+
+* **Blastocyståterförande**: kr 70% grav per överföring; 
+  * innebär ibland bara positivt gravtest
+* 30% födslar per återförande, trots återför 1 embryo 70% fallen, aldrig mer än 2. 
+* återförande frysta är sämre. 
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utredning och handläggning***
+
+* **Make-insemination**
+  * **Make-insemination**
+    * procedur strax innan ägglossning (inte efter): att man har timeat detta med pats menstruationscykel
+    * LH-tester i urin, kommersiellt tillgängliga, för att hitta LH topp och fatta när ägglossning är 
+    * **enkelbehandling**: 10-15% success, men kumulativt blir det effektivt. 
+  * **Insemination + hormonstimulering**
+    * Notera att med insemination innebär inte att man fertiliserar exogent utanför kroppen, utan försöker förbättra chanserna jfr vanlig insemination. 
+    * **Bättre resultat när hormonstimulerar**: kontrollerad stim gonadotropiner med utan GnRH-analoger.
+    * success 20-25% ggr kumulativ frekvens på över 50%
+    * **Nackdel**: multipelgravidtet ökad risk (att man får tvillingar, trillingar, och flera)
+* **in-vitro fertilisering**
+  * Den mkt kändare och bredare använda formen av assisterad befruktning, i Sverige och internationellt
+  * **PGD nödvändigt med IVF**: PGD (Preimplantatorisk genetisk diagnostik)
+  * **Stamcellsforskning, IVF nödvändigt**
+  * visualisering enskilda äggblåsor ovarier, tillväxtmätning, punktion, ägguttagning gm UL, ffa vaginal UL undersökning
+  * **ICSI**: intracytoplasmatisk spermieinjektion
+  * **typer infertilitet som kan behandlas**
+    * alla typer av infertilitet kan behandlas
+    * isolerade eller i kombination infertilitet
+    * **kan ej behandlas**: förändringar livmodern (uterusfaktor), 
+
+
+
+***Behandling***
+
+* **Make-insemination, IUI** (intrauterin insemination): man har skiljt spermier fr spermieplasma (ngt som normalt cker när de passerar cervix)
+  * intravaginal deposition färskt ejakulat eller
+  * intracervikal deposition färskt ejakulat
+  * göra spermier befruktningsdugliga med ett preparatory-kit (swim-up technique) etc. 
+  * katetrar för IUI finns också
+  * Oklart om patienterna sj kan göra detta.
+* **Insemination + hormonstimulering**
+  * stimulering gonadotropiner
+  * med eller utan GnRH-analoger
+* **IVF**
+
+
+
+***Kontraindikation***
+
+* **för Make-insemination**
+  * **äggledarskada**: förmodad eller känd
+
+
+
+***Komplikationer***
+
+* **Multipelgraviditet**
+* **Hormonstimulering och äggextraktion**
+  * **Multipelgraviditet**
+  * **OHSS**: ovariell hyperstimuleringssyndrom
+  * **Blödning eller infektion**
+  * **allergier gonadotropin el progesteron**
+
+
 
 
 
@@ -2978,28 +3918,82 @@ cerivicit
 
 
 
+### Infertilitet
 
 
 
-
-### Järnbristanemi
+***Presentation***
 
 ***Etiologi och patofysiologi***
 
-* **järnbristanemi**
-  * 25% entrar grav har tomma järnförråd: järnbrist utan anemi; kmr bli trötta hängiga etc under graviditeten. 
-  * mensblödningar är särklass största orsak till järnbristanemi hos kvinnor
+* **Ovulatoriska störningr:** 
+  * hypothalamisk anovulation.
+  *  PCO 
+  * ovariellsvikt
+* **Tubarobstruktion:** 
+  * infektioner
+  * ektopisk graviditet
+  * endometrios
+* **Endometrios**
+* **Uterina orsaker:** 
+  * submukösa leiomyom, 
+  * malformation
+* **Sexuellstörning**: vaginism
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
 
 
 
 ***Utredning och handläggning***
 
 * **Anamnes**
-  * har man en trött hängig pat
-  * ge inte bra direkt järnpiller
-  * utan **fråga om menstruationerna**
+  * Ålder
+  * Pubertetsutvecklin, tidg sjd
+  * menscykel mönster: amenorre, oligomenorre, ovulationstester
+  * tidg grav, även missfall
+  * riskfaktorer för tubarskada, operationer
+* **Livsstilsfaktorer**
+  * rökning
+  * alkohol
+  * övervikt förenad med subfebrilitet
+  * speciellt hos kvinnor med oligomenorre och PCOS
+  * undervikt
+* **Status**
+  * BMI
+  * Acne
+  * tecken åp hyperandrogenism
+  * thyroide
+  * UL och gynundersökning
+* **Diagnostik**
+  * **Ovulation:** 
+    * UL folliklar, 
+    * antal folliklar, 
+    * niormal mens
+    * S-progesteron
+    * TSH
+    * FSH,
+    * LH o PRL om amenorre el oligomenorre
+  * **Tubar**: hystrosonossalpingografi
+  * **Endometrios**: anamnes, dysmenorre, smärta, gynekologiskt status, smärtfulla resistenser, ovariecystor
+  * **Uterus utseende:** UL
 
 
+
+***Behandling***
+
+* **Ovulationinduktion**
+  * antiöstrogen i PCO
+  * gonadotropin vid hypothalamisk amenorre
+* **Operativ behandling endometrios**
+* **inseminering + ovulationsinduktion** om oförklarlig infertilitet
+* **IVF:** 
+  * tubarskada
+  * endometrios
+  * anovulation
 
 ### Kombinerade metoder
 
@@ -3059,148 +4053,6 @@ cerivicit
 
 
 
-### Menstruationscykeln
-
-
-
-***Utredning och handläggning***
-
-* **Ovulation**: S-Progesteron kan man följa
-
-
-
-***Fysiologiskt***
-
-* **Folliklarna**
-  * Består av äggcell oocyt med omgivande celler
-  * 5v germinalcell migration, gonader: könscellerna (germincalcellerna) fr gulesäckens vägg, 
-  * mitotisk delning: loppet följande veckor, oogonier. v20 innehåller ovariet 6-7M oogonier
-  * flesta försvinner apoptos
-  * vissa ombildas primära oocyuter
-  * ogmges enkelt lager epitel: = follikelceller
-  * primordialfollikel = oocyut + omgivande follikeceller
-  * denna tidpunkt, v20..? första meiotiska celldelnig, som stannar i sen profas
-  * återuptpas strax före ovulation: kan ligga i sen profas i 45-50 år vissa av oocyterna.
-  * födsel, kvarstår 1M oocyter
-  * **atresi, minskar antalet folliklar, när börjar växa tid utv stadium**
-  * **genetiskt styrd atresi hastighet:** Turners syndrom; ena X-kromosom saknas eller defekt, atresihastighet accelerad, fördröjd eller uteliven pubertet eller prematur ovrialsvikt
-  * pubertet inträffar, ca 400 000 kvar follikar
-  * avtar antal ålder, klin konsekvenser
-    * spontanaborter ökad
-    * aneuploidier ökt
-    * anovulatoriska blödningsstörningar
-    * minsknings follikelantl bedömas med UL: minskad ovarial volum, miskning antal antralfolliklar, 2-5mm
-* **Follikelutveckling**: 
-  * under den fertila perioden hos kvinnan, sker kontin tillväxt folliklar
-  * **3 månader primordialfollikel -> ovulation**
-  * **tillväxt follikel startar föregående menscyukel**: fr 0.15mm-> 1mm i D
-  * **follikel 5mm:** senare del lutealfas före aktuell menscykel, växer follikel t 5mm
-  * **tillväxt oberoende av hormonell miljö **
-  * **MEN, FSH krävs bilda antrum, annars  atresi**
-  * **sent lutealfas, FSH stiga, rekrytering 5mm** redan före menstruatio start o under cykelns första dagar, rekrytering folliklar diameter ca 5mm
-  * **blir känsliga FSH, granuloas prolif, blir primärfollikel**
-  * **FSH o LH stimmar granulosa ökar östradiolprod**: via androgenprekursorer, diffunderat via basalmembra fr teca-interna
-  * **östradiol ökar FSH receptorer granulosa**
-  * **zona pellucida runt oocyt bildas mukopolysackaridstruktur:**, åtskilder fr omgivande granulosaceller
-  * hålrum mellan granulosa o antrum som är fyllt follikelvätska
-  * **cumulus oophorus, oocyt i moln av granulosaceller**
-  * **nu sekundär follikel**
-  * **mellan 5e-7e dagen i cykel**, selekteras 1 follikel för bli dominant
-    * **mest känslig för FSH skaffar försprång**
-    * **bildar då högre östrogenmängder,** 
-    * **granulosa prolif**
-    * **o follikel antar östrogen miljö**
-    * **östrogenerna i follikeln inducerar ännu fler FSH rec**
-    * **östrogenbildning + evt stegring inhibin fr granulosaceller -> hämmar selktivt FSH**
-    * **dominant follikel överlever pga mga FSH receptorer**, men **resterande går i atresi.** 
-    * dominant follikel ledande, uppnår 15-20mm som utnyttjas monitorering fertilitetsbeh 
-* ***Corpus luteum***
-  * efter ovulation, follikel är kvar = granulosa celler + theca interna celler
-  * kollaberar, ihopveckt utseende
-  * basalmembran bryts ned
-  * kärlförande bindväv växer in i follikel
-  * ses på UL
-  * bildas koagel i follikel
-  * granulosaceller + theca interna förändras morfologiskt, större, innehålla gult pigment, 
-  * luteinisering = den här omvandlignen som sker,
-  * celler kallas granulosaluteinceller och tekaluteinceller
-  * bildar östrogen + progesteron
-  * varierar storlek, regel 1cm i diameter.
-  * livslängd 11-13 d utan hCG
-  * luteolys utan hCG och minskade LH nivåer
-  * välvaskulariserad-> ibland brista, tsmptomgivande intraabdominella blödningar, cystbildningar, utgör viktig diff t ektopisk graviditet
-  * 
-
-
-
-***Faserna***
-
-* **Två faser**
-  * **Follikulär och luteal fasen**: förändringar i ovarierna över längden på cykeln
-  * **proliferative och sekretoriska fasen:** underhåller endoemtrie slemhinnan inför förväntad fertiliserat ovum. Om ingen fertilisering, corpus luteum degenererar o progesteron faller. Utan progesteron endometrial lining = menstruation
-* **Follikulär fasen**: elimination av östrogen + progesteron fr tidigare luteal fas -> graduell ökning FSH
-  * **FSH stimmar tillväxt ovarial folliklar,** 5-15 st, startar follikel fasen igen. 
-  * **primordial folliklar**: en blir den dominanta follikeln, utvecklas o mognar till ovulation
-  * **dominant follikel, östrogen**: den dominanta follikeln producerar östrogen, ökar mognaden follikel, 
-  * **dominant follikel, FSH LH receptorer:** östrogenet leder till att man ökar FSH o LH receptorer autokrint
-  * ***<u>Östrogensyntesen</u>***: två-cells teorin (two-cell theory). postulerar rollen FSH o LH (gonadotropiner) på ovarial follikulär mognad
-    * **theca celler, granulosa celler**: de två olika cellerna
-    * **theca celler, androgenprod, LH:** LH stimmar androgenprod fr kolesterol + pregnenolon i theca cellerna
-    * **androgen transport in i granulosa cellerna**: 
-    * **granuloas, FSH stimmar konvesion androgen t östrogen** (östron; det svagaste östrogenet)
-  * **ökande östrogen, negativ feedback FSH**: dominant follikel är skuddat fr sjunaknde FSH gm ökade FSH receptorer
-* ***Ovulation***
-  * **ovulationen är ingen momentan process, tar 2d**
-  * **Tidsmässigt:** 14d om mens cykel 28d
-  * **!!! Slutet av follikelfasen**, 
-    * **!!! har östrogenproduktionen ökat exponentiellt** -> **Trigger anterior hypofys, LH spike**
-  * **LH spike, progest, prostaglandin, follikel**: 
-    * trigger resumed meios i oocyuter, inducerar prod progesteron + prostaglandin i follikeln
-    * frisätts prostalglandeiner, + rad tillväxtfaktorer + cytokiner + proteolytiska enzymer + aktivera kontraktila element i stroma kring follikel
-  * ***Progesteron + prostaglandin -> ruptur follikelväggen -> släpper iväg oocyten***: 
-  * **Ovum passerar in i tuba**: swept in i uterus med cilier av tuba. Tar 3-4d
-  * **Meios, sekundär oocyt, polkroppen**: meios avstannad edan fosterliv, återupptas under follikelmognad
-  * i o med första meiotiska delningan bildas den så kallade första polkroppen (som verkar går i atresi): 
-  * äggceller är därefter = sekundär oocyt
-  * sekundär oocyt fortsätter in i andra meiotisk delning, stannar i metafas
-  * delning avslutas efter ovuklation, troligen bara om oocyt blivit fertiliserad, normalt sker i tubans ampulldel
-* **Fertilisering**: måste ske inom 24h eller den degenererar
-* **Luteal fasen**: 
-  * **Östrogen faller efter ovulation, stegrar under lutealfas 1a vecka**
-  * **Corpus luteum, LH stim**: Granulosa + theca interna väggen
-  * **corpus luteum, östrogen + mkt progesteron**: corpus luteum producerar östrogen och signifikanta mängder progesteron. 
-    * progesteron når max prod cap efter 1 vecka fr ovulation
-    * östrogen når sällan lika hög nivå som före ovulation
-  * **östrogen + preogesteron -> preppar endometriet för implant**
-  * **endometrie glandulärt, sekretorisk**: inför implant; körtlarna utvidgas, blir slingriga, morfologiska tecken som sekretion, ödem i stroma. 
-    * cervixsekret mer sparsamt, segt, grumligt, ogenomtränligt för spermier
-  * **progesteron medför ökad basaltemp 0.3-0.5grader**: beror på progesteron termoreglerande effekt på hypothalamus
-  * **OM fertilisering, trofoblaster, hCG, LH**: trofoblasterna formas efter fertilisering; dessa producerar hCG, glykoprotein likt LH, underhåller corpus luteum, så att fortsätta producera östrogen + progesteron för att underhålla endometrium. 
-  * **trofoblaster prolif efter implantation**
-  * **kom ihåg corpus luteum 10 dagar nästan innan den går i atresi utan hCG, så vi har tid för att implantera och proliferera trofoblaster och prod hCG!**
-  * **fortsätter tills placenta utvecklas egen syntes av hcg, vid v8-v10 gestationsvecka.**
-  * om fertilisering med konkomitant hCG inte sker, corpus luteum degen, progesteron faller, endometriet kan inte underhållas, menstruation sker
-* **Menstruation**
-  * follikel fas = proliferationsfas i endometriet, pga östrogen, proliferar
-  * luteal fasen  = sekretorisk fas i endometriet, mognar för att kunna support implantation
-  * om ovum ej fertiliserad, corpus luteum går igm luteolys efter 11-13d, 
-  * fall östrogen o progesteron,
-  * endometrieslemhinnan kan inte underhållas, varpå stöts bort  = menstruatino
-
-
-
-
-
-<img src="./imgs/gyn_sam_150321_vx5W65MOsQ.png" alt="vx5W65MOsQ" style="zoom: 80%;" />
-
-
-
-
-
-<img src="./imgs/gyn_sam_150321_acvVzShNpJ.png" alt="acvVzShNpJ" style="zoom:50%;" />
-
-
-
 
 
 ### Menopaus
@@ -3214,6 +4066,69 @@ cerivicit
 
 
 ***Utredning och handläggning***
+
+
+
+### OHSS
+
+***Presentation***
+
+* Tahar, 32 år, 
+  * med två misslyckade IVF-försök, har nu senast genomfört en äggtransfer för 6 veckor sedan och ett graviditetstest för 2 veckor sedan visade sig positivt. Tahar kommer in akut med måttliga buksmärtor. Vid undersökningen noterar Du att patienten är blek, takykard och buken är ordentligt svullen och öm vid palpation. Bimanuell undersökning är svår att genomföra p g a utpräglad bukömhet. Du gör ett vaginalt ultraljud som visar att det finns en intrauterin hinnsäck motsvararande graviditetsvecka 5 + 6. Samtidigt finner Du vätska i buken och att patienten har bilaterala multipla cystor på platsen för ovarierna som är cirka 10 cm i diameter.
+  * Vad kallas det tillstånd som patienten har? (1p)
+  * Hur uppkommer tillståndet och dessa cystor? (2p)
+
+
+
+***Allmänt***
+
+* Ovariellt hyperstimuleringssyndrom
+
+
+
+***Etiologi och patofysiologi***
+
+* **biverkan**: sällsynt idag. 
+* **stimulerat för kraftigt**: 
+  * mkt stort antal follillar utvekclats 
+  * men det utlöses först då hCG getts.
+* **förstorade ovarier, torsion**: detta är möjligt, nödvändigt med akut operation. 
+* **syndrom värre om grav samma cykel som hormonstimuleringen**: syndromet blir längre o värre om man blir grav i samma cykel. 
+
+
+
+***Epidemiologi***
+
+
+
+***Kliniska kännetecken***
+
+* förstorade, cystiska ovarier
+* scites
+* pleuravätska
+* svullen buk
+* saltbalansrubbning
+* vätskebalansrubbning
+* hyperkoagulabilitet med trombosrisk
+* 
+
+
+
+***Utredning och handläggning***
+
+
+
+***Behandling***
+
+* Symptomatisk
+  * saltlösningar iv
+  * kolloider iv
+  * profylaktiskt heparin
+  * buktappning laparocentes
+
+
+
+
 
 
 
@@ -4351,7 +5266,20 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-## Tester
+## Tester och status
+
+
+
+### Allmän ospec utredning
+
+***Utredning och handläggning***
+
+* **U-sticka**
+* **U-hCG**: om ej virgo
+* **CRP**
+* **LPK**
+* **UL**
+* (klamydia odling, u-odling)
 
 ### NAAT
 
@@ -4385,13 +5313,4 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-### Allmän ospec utredning
-
-***Utredning och handläggning***
-
-* **U-sticka**
-* **U-hCG**: om ej virgo
-* **CRP**
-* **LPK**
-* **UL**
-* (klamydia odling, u-odling)
+* 

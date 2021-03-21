@@ -674,11 +674,11 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * ***8 månaders flicka*** 
     * Pga feber och andningsbesvär sedan 2 dagar. 
     * Hon är rosslig och hostig, har jobbigt att andas och föräldrarna har noterat att det stundom piper ur luftvägarna när hon andas. 
-    * Hennes temp är 39,4.1.
-    * Diffar: pneumoni, bronkioloit, krupp, förkylningsastma, infektionsastma
+    * Hennes temp är 39.4. 1.
+    * **Diffar**: pneumoni, bronkioloit, krupp, förkylningsastma, infektionsastma
 * ***4 år gammal flicka*** 
     * som söker för andra gången med andningsbesvär i samband med en förkylning, i övrigt frisk. 
-    * Hon har 37,8 i temp, har indragningar, ökad  andningsfrekvens och ensaturation på 95%. 
+    * Hon har 37.8 i temp, har indragningar, ökad  andningsfrekvens och en saturation på 95%. 
     * Hon hostar mycket ffa nattetid nu när hon är förkyld och har då svårt att sova. 
     * Vid lungauskultation noteras ronki basalt bilateralt.
     * ***svar: förkylningsastma, rhinovirus, ventoline och syrgas.***
@@ -687,7 +687,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Epidemiologi***
 
-* Ålder: svårt att diagnosticera yngre än 3år. 
+* **Ålder**: svårt att diagnosticera yngre än 3år. 
 * Hälften av alla barn har pipande andning första 3 åren av sina liv.
 
 
@@ -699,8 +699,8 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * ***IgE-antikroppar, aeroallergener***: påverkade barn har ofta IgE-antikroppar mot aeoroallergener
 * ***Aeroallergener***: house-dust mite, trä, gräs, weed pollens; mögel; animal dander (shedding fr animals) 
 * ***Tre olika former av ronki***
-* ***Viral episodisk ronki***: ronki endast som svar till virala infektioner
-* ***“Multiple trigger ronki”:*** som svar på multipla triggers, som är sannolikt att bli astma
+  * ***Viral episodisk ronki***: ronki endast som svar till virala infektioner
+  * ***“Multiple trigger ronki”:*** som svar på multipla triggers, som är sannolikt att bli astma
 * astma
 
 
@@ -723,6 +723,16 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * så säger vi att barnet har astma !
     * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen av denna
 * **barn under 3år har så pass reaktiva luftvägar att de får obstruktiva besvär** 
+
+
+
+***Indelning***
+
+* **Moderat akut astma pediatrisk pat**
+  * normal mental tillstånd
+  * viss accessorisk muskelanvändning, recession
+  * takykardi
+  * viss påverkan på tal 
 
 
 
@@ -759,7 +769,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 * ***Anamnes***
   * tIdigare andningsbesvär, hereditet, atopisk eksem, födoämnesallerig, 
-  * ***prematuritet? Neonatalperiod?:*** större benägenhet av denna nadningsbesvär vid infektioner med obstuktivitet, med indragningar och pip i bröstet.
+  * ***prematuritet? Neonatalperiod?:*** större benägenhet av denna andningsbesvär vid infektioner med obstuktivitet, med indragningar och pip i bröstet.
   * allmäntillstånd, orkar äta, dricka, kissat
   * hur frekvent
   * vad triggar
@@ -1636,12 +1646,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-### Vaccinationer
-
-* 3 månader
-  * ***TEDAP***
-  * 
-
 
 
 ### Rubella
@@ -1892,6 +1896,13 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * **klassiska lesionen** beskrivs som "dew frop on a rose petal" eller en vesikel i röd bakgrund
 * **"crops of lesions"** utvecklas under 2-5 dagar. Hundratals vesiklar förekomma, som kommer att **skorpa över**
 * ***feber vanligt***
+* "exanthem that presents with a **papular** rash described as **"dew drops on a rose petal"** that later **evolves to vesicles, pustules and then excoriation**."
+
+
+
+<img src="./imgs/gyn_sam_210321_a7DwiHXnQ9.png" alt="a7DwiHXnQ9" style="zoom:50%;" />
+
+
 
 
 
@@ -1932,6 +1943,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+
+### Vaccinationer
+
+* 3 månader
+  * ***TEDAP***
+  * 
 
 
 
@@ -2795,6 +2812,27 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 #### Tetralogy of fallot
 
+***Presentation***
+
+* A 20-month-old boy 
+  * with tetralogy of Fallot is admitted for evaluation of cyanosis that is increasing in frequency. As you conclude your history and physical examination, you witness an episode of cyanosis when the patient’s brother makes him cry. As the crying increases, the patient becomes more and more cyanotic. On examination, his cardiac murmur is now much softer than before he began crying. What is the next most appropriate step in management?
+
+  * Characterized by pulmonary artery arising from the left ventricle and aorta arising from the right ventricle
+  * Associated with maternal diabetes
+  * Presents with early cyanosis; pulmonary and systemic circuits do not mi Creation of shunt (allowing blood to mix) after birth is required for surival
+  * PGE can be administered to maintain a PDA until definitive surgical repair is performe Results in hypertrophy of the right ventricle and atrophy of the left ventricle
+
+
+
+***Behandling***
+
+* ***Knee-chest position***
+  * Tetralogy of Fallot (hypercyanotic or “tet”) spells are defined as paroxysmal episodes of hyperpnea, irritability, and prolonged crying that result in increasing cyanosis and decreasing intensity of the heart murmur. This condition is often triggered by crying. Initial management is to increase systemic vascular resistance by placing the patient in a knee-chest position. Other therapeutic modalities include the administration of morphine sulfate, sodium bicarbonate, and intravenous fluids and the use of oxygen. Mechanical ventilation in combination with general anesthesia may be effective but would only be used when other management options fail to reverse the cyanosis. Dopamine and epinephrine are contraindicated because they may worsen the spell. A cardiology consultation may be useful, but the acuity of the patient’s clinical presentation requires immediate intervention
+
+
+
+***Etiologi och patofysiologi***
+
 * Characterized by (1) stenosis of the right ventricular outflow tract, (2) right
   ventricular hypertrophy, (3) VSD, and (4) an aorta that overrides the VSD
 * Right-to-left shunt leads to early cyanosis; degree of stenosis determines the extent of
@@ -2805,30 +2843,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 #### Transposition of the great vessels
-
-***Presentation***
-
-* A 20-month-old boy with tetralogy of Fallot is admitted for evaluation of cyanosis that is increasing in frequency. As you conclude your history and physical examination, you witness an episode of cyanosis when the patient’s brother makes him cry. As the crying increases, the patient becomes more and more cyanotic. On examination, his cardiac murmur is now much softer than before he began crying. What is the next most appropriate step in management?
-
-
-
-
-
-* Characterized by pulmonary artery arising from the left ventricle and aorta arising
-  from the right ventricle
-* Associated with maternal diabetes
-* Presents with early cyanosis; pulmonary and systemic circuits do not mi Creation of shunt (allowing blood to mix) after birth is required for surYiva* * 
-* PGE can be administered to maintain a PDA until definitive surgical repair is
-  performe* * Results in hypertrophy of the right ventricle and atrophy of the left ventricle
-
-
-
-***Behandling***
-
-* ***Knee-chest position***
-  * Tetralogy of Fallot (hypercyanotic or “tet”) spells are defined as paroxysmal episodes of hyperpnea, irritability, and prolonged crying that result in increasing cyanosis and decreasing intensity of the heart murmur. This condition is often triggered by crying. Initial management is to increase systemic vascular resistance by placing the patient in a knee-chest position. Other therapeutic modalities include the administration of morphine sulfate, sodium bicarbonate, and intravenous fluids and the use of oxygen. Mechanical ventilation in combination with general anesthesia may be effective but would only be used when other management options fail to reverse the cyanosis. Dopamine and epinephrine are contraindicated because they may worsen the spell. A cardiology consultation may be useful, but the acuity of the patient’s clinical presentation requires immediate intervention
-
-
 
 
 
@@ -3309,10 +3323,58 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ***Presentation***
 
-* Du sitter på en barnläkarmottagning och Anna 4 år kommer till din mottagning. Hon har haft ett svullet höger knä och en svullen vänster fotled i många veckor. Hon är stel på morgonen och det tar ett par timmar innan hon har normal gång. Hon har en mormor som har ledgångsreumatism i övrigt inga reumatiska sjukdomar i närmaste släkten. Anna blev fästingbiten i somras men fick ingen ring runt bettet. I status kan du konfirmera anamnesen. Övrigt ledstatus är utan anmärkning Du misstänker en diagnos och beställer prover. Vilket alternativ stämmer bäst med din bedömning och plan:
-  * Juvenil idiopatisk artrit. Borreliaserologi, Blodstatus, CRP och SR, ANA
+* Anna 4 år 
+  * kommer till din mottagning. Hon har haft ett svullet höger knä och en svullen vänster fotled i många veckor. Hon är stel på morgonen och det tar ett par timmar innan hon har normal gång. Hon har en mormor som har ledgångsreumatism i övrigt inga reumatiska sjukdomar i närmaste släkten. Anna blev fästingbiten i somras men fick ingen ring runt bettet. I status kan du bekräfta anamnesen. Övrigt ledstatus är utan anmärkning Du misstänker en diagnos och beställer prover. Vilket alternativ stämmer bäst med din bedömning och plan:
+  * **Juvenil idiopatisk artrit.** 
+  * **Borreliaserologi, Blodstatus, CRP och SR, ANA**
 
 
+
+ ***Epidemiologi***
+
+* Vanligaste reumatiska tillståndet hos barn. 
+
+
+
+***Diagnos***
+
+* **Definition fr reuma föreläsning**
+    * Svullnad av en led
+    * ELLER inskränkt rörelseförmåga i en led med smärta eller palpationsömhet, 
+    * dvs artrit av minst 6v duration observerat av läk
+    * inte primärt orsakad av mekaniska eller andra identifierbara orsaker
+* **Kriteriediagnos. 3 kriterier.** 
+    * <16 år 
+    * Symptom >6 veckor 
+    * Andra orsaker uteslutna 
+
+
+
+***Kliniska kännetecken***
+
+* Rheumapositiva och negativa kommer hos polyartikulära. 
+* Den vanligaste formen är oligoartrit formen. 
+
+
+
+***Utrending och handläggning***
+* Officiella utredningsgången
+* Blodstatus med diff, 
+* CRP,
+* SR, 
+* ANA, 
+* Borreliaserologi, 
+* skelettröntgen. 
+* ANA 30% har det och det är associerad med högre risk för uveit. 
+* Borreliaserologi för att utesluta borrelia. 
+* Blodstatus med diff för att utesluta leukemi. 
+* Skelettröntgen för uteslutning av malignitet ostemyelit o andra diagnoser.
+
+
+
+***Behandling***
+* NSAID.
+* Om inte fungerar man kan skicka remiss till reumatolog för kortisoninjektion. 
 
 
 

@@ -1877,10 +1877,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-
-
-
-
 ***Epidemiologi***
 
 * incidens har sjunkit pga barndomsimmunisering (vaccin?) i många delstater i USA.
@@ -2144,6 +2140,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * **G6PD**
 * **Hereditär sfärocytos relaterad hemoloys**
 * **Sickle-cell anemi**
+
+
+
+### Immunisering
+
+
 
 
 

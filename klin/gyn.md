@@ -1759,7 +1759,7 @@ cerivicit
     * po2 oförändrat
     * pCo2 sänks pga minskad alveolär + arteriell kolsyrespänning
 * **Förändring skelett muskler**
-  * **Uppluckring** 
+  * **Uppluckring** (foglossning?)
     * symfysen, 
     * sacroiliacalederna och 
     * sacrococcygeusleden
@@ -1837,24 +1837,60 @@ cerivicit
 
 
 
-
-
 ### Puerperiet
 
 * fr förlossning till 6-8v efter graviditet
 
 
 
-### Rutinundersökningar
+### Rutinundersök
+
+
+
+***Kontroller under graviditet***
+
+* Skillnad mellan förstföderskor och omföderskor
+
+* **Försföderskor**
+
+  * ***Inskrivningsanteckning, v5-12 (kan ske tidigare):*** 
+
+    * Föranleder starten journalföringsmässigt vad gäller patienten
+
+    * **Anamnes**: sjukdomar, hereditet, tidigare födslar, läkemedel, boende situation, arbete, deltagande i biobank, substansbruk, alkohol, tobak, matvanor, fysisk aktivitet, samlivsfrågor
+
+    * **Provtagning**:
+
+      * **venösa prover** 
+        * **!!! Tid**: v10-12 för att man vill ha fetalt-Rh, som fångas detta tidspannet då RBC produktion hos fostret är igång. 
+        * **thyroideaprover** (TSH, T4?)
+        * **blodgruppering BAS-test**
+        * **Fetalt Rh:** detta är orsaken till att man vill ta de venösa proverna efter v10, för att fetal erytrocytproduktion är igång, varpå man kan diffa detta, så man vill hellre ta alla prover tillsammans.
+        * **Serologi**?
+          * HIV
+          * Syfilis
+          * HBV
+          * rubella immunitet
+      * **Urinprov**
+        * njurfunktion
+        * proteinuri
+        * glukosuri
+        * (tar en u-sticka på BMM/MVC)
+      * **Klamydiaprov**: swab fr cervix, som pat kan göra sj  (annars att BM tar detta?)
+      * **cellprov, gynekologiskt**: barnmorsk kan ta detta
+      * **planerar fosterdiagnostik**: med att boka in KUB-tiden ()
+
+      
+
+
+
+
 
 <img src="./imgs/gyn_sam_190321_kXDR2lHDdF.png" alt="kXDR2lHDdF" style="zoom: 67%;" />
 
-* **Inskrivning MVC** v12
-* **Fosterdiagnostik**: erbjud tidigt i grav, 
-  * **KUB**: v11-v14 då ultraljudet oftast görs
-* **Rutinultraljud** v18
-* **Barnmorskebesök**: totalt 6-10ggr, nästan 1gg per månad
-* **Efterkontroll MVC +v8** efter förlossning
+
+
+***Enligt basprogrammet***
 
 
 
@@ -1966,6 +2002,47 @@ cerivicit
 
 
 ### APS
+
+
+
+
+
+### Graviditetsdiabetes
+
+
+
+
+
+### Immunisering
+
+
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* Blodkroppar antigener indelade två större system: ABO och Rh-systemen
+* Rh-systemet: av detta är RhD antigenet det viktigaste. 
+* mamma RhD negativ, foster RhD positiv: att mamman bildar antikroppar mot fostrets antikroppar och därmed röda blodkroppar
+  * = RhD sensitisering
+
+
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+
+
+***Behandling***
+
+* **profylax, anti-D**: för Rh-negativa kvinnor. 
+
+
 
 
 
@@ -3193,9 +3270,7 @@ cerivicit
 
 ## Kirurgi
 
-
-
-#### Fertilitetsbevarande kirurgi
+### Fertilitetsbev kirurgi
 
 ***Trachelectomi - cervix***
 
@@ -3211,15 +3286,12 @@ cerivicit
 
 <img src="./lectures/gyn_lec/imgs/gyn_lec_FSWI4ztXzN.png" alt="FSWI4ztXzN" style="zoom:50%;" />
 
+### Lymf mets
 
+* lymfkörtelmetastaser
+* **Prognostisk faktor:** Enskilt viktigate prognostiska faktorn efter kirurgi (cervix?)
 
-#### Lymfkörtelmetastaser
-
-* Enskilt viktigate prognostiska faktorn efter kirurgi (cervix?)
-
-
-
-#### Nervsparande kirurgi - cervix
+### Nervsparande kirurgi - cervix
 
 ***Viktiga nerver***
 
@@ -4539,7 +4611,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 - **mamma**
   - vaginalbrist
-  - perniealbrist
+  - perinealbrist (behov perineotomi)
   - sfinkterbrist
   - blödning
   - negativ upplevelse
@@ -4554,7 +4626,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 - värksvaghet
 - uttröttad moder
-- hotande fosterasfuxi
+- hotande fosterasfyxi
 - lägeskorrektion
 - kontraindikation för krystning
 - fr grav 37+0
@@ -4638,6 +4710,48 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   - utplånad längd: 0cm cervix palperas
 
 
+
+### Konvertering
+
+***Presentation***
+
+* Annika är 28 år gammal, 
+  * är helt frisk och har haft en normal graviditet. Hon kom till förlossningsavdelningen under gårdagen med egna värkar. När hon var utplånad och öppen 5 cm kl 01.00 utfördes amniotomi i värkförstärkande syfte. Senare kl 04.00 då ingen progress noterats på tre timmar startades oxytocininfusion som fortsatt pågår. Klockan är nu 20.00 och hon har varit retraherad i 4 timmar. Hon har 5 värkar/10 minuter och CTG är ua. Trots epiduralbedövning är hon mycket trött och önskar att man ska avsluta förlossningen.
+    Vid inre undersökning finner du cervix retraherad, en tjock fostersvulst och vertex precis ovan spinae.Vilket är det mest lämpliga sättet att i nuläget avsluta förlossningen? (1p)
+  * Välj ett alternativ: **Kejsarsnitt**
+
+
+
+***Allmänt***
+
+* under en förlossning flera alternativ att förlösa barnet
+* kan ändras under loppet av förlossningen
+* alternativ
+  * Vaginalt
+  * Instrumentellt: tång, vakuumextraktion (sugklocka)
+  * Kejsarsnitt
+
+
+
+***Flödesmässigt***
+
+* **Vaginalt till instrumentellt**: Det föreligger flertalet indikationer för att konvertera till en instrumentell förlossning
+  * **vertex nedom spinae:** Detta måste föreligga för att man ska kunna genomföra en instrumentell förlossning in the first place. 
+    * Möjligt att detta motargumenterar ett kejsarsnitt, iom att skallen är så pass långt ned
+  * **värksvaghet**
+  * **Ingen progress**
+  * **CTG förändringar, hotande fosterasfyxi**
+* **Vaginalt till kejsarsnitt**
+  * **Prövat instrumentellt, men ej funkat**: att man har dragit 2-4 gånger utan att få ned huvudet, indikation för att konvertera till ett kejsarsnitt
+  * **Vertex ovan spinae**: innebär att man ej kan använda instrumentell förlossning
+  * **Bjudningar**: det finns många olika bjudningar, som man helst kör med snitt än med förlossning, e.g. sätesbjudning
+  * **CTG förändringar, med omogen cervix**
+
+
+
+***Indikationer allmänt för konvertering***
+
+* **Tidsintervall:** Det verkar ej finnas tidsintervall enl BM för att konvertera en förlossning till kejsarsnitt istället för instrumentell förlossning
 
 
 
@@ -5067,10 +5181,27 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ### Missfall
 
+***Presentation***
+
+
+
 ***Etiologi och patofysiologi***
 
+* **Tidsmässigt**: innan v22 räknas som missfall, efter detta är det intrauterinfosterdöd
 * **POCs**: products of conception; detta är de komponenter associerade med en graviditet, där vi har säcken, placenta, fostret etc
 * **POCs och missfall**: tittar man därför på ett missfall, kan typen av missfall baseras på hur mkt av POCs har eliminerats, med komplett vs inkomplett missfall exempelvis. 
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
 
 
 
@@ -5238,10 +5369,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-
-
-
-
 #### Fullgången
 
 * Förlossning efter v37
@@ -5287,10 +5414,10 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * tillgängligt hela landet
 * sens högre än odling
 * spec lägre 
-* män: första urinportion
-* kvinnor: vagina, cevix prov
-* rektalt prov: proktopskop el blint 3-4cm upp i analkanal
-* pos svar -> odling för resistensbestömning
+* **män**: första urinportion
+* **kvinnor**: vagina, cevix prov
+* **rektalt prov**: proktopskop el blint 3-4cm upp i analkanal
+* **pos svar** -> odling för resistensbestömning
 
 ### NST
 
@@ -5309,8 +5436,14 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Utredning och handläggning***
 
-* Inkomplett papsmear: ta om den...
+* **Inkomplett papsmear**: ta om den...
 
 
 
-* 
+### SF-mätning
+
+***Allmänt***
+
+* symfys-fundus mått
+* man drar ett måttband fr symfysen till **fundus av livmodern**
+* Notera att man palperar fram fundus uteri (vilket är toppen, y3ni det som är mest proximalt mot huvudet)

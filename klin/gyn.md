@@ -1849,21 +1849,16 @@ cerivicit
 
 ***Kontroller under graviditet***
 
-* Skillnad mellan förstföderskor och omföderskor
-
+* **Skillnad mellan förstföderskor och omföderskor**
 * **Försföderskor**
-
-  * ***Inskrivningsanteckning, v5-12 (kan ske tidigare):*** 
-
+  * **v5-12, Inskrivningsanteckning,  (kan ske tidigare):** 
     * Föranleder starten journalföringsmässigt vad gäller patienten
-
-    * **Anamnes**: sjukdomar, hereditet, tidigare födslar, läkemedel, boende situation, arbete, deltagande i biobank, substansbruk, alkohol, tobak, matvanor, fysisk aktivitet, samlivsfrågor
-
-    * **Provtagning**:
-
+    * **Anamnes**: sjukdomar, hereditet, tidigare födslar, läkemedel, boende situation, arbete, deltagande i biobank, substansbruk, alkohol, tobak, matvanor, fysisk aktivitet, samlivsfrågor, könsstympning
+    * **Status**: BT, vikt/BMI
+    * **Provtagning**: Notera att man vid det absolut första besöket, om det är så pass tidigt, att man inte tar alla prover utan väntar till efter v10. Det är mer rel med fkap-Hb, TSH, urinsticka så pass tidigt (klam prov kan man ta tidigt)
       * **venösa prover** 
         * **!!! Tid**: v10-12 för att man vill ha fetalt-Rh, som fångas detta tidspannet då RBC produktion hos fostret är igång. 
-        * **thyroideaprover** (TSH, T4?)
+        * **thyroideaprover**: (TSH, T4?), detta verkar man kunna ta direkt, i.e. att man tar det vid första besöket (e.g. v5 o uppåt) för att det är så pass relevant för utvecklingen tidigt. 
         * **blodgruppering BAS-test**
         * **Fetalt Rh:** detta är orsaken till att man vill ta de venösa proverna efter v10, för att fetal erytrocytproduktion är igång, varpå man kan diffa detta, så man vill hellre ta alla prover tillsammans.
         * **Serologi**?
@@ -1871,18 +1866,40 @@ cerivicit
           * Syfilis
           * HBV
           * rubella immunitet
-      * **Urinprov**
+      * **urinprov**
         * njurfunktion
         * proteinuri
         * glukosuri
         * (tar en u-sticka på BMM/MVC)
-      * **Klamydiaprov**: swab fr cervix, som pat kan göra sj  (annars att BM tar detta?)
+      * **klamydiaprov**: swab fr cervix, som pat kan göra sj  (annars att BM tar detta?)
       * **cellprov, gynekologiskt**: barnmorsk kan ta detta
       * **planerar fosterdiagnostik**: med att boka in KUB-tiden ()
-
-      
-
-
+      * **Utökade kontroller**
+  * **v16 (utförs vb; besök hos BM)**
+    * EPDS: edinburoguh depression scale
+    * förlossningsrädsla, extra emningstöd, uppfölj levnadsvanor, social problematik, våld nrära rel, våld, övergrepp
+  * **v15-16, KUB diagnostik**
+  * **v18-20 RUL**: Rutinultraljudet, för tillväxtbestämning, polyhydramnios, etc.
+  * **v20 BMM**: grupp eller individuellt besök
+  * **v25 BMM**: 
+    * **prover**: blodvärde, blodsocker, 
+    * fosterljud (hjärtfrekvens), mäta livmoder (SF), kontroll vikt/BMI, BT, val förlossningsklinik
+    * **utökade kontroller åtgärder**: planera immuniseringsprov, inforermera Rh-profy (Rh-neg). OGTT (v25-28)
+  * **v29 BMM**: fosterljud, SF, BT, blodsocker (därefter besök varannan vekcka)
+    * **Utökade kontroller åtgärder:** Rh-profylax
+  * **v31 BMM**: fosterljud, SF, BT, blodsocker
+  * **v33 BMM**: fosterljud, SF, BT, blodsocker
+  * **v35 BMM**: fosterljud, SF, BT, blodsocker, ev sammanfattning grav
+  * **v37 BMM**: fosterljud, SF, BT, blodsocker, ev sammanfattning grav, vikt/BMI
+  * **v39 BMM**: fosterljud, SF, BT, blodsocker
+  * **v41 BMM**: fosterljud, SF, BT, blodsocker, ev UL annan mottagning
+  * **1-16v efter förlossning**: 
+    * 2 BM besök
+    * förlossningsupplevelse, bristning, amning, bäckenbottenträning, preventivmedel mm
+* **Omföderska**
+  * **skillnaden besök var tredje vecka efter v25 fram t v40:** samma som förstföderska
+  * **v38**: fosterljud, SF, BT, blodsocker, ev sammanfattning grav, vikt/BMI
+  * **v41**: samma som förstföderska
 
 
 
@@ -2025,6 +2042,11 @@ cerivicit
 * Rh-systemet: av detta är RhD antigenet det viktigaste. 
 * mamma RhD negativ, foster RhD positiv: att mamman bildar antikroppar mot fostrets antikroppar och därmed röda blodkroppar
   * = RhD sensitisering
+* **Fostret nu kan okej, senare graviditet problem**: Immunisering som sker under pågående grav lär vara ok (kanske vid födsel när blod byts blir problem)
+  * men vid efterföljande graviditet kan antikropparna vara ett stort problem
+* **Hemolytic disease of newborn (HDN)**: detta kan drabba foster nu och efterföljande graviditet
+  * **mild form**: spädbarn har sensitiserade RBC, detektabla i labb
+  * **svårare**: ikterus, anemi, utvecklingsstörning, intrauterin fosterdöd
 
 
 

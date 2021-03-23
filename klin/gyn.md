@@ -220,23 +220,6 @@ cerivicit
 
 ## Behandling
 
-### Oxytocinbehandling
-
-***Indikation***
-
-![img]()
-
-
-
-***Behandling***
-
-- Infusion inleds med 20mL/h
-- infusionshastighet ökas med 20mL var 20e-30e minut tills adekvat värkar
-- eftersträva 
-- - i öppningsskede 4-5 värkar/10min, med misnt 60s lpays mellan,
-  - utdrivningsskede max 5värkar/10min med minst 45-50s paus mellan
-- anpassa dos efter individuell respons o använd minsta möjliga effektiva dos
-
 
 
 
@@ -1643,7 +1626,7 @@ cerivicit
 
 * **PCOS diagnosticeras med gyn UL**: uppvisar 12 antralfolliklar och eller en ovarievolym på 10cm3
 * **enl ROtterdam, ska ha påvisats, minst 2 av 3**:
-  * polycystiska ovarier på UL
+  * polycystiska ovarier på UL: verkar ej vara oblgat med att man har polycystiska ovarier på UL för att få diagnosen. 
   * anovulation
   * kliniska hormonella tecken hyperandrogenism
 * **Differentialdiagnoser ska vara uteslutna.** 
@@ -4427,6 +4410,27 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+### Bristningar
+
+***Gradering***
+
+* Grad1: slemhinna
+* Grad2: slemhinna o muskler i perineum
+* Grad3: analsfinktern utan rektalslemhinnan, beh läkare operation
+* Grad4: hela sfinktermuskeln o rektalslemhinnan, beh läkare operation
+
+
+
+***Utredning och handläggning***
+
+* Inte missa sfinkterskador: Palpera rektalt, ska föreligga god smärtlindring
+* **åtgärdas av läkare i operation**: <u>sfinkter</u>skador, svåråtkomliga grad2 skador
+* **återuppbygg perineum**
+
+<img src="./imgs/gyn_sam_230321_TI0dsB8rAC.png" alt="TI0dsB8rAC" style="zoom:50%;" />
+
+
+
 ### CTG
 
 
@@ -4434,8 +4438,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Indikationer***
 
 - **överväg kontinuerlig mätning**
-
-  - förlängd latens
+- förlängd latens
   - tillväxthämning
   - prematuritet
   - blödning som ej är teckningsblödning
@@ -4448,7 +4451,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   - abnormt värkarbete
   - flerbörd
   - feber
-
+  
 - **Fr intermittent till kontinuerlig mätning**
   - tillkomst mekoniumfärgat fostervatten (amniotisk vätska)
   - oxytocinstim (induktion, värksvaghet)
@@ -4535,22 +4538,105 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ### Faserna
 
-* **Latensfasen**
-* **Öppningsfasen, öppningsskedet**: 
-  * **hastighet**: 1cm/h
+***Faserna i en förlossning***
+
+* **I ordning**
+  * **<u>Latensfasen</u>**: Före aktiv förlossning
+  * **<u>Öppningsfasen</u>, öppningsskedet**: 
+  * **<u>Utdrivningsskedet</u>**
+  * **<u>Efterbördsskedet</u>**
+  * **<u>Puerperium</u>**
+
+
+
+***Latensfas***
+
+* **!!! <u>Före aktiv förlossning</u>**
+* **Värkarna har börjat, men**
+  * Oregelbundna värkar
+  * vissa värkar är smärtsamma, andra ej
+* **Tidsspann**: 1h-några dygn
+  * **Övre normalgräns**: förstföderska 20h
+  * **Omföderska**: 13.5h
 * **Förlängd latensfas**: det är B grafen på bilden nedan. 
 
 <img src="./imgs/gyn_sam_140321_Ypkkcc4NQ4.png" alt="Ypkkcc4NQ4" style="zoom: 67%;" />
 
 
 
-***Latensfas***
+***Aktiv förlossning***
 
-* 
+* normal förlossning: dilat livmoderhals, fostret huve trägnger ned.
+* normal hastighet öppning under aktiv fas = 1cm/h
+* öppningsgrad och nedträngning sker ej synjkront. 
+* partogram används för att följa detta: huvet nedtrännign, modermun öppning plot tidsaxel. 
+  * **förlängt öppningsskede**: om förväntad dilat av modermun fördröjd 3h
+    * då bör värkarbetet stimuleras, förutsatt ingen annan orsak diagnosticeras
 
 
 
 
+
+***Öppningsskedet - Stage 1***
+
+* **Cervixdilatation**, i cm
+* **Regelbundna värkar** 2-5/10min, duration 30-90sek
+* **Värkarna ökar** i intensitet o duration under öppningsskedet
+* Varar från start förlossning t cervix helt öppen
+
+
+
+***Vattenavgång***
+
+* **Hinnbristning med vattenavgång**: aktiv process
+* **Degeneration hinnor**: området inre modermunnen
+* **Slutet av öppningsskedet**: vattenavgång brukar slutet av öppningsskedet.
+* **Kan gå innan värkarbetet ens börjat**
+* 10-15% vattenavgång första tecken på förlossning på g
+* **Säkerställ barnets huve välinställt i bäcken**: minimera risk för framfallen smådel (e.g. hand, fot)
+* **Värkarbete start spontant inom ngt dygn, 24h**: efter vattenavgång, vanligast värkarbete börjar 24h senare. 
+  * **!!! Om ej sker, stimulera värkarbete**: man avvaktar 48-72h för att invänta start av värkarna, innan åtgärd! för att man vill verklgien att mamman startar värkarna spontant
+* **innehåll avgående vatten**: flrekommer fettflagor fostrets hud (vernix mucosae). Lätt rosafärgat små kärl modermunnen brister i samband dilatation. 
+  * **mekonium**: fostret tömmer tarminnehåll
+* **Mekoniumvatten**: brun, grönfärgat.
+  * risk ökar med graviditetslängd
+  * ovanligt vid prematuritet
+  * ofta grav passerat datum beräk förlossning
+  * **tjockt mek**: fostret haft stor tarmtöm o att fostervatten blandats med det
+    * **asfyxi risk ökad**, mekoniumaspiration, 
+    * **övervaka förlossning** noggran
+
+
+
+
+
+***Utdrivningsskedet - Stage 2***
+
+* **Fullvidgad cervix (retraherad) t barnet är fött:** inga palpabla kanter av cervix
+* **Två faser**
+  * nedträngning t bäckenbotten o rotation
+  * krystning när huvet står mot bäckenbotten o kvinnan känner krystimpuls
+
+
+
+<img src="./imgs/gyn_sam_230321_bKa7zC7Iel.png" alt="bKa7zC7Iel" style="zoom:50%;" />
+
+
+
+***Efterbördesskedet - Stage 3***
+
+* Fr barnets födelse t placenta kommit ut
+* ca 8-10min
+* kan vara 30-60min
+
+
+
+***Puerperium***
+
+* **tidsintervall**: 2h t 6-8v efter födsel
+* **kliniska kännetecken**: avslag, eftervärkar, urinbesvär, smärtor, amning, känslomässiga reaktiober
+* **komplikationer, vanliga**: var uppmärksam. abnorm blödning, infektion, urinretention, trombos, depression
+* **amningskomplikationer**: mastit, böld
 
 
 
@@ -4558,14 +4644,77 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Fysiologi***
 
-*  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
-*  **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
-*  **Fysiologisk inflammatorisk process**: uppmjukning cervix, tilltagande kontraktilitet i myometriet
-*  **Ökar kontraktilitet i uterus**
-   *  **Oxytocin**
-   *  **Östrogen**
-   *  **Prostaglandiner**
-   *  **Cytokiner**
+*  **Allmänt**
+   *  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
+   *  **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
+   *  **Fysiologisk inflammatorisk process**: uppmjukning cervix, tilltagande kontraktilitet i myometriet
+   *  **Ökar kontraktilitet i uterus**
+      *  **Oxytocin**
+      *  **Östrogen**
+      *  **Prostaglandiner**
+      *  **Cytokiner**
+*  **Vad startar förlossningen okänt**
+   *  **Cervixmognad:** prostaglandiner, inflammatorisk process, ECM ändrar karaktär, cervix mjuknar
+   *  **Ökad kontraktilitet uterus**: oxytocinreceptorer
+*  **Generellt**
+   *  oklar def vad startar förlossning, vad förlossningsstart är, vad normal progrress är
+   *  **målsättning inte oklar**: frisk mamma, barn, bra upplevelse, ingripå lite som möjligt förlossning förlopp
+
+
+
+***Faktorer påverkar förloppet***
+
+*  ***Faktorer***
+   *  **Power:** styrka duration på värkar
+   *  **Passenger:** storlek, bjudning
+   *  **Passenge**: bäcken o mjukdelar
+   *  **Pain / psyche**: fungerande smärtlindring och socialt stöd
+
+*  **Power - Värkar**
+
+   *  **En bra värk**: minst 30s (30-90s), 4-5/10min, påverkar födsel positivt
+
+*  **Passenge**
+
+   *  **Optimal form på bäckenet**: ligament mjuskler möjlighet att töja ut sig för att få ut barnet
+      *  rundare pelvis hos kvinnor
+   *  **Längd kvinnan**: kortare att mindre bäcken
+   *  **BMI kvinnan**: höga BMI har mer fett kring muskler, kring o i underlivet, 
+      *  men har bättre buktryck och kan krysta effektivare
+
+*  **Pain/psyche**
+
+   *  **god smärtlindring**
+      *  **Sensorisk stimulering**
+         *  massage
+         *  värme
+         *  bad
+         *  TENS
+         *  akupunktur
+         *  sterila kvaddlar
+      *  **systemisk analgesi**
+         *  lustgas
+         *  opioid
+      *  **blockader**
+         *  EDA
+         *  Spinal
+         *  paracervikal blockad: cervix
+         *  Pudendusblockad: pudendus
+   *  **socialt stöd:** trygghet, partners roll, teamets roll,  (får bättr eoxytocin)
+   *  nutrition
+
+*  **BMI**: 
+
+   *  Svårare passenge för att mer fett i o kring underliv,  kring muskler
+   *  **Bättre buktryck:** krystar bättre, effektivare, smidigare förlossning, mindre bristningar
+
+   
+
+   
+
+   | <img src="./imgs/gyn_sam_230321_Y83hJjALx8.png" alt="Y83hJjALx8" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_PaFNuIIsAm.png" alt="PaFNuIIsAm" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_AoZ3Ul0TnF.png" alt="AoZ3Ul0TnF" style="zoom: 80%;" /> |
+   | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | <img src="./imgs/gyn_sam_230321_rp0sM1FJco.png" alt="rp0sM1FJco" style="zoom:50%;" /> |                                                              |                                                              |
 
 
 
@@ -4575,6 +4724,124 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **Uterus:** fr relaxerad till värkar med rytmiska kontraktioner
   * **Braxton-hicks kontraktioner**: okoordinerade kontraktioner under grav som först vid förlossning *ska* bli rytmiska o tillta i kraft
 * **isthmus:** 
+
+
+
+***Definition normal förlossning - PN partus normalis***
+
+* **Inga med riskfaktorer föreligger**: vid förlossningens start, bedöms kunna påveka förlossningens förlopp eller utfall
+* enkelbörd
+* gravlängd mlan v37-41+6
+* värkarbete start spontant
+* förlopp inga komplikationer fr värkarbete start t efter placenta framfödande
+* barnet föds spontant i huvudbjudning
+* mor o barn mår bra efter förlossning
+* **avslutad förlossning**: ingen gemensam internationell definition, men när placenta framfötts
+
+
+
+***Definition aktiv förlossning***
+
+* **2 av 3 kriterier uppfyllda**
+  * **Spontan vattenavgång**
+  * **Värkar**: spontan smärtsamma, regelbudna värkar; 2-3/10min
+  * **Cervix**: cervix öppen 4cm eller utplånad och öppen  >1cm
+* **Tillägg: progress** i förlossningsarbete fortskriva **närmsta 2 timmarna!**
+
+
+
+***Utredning och handläggning***
+
+* **Inskrivning på förlossningsavdelning**
+  * Anamnes journalgenomgång
+* **Undersökning**
+  * **BT och urinsticka**
+  * **Yttre palpation, fosterläge**: Leopolds handgrepp
+  * **Auskultation fosterljud, CTG**
+  * **Vaginal undersökning**: vid vattenavgg utan värkar-avvakta
+  * **Regelbundna värkar**
+* **Riskbedömning**
+  * **Görs av mottagande BM**
+  * **Låg risk o normalt förlopp**: handläggs av BM
+  * **hög risk:** bedömning läkare, samarbete
+* **Åtgärder förbättra värkar**:
+  *  **amniotomi**
+  *  **oxytocin infusion**: 
+     *  bättre effekt efter amniotomi, så man ska amniotomera innan man kör oxytocinfusion
+     *  ska nå 3-5värkar på 10/min, så man höjer tills denna frekvens är uppnådd, höjer inte mer efter det
+     *  över 50% får infusion, första födsel 
+     *  syntococin
+  *  **bad**
+  *  **nutrition**; ffa undvika <u>vätske</u>brist
+  *  **ingen effekt**: upprätt ställning, akupunktur
+* **Om ingen progress**: värkförstärkande dropp
+  * därefter instrumentell förlossning om ej fungerar, och inga kontraindik för instrumentell förlossning föreligger
+* ***Framfödandet***
+  * **Försöka hindra bristningar**
+    * bra översikt över mellangården
+    * perinealskydd
+    * inte forcera
+  * **Axlarnas framfödande**
+    * rotation efter huvudets framfödande
+    * hur ligger barnet?
+
+
+
+
+
+***Sammanfattande handläggning och process***
+
+* **Inga värkar**
+* **latensfas**
+* **aktiv fas entras**
+* **vattenavgång**: kan ske före öppningsskede, eller tom latensfasen alltså markerar starten på förlossningen, eller efter öppningsskedet
+  * om vattenavgg bör kontakta förlossningsklinik, 
+  * även om värkarna inte kmit igg
+  * för kontroller
+* **öppningsskedet**
+  * **om startat förlossningsarbete,** 
+    * **förstföderska**: stanna hemma tills värkar varar ca 60s, kommer intervall 3-4/10min
+    * **omföderskor**: komma in om 2/10min värkar, uppmanas söka tidigare för att har snabbare förlossningar
+  * **Alltså bör man vara på sjukhuset under öppningsskedets förlopp** 
+  * **Undersökningar**
+    * ankomst: BT, urinrprov (proteinuri)
+    * yttre palpation därefter, läge: huvudläge, sätesläge, tvärläge, fixerad el ej, skatta fosterstolek (om onormalt små foster som ej noterats under grav)
+    * CTG: asap, bedöma barnets vitalitet, intagningstestet.
+    * anamnes kortfatad: tidg grav, förlossningar, evt problem. MHV Journal finns. 
+    * om förlossning startat: gör vaginal undersökning för cervix
+      * öppningsgrad
+      * mognadsstatus: hård eller mjuk
+      * tecken hinnbristning
+      * hur långt nedträngning
+    * **!!! ta ställning om latent fas eller aktiv fas:** värkarnas frekvens, smärta, styrka
+      * om ej aktiv fas (e.g. latent) att lämna förlossningsavdelning och återvända när aktiv igång. 
+      * man vill eh intervenra för tidigt i onödan, i.e. att man ger infusion eller hinnsveper etc.
+  * **Partogrammet ska fyllas i**: i aktiv fas ska man följa partogrammet. 
+
+
+
+
+
+***Bedöma huvudets position i kvinnans bäcken***
+
+* Vertex - spina
+
+<img src="./imgs/gyn_sam_230321_XADeDFmTMb.png" alt="XADeDFmTMb" style="zoom:50%;" />
+
+
+
+***Barnets position***
+
+| <img src="./imgs/gyn_sam_230321_vBuWCkgTDr.png" alt="vBuWCkgTDr" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_YZb2ssjeuV.png" alt="YZb2ssjeuV" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_sam_230321_SbpEMrF8x8.png" alt="SbpEMrF8x8" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_2213SfDUmm.png" alt="2213SfDUmm" style="zoom:50%;" /> |
+| <img src="./imgs/gyn_sam_230321_CK2yjMdY2O.png" alt="CK2yjMdY2O" style="zoom:50%;" /> |                                                              |
+
+
+
+
+
+
 
 ### Förlossning: onormal
 
@@ -4733,6 +5000,23 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+
+
+### Förlossningspos
+
+| <img src="./imgs/gyn_sam_230321_94RFcB5dUq.png" alt="94RFcB5dUq" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_KdY8JlGnfH.png" alt="KdY8JlGnfH" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_sam_230321_ANhncYbAqD.png" alt="ANhncYbAqD" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_JA0YGitkWT.png" alt="JA0YGitkWT" style="zoom:50%;" /> |
+| <img src="./imgs/gyn_sam_230321_Cgg9U8Ggid.png" alt="Cgg9U8Ggid" style="zoom:50%;" /> |                                                              |
+
+
+
+### Förlossning - åtgärder
+
+* Hinnsvepning: att man med fingrarna sveper runt öppning, och hinnan, expanderar och irriterar hinnan för att inducera värkar o initiering förlossning. 
+
+
+
 ### Konvertering
 
 ***Presentation***
@@ -4748,10 +5032,10 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 * under en förlossning flera alternativ att förlösa barnet
 * kan ändras under loppet av förlossningen
-* alternativ
-  * Vaginalt
-  * Instrumentellt: tång, vakuumextraktion (sugklocka)
-  * Kejsarsnitt
+* **alternativ**
+  * **Vaginalt**
+  * **Instrumentellt**: tång, vakuumextraktion (sugklocka)
+  * **Kejsarsnitt**
 
 
 
@@ -4774,6 +5058,139 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Indikationer allmänt för konvertering***
 
 * **Tidsintervall:** Det verkar ej finnas tidsintervall enl BM för att konvertera en förlossning till kejsarsnitt istället för instrumentell förlossning
+
+
+
+
+
+### Partogram
+
+***Indikation***
+
+* Följer: öppningsgrad och nedträngnings huvet
+* identifiera förlängd öppning
+* När man bör åka in t sjukhus för att förlossning tagit för långtid...
+
+
+
+***Allmänt***
+
+* **Alert line (svart):** när passerat denna, har förlossning tagit längre än genomsnittet för flesta kvinnor
+  * göra ngt för att stimma förlossningen
+* **Action line**: passerar man denna måste man agera
+
+
+
+### Signalsubstanser
+
+#### Oxytocin
+
+**Fysiologi**
+
+* hormon
+* hypofys baklob, posterior
+* binds receptorer uterus
+* Stimulerar uterus sammandragningar: viktigt hormon för detta
+* Östrogen bidrar bildande oxytocinreceptorer
+
+
+
+
+
+### Storlek foster
+
+***Utredning och handläggning***
+
+* Screenar storleken på fostret innan födsel
+* SF-måttet: barn som växer på mättet som förväntat görs ingen UL-kontroll
+* SF-måttet, kurva: man placeras på en normal kurva
+* avviker fr SF-måttet -> UL, beräknar barnets storlek och beräknad vikt
+
+
+
+***Åtgärder***
+
+* avviker fostret fr kurvan att man ULar
+* ändra beslut vad gäller val av förlossningssätt: För stort foster för bäckenet föranleder invasivt ingrepp. 
+
+
+
+<img src="./imgs/gyn_sam_230321_YXnRka0zgg.png" alt="YXnRka0zgg" style="zoom:50%;" />
+
+
+
+
+
+
+
+### Värkar
+
+***Värkstimulerande åtgärder***
+
+* **Amniotomi**
+* **Oxytocininfusion**
+  * **mål**: 3-5värkar/10mn
+
+
+
+
+
+### Värsvaghet
+
+***Definition***
+
+* INgen enighet om denna för värksvaghet, när åtgärd, vilken åtgärd och dos oxytocin-dropp
+
+
+
+***Riskfaktorer***
+
+* ålder
+* BMI: längre tid till aktiv fas om högt
+* stressad
+* förstföderska
+* avvikande bjudning
+
+
+
+### Värkstimulering - oxytocindropp
+
+***Indikation***
+
+* Om inget förändring på partogrammet 3h
+  * då avvikit normalt skede
+  * att inget 1cm/h
+  * eller krystat >30min utan progress
+* kan då erbjuda värkstim dropp
+
+
+
+***Handläggning***
+
+* **säkertställ**
+  * ingen disproportion bäcken och läge
+  * ingen asfyxi föreligger hos foster
+  * barnet mår bra
+  * och har inte mer än 5värkar/10min reda
+* **Amniotomera innan**
+* **CTG kontinuerlig när man sätter in droppet**
+
+
+
+***Behandling***
+
+- Infusion inleds med 20mL/h
+- infusionshastighet ökas med 20mL var 20e-30e minut tills adekvat värkar
+- eftersträva 
+- - i öppningsskede 4-5 värkar/10min, med misnt 60s lpays mellan,
+  - utdrivningsskede max 5värkar/10min med minst 45-50s paus mellan
+- anpassa dos efter individuell respons o använd minsta möjliga effektiva dos
+
+
+
+
+
+
 
 
 
@@ -5381,12 +5798,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   * **motionera**
   * **kontrollera blodtryck i framtiden**
 
-
-
-
-
-
-
 ### Termer och definitioner
 
 
@@ -5429,6 +5840,16 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **LPK**
 * **UL**
 * (klamydia odling, u-odling)
+
+
+
+
+
+### Leopolds handgrepp
+
+
+
+<img src="./imgs/gyn_sam_230321_PedMjVRhA0.png" alt="PedMjVRhA0" style="zoom:50%;" />
 
 ### NAAT
 

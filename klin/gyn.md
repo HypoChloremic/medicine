@@ -16,6 +16,25 @@
 
 ## Akut buk
 
+### Diagnoser
+
+* Salpingit
+* Endometros
+* x-grav, extrauterin graviditet
+* appendicit
+* corpus luteum cysta
+* ovarial torsion
+* diveritkult
+* TOA
+* endometrit
+* cervicit
+* PID
+* cystor: follikelcysta
+
+
+
+
+
 ### Ektopisk graviditet
 
 ***Etiologi och patofysiologi***
@@ -218,11 +237,49 @@ cerivicit
 
 
 
-## Behandling
+## Blödning
+
+### Anovulatorisk blödning
+
+***Presentation***
+
+* Elin, 13 år, 
+  * fick sin första menstruation för sex månader sedan. Nu söker hon på mottagningen tillsammans med sin mamma. Orsaken är att hon haft mer eller mindre riklig blödning i stort sett varje dag sedan en månad tillbaka.
+  * Troligaste orsak: funktionell blödningsrubbning (anovulation), genombrott efter längre tids oavbruten östrogenpåverkan
+  * vidare utredning: trötthet, Hb, tidg sjd. Gyn undersökning ej nödvändig enl HT12
 
 
 
 
+
+***Etiologi och patofysiologi***
+
+* "Funktionell blödningsrubbning (tent)"
+* **Ovulation uteblir, östrogen påslag kontinuerligt, utan progesteron**
+* **Endeometrieslemhinna fortsatt proliferationsfas**
+* **Proliferar tills det blir nekros**
+* **För ingt progesteron, spiralkärlen kontraherar ej och ingen spasm**
+* **Fortsätter att blöda**
+
+
+
+***Utredning och handläggning***
+
+* **Anamnes**
+  * Tidg sjd, nuvarande
+  * hereditet, koagulationsrubbningar
+  * läkemedel
+  * sedvanlig anamnes
+  * sexuell kontakt
+* **Prover**: 
+  * fkap-HB
+
+
+
+***Behandling***
+
+* **Cykliskt gestagen**: 3-6månader
+* **Kombinerade p-piller**
 
 ## Cancer
 
@@ -394,6 +451,7 @@ cerivicit
   * 2 grav 2 para, senaste partus 2013. Hade cellförändringar för 10 år sedan, går på årliga kontroller hos sin gynekolog, sista kontroll för 1 år sedan. 
   * Cytologi ua.Söker i juli 2014 pga illaluktande blodtillblandade flytningar. Bilden och PAD visade invasiv cervix cancer lågdifferentierad, stad 1B1
   * <img src="./imgs/gyn_sam_160321_JM7xKMoIg8.png" alt="JM7xKMoIg8" style="zoom:50%;" />
+* **Vanligaste symptomet vid cellförändringar**: oftast symptomlöst. 
 
 
 
@@ -888,7 +946,7 @@ cerivicit
 
 * 1% av alla uterina maligniter, 40% av alla uteruina sarkom
 * invidens 0.67:100k
-* incidens leiomyosarkom originate fr leuomyom
+* incidens leiomyosarkom originate fr leiomyom
 
 
 
@@ -967,6 +1025,12 @@ cerivicit
 ***Presentera***
 
 * Kvinna rikliga blödningar + myom = ge hormonspiral
+* **Elsa, 48 år,** 
+  * kommer på remiss från vårdcentralen till kvinnokliniken för att man känt en resistens nedtill i buken. Hon är tidigare väsentligen frisk, förutom en välbehandlad hypertoni, III-gravida, II-para, med två PN. Senaste gyn-undersökningen var för minst 10 år sedan men cytologproven hos barnmorskan har varit u.a.. Menstruationerna har blivit lite mera oregelbundna det senaste året och intervallen varierar mellan 3 och 6 veckor. Elsa är rädd att hon fått cancer och är ganska uppskärrad.
+  * troligast gyn orsak: myom (uterusmyom)
+  * Veta mer: sj känt en knöl, ökat bukomfång, pollakisuri täta träng, problem avföring, rikliga mens, paramaligna symptom, trötthet, avmagring, 
+  * fynd förstärker malignitet misstanke: adherent resistens. inte utgår fr uterus. UL cystisk förändring flera rum solikda partier, asciters
+    * prover: anemi, förhöjt Ca-125, ec CEA o F-Hb
 
 
 
@@ -974,34 +1038,91 @@ cerivicit
 
 * **benign glatt muskel tumör i uterus**
 * "**muskelknutor**"
-* **rikliga blödningar:** en mekanisk påverkan på uterus eller lokala faktorer som åpverakr kärlbild eller koag, 
+* **rikliga blödningar**: en mekanisk påverkan på uterus eller lokala faktorer som åpverakr kärlbild eller koag, 
+* **enl Blueprints**
+  * aka leiomyom, fibroid
+  * benign proliferationon glatt muskel i myometriet
+  * **tidsspann**: under fertil ålder uppkommer. Regress i menopaus.
+  * **vanligaste indikation för kirurgi i US**: 1/3 av alla hysterektomier i Sverige
+  * **reproduktiva svårigheter**
+  * **benign, monoklonal tumör**: börjar fr enstaka glatt muskelcell
+* ? **malignt transformeras**: enl abbe under 1% han ref t ppt (enl blue så kan de uppstå samtidigt, men då parallelt inte att de stammar fr samma celler) 
 
 
 
-***Kliniska kännetecekn***
+<img src="./imgs/gyn_sam_240321_FPZF0N4CXJ.png" alt="FPZF0N4CXJ" style="zoom:50%;" />
 
-* Trycksymptom: trännignar, förstoppning, 
-* rikliga menstruationer: medför järnbristanemi
-* dyspareuni
-* några mm t mkt stora
-* oftast asymptomatiska 
-* tendens växa grav -> kan ge smärta ffa tidig grav
-* UL rundad struktur, vaerierad ekogenictet, kan förkalkat skal, ofta skugga bakom
+
+
+
+
+***Epidemiologi***
+
+* **LIvstidsrisk**
+  * **Afrikanska kvinnor**: 80% 
+  * **Caucasian**: 70% 
+
+
+
+***Kliniska kännetecken***
+
+* **Trycksymptom**: trängningar, förstoppning, 
+* **rikliga menstruationer**: medför järnbristanemi
+* **oregelbundna menstrutationer**: verkar som att man kan få detta... enl blueprints (s)
+* **dyspareuni**
+* **några mm t mkt stora**
+* **oftast asymptomatiska** 
+* **tendens växa grav** -> kan ge smärta ffa tidig grav
+* **UL rundad struktur**, vaerierad ekogenictet, kan förkalkat skal, ofta skugga bakom
 * infertilitet kan pga mekanisk orsak, att implantation försvåras
 * upptäcks som bifynd, kan ge kroniska o akuta symptom som kräver beh
-* akut buksmärta: nekros i myom
+* **akut buksmärta**: nekros i myom
+* enl blueprints
+  * FIBROIDS Mnemonic
+  * F: Frekvens och ret urin, hydronefros
+  * I: Iron deficiency anemia
+  * B: Bleeding abnormalities (menorrhagi, metrorrhagi, menometrorrhagi, postcoital spotting), bloating
+  * R: Reproductive difficulties: dysfunctional labor premature labor delivery, fetal malpresentation, increased need cesarean delivery
+  * O: Obstipation and rectal pressure
+  * I: Infertility failed implantaation, spontaneous abortio
+  * D: Dysmenorrhe, dysparenu
+  * S: Symptomless
+* Pelvis smärta är va
 
 
+
+***Riskfaktorer***
+
+* **Etnicitet**: afrikansk
+* **icke rökande**
+* **tidig menarke**
+* **nulluipara**
+* **perimenopau**
+* **ökad alkohol**
+* **hypertension**
+* **lågdos antikonception** OCP protektiv mot utv
+* **HRT** postmenopausal kvinna att den kan växa i storlek men ingen påverkan kliniska symptom
+
+
+
+***Utredning och handläggning***
+
+* Anamnes
+* Status: Gyn-status, bimanuell palpation (palpera resistens)
+* FYnd ökar malignitetsmisstanke
+  * Resistens: adherent, ej utgår fr uterus
+  * UL: cystisk förändring m flera rum, solida partier
+  * Prover: anemi. förhöjt Ca-125. Ev CEA och F-Hb
 
 
 
 ***Behandling***
 
-* **Radikalt eller uterussparande**
+* **radikalt eller uterussparande**
 * **farmakologiskt:** 
-  * esyma: selektiv prostaglandin 
-  * GNRH analog minskar myometriets volym
-  * hormonspiral: minskar ej myometriet men kan minska blödningsbesvären specifikt
+  * **GNRH analog minskar myometriets volym**
+  * **hormonspiral**: minskar ej myometriet men kan minska blödningsbesvären specifikt
+  * **esyma**: selektiv prostaglandin; denna är avskriven, den har gett leversvikt hos vissa patienter, så ej denna längre
 * **kirurgiskt**
   * hysterektomi
   * enukleation
@@ -1236,11 +1357,11 @@ cerivicit
   * **MRT sella turcica**: låga nivåer ffa LH + hög prolaktin (>496 mIE/mL) +- galaktorre ska utredas med MRT sella för uteslutande av prolaktinom
   * DT vid kontraindikation MRT
 * **Ögonsymptom +- makroadenom på MRT**
-  * remiss ögonmottagning för visus + synfältsundersökning
+  * remiss ögonmottagning för **visus + synfältsundersökning**
 * **Tolkning**
-  * Makroadenom + lätt förhöjd prolaktin -> talar emot prolaktinom -> remiss endokrinolog
+  * **Makroadenom + lätt förhöjd prolaktin** -> talar emot prolaktinom -> remiss endokrinolog
     * kliniskt inaktiv hypofystumör eller blandtumör (producerar tillväxthormon, kortisol, eller TSH)
-  * hyperprolaktinemi + ingen synlig adenom -> uteslut annan förklaring t hyperprolaktinemi, överväg beh försök, uteslut makroprolaktin
+  * **hyperprolaktinemi + ingen synlig adenom** -> uteslut annan förklaring t hyperprolaktinemi, överväg beh försök, uteslut makroprolaktin
 * **Hyperprolaktinemi utan symptom**
   * **finner höjda serumprolaktinnivåer** men pat saknar symptom på hyperprolaktinemi
   * **makroprolaktin**: pat kan ha detta; konglomerat prolaktinmonomerer bundna t IgG eller ha heterofial ak riktade mot prolaktin
@@ -1257,10 +1378,10 @@ cerivicit
 
 ***Differentialdiagnoser***
 
-* Hypothyreos
-* Kronisk njursvikt
-* grav leverinsufficiens
-* PCOS: lätt förhöjt prolaktin utan annan samtidig orsak t hyperprolaktinemi
+* **hypothyreos**
+* **kronisk njursvikt**
+* **grav leverinsufficiens**
+* **PCOS**: lätt förhöjt prolaktin utan annan samtidig orsak t hyperprolaktinemi
 
 
 
@@ -1270,7 +1391,7 @@ cerivicit
   * **bromokriptin, pravidel**: 1a hands val; kontroll S-prolaktin efter 6-8v., därefter tel kontakt för ev dosjustering. 
   * **bromokriptin, gravoda**: kan prövas, inga effekter på fostret supposedly 
 * **Kirurgi**
-  * vöervägas saällsynt  fall makroprolaktinom + synpåverk som inte snabbt förbättras
+  * övervägas sällsynt  fall makroprolaktinom + synpåverk som inte snabbt förbättras
   * endokrin + neurokir bestämmer
 * **Gammstrålning beh**
   * stereotaktisk strålbeh kan övervägas vid adenomrest
@@ -1459,29 +1580,42 @@ cerivicit
 
 
 
-### Menstruation - amenorre
+### Menstruation - amenorré
 
 ***Presentation***
 
+
+
+***Allmänt***
+
+* **Primär amenorre**: spontan menstruation har aldrig förekommit, oavsett ålder
+* **Försenade menarche:** Ingen menstruation vid fyllda 16åå
+* **Försenad pubertet:** inga pubertetstecken vid 14åå
+  * Pubertet: längd utveckling - thelarche - adenarche
+* **Sekundär amenorre:** Menstruationsuppehåll >= 3 månader
+
+
+
 ***Etiologi och patofysiologi***
 
-* Orsaker till amenorre
-  * viktnedgång, anorexia nervosa
-  * intensiv träning: idrottsamenorre
-  * emotionell stress
-  * hyperprolaktinemi
-  * PCOS
-  * Thyroideadysfunktion
-  * Ovariellsvikt
-  * kromosomrubbningar
-  * missbildningar
+* många olika orsaker till amenorre, som alla tillhör olika grupper
+* **viktnedgång, anorexia nervosa**
+* **intensiv träning:** idrottsamenorre
+* **emotionell stress**
+* **hyperprolaktinemi**
+* **PCOS**
+* **thyroideadysfunktion**
+* **ovariellsvikt**
+* **kromosomrubbningar**
+* **missbildningar**
+* **Nutritionella orsaker**: vid dåligt nutritinsstatus att IGF1 sjunker. IGF1 agerar stimulerande på GnRH, vilket därför inte sker när man har dålig nutrition, varpå GnRH sjunker. 
 
 
 
 ***Indelning***
 
 * **Indelning amenorre enl gonadotropinnivåer**
-  * **Hypogonadotrop hypogonadism:** 
+  * **Hypogonadotrop hypogonadism:** (med hypogonadism att det är små ovarier)
     * Fysiologisk försening
     * anorexia nervosa
     * intensiv träning
@@ -1491,9 +1625,11 @@ cerivicit
     * PCOS
     * intensiv träning
     * missbildningar
-  * **Hypergonadotrop hypogonadism**
+  * **Hypergonadotrop hypogonadism**: på **overiell nivå** bör man vara HYPERgonadotrop för 
     * Kromosomavvikelser
-    * prematur ovariellsvikt
+    * **prematur ovariellsvikt**: 
+      * Förhöjda: FSH, LH 
+      * Östrogen, prolaktin, testosteron
 
 
 
@@ -1504,11 +1640,6 @@ cerivicit
   * **Nivå2, ovarier:**  gonaddysgenesi
   * **Nibå3, hypofys**: adenom
   * **Nivå4, hypothalamus**: kallmans syndorm, anosmi, utebliven pubertet
-* **Primär amenorre**: spontan menstruation har aldrig förekommit, oavsett ålder
-* **Försenade menarche:** Ingen menstruation vid fyllda 16åå
-* **Försenad pubertet:** inga pubertetstecken vid 14åå
-  * Pubertet: längd utveckling - thelarche - adenarche
-* **Sekundär amenorre:** Menstruationsuppehåll >= 3 månader
 
 
 
@@ -1625,7 +1756,7 @@ cerivicit
 ***Diagnos***
 
 * **PCOS diagnosticeras med gyn UL**: uppvisar 12 antralfolliklar och eller en ovarievolym på 10cm3
-* **enl ROtterdam, ska ha påvisats, minst 2 av 3**:
+* **enl Rotterdam, ska ha påvisats, minst 2 av 3**:
   * polycystiska ovarier på UL: verkar ej vara oblgat med att man har polycystiska ovarier på UL för att få diagnosen. 
   * anovulation
   * kliniska hormonella tecken hyperandrogenism
@@ -2520,12 +2651,16 @@ cerivicit
 
 ***Presentation***
 
-* Ett alternativ korrekt
+* **Ett alternativ korrekt**
   * Vid vulvovaginal svampinfektion finns relativt hög risk för uppåtstigande infektion (salpingit).
   * Vid bakteriell vaginos noteras ofta rodnade slemhinnor.
   * Vid bakteriell vaginos bör man alltid överväga partnerbehandling.
   * Vid vulvovaginal svampinfektion noteras ofta gråaktig flytning.
   * Vid bakteriell vaginos kan man behandla både systemiskt och vaginalt
+* **Margarita, 35 år,** 
+  * söker för ökade flytningar. I journalen ser du att hon är III-gravida, I-para, med en normal, vaginal förlossning för 10 år sedan och därefter två missfall. Sedan tonåren har hon typ I-diabetes och behandlas med insulin via pump. Besvären som hon söker för har hon haft av och till under flera månader. Du får veta att hon är singel och haft flera kortare relationer med olika män under de senaste åren. Hon har p-piller och regelbunden mens. Inga tidigare gynekologiska problem förutom kondylom för några år sedan. Cytologprov var normalt för 1 år sedan men Margarita är orolig för cellförändringar. Flytningen beskriver hon som ganska tunn, gulaktig, ibland rosafärgad, luktar lite illa av och till. Klåda och irritationskänsla finns också av och till. Hennes insulinbehandling fungerar bra och blodsockret är mestadels stabilt. Du fortsätter med en gynekologisk undersökning.
+  * **Differentialdiagnoser:** BV, candida, kondylom, klamydia
+  * **Prover**: wet smear, sniff-test, pH, klamydia prov
 
 
 
@@ -5017,6 +5152,23 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+### Induktionsåtgärder
+
+***Olika åtgärder***
+
+* prostaglandin E2 intracervikalt
+* prostaglandin E2 vaginalt alternat ballongbeh
+* ballongbeh
+* oxytocin och amniotomi
+
+
+
+***Indikationer***
+
+* Bishop 0-2p: PE2 intracervikalt
+* Bishiop 3-5p: PE2 vaginalt, alt ballongbeh
+* Bishop 6-10p: oxytocin amniotomi
+
 ### Konvertering
 
 ***Presentation***
@@ -5052,6 +5204,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   * **Vertex ovan spinae**: innebär att man ej kan använda instrumentell förlossning
   * **Bjudningar**: det finns många olika bjudningar, som man helst kör med snitt än med förlossning, e.g. sätesbjudning
   * **CTG förändringar, med omogen cervix**
+  * **Vertex ovan spinae + retraherad över 4 timmar**
 
 
 
@@ -5256,8 +5409,8 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Presentation***
 
 * På akutmottagningen söker en 17-årig flicka för ont i magen. Hon har lätt illamående, hade lös avföring på morgonen och har behövt kissa oftare. Temp 37.6. Vid palpation av buken ömmar hon diffust utan tydligt sidoskillnad. Vid försiktigt gynekologisk undersökning med en smalt spekulum finner du måttlig blodblandad flytning ur cervix samt diffus palpationsömhet över uterus och bilateralt kanske mest åt höger.
-  * anamnes viktigt uppfattning om diagnos: SM, haft samlag o när, P-medel
-  * prov undersökningar för sätta ni rätt beh: U-hCG om ej viro, UL, CRP, LPK, klamydia odling, u-odling
+  * **anamnes viktigt uppfattning om diagnos:** SM, haft samlag o när, P-medel
+  * **prov undersökningar för sätta ni rätt beh:** U-hCG om ej viro, UL, CRP, LPK, klamydia odling, u-odling
   * **!!! tre troliga diagnoser: salp, app, X, gastroenterit, uvi, rupturerat corpus luteum cysta**
 
 
@@ -5656,6 +5809,14 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
   * Fyra möjliga orsaker till den stora blödningen
   * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
+* **Pat 35åå**
+  * preeklampsi
+  * nu ihållande bradykardi på CTG 
+  * ska misstänka placenta ablatio 
+* **pat 35åå** 
+  * tidigare snittad
+  * nu ihållande bradykardi på CTG 
+  * ska misstänka uterus ruptur
 
 
 
@@ -5767,9 +5928,9 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Skyddande faktor (minskad relativ risk)***
 
-* Multipara utan tidigare preeklampsi
-* Ett barn, inte tvillingar etc
-* Rökning: verkar sänka risken...
+* **Multipara utan tidigare preeklampsi**
+* **Ett barn, inte tvillingar etc**
+* **Rökning:** verkar sänka risken...
 
 
 
@@ -5828,8 +5989,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ## Tester och status
 
-
-
 ### Allmän ospec utredning
 
 ***Utredning och handläggning***
@@ -5841,7 +6000,72 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **UL**
 * (klamydia odling, u-odling)
 
+### Bishop score
 
+
+
+***Presentation***
+
+* **32 årig ensamstående kvinna**
+  * med 6 barn i graviditetsvecka 36. Alla 6 är födda vaginalt. Hennes stora bekymmer är att det är svårt med barnpassning. 
+  * hon vill veta hur cervixstatus är nu
+  * du undersöker henne. 
+  * föregående fosterdel huvud ovan spinae
+  * cervix är mellanriktad, bevarad, öppen 3cm trattande, medium konsistens.
+
+
+
+***Indikation***
+
+* **Cervixstatus**: bishop relativt objektivt mått på cervixstatus
+
+
+
+***Allmänt***
+
+* **Poäng 0-10p**
+
+
+
+***Utföringsmässigt***
+
+* **Allt detta skes palpatoriskt vaginalt**
+* **Positionering [av cervix]:** 
+
+
+
+***Gradering***
+
+* **under eller = 5p**: omoget cervixstatus
+
+| cervixscore   | aka moddad Bishop enl Westin |               |                     |
+| ------------- | ---------------------------- | ------------- | ------------------- |
+| **Parameter** | **Poäng - 0**                | **Poäng - 1** | **Poäng - 2**       |
+| Station       | ovan eller vid bäckeningång  | ovan spinae   | vid el nedom spinae |
+| Diameter (cm) | <= 0.5                       | >0.5-<1.5     | >= 1.5              |
+| Utplåning (%) | 0                            | under 50      | >= 50               |
+| Konsistens    | Fast                         | Medium        | Mjuk                |
+| Riktning      | Bakåt                        | Mellanläge    | Framåt              |
+
+<img src="./imgs/gyn_sam_240321_t5N9g1ankh.png" alt="t5N9g1ankh" style="zoom: 80%;" />
+
+
+
+### Cervixstatus
+
+
+
+***Utplåningsgrad***
+
+* Detta baseras på längden av cervixhalsen
+* **inget med öppningsgrad att göra**: alltså möjligt att den är utplånad men öppen 0cm
+* baseras på att man kan eller ej palpera en cervixhals
+
+
+
+***Retraherad***
+
+* **Öppningsgrad**: helt öppen
 
 
 
@@ -5851,12 +6075,14 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 <img src="./imgs/gyn_sam_230321_PedMjVRhA0.png" alt="PedMjVRhA0" style="zoom:50%;" />
 
+
+
 ### NAAT
 
-* Nucleic acid amplification test
+* **Nucleic acid amplification test**
 * tillgängligt hela landet
-* sens högre än odling
-* spec lägre 
+* **sens högre** än odling
+* **spec lägre** 
 * **män**: första urinportion
 * **kvinnor**: vagina, cevix prov
 * **rektalt prov**: proktopskop el blint 3-4cm upp i analkanal

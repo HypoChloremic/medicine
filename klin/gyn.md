@@ -1990,7 +1990,7 @@ cerivicit
       * **planerar fosterdiagnostik**: med att boka in KUB-tiden ()
       * **Utökade kontroller**
   * **v16 (utförs vb; besök hos BM)**
-    * EPDS: edinburoguh depression scale
+    * **EPDS**: edinburoguh depression scale
     * förlossningsrädsla, extra emningstöd, uppfölj levnadsvanor, social problematik, våld nrära rel, våld, övergrepp
   * **v15-16, KUB diagnostik**
   * **v18-20 RUL**: Rutinultraljudet, för tillväxtbestämning, polyhydramnios, etc.
@@ -2055,13 +2055,13 @@ cerivicit
 ### Status
 
 * **Livmodern, palpatoriskt under graviditet**
-  * Precis vid symfysen: v12
-  * Lite mer ovan symfysen: v16
-  * Kring navelområdet: v19-24
-  * Ovan navelområdet: v28
-  * Lite nedom epigastriskt: v32
-  * Epigastriet: v36
-  * upp till naveln, livmodern: 19+3
+  * **Precis vid symfysen**: v12
+  * **Lite mer ovan symfysen**: v16
+  * **Kring navelområdet**: v19-24
+  * **Ovan navelområdet**: v28
+  * **Lite nedom epigastriskt**: v32
+  * **Epigastriet**: v36
+  * **upp till naveln, livmodern**: 19+3
 
 <img src="./imgs/gyn_sam_190321_FXxRKJAXcW.png" alt="FXxRKJAXcW" style="zoom:50%;" />
 
@@ -2138,11 +2138,133 @@ cerivicit
 
 
 
+### Eklampsi
+
+***Etiologi patofysiologi***
+
+* pat som har preeklampsi som utvecklar ***kramper***
+* kan vara tt man får kramper, men vet ej att pat har preeklampsi: senare upptcäks i grav eller i samband med kramperna
+
+
+
+***Behandling***
+
+* **Magensiuminfusion**: ser man att pat är darrig börjar bli tydligt att hon kommer utveckla kramper, så sätter man in magnesiuminfusion
+  * **neuroprotektivt syfte**
+  * **tröskelhöjande**: att man minskar risken för kramper
+  * an användas primär och sekundärprofylaktiskt syfte
+
+
+
+
+
 ### Graviditetsdiabetes
 
 
 
+***Behandling***
 
+* **Farmakologiskt**
+  * **Gällande metformin**: denna supposedly ska man sluta med, då epidem studier visat att ungar vars mamma tagit metformin i deras grav blir större, högre BMI vid 10åå etc. istället att man går över till insulin. Men det verkar som att PM inte har ändrats 
+
+
+
+### Graviditetshyperton
+
+***Presentation***
+
+* 32 årig ensamstående kvinna med 6 barn i graviditetsvecka 36. 
+  * Alla 6 är födda vaginalt. Hennes stora bekymmer är att det är svårt med barnpassning. Hon vill veta hur cervixstatus är nu. Du undersöker henne. Föregående fosterdel huvud ovan spinae. Cervix är mellanriktad, bevarad, öppen 3cm trattande, medium konsistens.
+  * BT 155/85, ska man beh eller expektera: man ska behandla
+
+
+
+
+
+
+
+***Behandling***
+
+* Indikationer: verkar som att indikationerna för behandling inte ändras generellt för hypertensiva tillstånd i grav, att 150/105-100 är gränsen för att man vill behandla, antingen systoliskt eller diastoliskt på den nivån ya3ni. 
+
+
+
+### HELLP
+
+***Allmänt***
+
+* ***HELLP*** - Hemolysis-elevated liver enzymes-low platelet count syndrome
+* preeklampsi-liknande tillstånd
+
+
+
+***Kliniska kännetecken***
+
+* 20% ingen tidigare hypertension
+* **tredje trimestern...**
+* **RUQ smärta**
+* **illamående**
+* **huvudvärk**
+* **epigastrisk smärta**
+
+
+
+***Utredning och handläggning***
+
+* **grav presenterar tredje trimester med ovan symptom:** 
+  * **SKA uteluta HELLP**
+  * **Ej påverkad**: U-sticka + lilla tox ()
+  * **Påverkad**: U-sticka + stora-tox
+* **Prover**
+  * hemolys
+  * leverenzymer stiger
+  * trombocyter sjunker
+
+
+
+
+
+***Komplikationer***
+
+* DIC
+* Moderdöd
+* leverruptur
+
+
+
+
+
+### Hypertension i grav
+
+***Etiologi och patofysiologi***
+
+* **GH, eller graviditetsorsakad hypertension**
+* **preeklampsi utan svåra karakteristika**
+* **preeklampsi med svåra karakteristika**
+* **kronisk hypertension**
+* **kronisk hypertension med superimposed preeklampsi**: med eller utan svåra karakteristika
+* **HELLP syndrom**
+* **AFLP**
+* **AFLP:** akut fatty liver of pregnancy: GH, gestational hypertension; HELLP - hemolys av 
+
+
+
+***TIdsindelning***
+
+* **v14-v20 (andra trimester)** 
+  * **Hydratiform mole**: tillväxt abnormal fertiliserat ägg eller övertillväxt vävnad fr placenta. 
+  * **tidigare ej diagnosticerad kronisk hypertension** 
+  * **gestationell hypertoni**: antagligen graviditetsrelaterad enl abe. 
+
+
+
+***Behandling***
+
+* **Indikationer för behandling av hypertoni i graviditet**
+  * systoliskt över 150
+  * diastoliskt över 100-105
+* **Farmakologiskt**
+  * **Trandate**: labetalol
 
 ### Immunisering
 
@@ -2177,6 +2299,54 @@ cerivicit
 ***Behandling***
 
 * **profylax, anti-D**: för Rh-negativa kvinnor. 
+
+
+
+### Polyhydramnios
+
+***Presentation***
+
+* 32åå 
+  * En tidigare frisk kvinna återkommer från ultraljudsundersökning i graviditetsvecka 32 med polyhydrramnios.
+  * tillstånd går med polyhydramnios: diabetes, esofagusatresi, neuro sjd påverkar svälj, stort barn
+  * **vanligaste orsak**: GDM eller diabetes
+  * **komplettera undersöknig**: glukosbelastningstest (OGTT, HbA1C)
+
+
+
+
+
+***Etiologi och patofysiologi***
+
+* Enl tenta
+  * **diabetes, graviditetsdiabetes**: vanligaste orsaken
+  * **stort barn**
+  * **esofagusatresi**: antagligen att fostret inte kan svälja fostervattnet
+  * **neuro sjd påverkar sväljning**
+* Risker med polyhydramnios
+  * Navelsträngsprolaps
+  * pPROM
+  * stort barn
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+* Utredning för diabetes
+  * OGTT: att man glukosbelastar dessa patienter..., tenta
+  * HbA1C, tent
+
+
+
+
+
+***Behandling***
+
+
 
 
 
@@ -2224,6 +2394,10 @@ cerivicit
   * Endometrios är vanligare hos kvinnor från västra Afrika.
   * Endometrios är vanligt hos kvinnor vars mödrar har endometrios
   * Endometrios bör i första hand behandlas kirurgiskt och radikalt med laparoskopisk resektion och diatermi.
+* **20åå kvinna**
+  * endometrios, steg1 behandlas med kombinerade p-piller
+  * ringer nu, har en genombrottsblödning
+  * Vad rekar du: antingen uppehåll 4d eller tar 2t dagligen i 5d. 
 
 
 
@@ -3942,15 +4116,13 @@ cerivicit
 
 
 
-
-
-### Hormonernas roll i p-piller
+#### Hormonernas roll i p-piller
 
 
 
 ***Presentation***
 
-* När på p-pillerkartan är det mest riskabelt glömma piller: början, slutet
+* **När på p-pillerkartan är det mest riskabelt glömma piller**: början, slutet
 
 
 
@@ -3963,9 +4135,11 @@ cerivicit
 ***Gestagen***
 
 * **Mekanism**
-  * Hämmar LH-frisättning: är ett **antiandrogen!**
-  * förtjockar cervixsekret
+  * **Hämmar LH-frisättning**: är ett **antiandrogen!**
+  * **förtjockar cervixsekret**
   * // verkar som att det finns androgena gestagener osså...
+  * // **Lutealfasen kommer aldrig ur den**: efter ovulation in i lutealfasen där progest och östrogen är högt. Efter ett tag för att hCG (LH analgo) droppar, så stöts endometrieslemhinann ut. med kombinerade p-piller så fortsätter man att få östrogen och progesteron, men hCG försvinner, så man stöter ut endometrieslemhinnan MEN man kommer aldrig ur lutealfasen / sekretionsfasen vad gäller cykeln
+    * **Atrofisk slemhinna**: därför att man aldrig kommer ur lutealfasen och in i follikelfasen där östrogen ensamt stiger, kommer endometrieslemhinnan aldrig att prolifera.  
 * **Resultat**
   * **hämmar ovulation**: det är gestagenet som gör att man inte ägglossar
   * **hindrar spermier** fr att *penetrera cervix*: i.e. de kommer ej förbi portio
@@ -4040,13 +4214,13 @@ cerivicit
 * **uppehåll max 4 dagar**: slutsats fr studien var att man ej ska gå över 4 dagars uppehåll fr pillren
   * **färre graviditeter om man har max 4 dagars uppehåll**
   * för att 7 dagars uppehåll e lite för länge och äggblåsan växer sig stor
-* ***Mår sämre av uppehåll***: kvinnor mpr sämre av blödningarna, bäckensmärta, HB, ömma bröst, svullnadskänsla, äter en del alvedon
+* **Mår sämre av uppehåll**: kvinnor mår sämre av blödningarna, bäckensmärta, HB, ömma bröst, svullnadskänsla, äter en del alvedon
 
 
 
 ***Rekommendation vad gäller uppehåll o p-piller***
 
-* Pat ska äta karta på karta på karta, utan uppehåll
+* **Pat ska äta karta på karta på karta, utan uppehåll**
 * **TILLS att de får en blödning**
 * **Efter blödning får man MAX ha 4 dagars uppehåll**
 
@@ -4111,7 +4285,7 @@ cerivicit
 
 ***Läkemedelsinteraktioner***
 
-* Antiepileptika: obs antiepileptika kan användas för smärta o migrän
+* **Antiepileptika**: obs antiepileptika kan användas för smärta o migrän
 * tuberkelostatika
 * johannesört
 * HIV-mediciner
@@ -5156,18 +5330,18 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Olika åtgärder***
 
-* prostaglandin E2 intracervikalt
-* prostaglandin E2 vaginalt alternat ballongbeh
-* ballongbeh
-* oxytocin och amniotomi
+* **prostaglandin** E2 intracervikalt
+* **prostaglandin** E2 vaginalt alternat ballongbeh
+* **ballongbeh**
+* **oxytocin** och **amniotomi**
 
 
 
 ***Indikationer***
 
-* Bishop 0-2p: PE2 intracervikalt
-* Bishiop 3-5p: PE2 vaginalt, alt ballongbeh
-* Bishop 6-10p: oxytocin amniotomi
+* **Bishop 0-2p:** PE2 intracervikalt
+* **Bishiop 3-5p:** PE2 vaginalt, alt ballongbeh
+* **Bishop 6-10p**: oxytocin amniotomi
 
 ### Konvertering
 
@@ -5691,84 +5865,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-### Eklampsi
-
-***Etiologi patofysiologi***
-
-* pat som har preeklampsi som utvecklar ***kramper***
-* kan vara tt man får kramper, men vet ej att pat har preeklampsi: senare upptcäks i grav eller i samband med kramperna
-
-
-
-
-
-### HELLP
-
-***Allmänt***
-
-* ***HELLP*** - Hemolysis-elevated liver enzymes-low platelet count syndrome
-* preeklampsi-liknande tillstånd
-
-
-
-***Kliniska kännetecken***
-
-* 20% ingen tidigare hypertension
-* **tredje trimestern...**
-* **RUQ smärta**
-* **illamående**
-* **huvudvärk**
-* **epigastrisk smärta**
-
-
-
-***Utredning och handläggning***
-
-* **grav presenterar tredje trimester med ovan symptom:** 
-  * **SKA uteluta HELLP**
-  * **Ej påverkad**: U-sticka + lilla tox ()
-  * **Påverkad**: U-sticka + stora-tox
-* **Prover**
-  * hemolys
-  * leverenzymer stiger
-  * trombocyter sjunker
-
-
-
-
-
-***Komplikationer***
-
-* DIC
-* Moderdöd
-* leverruptur
-
-
-
-
-
-### Hypertensiva tillstånd graviditet
-
-***Etiologi och patofysiologi***
-
-* **GH, eller graviditetsorsakad hypertension**
-* **preeklampsi utan svåra karakteristika**
-* **preeklampsi med svåra karakteristika**
-* **kronisk hypertension**
-* **kronisk hypertension med superimposed preeklampsi**: med eller utan svåra karakteristika
-* **HELLP syndrom**
-* **AFLP**
-* **AFLP:** akut fatty liver of pregnancy: GH, gestational hypertension; HELLP - hemolys av 
-
-
-
-***TIdsindelning***
-
-* **v14-v20 (andra trimester)** 
-  * **Hydratiform mole**: tillväxt abnormal fertiliserat ägg eller övertillväxt vävnad fr placenta. 
-  * **tidigare ej diagnosticerad kronisk hypertension** 
-  * **gestationell hypertoni**: antagligen graviditetsrelaterad enl abe. 
-
 
 
 ### Missfall
@@ -6023,7 +6119,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Allmänt***
 
-* **Poäng 0-10p**
+* Poäng 0-10p
 
 
 

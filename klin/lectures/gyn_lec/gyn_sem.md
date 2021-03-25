@@ -1381,6 +1381,22 @@ Progesteron R modulator. Är indragen för tillfället pga har gett leversvikt.
 
 <img src="./imgs/gyn_sem_eXSGdE2vBE.png" alt="eXSGdE2vBE" style="zoom:50%;" />
 
+
+
+
+
+## Bäckenresistenser 2
+
+<img src="./imgs/gyn_sem_6V8p0iBsSY.png" alt=6V8p0iBsSY style="zoom:50%">
+
+* Smärtan: 
+  * hur det utv, strålar, SOCRATES, korrelerar med ngt, besvär samlag, preventivmedel, ngn skillnad av d, smärtlindring om effekt
+  * infektionssymptom
+  * sår, konstiga flytningar
+  * sexualanamnes
+  * ttidigare könssjukdomar
+  * 
+
 # Bäckenresistenser 
 
 Dessa fall täcker lärandemål Kunna: • Preventivmetoder och deras verkningsmekanismer • Benigna ovarialtumörer, endometrios • Symtom och diagnostik vid maligna tillstånd • Symptom och sjukdomar relaterade till störningar i menstruationscykeln Känna till: • Behandling av maligna gynekologiska tumörer 
@@ -1391,95 +1407,145 @@ Dessa fall täcker lärandemål Kunna: • Preventivmetoder och deras verkningsm
 
 **Vilka ytterligare frågor vill du ställa till Lovisa?** 
 
-Har hon mens och är den regelbunden?
-
-Mensvärk?
-Senaste mens?
-
-Hur mycket blöder hon?
-
-När kommer smärtorna i magen? Är de konstanta eller i samband med mens? Smärtanamnes. VAS skala. HUr påverkar livskvalité? Kan hon gå till jobbet eller stannar hon hemma?
-Smärta vid samlag. 
-
-Ärftlighet?
-
-Tidigare buk/gyn anamnes 
-
-Preventivmedel?
-
-Varit på cellprovstagning?
-
-Fast partner?
-
-Flytning, konsistens
-Tid/nuv sjd. 
-
-Vilken undersökning har gjorts via husläkaren?
+* **Har hon mens och är den regelbunden?**
+* **Mensvärk?**
+* **Senaste mens?**
+* **Hur mycket blöder hon?**
+* **När kommer smärtorna i magen?** Är de konstanta eller i samband med mens? Smärtanamnes. VAS skala. HUr påverkar livskvalité? Kan hon gå till jobbet eller stannar hon hemma?
+* **Smärta vid samlag.** 
+* **Ärftlighet?**
+* **Tidigare buk/gyn anamnes** 
+* **Preventivmedel?**
+* **Varit på cellprovstagning?**
+* **Fast partner?**
+* **Flytning, konsistens**
+* **Tid/nuv sjd.** 
+  * om hon opererats tidigare
+  * andra sjukdomar som man behöver ta hänsyn till
+* **Vilken undersökning har gjorts via husläkaren?**
+* **Tid nuv sjd**
+* **Gyn anamnes**
+* **Sexualanamnes**
+* **Aktuellt**
+* **Smärtanamnes**
+  * **hur mkt har smärtan påverkat hennes liv**: kanske att smärtan inte påverkat hennes liv väldigt mkt. 
 
 
 
-1. Tid nuv sjd
-2. Gyn anamnes
-3. Sexualanamnes
-4. Aktuellt
-5. Smärtanamnes
 
 
 
-Prover CRP, Hb, gravtest, U-sticka. 
+
+<img src="./imgs/gyn_sem_Mn50xpQc36.png" alt=Mn50xpQc36 style="zoom:50%">
 
 
 
-Sakrouteringa ligamenten → sidofornix kan man palpera. Patienten är öm i sakrouterina ligamenten. 
+***Undersökning och prover*** 
+
+* **Prover**: CRP, Hb, gravtest, U-sticka, klamydiaprov (ett billigt att ta, klam provet, läk är frikost med klam för att lurig bakt, frikostigt på buksmärtor flr att den kan ge buksmärtor)
+* Status
+  * **Bukstatus**: Du undersöker henne och finner att buken är mjuk, ingen peritonit, diffust ömt på djupet
+    * ömmade kraftigt vänster fossa i bukstatus
+  * **Gynstatus**: yttre inspektion, spekulum, bimanuell palpation. undersökar vulva vagina och portio som alla ser bra ut
+    * normal flora
+    * snifftest neg
+    * ingen rodnad
+    * **Sakrouteringa ligamenten → sidofornix kan man palpera.** 
+      * när man palperar mot sidofornix o känner äggstockarna känner man på sakrouterin ligamentetn
+      * där var hon öm. 
+      * Patienten är öm i sakrouterina ligamenten. 
+      * Retningsfritt i vagina, 
+      * portio är ua. 
+      * Uterus är normalstor, retroflekterad och det ömmar vid palpation över sakrouterinligamenten. 
+  * Ömmar kraftigt till vänster i buken. 
+* **Näste steg = UL:** 
+  * Du gör ett ultraljud och finner denna bild.
+  * **Beskriv bilden!**
+    * Enkelrummig, homoekogen misstänkt cysta med tydlig avgränsning. 
+    * Inga papillära projektioner, 
+    * inga septa eller solida delar. 
+    * **Frostat glas utseende**: man kan inte se igm cystan
+    * **Vid beskrivning UL**
+      * **ekogenicitet**: 
+        * hypo, hyper, eller iso; relaterat till uterys, om man vet hur uterus beskrivs som iso, om det är vitare är det hyperekogen, svartare är den hypo
+        * I detta fallet är den hypoekogen
+      * **Rummen**: enrummig eller flerrummig. Det man ser i periferin är folliklar. Detta fallet är det enkelrummig cysta. 
+      * **Vad gäller cystor**: bra sens o spec för ovarialcystor (över 92% för ovarialcystor)
+      * **Doppler:** se om flöde
+      * **Solida förändringar**: letar man efter osså, ej fallet här. 
 
 
 
-**Du undersöker henne och finner att buken är mjuk. Retningsfritt i vagina, portio är ua. Uterus är normalstor, retroflekterad och det ömmar vid palpation över sakrouterinligamenten. Ömmar kraftigt till vänster i buken. Du gör ett ultraljud och finner denna bild.** 
-
-**Beskriv bilden!** **
-**Enkelrummig, homoekogen misstänkt cysta med tydlig avgränsning. Inga papillära projektioner, inga septa eller solida delar. 
+<img src="./imgs/gyn_sem_9qfbh8ICLA.png" alt=9qfbh8ICLA style="zoom:50%">
 
 
 
-<img src="./imgs/gyn_sem_oGK3jZ9ZXf.png" alt=oGK3jZ9ZXf style="zoom:50%">
+<img src="./imgs/gyn_sem_SnwaRcc4wj.png" alt=SnwaRcc4wj style="zoom:50%">
 
 
 
-Frostat glas utseende. 
+***Vilka möjliga diagnoser funderar du över?***
 
-**
-****Vilka möjliga diagnoser funderar du över?** **
-**Endometriom. Stämmer också med anamnesen för hon mådde bra vid p-piller. **
-**Benign cysta tex. 
-Follikelcysta → mer svart, ekofattiga. 
-Corpus luteum → ej vid långvariga besvär. 
-Torsion → kommer mer akut. 
+* **Main diffar**
+  * **Endometriom**. Stämmer också med anamnesen för hon mådde bra vid p-piller. 
+    * **endometrioscysta = endometriom**
+    * // kan spricka o blod i buken, men ovanligt för att de sitter sammanvuxet, brukar drf ej spricka eller torkvera (torsion).
+    * // relatera till HT15 pat fallet där det var en patient med en shurda med vätska i bukhålan men inget på ovarierna eller annan plats på UL.
+  * **Corpus luteum cysta:** blod i sig o se ut på det sättet
+  * **Dermoid:** att den osså kan se ut på detta sättet
+* **Baserat på anamensen**
+  * ngt efter p-piller km vären
+  * ingen ägglossning just nu, hennes mens ofta regelbunden, men nu inget piller: Detta kan var aså att det är en ägglossning eller ej, men då behöver man en regelbunden mens
+  * inga tecken infektion
+  * **utifrån utseende + besvär**, samt med endometrios 70% har osså IBS liknande besvär; beror inte endometrios tarmen, utan sekundär effekt av inflammation en av endometrios (endometrios kommer fr endometrieslemhinna som kan sitta lite överallt, beroende åp var det sitter olika besvär)
 
-Teratom → man ser ofta hårstrån eller kalk som ger skuggor bakom och vita stråk. 
 
-Troligtvis benignt pga uppfyller inga maligna kriterier. 
-Benign kriterier 
-Uniockulär, inget blodflöde, uniform, liten storlek
 
-1. Maligna kriterier
+***allmänt om cystorna och UL***
 
-Solida delar, papillära projektioner, ökat blodflöde, stor storlek, multilockulerade, ascites. 
+* **Benign cysta tex.** 
+  * Follikelcysta → mer svart, ekofattiga. 
+  * Corpus luteum → ej vid långvariga besvär: den kan ha blod i sig, och om färsk blödning, kan den se ut som på bilden ovan. 
+  * Torsion → kommer mer akut. 
+  * Teratom → man ser ofta hårstrån eller kalk som ger skuggor bakom och vita stråk. 
+* **Troligtvis benignt pga uppfyller inga maligna kriterier.** 
+  * **Benign kriterier**: Uniockulär, inget blodflöde, uniform, liten storlek
+  * **Maligna kriterier**: Solida delar, papillära projektioner, ökat blodflöde, stor storlek, multilockulerade, ascites. 
 
 
 
 **Vilken är den mest sannolika diagnosen utifrån den kompletterande anamnesen?** 
 
-Troligtvis Endometriom cysta. Det homoekogent innehållet ger misstanke om att den är blodfylld. 
+* **Troligtvis Endometriom cyst**:  Det isoekogent (alltså samma ekogenicitet som uterus), innehållet ger misstanke om att den är blodfylld, vilket kan vara fallet med endometriom (endometrios cysta). 
 
-medicinsk behandling för att uppnå mensfrihet. 
 
-\- kombinerade p-piller för ger bättre blödningsmönster. 
-\- Kontinuerligt gestagen (gulkroppshormon)
 
-\- GnRH analoger (tillfälligt “klimakterium”)
+***Medicinsk behandling***
 
-kirurgisk
-\- ta bort synliga förändringar. Görs inte första hand på mindre endometriom. 
+* **NSAID**: kan minska östrogen produktio indirekt
+* **medicinsk behandling för att uppnå mensfrihet.** 
+  * **1a hands val: kombinerade p-piller**, 
+    * för ger bättre blödningsmönster och blödningsrubbningar
+    * Kontinuerligt gestagen (gulkroppshormon)
+    * !!! minska smärta o besvär, förebygga endometrios och sammanväxnngar, samt påverka fertiliteten.
+    * !!! Att man behöver behandla slemhinna i livmoder och slemhinnan utanför livmodern, därför komma upp i högre doser, och behöver komma upp i doser. 
+  * **Kan behöva kombinera p-piller med hormonspiral**
+  * **GnRH analoger** (tillfälligt “klimakterium”)kirurgisk
+    * \- ta bort synliga förändringar. Görs inte första hand på mindre endometriom. 
+* // adenomyos att endometrioshärdar i livmoderväggen, med öar av blödningar: att man har riklig blödnign smo besvär
+  * här kan ciklokapron ha en plats
+  * orsaken till problemet är att endometriet hamnat utanför som man behöver behandla bort, ciklokapron okmmer inte att ta bort roten t problemet, för att det inte handlar m en riklig blödning på det sättet, 
+  * preventivmedel minskar blödningsdagar och blödningsmängd. 
+* **Sammanfattning**
+  * **p-piller behandling kombinerade för patienten**
+  * **Infertilitet är en risk för endometrios**
+  * **malignitetsrisk för endometrioscystor är 1% eller lite under**
+  * **därför ska man titta på endometrioscystan 1gg om året.** 
+  * **ser man solida partier med flöde i sig = malign = operear bort den**
+    * **clear cell carcinoma**
+    * **endometrioid adenocarcinom**
+  * // ska absolut inte punktera endometrioscystor, räcker ej med detta. man ska ta bort de helt. Man får recidiv 80-100% av fallen efter 6 månader. 
+* !! **Efter kirurgi sjunker AMH 38%, därför ska man inte operera så mkt**
 
 
 
@@ -1513,137 +1579,208 @@ Man ska aldrig ta Ca-125 på dessa patienter, Det som bedömer malignitetsrisk �
 
 
 
-**Malin 32 år söker akut för att hon sedan 2 dagar har ordentligt ont till vä i nedre delen av buken som nu förvärrats** 
+**Malin 32 år söker akut för att hon sedan 2 dagar har ordentligt ont till vä i nedre delen av buken som nu förvärrats**
 
 **Vilka prover/undersökningar önskar du före undersökningen? Vad vill du veta mera om Malin?** 
 
-Grav test. Urinsticka. CRP. Hb. vitala inkl feber. 
-
-Senaste mens? Regelbunden?
-Hänt tidigare?
-
-Tidigare gynanamnes?
-
-Preventivmedel?
-
-Fast partner? Ny partner?
-
-Senaste cellprovet?
-
-Flytningar
-
-Regelbunden mens?
+* **Grav test. Urinsticka. CRP. Hb. vitala inkl feber.** 
+* **Senaste mens? Regelbunden?**
+* **Hänt tidigare?**
+* **Tidigare gynanamnes?**
+* **Preventivmedel?**
+* **Fast partner? Ny partner?**
+* **Senaste cellprovet?**
+* **Flytningar**
+* **Regelbunden mens?**
+* **Ingen feber, Bt bra, Hb 110. LPK och CRP normalt**: fråga om hon har haft feber. 
+* **Smärtanamnes**: var ligger pat åp VAS skalan, 
+* **tidigare operationer i buken**
+* **Tidg, nuvarande sjukdomar**
 
 
 
-Ingen feber, Bt bra, Hb 110. LPK och CRP normalt. 
+<img src="./imgs/gyn_sem_6xbWEPHQqr.png" alt=6xbWEPHQqr style="zoom:50%">
+
+
+
+***Status***
+
+
+
+<img src="./imgs/gyn_sem_NfkRF6B56i.png" alt=NfkRF6B56i style="zoom:50%">
+
+* **Septum defineras som ena väggen till den andra**
+* **Detta är en spindelcysta**: detta är pattern recognition. 
+  * det är ingen septa,
+  * det är en enrummig cysta med spindelnätamönster
+* Spindelnätsmönstret histologiskt: mer fintråpdigt, det är fibrintrådar, det har med blod att göra, det är fibrintrådsstråk.
+  * ngn form av hemorrhagisk cysta,
+* Högra bilden är att det är svart utanför, en massa vätska utanför cystan
+* Sammanfatt: enrummig cysta + spindelnätsmönster -> corpus luteum cysta
+* Fr sarah
+  * **Det är en flerrummig/lakunär** (det är inga tydliga septa hela vägen), svåravgränsade septeringar, stråkig, välavgränsad, blandekogen cysta. Spindelnätsmönster (är fibrintrådar som man ser). Om UL visar ring of fire så ser det ut som corpus luteum cysta som kanske blöder med tanke på smärtan och innehållet i cystan. 
+
+
 
 
 
 **Du undersöker henne, buken är väsentligen mjuk, men distinkt palpationsöm i vänster fossa där patienten spänner emot vid palpation. Vid gynundersökning ömmar patienten kraftigt vänster om uterus. Gravtest neg.** 
 
+
+
 **Du kompletterar med ett ultraljud Beskriv bilden! Man såg lite vätska också i buken.** 
+
+
 
 **Vilka möjliga diagnoser funderar du över och vilken är den mest sannolika diagnosen motivera?** 
 
-Det är en flerrummig/lakunär (det är inga tydliga septa hela vägen), svåravgränsade septeringar, stråkig, välavgränsad, blandekogen cysta. Spindelnätsmönster (är fibrintrådar som man ser). Om UL visar ring of fire så ser det ut som corpus luteum cysta som kanske blöder med tanke på smärtan och innehållet i cystan. 
+* **RÄTT**: Corpus luteum cysta som har spruckit och därför har hon ont. Man kan se blod i buken vid UL. Sista mens för 3 veckor sedan och hon har nyligen haft ägglossning. Ring of fire. 
+  * SM var 3v sedan, hemorrhagisk cysta av ngt slag, stråkigheterna, passar bra med vart i cykeln patienten är, corpus luteum har en ring of fire som är vaskulariserad som har tendens att blöda. 
+  * // ibland se
+* **Cystruptur**. Ger pang på smärta som sedan klingar av och man ser ofta vätska i buken. 
+* **Endometriom** 
+* Vid ovarialtorsion är man mer smärtpåverkad men bra diff. 
+* **på bilden kan vara strecken vara hårstrå -> att det är en dermoid csyta**
 
-Cystruptur. Ger pang på smärta som sedan klingar av och man ser ofta vätska i buken. 
 
-Endometriom 
 
-RÄTT: Corpus luteum cysta som har spruckit och därför har hon ont. Man kan se blod i buken vid UL. Sista mens för 3 veckor sedan och hon har nyligen haft ägglossning. Ring of fire. 
+***// På denna kurs: ser man vätska i buken men inget i ovarierna är det x-grav!!!!*** eller en brusten corpus luteum, eller inflammation, eller endometros
 
-Vid ovarialtorsion är man mer smärtpåverkad men bra diff. 
+
+
+// Gällande X-grav, det är ovanligt med inget S-hCG, men det kan fortf vara ett X. en tubarabort som har spruckigt,. hon menar att vi ej kmr få den frågan på ngt prov, alltså så bör det vinnas S-hCG för X. 
 
 
 
 **Hur handlägger du fallet?** 
 
 Lärarens ord: 
-Man ska vara lite försiktig. Hb 110, retning i buken, vätska i buken. Lägga in henne för att kolla hur snabbt Hb sjunker. Fastande med dropp. Smärtlindra. Ge cyklokapron. 
-Om Hb är stabilt under kvällen, natten och morgonen så vet vi att det inte är pågående blödning. Kan göra ont under tiden kroppen tar hand om blodet. 
 
-
-
-Beroende på hur smärtpåverkad patienten är eller vad Hb visar så inläggning med möjlighet till laparoskopi för att få stopp på smärta och blödning. 
-
-- Laparoskopi om smärta eller riklig blödning. Svår att skala ur, kan inte tas bort i sin helhet utan man måste blodstilla och suga ut allt blod ur buken. Man stillar bara på kapseln. 
-
-Om operation kan man ta Px från ovarialkapseln. 
-
-
-
-Det man skulle kunna tänka sig på lång sikt är ju att hämma ovulationen hos henne om hon inte har barnönskan just nu. Tex. p-piller. 
+* För blödande corpus luteums
+  * oftast räcker med osbervation
+  * men ibland händer det
+  * indikationer för operation är sjunkande Hb, trots att man gett ciklokapron etc
+  * kan vara ngn som står på waran eller trombyl. 
+  * Följa Hb, tryck o puls
+  * Man ska vara lite försiktig. Hb 110, retning i buken, vätska i buken. Lägga in henne för att kolla hur snabbt Hb sjunker. Fastande med dropp. 
+  * Smärtlindra. Ge cyklokapron. 
+  * Om Hb är stabilt under kvällen, natten och morgonen så vet vi att det inte är pågående blödning. 
+    * Kan göra ont under tiden kroppen tar hand om blodet. 
+  * Operation: om sjunker mkt i Hb, takykardi, etc. ibland räcker med att man opererar, ge lite blod. har man pågående blödning att det kan fylla på sig o sjunka igen, 
+* Beroende på hur smärtpåverkad patienten är eller vad Hb visar så inläggning med möjlighet till laparoskopi för att få stopp på smärta och blödning. 
+* Laparoskopi om smärta eller riklig blödning. Svår att skala ur, kan inte tas bort i sin helhet utan man måste blodstilla och suga ut allt blod ur buken. Man stillar bara på kapseln. 
+* Om operation kan man ta Px från ovarialkapseln. 
+* Det man skulle kunna tänka sig på lång sikt är ju att hämma ovulationen hos henne om hon inte har barnönskan just nu. Tex. p-piller. 
+* Inför hemgång: om hon inte vil lbli gravid att hon går hem med kombinerade p-piller för att hämma ovulation. 
+  * det är kombinerade som hämmar ägglossning.
+  * Gulkroppshormon ökar risken för csytbildning, om hon nu inte ville bli gravid
+  * annars ge tips om hon kan bli gravid snabbt
+  * hon behöver ngt för Hb: antingen shot ferrinject eller järntabletter äter ngn månad, för att fylla på depåerna
 
 <img src="./imgs/gyn_sem_UlUbmMHxdd.png" alt=UlUbmMHxdd style="zoom:50%">
 
-### Fall 3 
+### Fall 3 - torsion 
 
 **Sandra 20 år inkommer akut pga plötsligt insättande buksmärtor. Hon anger VAS 9-10 och kan knappt prata. Hennes mamma som är med säger att hon har haft något liknande tidigare, men inte så ont som nu.** 
 
 **Vilka ytterligare frågor vill du ställa till Sandra?** 
 
-SM? 
-Regelbunden mens?
-Tidigare gyn anamnes
-Hereditet?
-Preventivmedel?
+* **SM?** 
+* **Regelbunden mens?**
+* **Tidigare gyn anamnes**
+* **Hereditet?**
+* **Preventivmedel?**
+* **Smärtanamnes, VAS.** 
+* **Blödningar**
+* **GI symtom, miktion.** 
+* **Tidigare bukop.** 
+* **Tid blindtarmop.** RM var 5:e vecka. Inga preventivmedel, aldrig gravid. Inga infektioner, ingen fast partner. Ont i samband med måltid. Hela magen men mest i nedre delen, illamående och ville kräkas. Smärtan är konstant, ingen blödning. 
+* // noteras att kanske inte kan ställa alla smrät frågor om pat är VAS 9-10.
+* // kan man smärtlindra innan anamnesen: det man får bort med smärtlindring är peritonitstatus, så man behöver känna buken direkt. 
 
-Smärtanamnes, VAS. 
-Blödningar
-GI symtom, miktion. 
-Tidigare bukop. 
 
 
+<img src="./imgs/gyn_sem_I9gl8cwGZl.png" alt=I9gl8cwGZl style="zoom:50%">
 
-Tid blindtarmop. RM var 5:e vecka. Inga preventivmedel, aldrig gravid. Inga infektioner, ingen fast partner. Ont i samband med måltid. Hela magen men mest i nedre delen, illamående och ville kräkas. Smärtan är konstant, ingen blödning. 
+
 
 
 
 **Vilka prover/undersökningar önskar du före din undersökning?** 
 
-Grav test, U-sticka, vitala inkl feber, CRP, Hb
+* Grav test, U-sticka, vitala inkl feber, CRP, Hb
+* // Bukstatus, gynundersökning
+* temp 37, puls 90, bra BT, neg gravtest, U-sticka blank, Hb 110, CRP normalt. 
 
 
 
-temp 37, puls 90, bra BT, neg gravtest, U-sticka blank, Hb 110, CRP normalt. 
+<img src="./imgs/gyn_sem_3R2FLOhb2s.png" alt=3R2FLOhb2s style="zoom:50%">
 
 
 
 **Det går nästan inte att undersöka Sandra, buken är spänd och generellt öm. Försiktig gynundersökning är också svårt att utföra, ingen blödning, kraftigt öm över både uterus och adnexa vid palp. Det finns en ekofri 2 rummig cysta på 7 cm till hö och bakom uterus.** 
 
-
-
-<img src="./imgs/gyn_sem_L1fUuk5Nt3.png" alt=L1fUuk5Nt3 style="zoom:50%">
-
-Multilokulär, ekofattigt innehåll (vätska), 7 cm till höger och bakom uterus. 
-
-Finns inga säkra UL tecken för torsion. Hellre titta in en gång för mycket än en gång för lite med tanke på smärtan och storlek på cysta. 
-**
-****Vilken typ av cysta kan det rör sig om?** 
-
-Funktionell cysta. Troligtvis Follikelcysta med torsion med tanke på smärtan. Vanligare vid torsion att de är över 5 cm. 
-Kan även vara en corpus luteum cysta. 
-Ovarial torsion
-
-**
-****Vilka är dina preliminära diagnoser?** **
-**Follikelcysta med torsion. 
-
-**
-****Hur handlägger vi fallet?** **
-**Akut till op laparotomi. Time is ovary. Smärtsamt som sjutton samt så blir det syrebrist i ovariet → nekros av äggstocksvävnad. 
+| <img src="./imgs/gyn_sem_L1fUuk5Nt3.png" alt=L1fUuk5Nt3 style="zoom:50%"> | <img src="./imgs/gyn_sem_ABViKu3XB8.png" alt=ABViKu3XB8 style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
 
 
 
-Smärtlindring med morfin, infarter och förbereda operation. Berätta om risker och vad vi misstänker. Man planerar titthål och ska snurra tillbaka äggstocken. Göra hål på cystan och biopsi av kapseln. Finns dock risk för öppen op med tanke på tidigare bukop. Man kan behöva ta bort äggstock också om det är väldigt inflammerat eller att det blöder men det är ovanligt. Äggstocken kan dock återhämta sig trots att den ser i princip död ut. Den kan återfå sin färg och flöde när man har roterat tillbaka den. 
+* **Högra bilden:** enrummig, hypoekogen cysta
+* **Vänstra bulden**: ser ett septa (ena vägg t annan vägg) blir drf tvåväggig cysta, hypoekogent innehåll
+* Multilokulär, ekofattigt innehåll (vätska), 7 cm till höger och bakom uterus. 
+* Finns inga säkra UL tecken för torsion. Hellre titta in en gång för mycket än en gång för lite med tanke på smärtan och storlek på cysta. 
+
+
+
+**Vilken typ av cysta kan det rör sig om?**
+
+* **Funktionell cysta**. 
+  * Troligtvis Follikelcysta med torsion med tanke på smärtan. Vanligare vid torsion att de är över 5 cm. 
+  * Follikelcysta för at varje månad bildas folliklar
+  * ibland kan de bli större, fyllas med vätska
+  * kursledningen vill att man ska svara follikelcysta
+  * follikelcystor är oftast enrummiga menar läk, och la drf till bilden till höger
+* **när man får dessa bilder ska tänka funktionell follikel cysta**
+* Kan även vara en corpus luteum cysta. 
+* Ovarial torsion
+
+
+
+**Vilka är dina preliminära diagnoser?**
+
+* **VAS 9-10 och en follikelcysta på UL**: Follikelcysta med torsion; måste tänka torsion för att smärta och cysta, blir syrebrist i äggstocken och måste snurra tillbaka den. 
+* Hur handlägger vi fallet?
+* Akut till op laparotomi. Time is ovary. Smärtsamt som sjutton samt så blir det syrebrist i ovariet → nekros av äggstocksvävnad. 
+* // Torsion av en cysta kan påvrerka ovarial vävnadne, gm att den kan påverka omkringliggande vävnad
+
+
+
+***Handläggning***
+
+* **man vill nite riskera hennes liv: ska ha fastat 6 timmar**
+  * har visat sig att ovarier akan överleva med ischemi
+  * tanken är att hon ska till op, 
+  * men om hon ätit en burgare att en risk för aspiration som är dödligt och det går att få ned smrätan emd morfin, då ska man försöka vänta tills någorlunda färdigfastad
+* **Smärtlindring:** med morfin, infarter och förbereda operation. 
+* **Berätta om risker och vad vi misstänker.** 
+* **Operation**
+  * Man planerar titthål och ska snurra tillbaka äggstocken. 
+  * Göra hål på cystan och biopsi av kapseln. 
+  * Finns dock risk för öppen op med tanke på tidigare bukop. 
+  * Man kan behöva ta bort äggstock också om det är väldigt inflammerat eller att det blöder men det är ovanligt. 
+  * Äggstocken kan dock återhämta sig trots att den ser i princip död ut. 
+  * Den kan återfå sin färg och flöde när man har roterat tillbaka den. 
 
 
 
 **Kan man förebygga nya cystor?** 
 
 Ja man kan hämma ovulationen genom p-piller tex. Kombinerade p-piller. 
+
+
+
+<img src="./imgs/gyn_sem_QZC5xB4fYa.png" alt=QZC5xB4fYa style="zoom:50%">
 
 ### Fall 4 
 
@@ -1669,8 +1806,9 @@ Unilokulär, ej välavgränsad. Oregelbundna partier med papillära, solida proj
 
 
 **Vilken diagnos misstänker du?** **
-**Malign ovarialcysta. HRT är riskfaktor. 
-Den uppfyller flera M kriterier. papillära projektioner, stor storlek, solida delar. 
+
+* **Malign ovarialcysta. HRT är riskfaktor. 
+  Den uppfyller flera M kriterier papillära projektioner, stor storlek, solida delar. 
 
 
 
@@ -1681,13 +1819,16 @@ Uniockulär, inget blodflöde, uniform, liten storlek
 
 Solida delar, papillära projektioner, ökat blodflöde, stor storlek, multilockulerade, ascites. 
 
+
+
 **Finns det något ytterligare man kan se med ulj som stärker dina misstankar?** **
-**Ascites. 80% risk för malignitet. 
 
-Doppler och det är rikligt med flöde. 
+* Ascites. 80% risk för malignitet. 
+* Doppler och det är rikligt med flöde. 
 
-**
-****Hur handlägger du fallet?** 
+
+
+**Hur handlägger du fallet?** 
 
 Kräver snabb handläggning då de ofta upptäcks sent. 
 Skicka remiss till regionalt cancercentrum. DT thorax buk (metastaser, förstorade lymfkörtlar). 
@@ -1713,6 +1854,45 @@ Om blandat är det ej applicerbart. → unclassified → UL specialist och har m
 - CT thorax/buk 
   Spridning av tumör och relation till omgivande organ. Planera behandling. 
 - MR, kolonoskopi. 
+
+
+
+
+
+enl läk
+
+<img src="./imgs/gyn_sem_4MRtEnW4zs.png" alt=4MRtEnW4zs style="zoom:50%">
+
+* prover: urinsticka, ingen gravtest, CRP, vite, BT, temp,
+
+
+
+<img src="./imgs/gyn_sem_hvAosJlonq.png" alt=hvAosJlonq style="zoom:50%">
+
+
+
+<img src="./imgs/gyn_sem_OlAj9Fu2Os.png" alt=OlAj9Fu2Os style="zoom:50%">
+
+* Hypoekogen
+* det är bara enrummig
+* ojämn
+* solida förändring som är oregelbunden: ska tänka malign
+* sätter på doppler: då letar efter flöde, detta förstärker våa misstankar. 
+* om svårt att se men misstanke: second-opinion UL
+
+
+
+vidare
+
+* remitterar t cancercentrum, solna, ställningstagande operation
+* innan DT-thorax buk, detta för att leta efter metastaser (kartlägger ej cystan); förstorade lymfkörtlar, spridning
+* evt att man behöver operar hyst-bilat-SOE.
+* man tar osså tumörmarkörer, CEA-125, som stiger vid gyntumör cancrar
+  * tar osså CEA och CEA-199
+
+
+
+
 
 
 
@@ -1837,7 +2017,71 @@ Corpus luteum, ring of fire
 
 
 
+enl läk
 
+* myom = stjälkat myom, intrauterint, intramuralt, ibland kan vara lurigt a tt när man tittar på ovarierna att det kan vara stjälkat myom fr uterus, eller ett resistens i ovariet. 
+* har ett typiskt utseende: fan-shaped shadowing
+  * <img src="./imgs/gyn_sem_tCzX1QTxsM.png" alt=tCzX1QTxsM style="zoom:50%">
+  * skuggorna är ett benignt tecken
+
+
+
+
+
+bilder fr läkare
+
+
+
+<img src="./imgs/gyn_sem_E4LKVvRTr4.png" alt=E4LKVvRTr4 style="zoom:50%">
+
+endometriom
+
+
+
+<img src="./imgs/gyn_sem_V9LDUAICSF.png" alt=V9LDUAICSF style="zoom:50%">
+
+endometom
+
+
+
+<img src="./imgs/gyn_sem_rwqzLoxBH2.png" alt=rwqzLoxBH2 style="zoom:50%">
+
+enrummig, hypoekogena partier, har små streck, har skuggor talar för ofarlig: dermoid cysta, de deär streckigheten inne i cystan kan vara hårstrån, samt fett eller kalk att det är 
+
+
+
+<img src="./imgs/gyn_sem_nwqyUiSNSi.png" alt=nwqyUiSNSi style="zoom:50%">
+
+Follikelcysta: enrummig, hypoekogent
+
+
+
+
+
+<img src="./imgs/gyn_sem_KXAsX5iU7D.png" alt=KXAsX5iU7D style="zoom:50%">
+
+* detta är en corpus luteum = rung of fire
+
+
+
+
+
+<img src="./imgs/gyn_sem_vK5ewxxT3h.png" alt=vK5ewxxT3h style="zoom:50%">
+
+catherine marusik
+
+IOTA  inconclusive att remitera second opinion eller 
+
+remitera vidare enrummig cysta 5cm
+
+* skilja kvinnor o kvinnor: premenopausal enrummig cysta om upp t 3cm släpper man den, om 5cm följer man upp den, om funktionell cysta kmr den försvinna efetr 8v.
+* om postmenopausal kvinna varför har hon en enrummig cysta, hon ska ej ha follikel. om över 1cm ska man följa upp dem.
+* cystan ska försvinna efter 6-12v, om man får benign kriterier etc. kan titta efter dessa veckor o säkerställa att den är borta. 
+* man prio kval UL om osäker om sin opinion 
+* har man 7cm csyta helt enrummig, hypoekogen etc, så blir den benign. 
+* ju större cystan är desto svårare att bedöma om den är benign eller inte. 
+* IOTA är bättre än RMI. 
+* vi ska kunan vanligaste cystorna, kunna endometros, vad kännetecknar malign cysta (ascites, oregelbundenheten, varpå remittera vidare). 
 
 # Det lilla barnet
 
@@ -2679,4 +2923,69 @@ PO klindamycin eller metronidazol
 
 
 
- 
+ # Flytningar
+
+#### Wet smea
+
+* man tar lite flytning fr vagina, sätter objektglas, tittar i mikroskop
+* väldigt enkelt. använder inte lika mkt mikroskop, 
+* antingen NaCl eller KOH för att plocka fram olika celler att titta på 
+* vill ställad iagnos
+* KOH dödar bakterier, lättare se jästsvamper
+  * kan därför få direkt diagnos på mikroskop
+
+
+
+#### Candida
+
+* en del av normalflora
+* ovanligt före menarche o efter menopaus: svamphyfer behöver östrogen
+* symptom
+  * klåda
+  * sveda, svull, irritation
+  * ytlig smärta, dyspareuni
+  * ökad flutning (kesoliknande)
+  * ibland helt normal, för där kmr wet smear in för då ser hyfer efter KOH. 
+* odling med resistensbestämning
+* kvinnor ska inte självbeh svamp >1 gg, för då behöver komma in t läkare
+  * vet kan ge vaginism om starka mediciner mkt, att vaginalslemhinnan påverkas
+  * kan ge gflukozoaol
+  * ​	
+
+
+
+![image-20210325130811659](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20210325130811659.png)
+
+![image-20210325131006845](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20210325131006845.png)
+
+#### nakteriell vaginos
+
+* med NaCl på wet smear
+  * ser då clue cells
+* frisätter illaluktande aminer, luktar tonfisk, luktar inget gott
+* för att ställa diagnosen behöver man mikroskopet, för behöver se cluecells
+* samt sniff-test: pos KOH test, att man luktar, för då lutktare rutten fisk
+* ***flytning: grågul skummig, ser ej fräscht ut!***
+* högt pH i slidsekretet
+* Clue-cells är att det är en massa bakterier som fastnar på vaginalslemhinne 
+
+
+
+***Beh***
+
+* om abotr eller dylikt, vill ej ha in i iuterus, ger man peroral behandling
+
+![image-20210325131046962](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20210325131046962.png)
+
+![image-20210325131214133](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20210325131214133.png)
+
+
+
+#### underlivsbesvär hos postmenopaus
+
+
+
+![image-20210325131259931](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20210325131259931.png)
+
+* vulvovaginit: tarmbakterier i.e. ecoli,
+* **det är aldrig svamp om inte det finns östrogen!**

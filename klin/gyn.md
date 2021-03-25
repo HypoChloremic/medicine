@@ -2397,7 +2397,9 @@ cerivicit
 * **20åå kvinna**
   * endometrios, steg1 behandlas med kombinerade p-piller
   * ringer nu, har en genombrottsblödning
-  * Vad rekar du: antingen uppehåll 4d eller tar 2t dagligen i 5d. 
+  * Vad rekar du: antingen uppehåll 4d eller tar 2t dagligen i 5d.
+* **Lovisa 25 **
+  * **år söker dig på gynmottagningen pga smärtor i buken sedan nästan ett år. Hon har tidigare sökt hos husläkaren som mest trott på att hon har IBS. Själv undrar hon om det kan finnas en gynekologisk förklaring eftersom smärtan sitter mest i nedre delen av buken.**
 
 
 
@@ -2448,7 +2450,7 @@ cerivicit
 
 ***Epidemiologi***
 
-* Var tionde kvinna drabbas
+* **10% Var tionde kvinna drabbas**: sjukt många som drabbas av sjukdomen
 * vanligt tonår till klimakteriet
 
 
@@ -2487,7 +2489,7 @@ cerivicit
     * Noduli över sakrouterina? 
     * frozen pelvis
   * **Vaginalt UL**
-    * Vätska i FD (fossa douglassi)
+    * **!!! Vätska i FD (fossa douglassi)**
     * Endometriom
     * Adherenser
     * Uretärer
@@ -2525,9 +2527,13 @@ cerivicit
 
 ***Klassifikation***
 
-* ASRM
-* Laparoskopisk scoring stadie 1-4; 
-* Speglar inte fertilitetsprgonos samt ej DIE
+* **ASRM** (ASGRM enl läk seminarium): inget perfekt klass system för endometrios. det är en klass som görs under en operation!
+  * utifrån hur det ser ut på OP, 
+  * mer kopplat avancerad endoemtrios o cysta
+  * har man bilaterala endometrioscystor är det = allvarlig endometrios, avancerad
+  * mild form om ingen sammanväxningar etc. 
+* **Laparoskopisk scoring stadie 1-4;** 
+* **Speglar inte fertilitetsprgonos samt ej DIE**
 * T idag ingen klassifikation som täcker allt vad gäller patofys, locale, progress, smärta, infertilitet, behandling, prognos o recidiv
 
 

@@ -1,3 +1,21 @@
+
+
+## Titlar
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
 ## Pediatrik
 
 
@@ -682,6 +700,20 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Hon hostar mycket ffa nattetid nu när hon är förkyld och har då svårt att sova. 
     * Vid lungauskultation noteras ronki basalt bilateralt.
     * ***svar: förkylningsastma, rhinovirus, ventoline och syrgas.***
+* Mustafa, 18 månader gammal, 
+    * inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft
+        * ***Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva 	episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)***
+        * ***Initial behandling på akuten:*** 
+            * syrgas + ventoline (ventoline pga allvarlighetsgraden) med optichamber
+            * utefter effekt överväga steroider: betapred eller solu-cortef (solu-cortef om det är en svår obstruktivitet)
+            * sedan fortsätta med syrgas + ventoline
+            * utebliven förbättring: magnesiumsulfat, överväga tillägg iv teofyllamin
+        * ***Efter sex timmars behandling på akuten blir han närmast helt symptomfri. Syresättningen har stigit till 99%. Modern önskar åka hem till övriga familjemedlemmar***
+            * **Airomir (saba) + inhalationssteroid**, som kommer att tas i en spacer/mask antagligen...
+            * detta ska följa ett förkylningsastma schema som han får fr akuten
+            * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
+            * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
+        * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
 
 
 
@@ -712,17 +744,21 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 ***Diagnos***
 
 * ***Astma diagnos 3 punkter***:  
-  * ***Efter 3 obstruktiva episoder***: 
-    * < 2åå så kallas de för astma 
+  * ***Efter 3 obstruktiva episoder < 2åå***:
+    * så kallas de för astma 
     * annars är de ***akut bronkit***  
-  * ***1a obstruktiva episoden och andra tecken på allergi***: 
+  * ***1a obstruktiva episoden och andra tecken på allergi  <2åå (oberoende på ålder hade jag skivit fr seminarium)***: 
     * som eksem eller födoämnesallergi 
     * så säger vi att barnet har astma 
-    * oberoende på ålder  
   * ***1a obstruktiva episoden i samband med förkylning > 2 åå (förra riktlinjen är 2 år)*** 
     * så säger vi att barnet har astma !
     * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen av denna
 * **barn under 3år har så pass reaktiva luftvägar att de får obstruktiva besvär** 
+* **<u>Socialstyrelsen och PM</u>**
+  * Enstaka episoder av infektionsutlöst obstruktivitet hos barn under två års ålder är mycket vanligt och definieras som obstruktiv bronkit. 
+    * **Under 2år**: för att tillståndet ska definieras som infektionsastma hos barn under 2 år ska de ha haft minst tre återkommande episoder. 
+    * **undantag om allergi etc:** Undantag gäller för barn med samtidigt konstaterad IgE-allergi, atopiskt eksem eller astma hos föräldrar/syskon – då definieras det som infektionsastma redan vid deras första obstruktiva attack. 
+  * **Över 2 år, 1 episod**: Hos alla barn äldre än två år räcker det med en infektionsutlöst episod för att ställa diagnos infektionsastma.
 
 
 
@@ -1017,10 +1053,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 ***Etiologi och patofysiologi***
 
 <img src="./lectures/imgs/diab_hemat_sem_dFkFyH4QnG.png" alt="dFkFyH4QnG" style="zoom:50%;">
-
-
-
-
 
 
 
@@ -1434,23 +1466,62 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-## Hepatologi
-
 ### Ikterus hos barn
 
 ***Presentation***
 
-* **Du går BB rond och blir informerad om ett barn som är 30 timmar gammalt och harbilirubin 280 (högt) varav konjugerat 20**
+* **Du går BB rond och blir informerad om ett barn som är 30 timmar gammalt och har bilirubin 280 (högt) varav konjugerat 20**
   * ABO-immunisering, Rh-immunisering
   * sfärocytos
   * fysiologisk
 * **3 dygn gammalt arn, ikteriskt, bilirubin 380, konjugerat 10**
-  * Bröstmjölksinducerad
+  * Bröstmjölksinducerad: detta bör istället vara amningsikterus
   * fysiologisk
 * **6 veckor gammalt barn ikteristk, gulgrön ton som tilltagit senaste tre veckorna. bili 270, konjugerat 90**
   * Gallvägsatresi
   * lever/gallvägssjukdom - hepatit
-  * 
+* **5d gammal nyfödd, neonat**
+  * The parents of a 5-day-old term infant notice that he is jaundiced. 
+  * Your physical examination is remarkable only for scleral icterus and jaundice. 
+  * The infant’s total bilirubin level is 15 mg/dL, with a direct component of 0.4 mg/dL. 
+  * Which of the following is the most likely diagnosis? amningsikterus (breastfeeding jaundice) är svaret
+    * Breastfeeding jaundice is typically associated with indirect, or unconjugated, hyperbilirubinemia and is caused by suboptimal milk intake during the first
+      week of life, which causes weight loss, poor hydration, and decreased stool output. 
+    * The treatment of breastfeeding jaundice is hydration, which typically includes increasing the frequency of breastfeeding, along with observation and serial bilirubin assessments. 
+    * Breast milk jaundice, which occurs later, after the first week of life, is thought to be associated with high levels of lipase and β-glucuronidase within breast milk. 
+    * Choledochal cysts, biliary atresia, and neonatal hepatitis are more typical causes of direct, or conjugated, hyperbilirubinemia.
+
+
+
+#### Okonjugerade orsaker
+
+* Bröstmjölksinduc
+
+
+
+
+
+### Ikterus - amningsrelat
+
+***Presentation***
+
+* **5d gammal nyfödd, neonat**
+  * The parents of a 5-day-old term infant notice that he is jaundiced. 
+  * Your physical examination is remarkable only for scleral icterus and jaundice. 
+  * The infant’s total bilirubin level is 15 mg/dL, with a direct component of 0.4 mg/dL. 
+  * Which of the following is the most likely diagnosis? amningsikterus (breastfeeding jaundice) är svaret
+    * Breastfeeding jaundice is typically associated with indirect, or unconjugated, hyperbilirubinemia and is caused by suboptimal milk intake during the first
+      week of life, which causes weight loss, poor hydration, and decreased stool output. 
+    * The treatment of breastfeeding jaundice is hydration, which typically includes increasing the frequency of breastfeeding, along with observation and serial bilirubin assessments. 
+    * Breast milk jaundice, which occurs later, after the first week of life, is thought to be associated with high levels of lipase and β-glucuronidase within breast milk. 
+    * Choledochal cysts, biliary atresia, and neonatal hepatitis are more typical causes of direct, or conjugated, hyperbilirubinemia.
+
+
+
+***Kliniska kännetecken***
+
+* Okonjugerad hyperbilirubinemi
+* 
 
 
 
@@ -2730,17 +2801,97 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-## Kardiologi 
+## Kardi och pulm
+
+
+
+### Respiratorisk svikt
+
+***Etiologi och patofysiologi***
+
+* Flera orsaker förekommer som skulle ge respiratorisk svikt
+* alveolär hypoventilation
+* diffusion påverkan
+* ***intrapulmonell shunting***: 
+* ventilation-perfusion mismatch
+
+
+
+### Cystisk fibros
+
+***Presentation***
+
+* 13mån pojke
+  * och är inlagd på barnavdelning för en pneumoni diagnosticerad medröntgen. 
+  * Petter har tidigare varit inlagd för en pneumoni vid 10 månaders ålder men efter den har han inte blivit riktigt bra i luftvägarna. 
+  * Han har blivit ordinerad luftrörsvidgande med misstänkt astma men har ändå inte blivit besvärsfri i luftrören. 
+  * Han har fallit i vikt 1,5 SD sedan 8 månaders ålder och han har fallit 1 SD i längd. 
+  * Blodstatus visar lätt anemi och lätt stegrade neutrofiler, CRP 130 mg/l. 
+  * När du lyssnar på hans lungor är det rikliga biljud från båda sidorna med slembiljud, rhonki och rassel. 
+    * Överläkaren frågar dig under ronden vad du misstänker för sjukdom: cystisk fibros
+    * Vilket/vilka prover vill du ta för att styrka din misstanke? Svettest, genotypning ev F-elastas
+    * ytterligare anamnes relevant fråga: hereditet? friska sjuka syskon
+
+
+
+***Kliniska kännetecken***
+
+En kort lista över kliniska manifestationer av CF: 
+
+* ***Luftvägar***:
+  * Bronchiectasi, bronkit, bronkiolit, pneumoni
+  * Atelektas
+  * Hemoptys
+  * Pneuomothorax
+  * Näspolypos
+  * Sinusit
+  * Reactive airway disease
+  * Cor Pulmonale
+  * Respiratory failure
+  * Mukusplug i bronker
+  * Allergisk broncopulmonell aspergillos
+* ***Gastrointestinal***:
+  * Mekonium ileus/plug
+  * Mekonium peritonit
+  * Rektal prolaps
+  * Volvulus
+  * Pankreatit
+  * Biliär cirros
+  * Steatos, Kolelitias, GERD, Vtaminbrist AKED
+  * Malabsorption
+* ***Misc***:
+  * Infertilitet
+  * Försenad pubertet
+  * Clubbing
+  * DM
+
+
+
+***Diagnos***
+
+* ***Svettest*** (Förhöjda klorinvärden i svett = positivt)
+* ***Genotypning***
+* ***Ev. F-elastas***
+
+
+
+***Utredning och anamnes***
+
+* Komplettera anamnes
+  * Hereditet, friska/sjuka syskon
 
 ### Hjärtstopp
 
 ***Etiologi och patofysiologi***
 
-* ***HYPOXI:*** vanligaste orsaken bland vuxna är ischemisk hjärtsjukdom, men hos barn med friska hjärtan är orsaken till hjärtstopp ***sekundärt till hypoxi fr respiratorisk eller neurologisk svikt eller chock***. 
+* ***HYPOXI:*** vanligaste orsaken bland vuxna är ischemisk hjärtsjukdom, 
+  * men hos barn med friska hjärtan är orsaken till hjärtstopp ***sekundärt till hypoxi fr respiratorisk eller neurologisk svikt eller chock***. 
 * ***Sekundärt till***
-  * Respiratorisk svikt
   * Chock
+  * Respiratorisk svikt
   * Neurologisk svikt 
+
+
 
 ***Handläggning***
 
@@ -2939,9 +3090,31 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Obstruktiv bronkit
+
+***Presentation***
+
+* Mustafa, 18 månader gammal, inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft
+  * ***Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)***
+  * ***Initial behandling på akuten:*** 
+    * syrgas + ventoline (ventoline pga allvarlighetsgraden) med optichamber
+    * utefter effekt överväga steroider: betapred eller solu-cortef (solu-cortef om det är en svår obstruktivitet)
+    * sedan fortsätta med syrgas + ventoline
+    * utebliven förbättring: magnesiumsulfat, överväga tillägg iv teofyllamin
+  * ***Efter sex timmars behandling på akuten blir han närmast helt symptomfri. Syresättningen har stigit till 99%. Modern önskar åka hem till övriga familjemedlemmar***
+    * **Airomir (saba) + inhalationssteroid**, som kommer att tas i en spacer/mask antagligen...
+    * detta ska följa ett förkylningsastma schema som han får fr akuten
+    * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
+    * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
+  * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
 
 
-#### Perikardit
+
+
+
+
+
+### Perikardit
 
 
 
@@ -2955,18 +3128,61 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 * This patient’s clinical presentation is most consistent with pericarditis. The likely cause of his pericarditis is postpericardiotomy syndrome, given the recent closure of his ventricular septal defect before the onset of his symptoms. Postpericardiotomy syndrome is believed to be an autoimmune response to a concomitant viral infection and is associated with opening of the pericardium during cardiac surgery. Pulsus paradoxus, or a greater-than-10 mm Hg drop in systolic blood pressure on deep inspiration, is found in patients with pericarditis. Splinter hemorrhages are noted in patients with endocarditis, which is also associated with fever. Supraventricular tachycardia, which would present as a rapid heart rate with absent P waves on electrocardiogram, may cause chest pain, but the pain would not change with position and fever would be absent. Prolonged QT syndrome is most often associated with syncope and sudden cardiac arrest. Costochondritis is a common cause of chest pain, but fever is not associated with this diagnosis.
 
-
-
-
-
-
-
-#### Misc
+### Misc
 
 ***Antibiotikaprofylax förhindra endokardit***
 
 * A 4-year-old boy is in the office for a routine health maintenance evaluation. His examination is normal except for multiple deep dental cavities. You plan on referring him for dental evaluation and possible dental extraction. His mother reminds you that he has a “heart condition.” Which of the following cardiac conditions requires antibiotic prophylaxis against endocarditis?
   * Before any invasive procedures that may result in bacteremia, prophylaxis against bacterial endocarditis is required for any patient who had structural heart disease repaired within the past 6 months. Patients with uncomplicated Kawasaki disease and cardiac dysrhythmias, including Wolff–Parkinson–White syndrome, or with acyanotic structural heart defects, such as patent ductus arteriosus, do not require antibiotic prophylaxi
+
+
+
+
+
+### PPHN
+
+
+
+***Presentation***
+
+* **3dygn neo barn**
+  * signifikant respiratorisk distress. Förlöstes med akut kejsarsnitt v42, pga fetal distress. du ntoterar att han saturerar 76% åp rumsuft men 95% med 100% syrgas
+  * Vad är sant som supporterar vår misstanke om PPHN: Adekvat oxygeneriung är den bästa preventiva medlet och behandlingen
+    * One of the most common causes of persistent pulmonary hypertension of the newborn (PPHN) is perinatal asphyxia, resulting in increased
+      pulmonary vascular resistance and significant right-to-left shunting through the foramen ovale or the ductus arteriosus. 
+    * Oxygen is the most potent vasodilator of pulmonary vessels, and in most cases, increases of both alveolar and arterial partial pressures of O 2 produce a decrease in pulmonary vascular resistance and reversal of low blood flow to the lungs. 
+    * By definition, PPHN excludes the presence of congenital heart disease. 
+    * If left untreated, the hypoxemia caused by PPHN worsens the increased pulmonary vascular resistance, resulting in many cases in irreversible disease and death. In addition, PPHN occurs most commonly in near-term and full-term infants, as well as in postterm infants.
+
+
+
+***Allmänt***
+
+* aka Persisterande pulmonell hypertension
+
+
+
+***Etiologi och patofysiologi***
+
+* **Tid barn**: oftast sker i nära fullgångna eller fullgångna spädbarn samt överburna
+
+* **perinatal asfyxi**: resulterar i ökade pulmonar vaskulär resitens och ökad höger-t-vänster shuntning gm foramen ovale och ductus arteriosus
+
+* **Syrgas mest potenta vasodilatorn i lungorna**: kom ihåg med hypoxisk vasokonstrktion, samt det motsatta om man är väl oxygenerad alveolärt. 
+
+* **Ökad syrgas alveolärt sänker pulmonar vaskulär resistens och reverserar lågt blodflöde i lungorna**
+
+  
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+* **syrgas**: detta verkar vara ett bot för dessa neo barn, iom att det sker en vasodilatation och sänker den pulmonella resistensen, varpå det blir enklare för ungen att cirkulera blod.  
 
 
 
@@ -2982,7 +3198,41 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Fosterdiagnostik
 
+
+
+***Presentation***
+
+* (tenta ht12) Fosterdiagnostik kan utföras på många olika sätt. Ange en uppskattad risk för att nästa barn har en allvarlig skada och förklara kort vilket typ av fosterdiagnostik som är lämpligast i följande situationer:
+  * **Ett par som har ett gemensamt barn med MbKrabbe**, en autosomalt recessiv tidigt dödlig metabol sjukdom, och man har identifierat barnets två mutationer. Paret önskar fler barn
+    * Mb Krabbe: upprepningsrisk 25%
+    * fosterdiagnostik med CVB (korionvillibiopsi), v 10-11 fastställa om foster sjukt, analysera mutationerna fostret jhar
+      * eller PGD därefter IVF, välja ut preemebryon
+  * **makens avlidne bror har trisomi 18**
+    * upprepningsrisk ej förhöjd
+    * om paret känner oro erbjuda fosterdiagnostik 
+      * med CVB (v10-11) eller 
+      * amniocenetes (v15-16), 
+      * som analyseras med ett snabbtest för aneuploidi (QF-PCR eller riktad FISH)
+  * **Kvinna orolig för att barnet inte är friskt eftersom hon arbetar på ett boende för utvecklingsstörda.**
+    * **oro utan spec frågeställning**: hennes risk är ej förhöjd, ca 2% har barnet en allvarlig sjd
+    * inget test kan friskförklara fostret
+    * **erbjudas aneuploidiscreening**: KUB-test i.e. UL och blod test, risk för kromosomavvikelser; får en sannolikhetssiffra
+    * om siffra hög erbjuds invasiv fosterdiagnostik
+  * Ett par som efter tre tidiga missfall fått besked att kvinnan bär en kromosomavvikelse, en reciprok translokation mellan kromosomerna 5 och 10.
+
+
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
 
 ### Pataus syndrom
 
@@ -2995,10 +3245,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 ***Kliniska kännetecken***
 
 * Holoprosencfali
-
-
-
-
 
 
 
@@ -3096,6 +3342,72 @@ Other:
 #### CTG - kardiotorakografi
 
 * aka cardiothoracography
+
+
+
+
+
+### Esofageal atresi
+
+***Presentation***
+
+* **Nyfödd**
+  * snart efter födsel presenterar nyfödd med ökade orala sekretioner och mild respiratorisk distress. 
+  * **vilken diagnos mest sannolik:** esofageal atresi (av alternativen fanns persisterande pulmonell hypertenisoon, RDS (surfaktant brist), diafragmatisk bråck)
+    * RDS kan ske om aspirerar salivet. 
+    * trakeo-esofageal fistel kan också aggrevera respiratoriska problem
+    * kongenital diafragmatisk bråck presenterar med akut respiratorisk distress snart efter födsel, med scaphoid abdomen; man hör tarmljud på thorax. 
+
+***Etiologi och patofysiologi***
+
+
+
+***Epidemiologi***
+
+* 50% med esofageal atresi har andra kongenitala malformationer, såsom kongenital hjärtsjukdom
+* 
+
+***Kliniska kännetecken***
+
+* **ökade orala sekretioner, hos nyfödd**: ackummulation saliv i proximala esofageala fickan 
+* 
+* 
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
+
+
+### Resistens
+
+
+
+***Presentation***
+
+* **Nyfödd**
+  * An abdominal mass is detected on examination of a 2-day-old infant in the newborn nursery. 
+  * Which of the following is the most likely cause of this abdominal mass? Hydronefros
+  * Renal källa om bukresistens på nyfödd. 
+  * Vanligast är hydronefros, with hydronephrosis being the most common cause. 
+  * In female infants, an ovarian cyst, which is usually a benign tumor, is not as common as hydronephrosis. 
+  * Wilms tumor and multicystic kidneys may present as abdominal masses but are also less common causes. 
+  * Hydrometrocolpos, a retention of vaginal secretions, most commonly presents just after birth as a small cyst located between the labia, 
+  * although during childhood, it may present as a lower midline abdominal mass.
+
+
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
 
 
 
@@ -3385,105 +3697,6 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 ### Allmänt
-
-
-
-### Respiratorisk svikt
-
-***Etiologi och patofysiologi***
-
-* Flera orsaker förekommer som skulle ge respiratorisk svikt
-* alveolär hypoventilation
-* diffusion påverkan
-* ***intrapulmonell shunting***: 
-* ventilation-perfusion mismatch
-
-
-
-### Cystisk fibros
-
-***Presentation***
-
-* 13mån pojke
-  * och är inlagd på barnavdelning för en pneumoni diagnosticerad medröntgen. 
-  * Petter har tidigare varit inlagd för en pneumoni vid 10 månaders ålder men efter den har han inte blivit riktigt bra i luftvägarna. 
-  * Han har blivit ordinerad luftrörsvidgande med misstänkt astma men har ändå inte blivit besvärsfri i luftrören. 
-  * Han har fallit i vikt 1,5 SD sedan 8 månaders ålder och han har fallit 1 SD i längd. 
-  * Blodstatus visar lätt anemi och lätt stegrade neutrofiler, CRP 130 mg/l. 
-  * När du lyssnar på hans lungor är det rikliga biljud från båda sidorna med slembiljud, rhonki och rassel. 
-    * Överläkaren frågar dig under ronden vad du misstänker för sjukdom: cystisk fibros
-    * Vilket/vilka prover vill du ta för att styrka din misstanke? Svettest, genotypning ev F-elastas
-    * ytterligare anamnes relevant fråga: hereditet? friska sjuka syskon
-
-
-
-***Kliniska kännetecken***
-
-En kort lista över kliniska manifestationer av CF: 
-
-* ***Luftvägar***:
-  * Bronchiectasi, bronkit, bronkiolit, pneumoni
-  * Atelektas
-  * Hemoptys
-  * Pneuomothorax
-  * Näspolypos
-  * Sinusit
-  * Reactive airway disease
-  * Cor Pulmonale
-  * Respiratory failure
-  * Mukusplug i bronker
-  * Allergisk broncopulmonell aspergillos
-* ***Gastrointestinal***:
-  * Mekonium ileus/plug
-  * Mekonium peritonit
-  * Rektal prolaps
-  * Volvulus
-  * Pankreatit
-  * Biliär cirros
-  * Steatos, Kolelitias, GERD, Vtaminbrist AKED
-  * Malabsorption
-* ***Misc***:
-  * Infertilitet
-  * Försenad pubertet
-  * Clubbing
-  * DM
-
-
-
-***Diagnos***
-
-* ***Svettest*** (Förhöjda klorinvärden i svett = positivt)
-* ***Genotypning***
-* ***Ev. F-elastas***
-
-
-
-***Utredning och anamnes***
-
-* Komplettera anamnes
-  * Hereditet, friska/sjuka syskon
-
-
-
-
-
-### Obstruktiv bronkit
-
-***Presentation***
-
-* Mustafa, 18 månader gammal, inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft
-  * ***Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)***
-  * ***Initial behandling på akuten:*** 
-    * syrgas + ventoline (ventoline pga allvarlighetsgraden) med optichamber
-    * utefter effekt kan man överväga steroider i form av betapred eller solu-cortef (solu-cortef om det är en svår obstruktivitet)
-    * sedan fortsätta med syrgas + ventoline
-    * utebliven förbättring: magnesiumsyulfat, överväga tillägg iv teofyllamin
-  * ***Efter sex timmars behandling på akuten blir han närmast helt symptomfri. Syresättningen har stigit till 99%. Modern önskar åka hem till övriga familjemedlemmar***
-    * **Airomir (saba) + inhalationssteroid**, som kommer att tas i en spacer/mask antagligen...
-    * detta ska följa ett förkylningsastma schema som han får fr akuten
-    * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
-    * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
-  * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
 
 
 

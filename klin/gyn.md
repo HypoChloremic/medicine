@@ -1757,9 +1757,11 @@ cerivicit
 
 * **PCOS diagnosticeras med gyn UL**: uppvisar 12 antralfolliklar och eller en ovarievolym på 10cm3
 * **enl Rotterdam, ska ha påvisats, minst 2 av 3**:
-  * polycystiska ovarier på UL: verkar ej vara oblgat med att man har polycystiska ovarier på UL för att få diagnosen. 
-  * anovulation
-  * kliniska hormonella tecken hyperandrogenism
+  * **polycystiska ovarier på UL**: verkar ej vara oblgat med att man har polycystiska ovarier på UL för att få diagnosen. 
+  * **anovulation**
+  * **kliniska eller biokemisk  tecken hyperandrogenism**
+    * **Klinisk**: hirsutism, persisterande acne
+    * **Biokemisk**: ökad TEstosteron, SHBG minskad, T/SHBG>0.5; LH/FSH>2
 * **Differentialdiagnoser ska vara uteslutna.** 
 * **Fler krafter på g**: att enbart använda antimullerskt hormon (AMH) för att diffa, eller att man höjer antalet ID antralfolliklar till 19 ist för 12, då man är duktig på att hitta dessa folliklar nu med current UL teknik, 
 
@@ -2138,6 +2140,68 @@ cerivicit
 
 
 
+### Asymptomatisk bakteriuri
+
+
+
+***Presentation***
+
+* **Gravid v8**	
+  * Vid en rutinmässig urinodling hos en förstgravida vecka 8 ser man signifikant växt bakterier men patienten har inga symptom
+  * **vf behandlas ABU**: större risk uppåtstigande infektion med pyelonefrit hos mamman, prematurt barn samt låg födelsevikt
+  * **faktorer ökar risken ABU**: sämre töm urinblåsa, sämer propulsion uretärer, tryck mot uretärer
+
+
+
+***Etiologi och patofysiologi***
+
+* **associerat med**
+  * pyelonefrit hos moder
+  * låg födelsevikt + prematuritet hos barn
+
+
+
+***Riskfaktorer för ABU***
+
+* Sämre tömning urinblåsa
+* sämre propulsion i uretärer
+* tryck mot uretärer
+
+
+
+***Epidemiologi***
+
+* 2-5% alla gravida
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utredning och handläggning***
+
+* U-sticka början graviditet
+* **Odling**: upprepade UVI sedan tidigare, eller utgör riskgrupp för hög UVI (e.g. pyelonefrti i anamnes eller urinvägsmissbildning)
+* **kontrollodling**: efter behandling,. vid upprepade positiva odlingar överväga profylax för att fröebygga pyelonefrit
+
+
+
+***Behandling***
+
+* Stark indikation för att behandla ABU
+* Antibiotikabehandling
+  * Amplicillin
+  * amoxicillin
+  * mecillinam
+  * furadantni
+  * cefalosporiner
+* antibiotika, kontraindicerade
+  * kinoloner, däribland lexinor
+  * trimetoprim
+
+
+
 ### Eklampsi
 
 ***Etiologi patofysiologi***
@@ -2155,6 +2219,10 @@ cerivicit
   * an användas primär och sekundärprofylaktiskt syfte
 
 
+
+### Fosterdiagnostik
+
+* Gå till ped sammanställningen under klinisk genetik
 
 
 
@@ -2323,10 +2391,10 @@ cerivicit
   * **stort barn**
   * **esofagusatresi**: antagligen att fostret inte kan svälja fostervattnet
   * **neuro sjd påverkar sväljning**
-* Risker med polyhydramnios
-  * Navelsträngsprolaps
-  * pPROM
-  * stort barn
+* **Risker med polyhydramnios**
+  * **Navelsträngsprolaps**: att navelsträngen tar sig in i cervixkanalen och kommer i kläm
+  * **pPROM**
+  * **stort barn**
 
 
 
@@ -4955,6 +5023,13 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+#### Efterbördesskedet
+
+* **Efterbördesskede = stage3**: fr att barnet ute och placenta kommit ut
+* **Förlängt efterbördesskede**: dåliga uterala kontraktioner eller abnormal placentation (placenta acreta, placenta increta, placenta percreta)
+
+
+
 ### Förlossning: Normal
 
 ***Fysiologi***
@@ -5870,6 +5945,24 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * 
 
 
+
+
+
+### Blödning Placenta Previa
+
+
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
 
 
 

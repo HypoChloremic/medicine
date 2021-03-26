@@ -3221,6 +3221,11 @@ En kort lista över kliniska manifestationer av CF:
     * **erbjudas aneuploidiscreening**: KUB-test i.e. UL och blod test, risk för kromosomavvikelser; får en sannolikhetssiffra
     * om siffra hög erbjuds invasiv fosterdiagnostik
   * Ett par som efter tre tidiga missfall fått besked att kvinnan bär en kromosomavvikelse, en reciprok translokation mellan kromosomerna 5 och 10.
+    * Reciprok translokation
+    * empirisk risksiffra för obalanserad avkomma = 10-15%
+    * risken varierar mellan olika kromsmavvikelser
+    * erbjuds fosterdiagnos: CVB med karyotp
+    * PGD kan erbjudas: spec för att nedsatt fertilitet o missfall av translokationen
 
 
 

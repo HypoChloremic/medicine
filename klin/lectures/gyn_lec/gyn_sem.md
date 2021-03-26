@@ -2949,8 +2949,7 @@ PO klindamycin eller metronidazol
 * odling med resistensbestämning
 * kvinnor ska inte självbeh svamp >1 gg, för då behöver komma in t läkare
   * vet kan ge vaginism om starka mediciner mkt, att vaginalslemhinnan påverkas
-  * kan ge gflukozoaol
-  * ​	
+  * kan ge flukonazol	
 
 
 
@@ -2987,5 +2986,5 @@ PO klindamycin eller metronidazol
 
 ![image-20210325131259931](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20210325131259931.png)
 
-* vulvovaginit: tarmbakterier i.e. ecoli,
+* **vulvovaginit**: tarmbakterier i.e. ecoli,
 * **det är aldrig svamp om inte det finns östrogen!**

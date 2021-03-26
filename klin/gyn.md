@@ -615,12 +615,17 @@ cerivicit
 
 ***Presentation***
 
-* En 55-årig kvinna, tenta viktig
+* **55-årig kvinna, tenta viktig**
   * 0-gravida söker dig på grund av vaginal blödning. Hon har tidigare i livet varit frisk frånsett övervikt (mellan 85 och 90 kg, hon är 165 cm lång). Patientens föräldrar är döda: pappa i hjärtinfarkt, mamma i bröstcancer. Patienten berättar för dig att när hon var tonåring hade hon också oregelbundna blödningar. Dessa normaliserades dock under de 8 år som hon tog kombinerade p-piller. Hon slutade med dessa då hon var 27 år då hon önskade bli gravid. När detta inte lyckades sökte hon läkare, men utredningen fullföljdes aldrig på grund av skilsmässa. Det visade sig dock att maken hade ett normalt spermiogram. Efter att hon slutade med p-piller var blödningarna alltid oregelbundna, kom sällan och var ganska små. Vid 45 års ålder fick hon dock en tre veckor lång blödning och behövde skrapas på grund av detta. I journalen ser du att PAD på skrapningen visar en enkelt hyperplasi (metropathia haemorrhagica cystica MHC). Med hjälp av vaginalt ultraljud konstaterades då också ett myom i fundus. Menopausen inträffade vid 50 års ålder och patienten har inte blött förrän nu. Du ordnar med en ny skrapning på denna patient och diagnosen blir högt differentierat endometriecarcinom.
   * tre faktorer för EC: 
     * 0-para
     * obestias
     * PCOs enl anamnes... TODO
+* **Karin, 58 år,** 
+  * söker på kvinnoklinikens mottagning på grund av en vaginal blödning tre år efter menopaus. Hon är tidigare frisk, II-para, och har inte någon östrogenbehandling. Hon väger 95 kg och är 160 cm lång. Vid undersökningen noterar du en del gammalt blod i bakre fornix, uterus är normalstor, och vid ultraljudsundersökningen ser du ett endometrium som är förtjockat (18 mm), men väl avgränsat. 
+  * **Vilka andra diagnoser måste uteslutas**? Endometriecancer och cervixcancer
+  * **vidare utredning**: endometriebiopsi, abrasio, hysteroskopi med px
+  * **Om efter utredning  utesluta diagnosen i a) vad troligaste differentialdiagnosen  o  bakomliggande orsak**: Endometriehyperplasi pga förhöjda östrogennivåer (obesitas)
 
 
 
@@ -1695,6 +1700,32 @@ cerivicit
 
 
 
+### Menstruationsrubb
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* 
+
+
+
+<img src="./imgs/gyn_sam_260321_HrxhcrYarZ.png" alt="HrxhcrYarZ" style="zoom:50%;" />
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
+
+
 ### PCOS
 
 ***Presentation***
@@ -2241,19 +2272,15 @@ cerivicit
 
 ***Presentation***
 
-* 32 årig ensamstående kvinna med 6 barn i graviditetsvecka 36. 
+* **32 årig ensamstående kvinna med 6 barn i graviditetsvecka 36.** 
   * Alla 6 är födda vaginalt. Hennes stora bekymmer är att det är svårt med barnpassning. Hon vill veta hur cervixstatus är nu. Du undersöker henne. Föregående fosterdel huvud ovan spinae. Cervix är mellanriktad, bevarad, öppen 3cm trattande, medium konsistens.
   * BT 155/85, ska man beh eller expektera: man ska behandla
 
 
 
-
-
-
-
 ***Behandling***
 
-* Indikationer: verkar som att indikationerna för behandling inte ändras generellt för hypertensiva tillstånd i grav, att 150/105-100 är gränsen för att man vill behandla, antingen systoliskt eller diastoliskt på den nivån ya3ni. 
+* **Indikationer**: verkar som att indikationerna för behandling inte ändras generellt för hypertensiva tillstånd i grav, att 150/105-100 är gränsen för att man vill behandla, antingen systoliskt eller diastoliskt på den nivån ya3ni. 
 
 
 
@@ -2270,10 +2297,10 @@ cerivicit
 
 * 20% ingen tidigare hypertension
 * **tredje trimestern...**
-* **RUQ smärta**
-* **illamående**
-* **huvudvärk**
+* **RUQ smärta**: Detta verkar vara ngt man letar efter mkt hos patienter, med att man frågar efter smärtor epigastriskt.
 * **epigastrisk smärta**
+* **illamående**
+* **huvudvärk**: också ngt som man ska vara uppmärksam för på kliniken, att patienter kan gå runt med detta. Att det börjar tyda på CNS påverkan hos patienterna.
 
 
 
@@ -2284,11 +2311,10 @@ cerivicit
   * **Ej påverkad**: U-sticka + lilla tox ()
   * **Påverkad**: U-sticka + stora-tox
 * **Prover**
-  * hemolys
-  * leverenzymer stiger
-  * trombocyter sjunker
-
-
+  * **trombocyter**: sjunker; är det första som förändras och man bör vara uppmärksam för 
+  * **hemolys**
+  * **leverenzymer** stiger
+  * **Enl USMLE**: MAHA (mikroangiopatisk hemolytisk anemi) + leverpåverkan (notera trombocytpåverkan, som är det första som påverkas hos detta)
 
 
 
@@ -2297,10 +2323,6 @@ cerivicit
 * DIC
 * Moderdöd
 * leverruptur
-
-
-
-
 
 ### Hypertension i grav
 
@@ -2450,7 +2472,28 @@ cerivicit
 
 
 
+### Dyspareuni
 
+***Presentation***
+
+* **Sanna, 24 år** 
+  * söker på kvinnoklinikens mottagning p.g.a. smärtor i underlivet sedan drygt ett halvår. Hon har en relation med en några år äldre man sedan tre månader och är nu förtvivlad för att hon inte kan ha samlag. Hon läser på universitetet, är I-gravida/0-para, gjorde en medicinsk abort för två år sedan, använder kombinerade p-piller. Haft några svampinfektioner men i övrigt varit gynekologiskt frisk. Inga flytningar nu, ingen klåda.
+  * **Anamnes om smärtorna**: smärta endast samlag? dysmenorre? djupt eller ytligt? smärtans karaktär? brännande eller molande? smärta värst vid penetration? kan hon använda tampong?
+  * **bör ingå i sexologisk anamnes, allmänt**: lust? sexuella fatnasier? fungerar fysiskt? orgasmförmåga? dyspareuni? lubrikation? fungerar relationen? hur har det fungerat tidigare?
+
+
+
+***Diagnoser assoc dyspareuni***
+
+* **Endometrios**
+  * dysmenorre
+  * djup dyspareuni
+  * palpationsömhet: över sakrouterinligament; uterus baksida; adnexa
+  * diagnos vid laparoskopi, ev med px
+* **Vestibulit**
+  * minst 6mån anamnes 
+  * ytlig, brännande smärta, endast vid beröring/försök t penetration
+  * rodnad o palpationsömhet i bakre vestibulum
 
 ### Endometrios
 
@@ -2915,25 +2958,36 @@ cerivicit
 ***Etiologi och patofysiologi***
 
 * Obalans i bakteriefloran
-* 
+
+
+
+
 
 
 
 ***Kliniska kännetecken***
 
-* Grå-vit vattning discharge
-* illaluktande flytning
-* 3 av 4 amsels kriterier
+* **Grå-vit vattning discharge**
+* **illaluktande flytning**
+* **3 av 4 amsels kriterier**
   * tunn 
   * honogen ofta bubblig flytning
+* **Clue cells**: dessa är bakterier som adhererar till slemhinne celler, som man i sin tur kan se när man mikroskoperar skrap fr dessa patienter (eller flytningar?)
+
+
+
+
+
+<img src="./imgs/gyn_sam_260321_rrahjtv3Lo.png" alt="rrahjtv3Lo" style="zoom:50%;" />
 
 
 
 ***Utredning och handläggning***
 
-* **positivt snifftest**
+* **positivt snifftest**: snifftestar med KOH (kaliumhydroxid) för att prodcuera illaluktande doft
 * **pH över 4.5**
 * **clueceller i wet smeat, få laktobaciller**
+  * NaCl för att man vill se bakterier, noterar att KOH är till för att döda bakterier och leta svamp. 
 
 
 
@@ -2976,9 +3030,31 @@ cerivicit
 
 ### Candidal vaginit
 
+***Presentation***
+
+
+
+***Etiologi och patofysiologi***
+
+* **Östrogenberoende**: candida behöver östrogen för att bibehållas, används för proliferation?
+  * **ej möjligt postmenopausalt**: därför är det inte möjligt för postmenopausala eller premenarche pats att drabbas av candidal vaginit
+
+
+
+***Kliniska kännetecken***
+
+* klåda
+* sveda, svull, irritation
+* ytlig smärta, dyspareuni (detta är intressant)
+* ökad flutning (kesoliknande)
+* ibland helt normal, för där kmr wet smear in för då ser hyfer efter KOH. 
+
+
+
 ***Behandling***
 
-* Gravid: nystatin vaginal tabletter
+* **Gravid**: nystatin vaginal tabletter
+* **Självbehandling enbart 1gg**: pat ska enbart självbehandla 1gg, för att lkm är kraftiga, så behöver söka specialist om det inte går bort. 
 
 
 
@@ -3283,6 +3359,29 @@ cerivicit
 * purulent flytning
 * CRP stegring
 * feber
+
+
+
+### Postmenopausalt
+
+
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* **Vulvovaginit**: tarmbakterier
+* // aldrig svamp
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
 
 
 
@@ -6311,3 +6410,12 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * symfys-fundus mått
 * man drar ett måttband fr symfysen till **fundus av livmodern**
 * Notera att man palperar fram fundus uteri (vilket är toppen, y3ni det som är mest proximalt mot huvudet)
+
+### Wet smear
+
+* man tar lite flytning fr vagina, sätter objektglas, tittar i mikroskop
+* väldigt enkelt. använder inte lika mkt mikroskop, 
+* antingen NaCl eller KOH för att plocka fram olika celler att titta på 
+* vill ställad iagnos
+* KOH dödar bakterier, lättare se jästsvamper
+  * kan därför få direkt diagnos på mikroskop

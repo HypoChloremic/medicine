@@ -624,7 +624,7 @@ cerivicit
 * **Karin, 58 år,** 
   * söker på kvinnoklinikens mottagning på grund av en vaginal blödning tre år efter menopaus. Hon är tidigare frisk, II-para, och har inte någon östrogenbehandling. Hon väger 95 kg och är 160 cm lång. Vid undersökningen noterar du en del gammalt blod i bakre fornix, uterus är normalstor, och vid ultraljudsundersökningen ser du ett endometrium som är förtjockat (18 mm), men väl avgränsat. 
   * **Vilka andra diagnoser måste uteslutas**? Endometriecancer och cervixcancer
-  * **vidare utredning**: endometriebiopsi, abrasio, hysteroskopi med px
+  * **!!! vidare utredning**: endometriebiopsi, abrasio, hysteroskopi med px
   * **Om efter utredning  utesluta diagnosen i a) vad troligaste differentialdiagnosen  o  bakomliggande orsak**: Endometriehyperplasi pga förhöjda östrogennivåer (obesitas)
 
 
@@ -704,6 +704,7 @@ cerivicit
 
 ***Utredning och handläggning***
 
+* **Alla postmenopaus blödning måste histologisk undersökning**
 * **Gynekologisk Status**
   * blödningskälla
   * cervikal stenos
@@ -711,9 +712,10 @@ cerivicit
 * **pap smear**
   * cytologisk abnormalitet av cervix, vagina
   * occasional information av upper tract disease
-* **endometriell biopsi**: endometriell lining; behov för diagnos. 
-* (enl USMLE) D&C: dilatation o skrapning
+* **endometriell biopsi (endometriebiopsi)**: endometriell lining; behov för diagnos. 
 * **hysteroskopi**: endometriell lining
+* abrasio
+* (enl USMLE) D&C: dilatation o skrapning
 * **Diagnostiska tester**
   * **transvaginal ultraljud**: endometriell stripe, uterusstorlek, adnexstorlek, förekomst cystor, massa
   * **sonohysterogram**: endometriell stripe, förekomst submukös fibroider, polyper, endometriella kavitetsmassa
@@ -722,7 +724,6 @@ cerivicit
 * ***Endometrietjocklek***: dubbellager mätning
   * postmenopaus kvinnor gränsvärde <= 5mm
   * normal endometrie tjocklek ***utesluter inte EC***
-* **Alla postmenopaus blödning måste histologisk undersökning**
 * Doppler ultraljud, hysteroskopi endometrial polyp
 
 
@@ -1342,18 +1343,48 @@ cerivicit
 
 ### Hyperprolaktinemi
 
-***Utredning och anamnes***
+
+
+***Diagnos***
+
+* **S-prolaktin**: över 567mIE/L, minst 2 tillfällen
+  * **3 timmar efter uppvaknande** o under **avstressade förhållanden**, då man annars kan få falskt förhöjda värden
+* pulsatila GnRH inösöndirng fr hypothalamus hämmas
+
+
+
+***Etiologi och patofysiologi***
+
+* **graviditet och amning**
+* **prolaktinproducerande tumör**: prolaktinom
+* **defekt dopaminhämning fr hypothalamus**
+* **antipsykotika behandling**: haloperidol, klorpromazin, risperidon, ziprasidon
+  * **obs påverkar EJ prolaktin**: klozapin, olanzapin, quetiapin
+
+
+
+***Kliniska kännetecken***
+
+* oligomenorre, amenorre, 
+* galaktorre, 
+* minskad libido, 
+* huvudvärk, 
+* synfältsbortfall
+
+
+
+***Utredning och handläggning***
 
 * ***Anamnes***: 
-  * **Utesluta amning + graviditet**
-  * **Läkemedel**: neuroleptika, H2-antagonister, antiemetika, opioider
+  * **Utesluta amning + graviditet**: att detta ökar prolaktinivåver; u-hCG och anamnes?
+  * **Läkemedel**: neuroleptika (ej olanz, klozap, quetiapin), H2-antagonister, antiemetika, opioider
   * **lakritsmedel**
 * **Status**
   * **Bröst**: galaktorre, pressa fram sekretion
-  * **Gynekologiskt ultraljud:** OBS! samtidig PCO/PCOS utesluter ej prolaktinom
+  * **Gynekologiskt ultraljud:** OBS! samtidig ***PCO/PCOS utesluter ej prolaktinom***
 * **Hormonutredning**
   * **Utesluta grav**: U-hCG
-  * **hyperprolaktinemi**: S-prolakitin förhöjt (lågmolek prolaktin), vid 2 tillfällen
+  * **hyperprolaktinemi**: S-prolaktin förhöjt (lågmolek prolaktin), vid 2 tillfällen
     * bör tas 3 timmar efter uppvaknande o under avstressade förhållanden, då man annars kan få falskt förhöjda värden
   * **gonadaxel**: S-LH, S-FSH, samt S-östradiol
   * **primär hypothyreos**: S-TSH, fritt T4, fritt T3
@@ -1375,12 +1406,6 @@ cerivicit
 
 
 
-***Diagnostik***
-
-* Hormonutredning -> neuroradiologi
-
-
-
 ***Differentialdiagnoser***
 
 * **hypothyreos**
@@ -1392,10 +1417,10 @@ cerivicit
 
 ***Behandling***
 
-* **Farmakologiskt**
+* **Farmakologiskt**, dopaminagonister
   * **bromokriptin, pravidel**: 1a hands val; kontroll S-prolaktin efter 6-8v., därefter tel kontakt för ev dosjustering. 
   * **bromokriptin, gravoda**: kan prövas, inga effekter på fostret supposedly 
-* **Kirurgi**
+* **Kirurgi**: vid chiasmapåverkan
   * övervägas sällsynt  fall makroprolaktinom + synpåverk som inte snabbt förbättras
   * endokrin + neurokir bestämmer
 * **Gammstrålning beh**
@@ -1583,37 +1608,54 @@ cerivicit
   * **Progesteronnivå:** 21-23d, corpus luteuminfektion
   * **LH-nivå**: ovulation ca 10h <u>**efter**</u> LH-peak
 
-
-
-### Menstruation - amenorré
+#### Amenorré
 
 ***Presentation***
+
+* **!!! Mira, född 1995,** 
+  * ursprungligen från Afganistan, söker dig på ungdomsmottagningen på grund av utebliven menstruation. Går i gymnasiet, bor hos släktingar, talar och förstår svenska. Hon är virgo och hade sin första menstruationsblödning när hon var 16 år. Hon blödde då i 10 dagar. Därefter har hon haft ytterligare en blödning för 1 år sedan och den varade i 3 dagar. Mira vill absolut inte bli gynundersökt och helst inte klä av sig. Hon ser allmänt frisk ut men verkar ha en måttlig övervikt.
+  * Ytterligare frågor att ställa: dessa är till för att ställa vilken nivå av gonadotropi det kan handla om 
+    * Andra symptom; 
+    * svettningar, hirsutism/acne, 
+    * viktförändring, 
+    * kost, motion, stress
+  * Du tar hormmonprover: FSH, prolaktin, TSH, samt gestagentest
+  * om gestagentest neg, FSH 77mIU/mL: prematur ovariell svikt
+  * om prover normala, gestagentest positivt, fler hormonprover: testosteron, SHBG för att bedöma PCOS
+  * Kommentarer: iom ingen mens = hypogonadism. Frågan blir vilken typ av hypogonadism vad gäller gonadotropin (hög, normal, låg)
 
 
 
 ***Allmänt***
 
-* **Primär amenorre**: spontan menstruation har aldrig förekommit, oavsett ålder
-* **Försenade menarche:** Ingen menstruation vid fyllda 16åå
+* **Primär amenorre**: spontan menstruation har <u>aldrig</u> förekommit, oavsett ålder
+* **Försenade menarche:** Ingen menstruation vid fyllda 16åå; patientfallet ovan verkar vara en sådan. 
 * **Försenad pubertet:** inga pubertetstecken vid 14åå
-  * Pubertet: längd utveckling - thelarche - adenarche
-* **Sekundär amenorre:** Menstruationsuppehåll >= 3 månader
+  * **Pubertet**: längd utveckling - thelarche - adenarche
+* **Sekundär amenorre:** Menstruationsuppehåll >= 3 månader (eller också att afganska patienten har detta)
 
 
 
 ***Etiologi och patofysiologi***
 
 * många olika orsaker till amenorre, som alla tillhör olika grupper
-* **viktnedgång, anorexia nervosa**
-* **intensiv träning:** idrottsamenorre
-* **emotionell stress**
-* **hyperprolaktinemi**
-* **PCOS**
-* **thyroideadysfunktion**
+* Endokrinologiskt
+  * **hyperprolaktinemi**
+  * **PCOS**
+  * **thyroideadysfunktion**
 * **ovariellsvikt**
-* **kromosomrubbningar**
-* **missbildningar**
-* **Nutritionella orsaker**: vid dåligt nutritinsstatus att IGF1 sjunker. IGF1 agerar stimulerande på GnRH, vilket därför inte sker när man har dålig nutrition, varpå GnRH sjunker. 
+* Kongenitalt
+  * **kromosomrubbningar**
+  * **missbildningar**
+* MISC (men viktiga)
+  * **viktnedgång, anorexia nervosa**
+  * **intensiv träning:** idrottsamenorre
+  * **emotionell stress**
+  * **Nutritionella orsaker**: vid dåligt nutritinsstatus att IGF1 sjunker. IGF1 agerar stimulerande på GnRH, vilket därför inte sker när man har dålig nutrition, varpå GnRH sjunker. 
+
+
+
+<img src="./imgs/gyn_sam_270321_xmYmq6SUpb.png" alt="xmYmq6SUpb" style="zoom:50%;" />
 
 
 
@@ -1663,28 +1705,36 @@ cerivicit
 * ***Anamnes***
   * **hereditet**
   * **tillväxt**
-  * **emotionellstress**
+  * **emotionell stress**
   * **nutrition**: 
     * vegetarian, 
     * tecken t ätstörningar, 
     * viktnedgång, 
-    * **viktuppgång + ökad behåring**
+  * **viktuppgång + ökad behåring**: hirsutism, 
+  * **Svettningar**: antyder testosteron produktionen?
   * **Galaktorre, huvudvärk**
   * **fysisk aktivitet**
   * **kroniska sjukdomar**
-  * **medicinering**
+  * **medicinering**: vilken medicinering kan påverka?
 * **Status**
   * **BMI, fettfördelning**
   * **pubertetsutv** enl Tanner
-  * **galaktorre**
+  * **galaktorré**
   * **östrogenpåverkan**: bröstutv, slemhinnor
-  * **androgenpåverkan:** acne, hirsutism, klitorisförstoring
+  * **androgenpåverkan (hyperandrogenism):** acne, hirsutism, klitorisförstoring
   * **UL**: uterus, ovariestorlek
 * **Labb o test**
-  * **uteslut graviditet**: u-hCG
-  * **hormonanalyser**: FSH, LH, prolaktin, TSH, fT4
-  * **Progesterontest**
-  * **uteslut kromosommissbildningar**: mullerska gångar (vet ej oom man antyder statusmässigt)
+  * **uteslut graviditet**: u-hCG (detta om patienten säger sig vara virgo? eller skippar man den? )
+  * **hormonanalyser**: FSH, LH, prolaktin, TSH, fT4 []
+  * **progesterontest**: Provera 10mg 1x1, 7d. 
+    * **kontrollera endogen östrogennivå och normal anatomi**
+    * **om blödning**: anovulation
+    * **om ingen blödning trots normal östrogennivå:** 
+      * höga androgennivåer (PCOS); 
+      * adrenal enzym defekt; 
+      * otillräcklig östrogensekretion, 
+      * anomalier
+  * **uteslut missbildningar**: mullerska gångar (detta kan antydas statusmässigt)
   * **kromosomanalys**: bestäm karyotyp
 * **Neuroradiologi**: 
   * **MRT sella turcica**: misstanke hypofystumör
@@ -1698,9 +1748,47 @@ cerivicit
 
 
 
+#### Amenorre - hypothalamisk
+
+***Etiologi och patofysiologi***
+
+* **Hypothalamus, minskad GnRH pulsatil sekretion**: har såklart downstream effekter på hormonaxeln. 
+* **Ökar kortisolnivån**: då ingen FSH eller LH sekretion, ökar kortisolnivån
+  * ökad aktivitet adrenala axeln
+  * medierat via CRH (corticotropin releasin hormone): som hämmar GnRH sekretion
+* **brist Östrogen, Progesteron**
+  * TSH sjunker osså, varpå T4 sjunker
+* **Anovulation**
+* **Amenorre**
 
 
-### Menstruationsrubb
+
+<img src="./imgs/gyn_sam_270321_xmYmq6SUpb.png" alt="xmYmq6SUpb" style="zoom:50%;" />
+
+
+
+***Kliniska kännetecken***
+
+* Infertilitet
+* Osteoporos
+* Muskuloskeletala skador
+* Hämmad skelettutveckling
+
+
+
+***Behandling***
+
+* Anorexia nervosa: påverkar axeln via hypothalamus (IGF involvering?)
+  * psykiatrisk behandling
+* adekvat nutrition: uppnå normalt BMI, kroppsfett
+* viktuppgång om undervikt
+* anpassad fysisk aktivitet
+* hormonell substitution: HRT eller p-piller
+* kalcium + D-vit tillskott: antagligen pga östrogenbristen som leder t osteoporos
+
+
+
+#### Menstruationsrubb
 
 ***Presentation***
 
@@ -1730,6 +1818,21 @@ cerivicit
 
 ***Presentation***
 
+* **!!! Mira, född 1995,** 
+  * ursprungligen från Afganistan, söker dig på ungdomsmottagningen på grund av utebliven menstruation. Går i gymnasiet, bor hos släktingar, talar och förstår svenska. Hon är virgo och hade sin första menstruationsblödning när hon var 16 år. Hon blödde då i 10 dagar. Därefter har hon haft ytterligare en blödning för 1 år sedan och den varade i 3 dagar. Mira vill absolut inte bli gynundersökt och helst inte klä av sig. Hon ser allmänt frisk ut men verkar ha en måttlig övervikt.
+  * Ytterligare frågor att ställa
+    * Andra symptom; svettningar, hirsutism/acne, viktförändring, kost, motion, stress
+  * Du tar hormmonprover: FSH, prolaktin, TSH, samt gestagentest
+  * om gestagentest neg, FSH 77mIU/mL: prematur ovariell svikt
+  * om prover normala, gestagentest positivt, fler hormonprover: testosteron, SHBG för att bedöma PCOS
+* **Maja 23åå med PCOS**
+  * Har graviditetsönskan
+  * vad kan du rekommendera henna?
+
+
+
+
+
 ***Allmänt***
 
 * polycystisk ovarial syndrom (PCOS)
@@ -1738,12 +1841,27 @@ cerivicit
 
 ***Etiologi och patofysiologi***
 
+* exakt etiologi är okänd. 
 * **Polycystiska mångblåsiga ovariet**: är en normalvariant 
   * **prevalens** 20% unga kvinnor
 * **Ovarium**: 
   * **ena änden**: stort antal antralfolliklar + stor volym 
   * **andra änden**, motsatsen: oligofollukulär ovarie + lågt antal antralfolliklar + liten ovarialvolym
   * mellan dessa extremer är det normala multifollikulär ovariet. 
+* **Ärftligt tillstånd**: beroednde på livsstilsfaktor
+* **Viktuppgång ofta utlösane**: pat presenterar med amenorre, oligomenorre, hirsutism o acne efter viktuppgång, misstänk PCOS?
+* **Patogenes enl FL**
+  * Flera vägar in i PCOS
+  * **Anovulationen leder till PCOS**: att det är anovulationen i sig som leder till ansamlingen (antral?)folliklar, utan ovulation
+  * **Genetisk predisposition**: ökad androgenicitet (testosteronnivåer höga, SHBG låga), som ger anovulation
+  * **Höga insulinnivåer, insulinresistens**: relaterat med mkt, e.g. övervikt. Kan direkt påverka ovarierna, varpå ökad androgrenicitet, och anovulation
+    * minskad SHBG rel med insulinresistens osså, varpå samma effekt. 
+
+
+
+
+
+<img src="./imgs/gyn_sam_270321_nqmJcvwmhy.png" alt="nqmJcvwmhy" style="zoom:50%;" />
 
 
 
@@ -1758,17 +1876,23 @@ cerivicit
 
 * **heterogen klinisk bild**
 * **menstruationsrubbningar**
-  * ovulationsstörningar
-  * anovulatorisk infertilitet
-  * **kutan manifestation av hyperandrogenism:** 
-    * hirsutism 
-    * akne
-* **föreligger ofta metabol avvikelser**
-  * central fetma
-  * insulinresistens
+  * **!!! ovulationsstörningar**: amenorre, oligomenorre
+  * **anovulatorisk infertilitet**: ett patientfall där pt första mens 16åå, varpå andra mensen 1 år senare. Nu söker i 20åå. 
+* !!! **hyperandrogenism, kutan manifest:** hirsutism akne
+* **föreligger ofta metabol avvikelser**: central fetma, insulinresistens
 * **"String of pearls":** pga multipla folliklar som blir cystiska
-* **Tillståndet varierar**
-  * **baserat på antalet antralfolliklar**: i ovarierna
+* **Tillståndet varierar baserat på antalet antralfolliklar**: i ovarierna
+* ***Hyperandrogenism***
+  * Hirsutism, acne
+  * menstruationsstörningar
+  * nedsatt fertilitet
+  * polycystiska ovarier
+* **insulinressitens**
+  * obesitas, bukfetma
+  * hypertoni
+  * hyperlipidemi
+  * glukosinrolerans
+  * DM2
 
 
 
@@ -1800,7 +1924,231 @@ cerivicit
 
 ***Utredning och handläggning***
 
+* **enbart PCO UTAN symptom på anovulation/ökad androgenism**: Ingen utredning
+* **klinisk hyperandrogenism och eller menstruationsstörning**: FSH, LH, TSH, fT4, prolaktin, progesterontest (gestagentest, 17-OH-progesteron), SHBG, testosteron
+* **klinisk hyperandrogenism och regelbunden menstruation**: Testosteron, SHBG
+* **Smala kvinnor med PCOS**: ökad LH, normal/låg FSH, LH/FSH > 2
+* insulinresistens o hyperinsulinemi inte universellt drag, men vanligt hos kivvnor med PCOS
+
+
+
 ***Behandling***
+
+* **livsstilsintervention + antidiabetikum (metformin)**: för diabetes, obesitas
+  * minskar insulinresistens, minskad insulinsekretioin varpå viktnedgång, ökad SHBG och minskad tesosteronhalt. 
+* **menstruationsstörning**: p-piller (yasmin, diane (anti-androgena?)), cykliskt gestagen
+* **hirustism**: p-piller; epilering; antiandrogener; spironolakton; androcur (cyproteron); casodex (bikalutamid)
+* **graviditetsönskan**: ovulationsstimulering; ivf; gonadotropinstimulering
+
+### Prematur ovariell svikt
+
+***Presentation***
+
+* **!!! Mira, född 1995** 
+  * ursprungligen från Afganistan, söker dig på ungdomsmottagningen på grund av utebliven menstruation. Går i gymnasiet, bor hos släktingar, talar och förstår svenska. Hon är virgo och hade sin första menstruationsblödning när hon var 16 år. Hon blödde då i 10 dagar. Därefter har hon haft ytterligare en blödning för 1 år sedan och den varade i 3 dagar. Mira vill absolut inte bli gynundersökt och helst inte klä av sig. Hon ser allmänt frisk ut men verkar ha en måttlig övervikt.
+  * Ytterligare frågor att ställa
+    * Andra symptom; svettningar, hirsutism/acne, viktförändring, kost, motion, stress
+  * Du tar hormmonprover: FSH, prolaktin, TSH, samt gestagentest
+  * om gestagentest neg, FSH 77mIU/mL: prematur ovariell svikt
+  * om prover normala, gestagentest positivt, fler hormonprover: testosteron, SHBG för att bedöma PCOS
+
+
+
+***Etiologi och patofysiologi***
+
+* Ovariell svikt + amenorre hos kvinna i fertil ålder
+* skilj fr menopaus: tillståndet liknar menopaus, men pat är för ung?
+* **känd etiologi 30%?**
+  * Ofta familjärt, 
+  * primär amenorre, 10-30%
+  * sekundär amenorre 5-20%
+  * autoimmun sjd, associerad, 20%
+    * hashimotos thyreoidit
+    * DM1
+    * Addisons
+  * iatrogen: cytostatika, strålbeh, SOE bilat 
+  * FSH o LH receptor mutationer
+  * kromsomavvikelser
+* **okänd etiologi**: idiopatisk 90%
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+* Primör amenorre, försenad pubertetsutveckling
+* sekundär amenorre: nedsatt fertilitet
+* vasomotoriska symptom: TODO
+* humörsvängningar, ökad stresskänslighet
+* sömnstörningar
+* urogenitala symptom
+* dyspareuni
+
+
+
+***Utredning och handläggning***
+
+* S-FSH >40E/L
+* AMH lågt: antimullerskt hormon
+* **primär amenorre**: könskromosomanalys, kromosomanalys
+  * !!! primär amenorre UTAN hypergonadotrop hypogonadism = ingen kromosomanalys, då orsak ej gonadnivå
+
+
+
+***Behandling***
+
+* Hormonsubstitution
+  * inducera pubertet
+  * behandla vasomotoriska symptom
+  * återställa torra sköra slemhinnor
+  * motverka osteoporos; försämrad kognition; ökad risk CVD
+* Graviditetsönskan
+  * hormonstimulering
+  * frysning ovarievävnad, befruktade ägg
+  * äggdonation
+  * hög FSH + låg AMH: ingen poäng ovulationsstimulering
+
+
+
+***Prognos fertilitet***
+
+* Generellt dålig
+* spontan grav vid sekundär amenorre = 5-10%
+* om FSH ökade o AMH lågt: ovulationsstimulering *sällan meningsfull*
+* äggdonation erbjuds i dagsläget
+
+
+
+### Steroidhormoner
+
+***Fysiologiskt***
+
+* Aromatos: essentiellt enzym, konverterar testosteron till östradiol!
+
+<img src="./imgs/gyn_sam_270321_yT3gIcvkzu.png" alt="yT3gIcvkzu" style="zoom:50%;" />
+
+
+
+
+
+### Thyroidea-dysfunktion
+
+
+
+#### Hypothyreos
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* TRH fungerar som PRF (prolactin releasing factor)
+* orsakar därför menstruationsrubbning
+* vid hypothyreos: ökad TSH, lågt fT4
+* ärftligt, ofta
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+* oligo-amenorre: undrar om detta fungerar via TRH > PRF axeln att det är prolaktinet som påverkar mensen
+* trötthet
+* frusenhet
+* förstoppning, obstipation
+
+
+
+***Utredning och handläggning***
+
+***Behandling***
+
+* Levaxin
+
+
+
+#### Hyperthyreos
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* TRH fungerar som PRF (prolactin releasing factor)
+* sänkt TSH, förhöjt fT4/T3
+* graves sjd, 70% fallen
+* läkemedelsutlöst: Litium, interferon, amiodaron
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+* menstruationsrubbning
+* hjärtklappning
+* viktminskning
+* ökad aptit
+* tremor
+* muskelsvaghet
+
+
+
+***Utredning och handläggning***
+
+***Behandling***
+
+* thyreostatika: propyltiouracil
+
+
+
+
+
+### Turners
+
+
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* Hypogonadotrofisk amenorre
+
+* 45x0 monosomi, mosaik, 45X/46XY
+
+  
+
+***Epidemiologi***
+
+* vanligaste könskromosomavvikelsen
+* 1:2.5k nyfödda flickebarn
+
+
+
+***Kliniska kännetecken***
+
+* **utebliven pubertet**
+* **sexuell infantilism**
+* **gonaddysgenesi**
+* **streak gonads**: ovarier ersätta med vävnad utan funktion
+* **Stigmata**
+  * kortvuxenhet, 
+  * nace kort o bred
+  * hög gomvalv
+  * mikrognati
+  * epicantus
+  * lågsittande öron
+  * sköldlik bröstkorg
+  * coarctio aortae
+  * bicuspid aortaklaffar + hypertoni - dissikerande aortaneurysm
+
+
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
 
 
 
@@ -2486,10 +2834,9 @@ cerivicit
 ***Diagnoser assoc dyspareuni***
 
 * **Endometrios**
-  * dysmenorre
-  * djup dyspareuni
-  * palpationsömhet: över sakrouterinligament; uterus baksida; adnexa
-  * diagnos vid laparoskopi, ev med px
+  * **dysmenorre**
+  * **djup dyspareuni**
+  * **palpationsömhet:** över sakrouterinligament; uterus baksida; adnexa
 * **Vestibulit**
   * minst 6mån anamnes 
   * ytlig, brännande smärta, endast vid beröring/försök t penetration
@@ -2929,6 +3276,28 @@ cerivicit
 ***Uppföljning***
 
 * Läkningstid: 
+
+
+
+
+
+### Vestibulit
+
+
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+* Dyspareuni
+
+***Utredning och handläggning***
+
+***Behandling***
 
 
 
@@ -6400,6 +6769,40 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Utredning och handläggning***
 
 * **Inkomplett papsmear**: ta om den...
+
+
+
+
+
+### Progesterontest
+
+***Presentation***
+
+* **!!! Mira, född 1995,** 
+  * ursprungligen från Afganistan, söker dig på ungdomsmottagningen på grund av utebliven menstruation. Går i gymnasiet, bor hos släktingar, talar och förstår svenska. Hon är virgo och hade sin första menstruationsblödning när hon var 16 år. Hon blödde då i 10 dagar. Därefter har hon haft ytterligare en blödning för 1 år sedan och den varade i 3 dagar. Mira vill absolut inte bli gynundersökt och helst inte klä av sig. Hon ser allmänt frisk ut men verkar ha en måttlig övervikt.
+  * Ytterligare frågor att ställa: dessa är till för att ställa vilken nivå av gonadotropi det kan handla om 
+    * Andra symptom; 
+    * svettningar, hirsutism/acne, 
+    * viktförändring, 
+    * kost, motion, stress
+  * Du tar hormmonprover: FSH, prolaktin, TSH, samt gestagentest (LH var ej med, samt fT4)
+  * om gestagentest neg, FSH 77mIU/mL: prematur ovariell svikt
+  * om prover normala, gestagentest positivt, fler hormonprover: testosteron, SHBG för att bedöma PCOS
+  * Kommentarer: iom ingen mens = hypogonadism. Frågan blir vilken typ av hypogonadism vad gäller gonadotropin (hög, normal, låg)
+
+
+
+***Utredning och handläggning***
+
+**progesterontest**: Provera 10mg 1x1, 7d. 
+
+* **kontrollera endogen östrogennivå och normal anatomi**
+* **om blödning**: anovulation
+* **om ingen blödning trots normal östrogennivå:** 
+  * höga androgennivåer (PCOS); 
+  * adrenal enzym defekt; 
+  * otillräcklig östrogensekretion, 
+  * anomalier
 
 
 

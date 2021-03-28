@@ -2795,9 +2795,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Behandling***
 
-* ***Reduktion***
-  * Rectal air insufflation: om inte peritonit förekommer
-  * ***Kirurgi***: indicierat om air insufflation eller om peritonit
+* **Reduktion**
+  * **Rectal air insufflation**: om inte peritonit förekommer
+  * **Kirurgi**: indicierat om air insufflation eller om peritonit
 
 
 
@@ -3571,6 +3571,16 @@ Other:
   * sannolik diagnos: coxitis simplex
   * bekräfta diagnos: UL-höft kan göras, ej nödvändigt för diagnos enl tentasvar fr student
   * om diagnosmisstanke bekräftas vad visar undersökningen: ledutgjutning åp ultraljud, i.e. ökad vätska i leden.
+* 3 år gammal flicka
+  * som du träffar på barnakuten som ej velat gå sedan ett par dagar. Hon var förkyld för ett par veckor sedan. Gott allmäntillstånd. Hon har ingen feber, inga utslag. Hon har en lätt inskränkning vid abduktion i höger höft men i övrigt finner du inget anmärkningsvärt. Ange en sannolik diagnos och vad är ditt nästa steg? 
+  * Höftsnuva
+
+
+
+***Behandling***
+
+* Höftvila
+* smärtlindring vb
 
 
 

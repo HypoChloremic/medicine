@@ -706,6 +706,10 @@ cerivicit
   * **Vilka andra diagnoser måste uteslutas**? Endometriecancer och cervixcancer
   * **!!! vidare utredning**: endometriebiopsi, abrasio, hysteroskopi med px
   * **Om efter utredning  utesluta diagnosen i a) vad troligaste differentialdiagnosen  o  bakomliggande orsak**: Endometriehyperplasi pga förhöjda östrogennivåer (obesitas)
+* 47åå kvinna
+  * söker för långdragna blödningar och buksmärtor. Av den gynekologiska journalen framgår att hon fött 4 barn. Alla förlossningar har varit normala. Dessutom hade hon ett missfall och en legal abort. Fick spiral insatt i samband med abortingreppet och efter detta en salpingit som antibiotikabehandlades. Efter senaste partus åter kopparspiral. Patienten har haft regelbundna menstruationer fram till mitten av april 2012. Från mitten av maj till augusti haft mellanblödningar. Sökte akut i slutet av juli pga blödningar då man avlägsnade spiralen på misstanke om att denna orsakade blödningstrasslet. Eftersom blödningarna inte upphörde sökte hon åter akut och blev insatt på per oral gestagenbehandling under 10 dagar. Trots detta fortsatta blödningar. Man förordade hormonspiral som patienten fick insatt i oktober 2012. Vid återbesök juni 2013 fortsatta blödningar. Hon upplever att hon är trött på blödningarna. Smear och endometriebiopsi ua.
+  * Sannolik diagnos: myom...
+  * behandlingsalternativ t denna patient: endometrieablation, endometrieresektion, hysterektomi, eller esmia
 
 
 
@@ -765,8 +769,8 @@ cerivicit
 
 * 4e vanligaste tumör kvinnor, 6% av alla cancrar internationellt hos kvinnor. 
 * 1400 fall i Sverige varje år
-* livstidsrisk: 2%
-* mortalitet: 7-10:100k
+* **livstidsrisk**: 2%
+* **mortalitet**: 7-10:100k
 
 
 
@@ -785,11 +789,12 @@ cerivicit
 ***Utredning och handläggning***
 
 * **Alla postmenopaus blödning måste histologisk undersökning**
+* // Notera att UL inte RÄCKER FÖR DIAGNOS: att endometrieslemhinnan är tunn betyder ingenting. 
 * **Gynekologisk Status**
   * blödningskälla
   * cervikal stenos
   * uterin storlek, pelvisk massa
-* **pap smear**
+* **Pap smear**
   * cytologisk abnormalitet av cervix, vagina
   * occasional information av upper tract disease
 * **endometriell biopsi (endometriebiopsi)**: endometriell lining; behov för diagnos. 
@@ -2129,12 +2134,19 @@ cerivicit
 
 ***Presentation***
 
+* Ulla är 25 år. Under graviditetsvecka 22 tar man ett TSH som är rejält förhöjt
+
+
+
 ***Etiologi och patofysiologi***
 
 * TRH fungerar som PRF (prolactin releasing factor)
 * orsakar därför menstruationsrubbning
 * vid hypothyreos: ökad TSH, lågt fT4
 * ärftligt, ofta
+* **Konsekvenser för fostret:** bedsatt kognitiv utveckling
+
+
 
 
 
@@ -2146,6 +2158,9 @@ cerivicit
 * trötthet
 * frusenhet
 * förstoppning, obstipation
+* ödem 
+* viktuppgång
+* blödningsrubbningar
 
 
 
@@ -2485,7 +2500,9 @@ cerivicit
     * **Status**: BT, vikt/BMI
     * **Provtagning**: Notera att man vid det absolut första besöket, om det är så pass tidigt, att man inte tar alla prover utan väntar till efter v10. Det är mer rel med fkap-Hb, TSH, urinsticka så pass tidigt (klam prov kan man ta tidigt)
       * **venösa prover** 
-        * **!!! Tid**: v10-12 för att man vill ha fetalt-Rh, som fångas detta tidspannet då RBC produktion hos fostret är igång. 
+        * !!! **Tid**: v10-12 för att man vill ha fetalt-Rh, som fångas detta tidspannet då RBC produktion hos fostret är igång. 
+        * !!! **Hb + ferritin**
+        * **P-glukos**
         * **thyroideaprover**: (TSH, T4?), detta verkar man kunna ta direkt, i.e. att man tar det vid första besöket (e.g. v5 o uppåt) för att det är så pass relevant för utvecklingen tidigt. 
         * **blodgruppering BAS-test**
         * **Fetalt Rh:** detta är orsaken till att man vill ta de venösa proverna efter v10, för att fetal erytrocytproduktion är igång, varpå man kan diffa detta, så man vill hellre ta alla prover tillsammans.
@@ -2604,6 +2621,12 @@ cerivicit
   * Thalasssemi
   * sickle cell anemi
 * **Anemi efter obstetrisk blödning**
+* Mindre vanliga orsaker til anemi graviditet + postpartum
+  * folsyrebrist, B12-brist
+  * thalassemi (hemoglobinopati)
+  * sicklecellanemi
+  * anemi kronisk sjd
+  * hemolytisk anemi
 
 
 
@@ -2617,12 +2640,15 @@ cerivicit
 
 
 
-***Handläggning och utredning***
+***Utredning och handläggning***
 
-* **Peroral järnterapu under 2-3v vid anemi:** 
-* **om ingen effekt, labb**
-  * Hb, EVF, MCV, S-ferritin, TPK, LPK
-* **Högt MCV**: s-B12, s-folat, s-metylmalonat
+* !!! **Prover och uppföljning av Hb**
+  * **vid inskrivning**: Hb + ferritin tas (plus allt annat)
+  * här kan man determinera huruvida patienten har en järnanemibrist eller inte
+  * föreligger en anemi, provbehandlar man i 2-3v med efterföljande kontroll för att uppföljning
+  * vid utebliven effekt, så utreder man vidare med fler prover
+  * **om ingen effekt, labb**: Hb, EVF, MCV, S-ferritin, TPK, LPK
+  * **Högt MCV**: s-B12, s-folat, s-metylmalonat
 * **Övriga prover, annan orsak anemi**
   * **s-haptoglobin, LD**: misstanke hemolys
   * **B-diff**
@@ -2767,6 +2793,18 @@ cerivicit
 
 ### HELLP
 
+***Presentation***
+
+* Sophia 33 år
+  *  och väntar sitt första barn. Hon har kommit till vecka 29. Hon har tidigare varit frisk förutom att hon haft en `besvärlig mage´ innan hon blev gravid.Graviditeten har varit normal och magen har faktiskt varit bättre. Men, i morse insjuknade hon med smärtor under höger arcus som är rätt besvärliga. Mår också inte helt bra men kan inte riktigt förklara vad som är fel. Hon söker på vårdcentralen efter lunch. Barnet har sparkat normalt. Hon har inte kräkts. Normal avföring i morse. Ingen vaginal blödning eller vattenavgång. Inga sammandragningar.Status: Inte svårt att röra sig. Afebril. Buk: lätt ömmande under höger arcus och I epigastriet. Fö mjuk och oöm över uterus. BT: 120/80 Urin: + för protein, 0 för glukos
+  * **diagnos måste utesltuas**: HELLP
+  * **bör du göra**: remittera t kvinnoklinik
+  * **prover kan bidra t diagnos**: leverprover och TPK
+  * **yttersta konsekvens**: kramper (eklampsi), hjärnblödning, koagulationsrubbning
+  * 
+
+
+
 ***Allmänt***
 
 * ***HELLP*** - Hemolysis-elevated liver enzymes-low platelet count syndrome
@@ -2804,6 +2842,9 @@ cerivicit
 * DIC
 * Moderdöd
 * leverruptur
+* koagulationsrubbning
+* hjärnblödning
+* eklampsi (kramper)
 
 ### Hypertension i grav
 
@@ -2870,6 +2911,29 @@ cerivicit
 ***Behandling***
 
 * **profylax, anti-D**: för Rh-negativa kvinnor. 
+
+
+
+### Koagulation
+
+***Presentation***
+
+* Vera 
+  * kommer till dig i graviditetsvecka 13 på mödravårdscentralen. Hon har en lättare psoriasis och hade en djup ventrombos i 20-årsåldern i samband med p-piller. Normal graviditet
+  * ngt spec du ska göra: initiera trombosprofy, alt remittera specialist-MVC för detta
+  * prover: trombosutredning
+
+
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
 
 
 
@@ -3003,6 +3067,9 @@ cerivicit
   * Vad rekar du: antingen uppehåll 4d eller tar 2t dagligen i 5d.
 * **Lovisa 25 **
   * **år söker dig på gynmottagningen pga smärtor i buken sedan nästan ett år. Hon har tidigare sökt hos husläkaren som mest trott på att hon har IBS. Själv undrar hon om det kan finnas en gynekologisk förklaring eftersom smärtan sitter mest i nedre delen av buken.**
+* **Olga är 32 år**
+  * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
+  * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
 
 
 
@@ -5045,26 +5112,85 @@ cerivicit
 
 ***Presentation***
 
+* **Olga är 32 år
+  * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
+  * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
+
+
+
+***Definition***
+
+* **Sverige**: oförmåga gravid 1år av oskyddat samlag. 
+* **WHO definierar**: ofrivilligt barnalöshet 2år av oskyddat samlag
+  * också infertilitet om man inte lyckas föda levande barn enl WHO. 
+* **Skillnad sterilitet:** absolut oförmåga att levande barn. 
+
+
+
 ***Etiologi och patofysiologi***
 
-* **Ovulatoriska störningr:** 
-  * hypothalamisk anovulation.
-  *  PCO 
-  * ovariellsvikt
-* **Tubarobstruktion:** 
-  * infektioner
-  * ektopisk graviditet
-  * endometrios
-* **Endometrios**
-* **Uterina orsaker:** 
-  * submukösa leiomyom, 
-  * malformation
-* **Sexuellstörning**: vaginism
-* // klamydia kan försvåra för graviditet; till skillnad fr candida, bakteriell vaginos, HPV som inte påverkar fertilitet
+* **Olika orsaker**
+  * **Ovulatoriska störningr:** 
+    * hypothalamisk anovulation.
+    * PCO 
+    * ovariellsvikt
+  * **Tubarobstruktion:** 
+    * **infektioner**: 
+      * klamydia, gonorre, PID? har att göra med ärrvävnad som bildas och efterföljande adherenser, so mförsvårar för ovums resa ned för tuborna till uterus, samt av fertilisering av ovum med sperimier. Då det är svårt för implantation uteralt, kan orsaka infertilitet. 
+    * **!!! ektopisk graviditet**: 
+      * Notera relationen med **infektioner**. att det är infektionerna som kan påverka tuborna, varpå det ökar sannolikeheten för x-grav
+    * **endometrios**
+  * **Endometrios**
+  * **Uterina orsaker:** 
+    * submukösa leiomyom, 
+    * malformation
+  * **Sexuellstörning**: vaginism
+  * **Postoperativa**: 
+    * kejsarsnitt att det är färre barn efter kejsarsnitt och glesare mellan barnen (vet ej om frivilligt eller ej; kan confounding factor; eller orsaker t kejsarsnitt som hög ålder, eller annan sjjd exempelvis)
+  * **Läkemedel + tidg behandlingar**: 
+    * strålbehandling; cytostatika; NSAID påverkar fovulation; 
+    * spermakvalitet negativt: cimetidin, sulfasalazin, androgener
+  * **Tidigare infektioner**
+    * // klamydia kan försvåra för graviditet; till skillnad fr candida, bakteriell vaginos, HPV som inte påverkar fertilitet
+    * infektioner speciellt  genitalia
+  * operationer i bukhhålan
+  * Hos mannen: ljumskbråck, tidg operationer genitalia, ljumsbråcksoperationer. 
+* **Fekunditet** 
+  * Ålder: komplex o multifaktoriell. ökad medicinska faktorer, hormon, psykosociala faktorer, gyn sjd e.g. myom endometrios o resttillstånd efter infektion har betydelse
+    * 25åå = 31%
+    * 30åå minskad fekunditet
+    * 45åå fåtal kvinnor som blir gravida
+  * 40åå: kraftigt försämrad fekunditet
+    * öakde anovulatoriska cykler
+    * försämrad ovarailfuntkion med färre folliklar, högre 
+    * högre andel defekta oocyter 
+    * högre andek kromosmalt abnorma embryon
+  * **indicens missfall**: 30åå 8-10%; 40åå 30%
+  * livsstil: hög kaffekonsumption, alkohol, rökning, marijuana, övervikt, undervikt
+  * **STI ökar med missbruk, ökad missfallsfrekvens.**
+  * alkohol och lägre spermieantal
+  * låg koitusfrekcens (färre än 1gg i veckan) minskar osså kumulativ graviditetsfrekvens inom ett år. 
+
+
+
+***Indelning***
+
+* **Primär infertilitet**: frånvaro av konception, trots 2års graviditetsförsök
+* **Sekundär infertilitet**: kvinna varit gravid, men sedan inte blivit gravid igen efter 2års försök. 
 
 
 
 ***Epidemiologi***
+
+* vanligt
+* primär infertilitet: 3.5-6.6%
+* sekundär infertilitet: 2-10%
+* 15-20% av alla par b eräknas inte få barn när de önskar. 
+* sterila par: 1% 
+* fekunditet: sannolikhet för konception per menscykel eller per månad
+  * antalet kvinnor som blir gravida per cykel el månad, delat med antalet som försöker bli grav. 
+
+
 
 ***Kliniska kännetecken***
 
@@ -5072,25 +5198,66 @@ cerivicit
 
 ***Utredning och handläggning***
 
+* **i  regel 1år efter oskyddat samlag utan graviditet.** 
+
+* **Förutsättning för infertilitetsutrednin**g
+
+  * förutsätter båda parterna medverkar
+  * samkönade par tillåtsbehandling med insemination eller in vitro fertilisering
+  * enl lag: relation betraktas stabil, paret är gifta, registrerade partners eller samboende för att tillåtas asssterad befrukt. 
+  * praxis: parest levt ihop minst 1 år 
+  * ensamstående tillåts ej befruktas assisterat
+  * heterosex par, haft sex minst 1 år, oskyuddat. 
+  * hög ålder (över 35åå för kvinna)redan klar eller misstänkt fertilitetsnedsättande faktor
+
+* **före utredning:**
+
+  * inga kontraindikationer för behandling grav: allvarlig medicinsk eller psykisk sjd , missruk, annan psykososical problem (barn till omsorgssviktande päron ökad risk för somatisk + psykisk ohälsa)
+  * utredning bör ej göras förrän båda parter åtminstone 19åå; varit myndiga i ett år. 
+  * begränsad utredning kvinnor 40-42åå
+  * INGEN utredning kvinnor efter 43åå, gravmöjligheter mkt små
+
+* **klara sked så tiditg som möjligt**: för att så pass krisande thing, att de behöver få svar asap. 
+
+* **utredningsmål + syfte**: målet infertila paret ska få ett gemensamt barn. förklaring till infertilitet. info om bästa möjliga behandling
+
 * **Anamnes**
+  
   * Ålder
   * Pubertetsutvecklin, tidg sjd
-  * menscykel mönster: amenorre, oligomenorre, ovulationstester
+  * **menscykel mönster**: amenorre, oligomenorre, ovulationstester
+    * helt regelbunden cykel, 28-32d intervall, UTESLUTER i regel ovulationsdefekt
+    * oligomenorre med clängd över 40d + amenorre (>6mån mellan mens): störning ovulationsmekanism
+    * korta cykler (mindre än 26d): störning
+    * oregelbunden intervall, även om inom 26-35d: störning
+  * dysmenorre eller dyspareuni: tda endometrios, ta ställning t indik för laparoskopi föreligger. 
   * tidg grav, även missfall
   * riskfaktorer för tubarskada, operationer
+  
 * **Livsstilsfaktorer**
   * rökning
   * alkohol
   * övervikt förenad med subfebrilitet
   * speciellt hos kvinnor med oligomenorre och PCOS
   * undervikt
+  
 * **Status**
-  * BMI
-  * Acne
-  * tecken åp hyperandrogenism
-  * thyroidea
-  * UL och gynundersökning
+  * **BMI**: övre gräns 30-32 BMI för behandling; 18-19 efterfråga ätstörning. 
+  * **PCOS frågeställning** (acne, hyperandrogenism, hirsutism)
+  * **Acne**
+  * **tecken hyperandrogenism**
+  * **thyroidea**
+  * **gynundersökning**: utesluta anatomiska anomalier
+  
+  * **UL**: endometrietjocklek, ovariers storlek, evt follikel, corpus luteum rel t cykelfas. antal antral folliklar, förekomst randställd folklar, tecken PCOS. 
+    * säckformade äggledare (sektosalpinx) eller cystor ovarier viktiga fiagnostisera
+  
+* **Infektionsprover** (enl bok): båda parter för HBV, HCV, HIV. 
+
+  * **i fall assiterad befruktning aktuell**: enl lag ta HTLV1, HTLV2 och syfilis
+
 * **Diagnostik**
+  
   * **Ovulation:** 
     * UL folliklar, 
     * antal folliklar, 
@@ -5102,11 +5269,16 @@ cerivicit
   * **Tubar**: hystrosonossalpingografi
   * **Endometrios**: anamnes, dysmenorre, smärta, gynekologiskt status, smärtfulla resistenser, ovariecystor
   * **Uterus utseende:** UL
+  
+* // mannen: infek underliv, tidg ljumskbårckoperation, exponering toxisk ämnen, strålning. normalt spermaprov räcker utredningsmässigt för män. 
 
 
 
 ***Behandling***
 
+* Rekommendationer
+  * normal menscykel 26-35d, ovulation 12-14d före mens, på 28d cykel är ovulation d14. efter ovulation ovum lever 1 dygn, spermier 3d (minst). 
+  * bästa konceptionsmöjlighet: samlag inom 2d fr ovulation. 
 * **Ovulationinduktion**
   * antiöstrogen i PCO
   * gonadotropin vid hypothalamisk amenorre
@@ -5715,6 +5887,17 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ### Förlossning: Normal
 
+
+
+***Presentation***
+
+* tre faktorer störst betydelse för förlossningsprocessen ska gå vidare: 
+  * värkarnas styrka
+  * barnets storlek
+  * mammans bäcken
+
+
+
 ***Fysiologi***
 
 *  **Allmänt**
@@ -5737,17 +5920,18 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Faktorer påverkar förloppet***
 
-*  ***Faktorer***
+*  ***Faktorer*** PPPP
+   
    *  **Power:** styrka duration på värkar
-   *  **Passenger:** storlek, bjudning
-   *  **Passenge**: bäcken o mjukdelar
-   *  **Pain / psyche**: fungerande smärtlindring och socialt stöd
-
+   *  **Passenger (som i passagerare på svenska)**: storlek, bjudning
+   *  **Passage**: bäcken o mjukdelar
+*  **Pain / psyche**: fungerande smärtlindring och socialt stöd
+   
 *  **Power - Värkar**
 
    *  **En bra värk**: minst 30s (30-90s), 4-5/10min, påverkar födsel positivt
 
-*  **Passenge**
+*  **Passenger**
 
    *  **Optimal form på bäckenet**: ligament mjuskler möjlighet att töja ut sig för att få ut barnet
       *  rundare pelvis hos kvinnor
@@ -5776,15 +5960,16 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
    *  **socialt stöd:** trygghet, partners roll, teamets roll,  (får bättr eoxytocin)
    *  nutrition
 
-*  **BMI**: 
+*  **Passage**
 
+   *  **BMI**: 
    *  Svårare passenge för att mer fett i o kring underliv,  kring muskler
    *  **Bättre buktryck:** krystar bättre, effektivare, smidigare förlossning, mindre bristningar
-
    
 
    
 
+   
    | <img src="./imgs/gyn_sam_230321_Y83hJjALx8.png" alt="Y83hJjALx8" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_PaFNuIIsAm.png" alt="PaFNuIIsAm" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_AoZ3Ul0TnF.png" alt="AoZ3Ul0TnF" style="zoom: 80%;" /> |
    | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
    | <img src="./imgs/gyn_sam_230321_rp0sM1FJco.png" alt="rp0sM1FJco" style="zoom:50%;" /> |                                                              |                                                              |
@@ -6172,6 +6357,39 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+
+
+### Prematuritet
+
+***Presentation***
+
+* **!! Alva** 
+  * är gravid för första gången. Hon har kommit till vecka 26. Innan hon blev gravid var hon rätt frisk hade bara haft 6-7 urinvägsinfektioner.Graviditeten har varit normal men hon har inte riktigt lyckas sluta röka. Söker nu på KK för tryck nedåt sedan någon dag. Ingen blödning eller vattenavgång. CTG normal för tiden. BT 110/70. Temp 36,9.
+  * mer prover: urinsticka + nitrit
+  * diagnos måste uteslutas: för tidiga värkar. vaginalt UL av cervix bör göras
+
+
+
+***Etiologi och patofysiologi***
+
+* Riskfaktorer för prematur börd; TODO
+  * **Urinvägsinfektion**
+  * 
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
+
+
 ### Signalsubstanser
 
 #### Oxytocin
@@ -6186,7 +6404,12 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+#### Aktiverar uterus
 
+* Oxytocin
+* Prostaglandin
+* Cytokiner
+* Östrogen
 
 ### Storlek foster
 
@@ -6636,13 +6859,20 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+### Placentarel
 
+#### Ablatio
 
-### Blödning Placenta Previa
-
-
+#### Placenta Previa
 
 ***Presentation***
+
+* Ylva 
+  * ringer hemifrån till vårdcentralen. Hon är gravid I vecka 39. Hon väntar sitt andra barn. Förra förlosningen och graviditeten var utan problem. Hon har haft en liten röd blödning efter samlag. Magen känns litet spänd. a..
+  * Vilka råd ger du henne? (1p) akut in till KK
+  * 2 diagnoser måste beaktas: placenta previa, ablatio av placenta
+
+
 
 ***Etiologi och patofysiologi***
 
@@ -6653,6 +6883,10 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Utredning och handläggning***
 
 ***Behandling***
+
+
+
+
 
 
 
@@ -6672,6 +6906,13 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **kvinna 25åå**
   * söker för blödningar och misstänkt missfall. SM var 9v sedan, men har ej bekräftats av UL. nu på UL ser man tom kavitet
   * **handläggning:** blr PUL (preg unknown loc); S-hCG nu, åb 2d senare för ny s-hCG, som ska sjunka. Annars x-grav!
+* **Lena**
+  * kommer för kontroll p.g.a. blödning och smärta i graviditetsvecka 11. Detta är hennes förstagraviditet efter en IVF-behandling. Hon säger att hon blöder rikligt sedan 30 minuter och du ser relativt riklig blödning vaginalt vid inkomsten till sjukhuset. Lena har ont. Du konstaterar med ultraljud att graviditeten ligger kvar i uterus och har avstannat tidigare. Fostret motsvarar vecka 7. Detta bekräftas även av en specialist i obstetrik och gynekologi. Cervix ses öppen 1cm. Lena har Hb 128, blodtryck 110/70 och puls 78. Detta är ett pågående missfall.
+* 28åå Frida
+  *  och kommer in i graviditetsvecka 9 med en liten blödning samt minskat illamående. UL ser man tom hinnsäck, ofostrig graviditet, blighted ovum
+  * för ställa diagnos måste hinnsäck större än 25mm. vf viktigt inte diagnos tidigarE: inte döma ut viabel graviditet
+  * om hinnsäck mindre 25mm: ta tillbaka patienten om 1 vecka
+  * 
 
 
 
@@ -6791,36 +7032,36 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Behandling***
 
-* Komplett abort: exspektans 1-2v
+* **Komplett abort**: exspektans 1-2v
 * **Missfall <v12**: symptom styr beh ej UL. bokning abort mottagning för beh alternativ + second opinion UL. LKM admin ssk el BM.
   * **Exspektans 2-3v**
     * **inkomplett missfall**: >80% kompletta av sig sj inom 2v. Då (inom 2v) kan pat boka tid ÖPV gyn för kontroll, om önskar
     * **Uteblivet missfall**: då sluten cervix + ringa blödning, svårare lösa sig sj; tid ombesörjas ÖPB gyn el ST mottagning om ca 14d. Om oförändrat status efter exspektans genomförs medicinsk eller kirurgisk behandling
   * **Medicinsk behandling**
-    * Allmänt
+    * **Allmänt**
       * Påskyndar förlopp
       * rekas 1a hand uteblivet missfall
       * om hemma el avdelning: blödningen + förväntad blödning + evt sjd hos pat
       * uteblivet missfall v10+1-v11+6: behandling på dagvården
     * **Inkomplett missfall**: misoprostol engångsdos 3x0.6mg po eller 2x0.4 siblingualt
     * **Uteblivet missfall**: som vid inducerad abort
-      * dag1: mifepriston 200mg po
-      * dag2/3: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
+      * **dag1**: mifepriston 200mg po
+      * **dag2/3**: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
         * om ej börjat blöda inom 3h: upprepad misoprostol 2x0.4mg vaginalt, subling, el peroralt
-    * analgetika + antiemetika: paracetamol ; ibuprofen; oxynorm; metoklopramid
+    * **analgetika + antiemetika**: paracetamol; ibuprofen; oxynorm; metoklopramid
   * **Kirurgisk behandling**
     * 1a val vid misslyckad medicinsk beh / cirk påverkad pat / ymnig blödning
     * **infektion, ab**: helst minst 1d innan op: minska risk perforation; iv ab om inläggning
     * **förbehandling 1h innann op**: misoprostol 2x0.4mg subling
     * **!! Rh-profylax**: till Rh-neg vid alla kirurgiska interventioner
-* Missfall > 12+0v
-  * kurator (+psykologisk) kontakt.
+* **Missfall > 12+0v**
+  * **kurator (+psykologisk) kontakt.**
   * **Pågående missfall**
     * **!!! inlägging avdelning**: TODO
     * kraftig blödning: direkt misoprostol 3x0.6mg po el 2x0.4mg subling. behandling kan upprepas
     * infektionstecken (feber, ökad infek prover): iv ab behandling
-    * endast ringa blöd el vattenavgg: förlopp exspekteras. 
-      * beh som uteblivet missfall: foster inte längre viabelt. 
+    * **endast ringa blöd el vattenavgg:** förlopp exspekteras. 
+      * **beh som uteblivet missfall**: foster inte längre viabelt. 
   * **Uteblivet missfall**
     * flesta fall ej behöva beh samma dag, utan BM el ssk kan obesörja tid för beh på avdelning
     * **d1**: mifepriston 200mg po på abortmottgning

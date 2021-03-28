@@ -161,6 +161,38 @@ cerivicit
 
 
 
+## Allmänt
+
+### Inkontinens
+
+
+
+#### Blandinkontinens
+
+#### Stressinkontinens
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+* Kan botas med kirurgi
+
+
+
+#### urgeinkontinens
+
+
+
+
+
 ## Anatomi
 
 ### Allmänt
@@ -1341,6 +1373,12 @@ cerivicit
 
 ## Endokrinologi
 
+###  HRT-behandling
+
+***Behandling***
+
+* **HRT + gestagen:** för att hindre endometrieproliferation och cancer hos pat med uterus kvarr
+
 ### Hyperprolaktinemi
 
 
@@ -1639,19 +1677,22 @@ cerivicit
 ***Etiologi och patofysiologi***
 
 * många olika orsaker till amenorre, som alla tillhör olika grupper
-* Endokrinologiskt
-  * **hyperprolaktinemi**
-  * **PCOS**
-  * **thyroideadysfunktion**
-* **ovariellsvikt**
-* Kongenitalt
-  * **kromosomrubbningar**
-  * **missbildningar**
-* MISC (men viktiga)
-  * **viktnedgång, anorexia nervosa**
-  * **intensiv träning:** idrottsamenorre
-  * **emotionell stress**
-  * **Nutritionella orsaker**: vid dåligt nutritinsstatus att IGF1 sjunker. IGF1 agerar stimulerande på GnRH, vilket därför inte sker när man har dålig nutrition, varpå GnRH sjunker. 
+* Indelningar etiologi
+  * **endokrinologiskt**
+    * hyperprolaktinemi
+    * PCOS
+    * thyroideadysfunktion
+  * **ovariellsvikt**
+  * **kongenitalt**
+    * kromosomrubbningar
+    * missbildningar
+  * **misc (men viktiga)**
+    * viktnedgång, anorexia nervosa
+    * intensiv träning: idrottsamenorre
+    * emotionell stress
+    * Nutritionella orsaker: vid dåligt nutritinsstatus att IGF1 sjunker. IGF1 agerar stimulerande på GnRH, vilket därför inte sker när man har dålig nutrition, varpå GnRH sjunker. 
+* **sekundär amenorre**: 
+  * grabviditet vanligaste orsaken
 
 
 
@@ -2207,6 +2248,12 @@ cerivicit
 
 
 
+***Organanläggning***
+
+* HJärta: hjärtat utvecklas mellan v7-10
+
+
+
 ***Takt***
 
 * **Tidig grav**: mkt hög
@@ -2217,9 +2264,15 @@ cerivicit
 
 ### Fysiologi
 
-* **Viktuppgång under graviditet:** 
+* En del av källorna är fr Bernebrandt
+
+#### **Viktuppgång under graviditet:** 
   * **för normalviktig kvinna:** 10-12kg 
-* **Hjärta och cirkulation**
+
+
+
+#### **Hjärta och cirkulation**
+
   * **Ökad cardiac output**: t bla bröst, hud, njurar o uterus
   * **Sänkt BT**: BT öndras under grav osså
   * **Blodvolym ökar**: plasmavolym ökar 30-40%.
@@ -2235,30 +2288,50 @@ cerivicit
     * TPK oförändrat
     * Hb sjunker
     * EVF sjunker
-* **Njurfunktion**
+
+
+
+#### **Njurfunktion**
+
   * **GFR ökar med 50%**: 
     * S-krea och S-urea sjunker
     * Na-utsöndring ökar: pga ökad GFRm ökad progesteron, sjunkande albumin (tubulär påverkan ger minskad resorption albumin)
   * **albumin sjunker**: minskad tubulär resorption albumin
   * **nettoeffekt, ökad Na-retention**: pga högre motsatt effekt av aldosteron, östrogen, dexycortison, hPL
-* **Leverfunktion**
+
+
+
+#### **Leverfunktion**
+
   * **ALP ökar x2**: ASAT, ALAT, och bilirubin oförändrad
   * **Albumin minskar**: med 20%, även pga ökad utsöndring via urin
   * **Kolesterol ökar x2**: 
   * **Fibrinogen ökar 50%**: ökad trombosrisk
-* **Respiratoriska systemet**
+
+
+
+#### **Respiratoriska systemet**
+
   * **Svullnad luftvägarnas slemhinnor:**
   * **förändring thoraxform, ökad tidalvolym 40%**
     * syrekonsumtion ökar med 20%
   * **Blodgas**: 
     * po2 oförändrat
     * pCo2 sänks pga minskad alveolär + arteriell kolsyrespänning
-* **Förändring skelett muskler**
+
+
+
+#### **Förändring skelett muskler**
+
   * **Uppluckring** (foglossning?)
     * symfysen, 
     * sacroiliacalederna och 
     * sacrococcygeusleden
-* **Förändringar GI-kanal**
+
+
+
+#### **Förändringar GI-kanal**
+
   * **ökad aptit o törst**
   * **illamående**: hyperemesis
   * **PICA**: att man äter för mkt? 
@@ -2266,15 +2339,27 @@ cerivicit
   * **Obstipation, **
   * **förlångsammad venrkeltömning, **
   * **ökad surhetsgrad ventrikeln**
-* **Förändringar i metabolismen**
+
+
+
+#### **Förändringar i metabolismen**
+
   * **Basalmetabolismen ökar**: 15-20%
     * kcal ökar med 300kcal/d = 2 smörgåsar ca
-* **Huden**
+
+
+
+#### **Huden**
+
   * **Chloasma**: ökad pigmentering ansikte, ofta symmetrisk. även vissa p-pill
   * **spider naevi**: telangiektasi. 2:3 ljushyade. främst första o andra ditrikitet
   * **striae**: hudbrustning
   * **palmar-erythem**: 2:3 ljushyade
-  * **linea nigra**: mörk strimma mitt åp magen
+  * **linea nigra**: mörk strimma mitt på magen
+
+
+
+
 
 
 
@@ -2806,6 +2891,18 @@ cerivicit
 
 
 
+
+
+### 	Teratogen
+
+***Teratogena ämnen***
+
+* Litium
+* Warfarin, waran
+* Valproat
+
+
+
 ### Thyroidea
 
 #### Hypothyreos
@@ -3155,13 +3252,7 @@ cerivicit
 
 ***Etiologi och patofysiologi***
 
-* **transmissionväg för kongenital herpes simplex**: Intrapartalt
-* **primär infektion hos mamma, rIsk vertikal transmission t neonat, vid förlossning = 30-60%**
-  * gm förlossning
-  * cervikal ciral shedding
-  * kan vara transplacentl
-* **primär infektion**: att mamman får d för första gången. 
-  * **inga antikroppar som passerat över**: för att primäör infektion passerar ingen transplacentärt, så spädbarnet har inget som kan skydda det när den exponeras för viruset. 
+* 
 
 ### HIV
 
@@ -3330,20 +3421,14 @@ cerivicit
 
 
 
-
-
-
-
 ***Kliniska kännetecken***
 
-* **Grå-vit vattning discharge**
+* **Grå-vit vattning discharge** (grågul nämns osså)
 * **illaluktande flytning**
 * **3 av 4 amsels kriterier**
   * tunn 
   * honogen ofta bubblig flytning
 * **Clue cells**: dessa är bakterier som adhererar till slemhinne celler, som man i sin tur kan se när man mikroskoperar skrap fr dessa patienter (eller flytningar?)
-
-
 
 
 
@@ -3468,6 +3553,19 @@ cerivicit
 
 
 
+### GBS
+
+
+
+***Riskafkotrer för neonatal GBS infektion***
+
+* feber under förlossning
+* chorionamnionit
+* tidigare barn med GBS infektion
+* tidigare IUFD
+
+
+
 ### Genital infektion
 
 
@@ -3492,13 +3590,18 @@ cerivicit
 
 ***Utrending och handläggning***
 
-* Anamnes
+* **Anamnes**
   * partner,
   * har du haft sex
   * vem, vilkar har du sex
   * typ av sex
 
 
+
+***Behandling***
+
+* EJ behöver partnerbehandlas: herpes, bakteriell vaginos, HPV, svamp
+* behöver partnerbehandling: gonorre, trichomonas
 
 
 
@@ -3550,11 +3653,21 @@ cerivicit
 
 ***Etiologi och patofysiologi***
 
-* Genital herpes: 
+* **Genital herpes**: 
   * 60% HSV2
   * 40% HSV1
-* Recurrent infektion: HSV2
-* shedding: 
+* **Recurrent infektion**: HSV2
+* **shedding:** 
+
+* **Kongenital herpes**
+  * **transmissionväg för kongenital herpes simplex**: Intrapartalt
+  * **primär infektion**: att mamman får d för första gången. 
+    * **inga antikroppar som passerat över**: för att primär infektion passerar ingen transplacentärt, så spädbarnet har inget som kan skydda det när den exponeras för viruset. 
+  * **primär infektion hos mamma, rIsk vertikal transmission t neonat, vid förlossning = 30-60%**
+    * gm förlossning
+    * cervikal viral shedding
+    * kan vara transplacentärt
+  * **recidiv herpes, risk vid vaginal förlossning**: 1-2%
 
 
 
@@ -3605,7 +3718,7 @@ cerivicit
   * konjunktivit
   * bartolinit
   * reaktiv artrit
-* Barn: barn kan smittas vid födsel: konjunktivit, pneumoni
+* **Barn: barn kan smittas vid födsel:** konjunktivit, pneumoni
 
 
 
@@ -3626,12 +3739,16 @@ cerivicit
 
 ***Utredning och handläggning***
 
-* Provtgning för: NAAT
+* **Provtgning för**: NAAT
   * cervix eller vaginalvägg
   * ev förstaportion urin
   * EJ enbart urinprov på kvinnor
   * övriga lokaler bas på anamnes: rektalprov, ögon
-* barn kan smittas vid födsel: konjunktivit, pneumoni
+* **barn kan smittas vid födsel**: konjunktivit, pneumoni
+* **Åtgärder som kräver positivt klamydiaprov**
+  * **anmälan smittskyddsläkare**
+  * **behandling av pat**
+  * **smittspårning, provtagning och behandling av partner**
 
 
 
@@ -3885,7 +4002,21 @@ cerivicit
 
 
 
+### Toxoplasma
 
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* transmissionsväg kongenital toxoplasma: transplacentärt intrauterint
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
 
 ### Tubor, Salpingit
 
@@ -4670,7 +4801,9 @@ cerivicit
 
 ***Allmänt***
 
-* Två alternativ förekommer: progesteron (gestagen) only metod eller kombinerade med östrogen + progesteron (gestagen)
+* **Två alternativ:** 
+  * progesteron (gestagen) only metod eller 
+  * kombinerade: östrogen + progesteron (gestagen)
 
 
 
@@ -4684,7 +4817,7 @@ cerivicit
     * **Atrofisk slemhinna**: därför att man aldrig kommer ur lutealfasen och in i follikelfasen där östrogen ensamt stiger, kommer endometrieslemhinnan aldrig att prolifera.  
 * **Resultat**
   * **hämmar ovulation**: det är gestagenet som gör att man inte ägglossar
-  * **hindrar spermier** fr att *penetrera cervix*: i.e. de kommer ej förbi portio
+  * **hindrar spermier**: fr att *penetrera cervix*: i.e. de kommer ej förbi portio
 
 
 
@@ -4836,7 +4969,7 @@ cerivicit
 
 ***Effektivitet preventivmedel***
 
-* nexplanon är världens mest effektiv preventivmedel: sitter den i armen är den fit and forget, kommer att fungera bra. 
+* **nexplanon är världens mest effektiv preventivmedel**: sitter den i armen är den fit and forget, kommer att fungera bra. 
 * användarberoende metoderna: att man ska behöva göra ngt, då märker man att skillnad perfekt användning jfr typisk användning att det finns väldigt stor skillnad
   * kvinnor har inte koll på skillnadi effektivitt
 * unga kvinnor: dåliga med preventivmedel; visar att långtidspreventuivmedel är mkt effektivare. att kortverkande kvinnor många under 21åå som blir gravida jfr över 21.
@@ -4867,6 +5000,7 @@ cerivicit
   * submukösa leiomyom, 
   * malformation
 * **Sexuellstörning**: vaginism
+* // klamydia kan försvåra för graviditet; till skillnad fr candida, bakteriell vaginos, HPV som inte påverkar fertilitet
 
 
 
@@ -4894,13 +5028,13 @@ cerivicit
   * BMI
   * Acne
   * tecken åp hyperandrogenism
-  * thyroide
+  * thyroidea
   * UL och gynundersökning
 * **Diagnostik**
   * **Ovulation:** 
     * UL folliklar, 
     * antal folliklar, 
-    * niormal mens
+    * normal mens
     * S-progesteron
     * TSH
     * FSH,
@@ -4965,6 +5099,7 @@ cerivicit
   * **Verkar via  blodet**: väldigt viktigt att förstå enl FL, att p-ringen verkar via blodet
 * ***Mycket jämnr serum-koncetration hormon***
 * **Mängd hormoni**: FL kommenterade ej mängden hormon
+* TODO: är det denna som hon starkt rekommenderade? man kan faktiskt se p-rings koncentrationerna ovan
 
 
 
@@ -4990,6 +5125,14 @@ cerivicit
 ***Diagnos***
 
 * Tidpunkt för sista menstruation definieras efetr 1års amenorré
+
+
+
+***Kliniska kännetecken***
+
+* Hormonellt
+  * FSH, LH ökar
+  * östrogen, progesteron sjunker
 
 
 
@@ -5869,7 +6012,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-### Förlossning - åtgärder
+### Förlossning: åtgärder
 
 * Hinnsvepning: att man med fingrarna sveper runt öppning, och hinnan, expanderar och irriterar hinnan för att inducera värkar o initiering förlossning. 
 
@@ -6009,13 +6152,20 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+***Substanser som mnskar kontraktilitet i uterus***
+
+* Progesteron
+* Atosiban
+* Terbutalin
+* (= tocolytica?)
+
 
 
 ### Värsvaghet
 
 ***Definition***
 
-* INgen enighet om denna för värksvaghet, när åtgärd, vilken åtgärd och dos oxytocin-dropp
+* Ingen enighet om denna för värksvaghet, när åtgärd, vilken åtgärd och dos oxytocin-dropp
 
 
 

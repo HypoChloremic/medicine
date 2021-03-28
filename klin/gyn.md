@@ -2606,6 +2606,15 @@ cerivicit
   * MVC
   * och väntar sitt första barn i vecka 26. Hon besväras av trötthet. Hennes Hb är 101 och hon använder ingen behandling. Vilken är den vanligaste orsaken till anemi under graviditet? (1p)
     * järnbrist
+* 27åå kvinna, TODO
+  *  som söker asyl och nyligen kommit från Syrien. Hon väntar sitt första första barn. Du möter henne på MVC. Hon är i vecka 26 och barnmorskan undrar hur hon skall hantera ett Hb på 112. Vid nästa kontroll ca 3 veckor det sjunkit till 104. (4p)
+  * Resonera runt de två värdena och hur man skall tänka beträffande utredning:
+    * Hb 112 v26 != anemi
+    * Hb 104 v29 = anemi
+    * Provbehandlar med järn 2-3v? sedan uppföljning av effekt. 
+  * med vilka proveR?
+  * hur ska provsvar bedömas?
+  * ngt särkilt du bör tänka på?
 
 
 
@@ -2983,7 +2992,165 @@ cerivicit
 
 
 
+### Preeklampsi
 
+
+
+***Presentation***
+
+* **Jie kommer på efterkontroll.** 
+  * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
+  * Fyra möjliga orsaker till den stora blödningen
+  * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
+* **Pat 35åå**
+  * preeklampsi
+  * nu ihållande bradykardi på CTG 
+  * ska misstänka placenta ablatio 
+* **pat 35åå** 
+  * tidigare snittad
+  * nu ihållande bradykardi på CTG 
+  * ska misstänka uterus ruptur
+
+
+
+***Allmänt***
+
+* aka havandeskapsförgiftning
+
+
+
+***Diagnos***
+
+* **Hypertoni** efter v20 + [proteinuri eller andra former av organskada]
+* **Blodtrycket**: över 140, två mätningar 4-6 timmars mellanrum
+  * förutsatt att mamman inte haft hypertoni innan graviditet
+
+
+
+***Etiologi och patofysiologi***
+
+* **trofoblaster, decidua, spiralartärer:** Trofoblasterna, när invadera decidua går gm myometriet och infiltrerar spiralartärerna som försörjer uterus
+* **spiralartärer abnormala**: Abnormal utveckling v blodkärlen i placenta
+* **placenta underperfusion**: om dålig access till spiralartärerna kommer den försörjas dåligt
+  * Senare i graviditet ökar syreförsörjning till placentan fysiologiskt
+  * placentan har ett större syrgasbehov
+  * men pga defekten i blodförsörjningen kommer man att märka av defekten nu
+* **placenta inflammatoriska mediatorer**: börjar frisätta inflam mediatorer, som
+* **endotel dysfunktion, hypertoni**: pga inflam mediatorer (antiangiogena faktorer) fr placenta
+  * tonus i blodkärlen påverkas
+  * producerar **hypertoni**
+  * kärlen blir mer genomsläppliga -> proteinuri, ödem, ökad leverenzymer pga dysfunktionen, tillväxthämning foster
+  * mikroangiopatisk hemolys
+  * vasokonstriktion, manifesteras kliniskt som hypertoni
+* **endotel skada**, trombos: frisätter sina faktorer och ökar risken för trombos
+* **sjunkande blodflöde till placenta:** pga systemisk vasokonstriktion inklusive till placenta, 
+  * akut uteroplacental insufficiens
+  * resulterar i placentar ablatio eller fetal hypoxi
+* ***Systemisk vasokonstriktion, maternellt***: generealiserade arteriolär vasokonstriktion
+  * **kramper**
+  * **stroke**
+  * **njurar**: oliguri, njursvikt
+  * **lungor**: lungödem
+  * **lever**: ödem, subkapsulär hematom
+  * **små blodkärl:** trombocytopeni, DIC
+* ***Tidmässigt***: definieras som efter v20, men sker 5%-6% av alla live births. 
+  * vanligast efter tredje trimestern,. near term
+  * 
+
+
+
+***Komplikationer till preeklampsi***
+
+* **fetala**
+  * **Relaterat t prematuritet**
+    * Akut uteroplacental insufficiens
+    * placental infarkt och eller ablatio
+    * intrapartum fetal distress
+    * stillbirth - i svåra fall
+  * **Kronisk uteroplacental insufficiens**
+    * asymmetrisk and symmetrisk SGA fetuses
+    * IGUR
+  * **Oligohydramnios**
+  * **IUGR**: intrauterine-growth restriction
+  * **placentär ablatio**
+  * **fetal hypoxi**
+* **maternella**
+  * **medicinska manifestationer**
+    * **kramper**
+    * **cerebral blödning**
+    * **njurar**: oliguri, njursvikt
+    * **lungor**: lungödem
+    * **lever**: leverruptur, ödem, subkapsulär hematom
+  * **obstetriska komplikationer**
+    * uteroplacental insufficiens
+    * placental ablatio
+    * ökad prematur förlossning
+    * ökad kejsarsnitt förlossning
+  * **små blodkärl:** trmobcytopeni, DIC
+* **! long-term komplikationer**
+  * **! ökad risk för kardiovaskulär sjukdom senare i livet**
+
+
+
+***Riskfaktorer***
+
+* **Primär sjd relaterat**
+  * **kronisk hypertensuion**
+  * **kronisk njursjd**
+  * **DM2**
+  * **antifosfolipid syndrom APLS**
+  * **kollagen vaskulär sjd:** SLE
+  * **pregestationell diabetes**
+  * **african-ameria**
+  * **maternell ålder:** under 20åå, över 35
+* **Primör immunrelterat**
+  * nullipara
+  * tidigare preekmlampsi
+  * multiple gestation
+* **immunoegena**
+  * **multipara men ny man**: samma risk som nullipara.
+  * **multipel gestation**: i.e. tvillingar o grejor, att fler foster implanterade
+  * **abnormal placentation**: 
+  * **ny paternitet:** att det är en ny pappa
+* **Familjehistorik**
+  * female relatives of parturient
+  * mother-in-law
+  * cohabitation under 1år
+
+
+
+***Skyddande faktor (minskad relativ risk)***
+
+* **Multipara utan tidigare preeklampsi**
+* **Ett barn, inte tvillingar etc**
+* **Rökning:** verkar sänka risken...
+
+
+
+***Utredning och handläggning***
+
+* **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
+* **Om mamma inte jättesjuk o diffar preeklampsi**
+  * **U-sticka**
+  * **lilla-tox**: Hb, TPK, ALAT, Krea, urat
+* **svårt sjuk o diffar preeklampsi**
+  * **stora-tox**: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, 
+    * diffa preeklampsi mot HELLP (hemolysis-elevated liver enzymes-low platelet count syndrome)
+
+
+
+***Behandling***
+
+* **Riskfaktor reduktion**
+  * **ASA**
+  * **Folsyra**
+  * **viktkontroll, minska BMI**
+  * **kontroller i ny grav:** UL, BT
+  * **screening**: finns ingen bra metod, osäekert man gör med infon
+  * **Sluta röka**
+  * **hålla normal vikt**
+  * **motionera**
+  * **kontrollera blodtryck i framtiden**
 
 
 
@@ -7121,165 +7288,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * FARG råd för behandling av missfall, 2020
 * NICE guidelines 2012 (updated 2017)
 
-### Preeklampsi
-
-
-
-***Presentation***
-
-* **Jie kommer på efterkontroll.** 
-  * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
-  * Fyra möjliga orsaker till den stora blödningen
-  * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
-* **Pat 35åå**
-  * preeklampsi
-  * nu ihållande bradykardi på CTG 
-  * ska misstänka placenta ablatio 
-* **pat 35åå** 
-  * tidigare snittad
-  * nu ihållande bradykardi på CTG 
-  * ska misstänka uterus ruptur
-
-
-
-***Allmänt***
-
-* aka havandeskapsförgiftning
-
-
-
-***Diagnos***
-
-* **Hypertoni** efter v20 + [proteinuri eller andra former av organskada]
-* **Blodtrycket**: över 140, två mätningar 4-6 timmars mellanrum
-  * förutsatt att mamman inte haft hypertoni innan graviditet
-
-
-
-***Etiologi och patofysiologi***
-
-* **trofoblaster, decidua, spiralartärer:** Trofoblasterna, när invadera decidua går gm myometriet och infiltrerar spiralartärerna som försörjer uterus
-* **spiralartärer abnormala**: Abnormal utveckling v blodkärlen i placenta
-* **placenta underperfusion**: om dålig access till spiralartärerna kommer den försörjas dåligt
-  * Senare i graviditet ökar syreförsörjning till placentan fysiologiskt
-  * placentan har ett större syrgasbehov
-  * men pga defekten i blodförsörjningen kommer man att märka av defekten nu
-* **placenta inflammatoriska mediatorer**: börjar frisätta inflam mediatorer, som
-* **endotel dysfunktion, hypertoni**: pga inflam mediatorer (antiangiogena faktorer) fr placenta
-  * tonus i blodkärlen påverkas
-  * producerar **hypertoni**
-  * kärlen blir mer genomsläppliga -> proteinuri, ödem, ökad leverenzymer pga dysfunktionen, tillväxthämning foster
-  * mikroangiopatisk hemolys
-  * vasokonstriktion, manifesteras kliniskt som hypertoni
-* **endotel skada**, trombos: frisätter sina faktorer och ökar risken för trombos
-* **sjunkande blodflöde till placenta:** pga systemisk vasokonstriktion inklusive till placenta, 
-  * akut uteroplacental insufficiens
-  * resulterar i placentar ablatio eller fetal hypoxi
-* ***Systemisk vasokonstriktion, maternellt***: generealiserade arteriolär vasokonstriktion
-  * **kramper**
-  * **stroke**
-  * **njurar**: oliguri, njursvikt
-  * **lungor**: lungödem
-  * **lever**: ödem, subkapsulär hematom
-  * **små blodkärl:** trombocytopeni, DIC
-* ***Tidmässigt***: definieras som efter v20, men sker 5%-6% av alla live births. 
-  * vanligast efter tredje trimestern,. near term
-  * 
-
-
-
-***Komplikationer till preeklampsi***
-
-* **fetala**
-  * **Relaterat t prematuritet**
-    * Akut uteroplacental insufficiens
-    * placental infarkt och eller ablatio
-    * intrapartum fetal distress
-    * stillbirth - i svåra fall
-  * **Kronisk uteroplacental insufficiens**
-    * asymmetrisk and symmetrisk SGA fetuses
-    * IGUR
-  * **Oligohydramnios**
-  * **IUGR**: intrauterine-growth restriction
-  * **placentär ablatio**
-  * **fetal hypoxi**
-* **maternella**
-  * **medicinska manifestationer**
-    * **kramper**
-    * **cerebral blödning**
-    * **njurar**: oliguri, njursvikt
-    * **lungor**: lungödem
-    * **lever**: leverruptur, ödem, subkapsulär hematom
-  * **obstetriska komplikationer**
-    * uteroplacental insufficiens
-    * placental ablatio
-    * ökad prematur förlossning
-    * ökad kejsarsnitt förlossning
-  * **små blodkärl:** trmobcytopeni, DIC
-* **! long-term komplikationer**
-  * **! ökad risk för kardiovaskulär sjukdom senare i livet**
-
-
-
-***Riskfaktorer***
-
-* **Primär sjd relaterat**
-  * **kronisk hypertensuion**
-  * **kronisk njursjd**
-  * **DM2**
-  * **antifosfolipid syndrom APLS**
-  * **kollagen vaskulär sjd:** SLE
-  * **pregestationell diabetes**
-  * **african-ameria**
-  * **maternell ålder:** under 20åå, över 35
-* **Primör immunrelterat**
-  * nullipara
-  * tidigare preekmlampsi
-  * multiple gestation
-* **immunoegena**
-  * **multipara men ny man**: samma risk som nullipara.
-  * **multipel gestation**: i.e. tvillingar o grejor, att fler foster implanterade
-  * **abnormal placentation**: 
-  * **ny paternitet:** att det är en ny pappa
-* **Familjehistorik**
-  * female relatives of parturient
-  * mother-in-law
-  * cohabitation under 1år
-
-
-
-***Skyddande faktor (minskad relativ risk)***
-
-* **Multipara utan tidigare preeklampsi**
-* **Ett barn, inte tvillingar etc**
-* **Rökning:** verkar sänka risken...
-
-
-
-***Utredning och handläggning***
-
-* **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
-* **Om mamma inte jättesjuk o diffar preeklampsi**
-  * **U-sticka**
-  * **lilla-tox**: Hb, TPK, ALAT, Krea, urat
-* **svårt sjuk o diffar preeklampsi**
-  * **stora-tox**: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, 
-    * diffa preeklampsi mot HELLP (hemolysis-elevated liver enzymes-low platelet count syndrome)
-
-
-
-***Behandling***
-
-* **Riskfaktor reduktion**
-  * **ASA**
-  * **Folsyra**
-  * **viktkontroll, minska BMI**
-  * **kontroller i ny grav:** UL, BT
-  * **screening**: finns ingen bra metod, osäekert man gör med infon
-  * **Sluta röka**
-  * **hålla normal vikt**
-  * **motionera**
-  * **kontrollera blodtryck i framtiden**
+* * 
 
 ### Termer och definitioner
 

@@ -12,7 +12,13 @@
 
 ### Fall 1 
 
-**Lotta 27 år inkommer till akuten i graviditetsvecka 12 pga en mindre vaginal blödning som debuterat under dagen. Hon är orolig för missfall. Vad vill du veta mer om Lotta?** 
+**Lotta 27 år inkommer till akuten i graviditetsvecka 12 pga en mindre vaginal blödning som debuterat under dagen. Hon är orolig för missfall. **
+
+
+
+
+
+***Vad vill du veta mer om Lotta?*** 
 
 * **Tidigare sjukdomar, tidigare graviditeter, missfall?** 
 * **Tobak, alkohol**
@@ -62,7 +68,7 @@
   - symmetrisk? rucköm?
 - **rektovaginal undersökning**: för att utreda blödningskälla.
 - det är för tidigt att *höra* fosterljud med tratt
-- **vaginalt Ul**: för att titta på fosterljudet...
+- **vaginalt UL**: för att titta på fosterljudet...
 
 
 
@@ -144,11 +150,11 @@
   * Rekommenderar man medicinsk abortbehandling om pat säg v8 kan man använda grav test; om det fortf positivt får man höra av sig
 * **Expektans ca 1-2 veckor**. 
   * De flesta vill inte vänta. 
-  * Uteblivna missfall kan man göra direkt medicinsk för de ordnar inte upp sig själva. 
+  * **Uteblivna missfall kan man göra direkt medicinsk för de ordnar inte upp sig själva**. 
   * Om inkompletta blir de ofta kompletta av sig självt. 
   * Om det blöder mycket och är inkomplett är det inte rätt med expektans, då kanske man måste göra exeres. 
 * **Kirurgi**
-  * vakumaspiration; vakumexeres: kommer vara säker att man har tömt uteruskaviteten
+  * **vakumaspiration; vakumexeres**: kommer vara säker att man har tömt uteruskaviteten
   * tittar man därför inte U-hCG efteråt
 * u-hcg att man ttitar på om långvariga blödingsproblem eller konstig menstruationscykel att man tittar U-hCG för att bedöma om det finns en kvarvarande rest. 
 
@@ -163,7 +169,7 @@ Upp till varannan graviditet leder till missfall och 10-20% är konstaterade så
 * Det går alldeles utmärkt att försöka bli gravid igen så länge hon känner sig redo. 
 * Rökstopp och ställa in diabetesen. 
 * För att bli gravid behöver normal ägglossning: har man rester innebär att man har hcg kvar som hindrar ägglossning etc.
-* noter att paitenten kan ha rester kvar i flera månader, som kan kräva att man behöver göra hysteroskopisk kirurgi. 
+* notera att paitenten kan ha rester kvar i flera månader, som kan kräva att man behöver göra hysteroskopisk kirurgi. 
 * // Det vanlig att när missfall börjat att man får ut allt, varpå efter får en normal menstruationscykel. Kvarvarande rester är en potentiell komplikation; läk säger att det blir svårt att bli gravid innan alla rester är ute. 
 
 

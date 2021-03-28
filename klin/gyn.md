@@ -37,10 +37,58 @@
 
 ### Ektopisk graviditet
 
+***Presentation***
+
+* Linda, en 26-årig
+  *  väsentligen frisk kvinna, söker dig på grund av lågt sittande buksmärta med viss utrstrålning mot ryggen och vaginal blödning. Hon lever i ett fast förhållande sedan 2 år och använder kondom som preventivmedel. Linda är 0-gravida. Hon säger att hon har mer ont åt vänster sida nedtill. Hb 90 g/l, Puls 115, Bltr 100/60. Vid bukpalpation finner du en rejält öm buk mer åt vänster. Buken känns också spänd.Gynekologisk undersökning: vid inspektion av vagina ses sparsam blödning ur cervix, uterus något förstorad, vä adnexa känns också förstorat och hon ömmar över detta. 
+  * Med ULJ ser du ingen viabel intrauterin graviditet, men ökad mängd vätska i Fossa Douglasi. S-HCG är 5600. Du bestämmer dig att operera Linda laparoskopiskt pga en misstänkt extrauterin graviditet med blödning.
+  * operativa laparoskopisjka metoder för tubargrav: tubotomi eller salpingektomi
+  * risker ena metod jfr andra: trofoblast väv kvar i tuba vid tubotomi
+  * postoperativ uppföljning: s-hCG vid tubotomi
+  * 
+
+
+
+***Allmänt***
+
+* Extrauterin grav = x-grav = ektopisk graviditet
+
+
+
 ***Etiologi och patofysiologi***
 
 * observationer fr ektopiska grav, transmigration äggceller t *andra sidans tuba* kan ske
   * möjligen pga peritonealvätska i fossa douglasi
+* **Tubargraviditet**: 97-99% av alla X-gravs är tubargraviditeter
+
+
+
+***Epidemiologi***
+
+* 2% av alla grav?
+
+
+
+***Kliniska kännetecken***
+
+* Ensidig buksmärta: e.g. i ena fossan
+* Defence?
+* 
+
+
+
+
+
+***Utredning och handläggning***
+
+* **S-hCG**: fördubblas på 2dygn vid viabel intrauterin grav (<= 8v)
+  * halveras på 2 dygn vid avsaknad nyproduktion
+
+***Behandling***
+
+
+
+
 
 ### PID
 
@@ -4357,6 +4405,14 @@ cerivicit
   * **ytterligare uppgifter vilka prover innan abort**: kroniska sjd, mediciner, allergier, tid grav, tid gyn sjd, gyn yndersök inkl UL infek, gravlängd, normal grav, se t att klamydiainfek behandlad disk preventivmedel
   * **beh alternativ**: medicinsk abort eller kirurgisk abort
   * **vill ej få berättat för päron**: har rätt t abort enl abortlagen. Dock inte ålder för integritetsskydd fr päron, bör överväga informera. Men kan finnas skyldighet att henmlighålla uppgifter om henne enl 14 kap 4 sekretesslagen. Om det kan antas hon lider betydande om uppgifter delges vårdnadshavare. Socialnämnd anmälan ska också övervägas.
+* **Emilie 17 år,** 
+  * inkommer till akutmottagningen 1,5 dygn efter en kirurgisk abort i v 12. Hon har buksmärtor, och måttlig vaginal blödning. Temp 38 grader. Vid den gynekologiska undersökningen palperas uterus drygt normalstor o ömmande
+  * Diagnoser överväga i första hand, minst 2
+    * Endometrit
+    * perforation uterus
+    * abortresetr
+  * **Handläggning**
+    * IL, CRP, LPK, Hb, möjligen Ab eller re-exeres eller cytotec (om rester), möjligen laparoskop
 
 
 
@@ -4396,15 +4452,19 @@ cerivicit
 
 ***Behandling***
 
-* På kvinna begäran: före 18+0
-* Före 13v (innan andra trimester?)
-  * medicinsk abort
-  * kirurgisk abort: vakuumexeres / skrapning
+* **På kvinna begäran**: före 18+0
+* **Före 13v (innan andra trimester?)**
+  * **medicinsk abort**
+  * **kirurgisk abort**: vakuumexeres / skrapning
 * Senast tillåtet abort enl lag (healthy foster): v22
 
 
 
+***Komplikationer***
 
+* Perforerad uterus
+* Endometrit
+* Abortrester
 
 
 
@@ -4717,7 +4777,7 @@ cerivicit
 
 ***Presentation***
 
-* vf ett av de mest effektiva preventivmedlen	
+* **vf ett av de mest effektiva preventivmedlen**	
   * maximal hämning endometrietillväxt
   * inget användarfel
 
@@ -4725,7 +4785,7 @@ cerivicit
 
 ***Hormonspiral*** (diffa mot kopparspiral)
 
-* **!!! Levonorgestrel**: utsöndras likalt i endometriet; endometiret blir ***tunt***
+* **!!! Levonorgestrel**: utsöndras lokalt i endometriet; endometiret blir ***tunt***
 * **Mirena**: 
   * 25-40% av kvinnor blir amenorroiska (dosberoende) med jaydess ca 10% i studier, 
   * kyleena 17%
@@ -5390,7 +5450,19 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+### Sterilisering
 
+***Presentation***
+
+*  Anna 39-årig 
+  * IV-para, söker för sterilisering. Vill absolut inte ha fler barn. Hon är 161 cm lång och väger 92 kg, har en måttlig astma för vilken hon medicineras med Pulmicort. Yngsta barnet är 6 år. Anna har gjort 3 aborter de senaste 3 år. Använder kondom som preventivmedel, sedan hon tog ut spiralen pga riklig mens
+  * handläggning o steriliseringsmetoder föreslå: rådgivnde samtal kruator. Metoder laproskopi o hysteroskopi. Föreslå hysteroskopisk sterilisering (risk med narkos om laparoskopi)
+
+
+
+***Lagen***
+
+* enl HT13 tent: steriliseringslagen tillåten kvinnor o män fr 25åå
 
 
 
@@ -6588,6 +6660,19 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Presentation***
 
+* **Lotta 27 år **
+  * inkommer till akuten i graviditetsvecka 12 pga en mindre vaginal blödning som debuterat under dagen. Hon är orolig för missfall. 
+  * insulinbeh DM1, röker 10-12cigg, 0-para, återkommande candida infek (diabetes), oplanderad grav, mörkbrunt blod. tidigt UL gjort?
+    * **Du gör en gynundersökning**: bukstatus, vulvaispek, spekulum gyn undersök, biman palp, rektovag undersök (blödningskälla), uterus storlek, ömhet. Adnexa resistens cystor, TOA, malignitet
+    * vaginalt UL: fosterljud
+    * visar sig vara CRL (crown rump length) v8+2, inga hjärtljud
+    * handlägg nu: en till läkare ska bekräfta; (v6 kan vara inga hjärtljud normalt); fördröjt missfall (uteblivet?); inte skuldbelägga pat; då uteblivet missfall INGEN exspektans 1-2v; ger medicinsk eller kirurgisk abort; 200mg mifepriston (progest hämmare); 24-48h senare ges misoprostol (prostaglandin) om ingen blöd upprepa misoprostol 3-4h efter första dos; pat checkar med gravtest om lyckat sj, o söka annars; 
+  * ÅB 1-2v senare, undrar om kan gravid igen: 
+    * alldeles utmärkt bli gravid; för normal grav behöver ägglossning
+* **kvinna 25åå**
+  * söker för blödningar och misstänkt missfall. SM var 9v sedan, men har ej bekräftats av UL. nu på UL ser man tom kavitet
+  * **handläggning:** blr PUL (preg unknown loc); S-hCG nu, åb 2d senare för ny s-hCG, som ska sjunka. Annars x-grav!
+
 
 
 ***Etiologi och patofysiologi***
@@ -6595,22 +6680,205 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **Tidsmässigt**: innan v22 räknas som missfall, efter detta är det intrauterinfosterdöd
 * **POCs**: products of conception; detta är de komponenter associerade med en graviditet, där vi har säcken, placenta, fostret etc
 * **POCs och missfall**: tittar man därför på ett missfall, kan typen av missfall baseras på hur mkt av POCs har eliminerats, med komplett vs inkomplett missfall exempelvis. 
+* **Läkemedel som ger missfall:** NSAID, methotrexate, retinoider, misoprestal
+* Orsaker
+  * **!! Kromosomfel**: 49% av alla missfall orsakas av detta
+  * **Ålder**
+  * **Rökning**: rökningsinfertilitet, relaterat till flimmerhår paralyseras i tuborna
+  * **folsyrebrist**
+  * **systemsjd**
+    * reumatiska sjd, kroniska
+    * diabetes
+    * celiaki
+  * **övervikt , undernäring**: >30 el <18 BMI
+  * **missbildningar uterus cervix**: implantation försvåras; uterusanomalier
+  * **hormonrubbningar**
+  * **infe**
+  * **infektion**: rubella, listeria, klamydia, CAV, toxoplasmos
+  * **upprepade grav tidg** (?)
+  * **nikotin**
+* **Indelning**
+  * **Uteblivet missfall**: missed abortion; hinnsäck + ickeviabelt foster / ofostrig grav kvar i uterus; pågående blödning svårt skilja fr pågående missfall (FÖRE v22)
+  * **Inkomplett missfall**: 
+    * grav-rester kvar efter inducerad eller spontan abort FÖRE v22; 
+    * för säker diagnos med enbart UL måste tidg UL bekräftt intrauterin grav (hinnsäck med gulesäck eller foster)
+    * **!! uteslut mens**: om pat genomgått beh för abort el missfall o återkommed med blöd, uteslut mens innan åtgärd!
 
 
 
 ***Epidemiologi***
 
+* 50% av biokemiska graviditeter
+* 10-20% av upptäckta graviditeter
+
+
+
 ***Kliniska kännetecken***
+
+* **smärta**: regel ölver uterus
+* **större blödning** (att smäran kombad med större blödning)
+  * // **extrauterin-grav**: rel sparsam vaginal blödning + ensidig smärta!
+
+
 
 ***Utredning och handläggning***
 
+* **Utredning**
+
+  * **Anamnes**
+    * tidg sjd, tidg grav, tidg missfall, tidg. UL undersök, tidg extrauterina-grav, tidg bukoperation,
+    * tobak, alk
+    * bekräftat gravid (med u-hCG) eller bara baserat på sista mens
+    * när pos sticka
+    * smärta
+    * feber?
+    * läkemedel: notera NSAID, methotrexate, retinoider, misoprestal (diclofenac)
+  * **Status**
+    * **Bukstatus**: inspektion, auskultation, palpation
+    * **vulvainspek**: infektionstecken? blåsor, rodnad, svullnad? Flytning=
+    * **Spekulum**: flyt, blöd. 
+      * misstanke infek: provta klamydia, gonorre
+      * kvantifiera blödning: rinnder okontrollerat färskt blod? mrkbrunt blod? koagelINtrauterin 
+  * **Vaginalt UL**: fosterljud, hjärtaktivitet, placenta locale; komplett, inkomplett, uteblien missfall. 
+  * **CRL + grav längd**: crown rump length för att bedöma vecka på foster. 
+    * grav längd determ av fosterstorlek, INTE senaste mens el tidg UL 
+  * **Second opinion fr specialst, vid konstaterar man missfall:** måste second opinion fr specialist läkare nr 2 + 
+  * ingen skuldbeläggande på pat. 
+
+* **Ultraljud**: detta för att determinera pats missfall gällande missfall. 
+
+  * **Tom kavitet**: Detta är viktigt, för att man måste skilja på där man bekräftat intrauterin graviditet vs de som man inte har det bekräftat. Om en patient söker men att man inte d eterminerat att fostret verkligen ligger intrauterint, och sen nu på UL ser man tom kavitet, är det viktigt att vi UTESLUTER X-GRAV! 
+    * **tidg bekräft intrauterin grav**: bedöms som **komplett** missfall. **INGEN åtgärd krävs**
+    * **!!! inte tidg bekräftad intrauterin grav**: betraktas som grav av oklar lokalisation/PUL (pregnancy unkno..); 
+      * S-hCG tas bvid besöket + upprepas efter 48 för att utesluta extrauteringraviditet
+  * **Intrauterin hinnsäck utan synligt foster**
+    * mät medelhinnsäckdiameter (3mått); 
+    * ifall pseudohinnsäck: S-hCG tas vid besök + samt 48h senare; determ som PUL
+    * hinnsäck diameter <= 25mm: nytt UL efter 10-14d; om ingen tillväxt el tom kavitet = sannolikt missfall
+    * hinnsäck diameter >=26mm: sannolikt missfall
+  * **intrauterin hinnsäck med foster, utan hjärtaktivitet, mätbärt CRL**:
+    * CRL <7mm: undersök upprepas efter 10-14d. om ingen tillväxt = sannolikt missfall. 
+    * CRL >=7mm: sannolikt missfall
+
+* **Information till patient**: förväntad blödning, smärta, mifepreston ger kräk, återkomma om inom 1h för ny tablett. 
+
+  * uppsök akuten: feber; riklig blödnig (2 bindor/h i mer än 2h)
+  * ny bedöm om blödning >3v efter missfall
+  * frikostil uppföljande kontroll vid beh uteblivet missfall. kan via ÖPV-gyn (öppenvårds gyn)
+
+* !! **fråga om preventivmedel efter missfall**: medicinsk beh kan hormonell beh påvöerjas eller implantat när missfallet bedömts vara komplett. 
+
+  * !! cykelbaserad natikonception kan inte påbörjas förrän menstruation återkommit
+
+* Missfall >12+0v
+
+  * pat ofta i kris; erbjuda kurator + psykologiskt störd: kurator via remiss,
+  * sjukskriv erbjuds
+  * BM fråga om pat vill se fostret, särskilda önskemål omhndertagande + kuratorskontakt; kurator förmedlar pats önskemål om hantering av foster
+  * informera att fostret kommer fotograferas. bilden kan fås via kurator; pt kan ändra sig om hanteringen under förloppet
+
+* Efter behandling
+
+  * sjuksrivning + partner 10-14d pga krisreak
+  * överväg remiss för PAD: särskilt om önskemål fr CFM
+  * erbjud kurator
+  * infobroschyr + muntlig info
+  * evidens för hygienråd saknas
+
+  
+
+
+
 ***Behandling***
 
+* Komplett abort: exspektans 1-2v
+* **Missfall <v12**: symptom styr beh ej UL. bokning abort mottagning för beh alternativ + second opinion UL. LKM admin ssk el BM.
+  * **Exspektans 2-3v**
+    * **inkomplett missfall**: >80% kompletta av sig sj inom 2v. Då (inom 2v) kan pat boka tid ÖPV gyn för kontroll, om önskar
+    * **Uteblivet missfall**: då sluten cervix + ringa blödning, svårare lösa sig sj; tid ombesörjas ÖPB gyn el ST mottagning om ca 14d. Om oförändrat status efter exspektans genomförs medicinsk eller kirurgisk behandling
+  * **Medicinsk behandling**
+    * Allmänt
+      * Påskyndar förlopp
+      * rekas 1a hand uteblivet missfall
+      * om hemma el avdelning: blödningen + förväntad blödning + evt sjd hos pat
+      * uteblivet missfall v10+1-v11+6: behandling på dagvården
+    * **Inkomplett missfall**: misoprostol engångsdos 3x0.6mg po eller 2x0.4 siblingualt
+    * **Uteblivet missfall**: som vid inducerad abort
+      * dag1: mifepriston 200mg po
+      * dag2/3: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
+        * om ej börjat blöda inom 3h: upprepad misoprostol 2x0.4mg vaginalt, subling, el peroralt
+    * analgetika + antiemetika: paracetamol ; ibuprofen; oxynorm; metoklopramid
+  * **Kirurgisk behandling**
+    * 1a val vid misslyckad medicinsk beh / cirk påverkad pat / ymnig blödning
+    * **infektion, ab**: helst minst 1d innan op: minska risk perforation; iv ab om inläggning
+    * **förbehandling 1h innann op**: misoprostol 2x0.4mg subling
+    * **!! Rh-profylax**: till Rh-neg vid alla kirurgiska interventioner
+* Missfall > 12+0v
+  * kurator (+psykologisk) kontakt.
+  * **Pågående missfall**
+    * **!!! inlägging avdelning**: TODO
+    * kraftig blödning: direkt misoprostol 3x0.6mg po el 2x0.4mg subling. behandling kan upprepas
+    * infektionstecken (feber, ökad infek prover): iv ab behandling
+    * endast ringa blöd el vattenavgg: förlopp exspekteras. 
+      * beh som uteblivet missfall: foster inte längre viabelt. 
+  * **Uteblivet missfall**
+    * flesta fall ej behöva beh samma dag, utan BM el ssk kan obesörja tid för beh på avdelning
+    * **d1**: mifepriston 200mg po på abortmottgning
+    * **d3** (36-48h senare): 
+      * **misoprostol 4x0.68mg vaginalt på avd**
+      * **om pat inte aborter (i.e. ingen blödning)**: misoprostol 2x0.4mg sibling vag el po
+        * dosen upprepas HÖGST var 3e timme 4ggr (tot 8 tabletter)
+      * **om fortf ingen abort**: mifegyen 200mg po kl 20
+    * **d4**: 
+      * upprepa förfarandet för d3. amniotomera om möjligt. 
+      * överväg ab om vattevavgg över 18h
+    * **d5**: upprepa förfarande d3. överväg nedan
+      * amniotomi om möjligt
+      * **mekanisk dilat**: dilaplan / laminaia el ballongkateter
+      * **byte minprostin 2mg vag**: kan upprepas efter 6h
+      * **dilat + evak åp op**: oftast behövs inte ytterligare dilat; försikti med hänsyn perforationsrisk; evak helst digitalt (med fingrar?); om inte kan största abort-tång användas erfaren gynekolog
+    * **efter fostrets framfödande:** 
+      * 1ml syntocinon 5E iv (oxytocin?)
+      * Rh-prof till Rh-neg
+    * **smärtlindr**: ibuprofen + paracetamol; paracervikalblockad avl äk el special BM med 10mL marcain. upprepas efter 1h; TENS; oxynrom; morfin inj; ketogan;
+    * **illamende**: metoklopramid alt primperan
+    * **laktation v15**: 
+      * att patienten lakterar, som pat potentiellt vill behandla bort
+      * undvik helst medicinsk beh pga biverkningar. om pat ändå vill ha beh = dostinex 2x0.5mg ()
+  * **Placenta**
+    * om ej avg spontant: avvakta 1h om pat ej blöder
+    * kontakta läk vid blöd >500mL
+    * bör undersök på gynstol: om placenta ses -> credes handgrepp alt ögletång ta bort den
+    * om misslyckas o pat inte blöder: misoprostol 2x0.4mg. undersök igen 2h senare. 
+      * om fortf ej avlossat: lossa på operation
+    * exeres endast vb: e.g. blödning / placenta inte avgår trots åtgärder / stor placentarest i uterus. 
+      * ökad risk perforation
+      * överväg UL-ledd exeres
+
+ 
+
+***RIskvärdering exeres***
+
+* **Hög risk**: 
+  * **Riskfaktorer**: tidig sectio; tidg uterus kir; BMI över 25; under puerperiet el ammande; kraftigtt anteflekterad el retroflek uterus; pågående infek
+  * **åtgärd**: struk timeout + avslut; pat går hem tidigast 2h utan läkarbed. enbart ifall VAS under 3 o NEWS 0; bör specialist närvarande; rek exeres görs UL lett
+* **Låg risk**:
+  * **riskfaktorer**: BMI under 25; frisk kvinna; inga tidg uterusop; normalformad uterus; tagit cytotec (misoprostol; prostagland) preoperativt
+  * **åtgärd**: struk timeout + avslut; pat gå hem tidigast 1h utan läkarbed; VAS under 0 + NEWS 0; kan utföras av ST läk självständigt efter uppkörning
 
 
 
+***!!! Komplikationer***
+
+* Till behandling (abort behandling? )
 
 
+
+***Referenser***
+
+* Inducerad abort- ARG rapport nr 78
+* FARG råd för behandling av missfall, 2020
+* NICE guidelines 2012 (updated 2017)
 
 ### Preeklampsi
 

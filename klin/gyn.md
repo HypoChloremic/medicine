@@ -1426,11 +1426,47 @@ cerivicit
 
 ## Endokrinologi
 
-###  HRT-behandling
+###  HRT-behandling TODO
+
+
+
+***Presentation***
+
+
 
 ***Behandling***
 
-* **HRT + gestagen:** för att hindre endometrieproliferation och cancer hos pat med uterus kvarr
+* **HRT :** östrogen + gestagen	
+  * indikation: för de som har kvar uterus och endometrium
+  * för att hindre endometrieproliferation och cancer hos pat med uterus kvar
+* **Adminstrationsformer**
+  * **transdermalt östrogen**: mer likt kroppseget östrogen. innebär att man inte får förstapassage metabolism via levern. 
+    * risken för trombosbildning misnkar när man undviker levern vid adminstration av östrogen transdermalt när man jämför med peroral östrogenbehandling.  
+
+
+
+***Kontraindikationer***
+
+* **Kontraindikationer för HRT**
+  * **bröstcancer**: har man haft bröstcancer, måste ske samråd med bröstvården
+  * **endometriecancer**: efter endometriecancer kan man ta, beror på hur symptomen ser ut; indiviudellt ställnigstagande, sker med gynekolog
+  * **DVT eller lungemboli**: om pat haft d, kontraindicerat likt vid kombinerad hormonbehandling med individuellt ställningstagande. 
+  * **hjärtinfarkt eller angina**: relativ kontraindikation e.g. om man har precis haft hjärtinfarkten. 
+  * **grav leversjukdom**: kan ej ge tabletter då, utan man kan ge salvor isf
+
+
+
+***Biverkningar***
+
+* Blödningsproblem
+* Bröstsvullnad
+* Bröstömhet
+* Humörpåverkan
+* Hudreaktion av plåster
+* Illamående
+* Huvudvärk
+* Rädsla för cancer
+* obs viktökning ej biv av HRT (stark evidens)
 
 ### Hyperprolaktinemi
 
@@ -1922,8 +1958,8 @@ cerivicit
 * **Maja 23åå med PCOS**
   * Har graviditetsönskan
   * vad kan du rekommendera henna?
-
-
+* **22-åriga Greta**
+  * som inte haft mens på ett halvår. Vid din gynekologiska undersökning finner du normala förhållanden förutom att båda ovarierna innehåller rikligt med små antralfolliklar. Du minns att det talades om PCOS på kursen. nämn 2 andra kriterier ( förutom polycystiska ovarier) som ska vara uppfyllda för att sätta diagnosen PCO
 
 
 
@@ -2023,6 +2059,7 @@ cerivicit
 * **klinisk hyperandrogenism och regelbunden menstruation**: Testosteron, SHBG
 * **Smala kvinnor med PCOS**: ökad LH, normal/låg FSH, LH/FSH > 2
 * insulinresistens o hyperinsulinemi inte universellt drag, men vanligt hos kivvnor med PCOS
+* !! **Gällande sekundär amenorre**: utreds först efter 6 månader
 
 
 
@@ -2749,6 +2786,34 @@ cerivicit
 
 
 
+
+
+### Chorionamnionit
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+* 
+
+
+
+***Diagnos***
+
+
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
 ### Eklampsi
 
 ***Etiologi patofysiologi***
@@ -2797,6 +2862,38 @@ cerivicit
 ***Behandling***
 
 * **Indikationer**: verkar som att indikationerna för behandling inte ändras generellt för hypertensiva tillstånd i grav, att 150/105-100 är gränsen för att man vill behandla, antingen systoliskt eller diastoliskt på den nivån ya3ni. 
+
+
+
+### Graviditetsillamående
+
+
+
+***Presentation***
+
+* **Alicia** 
+  * söker den 21/11 på vårdcentralen för illamående sedan några dagar. hon får inte behålla någon mat. hon hade sista mens 1/10 och visar sig vara gravid. hon har ibland oregelbunda menses och har därför inte reagerat. det är hennes första graviditet. när hon får reda på graviditeten blir hon orolig eftersom hon tycker att det inte kan vara bra för fostret att hon mår så illa och att något måste vara fel. 
+  * **hantera situation**: förklara om illlameånde, viktigt att diffa graviditets hyperemesis gravidarum
+    * går över senare i graviditet; 90% upphört vid v20, flesta vid v12 upphört. 
+    * grav illamående + lättare kräkningar inte farligt för fostret
+    * snarare att illamåendet är associerat med minskad risk för missfall prematurbörd IUFD postnatal mortalitet och låg födelsevikt
+    * uttalade besvär e.g. pat inte kan hålla aboslut ingen föda och kräks (hela tiden?) kan det röra sig om hyperemesis gravidarum. 1% drababs, kan leda t snabb dehydrering elektrolytstörnign o viktförlust o kräver ofta sjukhusvård
+  * **Tar du prover, isf vilka**: beror på svårighetsgrad
+    * **lättare illamående**: räcker kostråd o livsstil; e.g. mat som ej doftar, mindre portioner, undvik fet mat, minska kaffekonsumtion,
+      * om ingen effekt ger meklozin eller prometazin
+    * **svårare gad:** blodstatus, elektrolytstatus, urinsticka för ketonuri, thyroideastatus, leverstatus (enl abbe)
+
+
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
 
 
 
@@ -2920,6 +3017,24 @@ cerivicit
 ***Behandling***
 
 * **profylax, anti-D**: för Rh-negativa kvinnor. 
+
+
+
+### intrauterin fosterdöd
+
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
 
 
 
@@ -3552,9 +3667,13 @@ cerivicit
 
 ***Presentation***
 
-* Ett korrket alternativ:
+* Ett korrekt alternativ:
   * tenta, MJökstockning kan uppkomma efter flera månaders amning (rätt)
   * ej korrekt var: bröstböld ofta ihållande hög feber, 
+* **Erika 28åå**
+  * fick sitt första barn för tre veckor sedan. Idag har hon insjuknat med smärta i vänster bröst som är ömt. hon har ont i musklerna och lite huvudvärk. Tempen visar sig vara 39 grader. Bröstet är svullet, spänt, rodnat och litet småknöligt. inga besvär från något annat ställe.
+  * **vad har hon**: mastit
+  * **hur handlägger du det**: först tömma bröstet, amma bättre
 
 
 
@@ -3586,10 +3705,10 @@ cerivicit
 ***Behandling***
 
 * **Konservativt**
-  * suga bättre, ungen
-  * tömma bröstet alltså
-  * akupunktur
-  * oxytocinspray: kontraherar mjölkgångarnas glatta muskler, underlätter mjölktömnig
+  * **tömma bröstet** alltså
+  * **suga bättre**, ungen
+  * **akupunktur**
+  * **oxytocinspray**: kontraherar mjölkgångarnas glatta muskler, underlätter mjölktömnig
 * **Om ej funka**
   * fast bh + flukloxacillin (po): 
   * flukoxa iv om svårt 
@@ -3611,7 +3730,7 @@ cerivicit
 
 ***Kliniska kännetecken***
 
-* **feber undulerande (fluktuerande, svängande), fortsatt**: fortsatt undulerande feber, trots antibiotika 
+* **trots antibiotika, feber undulerande (fluktuerande, svängande), fortsatt**: fortsatt undulerande feber, trots antibiotika 
   * det är EJ ihållande feber
 * **Smärta**
 * **Palpömhet**
@@ -5723,6 +5842,29 @@ cerivicit
   * **BT vid p-pillerförskrivning**
   * **evt cytologprov, klamydiaprov**
 
+#### Kopparspiral
+
+***Presentation***
+
+
+
+***Etiologi och patofysiologi***
+
+* **Kopparspiral**: kopparjonerna är toxiska för spermier och embryon. endometriet tunnare. 
+* **koppararea är viktigt**: utsöndrar kopparjoner tar sig in i sekret i cervix o tuba. Kopparna ska va tillräcklig kroppsarea. 
+
+
+
+#### P-stav
+
+***Presentation***
+
+* **28åå kvinna, Michelle**
+  * har just genomgått en kirurgisk abort och har bestämt sig för en p-stav efteråt. Hennes kompis har istället fått en kopparspiral och nu undrar Michelle hur p-staven fungerar och vad det är för skillnad på den och spiralen. Beskriv verkningsmekanismen för P-stav och kopparspiral.
+  * verkningsmekanism p-stav o kopparspiral
+    * p-stav: ovulatiosnhämning, endometriet blir tunnare, cervixsekret tjockare ogenomträngligt. 
+    * kopparspiral: hindrar implantation, hämmar spermiemotilitet (spermatoxiskt) och embryotoxiskt.
+
 
 
 
@@ -7075,7 +7217,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   * **handläggning:** blr PUL (preg unknown loc); S-hCG nu, åb 2d senare för ny s-hCG, som ska sjunka. Annars x-grav!
 * **Lena**
   * kommer för kontroll p.g.a. blödning och smärta i graviditetsvecka 11. Detta är hennes förstagraviditet efter en IVF-behandling. Hon säger att hon blöder rikligt sedan 30 minuter och du ser relativt riklig blödning vaginalt vid inkomsten till sjukhuset. Lena har ont. Du konstaterar med ultraljud att graviditeten ligger kvar i uterus och har avstannat tidigare. Fostret motsvarar vecka 7. Detta bekräftas även av en specialist i obstetrik och gynekologi. Cervix ses öppen 1cm. Lena har Hb 128, blodtryck 110/70 och puls 78. Detta är ett pågående missfall.
-* 28åå Frida
+* **28åå Frida**
   *  och kommer in i graviditetsvecka 9 med en liten blödning samt minskat illamående. UL ser man tom hinnsäck, ofostrig graviditet, blighted ovum
   * för ställa diagnos måste hinnsäck större än 25mm. vf viktigt inte diagnos tidigarE: inte döma ut viabel graviditet
   * om hinnsäck mindre 25mm: ta tillbaka patienten om 1 vecka
@@ -7129,44 +7271,54 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+***Diagnos***
+
+* hinnesäck > 25mm utan synligt foster eller gulesäck  
+* medelhinnsäck <25mm utan tillväxt på en vecka 
+* Foster med CRL >=7mm utan hjärtaktivitet  
+* Foster med CRL <7mm utan tillväxt på en vecka 
+* Hinnsäck som tiidgare dokumenteras i inneverande graviditet som inte längre kan ses
+
+
+
 ***Utredning och handläggning***
 
 * **Utredning**
 
   * **Anamnes**
-    * tidg sjd, tidg grav, tidg missfall, tidg. UL undersök, tidg extrauterina-grav, tidg bukoperation,
-    * tobak, alk
-    * bekräftat gravid (med u-hCG) eller bara baserat på sista mens
-    * när pos sticka
-    * smärta
-    * feber?
-    * läkemedel: notera NSAID, methotrexate, retinoider, misoprestal (diclofenac)
+    * **tidg sjd, tidg grav, tidg missfall, tidg. UL undersök, tidg extrauterina-grav, tidg bukoperation,**
+    * **tobak, alk**
+    * **bekräftat gravid** (med u-hCG) eller bara baserat på sista mens
+    * **när pos sticka**
+    * **smärta**
+    * **feber?**
+    * **läkemedel**: notera NSAID, methotrexate, retinoider, misoprestal (diclofenac)
   * **Status**
     * **Bukstatus**: inspektion, auskultation, palpation
     * **vulvainspek**: infektionstecken? blåsor, rodnad, svullnad? Flytning=
     * **Spekulum**: flyt, blöd. 
-      * misstanke infek: provta klamydia, gonorre
-      * kvantifiera blödning: rinnder okontrollerat färskt blod? mrkbrunt blod? koagelINtrauterin 
+      * **misstanke infek**: provta klamydia, gonorre
+      * **kvantifiera blödning**: rinnder okontrollerat färskt blod? mrkbrunt blod? koagelINtrauterin 
   * **Vaginalt UL**: fosterljud, hjärtaktivitet, placenta locale; komplett, inkomplett, uteblien missfall. 
   * **CRL + grav längd**: crown rump length för att bedöma vecka på foster. 
     * grav längd determ av fosterstorlek, INTE senaste mens el tidg UL 
   * **Second opinion fr specialst, vid konstaterar man missfall:** måste second opinion fr specialist läkare nr 2 + 
   * ingen skuldbeläggande på pat. 
 
-* **Ultraljud**: detta för att determinera pats missfall gällande missfall. 
+* !!! **Ultraljud**: detta för att determinera pats missfall gällande missfall. 
 
   * **Tom kavitet**: Detta är viktigt, för att man måste skilja på där man bekräftat intrauterin graviditet vs de som man inte har det bekräftat. Om en patient söker men att man inte d eterminerat att fostret verkligen ligger intrauterint, och sen nu på UL ser man tom kavitet, är det viktigt att vi UTESLUTER X-GRAV! 
     * **tidg bekräft intrauterin grav**: bedöms som **komplett** missfall. **INGEN åtgärd krävs**
     * **!!! inte tidg bekräftad intrauterin grav**: betraktas som grav av oklar lokalisation/PUL (pregnancy unkno..); 
       * S-hCG tas bvid besöket + upprepas efter 48 för att utesluta extrauteringraviditet
   * **Intrauterin hinnsäck utan synligt foster**
-    * mät medelhinnsäckdiameter (3mått); 
-    * ifall pseudohinnsäck: S-hCG tas vid besök + samt 48h senare; determ som PUL
-    * hinnsäck diameter <= 25mm: nytt UL efter 10-14d; om ingen tillväxt el tom kavitet = sannolikt missfall
-    * hinnsäck diameter >=26mm: sannolikt missfall
+    * **mät medelhinnsäckdiameter (3mått);** 
+    * **ifall pseudohinnsäck**: S-hCG tas vid besök + samt 48h senare; determ som PUL
+    * **hinnsäck diameter <= 25mm**: nytt UL efter 10-14d (2v verkare som); om ingen tillväxt el tom kavitet = sannolikt missfall
+    * **hinnsäck diameter >=26mm**: sannolikt missfall
   * **intrauterin hinnsäck med foster, utan hjärtaktivitet, mätbärt CRL**:
-    * CRL <7mm: undersök upprepas efter 10-14d. om ingen tillväxt = sannolikt missfall. 
-    * CRL >=7mm: sannolikt missfall
+    * **CRL <7mm**: undersök upprepas efter 10-14d. om ingen tillväxt = sannolikt missfall. 
+    * **CRL >=7mm**: sannolikt missfall
 
 * **Information till patient**: förväntad blödning, smärta, mifepreston ger kräk, återkomma om inom 1h för ny tablett. 
 

@@ -213,7 +213,24 @@ cerivicit
 
 ### Inkontinens
 
+#### Ansträngningsinkontinens
 
+***Etiologi och patofysiologi***
+
+- Förlossning: tänjer på en massa muskler och bindväv, bäckenbotten blir slappare
+- Puborectalis: denna muskeln i bäckenbotten (perinealt?) är starkt relaterat till bibehållen kontinens i uretra, varpå påverkad puborectal muskelm (PRM) leder till att man kan få en ansträngningsinkontinens
+- Peruretral ligamentet: denna kan också tänjas i samband med förlossnings, varpå ansträngningsinkontinens
+
+***Behandling***
+
+- Konservativ behandling: detta bör vara förstahandsvalet för patienter, att man hoppar på en konservativ behandling
+
+- - kissa oftare, normalare volym i urinblåsan: möjligt att patienten kissar endast när urinblåsan blir för full varpå ökad propensitet för att läcka urin
+  - bäckenbottenträning: detta kan hjälpa till med kontinensen
+
+- Kirurgisk behandling: 
+
+- - TVT-behandling: slynga sätts runt uretra (efterliknar funktionen hos peruretral ligamentet? TODO)
 
 #### Blandinkontinens
 
@@ -260,6 +277,37 @@ cerivicit
 
 
 <img src="./imgs/gyn_sam_130321_my61Hz8B6T.png" alt="my61Hz8B6T" style="zoom:50%;" />
+
+
+
+### Bäckenbotten
+
+
+
+***Levator muskeln***
+
+- bedöms med krystning och 2 fingrar x-planet trycker mot rektum via vagina
+
+***PRM***
+
+- Puborectal muskeln
+- denna är bland de starkare musklerna i bäckenbotten
+- den som man kniper med; den kontraheras
+- TODO: bifoga bilder fr gyn boken, de va ganska illustrativa
+- Ansträngningsinkontinens vid defekt, 70%
+
+***Peruretral ligamentet***
+
+- Den kan bibehålla kontinens i uretra
+
+- uttänjt efter förlossning
+
+- ger urininkontinens
+
+- Behandling
+
+- - Slyngbehandling TVT
+  - att man sätter en slynga runt uretra för att återskapa funktionen fr bindväven
 
 
 
@@ -1232,6 +1280,22 @@ cerivicit
 * ålder
 * nullipartum, inga tidg barn.
 
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
+
+
 ### Vulvacancer
 
 ***Utredning och handläggnign***
@@ -1415,6 +1479,17 @@ cerivicit
 
 * **Olaga blödning**
 * **Intervallsmärta**
+
+
+
+
+
+### Malign cysta
+
+***Presentation***
+
+* Eva 35 år, 
+  * II-grav, II-para och söker gynakuten då hon successivt fått allt mer ont i magen sista 3 veckorna. hon har hypertoni som hon medicinerar för men är för övrigt frisk, aldrig opererad i buken. hennes menstruationer upphörde för 4 år sedan och hon har inte använt hormoner. Eva beskriver att hon har ihållande buksmärta som började för ca 3 veckor sedan, men nu har hon svårt att röra sig då hon har fått allt mer ont. Beskriver att smärtan sitter långt ner i magen och även strålar ut i ryggen. Hon har även ont när hon sitter ner. Miktion ua, och även tarmen tömmer sig regelbundet men det gör ont. INget synligt blod i urin eller avföring. Buk: palperas överalt mjuk. Distinkt palpationsöm centralt i nedre delen av buken, ingen säker resistens palperas, ingen peritonit misstänks. Gyn: VVP ses ua. Uterus är normalstor för åldern och lätt devierad. Åt hö. Till vä och bakom uterus palperas en cystisk förändring som känns mjuk, ömmande, ca 7-8cm stor, rörlighet är svårt att avgöra. Ulj vaginalt: uterus är liten med normal konfiguration och tunt endometrium. Hö ovarium ses ej. Vid platsen för vä adnexa ses en 2-rummig cysta som mäter 7\*8 cm. Cystan är mstadels ekofri men i ena polen finns ett område som är mer ekogivande. ingen fri vätska ses i buken.
 
 
 
@@ -3020,11 +3095,18 @@ cerivicit
 
 
 
-### intrauterin fosterdöd
+### intrauterin fosterdöd IUFD
 
 ***Presentation***
 
 ***Etiologi och patofysiologi***
+
+* Vanligaste orsakerna till IUFD
+  * placentaavlossning ablatio
+  * dödföddhet utan känd orsak
+  * missbildningar
+
+
 
 ***Epidemiologi***
 
@@ -3117,14 +3199,37 @@ cerivicit
   * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
   * Fyra möjliga orsaker till den stora blödningen
   * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
+  
 * **Pat 35åå**
   * preeklampsi
   * nu ihållande bradykardi på CTG 
   * ska misstänka placenta ablatio 
+  
 * **pat 35åå** 
   * tidigare snittad
   * nu ihållande bradykardi på CTG 
   * ska misstänka uterus ruptur
+  
+* samma cushing pat tillägg
+
+* - tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
+
+* 35åå, 5grav 0 para
+
+* - 2 missfall, 2 abort
+  -  Noteras kontroll v24 att BT högt
+  - RUL ser ej ngt avvikande, men åter UL bokas in
+  - Nya UL v24 el nåt noteras IUGR, att den är hämmad, -27% el nåt
+  - åb v24+3 högre BT 150/90
+  - åb v24+4 samma högt BT 145/90
+  - åb v25 samma höga BT
+  - åb v 25+2 BT 180/100
+  - trandate 200x3 insättes
+  - misstänkt preeklampsi
+  - inlägges v27: man behandlar blodtrycket, tittar på UL-flöden ser att det är bra kompensation för ungen
+  - skrivs ut v28: informerar pat om tecken på preeklampsi att det krisar etc för att söka akut e.g. påverkade fosterrörelser avviker, flimrar ljus ögon, skakig, huvudvärk, 
+  - Läkemedel trandate: 300mgx3 vid utskrivning
+  - Enl handl: dessa med preeklampsi samt IUGR inte förväntat att de blir fullgångna, utan amna snittar tidigt ändå, att det behövs. Man har täta kontroller och följer CTG etc. 
 
 
 
@@ -3343,15 +3448,24 @@ cerivicit
   * Endometrios är vanligare hos kvinnor från västra Afrika.
   * Endometrios är vanligt hos kvinnor vars mödrar har endometrios
   * Endometrios bör i första hand behandlas kirurgiskt och radikalt med laparoskopisk resektion och diatermi.
+  
 * **20åå kvinna**
   * endometrios, steg1 behandlas med kombinerade p-piller
   * ringer nu, har en genombrottsblödning
   * Vad rekar du: antingen uppehåll 4d eller tar 2t dagligen i 5d.
+  
 * **Lovisa 25 **
+  
   * **år söker dig på gynmottagningen pga smärtor i buken sedan nästan ett år. Hon har tidigare sökt hos husläkaren som mest trott på att hon har IBS. Själv undrar hon om det kan finnas en gynekologisk förklaring eftersom smärtan sitter mest i nedre delen av buken.**
+  
 * **Olga är 32 år**
   * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
   * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
+  
+* **25åå kvinna**
+
+* - endometrios, oklart hur länge
+  - behandlats väl med Novashore: TODO (Novasure?)
 
 
 
@@ -3474,6 +3588,9 @@ cerivicit
     * **endometriosteam konsulteras före evt ovarialendometriom avlägsnas**
     * op o fynd måste beskrivas ordentligt 
     * fotodokumentation
+* Sedvanlig anamnes: att man hoppar på medicinsk behandling (enl Klaström gyn läl handledare)
+* om medicinsk behandling inte funkar, fortsatt endometriosmisstanke: laparoskopi
+* NOTERA: att diagnostik med ultraljud och MR har blivit så pass bra att man kan *diffa* endometrios, så man behöver ej hoppa på laparoskopin
 
 
 
@@ -3520,6 +3637,7 @@ cerivicit
     * levonorgestrel-IUS
     * GnRH-antagonister
     * Aromatas inhibitorer
+  
 * **Enl PM**
   * **Smärtstillande**
     * **Farmakologiskt**
@@ -3581,6 +3699,14 @@ cerivicit
       * ovarialendometriom handläggning: konsultera endometriosläkare.
       * **Hormonell behandling efter kirurgi, tills vidare**
     * **erbjudas kurator o sjukgymnast. diskutera endometriosläkare innan remiss**
+  
+* Sedvanlig anamnes: att man direkt börjar med farmakologisk behandling, för att sedan följa upp för effekt. 
+
+* Graviditetsönskan:
+
+* - att man upphör med sin endometriosbehandling för att försöka få barn
+  - Smärtstillande under uppehållet: NSAID? Paracetamol? TODO
+  - Alterantivet: nedreglerar endometriosen med GnRH analoge (detta är som att inducera en menopaus hos patienten, att den drar ned på allt) varpå man hormonstimulerar ovarierna 
 
 
 
@@ -3771,6 +3897,22 @@ cerivicit
 
 
 
+### Vaginism
+
+
+
+***Etiologi och patofysiologi***
+
+- Upprepad sex när det gör ont
+- leder i längden till att pat utvecklar vaginism (slidkramp)
+- så fort man ska beröra vagina, så krampar den + smärtsam
+- Hör ihop med vestibulit
+
+***Kliniska kännetecken***
+
+- Dyspareuni
+- slida som krampar, i samband med beröring eller approach
+
 
 
 ### Vestibulit
@@ -3780,6 +3922,22 @@ cerivicit
 ***Presentation***
 
 ***Etiologi och patofysiologi***
+
+-  Vestibulin anatomiskt: den är slemhinnan ligger cirkumferent runt vaginalöppningen, också fram t uretraöppningen
+
+- - Notera att den ligger runt hymenslemhinnan också (humenslemhinnan är den sleminnan närmst in på vaginalöppningen)
+
+- Vestibulit utvecklas i efter för mkt samlag, trots att det är smärtsamt. 
+
+- Hör ihop med Vaginism
+
+***Diagnos***
+
+- Beröringssmärta i över 6 månader. 
+
+***Kliniska kännetecken***
+
+- Beröringssmärta: att så fort man berör vestibulim så gör det ont för patienten
 
 ***Epidemiologi***
 
@@ -4743,7 +4901,58 @@ cerivicit
 
 <img src="./lectures/gyn_lec/imgs/gyn_lec_8wfku7ikHt.png" alt="8wfku7ikHt" style="zoom:50%;" />
 
+### Prolaps
 
+***Presentation***
+
+- 43åå kvinna
+
+- - 5 månader sedan opererad med bakre kolporafi och perineorafi . 
+
+  - postop komplikation beh med antibiotika
+
+  - utv smärta i underliv både vid beröring + fysisk aktivitet. 
+
+  - Känner nu att framfallet är tillbaka. Att det är som att ett huvud tränger ned likt under förlossning. 
+
+  - tidg bedömts som att ha utv en bäckenotten spasm
+
+  - liknande fall av brännskada tidigare varpå neuropatisk smärta som behandlades med (antiepileptika (e.g. gabapentin etc.)). 
+
+  - Gyndundersökning: Väldigt smärtpåverkad vid beröring, e.g. vid beröring innerlår, attribueras till att ha utvecklat allodyni. 
+
+  - - vaginalt tydligt framfall (likt att cervix pushats fram nästan)
+    - Smärtpåverkad överallt. 
+    - Först ffa klitoralt, sedan också när palperar insida vagina. 
+
+***Etiologi och patofysiologi***
+
+- Anatomiskt: 
+
+- - bäckenutgång täcks huvudsak av levatormuskel
+
+  - central öppning i muskel levatorslitsen släpper igm uirinrör, vagina och rektum
+
+  - den i ståednde horisontella delen av levatorn (m ileococcygeus utgör en diafragmaliknande platta som understödjer bäckenorganen. 
+
+  - levatorns mediala del utgörs av m puborectalis. löper slyngformat fr symfysen bakåt runt rektum. 
+
+  - tryckökning i bukhåla e.g. hosta el tunga luft, kontraherar levatorn reflektoriskt, komprimerar lrektum, vagina o urinrör mot symfysen. 
+
+  - ileococcygeus kontraherar därtill upplyftniing bäckenbotten. 
+
+  - Gradienten (lutningen) levatorslitsen upprätthåller kontinens i anus o urinvägar; motverakr tillsammans med upplyfnitntg av bäckenbotten att organen i lilla bäckenete pressas ut gm levatorslitsen. 
+
+  - extraperitoneala rummet utfylls utöver muskler o organ med endopelvina fascian: kollagen, elastin, glatt muskualtur, nerver, klärl. 
+
+  - - varierande funk
+    - vissadelar mesenterielikannde stöd för nervfer o kärl
+    - andra partier förtätas den t ligamentliknande strukturer som stabiliserar organen centralt i lilla bäckenet. 
+    - 
+
+***Behandling***
+
+- Kolporafi: vaginal wall repair, intended för cystocele och rektocele
 
 ## Fertilitet
 
@@ -6194,7 +6403,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-### Förlossning: Normal
+### Förlossning: normal
 
 
 
@@ -6601,7 +6810,7 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * **Bishiop 3-5p:** PE2 vaginalt, alt ballongbeh
 * **Bishop 6-10p**: oxytocin amniotomi
 
-### Konvertering
+### Förlossning: konvertering
 
 ***Presentation***
 
@@ -6633,10 +6842,21 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
   * **CTG förändringar, hotande fosterasfyxi**
 * **Vaginalt till kejsarsnitt**
   * **Prövat instrumentellt, men ej funkat**: att man har dragit 2-4 gånger utan att få ned huvudet, indikation för att konvertera till ett kejsarsnitt
+  
   * **Vertex ovan spinae**: innebär att man ej kan använda instrumentell förlossning
-  * **Bjudningar**: det finns många olika bjudningar, som man helst kör med snitt än med förlossning, e.g. sätesbjudning
+  
   * **CTG förändringar, med omogen cervix**
+  
   * **Vertex ovan spinae + retraherad över 4 timmar**
+  
+  * **Bjudning**: 
+  
+  * - framstupa ansiktsbjudning (i.e. att ryggen är till luften om mamman ligger på rygg (att man slår pannan på ngt)
+    - pannbjudning
+  
+  * **Utebliven progress i öppningsfas**
+  
+  * - Utebliven öppningsfas definieras i PM vi tog bild på, den i plastfickan
 
 
 
@@ -6666,7 +6886,53 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+### pPROM
 
+
+
+***Presentation***
+
+- kvinna 32åå, v36+2, 3 grav, 2 para
+
+- - misstänkt vattenavgång v 29+3-> PPROM
+
+  - - inlägges för övervak, infektionsprover, 
+
+    - Temp, blodstatus, CRP, odlingar enligt PM. Erymax 250mgx4. Betapred. CTG x2
+
+    - Tar urinodling, klamydia odling, vaginal odling, blodstatus, crp samt BAS.Urinsticka: pro 1+, nitrit neg, leuk+2.
+
+    - får betapred dos 1
+
+    - dagen efter får betapred dos2
+
+    - sammanfatt den vårdperioden: Inlägges i graviditetsvecka 29+2 enl UL för observation p.g.a. misstänkt prem vattenavgång som inte verifierades. Trots det fick 2 doser b-pred 31/01 och 01/02 och står på antibiotika Erythromax 250mg x4.
+
+      Efterförlopp:Under vårdtid stabil, opåverkat AT och Cx status, ej vag. blödning, ej vattenavgång, infektionsparametrar ua, CTG reaktivt, ej smdr.
+
+      Undersökning innan hemgång visade (TA-Ulj) normal mängd av fostervatten, ffd hvd och synliga FR. TV-Ulj: Cx sluten och mäter 37mm.
+
+      Planering: Åb vb. Per os antibiotika i 5 dagar. Imorgon har planerad tid hos bm
+
+      får diagnos förväarkar utan cervixpåverkan
+
+  - söker igen misstänkt vattenavgg v36
+
+  - tidg: preeklampsi första barnet, grav hypertoni andra
+
+  - insatt trandate v35 för högt BT.
+
+  - har sammandragningar, 1-2/10mi
+
+  - status: omoget cervix, BT 150, normalt CTG
+
+  - får PUP, klåda under natten
+
+  - hemgg: ska igångsättas v36+6
+
+***Allmänt***
+
+- Blir ej heller fullgångna, utan man inducerar innan v37
 
 ### Prematuritet
 
@@ -6691,11 +6957,20 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 ***Kliniska kännetecken***
 
+
+
 ***Utredning och handläggning***
+
+
 
 ***Behandling***
 
-
+* Magnesium
+  * Förväntad/planerad förtidsbörd inom 1–24 timmar < 32+0 graviditetsveckor. Om behandlingen ges med kortare tid än 1 timme från förlossningen tros effekten vara mindre, men den är inte skadlig. Ges behandlingen >24 timmar innan förlossningen har den sannolikt mindre effekt och detta bör undvikas i största möjligaste mån. Vid vaginal förlossning skall patienten därför vara i aktivt värkarbete när MgSO4 ges, d.v.s livmodertappen skall vara öppen 3cm eller mer, buktande hinnblåsa och/eller vattnet har gått, sammandragningar och en sådan progress att förlossning med all sannolikhet sker inom 24 timmar. Överväg att ge MgSO4 i samband med att andra dosen Betapred ges.
+  * patienter som genomgår akut eller elektivt kejsarsnitt skall också erhålla MgSO4 1-24 timmar innan kejsarsnittet om det sker <32+0 graviditetsveckor. Sikta på att ge MgSO4 cirka 5 timmar innan operationsstart.
+  * **MgSO4** **6g ges som en engångsdos under 20 minuter** (30 minuter om vikt under 60 kg) och kan ges med hjälp av infusionspump för att underlätta administrationen av läkemedlet.
+  * I samband med infusionen får de flesta patienter en brännande känsla över halsen. Detta är inte farligt och är snabbt övergående (några minuter) och patienter som är informerade om detta tolererar det väl. **Läkemedelsanvisning, se nedan**
+  * // Kom ihåg att infusion magnesium är till för behandla eklampsi sekundär eller primär profylkaktiskt för eklampsi, kramper. 
 
 
 

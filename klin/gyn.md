@@ -411,6 +411,27 @@ cerivicit
 
 ## Cancer
 
+### Allmänt
+
+***Epidemiologi***
+
+* **Vanligaste cancerformerna hos kvinnor, 2016**
+  * Bröst: 29.2 %
+  * Hud: 9.9%
+  * Kolon: 7.9%
+  * Lunga: 6.8%
+  * Malignt melanom: 6.6%
+  * Endometrium: 4.5%
+  * Maligna lymfom: 3.2%
+  * Urotelial cancer: 2.9%
+  * Rektum and anus: 2.8%
+  * Hjärna och övriga nervsystemet: 2.3%
+* **Gynekologisk cancer 2016**
+  * Endometriecancer: 1324
+  * Ovarial/tubar/peritonealcancer: 688
+  * Cervixcancer: 559
+  * Vulva/vaginalcancer: 279
+
 ### Cervixcancer
 
 
@@ -970,12 +991,6 @@ cerivicit
 
 
 
-
-
-
-
-
-
 ### Endometriecancer och cancerhistorik
 
 ***Allmänt***
@@ -1032,7 +1047,7 @@ cerivicit
 ***Allmänt***
 
 * hereditary non-polyposis colon cancer
-* Lynch syndrom
+* !! kallas nu Lynch syndrom: n
 
 
 
@@ -1045,11 +1060,11 @@ cerivicit
 
 ***Epidemiologi***
 
-* 1-2% av lla kolonmcacer o EC fall i Sverige o för ca 9% av alla EC som yppkommer före 50åå
+* 1-2% av lla kolonmcacer o EndometrieCancer fall i Sverige o för ca 9% av alla EC som yppkommer före 50åå
 * kvinnor med LS har 40-60% risk för EC, livstid
 * 50% EC före koloncancer
 * medianålder insjuk EC vid LS är 46-62åå
-* ökad risk för: ventrikel, ovarial, tunntarn, uretercancer
+* ökad risk för: ventrikel, **endometrium**, **ovarial**, tunntarn, uretercancer
 * HögstariskenförovarialcancerharMLH1/MSH2-bärare 
 
 
@@ -1280,17 +1295,172 @@ cerivicit
 * ålder
 * nullipartum, inga tidg barn.
 
+
+
 ***Presentation***
+
+
 
 ***Etiologi och patofysiologi***
 
+* **Tre distinkta komponenter**
+  * !!! **Ytepitel**: 65% ovarie tumörer och 90% ovarie cancer
+    * aka **seros överial cancer**
+    * attribueras till STIC (serös intraepiteleial carcinom): att de originate fr tuborna; 
+    * STIC, p53: STIC har osså p53 mutation som gör den farligare. 
+    * BRCA association: de med BRCA mutationer är associerade med den serösa formen, drf farligare formen
+  * **ovarial germinala celelr**
+  * **ovarial stroma**
+* **Metastaser TILL ovarierna**: 5-10% andra primärtumörer, alltså att de mets till ovarie
+  * vanligtvis gastrointestinala tumörer aka Krakenberg tumörer
+  * eller bröst eller endometrium
+* **Okänd etiologi, teoretiseras**
+* **malign transformation ovarievävnad:** prolongerad kronisk oavbruten ovulation som  förstör epitelialväv och drf regen, prolif o mitos. 
+* **!! Spridning (metastasering)**
+  * **direkt exfoliering maligna celler**: från ovarierna, mets följer bred cirkualtorisk väg av peritoneal vätska. 
+    * **vanligaste formen av spridning**: att ovariecancern SEEDAR peritoneal kvaitet etc.
+    * **peritoneal carcinomatosis**
+  * **lymfatisk spridning finns**: retroperitoneal pelvis och paraaortalt lymfkörtlar
+  * **hematogen spridning osså**: mer rare o distanta mets t lungor o hjärna. Avancerad sjd intraperit tumör spridnig leder t ackummulation acsites i buken och encasement av tarmar med tumör!
+* !!! **Incessant ovulation hypotesen**: ovulations supprimering är bättre för att då förstör man mindre av epitelvävnaden, varpå mindre risk för malignifiering
+  * noter att  detta inte verkar ha en DIREKT relation till östrogne, likt för endometriecancer!
+* **Histologi**
+  * **Typ1**
+    * genetiskt stabila
+    * ofta stage1
+    * låggradig serös, mucinls, endometroid
+    *  **källa**: cystadenom eller borderline tumörer
+    * inga mutationer i p53 (som är en tumörsuppressor gen).
+  * **Typ2**
+    * genetiskt instabil tumör
+    * spridd sjd
+    * höggradig serös, carcinosarkom eller icke-differentierad
+    * **källa**: tuba-fimbriae
+    * muterad p53
+
+
+
+<img src="./imgs/gyn_sam_300321_Wa1FZXqEMb.png" alt="Wa1FZXqEMb" style="zoom: 25%;" />
+
+
+
 ***Epidemiologi***
+
+* **25% av alla gynekologiska maligniteter,**
+* **men 50% av all gynekologisk cancerdöd**: brist bra metoder tt screena, tidig diagnostik och presentation när tumören spritt sig är late stage och man behandlingsmässigt kan göra lite. 
+  * räknat med alla cancerstadier
+* !! **10-15% familjär cancer syndrom, alltså 10-15% hereditär ovarial cancer**: 
+  * BRCA1 mutation 85% bröstcancer, 30-50% ovarial cancer
+  * BRCA2 25% ovarial cancer (mindre än BRCA1)
+  * HNPCC-LYNC (aka LYNCH2)
+* **70% stage3c eller stag4 vid diagnos**
+
+
+
+<img src="./imgs/gyn_sam_300321_j2m7kZ9bNz.png" alt="j2m7kZ9bNz" style="zoom:50%;" />
+
+
+
+
+
+***Riskfaktorer***
+
+* **ålder**: samma orsak med oavbruten ovulation, är en  risk; 50% av de som diagnosticeras med ovarial cancer är över 65åå
+* **Endometrios**
+* **Familjär cancer syndrom**: 
+  * **brca1**
+  * **brca2**
+  * **lynch**
+  * **familjehistorik ovarialcancer**: mamma, syster, dotter
+    * ju yngre de fått d desto högre risk
+  * **tidg bröstcancer hos pat**
+* **oavbruten ovulation**: tidig menarche, infertilitet, nulliparitet, försenad barnafödande, late-pnset meopaus
+  * notera att det är själva ovulationen som förstör epitel som är risken..
+* **HRT**
+
+
+
+***Protektiva faktorer***
+
+* !!! **Incessant ovulation hypotesen**: ovulations supprimering är bättre för att då förstör man mindre av epitelvävnaden, varpå mindre risk för malignifiering
+  * noter att  detta inte verkar ha en DIREKT relation till östrogne, likt för endometriecancer!
+* !! **antikonception**: äter man OCP (oral contraceptives) orala antikonceptionsmedel, 5år reduceras risken med 50%
+* **amning**
+* **multiparitet**
+* **kronisk anovulation**
+* **tubal ligation och hysterektomi**: reducerar risken med 67% och 30%, även hos de med familjär cancer syndrom
+  * hypotesieras att försämrat ovariellt blodperfusion minskar spridningen av cancern.
+  * eller minskad migration carcinogener fr lower genital tract. 
+  * **NOTERA STIC**: föreläsaren nämner STIC som en orsak osså t serös cancer, att det är tuborna som är the origin för cancern
+
+
 
 ***Kliniska kännetecken***
 
+* **medianålder** 63åå
+* **sen symptomdebut**
+* **icke karakteristiska**
+* **uppsvällning av buken**
+* **trängningsinkontinens**
+* **icke-specifika abdominal discomfort**: 
+  * illamående
+  * uppsvällning
+  * changes in bowel movement
+* **smärta**
+* **svårigheter andas**
+* **pelvis trombos**
+
+
+
+***Diagnos***
+
+* Anamnes + hereditet
+* Somatisk + gynundersökning
+* Vaginalt ultraljud (RMI, IOTA simple rules)
+* Tumör markörer: 
+  * CA125 
+  * CA19-9: övre GI tumörer
+  * CA15-3: bröstcancer
+  * CEA: kolorektala cancrar
+  * Kvinnor under 40åå / icke-epitelial tumör: beta-hCG, AFP (alpha-fetoprotein), inhibin-B, AMH
+    * ska tänka att det är **stromaceller som är involverade**. 
+* laparocentes / pleurocentes
+* DT-thorax/nbuk: tumör sprdning o relation t andra organ
+* möjlig MR, kolonoskopi
+
+
+
 ***Utredning och handläggning***
 
+* **Screening**?
+  * man letar screening metod för ovariecancer
+  * sjd med spec prevalens i populationens
+  * signfiinakt hälsoproblem
+  * perklinisk stadie där diagnos gm screening är möjlig
+  * tidig diagnos ökar kureringsgraden (botningsgraden)
+  * proper sens o ch spec
+  * **Ultraljud + CA125**: har tillsammans inte lyckats öka överlevnaden i screeningform
+* **Undersökningsmetoder och poängsättning**
+  * <img src="./imgs/gyn_sam_300321_4Gil8MCGe8.png" alt="4Gil8MCGe8" style="zoom:50%;" />
+  * RMI: UL + CA125
+    * under 200 man behandlar på vanlig enhjet
+    * över 200 man skickar till en cancerenhet för handläggning och behandling
+  * IOTA: Ultraljud för att bedöma 
+    * används solida partier, flerrummiga, stora, papillär projektion, ökat blodflöde, ascites
+  * !!! Maligna kriterier: solida partier, flerrummiga, stora, papillär projektion, ökat blodflöde, ascites
+
+
+
+<img src="./imgs/gyn_sam_300321_zxXjIVekNj.png" alt="zxXjIVekNj" style="zoom: 33%;" />
+
+* detta är en malign ovariecysta: kan ha ett septum vid 3d-avbildning
+
+
+
 ***Behandling***
+
+* Hysterektomi
+  * HNPCC-Lynch syndrome: De med familjär cancer syndrom bör genomgå hysterektomi?
 
 
 
@@ -4948,11 +5118,79 @@ cerivicit
   - - varierande funk
     - vissadelar mesenterielikannde stöd för nervfer o kärl
     - andra partier förtätas den t ligamentliknande strukturer som stabiliserar organen centralt i lilla bäckenet. 
-    - 
+
+
 
 ***Behandling***
 
 - Kolporafi: vaginal wall repair, intended för cystocele och rektocele
+
+
+
+## Koagulation
+
+### Antifosfolipidsyndrom
+
+
+
+
+
+### VTE
+
+***Epidemiologi***
+
+* **risk VTE fertil kvinna**: 0.5:100k
+* **p-piller**: ökad risk 2-6x -> 1-20:100k
+* **högst risk 1a året på piller**
+* **riskökning uppehåll p-piller**
+* **Mortalitetrisk:** 6-16:1M p år
+* ***Gestagen påverkar EJ risk för VTE***
+* **graviditet:** förekommer hos 12:10k graviditeter
+* **trombosrisk**: vecka 6 = risken vid p-piller
+  * över v6 är risken högre än vid p-piller
+
+
+
+***Riskfaktorer***
+
+* **Riskfaktorer för VTE**
+* **Age >35** 
+* **Obesity-discuss weight in absolute numbers-BMI**
+* **smoking**
+* **Previous VTE**
+* **Absolut kontraindikation**
+  * **VTE in parents, siblings**
+  * **Coagulation disorder:**
+    * antitrombindef
+    * protein C-def
+    * protein S-def
+    * factor V Leiden mutation
+    * APC-resistence without F V Leiden
+    * Protrombinmutation
+    * Dysfibrinogenemi
+    * High levels of av faktor VIII
+    * hyperhomocysteinemi
+  * **Heart failure, heart disease**
+  * **Cerebrovaskulär disease**
+  * **SLE**
+  * **Lupusantikoagulans**
+  * **Antifosfolipidsyndrome**
+  * **Inflammatory bowel disease**
+  * **Myeloproliferative conditions**
+  * **Malignancy**
+  * **Polycytemia vera**
+* **Komb metod skall ej påbörjas,** 
+* **Trombosprofylax bör ges om kvinnan har komb metod**.
+  * **Surgery**- consider LMWH
+  * **Immobilisation**- consider LMWH
+
+
+
+
+
+
+
+
 
 ## Fertilitet
 
@@ -5124,6 +5362,7 @@ cerivicit
 * **in-vitro fertilisering**
   * Den mkt kändare och bredare använda formen av assisterad befruktning, i Sverige och internationellt
   * **PGD nödvändigt med IVF**: PGD (Preimplantatorisk genetisk diagnostik)
+    * !!! Alltså om man ska gör en PGD, då kmr fertiliseringen via IVF teknik inklusive reimplantationen
   * **Stamcellsforskning, IVF nödvändigt**
   * visualisering enskilda äggblåsor ovarier, tillväxtmätning, punktion, ägguttagning gm UL, ffa vaginal UL undersökning
   * **ICSI**: intracytoplasmatisk spermieinjektion
@@ -5169,679 +5408,15 @@ cerivicit
 
 
 
-### Gestagena metoder
-
-#### Gestagen
-
-***Etiologi och patofysiologi***
-
-* **Gestagen** = progesteron (s847 i blueprints boken)
-* **Två faktorer bidrar till hälsoeffekter o biverkningar**
-  * **förmåga öka SHBG** (sex hormone binding globulin) som **binder upp** androgener
-  * **gestageeffekter på androgenreceptorer**
-    * om stimmar androgenreceptorn
-    * om blockar androgenreceptorn
-
-
-
-***Balans och effekter***
-
-* **ökad gestagen** 
-  * **androgent**
-    * akne
-    * hirsutism
-    * dålig lipidbalans
-  * **mineral-kortikoid**
-    * svullnad
-    * natriumretention
-    * högre blodtryck
-* **minskad gestagen**
-  * **anti-androgen**
-    * minskad akne
-    * minskad hirsutism
-    * bättre lipidlbalans
-    * sämre sexlust
-  * **anti-mineralkortikoid**
-    * natriumförlist
-    * vätskeförlsut
-    * kaliumretention
-    * sänkt blodtryck
-
-
-
-***Huvudsakliga effekter***
-
-* De eftertraktade effekterna av gestagen
-* **Förtjockning av cervikal mucus**
-* **inhibiterande sperm motilitet**
-* **Förtunnar endometrial lining**: så att den ej kan implanteras
-
-
-
-
-
-#### Systemiska lågdoserad gestagen
-
-***Etiologi och patofysiologi***
-
-* **Gestagenets effekter**
-  * **cervixsekret**
-  * **endometriepåverkan**: endometrial atrofi, att man får mindre endometrie, noterar att denna effekt inte är för alla utan för subset
-  * **ovulationspåverkan**: satt i parentes, TODO
-    * också subset effekt. , 50% av cyklerna
-
-
-
-***Epidemiologi***
-
-* **p-piller**: mindre o mindre del av marknaden
-* **Effektivitet**: *inte lika effektiva som kombinationspreparat*
-* **Failure rate**: 8%, som ökar om man doserar fel.
-
-
-
-***Biverkningar***
-
-* oregelbundna ovulationscykler
-* "breakthru bleedings"
-* ökad formation follikulära cystor
-* acne
-* bröstömhet, bröstirritation
-
-
-
-***Indikationer och fördelar***
-
-* ***Innehåller ej östrogen***: 
-  * passar drf för **ammande mammor**
-  * kvinnor där östrogen e kontraindicerat
-  * inkl kvinnor över 35åå som röker
-  * kvninnor hypertension, CAPD, kollagen vaskulär disorder, lupus, migrän med aura, historik VTE, 
-* **Andra användningsområdne**: abnormala uterina blödningar hos högrisk populationer där blödningarna har evaluerats adekvat (i.e. anovulerane blöndingar och bening endometrial hyperplasi hos dåliga kirurgi kandidater)
-
-
-
-***Behandling***
-
-* **P-piller**: "progestin only pills" (aka POPs);
-  * **Effekten minskar efter viss tid**: effekten av försegad cervixmukus minskar efter 22h, därför är det viktigt att man tar pillen samma tid varje dag. 
-  * **samma tid varje dag!**: exakt samma tid varje dag, endast 3-timmars glömskemarginal
-  * **gestagennivåerna kan sjunka för lågt**
-
-
-
-#### mellandoserade gestagena metoder
-
-***Etiologi och patofysiologi***
-
-* **ovulationshämmande**: 
-
-
-
-***Epidemiologi***
-
-* God säkerhet vid compliance
-* hög nöjdhet
-
-
-
-***Behaandling***
-
-* **kortverkande: p-piller**
-  * varje dag, 12h glömskemarginal
-* **långverkande: implantat**
-  * **sverige för 3 år: naxplanon**, armen lokalbedövning
-  * **världen även 5år: jadelle**, 2 stavar i armen lokalbedövning
-
-
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_BzJ3CPchbx.png" alt="BzJ3CPchbx" style="zoom:50%;" />
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_NGnCXKA73T.png" alt="NGnCXKA73T" style="zoom:50%;" />
-
-
-
-#### Högdoserade gestagena metoder
-
-***Etiologi och patofysiologi***
-
-* **ovulation kan ta ett tag komma tillbaka**
-
-
-
-***Biverkningar***
-
-* **bentäthet**: påverkar bentäthet
-  * suppression östrogen + östrogenreceptorer
-
-
-
-***Kontraindikation***
-
-* **ej t kvinnor under 23år**: innan "peak bone mass"; obs relativ kontraindik
-
-
-
-***Behandling***
-
-* **P-spruta**: depo-provera
-  * var 3e månad
-  * intramusk, im
-* **subkut inj finns**: mest USA, Afrika, mm
-
-
-
-
-
-
-
-### Hormonspiral
-
-***Presentation***
-
-* **vf ett av de mest effektiva preventivmedlen**	
-  * maximal hämning endometrietillväxt
-  * inget användarfel
-
-
-
-***Hormonspiral*** (diffa mot kopparspiral)
-
-* **!!! Levonorgestrel**: utsöndras lokalt i endometriet; endometiret blir ***tunt***
-* **Mirena**: 
-  * 25-40% av kvinnor blir amenorroiska (dosberoende) med jaydess ca 10% i studier, 
-  * kyleena 17%
-
-
-
-***Etiologi och patofysiologi***
-
-* **levonorgestrel effekter**
-* **cervixsekret**: segt, ogenomträngligt
-* **hämmar spermiemotilitet**: levonorgestrel hämmar spermiemotiliteten
-* **minskad blödningsmängd**: med upp t 90%
-* **EJ ovulationshämmande som regel**
-* enl abbe: endometrie tunnare
-
-
-
-***Epidemiologi***
-
-* **!!! lika säker som sterilisering!**
-* **högst andel nöjda användare av alla preventivmedel**
-* Bra för kvinnor med hög risk för grav
-* **ÖKar INTE risk för ektopsik grav**: av de som blir gravida är andelen ektopiska grav högre jmf med om inget preventivmedel
-* ***Infek vid spiral***: ovanligt, liten ökad risk upp t 3v efter insättning
-  * tskf Davon shield fr 60-talet
-
-
-
-***Handläggning***
-
-* ***Vid evt graviditet***: OMGÅENDE dra hormonspiralen
-  * ***Utesluta ektopisk graviditet***
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_Hj9UD7fMoH.png" alt="Hj9UD7fMoH" style="zoom:50%;" />
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_4Ckb9eqdpA.png" alt="4Ckb9eqdpA" style="zoom:50%;" />
-
-
-
-
-
-### Hormoner
-
-#### Östrogen
-
-***Etiologi och patofysiologi***
-
-* östrogen är ett gruppnamn
-
-
-
-#### Östradiol
-
-***Etiologi och patofysiologi***
-
-* Östradiol är det mest potenta östrogenet
-* **SHBG**: plasma E2 bundet med SHBG, 
-* **SHBG-bunden E2 ej biotillgänglig**
-* ! **Högre BMI -> mindre SHBG**
-  * **E2 ökar biotillgänglighet med ökande BMI**
-
-
-
-#### Hormonernas roll i p-piller
-
-
-
-***Presentation***
-
-* **När på p-pillerkartan är det mest riskabelt glömma piller**: början, slutet
-
-
-
-***Allmänt***
-
-* **Två alternativ:** 
-  * progesteron (gestagen) only metod eller 
-  * kombinerade: östrogen + progesteron (gestagen)
-
-
-
-***Gestagen***
-
-* **Mekanism**
-  * **Hämmar LH-frisättning**: är ett **antiandrogen!**
-  * **förtjockar cervixsekret**
-  * // verkar som att det finns androgena gestagener osså...
-  * // **Lutealfasen kommer aldrig ur den**: efter ovulation in i lutealfasen där progest och östrogen är högt. Efter ett tag för att hCG (LH analgo) droppar, så stöts endometrieslemhinann ut. med kombinerade p-piller så fortsätter man att få östrogen och progesteron, men hCG försvinner, så man stöter ut endometrieslemhinnan MEN man kommer aldrig ur lutealfasen / sekretionsfasen vad gäller cykeln
-    * **Atrofisk slemhinna**: därför att man aldrig kommer ur lutealfasen och in i follikelfasen där östrogen ensamt stiger, kommer endometrieslemhinnan aldrig att prolifera.  
-* **Resultat**
-  * **hämmar ovulation**: det är gestagenet som gör att man inte ägglossar
-  * **hindrar spermier**: fr att *penetrera cervix*: i.e. de kommer ej förbi portio
-
-
-
-***Östrogen***
-
-* **Mekanism**
-  * ökar konc av progesteronreceptorer
-  * hämmar FSH-frisättning
-  * ***SHBG resultat***: att den kan öka SHBG koncentrationen, sex hormone binding globulin
-* **Resultat**
-  * bidrar t bättre blödningskontroll
-  * hämmar utv av dominant follikel
-
-
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_a6DkGUPDPZ.png" alt="a6DkGUPDPZ" style="zoom:50%;" />
-
-
-
-***Balansen antiandrogen + androgen***
-
-* **Kombinerade preparat** har olika effekter
-* **Diane**: som innehåller mest östrogen 35mikrogram/d och CPA (cypretone acetat, som har stark antiandrogen effekt)
-  * detta preparat är i Sverige enbart ett acne preparat
-  * den är också antikonception i andra länder i världen
-* **Dienorette**: lite mindre östrogen och stark ***antiandrogent gestagen***; antikonception i Sverige utöver acne preparat
-* **Levesia**: mindre östrogen, och ett ***androgent gestagen***
-  * ger mindre acne än placebo
-  * men det är fortfarande de antiandrogena man använder mer? .. .
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_1Rqg9ox18p.png" alt="1Rqg9ox18p" style="zoom:50%;" />
-
-
-
-***Biverkningar***
-
-* **Östrogena biverkningar**
-  * **Vätskeretention:** ökad vikt, svullnadskänsla 
-    * studier har visat att man inte går upp i vikt av preventivmedel
-  * **illamående**
-  * **pigmentering**: chloasma, melasma
-  * **flytning**
-* **Gestagen biverkan** (ofta androgen (som ger dessa?))
-  * **ökad aptit o viktuppgång** 
-  * **amenorre, oligomenorre**
-  * **akne**: cochrane review bekräftar att alla kom metoder *lindrar akne*
-  * **torrhet**: ögon, mun, vagina, antiöstrogen effekt
-  * **trötthet, depression:** se upp med PMS-pat
-  * **minskad sexlust**: vanligt klagomål
-
-
-
-***Sexlust***
-
-* I studier sjunker jfr med placebo vid användning av dessa. 
-* orgasm lika
-* **lika tillfredställande samlag**
-* **Slutsats**: 
-  * This study shows no negative impact of a levonorgestrel-containing oral contraceptive on overall sexual function, 
-  * although three of seven sexual function domains were adversely affected.
-
-
-
-***Halveringstiden och uppehåll*** 
-
-* **Äggblåsan blir större med tid**: ju mer tid man ger ägget att växa deto större äggblåsa blir det
-* **antikonceptionen hindrar att blåsan växer**: äggblåsan hindras växa mha antikonceptiva hormonerna (gestagenet?)
-* **uppehåll låter blåsan växa**: en studie som jämförde antalet dagar uppehåll med p-piller och storleken på äggblåsan
-* **uppehåll max 4 dagar**: slutsats fr studien var att man ej ska gå över 4 dagars uppehåll fr pillren
-  * **färre graviditeter om man har max 4 dagars uppehåll**
-  * för att 7 dagars uppehåll e lite för länge och äggblåsan växer sig stor
-* **Mår sämre av uppehåll**: kvinnor mår sämre av blödningarna, bäckensmärta, HB, ömma bröst, svullnadskänsla, äter en del alvedon
-
-
-
-***Rekommendation vad gäller uppehåll o p-piller***
-
-* **Pat ska äta karta på karta på karta, utan uppehåll**
-* **TILLS att de får en blödning**
-* **Efter blödning får man MAX ha 4 dagars uppehåll**
-
-
-
-***Aldrig farligt att inte blöda***
-
-* det är aldrig farligt att inte blöda
-* **så länge man får hormoner enl FL** ()
-
-
-
-***Förebygga ohälsa***
-
-* **menorrhagia, dyusmenorrhea**: blöder mindre, mindre ont
-  * enorm effekt bra påblödning o smärta
-* **ovarian cysta**: mindre cystor
-* **mindre benskörhet**: för att östrogen
-* **nedgång cancer**
-  *  **ovarian cancer**
-  * **endometrial cancer:** för att endometriet blir så tunt tunt att det minskar risken för detta
-  * **kolon cancer**: tror östrogen effekt
-  * **mindre myom**
-* **fibroider minde**
-* **acne**: mindre acne
-* **mindre PMS, PMDD**: minskar detta o behandlar detta
-* **järnbristanemi**
-* **Mindre mensvärk** hos alla kvinnor
-  * **Endometrios**: gestagenet (progeteronet) leder till att endometrialslemmhinna blir tunn och atrofisk, därför en behandling av endometrios.
-* **Mindre blödning**: olika effekt olika regimer
-  * vissa regimer kombinationsprep leder t att man aldrig behöver blöda
-  * även vid uppehåll att man blöder mindre jfr rest
-* **mindre risk benigna cystr**
-  * färre follikelcystor
-  * färre corpusluteum cystor
-* **PMDD**: pre menstrualt dysforisk syndrom
-  * gestagen dyspridenom är mkt snällare mot hjärnan jfr kroppens; menar att det är bättre än naturens. 
-* **acne**: ett preparat med en östrogennivå som höjer SHBG och mindre fritt testosteron, sen lägger till antiandrogena gestagener
-  * dubbeleffekt och bra effekt på acne.  
-  * ta upp det med patienter som kommer in med acne: att man kan använda preventivmedel för att combat acne.
-* ***Ovarial cancer***
-  * **komb metoder** reducerar ridsk dö ovarialcancer med hälften
-  * **anovulationen är skyddande**: ju färre ggr man anovulerar desto mindre risk för ovarialcancer, detta kan man alltså få med p-preparaten
-    * precis som amning o grav skyddar mot ovarialcancer
-* ***Endometriecancer***
-  * **progesteronet minskar risken**: gm att man får en atrofierad tunnare slemhinna som i sin tur leder till reducerad propensitet för att utveckla ovarialcacner
-* ***Kolorektalcance***
-  * relaterat med östrogen
-* **bröstcancer**: kom ihåg vilke kvinna man har framför sig, det är enbart EGEN bröstcancer i anamnesen som är kontraindikation för hormonell antikonception
-
-
-
-***Sammanfattning***
-
-* **Säkrare med kombinationspreparat**
-* **risk VTE** vid kombinerad med olika gestagener är oklar
-* **biverkningsprofilen** beror på balans östrogen o gestagen, samt gestagenets profil
-* komb har flera kortsiktiga häslofördelar såsom minskad blödning o mensvärk
-* komb metod har flera långsiktiga fördelar, e.g. minskad cancer risk
-
-
-
-***Läkemedelsinteraktioner***
-
-* **Antiepileptika**: obs antiepileptika kan användas för smärta o migrän
-* tuberkelostatika
-* johannesört
-* HIV-mediciner
-
-
-
-***Effektivitet preventivmedel***
-
-* **nexplanon är världens mest effektiv preventivmedel**: sitter den i armen är den fit and forget, kommer att fungera bra. 
-* användarberoende metoderna: att man ska behöva göra ngt, då märker man att skillnad perfekt användning jfr typisk användning att det finns väldigt stor skillnad
-  * kvinnor har inte koll på skillnadi effektivitt
-* unga kvinnor: dåliga med preventivmedel; visar att långtidspreventuivmedel är mkt effektivare. att kortverkande kvinnor många under 21åå som blir gravida jfr över 21.
-  * det är samma unga kvinnor som använder de minst effektiva metoderna
-  * SARC är inneffektiva
-  * LARC bör höjas upp: att 40% av kvinnor i Sverige bör använda dessa
-
-
-
-### Infertilitet
-
-
-
-***Presentation***
-
-* **Olga är 32 år
-  * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
-  * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
-
-
-
-***Definition***
-
-* **Sverige**: oförmåga gravid 1år av oskyddat samlag. 
-* **WHO definierar**: ofrivilligt barnalöshet 2år av oskyddat samlag
-  * också infertilitet om man inte lyckas föda levande barn enl WHO. 
-* **Skillnad sterilitet:** absolut oförmåga att levande barn. 
-
-
-
-***Etiologi och patofysiologi***
-
-* **Olika orsaker**
-  * **Ovulatoriska störningr:** 
-    * hypothalamisk anovulation.
-    * PCO 
-    * ovariellsvikt
-  * **Tubarobstruktion:** 
-    * **infektioner**: 
-      * klamydia, gonorre, PID? har att göra med ärrvävnad som bildas och efterföljande adherenser, so mförsvårar för ovums resa ned för tuborna till uterus, samt av fertilisering av ovum med sperimier. Då det är svårt för implantation uteralt, kan orsaka infertilitet. 
-    * **!!! ektopisk graviditet**: 
-      * Notera relationen med **infektioner**. att det är infektionerna som kan påverka tuborna, varpå det ökar sannolikeheten för x-grav
-    * **endometrios**
-  * **Endometrios**
-  * **Uterina orsaker:** 
-    * submukösa leiomyom, 
-    * malformation
-  * **Sexuellstörning**: vaginism
-  * **Postoperativa**: 
-    * kejsarsnitt att det är färre barn efter kejsarsnitt och glesare mellan barnen (vet ej om frivilligt eller ej; kan confounding factor; eller orsaker t kejsarsnitt som hög ålder, eller annan sjjd exempelvis)
-  * **Läkemedel + tidg behandlingar**: 
-    * strålbehandling; cytostatika; NSAID påverkar fovulation; 
-    * spermakvalitet negativt: cimetidin, sulfasalazin, androgener
-  * **Tidigare infektioner**
-    * // klamydia kan försvåra för graviditet; till skillnad fr candida, bakteriell vaginos, HPV som inte påverkar fertilitet
-    * infektioner speciellt  genitalia
-  * operationer i bukhhålan
-  * Hos mannen: ljumskbråck, tidg operationer genitalia, ljumsbråcksoperationer. 
-* **Fekunditet** 
-  * Ålder: komplex o multifaktoriell. ökad medicinska faktorer, hormon, psykosociala faktorer, gyn sjd e.g. myom endometrios o resttillstånd efter infektion har betydelse
-    * 25åå = 31%
-    * 30åå minskad fekunditet
-    * 45åå fåtal kvinnor som blir gravida
-  * 40åå: kraftigt försämrad fekunditet
-    * öakde anovulatoriska cykler
-    * försämrad ovarailfuntkion med färre folliklar, högre 
-    * högre andel defekta oocyter 
-    * högre andek kromosmalt abnorma embryon
-  * **indicens missfall**: 30åå 8-10%; 40åå 30%
-  * livsstil: hög kaffekonsumption, alkohol, rökning, marijuana, övervikt, undervikt
-  * **STI ökar med missbruk, ökad missfallsfrekvens.**
-  * alkohol och lägre spermieantal
-  * låg koitusfrekcens (färre än 1gg i veckan) minskar osså kumulativ graviditetsfrekvens inom ett år. 
-
-
-
-***Indelning***
-
-* **Primär infertilitet**: frånvaro av konception, trots 2års graviditetsförsök
-* **Sekundär infertilitet**: kvinna varit gravid, men sedan inte blivit gravid igen efter 2års försök. 
-
-
-
-***Epidemiologi***
-
-* vanligt
-* primär infertilitet: 3.5-6.6%
-* sekundär infertilitet: 2-10%
-* 15-20% av alla par b eräknas inte få barn när de önskar. 
-* sterila par: 1% 
-* fekunditet: sannolikhet för konception per menscykel eller per månad
-  * antalet kvinnor som blir gravida per cykel el månad, delat med antalet som försöker bli grav. 
-
-
-
-***Kliniska kännetecken***
-
-
-
-***Utredning och handläggning***
-
-* **i  regel 1år efter oskyddat samlag utan graviditet.** 
-
-* **Förutsättning för infertilitetsutrednin**g
-
-  * förutsätter båda parterna medverkar
-  * samkönade par tillåtsbehandling med insemination eller in vitro fertilisering
-  * enl lag: relation betraktas stabil, paret är gifta, registrerade partners eller samboende för att tillåtas asssterad befrukt. 
-  * praxis: parest levt ihop minst 1 år 
-  * ensamstående tillåts ej befruktas assisterat
-  * heterosex par, haft sex minst 1 år, oskyuddat. 
-  * hög ålder (över 35åå för kvinna)redan klar eller misstänkt fertilitetsnedsättande faktor
-
-* **före utredning:**
-
-  * inga kontraindikationer för behandling grav: allvarlig medicinsk eller psykisk sjd , missruk, annan psykososical problem (barn till omsorgssviktande päron ökad risk för somatisk + psykisk ohälsa)
-  * utredning bör ej göras förrän båda parter åtminstone 19åå; varit myndiga i ett år. 
-  * begränsad utredning kvinnor 40-42åå
-  * INGEN utredning kvinnor efter 43åå, gravmöjligheter mkt små
-
-* **klara sked så tiditg som möjligt**: för att så pass krisande thing, att de behöver få svar asap. 
-
-* **utredningsmål + syfte**: målet infertila paret ska få ett gemensamt barn. förklaring till infertilitet. info om bästa möjliga behandling
-
-* **Anamnes**
-  
-  * Ålder
-  * Pubertetsutvecklin, tidg sjd
-  * **menscykel mönster**: amenorre, oligomenorre, ovulationstester
-    * helt regelbunden cykel, 28-32d intervall, UTESLUTER i regel ovulationsdefekt
-    * oligomenorre med clängd över 40d + amenorre (>6mån mellan mens): störning ovulationsmekanism
-    * korta cykler (mindre än 26d): störning
-    * oregelbunden intervall, även om inom 26-35d: störning
-  * dysmenorre eller dyspareuni: tda endometrios, ta ställning t indik för laparoskopi föreligger. 
-  * tidg grav, även missfall
-  * riskfaktorer för tubarskada, operationer
-  
-* **Livsstilsfaktorer**
-  * rökning
-  * alkohol
-  * övervikt förenad med subfebrilitet
-  * speciellt hos kvinnor med oligomenorre och PCOS
-  * undervikt
-  
-* **Status**
-  * **BMI**: övre gräns 30-32 BMI för behandling; 18-19 efterfråga ätstörning. 
-  * **PCOS frågeställning** (acne, hyperandrogenism, hirsutism)
-  * **Acne**
-  * **tecken hyperandrogenism**
-  * **thyroidea**
-  * **gynundersökning**: utesluta anatomiska anomalier
-  
-  * **UL**: endometrietjocklek, ovariers storlek, evt follikel, corpus luteum rel t cykelfas. antal antral folliklar, förekomst randställd folklar, tecken PCOS. 
-    * säckformade äggledare (sektosalpinx) eller cystor ovarier viktiga fiagnostisera
-  
-* **Infektionsprover** (enl bok): båda parter för HBV, HCV, HIV. 
-
-  * **i fall assiterad befruktning aktuell**: enl lag ta HTLV1, HTLV2 och syfilis
-
-* **Diagnostik**
-  
-  * **Ovulation:** 
-    * UL folliklar, 
-    * antal folliklar, 
-    * normal mens
-    * S-progesteron
-    * TSH
-    * FSH,
-    * LH o PRL om amenorre el oligomenorre
-  * **Tubar**: hystrosonossalpingografi
-  * **Endometrios**: anamnes, dysmenorre, smärta, gynekologiskt status, smärtfulla resistenser, ovariecystor
-  * **Uterus utseende:** UL
-  
-* // mannen: infek underliv, tidg ljumskbårckoperation, exponering toxisk ämnen, strålning. normalt spermaprov räcker utredningsmässigt för män. 
-
-
-
-***Behandling***
-
-* Rekommendationer
-  * normal menscykel 26-35d, ovulation 12-14d före mens, på 28d cykel är ovulation d14. efter ovulation ovum lever 1 dygn, spermier 3d (minst). 
-  * bästa konceptionsmöjlighet: samlag inom 2d fr ovulation. 
-* **Ovulationinduktion**
-  * antiöstrogen i PCO
-  * gonadotropin vid hypothalamisk amenorre
-* **Operativ behandling endometrios**
-* **inseminering + ovulationsinduktion** om oförklarlig infertilitet
-* **IVF:** 
-  * tubarskada
-  * endometrios
-  * anovulation
-
-### Kombinerade metoder
-
-***Etiologi och patiofysiologi***
-
-* Innehåller
-  * östrogen
-  * gestagen
-
-
-
-***Handläggning***
-
-* Förstahandsval: när kombinerad hormonell antikonception önskas
-  * när man önskar kombad hormonell antikoncept rekommenderas vid förstagångsförskrivning monofasiskt preparat med levonorgestrel, norgestimat eller noretisteron efter som prep med dessa gestagener gr lägst risk för VTE, rek grad B
-  * vid rådgiv o förskrivning ska ta hänsyn t önskemål om preparat o neg faktorer som bedöms påverka nöjdhet o följsamet
-
-
-
-***Behandlingar***
-
-* p-piller
-* p-ring
-* p-plåster
-* p-sprutor (inte i Sverige)
-
-
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_3E2PVQsAbt.png" alt="3E2PVQsAbt" style="zoom:50%;" />
-
-
-
-
-
-#### P-ringen
-
-***Etiologi och patofysiologi***
-
-* **Den kombinerade ringen**
-  * **!!! Verkar INTE lokalt**
-  * **Verkar via  blodet**: väldigt viktigt att förstå enl FL, att p-ringen verkar via blodet
-* ***Mycket jämnr serum-koncetration hormon***
-* **Mängd hormoni**: FL kommenterade ej mängden hormon
-* TODO: är det denna som hon starkt rekommenderade? man kan faktiskt se p-rings koncentrationerna ovan
-
-
-
-
-
-#### P-plåster
-
-***Etiologi och patofysiologi***
-
-* mycket högre koncentrationer hormon: detta jfr med p-ringen denna får lägre men också jämnare, se ovan
-* Mycket jämNare koncentrationer hormon (östrogen som man presenterade i en studie på ppt)
-* jämfört med p-piller: med piller får man mycket kraftigare uppgångar och nedgångar
-* uppnår steady state
-
-
+#### IVF
+
+***Metodmässigt***
+
+* Ovariell stimulering: ett antal folliklar mognar
+* Utplockning
+  * !! lokalanestetika i bakre fornix!
+  * Ultraljudsledd utplockning: där man fäst nålen på proben, varpå man kan rikta och se nålen på UL. Går in i antrum och suger ut allt
+  * Man är ganska hänsynslös mot ovarievävnaden när man gör detta. 
 
 
 
@@ -5857,13 +5432,24 @@ cerivicit
 
 ***Kliniska kännetecken***
 
-* Hormonellt
+* **Hormonellt**
   * FSH, LH ökar
   * östrogen, progesteron sjunker
 
 
 
 ***Utredning och handläggning***
+
+
+
+***Behandling***
+
+* Klimakteriebesvär
+  * HRT: östrogen + gestagen
+  * ERT: 
+    * om man saknar livmoder kan man ge ERT;
+    * man ger EJ HRT om man saknar en livmoder enl abbe. 
+    * // hormonspiral kan agera komplement till ERT för att skydda endometrieslemhinnan...
 
 
 
@@ -5925,216 +5511,6 @@ cerivicit
   * buktappning laparocentes
 
 
-
-
-
-
-
-### Preventivmedel
-
-***Epidemiologi***
-
-* **Anslutning till abort:** att pat avstått preventivmedel för att oro eller tidig erfarenheter med biverkningar; 
-  * majoritet börjar använda prev medel efter genomförd abort, att man är mer motiverad till att göra d.
-
-
-
-***Behandlingsmetoder***
-
-* **Barrärmetoder**: spermien kmr ej fram
-* **Hormonella metoder**
-  * **Lågdoserade gestagena metoder;** spermien kmr inte fram
-  * **mellandos och högdoserade gestagena metoder**: ingen ägglossning
-  * **kombinerade metoder**: ingen ägglossning
-* **Intrauterina metoder:** spermien inte kommer fram
-* **Sterilisering**: spermien kommer inte fram
-* **Cykelmetoder**: ägg o spermie finns aldrig på plats samtidigt
-* **Kortverkande**: P-piller, p-plåster, p-ring, p-spruta, barriärmetoder
-* **Långverkande**: implantat, intrauterina metoder
-* **Permanenta**: manlig och kvinnlig sterilisering
-
-
-
-***Relation till abort***
-
-* **Rådgivning**: rådgiver och förser information vad gäller preventivmedel i samband med abort. Att man kan undvika vad aborten föranleder gm prevention. 
-  * samband med besöket på abortmottagningen 
-* **Hormonella metoder**: kan påbörjas samma dag eller dagen  efter abortbehandlingen
-  * **påverkar ej abortprocessen**
-* **vid Medicinsk abort**: vaginal p-ringsanvändning påbörjas dagen efter eller ngn dag etfter misoprostolbehandlingen då blödning minskat
-* **kopparspiral, hormonspiral**: kan sättas in i smamband med kirurgisk abort, utan risk för postop infektioner ökar
-* **medicinsk abort:** spiral sättas in så fort grav avbruten
-* **Spiralen, när sätts in**: färre återbesöker om spiralen sätts in 3 veckor efter abort jfr 1 vecka efter abort. 
-* **kompletterande skydd**: om preventivmetod 5d efter abort, att man sätter in 
-
-
-
-***Barriärmetoder***
-
-* **Manlig kondom**
-  * ska sättas på innan penetration
-  * hålla runt penisroten när man drar ut
-* **kvinnlig kondom (femidom)**
-  * minimal marknad i Sverige
-  * viss betydelse Afrika, särskilt sexarbetare
-  * <img src="./lectures/gyn_lec//imgs/gyn_lec_q0xTaYaeoU.png" alt="q0xTaYaeoU" style="zoom:50%;"/>
-* **Pessar** (diafragma på engelska=)
-  * sätta in rätt viktigt
-  * har spermiedödande medel
-  * **typer:** cervixpessar som nästan caps cervix, och vaginal pessar som täcker mer av vagina
-    * **cervixpessar** måste sättas av en kliniker, patienten kan ej göra detta sj; mindre effektiv jfr andra pessar,
-  * ***Effektivitet***: "actual" effectiveness med spermiedödande medelär runt 85%
-  * ***Biverkningar***: 
-    * Toxic schock syndrome (TSS) om den är kvar för länge, kan koloniseras av staf aureus
-    * hypersensitivitet till gummi, latex, eller spermiciden
-  * **Svåra att använda**: få som fortsätter med den
-  * <img src="./lectures/gyn_lec/imgs/gyn_lec_A6OiqMA20B.png" alt="A6OiqMA20B" style="zoom:50%;"/>
-* **fem cap (cervixpessar i silikon)**
-  * enl studier mindre säker än pessar, svårare att använda
-
-
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_KQJFXDPZS4.png" alt="KQJFXDPZS4" style="zoom:50%;"/>
-
-
-
-
-
-
-
-***Sterilisering***
-
-* ***Lag:*** över 25åå, skriva bekräftelse på erhållen info (permanent ingrrepp; andra prev metoder; kruator vb)
-* **manlig**: vas deferens delas bilat, lokalbedövning
-* **kvinnlig**: världens vanligaste antikonception; 
-  * laparoskopiskt: 
-  * via laporotomi (e.g. samband sectio); 
-  * hysteroskopisk
-* ***Laparoskopisk sterilisering***
-  * Sterilisera rätt struktur
-  * lägg dig nära uterushörnet
-  * bränn, klipp, ligera, sätta clips
-  * dagop
-  * via tomi kan göras e.g. vid sectio
-* ***Hysteroskopisk sterilisering***
-  * Finns fn ej tillgängligt
-  * tar 3 mån innan steril
-
-
-
-***Kopparspiral***
-
-* ***Sekreatpåverkan***: sekret i cervix påverkas, uterus och tuba
-* ***koppararea*** : detta är viktigt
-* ***Koppareffekt***
-  * hämmar speriemotilitet
-  * spermatotoxiskt
-  * embryotoxiskt
-* förhindrar implantation pga inflammation i endometriet
-* ***Främsta verkningsmekanism = hindrar FERTILISERING***
-* ***Biverkningar***
-  * ***Rikligare blodningar vid mens***: ökad blodförlust vid menstruation, med 50-75%
-  * ***NSAID, ciklokapron***: blödningarna kan minskas med NSAID och ciklorapron. 
-
-
-
-***Utredning och handläggning***
-
-* ***Anamnes***
-  * **tidg erfarenheter p-piller**
-  * **tidg grav**
-  * **menstruationsanamnes**
-  * **relation, livssituation**
-  * **kontraindikationer**
-* ***Undersökning***
-  * **Gynekologisk undersökning**
-  * **BT vid p-pillerförskrivning**
-  * **evt cytologprov, klamydiaprov**
-
-#### Kopparspiral
-
-***Presentation***
-
-
-
-***Etiologi och patofysiologi***
-
-* **Kopparspiral**: kopparjonerna är toxiska för spermier och embryon. endometriet tunnare. 
-* **koppararea är viktigt**: utsöndrar kopparjoner tar sig in i sekret i cervix o tuba. Kopparna ska va tillräcklig kroppsarea. 
-
-
-
-#### P-stav
-
-***Presentation***
-
-* **28åå kvinna, Michelle**
-  * har just genomgått en kirurgisk abort och har bestämt sig för en p-stav efteråt. Hennes kompis har istället fått en kopparspiral och nu undrar Michelle hur p-staven fungerar och vad det är för skillnad på den och spiralen. Beskriv verkningsmekanismen för P-stav och kopparspiral.
-  * verkningsmekanism p-stav o kopparspiral
-    * p-stav: ovulatiosnhämning, endometriet blir tunnare, cervixsekret tjockare ogenomträngligt. 
-    * kopparspiral: hindrar implantation, hämmar spermiemotilitet (spermatoxiskt) och embryotoxiskt.
-
-
-
-
-
-### Preventivmedelsråd
-
-
-
-I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera:
-
-* Vad gör du om du blir gravid? (om kvinnan ändå tänker sig behålla graviditeten är behovet av ett mycket säkert preventivmedel kanske lägre)
-* hur lång tidkvinnan har behov av preventivmedlet
-* hur ofta hon har behov av preventivmedel
-* vilka förväntningarhon har på sitt preventivmedel
-* hur livssituationen ser ut avseende fasta rutiner (som kan påverka möjligheter att komma ihågett dagligt intag)
-* om kvinnan har behov av några positiva hälsoeffekter av vissa preventivmedel
-
-
-
-***Fall 1***
-
-* 17åå, inget tidg prev medel, kondom sporadiskt; pojkvän sedan 3 mån, frisk, ingen heredite
-  * P-ring
-  * p-stav
-  * hon ska få rätt info o välja sj
-
-
-
-***Fall2***
-
-* fött 3 barn vaginalt
-* tidg p-piller fungerat bra
-* ammar fortfarande
-* ingen heredite av betydelse
-* **fler frågor**
-  * **villu ha fler barn**
-  * **vad rek vi:** vi ska informera om de andra alternativen, bra info; **kanske ska vara en långverkande metod i 5år,** 
-  * ***därför ett spiralfall***
-
-
-
-***Fall 3***
-
-* **28åå kvinna**
-* inga barn
-* ingen fast partner
-* haft cellförändringar o koniserats
-* mamma haft blodpropp på  p piller
-* ätit gestagen mellanpiller men blödde hela tiden
-* prövat p-stav samma sak
-* v**ad ska vi rekommendera**
-  * hormonspiral: kan rek ändå
-  * spelar ingen roll att hon koniserats
-  * bara för att hon blött på gestagena, betyder inte att hon blöder på spiral
-    * för att gestagena tar bort ovulation ägglossning
-    * och hormonspiralen agerar lokalt, och hon troligen har kvar sin ägglossning och ett bra blödningsmönster med hormonspiralen
-  * annars kopparspiral
-
-
-
-#### Sammanfattning Preventivmedel
 
 
 
@@ -7099,59 +6475,6 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
-## Koagulation
-
-### VTE
-
-***Epidemiologi***
-
-* **risk VTE fertil kvinna**: 0.5:100k
-* **p-piller**: ökad risk 2-6x -> 1-20:100k
-* **högst risk 1a året på piller**
-* **riskökning uppehåll p-piller**
-* **Mortalitetrisk:** 6-16:1M p år
-* ***Gestagen påverkar EJ risk för VTE***
-* **graviditet:** förekommer hos 12:10k graviditeter
-* **trombosrisk**: vecka 6 = risken vid p-piller
-  * över v6 är risken högre än vid p-piller
-
-
-
-***Riskfaktorer***
-
-* **Riskfaktorer för VTE**
-* **Age >35** 
-* **Obesity-discuss weight in absolute numbers-BMI**
-* **smoking**
-* **Previous VTE**
-* **Absolut kontraindikation**
-    * **VTE in parents, siblings**
-    * **Coagulation disorder:**
-        * antitrombindef
-        * protein C-def
-        * protein S-def
-        * factor V Leiden mutation
-        * APC-resistence without F V Leiden
-        * Protrombinmutation
-        * Dysfibrinogenemi
-        * High levels of av faktor VIII
-        * hyperhomocysteinemi
-    * **Heart failure, heart disease**
-    * **Cerebrovaskulär disease**
-    * **SLE**
-    * **Lupusantikoagulans**
-    * **Antifosfolipidsyndrome**
-    * **Inflammatory bowel disease**
-    * **Myeloproliferative conditions**
-    * **Malignancy**
-    * **Polycytemia vera**
-* **Komb metod skall ej påbörjas,** 
-* **Trombosprofylax bör ges om kvinnan har komb metod**.
-    * **Surgery**- consider LMWH
-    * **Immobilisation**- consider LMWH
-
-
-
 
 
 ## Obstetrik
@@ -7745,6 +7068,1055 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+
+
+## Preventivmedel
+
+
+
+### Gestagena metoder
+
+#### Gestagen
+
+***Etiologi och patofysiologi***
+
+* **Gestagen** = progesteron (s847 i blueprints boken)
+* **Två faktorer bidrar till hälsoeffekter o biverkningar**
+  * **förmåga öka SHBG** (sex hormone binding globulin) som **binder upp** androgener
+  * **gestageeffekter på androgenreceptorer**
+    * om stimmar androgenreceptorn
+    * om blockar androgenreceptorn
+
+
+
+***Balans och effekter***
+
+* **ökad gestagen** 
+  * **androgent**
+    * akne
+    * hirsutism
+    * dålig lipidbalans
+  * **mineral-kortikoid**
+    * svullnad
+    * natriumretention
+    * högre blodtryck
+* **minskad gestagen**
+  * **anti-androgen**
+    * minskad akne
+    * minskad hirsutism
+    * bättre lipidlbalans
+    * sämre sexlust
+  * **anti-mineralkortikoid**
+    * natriumförlist
+    * vätskeförlsut
+    * kaliumretention
+    * sänkt blodtryck
+
+
+
+***Huvudsakliga effekter***
+
+* De eftertraktade effekterna av gestagen
+* **Förtjockning av cervikal mucus**
+* **inhibiterande sperm motilitet**
+* **Förtunnar endometrial lining**: så att den ej kan implanteras
+
+
+
+
+
+#### Systemiska lågdoserad gestagen
+
+***Etiologi och patofysiologi***
+
+* **Gestagenets effekter**
+  * **cervixsekret**
+  * **endometriepåverkan**: endometrial atrofi, att man får mindre endometrie, noterar att denna effekt inte är för alla utan för subset
+  * **ovulationspåverkan**: satt i parentes, TODO
+    * också subset effekt. , 50% av cyklerna
+
+
+
+***Epidemiologi***
+
+* **p-piller**: mindre o mindre del av marknaden
+* **Effektivitet**: *inte lika effektiva som kombinationspreparat*
+* **Failure rate**: 8%, som ökar om man doserar fel.
+
+
+
+***Biverkningar***
+
+* oregelbundna ovulationscykler
+* "breakthru bleedings"
+* ökad formation follikulära cystor
+* acne
+* bröstömhet, bröstirritation
+
+
+
+***Indikationer och fördelar***
+
+* ***Innehåller ej östrogen***: 
+  * passar drf för **ammande mammor**
+  * kvinnor där östrogen e kontraindicerat
+  * inkl kvinnor över 35åå som röker
+  * kvninnor hypertension, CAPD, kollagen vaskulär disorder, lupus, migrän med aura, historik VTE, 
+* **Andra användningsområdne**: abnormala uterina blödningar hos högrisk populationer där blödningarna har evaluerats adekvat (i.e. anovulerane blöndingar och bening endometrial hyperplasi hos dåliga kirurgi kandidater)
+
+
+
+***Behandling***
+
+* **P-piller**: "progestin only pills" (aka POPs);
+  * **Effekten minskar efter viss tid**: effekten av försegad cervixmukus minskar efter 22h, därför är det viktigt att man tar pillen samma tid varje dag. 
+  * **samma tid varje dag!**: exakt samma tid varje dag, endast 3-timmars glömskemarginal
+  * **gestagennivåerna kan sjunka för lågt**
+
+
+
+#### mellandoserade gestagena metoder
+
+***Etiologi och patofysiologi***
+
+* **ovulationshämmande**: 
+
+
+
+***Epidemiologi***
+
+* God säkerhet vid compliance
+* hög nöjdhet
+
+
+
+***Behaandling***
+
+* **kortverkande: p-piller**
+  * varje dag, 12h glömskemarginal
+* **långverkande: implantat**
+  * **sverige för 3 år: naxplanon**, armen lokalbedövning
+  * **världen även 5år: jadelle**, 2 stavar i armen lokalbedövning
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_BzJ3CPchbx.png" alt="BzJ3CPchbx" style="zoom:50%;" />
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_NGnCXKA73T.png" alt="NGnCXKA73T" style="zoom:50%;" />
+
+
+
+#### Högdoserade gestagena metoder
+
+***Etiologi och patofysiologi***
+
+* **ovulation kan ta ett tag komma tillbaka**
+
+
+
+***Biverkningar***
+
+* **bentäthet**: påverkar bentäthet
+  * suppression östrogen + östrogenreceptorer
+
+
+
+***Kontraindikation***
+
+* **ej t kvinnor under 23år**: innan "peak bone mass"; obs relativ kontraindik
+
+
+
+***Behandling***
+
+* **P-spruta**: depo-provera
+  * var 3e månad
+  * intramusk, im
+* **subkut inj finns**: mest USA, Afrika, mm
+
+
+
+
+
+
+
+### Hormonspiral
+
+***Presentation***
+
+* **vf ett av de mest effektiva preventivmedlen**	
+  * maximal hämning endometrietillväxt
+  * inget användarfel
+
+
+
+***Hormonspiral*** (diffa mot kopparspiral)
+
+* **!!! Levonorgestrel**: utsöndras lokalt i endometriet; endometiret blir ***tunt***
+* **Mirena**: 
+  * 25-40% av kvinnor blir amenorroiska (dosberoende) med jaydess ca 10% i studier, 
+  * kyleena 17%
+
+
+
+***Etiologi och patofysiologi***
+
+* **levonorgestrel effekter**
+* **cervixsekret**: segt, ogenomträngligt
+* **hämmar spermiemotilitet**: levonorgestrel hämmar spermiemotiliteten
+* **minskad blödningsmängd**: med upp t 90%
+* **EJ ovulationshämmande som regel**
+* enl abbe: endometrie tunnare
+
+
+
+***Epidemiologi***
+
+* **!!! lika säker som sterilisering!**
+* **högst andel nöjda användare av alla preventivmedel**
+* Bra för kvinnor med hög risk för grav
+* **ÖKar INTE risk för ektopsik grav**: av de som blir gravida är andelen ektopiska grav högre jmf med om inget preventivmedel
+* ***Infek vid spiral***: ovanligt, liten ökad risk upp t 3v efter insättning
+  * tskf Davon shield fr 60-talet
+
+
+
+***Handläggning***
+
+* ***Vid evt graviditet***: OMGÅENDE dra hormonspiralen
+  * ***Utesluta ektopisk graviditet***
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_Hj9UD7fMoH.png" alt="Hj9UD7fMoH" style="zoom:50%;" />
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_4Ckb9eqdpA.png" alt="4Ckb9eqdpA" style="zoom:50%;" />
+
+
+
+
+
+### Hormoner
+
+#### Östrogen
+
+***Etiologi och patofysiologi***
+
+* östrogen är ett gruppnamn
+
+
+
+#### Östradiol
+
+***Etiologi och patofysiologi***
+
+* Östradiol är det mest potenta östrogenet
+* **SHBG**: plasma E2 bundet med SHBG, 
+* **SHBG-bunden E2 ej biotillgänglig**
+* ! **Högre BMI -> mindre SHBG**
+  * **E2 ökar biotillgänglighet med ökande BMI**
+
+
+
+#### Hormonernas roll i p-piller
+
+
+
+***Presentation***
+
+* **När på p-pillerkartan är det mest riskabelt glömma piller**: början, slutet
+
+
+
+***Allmänt***
+
+* **Två alternativ:** 
+  * progesteron (gestagen) only metod eller 
+  * kombinerade: östrogen + progesteron (gestagen)
+
+
+
+***Gestagen***
+
+* **Mekanism**
+  * **Hämmar LH-frisättning**: är ett **antiandrogen!**
+  * **förtjockar cervixsekret**
+  * // verkar som att det finns androgena gestagener osså...
+  * // **Lutealfasen kommer aldrig ur den**: efter ovulation in i lutealfasen där progest och östrogen är högt. Efter ett tag för att hCG (LH analgo) droppar, så stöts endometrieslemhinann ut. med kombinerade p-piller så fortsätter man att få östrogen och progesteron, men hCG försvinner, så man stöter ut endometrieslemhinnan MEN man kommer aldrig ur lutealfasen / sekretionsfasen vad gäller cykeln
+    * **Atrofisk slemhinna**: därför att man aldrig kommer ur lutealfasen och in i follikelfasen där östrogen ensamt stiger, kommer endometrieslemhinnan aldrig att prolifera.  
+* **Resultat**
+  * **hämmar ovulation**: det är gestagenet som gör att man inte ägglossar
+  * **hindrar spermier**: fr att *penetrera cervix*: i.e. de kommer ej förbi portio
+
+
+
+***Östrogen***
+
+* **Mekanism**
+  * ökar konc av progesteronreceptorer
+  * hämmar FSH-frisättning
+  * ***SHBG resultat***: att den kan öka SHBG koncentrationen, sex hormone binding globulin
+* **Resultat**
+  * bidrar t bättre blödningskontroll
+  * hämmar utv av dominant follikel
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_a6DkGUPDPZ.png" alt="a6DkGUPDPZ" style="zoom:50%;" />
+
+
+
+***Balansen antiandrogen + androgen***
+
+* **Kombinerade preparat** har olika effekter
+* **Diane**: som innehåller mest östrogen 35mikrogram/d och CPA (cypretone acetat, som har stark antiandrogen effekt)
+  * detta preparat är i Sverige enbart ett acne preparat
+  * den är också antikonception i andra länder i världen
+* **Dienorette**: lite mindre östrogen och stark ***antiandrogent gestagen***; antikonception i Sverige utöver acne preparat
+* **Levesia**: mindre östrogen, och ett ***androgent gestagen***
+  * ger mindre acne än placebo
+  * men det är fortfarande de antiandrogena man använder mer? .. .
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_1Rqg9ox18p.png" alt="1Rqg9ox18p" style="zoom:50%;" />
+
+
+
+***Biverkningar***
+
+* **Östrogena biverkningar**
+  * **Vätskeretention:** ökad vikt, svullnadskänsla 
+    * studier har visat att man inte går upp i vikt av preventivmedel
+  * **illamående**
+  * **pigmentering**: chloasma, melasma
+  * **flytning**
+* **Gestagen biverkan** (ofta androgen (som ger dessa?))
+  * **ökad aptit o viktuppgång** 
+  * **amenorre, oligomenorre**
+  * **akne**: cochrane review bekräftar att alla kom metoder *lindrar akne*
+  * **torrhet**: ögon, mun, vagina, antiöstrogen effekt
+  * **trötthet, depression:** se upp med PMS-pat
+  * **minskad sexlust**: vanligt klagomål
+
+
+
+***Sexlust***
+
+* I studier sjunker jfr med placebo vid användning av dessa. 
+* orgasm lika
+* **lika tillfredställande samlag**
+* **Slutsats**: 
+  * This study shows no negative impact of a levonorgestrel-containing oral contraceptive on overall sexual function, 
+  * although three of seven sexual function domains were adversely affected.
+
+
+
+***Halveringstiden och uppehåll*** 
+
+* **Äggblåsan blir större med tid**: ju mer tid man ger ägget att växa deto större äggblåsa blir det
+* **antikonceptionen hindrar att blåsan växer**: äggblåsan hindras växa mha antikonceptiva hormonerna (gestagenet?)
+* **uppehåll låter blåsan växa**: en studie som jämförde antalet dagar uppehåll med p-piller och storleken på äggblåsan
+* **uppehåll max 4 dagar**: slutsats fr studien var att man ej ska gå över 4 dagars uppehåll fr pillren
+  * **färre graviditeter om man har max 4 dagars uppehåll**
+  * för att 7 dagars uppehåll e lite för länge och äggblåsan växer sig stor
+* **Mår sämre av uppehåll**: kvinnor mår sämre av blödningarna, bäckensmärta, HB, ömma bröst, svullnadskänsla, äter en del alvedon
+
+
+
+***Rekommendation vad gäller uppehåll o p-piller***
+
+* **Pat ska äta karta på karta på karta, utan uppehåll**
+* **TILLS att de får en blödning**
+* **Efter blödning får man MAX ha 4 dagars uppehåll**
+
+
+
+***Aldrig farligt att inte blöda***
+
+* det är aldrig farligt att inte blöda
+* **så länge man får hormoner enl FL** ()
+
+
+
+***Förebygga ohälsa***
+
+* **menorrhagia, dyusmenorrhea**: blöder mindre, mindre ont
+  * enorm effekt bra påblödning o smärta
+* **ovarian cysta**: mindre cystor
+* **mindre benskörhet**: för att östrogen
+* **nedgång cancer**
+  *  **ovarian cancer**
+  *  **endometrial cancer:** för att endometriet blir så tunt tunt att det minskar risken för detta
+  *  **kolon cancer**: tror östrogen effekt
+  *  **mindre myom**
+* **fibroider minde**
+* **acne**: mindre acne
+* **mindre PMS, PMDD**: minskar detta o behandlar detta
+* **järnbristanemi**
+* **Mindre mensvärk** hos alla kvinnor
+  * **Endometrios**: gestagenet (progeteronet) leder till att endometrialslemmhinna blir tunn och atrofisk, därför en behandling av endometrios.
+* **Mindre blödning**: olika effekt olika regimer
+  * vissa regimer kombinationsprep leder t att man aldrig behöver blöda
+  * även vid uppehåll att man blöder mindre jfr rest
+* **mindre risk benigna cystr**
+  * färre follikelcystor
+  * färre corpusluteum cystor
+* **PMDD**: pre menstrualt dysforisk syndrom
+  * gestagen dyspridenom är mkt snällare mot hjärnan jfr kroppens; menar att det är bättre än naturens. 
+* **acne**: ett preparat med en östrogennivå som höjer SHBG och mindre fritt testosteron, sen lägger till antiandrogena gestagener
+  * dubbeleffekt och bra effekt på acne.  
+  * ta upp det med patienter som kommer in med acne: att man kan använda preventivmedel för att combat acne.
+* ***Ovarial cancer***
+  * **komb metoder** reducerar ridsk dö ovarialcancer med hälften
+  * **anovulationen är skyddande**: ju färre ggr man anovulerar desto mindre risk för ovarialcancer, detta kan man alltså få med p-preparaten
+    * precis som amning o grav skyddar mot ovarialcancer
+* ***Endometriecancer***
+  * **progesteronet minskar risken**: gm att man får en atrofierad tunnare slemhinna som i sin tur leder till reducerad propensitet för att utveckla ovarialcacner
+* ***Kolorektalcance***
+  * relaterat med östrogen
+* **bröstcancer**: kom ihåg vilke kvinna man har framför sig, det är enbart EGEN bröstcancer i anamnesen som är kontraindikation för hormonell antikonception
+
+
+
+***Sammanfattning***
+
+* **Säkrare med kombinationspreparat**
+* **risk VTE** vid kombinerad med olika gestagener är oklar
+* **biverkningsprofilen** beror på balans östrogen o gestagen, samt gestagenets profil
+* komb har flera kortsiktiga häslofördelar såsom minskad blödning o mensvärk
+* komb metod har flera långsiktiga fördelar, e.g. minskad cancer risk
+
+
+
+***Läkemedelsinteraktioner***
+
+* **Antiepileptika**: obs antiepileptika kan användas för smärta o migrän
+* tuberkelostatika
+* johannesört
+* HIV-mediciner
+
+
+
+***Effektivitet preventivmedel***
+
+* **nexplanon är världens mest effektiv preventivmedel**: sitter den i armen är den fit and forget, kommer att fungera bra. 
+* användarberoende metoderna: att man ska behöva göra ngt, då märker man att skillnad perfekt användning jfr typisk användning att det finns väldigt stor skillnad
+  * kvinnor har inte koll på skillnadi effektivitt
+* unga kvinnor: dåliga med preventivmedel; visar att långtidspreventuivmedel är mkt effektivare. att kortverkande kvinnor många under 21åå som blir gravida jfr över 21.
+  * det är samma unga kvinnor som använder de minst effektiva metoderna
+  * SARC är inneffektiva
+  * LARC bör höjas upp: att 40% av kvinnor i Sverige bör använda dessa
+
+
+
+### Infertilitet
+
+
+
+***Presentation***
+
+* **Olga är 32 år
+  * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
+  * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
+
+
+
+***Definition***
+
+* **Sverige**: oförmåga gravid 1år av oskyddat samlag. 
+* **WHO definierar**: ofrivilligt barnalöshet 2år av oskyddat samlag
+  * också infertilitet om man inte lyckas föda levande barn enl WHO. 
+* **Skillnad sterilitet:** absolut oförmåga att levande barn. 
+
+
+
+***Etiologi och patofysiologi***
+
+* **Olika orsaker**
+  * **Ovulatoriska störningr:** 
+    * hypothalamisk anovulation.
+    * PCO 
+    * ovariellsvikt
+  * **Tubarobstruktion:** 
+    * **infektioner**: 
+      * klamydia, gonorre, PID? har att göra med ärrvävnad som bildas och efterföljande adherenser, so mförsvårar för ovums resa ned för tuborna till uterus, samt av fertilisering av ovum med sperimier. Då det är svårt för implantation uteralt, kan orsaka infertilitet. 
+    * **!!! ektopisk graviditet**: 
+      * Notera relationen med **infektioner**. att det är infektionerna som kan påverka tuborna, varpå det ökar sannolikeheten för x-grav
+    * **endometrios**
+  * **Endometrios**
+  * **Uterina orsaker:** 
+    * submukösa leiomyom, 
+    * malformation
+  * **Sexuellstörning**: vaginism
+  * **Postoperativa**: 
+    * kejsarsnitt att det är färre barn efter kejsarsnitt och glesare mellan barnen (vet ej om frivilligt eller ej; kan confounding factor; eller orsaker t kejsarsnitt som hög ålder, eller annan sjjd exempelvis)
+  * **Läkemedel + tidg behandlingar**: 
+    * strålbehandling; cytostatika; NSAID påverkar fovulation; 
+    * spermakvalitet negativt: cimetidin, sulfasalazin, androgener
+  * **Tidigare infektioner**
+    * // klamydia kan försvåra för graviditet; till skillnad fr candida, bakteriell vaginos, HPV som inte påverkar fertilitet
+    * infektioner speciellt  genitalia
+  * operationer i bukhhålan
+  * Hos mannen: ljumskbråck, tidg operationer genitalia, ljumsbråcksoperationer. 
+* **Fekunditet** 
+  * Ålder: komplex o multifaktoriell. ökad medicinska faktorer, hormon, psykosociala faktorer, gyn sjd e.g. myom endometrios o resttillstånd efter infektion har betydelse
+    * 25åå = 31%
+    * 30åå minskad fekunditet
+    * 45åå fåtal kvinnor som blir gravida
+  * 40åå: kraftigt försämrad fekunditet
+    * öakde anovulatoriska cykler
+    * försämrad ovarailfuntkion med färre folliklar, högre 
+    * högre andel defekta oocyter 
+    * högre andek kromosmalt abnorma embryon
+  * **indicens missfall**: 30åå 8-10%; 40åå 30%
+  * livsstil: hög kaffekonsumption, alkohol, rökning, marijuana, övervikt, undervikt
+  * **STI ökar med missbruk, ökad missfallsfrekvens.**
+  * alkohol och lägre spermieantal
+  * låg koitusfrekcens (färre än 1gg i veckan) minskar osså kumulativ graviditetsfrekvens inom ett år. 
+
+
+
+***Indelning***
+
+* **Primär infertilitet**: frånvaro av konception, trots 2års graviditetsförsök
+* **Sekundär infertilitet**: kvinna varit gravid, men sedan inte blivit gravid igen efter 2års försök. 
+
+
+
+***Epidemiologi***
+
+* vanligt
+* primär infertilitet: 3.5-6.6%
+* sekundär infertilitet: 2-10%
+* 15-20% av alla par b eräknas inte få barn när de önskar. 
+* sterila par: 1% 
+* fekunditet: sannolikhet för konception per menscykel eller per månad
+  * antalet kvinnor som blir gravida per cykel el månad, delat med antalet som försöker bli grav. 
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utredning och handläggning***
+
+* **i  regel 1år efter oskyddat samlag utan graviditet.** 
+
+* **Förutsättning för infertilitetsutrednin**g
+
+  * förutsätter båda parterna medverkar
+  * samkönade par tillåtsbehandling med insemination eller in vitro fertilisering
+  * enl lag: relation betraktas stabil, paret är gifta, registrerade partners eller samboende för att tillåtas asssterad befrukt. 
+  * praxis: parest levt ihop minst 1 år 
+  * ensamstående tillåts ej befruktas assisterat
+  * heterosex par, haft sex minst 1 år, oskyuddat. 
+  * hög ålder (över 35åå för kvinna)redan klar eller misstänkt fertilitetsnedsättande faktor
+
+* **före utredning:**
+
+  * inga kontraindikationer för behandling grav: allvarlig medicinsk eller psykisk sjd , missruk, annan psykososical problem (barn till omsorgssviktande päron ökad risk för somatisk + psykisk ohälsa)
+  * utredning bör ej göras förrän båda parter åtminstone 19åå; varit myndiga i ett år. 
+  * begränsad utredning kvinnor 40-42åå
+  * INGEN utredning kvinnor efter 43åå, gravmöjligheter mkt små
+
+* **klara sked så tiditg som möjligt**: för att så pass krisande thing, att de behöver få svar asap. 
+
+* **utredningsmål + syfte**: målet infertila paret ska få ett gemensamt barn. förklaring till infertilitet. info om bästa möjliga behandling
+
+* **Anamnes**
+
+  * Ålder
+  * Pubertetsutvecklin, tidg sjd
+  * **menscykel mönster**: amenorre, oligomenorre, ovulationstester
+    * helt regelbunden cykel, 28-32d intervall, UTESLUTER i regel ovulationsdefekt
+    * oligomenorre med clängd över 40d + amenorre (>6mån mellan mens): störning ovulationsmekanism
+    * korta cykler (mindre än 26d): störning
+    * oregelbunden intervall, även om inom 26-35d: störning
+  * dysmenorre eller dyspareuni: tda endometrios, ta ställning t indik för laparoskopi föreligger. 
+  * tidg grav, även missfall
+  * riskfaktorer för tubarskada, operationer
+
+* **Livsstilsfaktorer**
+  * rökning
+  * alkohol
+  * övervikt förenad med subfebrilitet
+  * speciellt hos kvinnor med oligomenorre och PCOS
+  * undervikt
+
+* **Status**
+  * **BMI**: övre gräns 30-32 BMI för behandling; 18-19 efterfråga ätstörning. 
+  * **PCOS frågeställning** (acne, hyperandrogenism, hirsutism)
+  * **Acne**
+  * **tecken hyperandrogenism**
+  * **thyroidea**
+  * **gynundersökning**: utesluta anatomiska anomalier
+
+  * **UL**: endometrietjocklek, ovariers storlek, evt follikel, corpus luteum rel t cykelfas. antal antral folliklar, förekomst randställd folklar, tecken PCOS. 
+    * säckformade äggledare (sektosalpinx) eller cystor ovarier viktiga fiagnostisera
+
+* **Infektionsprover** (enl bok): båda parter för HBV, HCV, HIV. 
+
+  * **i fall assiterad befruktning aktuell**: enl lag ta HTLV1, HTLV2 och syfilis
+
+* **Diagnostik**
+
+  * **Ovulation:** 
+    * UL folliklar, 
+    * antal folliklar, 
+    * normal mens
+    * S-progesteron
+    * TSH
+    * FSH,
+    * LH o PRL om amenorre el oligomenorre
+  * **Tubar**: hystrosonossalpingografi
+  * **Endometrios**: anamnes, dysmenorre, smärta, gynekologiskt status, smärtfulla resistenser, ovariecystor
+  * **Uterus utseende:** UL
+
+* // mannen: infek underliv, tidg ljumskbårckoperation, exponering toxisk ämnen, strålning. normalt spermaprov räcker utredningsmässigt för män. 
+
+
+
+***Behandling***
+
+* Rekommendationer
+  * normal menscykel 26-35d, ovulation 12-14d före mens, på 28d cykel är ovulation d14. efter ovulation ovum lever 1 dygn, spermier 3d (minst). 
+  * bästa konceptionsmöjlighet: samlag inom 2d fr ovulation. 
+* **Ovulationinduktion**
+  * antiöstrogen i PCO
+  * gonadotropin vid hypothalamisk amenorre
+* **Operativ behandling endometrios**
+* **inseminering + ovulationsinduktion** om oförklarlig infertilitet
+* **IVF:** 
+  * tubarskada
+  * endometrios
+  * anovulation
+
+### Kombinerade metoder
+
+***Etiologi och patiofysiologi***
+
+* Innehåller
+  * östrogen
+  * gestagen
+
+
+
+***Handläggning***
+
+* Förstahandsval: när kombinerad hormonell antikonception önskas
+  * när man önskar kombad hormonell antikoncept rekommenderas vid förstagångsförskrivning monofasiskt preparat med levonorgestrel, norgestimat eller noretisteron efter som prep med dessa gestagener gr lägst risk för VTE, rek grad B
+  * vid rådgiv o förskrivning ska ta hänsyn t önskemål om preparat o neg faktorer som bedöms påverka nöjdhet o följsamet
+
+
+
+***Behandlingar***
+
+* p-piller
+* p-ring
+* p-plåster
+* p-sprutor (inte i Sverige)
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_3E2PVQsAbt.png" alt="3E2PVQsAbt" style="zoom:50%;" />
+
+
+
+
+
+#### P-ringen
+
+***Etiologi och patofysiologi***
+
+* **Den kombinerade ringen**
+  * **!!! Verkar INTE lokalt**
+  * **Verkar via  blodet**: väldigt viktigt att förstå enl FL, att p-ringen verkar via blodet
+* ***Mycket jämnr serum-koncetration hormon***
+* **Mängd hormoni**: FL kommenterade ej mängden hormon
+* TODO: är det denna som hon starkt rekommenderade? man kan faktiskt se p-rings koncentrationerna ovan
+
+
+
+
+
+#### P-plåster
+
+***Etiologi och patofysiologi***
+
+* mycket högre koncentrationer hormon: detta jfr med p-ringen denna får lägre men också jämnare, se ovan
+* Mycket jämNare koncentrationer hormon (östrogen som man presenterade i en studie på ppt)
+* jämfört med p-piller: med piller får man mycket kraftigare uppgångar och nedgångar
+* uppnår steady state
+
+
+
+
+
+### Preventivmedel
+
+***Epidemiologi***
+
+* **Anslutning till abort:** att pat avstått preventivmedel för att oro eller tidig erfarenheter med biverkningar; 
+  * majoritet börjar använda prev medel efter genomförd abort, att man är mer motiverad till att göra d.
+
+
+
+***Behandlingsmetoder***
+
+* **Barrärmetoder**: spermien kmr ej fram
+* **Hormonella metoder**
+  * **Lågdoserade gestagena metoder;** spermien kmr inte fram
+  * **mellandos och högdoserade gestagena metoder**: ingen ägglossning
+  * **kombinerade metoder**: ingen ägglossning
+* **Intrauterina metoder:** spermien inte kommer fram
+* **Sterilisering**: spermien kommer inte fram
+* **Cykelmetoder**: ägg o spermie finns aldrig på plats samtidigt
+* **Kortverkande**: P-piller, p-plåster, p-ring, p-spruta, barriärmetoder
+* **Långverkande**: implantat, intrauterina metoder
+* **Permanenta**: manlig och kvinnlig sterilisering
+
+
+
+***Relation till abort***
+
+* **Rådgivning**: rådgiver och förser information vad gäller preventivmedel i samband med abort. Att man kan undvika vad aborten föranleder gm prevention. 
+  * samband med besöket på abortmottagningen 
+* **Hormonella metoder**: kan påbörjas samma dag eller dagen  efter abortbehandlingen
+  * **påverkar ej abortprocessen**
+* **vid Medicinsk abort**: vaginal p-ringsanvändning påbörjas dagen efter eller ngn dag etfter misoprostolbehandlingen då blödning minskat
+* **kopparspiral, hormonspiral**: kan sättas in i smamband med kirurgisk abort, utan risk för postop infektioner ökar
+* **medicinsk abort:** spiral sättas in så fort grav avbruten
+* **Spiralen, när sätts in**: färre återbesöker om spiralen sätts in 3 veckor efter abort jfr 1 vecka efter abort. 
+* **kompletterande skydd**: om preventivmetod 5d efter abort, att man sätter in 
+
+
+
+***Barriärmetoder***
+
+* **Manlig kondom**
+  * ska sättas på innan penetration
+  * hålla runt penisroten när man drar ut
+* **kvinnlig kondom (femidom)**
+  * minimal marknad i Sverige
+  * viss betydelse Afrika, särskilt sexarbetare
+  * <img src="./lectures/gyn_lec//imgs/gyn_lec_q0xTaYaeoU.png" alt="q0xTaYaeoU" style="zoom:50%;"/>
+* **Pessar** (diafragma på engelska=)
+  * sätta in rätt viktigt
+  * har spermiedödande medel
+  * **typer:** cervixpessar som nästan caps cervix, och vaginal pessar som täcker mer av vagina
+    * **cervixpessar** måste sättas av en kliniker, patienten kan ej göra detta sj; mindre effektiv jfr andra pessar,
+  * ***Effektivitet***: "actual" effectiveness med spermiedödande medelär runt 85%
+  * ***Biverkningar***: 
+    * Toxic schock syndrome (TSS) om den är kvar för länge, kan koloniseras av staf aureus
+    * hypersensitivitet till gummi, latex, eller spermiciden
+  * **Svåra att använda**: få som fortsätter med den
+  * <img src="./lectures/gyn_lec/imgs/gyn_lec_A6OiqMA20B.png" alt="A6OiqMA20B" style="zoom:50%;"/>
+* **fem cap (cervixpessar i silikon)**
+  * enl studier mindre säker än pessar, svårare att använda
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_KQJFXDPZS4.png" alt="KQJFXDPZS4" style="zoom:50%;"/>
+
+
+
+
+
+
+
+***Sterilisering***
+
+* ***Lag:*** över 25åå, skriva bekräftelse på erhållen info (permanent ingrrepp; andra prev metoder; kruator vb)
+* **manlig**: vas deferens delas bilat, lokalbedövning
+* **kvinnlig**: världens vanligaste antikonception; 
+  * laparoskopiskt: 
+  * via laporotomi (e.g. samband sectio); 
+  * hysteroskopisk
+* ***Laparoskopisk sterilisering***
+  * Sterilisera rätt struktur
+  * lägg dig nära uterushörnet
+  * bränn, klipp, ligera, sätta clips
+  * dagop
+  * via tomi kan göras e.g. vid sectio
+* ***Hysteroskopisk sterilisering***
+  * Finns fn ej tillgängligt
+  * tar 3 mån innan steril
+
+
+
+***Kopparspiral***
+
+* ***Sekreatpåverkan***: sekret i cervix påverkas, uterus och tuba
+* ***koppararea*** : detta är viktigt
+* ***Koppareffekt***
+  * hämmar speriemotilitet
+  * spermatotoxiskt
+  * embryotoxiskt
+* förhindrar implantation pga inflammation i endometriet
+* ***Främsta verkningsmekanism = hindrar FERTILISERING***
+* ***Biverkningar***
+  * ***Rikligare blodningar vid mens***: ökad blodförlust vid menstruation, med 50-75%
+  * ***NSAID, ciklokapron***: blödningarna kan minskas med NSAID och ciklorapron. 
+
+
+
+***Utredning och handläggning***
+
+* ***Anamnes***
+  * **tidg erfarenheter p-piller**
+  * **tidg grav**
+  * **menstruationsanamnes**
+  * **relation, livssituation**
+  * **kontraindikationer**
+* ***Undersökning***
+  * **Gynekologisk undersökning**
+  * **BT vid p-pillerförskrivning**
+  * **evt cytologprov, klamydiaprov**
+
+#### Kopparspiral
+
+***Presentation***
+
+
+
+***Etiologi och patofysiologi***
+
+* **Kopparspiral**: kopparjonerna är toxiska för spermier och embryon. endometriet tunnare. 
+* **koppararea är viktigt**: utsöndrar kopparjoner tar sig in i sekret i cervix o tuba. Kopparna ska va tillräcklig kroppsarea. 
+
+
+
+#### P-stav
+
+***Presentation***
+
+* **28åå kvinna, Michelle**
+  * har just genomgått en kirurgisk abort och har bestämt sig för en p-stav efteråt. Hennes kompis har istället fått en kopparspiral och nu undrar Michelle hur p-staven fungerar och vad det är för skillnad på den och spiralen. Beskriv verkningsmekanismen för P-stav och kopparspiral.
+  * verkningsmekanism p-stav o kopparspiral
+    * p-stav: ovulatiosnhämning, endometriet blir tunnare, cervixsekret tjockare ogenomträngligt. 
+    * kopparspiral: hindrar implantation, hämmar spermiemotilitet (spermatoxiskt) och embryotoxiskt.
+
+
+
+
+
+### Preventivmedelsråd
+
+***Presentation***
+
+* ***Fall 1***
+  * 17åå, inget tidg prev medel, kondom sporadiskt; pojkvän sedan 3 mån, frisk, ingen heredite
+    * P-ring
+    * p-stav
+    * hon ska få rätt info o välja sj
+
+* ***Fall2***
+  * fött 3 barn vaginalt
+  * tidg p-piller fungerat bra
+  * ammar fortfarande
+  * ingen heredite av betydelse
+  * **fler frågor**
+    * **villu ha fler barn**
+    * **vad rek vi:** vi ska informera om de andra alternativen, bra info; **kanske ska vara en långverkande metod i 5år,** 
+    * ***därför ett spiralfall***
+
+* ***Fall 3***
+  * **28åå kvinna**
+  * inga barn
+  * ingen fast partner
+  * haft cellförändringar o koniserats
+  * mamma haft blodpropp på  p piller
+  * ätit gestagen mellanpiller men blödde hela tiden
+  * prövat p-stav samma sak
+  * v**ad ska vi rekommendera**
+    * hormonspiral: kan rek ändå
+    * spelar ingen roll att hon koniserats
+    * bara för att hon blött på gestagena, betyder inte att hon blöder på spiral
+      * för att gestagena tar bort ovulation ägglossning
+      * och hormonspiralen agerar lokalt, och hon troligen har kvar sin ägglossning och ett bra blödningsmönster med hormonspiralen
+    * annars kopparspiral
+
+
+
+***Utredning och handläggning***
+
+* Frågor
+  * I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera:
+
+    * Vad gör du om du blir gravid? (om kvinnan ändå tänker sig behålla graviditeten är behovet av ett mycket säkert preventivmedel kanske lägre)
+    * hur lång tid kvinnan har behov av preventivmedlet
+    * hur ofta hon har behov av preventivmedel
+    * vilka förväntningarhon har på sitt preventivmedel
+    * hur livssituationen ser ut avseende fasta rutiner (som kan påverka möjligheter att komma ihågett dagligt intag)
+    * om kvinnan har behov av några positiva hälsoeffekter av vissa preventivmedel
+  * fr bok
+    * Anamnes
+      * tidg erfarenhet p-medel
+      * tidg grav
+      * mens anamnes
+      * relation o livssituation
+      * kontraindikationer
+    * Undersök
+      * gyn undersök
+      * BT vid p-pillerförskriv
+      * vikt vid hormonell antikoncep
+      * evt cytologprov klamydiaprov
+* KÄnsla fattat eget beslut
+
+
+
+#### Allmänt
+
+* Efterfråga hög effektivitet / icke-koitusrelaterad metod: 
+  * kombinerade p-piller
+  * oralt mellandosgestagen
+  * spiral
+  * andrahandsmetod
+    * gestagenpreparat för implantation el injektion övervägas
+* låg koitusfrekvens / vill ba skjuta upp grav
+  * barriärmetoder bättre
+  * evt tillgång akut p-piller
+* pat med regelbunden mens: gm tillämpa "säkra" perioder + barriär = god effektivitet
+
+
+
+#### Puerperium och amningstid
+
+* **Första 6 månader, risk grav liten**: risken för graviditet är liten de första 6 månaderna efter förlossning
+  * spec om ammar fullt 
+  * kvartående laktationsamenorre
+* !!! **Undvika kombinerade hormonell antikonception första 6-8v**: 
+  * ökad kvarstående risk för VTE
+  * om hormonell antikonception önskas, rekas gestagenmetoder (antagligen för att östrogen är äkar risk för VTE om gm lever etc)
+* **under amning, komb horm, okej**: 
+  * det är okej att använda kombinerad hormonell antikonception även om amning. ingen risk för att påverka barnet eller amningen
+* **Spiral, ofta lämplitgt nyligen fött barn**: 
+  * kopparspiral eller hormonspiral är lämpliga för kvinnor som nyligen fött barn. 
+  * speciellt under amningsperioden
+  * görs av van insättare pga perforationsrisk
+
+
+
+#### Yngre
+
+* Yngre kan rekommenderas hormonell antikonception; ingen risk störa framtida repoduktiosnförmåga eller påverka längdtillväxt
+* **Önskemål kombinerade hormonell antikonception:**
+  * **vid nyförskrivning**: lågdoserade p-piller med levonorgestrel, noretisetron, eller norgestimat
+  * **biverkningsmönster** varierar mkt mellan kvinnor, viktigt finns utval preparat 
+* **Gestagenmetoder**: speciellt implantat, ger mkt effektiv skydd.
+  * kan fungera väl
+  * ibland bekymmer med oregelbundna blödningar, svåra att acceptera
+  * god rådgivning + stöd viktigt här
+* **Kopparspiral eller hormonspiral**: kan alternativ t unga kvinnor
+  * erfarenhet av koppar eller hormnonspiral hos mkt unga är begränsad
+* **kondomanvändning uppmuntrsa, spec STI risk, komplent tex t p-piller**
+
+
+
+#### Perimenopaus (nära menopaus)
+
+* **Rekommenderas till 6 månader efter menstruation**: efter 6 månader har man nått sekundär amenorre som kan vara utredningsbenögen (om man såklart inte är nära menopaus)
+* **Förstahandsvall denna grupp ofta**
+  * kopparspiral
+  * hormonspiral
+  * barriärmetod
+* !! **kopparspiral insatt efter 40åå**: behöver inte bytas om den fungerar ra o kvinna önksar fortsatt antikonception
+  * bör tas ut SENAST 1 ÅR EFTER SENASTE MENSTRUATION
+* !! **Ingen påverkan CVD risk, så länge ej röker eller annan risk**: fortsatt användning kombinerade hormonell antikonception t friska kvinnor SOM INTE RÖKER och INGA ANDRA RISKFAKTORER
+  * e.g. hyperlipidemi
+  * man ska inte ge om kvinnor röker
+* **Hormonspiral nära menopaus:** 
+  * högre doserade hormonspiralen byts vart 5e år o kan använda smo endometrieskydd om önskemål om östrogenbeh mot klimakteriebesvär uookommer. 
+  * den högre doserade hormonsopiralen kan osså bra metod för denna åldersgrupp gm reducera blödnignsmängd vid mens
+
+
+
+#### Obesitats
+
+* Uttalad fetma problem i samband preventivmedelsanvändning
+* Risken för vissa komplikationer ökar hos obesa, jfr normalvikt
+  * trombosrisken ökar exempelvis
+* **Uttalad fetma (30 el mer)**: effektiviteten hos vissa hormonella metoder ffa minipiller och akut p-piller kan vara nedsatt
+* **kombinerade hormonell antikonception ÄR EJ FÖRSTAHANDSVAL**: pga trombosrisken
+* **Generellt rekommendation**: 
+  * högdoserade gestagena, mellandoserade gestagena
+  * spiral
+  * eller barriärmetoder
+
+
+
+#### Diabetes
+
+* **Unga kvinnor under 35åå okomplicerad diabetes utan andra riskfaktorer**: 
+  * samtliga preventivmetoder rekommenderas
+* **Insulinbeh diabetes utan komplikationer**: 
+  * ingen kontraindik mot kombinerad hormonella metoder
+  * !!! **viktigt informeras om ökat insulinbehov kan uppträda** 
+* diabetes + kärlkomplikation, 
+  * rek EJ komb metod
+  * dihögdoserade p-spruta kan ha neg metabl effekt hos dessa, bör undvikas
+  * KAN användas
+    * lågdoserade gestagen: minipiller, p-stavar
+    * kopparspiral
+    * hormonspiral
+* Tidigare graviditetsdiabetes
+  * hormonella metoder kan ges: påverkar ej uppkomst manifest diabetes hos kvinnor med tidg GDM
+
+
+
+
+
+#### Migrän
+
+* Vanlig migrän utan aura
+  * <35åå ("upp t 35"): komb horm metod kan ges
+* !! svår migrän + migrän fokal typ (neurosymptom)
+  * rek EJ hormnoella metoder, 
+  * !! eftersom öakd risk för stroke
+* vissa kvinnor får migrän hormonfria veckan, 
+  * ibland kan unvdikas m råd att inte g öra tablettppehåll, 
+  * i.e. ta aktiva p-piller kontineuerligt under några menscykler
+
+
+
+#### Intellektuell funktionsnedsättning
+
+* behovet preventivmedel svårbedömt för pat pop
+* sterilisering: måste förstå informationen och själv bett om d, ofta ej aktuellt hos dessa kvinnor
+* kopparspiral hormonspiral: bra alternativ om man kan sätta säkert sätt: pat måste medverka vid undersök o insätt
+* kombinerade p-piller: ofta användas om doserngen underlättas gm e.g. dosett
+* om klar indik minska antal mens: monofsiksa p-piller ges utan uppehåll i e.g. tre cykler. 
+* p-spruta:
+  * vissa fall p-spruta rek, men då bör oförutsägbar blödningsmönster beaktas, liksom aptit o vikt
+  * kan oft ges i vanlig dos med antiep beh, 
+  * men även med denna metod kan viss interaktion förelgga, 
+  * evt motivra p-spruta ges med ngt förkortat dosintervall (9-10v)
+* beakta mga har antiepileptika: notera vid förskriv hormonella prep o metoder
+
+
+
+#### HIV-infektion
+
+* om bara ena parter hiv-infek, MÅSTE paret enl SML använda kondom
+* för övrigt, kan reka alla preventivmetoder övervägas
+* hormonell antikoncep: påverkar ej förloppet eller smittorisk
+* ökade antalet blödningsdagar av p-spruta o p-stav: kan vara negtivt med tanke på smittspridning
+* hormonspiral: 
+  * kan rek t hiv-pos kvninor
+  * blödningstendensen minskar
+  * risk uppåtstigande infek liten
+* kopparspiral
+  * kan rek t hiv-pos pat
+  * ingen ökad risk för vare sig komplik el trasnmission t osmittad partner påvisat
+
+
+
+#### Akne acne
+
+* alla kombinerade hormonella metoder förbättrar
+  * östrogen inducerar bildning SHBG: binder testosteron och gestagen
+  * **Däremot, EJ rek gestagena metoder**
+
+
+
 ## Tester och status
 
 ### Allmän ospec utredning
@@ -7809,6 +8181,23 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+### CA125
+
+***Etiologi och patofysiologi***
+
+* **glykoprotein**
+* **Tumörmarkör**
+* **HIttas**
+  * inre genitalia
+  * peritoneum
+  * pleura
+* Mått på skadad vävnad av ovan nämnda områden (däribland ovarievävnad)
+* Ej specifikt
+  * inflammation i området
+  * endometrios: kan öka v id endometros
+
+
+
 ### Cervixstatus
 
 
@@ -7824,6 +8213,28 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 ***Retraherad***
 
 * **Öppningsgrad**: helt öppen
+
+
+
+### IOTA
+
+***Benign kriterier***
+
+* Unilokulär
+* inget blodflöde
+* uniform
+* liten storelk
+
+
+
+***Maligna kriterier***
+
+* Solida partier
+* papillära projektioner
+* ökat blodflöde
+* stor
+* multi-loculated (flerrummig?)
+* ascites
 
 
 
@@ -7901,6 +8312,10 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 
 
 
+
+
+
+
 ### SF-mätning
 
 ***Allmänt***
@@ -7908,6 +8323,12 @@ I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera
 * symfys-fundus mått
 * man drar ett måttband fr symfysen till **fundus av livmodern**
 * Notera att man palperar fram fundus uteri (vilket är toppen, y3ni det som är mest proximalt mot huvudet)
+
+
+
+
+
+
 
 ### Wet smear
 

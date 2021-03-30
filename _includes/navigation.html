@@ -14,6 +14,7 @@
 
 <!-- Then we build the nav bar. -->
 <div id="mySidenav" class="sidenav">
+    <span style="font-size:30px;cursor:pointer" onclick="closeNav()">☰ close</span>
     <ul>
     {% for entry in site.data.navigation %}
         {% if entry.url == current_page %}

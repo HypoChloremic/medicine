@@ -31,10 +31,6 @@
 * PID
 * cystor: follikelcysta
 
-
-
-
-
 ### Ektopisk graviditet
 
 ***Presentation***
@@ -88,7 +84,14 @@
 
 
 
+#### Fall
 
+***Presentation***
+
+* Malin 27, TODO
+  * år inkommer akut pga buksmärtor. Arbetar som förskollärare. Ensamstående. Väsentligen Frisk.  ob/gyn: menarke vid 13-års ålder. Regelbundna mensutrationer. 0-grav. Använt P-piller en period utan problem dock ej nu när hon inte har en fast pojkvän. laparoskopi pga buksmärtor för 3 år sedan. Inget patologiskt kunde påvisas och hon fick ingen förklaring till smärtorna.  Aktuellt : vaknade i morse pga smärtor i nedre delen av buken, mest på höger sida. Under dagen litet illamående , inte haft lust att äta. Inga kräkningar. Inga miktionsbesvär. SM började idag och kom på rätt tid. Smärtorna har minskat något men finns fortfarande kvar. Status AT: lätt smärtpåverkad Temp 37,0 Buk: Mjuk, ingen defense. ömmar både i höger och vänster fossa, mest dock höger. Gyn: Pågående måttlig mensblöding. Uterus normalstor rörlig, lätt ömmande till hö, något mindre till vä. Vag ulj: Uterus normalstor slemhinna 3mm. Båda ovarierna ses ua. ökad mängd vätska i buken.lab: CRP 20, Hb 98, urinsticka visar blod.
+  * Vilka diagnoser överväger du
+    * abe: x-grav, appendicit, blödande corpus luteum, ovarielltorsion
 
 ### PID
 
@@ -309,7 +312,20 @@ cerivicit
 - - Slyngbehandling TVT
   - att man sätter en slynga runt uretra för att återskapa funktionen fr bindväven
 
+### Kejsarsnitt
 
+***Lager kejsarsnitt, tenta, TODO***
+
+* Hud,
+* subcutis
+* superifical fascia:campersfascia,scarpas fascia
+* recuts skidan
+* rektus muskeln: detta stämmer ej?
+* fascia transversalis
+* preperitoneal adipos o areolar vävnad
+* abdominell peritoneum
+* pelvis peritoneum
+* uterina muskler
 
 ### Livmodern uterus
 
@@ -775,10 +791,20 @@ cerivicit
   * **Vilka andra diagnoser måste uteslutas**? Endometriecancer och cervixcancer
   * **!!! vidare utredning**: endometriebiopsi, abrasio, hysteroskopi med px
   * **Om efter utredning  utesluta diagnosen i a) vad troligaste differentialdiagnosen  o  bakomliggande orsak**: Endometriehyperplasi pga förhöjda östrogennivåer (obesitas)
-* 47åå kvinna
+* **47åå kvinna**
   * söker för långdragna blödningar och buksmärtor. Av den gynekologiska journalen framgår att hon fött 4 barn. Alla förlossningar har varit normala. Dessutom hade hon ett missfall och en legal abort. Fick spiral insatt i samband med abortingreppet och efter detta en salpingit som antibiotikabehandlades. Efter senaste partus åter kopparspiral. Patienten har haft regelbundna menstruationer fram till mitten av april 2012. Från mitten av maj till augusti haft mellanblödningar. Sökte akut i slutet av juli pga blödningar då man avlägsnade spiralen på misstanke om att denna orsakade blödningstrasslet. Eftersom blödningarna inte upphörde sökte hon åter akut och blev insatt på per oral gestagenbehandling under 10 dagar. Trots detta fortsatta blödningar. Man förordade hormonspiral som patienten fick insatt i oktober 2012. Vid återbesök juni 2013 fortsatta blödningar. Hon upplever att hon är trött på blödningarna. Smear och endometriebiopsi ua.
   * Sannolik diagnos: myom...
   * behandlingsalternativ t denna patient: endometrieablation, endometrieresektion, hysterektomi, eller esmia
+* Karin 60 år, TODO
+  * slutade mensutrera vid 51 års ålder men besväras nu av stänkblödning av och till. Hon har också obehagskänsla när hon har sex. Söker på gynekologisk mottagning.Vid undersökningen finner du lite rodnade lättblödande slemhinnor i vagina. Portio ser oretad ut makroskopiskt. 
+  * Vilka diagnoser överväger du? Vilken/Vilka undersökningar gör du?
+    * abe: endometriecancer, cervixcancer, cervixdysplasi, sköra slemhinnor pga menopaus
+  * undersökningar: 
+    * kolposkopi + inföärgning, 
+    * vaginalt UL mätning endometrieslemhinna 
+    * (endometrie PX ska tas?)
+    * cytologi 
+    * HPV-test (papsmear)
 
 
 
@@ -1185,6 +1211,13 @@ cerivicit
   * Veta mer: sj känt en knöl, ökat bukomfång, pollakisuri täta träng, problem avföring, rikliga mens, paramaligna symptom, trötthet, avmagring, 
   * fynd förstärker malignitet misstanke: adherent resistens. inte utgår fr uterus. UL cystisk förändring flera rum solikda partier, asciters
     * prover: anemi, förhöjt Ca-125, ec CEA o F-Hb
+* !! **En 55‐årig kvinna,** TODO
+  * 0‐gravida söker dig på grund av vaginal blödning. Hon har tidigare i livet varit frisk frånsett övervikt (mellan 85 och 90 kg, hon är 165 cm lång). Patienten berättar för dig att när hon var tonåring hade hon oregelbundna blödningar. Dessa normaliserades dock under de 8 år som hon tog kombinerade p‐piller. Hon slutade med dessa då hon var 27 år då hon önskade bli gravid. När detta inte lyckades sökte hon läkare, men utredningen fullföljdes aldrig på grund av skilsmässa. Det visade sig dock att maken hade en normal spermiefunktion.Efter att hon slutade med p‐piller var blödningarna alltid oregelbundna, kom sällan och var ganska sparsamma. Vid 45 års ålder fick hon dock en tre veckor lång blödning och genomgick en skrapning på grund av detta. I journalen ser du att PAD av endometriebiopsi visade metropathia haemorrhagica cystica (MHC). Med hjälp av vaginalt ultraljud konstaterades då också ett myom i fundus. Menopausen inträffade vid 50 års ålder och patienten har inte blött förrän nu. Du gör en endometriebiopsi och diagnosen blir högt differentierat endometriecarcinom.
+    Utifrån denna fallbeskrivning kan du se att patienten har några predisponerande faktorer för att utveckla endometriecancer, nämn tre av dessa faktorer och diskutera mekanismerna över vilka de verkar. (4p)
+    * obesitas: östrogenproduktion (ökad aromtas?) MInskad mängd SHBG därmed högre koncentration bioligskt aktivt östrogen som får endometrieslemhinnan att miotisera och prolifiera. Aromatisering sker osså där, av androstendin till östrogen vilket ger höger nivåer östrogen. 
+    * nulliparitet: förlängd östrogen ingen progest?
+    * infertilitet?
+    * oligomenorrhe: anovulation?
 
 
 
@@ -1286,6 +1319,18 @@ cerivicit
 
 ### Ovarialcancer
 
+***Presentation***
+
+* !! Eva 35 år, 
+  * II-grav, II-para och söker gynakuten då hon successivt fått allt mer ont i magen sista 3 veckorna. 
+  * hon har hypertoni som hon medicinerar för men är för övrigt frisk, aldrig opererad i buken. hennes menstruationer upphörde för 4 år sedan och hon har inte använt hormoner. Eva beskriver att hon har ihållande buksmärta som började för ca 3 veckor sedan, men nu har hon svårt att röra sig då hon har fått allt mer ont. Beskriver att smärtan sitter långt ner i magen och även strålar ut i ryggen. Hon har även ont när hon sitter ner. Miktion ua, och även tarmen tömmer sig regelbundet men det gör ont. INget synligt blod i urin eller avföring.
+  * Buk: palperas överalt mjuk. Distinkt palpationsöm centralt i nedre delen av buken, ingen säker resistens palperas, ingen peritonit misstänks
+  * Gyn: VVP ses ua. Uterus är normalstor för åldern och lätt devierad. Åt hö. Till vä och bakom uterus palperas en cystisk förändring som känns mjuk, ömmande, ca 7-8cm stor, rörlighet är svårt att avgöra.Ulj vaginalt: uterus är liten med normal konfiguration och tunt endometrium. Hö ovarium ses ej. Vid platsen för vä adnexa ses en 2-rummig cysta som mäter 7\*8 cm. Cystan är mstadels ekofri men i ena polen finns ett område som är mer ekogivande. ingen fri vätska ses i buken.
+  * Diagnos/diagnoser? Svarade ovarialcancer, ovarialcysta
+  * ytterligare prover bekräfta diagnos: här kan man diskutera en massa TODO
+
+
+
 ***Riskfaktorer***
 
 * HRT
@@ -1294,10 +1339,6 @@ cerivicit
 * hereditet
 * ålder
 * nullipartum, inga tidg barn.
-
-
-
-***Presentation***
 
 
 
@@ -3369,21 +3410,16 @@ cerivicit
   * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
   * Fyra möjliga orsaker till den stora blödningen
   * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
-  
 * **Pat 35åå**
   * preeklampsi
   * nu ihållande bradykardi på CTG 
   * ska misstänka placenta ablatio 
-  
 * **pat 35åå** 
   * tidigare snittad
   * nu ihållande bradykardi på CTG 
   * ska misstänka uterus ruptur
-  
-* samma cushing pat tillägg
-
-* - tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
-
+* **samma cushing pat tillägg** 
+  * tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
 * 35åå, 5grav 0 para
 
 * - 2 missfall, 2 abort
@@ -3399,9 +3435,12 @@ cerivicit
   - inlägges v27: man behandlar blodtrycket, tittar på UL-flöden ser att det är bra kompensation för ungen
   - skrivs ut v28: informerar pat om tecken på preeklampsi att det krisar etc för att söka akut e.g. påverkade fosterrörelser avviker, flimrar ljus ögon, skakig, huvudvärk, 
   - Läkemedel trandate: 300mgx3 vid utskrivning
-  - Enl handl: dessa med preeklampsi samt IUGR inte förväntat att de blir fullgångna, utan amna snittar tidigt ändå, att det behövs. Man har täta kontroller och följer CTG etc. 
+  - Enl handl: dessa med preeklampsi samt IUGR inte förväntat att de blir fullgångna, utan amna snittar tidigt ändå, att det behövs. Man har täta kontroller och följer  CTG e
 
-
+* !! **Elin söker dig på MVC, TODO**
+  * i graviditetesvecka 20. hon är frisk och födde barn för tre år sedna i vecka 39.barnet vägde 2,3kg.
+  * Blodtryck idag 130/80 mmhg, urinsticka visar 0/ spår för proteinuri. hon har just varit på rutinultraljud och allt var bra där. hon mår bra och arbetar som vanligt och det går bra. 
+  * Finns skäl med ledning av anamnesen att ställa ytterligare frågor eller att vidta någon mer åtgärd under graviditeten?
 
 ***Allmänt***
 
@@ -5424,6 +5463,14 @@ cerivicit
 
 
 
+***Presentation***
+
+* Betty 53år, TODO
+  * har sedan 2 år östrogenplåster som hon byter 2 gånger per vecka. Var 3e månad tar hon en gestagentablett i 2veckor och får då en blödning. nu är hon så trött på blödningarna och kommer till dig för att hon inte längre vill ta sitt gestagen. Vad svarar du? M
+  * åste hon ta gestagen och varför? finns andra alternativ?
+
+
+
 ***Diagnos***
 
 * Tidpunkt för sista menstruation definieras efetr 1års amenorré
@@ -5774,8 +5821,34 @@ cerivicit
 
 #### Efterbördesskedet
 
+***Presentation***
+
+* Eva svensson, 
+  * II-para, har genomgått en snabb och okomplicerad förlossning. Moderkakan har dock inte avgått trots att du har väntat en timme. Det blöder relativt rikligt.
+  * åtgärder underlätta efterbördesskede: avvakta 10-15min, amma eller oxytocin.. TODO
+
+
+
+
+
 * **Efterbördesskede = stage3**: fr att barnet ute och placenta kommit ut
-* **Förlängt efterbördesskede**: dåliga uterala kontraktioner eller abnormal placentation (placenta acreta, placenta increta, placenta percreta)
+* **Förlängt efterbördesskede**: 
+  * dåliga uterala kontraktioner eller 
+  * abnormal placentation (placenta acreta, placenta increta, placenta percreta)
+
+
+
+***Underlätta detta skeende***
+
+* avvakta 10-15min efter partus
+* amma barnet: frisätta oxytocin (uterussammandragande)
+* ge uteruskontraherande lk
+
+***Risk postpartumblöd***
+
+* Ökar signifikant, om efterbördesskede (placenta kvar) >18min
+* 6x ökad risk blödning om kvar efter 30min
+* 
 
 
 
@@ -7689,6 +7762,19 @@ cerivicit
   * endometrios
   * anovulation
 
+### Koagulation
+
+***Presentation***
+
+* Fatima, 29 år 
+  * önskar kombinerade p-piller. Hennes mamma har haft en lungemboli och utretts för detta och man har sett att mamman har en APC-resistens. I samband med detta undersöktes även fatima som inte befanns ha någon APC resistens**.**Vilken eller vilka preventivmetoder rekomenderar du Fatima och varför?
+  * enl abe: rek avstå komb p-piller, kontraindik att mamman fått lungemboli (TODO fråga om provocerade lungembolin eller VTE i släkt eller person)
+    * p-stav el hormonspiral, ökar ej risk för tromboser (ena e mellangestagen som ej påverkar trombos, o andra e lokalt verkande)
+    * kopparspiral o mini-P funkar
+    * kan efterfråga anamnestiskt det patienten vill ha: framtidsplaner, grav när, perma skydd, blöda, 
+
+
+
 ### Kombinerade metoder
 
 ***Etiologi och patiofysiologi***
@@ -7896,6 +7982,24 @@ cerivicit
 
 
 
+#### Kombinerade p-piller
+
+#### Lågpotent gestagen
+
+#### Mellanpotent gestagen
+
+#### Högpotent gestagen
+
+#### Hormonspiral
+
+#### P-spruta
+
+#### akut p-piller
+
+#### Mini-piller
+
+#### Barriärmetoder
+
 
 
 ### Preventivmedelsråd
@@ -7907,7 +8011,6 @@ cerivicit
     * P-ring
     * p-stav
     * hon ska få rätt info o välja sj
-
 * ***Fall2***
   * fött 3 barn vaginalt
   * tidg p-piller fungerat bra
@@ -7917,7 +8020,6 @@ cerivicit
     * **villu ha fler barn**
     * **vad rek vi:** vi ska informera om de andra alternativen, bra info; **kanske ska vara en långverkande metod i 5år,** 
     * ***därför ett spiralfall***
-
 * ***Fall 3***
   * **28åå kvinna**
   * inga barn
@@ -8114,6 +8216,8 @@ cerivicit
 * alla kombinerade hormonella metoder förbättrar
   * östrogen inducerar bildning SHBG: binder testosteron och gestagen
   * **Däremot, EJ rek gestagena metoder**
+
+
 
 
 

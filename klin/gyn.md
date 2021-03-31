@@ -2254,6 +2254,12 @@ cerivicit
   * vad kan du rekommendera henna?
 * **22-åriga Greta**
   * som inte haft mens på ett halvår. Vid din gynekologiska undersökning finner du normala förhållanden förutom att båda ovarierna innehåller rikligt med små antralfolliklar. Du minns att det talades om PCOS på kursen. nämn 2 andra kriterier ( förutom polycystiska ovarier) som ska vara uppfyllda för att sätta diagnosen PCO
+*  **Anneli är 19 år **
+  * **och lätt överviktig ( BMI 26). Mensen är oregelbunden emd långt mensintervall och hon har problem med acne.** 
+    * diagnos misstänker: PCOS
+  * gyn undersök + UL, vad lär man hitta: polycystiska ovarier >=12 antralfolliklar eller ovarialvolym över 10cm^3
+  * labb bekräfta diagnos: FSH, LH, TSH, fT4, prolaktin, progesterontest (gestagentest, 17-OH-progesteron), SHBG, testosteron (för att klinisk hyperandrogenism + mensstörning)
+  * förslag behandling: konservativ behandling (viktnedgång, metabola syndromet adderssera, livsstilsråd). p-piller för mensstruationsstörningen (cykliska gestagener eller hormonspiral)
 
 
 

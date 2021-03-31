@@ -3220,24 +3220,66 @@ En kort lista över kliniska manifestationer av CF:
     * inget test kan friskförklara fostret
     * **erbjudas aneuploidiscreening**: KUB-test i.e. UL och blod test, risk för kromosomavvikelser; får en sannolikhetssiffra
     * om siffra hög erbjuds invasiv fosterdiagnostik
-  * Ett par som efter tre tidiga missfall fått besked att kvinnan bär en kromosomavvikelse, en reciprok translokation mellan kromosomerna 5 och 10.
+  * **Ett par som efter tre tidiga missfall fått besked att kvinnan bär en kromosomavvikelse, en reciprok translokation mellan kromosomerna 5 och 10.**
     * Reciprok translokation
     * empirisk risksiffra för obalanserad avkomma = 10-15%
     * risken varierar mellan olika kromsmavvikelser
     * erbjuds fosterdiagnos: CVB med karyotp
     * PGD kan erbjudas: spec för att nedsatt fertilitet o missfall av translokationen
+* **Cecilia 36år** 
+  * **väntar sitt andrabarn och har kommit till graviditetsvecka 10. hon undrar om fosterdiagnostik. Vad är fosterdiagnostik?**
+    * olika undersökningar + tester -> informtion om fostret har en avvikelse eller sjd
+  * **vilken metod mest aktuellt i detta fall, och vad innebär den**
+    * KUB: kombinerad UL + blodprov;
+    * mäter nackuppklarning + PAPP-A + b-hCG
+    * riskbedömning för kromosomavvikelse spec k21, 13, 18. 
+    * v11-14
 
 
 
 ***Etiologi och patofysiologi***
 
+* Försöker hitta aneuploidier: assoc med att det är inte lätt att predicera Downs enbart baserat på moderns ålder, varpå man utvecklat bättre diagnostiska metoder
+* Kombinerat ultraljd + blodprov
+* Mål med screening: bland de som vill veta om foster har kromosomavvikelse, identifiera så mågna foster med kromosomavvikelse som möjligt. 
+  * samtidigt så få som möjligt ska göra en invasiv fosterdiagnostik, med associerad risk för missfall (även om risken är liten)
+
+
+
 ***Epidemiologi***
+
+
 
 ***Kliniska kännetecken***
 
+
+
 ***Utredning och handläggning***
 
+* Första trimestern
+  * **KUB-testet: Screening Downs syndrom, sens 86%**: 
+    * i v10-14
+    * omfattar: 
+      * UL av nackuppklarning hos foster
+      * fritt beta-hCG + PAPP-A (pregnancy associated plasma protein A)
+      * moderns ålder
+  * **Sannolikhet Downs**
+    * beta-hCG 2x högre i Downs
+    * PAPP-A 50% lägre i Dows
+* andra trimestern: v15-290, 
+  * 83% identifikation Downss: screening 4 markörer (kvadrupeltest) maternellt blod + ålder; 5% falsk-positiva
+  * 2 markörer är inhibin + Beta-hCG: båda dubbelt höga vid Downs. 
+  * 2 markörer är östriol + AFP (alfafetoprot); 30% lägre hos Downs
+* **screening öppna neuralrörsdefekter, bukbråck, andra tillstånd, AFP**: AFP ingår i testet andra trimestern, så man får svar för neuralrörsdefekter också (öppna ryggmärgsbråck, ananecefali, encefalocele) 
+  * Bekräftas med UL + AFP i fostervatten.
+
+
+
 ***Behandling***
+
+
+
+
 
 ### Pataus syndrom
 
@@ -3363,6 +3405,8 @@ Other:
     * trakeo-esofageal fistel kan också aggrevera respiratoriska problem
     * kongenital diafragmatisk bråck presenterar med akut respiratorisk distress snart efter födsel, med scaphoid abdomen; man hör tarmljud på thorax. 
 
+
+
 ***Etiologi och patofysiologi***
 
 
@@ -3375,8 +3419,11 @@ Other:
 ***Kliniska kännetecken***
 
 * **ökade orala sekretioner, hos nyfödd**: ackummulation saliv i proximala esofageala fickan 
-* 
-* 
+* **Polyhydramnios under graviditet**
+
+
+
+
 
 ***Utredning och handläggning***
 
@@ -3426,7 +3473,8 @@ Other:
 
 * Mustafa 7år, 
   * sedan tidigare astma, inkommer till akuten pga av att han av föräldrarna uppfattas som svullen sedan ett par dagar i ansikte/ögon ochpå fötterna. I status kan du se diskret svullnad bilateralt, symmetriskt enligt ovanmed i övrigt intakt hud.AT gott, afebril. Vitalparametrar ua för åldern. Hjärta: normalfynd, 
-  * ***Lungor***: normalfynd, BT 90/60mm Hg(normalvärde). Du misstänker en specifik sjukdom, den mest troliga,och vill lägga in Mustafaför utredningochta prover för att komma vidare i diagnostiken. 
+  * ***Lungor***: normalfynd, BT 90/60mm Hg(normalvärde). 
+  * Du misstänker en specifik sjukdom, den mest troliga,och vill lägga in Mustafaför utredningochta prover för att komma vidare i diagnostiken. 
   * **Prover som man vill ta:**
 
 
@@ -3471,7 +3519,7 @@ Other:
 
 * ***Laboratorieprover***
   * **enl tenta?:** U-Alb/krea, S-alb, S-krea, urinsticka, (U-alb mätning per dygn)
-* **enl PM:** 
+* **enl PM:** TODO (gällande lipider)
   * **Blod**: Hb, evf, LPK, TPK, CRP albumin, kreatinin, cyst C, Na, K, Ca, P C3, C4, ANA Varicella serologi (immunitet?) ev. hepatit B, C serologi, ANCA, antitrombin III, fibrinogen, (kolesterol, triglycerider)
   * **Urin**: urinsticka, u-alb/krea
   * **Övrigt**: ultraljud njurar, urinvägar, ev rtg cor-pulm (övervätskning? infektion?)
@@ -3566,12 +3614,12 @@ Other:
 
 ***Presentation***
 
-* En 5-årig pojke
+* **En 5-årig pojke**
   *  kommer in till akuten pga hälta på höger sida. Han klagar inte så mycket men vill inte gå på det högra benet. Han har ingen feber och är tidigare frisk. Du undersöker honom och noterar då skyddsreflexer o smärta vid rotation i höger höft. Övrigt status i leder och rörelseapparaten är utan anmärkning. Blodstatus med diff är normalt, CRP < 5.
   * sannolik diagnos: coxitis simplex
   * bekräfta diagnos: UL-höft kan göras, ej nödvändigt för diagnos enl tentasvar fr student
   * om diagnosmisstanke bekräftas vad visar undersökningen: ledutgjutning åp ultraljud, i.e. ökad vätska i leden.
-* 3 år gammal flicka
+* **3 år gammal flicka**
   * som du träffar på barnakuten som ej velat gå sedan ett par dagar. Hon var förkyld för ett par veckor sedan. Gott allmäntillstånd. Hon har ingen feber, inga utslag. Hon har en lätt inskränkning vid abduktion i höger höft men i övrigt finner du inget anmärkningsvärt. Ange en sannolik diagnos och vad är ditt nästa steg? 
   * Höftsnuva
 
@@ -3646,13 +3694,11 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
-
-
 ### JIA
 
 ***Presentation***
 
-* Anna 4 år 
+* **Anna 4 år** 
   * kommer till din mottagning. Hon har haft ett svullet höger knä och en svullen vänster fotled i många veckor. Hon är stel på morgonen och det tar ett par timmar innan hon har normal gång. Hon har en mormor som har ledgångsreumatism i övrigt inga reumatiska sjukdomar i närmaste släkten. Anna blev fästingbiten i somras men fick ingen ring runt bettet. I status kan du bekräfta anamnesen. Övrigt ledstatus är utan anmärkning Du misstänker en diagnos och beställer prover. Vilket alternativ stämmer bäst med din bedömning och plan:
   * **Juvenil idiopatisk artrit.** 
   * **Borreliaserologi, Blodstatus, CRP och SR, ANA**
@@ -3681,23 +3727,26 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ***Kliniska kännetecken***
 
-* Rheumapositiva och negativa kommer hos polyartikulära. 
-* Den vanligaste formen är oligoartrit formen. 
+* **Polyartikulär**: RF-positiv, Rheumapositiva och negativa kommer hos polyartikulära. 
+* **Oigoartrit, vanligast**: 
+  * 4 och färre leder
+  * Den vanligaste formen är oligoartrit formen. 
+* **systemisk JIA**: 
 
 
 
 ***Utrending och handläggning***
-* Officiella utredningsgången
-* Blodstatus med diff, 
-* CRP,
-* SR, 
-* ANA, 
-* Borreliaserologi, 
-* skelettröntgen. 
-* ANA 30% har det och det är associerad med högre risk för uveit. 
-* Borreliaserologi för att utesluta borrelia. 
-* Blodstatus med diff för att utesluta leukemi. 
-* Skelettröntgen för uteslutning av malignitet ostemyelit o andra diagnoser.
+
+* **Officiella utredningsgången**
+  * **Blodstatus med diff**, 
+  * **CRP,**
+  * **SR,** 
+  * **ANA**: 30% har det och det är associerad med högre risk för uveit: behöver följas upp av ögonläkare
+  * **Borreliaserologi,** 
+  * **skelettröntgen.** 
+  * **Borreliaserologi** för att utesluta borrelia. 
+  * **Blodstatus med diff** för att utesluta leukemi. 
+  * **Skelettröntgen**: för uteslutning av malignitet ostemyelit o andra diagnoser.
 
 
 

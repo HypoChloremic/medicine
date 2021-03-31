@@ -1365,6 +1365,7 @@ cerivicit
   * **hematogen spridning osså**: mer rare o distanta mets t lungor o hjärna. Avancerad sjd intraperit tumör spridnig leder t ackummulation acsites i buken och encasement av tarmar med tumör!
 * !!! **Incessant ovulation hypotesen**: ovulations supprimering är bättre för att då förstör man mindre av epitelvävnaden, varpå mindre risk för malignifiering
   * noter att  detta inte verkar ha en DIREKT relation till östrogne, likt för endometriecancer!
+  * fungerar parallelt med STIC teorin också enl föreläsaren. 
 * **Histologi**
   * **Typ1**
     * genetiskt stabila
@@ -2027,7 +2028,7 @@ cerivicit
 
 * **!!! Mira, född 1995,** 
   * ursprungligen från Afganistan, söker dig på ungdomsmottagningen på grund av utebliven menstruation. Går i gymnasiet, bor hos släktingar, talar och förstår svenska. Hon är virgo och hade sin första menstruationsblödning när hon var 16 år. Hon blödde då i 10 dagar. Därefter har hon haft ytterligare en blödning för 1 år sedan och den varade i 3 dagar. Mira vill absolut inte bli gynundersökt och helst inte klä av sig. Hon ser allmänt frisk ut men verkar ha en måttlig övervikt.
-  * Ytterligare frågor att ställa: dessa är till för att ställa vilken nivå av gonadotropi det kan handla om 
+  * **Ytterligare frågor att ställa**: dessa är till för att ställa vilken nivå av gonadotropi det kan handla om 
     * Andra symptom; 
     * svettningar, hirsutism/acne, 
     * viktförändring, 
@@ -2140,20 +2141,27 @@ cerivicit
   * **androgenpåverkan (hyperandrogenism):** acne, hirsutism, klitorisförstoring
   * **UL**: uterus, ovariestorlek
 * **Labb o test**
-  * **uteslut graviditet**: u-hCG (detta om patienten säger sig vara virgo? eller skippar man den? )
-  * **hormonanalyser**: FSH, LH, prolaktin, TSH, fT4 []
-  * **progesterontest**: Provera 10mg 1x1, 7d. 
-    * **kontrollera endogen östrogennivå och normal anatomi**
-    * **om blödning**: anovulation
-    * **om ingen blödning trots normal östrogennivå:** 
-      * höga androgennivåer (PCOS); 
-      * adrenal enzym defekt; 
-      * otillräcklig östrogensekretion, 
-      * anomalier
-  * **uteslut missbildningar**: mullerska gångar (detta kan antydas statusmässigt)
-  * **kromosomanalys**: bestäm karyotyp
-* **Neuroradiologi**: 
-  * **MRT sella turcica**: misstanke hypofystumör
+  * **Basal amenorre utredning**
+    * **uteslut graviditet**: u-hCG (detta om patienten säger sig vara virgo? eller skippar man den? )
+    * **hormonanalyser**: FSH, LH, prolaktin, TSH, fT4 [
+    * **progesterontest**: Provera 10mg 1x1, 7 DAGAR. 
+      * **Först kontrollera den endogena östrogennivån och om pat har normal anatomi**: detta innan progest testet
+      * **om blödning**: anovulation; att progesteronet inducerade blödningen, som i sin tur antyder att pat varit anovulatorisk
+        * med 7 dagars gestagenstimulering och efterföljande bortfallet gestagen
+        * sker bortfallsblödnnig om pat har tillräcklig östrogenproduktion för stimma endometriet och om uterus + vagina fungerar normalt
+        * dessa fall har anovulation konstaterats
+        * **Sammanfatttning** att man anovulatorisk, är i proliferationsfasen, får en gestagenboost, varpå hamnar i sekretionsfas, sen för att gestagen faller bort och tillräckligt hög östrogen så blöder man
+      * **om ingen blödning trots normal östrogennivå:** 
+        * Föklaring: antingen liten östrogenproduktion eller missbildning eller skada uterus, kräver YTTERLIGARE utredning.
+        * höga androgennivåer (PCOS); 
+        * adrenal enzym defekt; 
+        * otillräcklig östrogensekretion, 
+          * otillräcklig östrogen + normal anatomi, kommer pat att få en bortfallsblödning efter tillägg östrogen till cykliskt gestagen
+        * anomalier
+    * **uteslut missbildningar**: mullerska gångar (detta kan antydas statusmässigt)
+    * **kromosomanalys**: bestäm karyotyp
+  * **Neuroradiologi**: 
+    * **MRT sella turcica**: misstanke hypofystumör
 * **Progesterontest**: Provera 10mg 1x1 7d
   * kontroll endogen östrogennivå + om normal anatomi
   * om blödning -> anovulation
@@ -3132,6 +3140,9 @@ cerivicit
 
 * **Farmakologiskt**
   * **Gällande metformin**: denna supposedly ska man sluta med, då epidem studier visat att ungar vars mamma tagit metformin i deras grav blir större, högre BMI vid 10åå etc. istället att man går över till insulin. Men det verkar som att PM inte har ändrats 
+* Hilda 
+  * väntar sitt andra barn. Förra graviditeten gick bra. hon födde ett barn som vägde 3,9kg i graviditetesvecka 41. Hon har kommit till graviditetesvecka 25. ett slumpmässigt tagit blodsocker har visat ett förhöjt värde.
+  * va gör du o hur bedömer du det: OGTT, bedöma föreligger GDM?
 
 
 
@@ -3142,6 +3153,16 @@ cerivicit
 * **32 årig ensamstående kvinna med 6 barn i graviditetsvecka 36.** 
   * Alla 6 är födda vaginalt. Hennes stora bekymmer är att det är svårt med barnpassning. Hon vill veta hur cervixstatus är nu. Du undersöker henne. Föregående fosterdel huvud ovan spinae. Cervix är mellanriktad, bevarad, öppen 3cm trattande, medium konsistens.
   * BT 155/85, ska man beh eller expektera: man ska behandla
+
+
+
+
+
+***Etiologi och patofysiologi***
+
+* Ökad insulinresistens under graviditet
+* Ökat insulinbehov
+* hormoner placentala leder t resistensen (gestagener som driver detta?)
 
 
 
@@ -3310,16 +3331,35 @@ cerivicit
 
 ***Presentation***
 
+* Helene, en frisk 33-åring, 
+  * är gravid i vecka 39 i sin första graviditet. hon kommer till förlossningsavdelningen en förmiddag pga att hon under det senaste dygnet inte observerat fosterrörelser. Graviditeten har hittils varit helt normal. Du tar emot henne påförlossningsintaget.
+  * Ange två undersökningsmetoder som kan vara till god hjälp för att snabba klara ut om fostret lever eller inte! 
+    * CTG + UL
+  * Tyvärr konstaterar du med dessa undersökningar att intrauterin fosterdöd föreligger. Tillsammans med barnmorska har du ett mycket långt samtal med helen och hennes man. De undrar vad som nu kommer att hönda. Vilket förlossningssätt rekommenderar du?
+    * enl abe: vaginal förlossning
+* Hur hög perinatal mortalitet (0.51%), vad är definition perinatal mortalitet
+
+
+
 ***Etiologi och patofysiologi***
 
 * Vanligaste orsakerna till IUFD
   * placentaavlossning ablatio
   * dödföddhet utan känd orsak
-  * missbildningar
+  * missbildningar: atresier enl abe
+* Perinatal mortalitet: v22-7d efter förlossning
+* neonatal mortalitet: första 27d efter födsel
 
 
 
 ***Epidemiologi***
+
+* perinatal mortalitet incidens = 0.51%
+* IUFD 50% av perinatal mortalitet incidens = 0.25%
+
+
+
+
 
 ***Kliniska kännetecken***
 
@@ -3420,7 +3460,7 @@ cerivicit
   * ska misstänka uterus ruptur
 * **samma cushing pat tillägg** 
   * tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
-* 35åå, 5grav 0 para
+* **35åå, 5grav 0 para**
 
 * - 2 missfall, 2 abort
   -  Noteras kontroll v24 att BT högt
@@ -3437,14 +3477,72 @@ cerivicit
   - Läkemedel trandate: 300mgx3 vid utskrivning
   - Enl handl: dessa med preeklampsi samt IUGR inte förväntat att de blir fullgångna, utan amna snittar tidigt ändå, att det behövs. Man har täta kontroller och följer  CTG e
 
-* !! **Elin söker dig på MVC, TODO**
+* !! **Elin söker dig på MVC, TODO**; detta fallet att det står proteinuri på ett konstigt sätt. 
   * i graviditetesvecka 20. hon är frisk och födde barn för tre år sedna i vecka 39.barnet vägde 2,3kg.
   * Blodtryck idag 130/80 mmhg, urinsticka visar 0/ spår för proteinuri. hon har just varit på rutinultraljud och allt var bra där. hon mår bra och arbetar som vanligt och det går bra. 
   * Finns skäl med ledning av anamnesen att ställa ytterligare frågor eller att vidta någon mer åtgärd under graviditeten?
+    * tidigare IUGR och +1 isch på stickan nu kan föranleda att patienten behöver tätare kontroller
+    * penetrera anamnes: HELLP anamnes, diarre, HV, kiss, ögonflimmer
+    * misstanke preeklampsi: proteinuri + tidg. IUGR. 
+    * remiss spec-MVC: föreligger 2 riskfaktorer, att trombyl behöver läggas in
+    * tätare BT + u-sticka kontroller resten av grav t v36: 
+    * tillväxt-UL + flöde UL v24 
 
 ***Allmänt***
 
 * aka havandeskapsförgiftning
+* Detta verkar vara en extension av hypertensiva tillstånd under graviditeten
+
+
+
+***Definitionsmässigt***
+
+* **Multiorgansvikt** är en del av definitionen
+* med hypertoni
+* med nydebuterade symptom eller engagemang av 1 el flea organsystem 
+* och eller fosterpåverkan efter v20
+
+* **Preeklampsi**
+  * **Njurpåverkan**
+    * Proteinuri verifierad med slumpmässig alb/krea ≥8 mg/mmol (ej obligat) 
+    * Njurinsufficiens: 
+      * Krea ≥ 90 µmol/L, 
+      * oliguri <500 mL/dygn
+  * **Leverpåverkan**
+    * Transamninasstegring >1,2 µkat/L, 
+    * svår epigastriesmärta 
+    * eller smärta under höger arcus
+  * **Hematologisk påverkan**
+    * TPK <100x109/L, 
+    * hemolys (haptoglobin <0,25 g/L 
+    * eller LD >10 µkat/L
+  * **Neurologisk påverkan:**
+    *  Svår huvudvärk, 
+    * persisterande synstörning, 
+    * hyperreflexi med klonus, 
+    * kramper (eklampsi)
+  * **Cirkulationspåverkan:** 
+    * Lungödem, 
+    * bröstsmärta, 
+    * uteroplacentär dysfunktion, 
+    * intrauterin tillväxthämning, IUGR
+* **Pålagrad preeklampsi**
+  * Kronisk hypertoni som efter v20 utv en el fler
+    * trots misnt 2 olika antihypertensiva: persisterande hypertoni, 
+    * ny eller försämrad proteinuri
+    * organåpverkan en eller flera enl ovan
+* **Svår preeklampsi**
+  * preeklampsi + svår hypertoni 
+  * och eller organpvårakan / klin symptom
+  * och eller försämr organpåverkan / symptom enl voan
+  * diagnos o eller födsel på preeklampsiindikation före v34
+* HELLP
+  * tecken hemolys: 
+    * haptoglobin under 0.25
+    * eller LD över 10
+  * TPK under 100
+  * ASAT, ALAT över 1.2
+  * **!! EJ obligat proteinuri eller hypertoni**
 
 
 
@@ -3484,7 +3582,6 @@ cerivicit
   * **små blodkärl:** trombocytopeni, DIC
 * ***Tidmässigt***: definieras som efter v20, men sker 5%-6% av alla live births. 
   * vanligast efter tredje trimestern,. near term
-  * 
 
 
 
@@ -3498,7 +3595,7 @@ cerivicit
     * stillbirth - i svåra fall
   * **Kronisk uteroplacental insufficiens**
     * asymmetrisk and symmetrisk SGA fetuses
-    * IGUR
+    * !!! ***IUGR***: då är det att preeklampsin ger detta, frågan är om IUGR ökar risken för preeklampsi i sin tur
   * **Oligohydramnios**
   * **IUGR**: intrauterine-growth restriction
   * **placentär ablatio**
@@ -3558,13 +3655,65 @@ cerivicit
 
 ***Utredning och handläggning***
 
-* **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
-* **Om mamma inte jättesjuk o diffar preeklampsi**
-  * **U-sticka**
-  * **lilla-tox**: Hb, TPK, ALAT, Krea, urat
-* **svårt sjuk o diffar preeklampsi**
-  * **stora-tox**: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, 
-    * diffa preeklampsi mot HELLP (hemolysis-elevated liver enzymes-low platelet count syndrome)
+* ***GENERELLT***
+  * **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
+  * **Om mamma inte jättesjuk o diffar preeklampsi**
+    * **U-sticka**
+    * **lilla-tox**: Hb, TPK, ALAT, Krea, urat
+  * **svårt sjuk o diffar preeklampsi**
+    * **stora-tox**: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, 
+      * diffa preeklampsi mot HELLP (hemolysis-elevated liver enzymes-low platelet count syndrome)
+* **SCREENING + MÄTMETODER**
+  * ***Proteinuri***
+    * **BT**: varje besök MVC; sittande, arm hjärthöjd, vila, adekvat bredd, automatisk är rekommenderad
+    * **PROTEINURI**: först på MHV (MHV1-2), 
+    * **RISKFAKTORER FÖR PREEKLAMPSI**: 
+      * screening för proteinuri ske vid VARJE kontroll på MHV
+      * **upprepade +1 eller en 2+**: måste ta alb/krea kvot för kvantifiering 
+* **HÖGRISKGRUPPER**
+  * tidg preeklampsi eller eklampsi
+  * **autoimm sjd**: SLE, APLS (antifosfolipid)
+  * tidg grav. hypertoni + födsel innan v34
+  * IUGR
+  * IUFD
+  * Ablatio
+  * DM2, DM1
+  * flerbörd
+  * Njursjd
+  * kronisk hypertoni
+  * IVF med äggdonation
+* **MÅTTLIGA RISKFAKTORER**
+  * nullipara
+  * hereditet preeklampsi
+  * BMI över 30
+  * ålder över 40
+  * graviditetsintervall över 10åå
+  * BT över **130mmHg eller 80mmhg** vid **inskrivning**
+  * afrikanskt ursprung
+  * verifierad obstruktiv sömnapne
+* **HANDLÄGG + ÖVERVAK UNDER GRAV, BT över 140/90**
+  * Kontroll Hb, TPK, ALAT, krea, urat
+  * UL med viktskattning foseter, vid diagnos
+  * misstänkt IUGR uppfölj enl separat PM
+  * liberal sjukskrivning
+  * !!! om inga subjektiva synmptom el organpåverkan, kontroll inom 1 vecka, **därefter 1-3gg/vecka**.
+* **BT150/100 eller subjektiva symptom**
+  * huvudvärk
+  * buksmärtor
+  * organpåverkan
+  * krävs snar handlägg på spec MVC ofta sjukhusvård
+* **Vid slutenvård**
+  * kontrolleras labbprover enl ovan, minst varannan dag
+  * svår preeklampsi/HELLP/pato värden: utvudgad provtagning
+    * leverfunktion: ASAT, bilirubin, LD, albumin, haptoglobin, AT, fibrinogen, APTT, PKINR
+    * Na, K,
+  * UL + viktuppskattning
+  * IUGR separat PM: tillväxthämning
+  * Vätskebalans vid svår preeklampsi
+    * dygnsdiures
+    * max intag vätska: 80mL/tim (2000mL/d)
+  * BT mäts 4gg/d eller enl ordin
+  * CTG 2gg/d
 
 
 
@@ -3580,6 +3729,23 @@ cerivicit
   * **hålla normal vikt**
   * **motionera**
   * **kontrollera blodtryck i framtiden**
+* **PROFYLAX**
+  * ASA 75mg t ikväll
+  * senast fr v12 fram till v36
+  * Senare insättning kan ha effekt
+  * till HÖGRISKGRUPPER
+  * övervägs vid måttliga riskfaktorer
+* **ANTIHYPERTENSIV BEHANDLING**
+  * Inleds vid: systoliskt >=150 eller diastoliskt >=100
+  * Mål: systoliskt <150 och diastoliskt 80-100
+    * diabetes, njursjd, annan samsjuk: systoliskt >140 och diastoliskt 80-90
+  * Läkemedel
+    * 1a hand labetalol (Trandate): startdos 100mgx3. kan höjas t 400mgx4. 
+      * överväg kombinationsbeh vid dos >200mgx3
+    * 2a hand nifepidine (Adalate): startdos 10mg; via licens för att den inte framställs längre
+      * calciumblockare
+    * 3e hand hydralazin (Apresolin): 25mgx3. kan höjas t 50mgx4
+    * kan överväga: metoprolol, visken, amlodipin
 
 
 
@@ -3948,31 +4114,73 @@ cerivicit
 
 ### GBS infektion
 
+***Presentation***
+
+* **Anna, v24**
+  * väntar sitt första barn. hon har kommit till vecka 24. 
+  * En urinodling har visat växt av 100 000 beta-streptokocker grupp B. 
+  * **Hur handlägger du detta**?
+    * **kåvepenin**: konc över 100 000 i urin
+      * dokumenteras 
+      * skrivs i sammanvättning av grav på MVH
+    * **oavsett koncentration + vaginal förlossning**: beh i samband med partus
+
+
+
 ***Riskfaktorer***
 
-* Neonatal GBS-infektion
+* **Neonatal GBS-infektion**
   * Tidigare barn med GBS-sepsis
   * Tidigare IUFD: intrauterin fosterdöd
 
 
 
+***Komplikationer***
+
+* 
 
 
 
+***Utredning och handläggning***
+
+* Urinodling: 
+  * GBS tidig. grav: man odlar tas ENDAST vid symptom, behandling om pos. 
+  * urinodling om kvinnor ökad risk UVI: tidigare UVIer, könsstympade
+  * 100 000 GBS: kåvepenin behandling
+* **Graviditetsplanering (spec-MVC, remiss)**:
+  * tidigare barn tidigt insättande neonatal GBS sepsis
+  * IUFD
+  * sen abort, GBS trolig orsak
+* GBS i urinodling, MHV3 dokumentation: sammanfattning av grav
+* tidig hemgg efter förlossning rekas ej, om pos GBS
 
 
 
+***Behandling***
 
+* ABU med GBS behöver inte behandlas
+* GBS >=100 000 i urinodling: kåvepenin 1gx3x5
+* uttalade symptom: behandling lägre koncentrationer
+* Samband förlossning, AB, endast om vaginal: behandling ska ges
+* penicillinallergi: erytromycin eller klindamycin.
+  * erytromycin ökad risk hjärtmissbildningar om tidig gav
+  * öakd andel resistensutv makrolider ffa erytromycin senast 10år
+
+
+
+***Uppföljning***
+
+* Kontrollodling efter behandling behövs ej
 
 ### Graviditet - infektion
 
 ***Kompliaktioner infektion grav***
 
-* Sjukdom, död neonatalperiod
-* Prematuritet
-* PPROM: prematur för tidig vattenavgång
-* Missbildning: rubella kan ge kraniella 
-* Tillväxthämning
+* **Sjukdom, död neonatalperiod**
+* **Prematuritet**
+* **PPROM**: prematur för tidig vattenavgång
+* **Missbildning**: rubella kan ge kraniella 
+* **Tillväxthämning**
 
 
 
@@ -4009,6 +4217,8 @@ cerivicit
   * fick sitt första barn för tre veckor sedan. Idag har hon insjuknat med smärta i vänster bröst som är ömt. hon har ont i musklerna och lite huvudvärk. Tempen visar sig vara 39 grader. Bröstet är svullet, spänt, rodnat och litet småknöligt. inga besvär från något annat ställe.
   * **vad har hon**: mastit
   * **hur handlägger du det**: först tömma bröstet, amma bättre
+* Svea 
+  * har födde barn i förrgår och har nu feber. Du undersöker henne och det mesta är normalt utom höger bröst som är svullet och rött och det känns ett hårdare område 4\*5 cm som mitt i är lite flukturerande. Du tar en sårodling som skickas och CRP= 60 och vita= 14.
 
 
 
@@ -5183,7 +5393,7 @@ cerivicit
 * **högst risk 1a året på piller**
 * **riskökning uppehåll p-piller**
 * **Mortalitetrisk:** 6-16:1M p år
-* ***Gestagen påverkar EJ risk för VTE***
+* !!! ***Gestagen påverkar EJ risk för VTE***
 * **graviditet:** förekommer hos 12:10k graviditeter
 * **trombosrisk**: vecka 6 = risken vid p-piller
   * över v6 är risken högre än vid p-piller
@@ -6082,6 +6292,9 @@ cerivicit
     * Yttre press 
     * Övertala Annika att fortsätta vaginal förlossning med ökat oxytocindropp eftersom barnet mår bra. 
     * Tång: vertex är inte nedom spinae
+* Helene, en frisk 33-åring, är gravid i vecka 39 i sin första graviditet. hon kommer till förlossningsavdelningen en förmiddag pga att hon under det senaste dygnet inte observerat fosterrörelser. Graviditeten har hittils varit helt normal. Du tar emot henne påförlossningsintaget.
+  * Ange två undersökningsmetoder som kan vara till god hjälp för att snabba klara ut om fostret lever eller inte!
+  * CTG + UL
 
 
 
@@ -6242,23 +6455,6 @@ cerivicit
 
 
 
-### Induktionsåtgärder
-
-***Olika åtgärder***
-
-* **prostaglandin** E2 intracervikalt
-* **prostaglandin** E2 vaginalt alternat ballongbeh
-* **ballongbeh**
-* **oxytocin** och **amniotomi**
-
-
-
-***Indikationer***
-
-* **Bishop 0-2p:** PE2 intracervikalt
-* **Bishiop 3-5p:** PE2 vaginalt, alt ballongbeh
-* **Bishop 6-10p**: oxytocin amniotomi
-
 ### Förlossning: konvertering
 
 ***Presentation***
@@ -6291,20 +6487,20 @@ cerivicit
   * **CTG förändringar, hotande fosterasfyxi**
 * **Vaginalt till kejsarsnitt**
   * **Prövat instrumentellt, men ej funkat**: att man har dragit 2-4 gånger utan att få ned huvudet, indikation för att konvertera till ett kejsarsnitt
-  
+
   * **Vertex ovan spinae**: innebär att man ej kan använda instrumentell förlossning
-  
+
   * **CTG förändringar, med omogen cervix**
-  
+
   * **Vertex ovan spinae + retraherad över 4 timmar**
-  
+
   * **Bjudning**: 
-  
+
   * - framstupa ansiktsbjudning (i.e. att ryggen är till luften om mamman ligger på rygg (att man slår pannan på ngt)
     - pannbjudning
-  
+
   * **Utebliven progress i öppningsfas**
-  
+
   * - Utebliven öppningsfas definieras i PM vi tog bild på, den i plastfickan
 
 
@@ -6316,6 +6512,38 @@ cerivicit
 
 
 
+
+### Induktionsåtgärder
+
+***Olika åtgärder***
+
+* **prostaglandin** E2 intracervikalt
+* **prostaglandin** E2 vaginalt alternat ballongbeh
+* **ballongbeh**
+* **oxytocin** och **amniotomi**
+
+
+
+***Indikationer***
+
+* **Bishop 0-2p:** PE2 intracervikalt
+* **Bishiop 3-5p:** PE2 vaginalt, alt ballongbeh
+* **Bishop 6-10p**: oxytocin amniotomi
+
+
+
+
+
+### Kejsarsnitt
+
+***Presentation***
+
+* **Emily 25år**
+  * och väntar sitt första barn. hon är frisk men har hört att kejsarsnitt är bra och skulle gärna vilja föda på det viset. Hon tycker det verkar smärtsamt att föda vaginalt. hon vill gärna ha tre barn. Vad svarar du henne?
+  * alltid risk med bukkirurgi
+  * uterusruptur ökad risk vid vaginal förlossning: efter 2 kejsarsnitt.
+  * **risker**: infektion, postpartumblödningar, ärr, kroniska smärtor, trombosrisk, hem långsammare jfr vaginal, andningssvårigheter högre risk, långsammare med amning, urinblåsa kan skadas
+  * **benefits vaginal**: mår bättre av vaginal flora, mer stresshormon så bättre stresspåslag och övergång av fostercirkulation.
 
 ### Partogram
 
@@ -6383,7 +6611,17 @@ cerivicit
 
 - Blir ej heller fullgångna, utan man inducerar innan v37
 
-### Prematuritet
+### Prematuritet, IUGR, SGA
+
+
+
+#### IUGR
+
+***Etiologi***
+
+
+
+#### Prematuritet
 
 ***Presentation***
 
@@ -6396,13 +6634,55 @@ cerivicit
 
 ***Etiologi och patofysiologi***
 
-* Riskfaktorer för prematur börd; TODO
+* **Indelning**
+  * Tre subkategorier: Extrem prematur (under v28), väldigt prematur (under v32) moderat och sen prematur (v32-37). 
+  * Viktklasser (LBW=Low birthweight): LBW (under 2500g), very LBW (under 1500g), extrem LBW (under 1000g)
+* !! **Gällande IUGR:** intrauterin growthrestriction innebär att barnet är litet för sin gestationella ålder. e.g. att man föds efter v37, men är mindre än vad man borde vara i storlek
+  * likaså kan man vara prematurt född, men ändå viktad normalt för den givna gestationella åldern. 
+* **Mortalitet**: högst relaterat när i förloppet man föds; mga olika orsaker som bidrar t mortalitet
+  * RDS: respiratorisk distress syndrom
+  * intraventrikulär blödning
+  * nec: nekrotiserande enterocolit
+  * sepsis
+* **Riskfaktorer för prematur börd**; TODO
   * **Urinvägsinfektion**
-  * 
+  * **prom**: prematur rupture of membranes
+  * **korionamnionit**
+  * **multipla gestationer**
+  * **uterina anomalier**: bicournate uterus
+  * **tidigare prematur förlossning**
+  * **maternell prepregnancy vikt mindre än 50kg**
+  * **placental abruption**
+  * **maternell sjd**: 
+    * preeklampsi
+    * infektioner
+    * intraabdominell sjd
+    * intraabdominell kirurgi
+  * **substansmissbruk**
+  * **låg socioekonomiskt status**
+
+
+
+***Långtids komplikationer***
+
+* Bronkopulmonell dysplasi
+* astma
+* neurologisk påverkan
+  * CP-skada
+  * beteenderelaterade besvär
+  * inlärningssvårigheter
+* retinopati of prematurity
+* hörselskada, hörselförlust: hängmatteutseende?
 
 
 
 ***Epidemiologi***
+
+* Mortalitet: risken relateras med vilken tid och grad av prematuritet
+  * v23 gestation: 50% mortalitet
+  * v34 gestation: lite mindre mortalitet jfr med fullgångna barn
+
+
 
 ***Kliniska kännetecken***
 
@@ -6410,10 +6690,17 @@ cerivicit
 
 ***Utredning och handläggning***
 
+* 
+
+
+
 
 
 ***Behandling***
 
+* Inför prematur förlsosning
+  * Steroiddoser: 2 doser, 1x1 (1dos d1 och andra dosen d2): 24h emellan doserna;
+    * ingen skillnad av att tidigarelägga doserna enl Neo vid kontakt med de. Detta framgår ej av interna PM?
 * Magnesium
   * Förväntad/planerad förtidsbörd inom 1–24 timmar < 32+0 graviditetsveckor. Om behandlingen ges med kortare tid än 1 timme från förlossningen tros effekten vara mindre, men den är inte skadlig. Ges behandlingen >24 timmar innan förlossningen har den sannolikt mindre effekt och detta bör undvikas i största möjligaste mån. Vid vaginal förlossning skall patienten därför vara i aktivt värkarbete när MgSO4 ges, d.v.s livmodertappen skall vara öppen 3cm eller mer, buktande hinnblåsa och/eller vattnet har gått, sammandragningar och en sådan progress att förlossning med all sannolikhet sker inom 24 timmar. Överväg att ge MgSO4 i samband med att andra dosen Betapred ges.
   * patienter som genomgår akut eller elektivt kejsarsnitt skall också erhålla MgSO4 1-24 timmar innan kejsarsnittet om det sker <32+0 graviditetsveckor. Sikta på att ge MgSO4 cirka 5 timmar innan operationsstart.
@@ -6489,7 +6776,7 @@ cerivicit
 
 
 
-### Värsvaghet
+### Värsvaghet = dystoci
 
 ***Definition***
 
@@ -6857,6 +7144,18 @@ cerivicit
 ***Etiologi och patofysiologi***
 
 ***Epidemiologi***
+
+
+
+***Komplikationer av placenta previa***
+
+* antepartal blödning
+* prematur förlossning
+* pprom
+* IUGR!
+* ökad risk för puerpal hysterektomi
+
+
 
 ***Kliniska kännetecken***
 
@@ -7766,12 +8065,18 @@ cerivicit
 
 ***Presentation***
 
-* Fatima, 29 år 
+* **Fatima, 29 år, TODO** 
   * önskar kombinerade p-piller. Hennes mamma har haft en lungemboli och utretts för detta och man har sett att mamman har en APC-resistens. I samband med detta undersöktes även fatima som inte befanns ha någon APC resistens**.**Vilken eller vilka preventivmetoder rekomenderar du Fatima och varför?
   * enl abe: rek avstå komb p-piller, kontraindik att mamman fått lungemboli (TODO fråga om provocerade lungembolin eller VTE i släkt eller person)
     * p-stav el hormonspiral, ökar ej risk för tromboser (ena e mellangestagen som ej påverkar trombos, o andra e lokalt verkande)
     * kopparspiral o mini-P funkar
     * kan efterfråga anamnestiskt det patienten vill ha: framtidsplaner, grav när, perma skydd, blöda, 
+
+
+
+
+
+
 
 
 
@@ -8406,12 +8711,18 @@ cerivicit
 
 **progesterontest**: Provera 10mg 1x1, 7d. 
 
-* **kontrollera endogen östrogennivå och normal anatomi**
-* **om blödning**: anovulation
-* **om ingen blödning trots normal östrogennivå:** 
+* **först kontrollera endogen östrogennivå och normal anatomi**
+* **om blödning**: anovulation; alltså att amenorren var en anovulatorisk amenorre, att patienten varit kvar i proliferationsfasen ett tag etc.
+  * med 7 dagars gestagenstimulering och efterföljande bortfallet gestagen
+  * sker bortfallsblödnnig om pat har tillräcklig östrogenproduktion för stimma endometriet och om uterus + vagina fungerar normalt
+  * dessa fall har anovulation konstaterats
+  * **Sammanfatttning** att man anovulatorisk, är i proliferationsfasen, får en gestagenboost, varpå hamnar i sekretionsfas, sen för att gestagen faller bort och tillräckligt hög östrogen så blöder man
+* **om ingen blödning trots normal östrogennivå**:
+  * Föklaring: antingen liten östrogenproduktion eller missbildning eller skada uterus, kräver YTTERLIGARE utredning.
   * höga androgennivåer (PCOS); 
   * adrenal enzym defekt; 
   * otillräcklig östrogensekretion, 
+    * otillräcklig östrogen + normal anatomi, kommer pat att få en bortfallsblödning efter tillägg östrogen till cykliskt gestagen
   * anomalier
 
 

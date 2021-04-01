@@ -2099,9 +2099,45 @@ https://ki.padlet.org/eleonortiblad/u416n0zrxqgqihih
 
 
 
-### Fall 1 
+### Fall 1 PPROM
 
-**Mabobeh 20-årig I-grav, 0-para. Enligt ultraljud gravid vecka 32+1. Kommer ursprungligen från Uganda och arbetar nu på ett äldreboende i Stockholm. Pga ryggsmärtor till följd av tunga lyft på arbetet har hon varit sjukskriven en stor del av graviditeten. I övrigt en okomplicerad graviditet. Hennes barnmorska på MVC har nu remitterat in henne till förlossningen då hon haft buksmärtor och vattnig flytning sedan ungefär 4 dagar. Blodtryck 120/80, u-sticka 1+ protein.** 
+* Mabobeh 20-årig I-grav, 0-para. 
+  * Enligt ultraljud gravid vecka 32+1. 
+  * Kommer ursprungligen från Uganda och arbetar nu på ett äldreboende i Stockholm. Pga ryggsmärtor till följd av tunga lyft på arbetet har hon varit sjukskriven en stor del av graviditeten. I övrigt en okomplicerad graviditet. 
+  * Hennes barnmorska på MVC har nu remitterat in henne till förlossningen då hon haft buksmärtor och vattnig flytning sedan ungefär 4 dagar. Blodtryck 120/80, u-sticka 1+ protein.
+
+
+
+<img src="./imgs/gyn_lec_010421_Wl9Jo0B5u1.png" alt="Wl9Jo0B5u1" style="zoom:50%;" />
+
+<img src="./imgs/gyn_lec_010421_vod3pC4A9E.png" alt="vod3pC4A9E" style="zoom:50%;" />
+
+<img src="./imgs/gyn_lec_010421_wXBXqclMQv.png" alt="wXBXqclMQv" style="zoom:50%;" />
+
+
+
+
+
+* polyhydramnios GDM hos mmamma den tänjs o spricker
+* **cervixinsuff**: kan var tyst, exponerar fosterhinnorna och uppåtstigande infek
+* **invasiva ingrepp**: gör hål i livmodern, för att kunna skada fosterhinnan (PGD etc.?)
+* **om v22-23, kan allvarliga konsekvenser av ligga torrt oligohydramnios**: viktigt för fostervatten för att utv lungorna. ligger man oligohydramnios kan lunghypoplasi. kan utv osså artrogrypos
+* **PROM**: vattnet gått, gå hem, induktionstid inom 48h för att annars risk för infektion. instruk kolla temp + färg fostervatten varje dag till induktionen. 
+* chorionamnionit: kan ge sepsis för mamman + .. har man åpverkade parametrar o misstnkt amnionit ska man inducera för att farligt för mamman
+* Prematuritet: inflammation och infektion kan starta på en förlossning. 
+* född med infektion + sepsis: risk hjärnskada, intrapatal asfyxi etc, 
+* veta om starta igg tidigt: mäta cervixlängden. om normallång talar starkt emmot att föda för tidigt. 
+* till v32 fulla veckor indikerat för magnesiumsulfat: inte över 34
+* ab: erytromuycin behandlas,
+* intrapatalt: får bensylpc för att prematura barn ökad risk för gbs sepsis
+* om utvecklar infektiosntecen: gger piptaz + flagyl för att behandla infektionen (intrapatalt. )
+* När man bestämmeri nduktionsmetod tar man med i beräkning om fött vaginalt tidigare elelr ej (kan kejsarsnittad, drf uterus ruptur etc); eller förstföderska öppen ngn cervix öppen 1 cm att d fortfarande tar lite tid, men för omföderska att man kan lägga in en ballongkateter om 1cm öppen o d går bra. 
+* BARD: öppen för cervix, ska vara 0.5cm. kan ej vara helt stängd annars inte kan plla in en kateter. man ska kunna få in ett finger in i cervix o palpera hinnblåsa eller skalle på fostret.
+  * om det inte går ger man AUGUSTA istället för att mogna cervix mer .
+
+
+
+över v41: ökad risk för intrapartal asfyxi, IUFD etc... TODO
 
 
 
@@ -2114,49 +2150,74 @@ https://ki.padlet.org/eleonortiblad/u416n0zrxqgqihih
 * Sammandragningar?
 * Fosterrörelser?
 * Hereditet?
-* UVI symtom? Svider när du kissar, trängningar?
+* UVI symtom? 
+* Svider när du kissar, trängningar?
 * Avföring?
 * Hur är smärtan? SOCRATES
 * Tidigare sjd 
 * Medicinering 
+* STI
 
 
 
 **Vilken diagnos misstänker du?** 
 
-* pPROM (preterm premature rupture of membrane) innan 37+0. PROM >37+0 vattenavgång men utan värkar. Har också risk för infektion och dom inducerar man inom 48 timmar. 
+* pPROM (preterm premature rupture of membrane) innan 37+0. 
+  * PROM >37+0 vattenavgång men utan värkar. 
+  * Har också risk för infektion och dom inducerar man inom 48 timmar. 
 
 
 
-**Hur ställer du diagnos?** **
-**Spekulum undersökning. Om man ser vätskeflöde ur cervix eller ansamling av fostervatten i bakre fornix så är det säkert tecken. 
-Ultraljud? Kan ej säga vattenavgång eller ej, kan vara oligoamnios. Man ska inte känna, om UL kan man göra det med steril vante på. 
-Kolla eventuell placentaavlossning. 
+**Hur ställer du diagnos?** 
+
+* (steril) Spekulum undersökning: man ska se vätskeutflöde för att det fortsätter att producera. 
+  * vätskeansamling bakre vaginal fornix
+  * vätskeutflöde ur cervix
+* Om man ser vätskeflöde ur cervix eller ansamling av fostervatten i bakre fornix så är det säkert tecken. 
+  * fostervatten fortsätter att produceras
+* Ultraljud: 
+  * Kan ej säga vattenavgång eller ej, 
+  * kan vara oligoamnios
+* Man ska inte känna, om UL kan man göra det med steril vante på. 
+* Kolla eventuell placentaavlossning. 
 
 
 
-**Hur handlägger du patienten?** **
-**Utreder mha status (AT, bukpalp, U-sticka, BT, temp, CTG)
+**Hur handlägger du patienten?** 
 
-Inläggning med vitalparametrar. 
-Blodprover (CRP, blodstatus, Blodgruppering och BAS-test). 
-UL abdominellt för att kolla förande fosterdel
-Vaginalodling, GBS, urinodling, klamydia-gonorré PCR i urin. 
+* **Inläggning med kontroller och utredning**: v32+1 samt lång anamnes, ska läggas in drf, hon kan få värkar snart, samt att kontakta neonatal jouren. 
+  * pprom i v32 lägger in initialt, kan vara att tarta upp i förlossning
+  * eller även om inte infek tecken där o då, kan utv närmsta dagarna
+  * kan vara icke-infektiös vattenavgång, och kunna siicka hemefter 2v, men Alltid läggas in.
+  * // har hon inga infektionstecken + inga värkar + barnet bra -> kan skickas hem, 
+  * men alltid initial inläggning för att ha koll på läget. 
+* **Inläggning med vitalparametrar.** 
+* **Utreder mha status:**
+  * AT, 
+  * bukpalp, 
+  * U-sticka, 
+  * BT, 
+  * temp, 
+  * CTG
+* **Blodprover**
+  * CRP, 
+  * blodstatus, 
+  * Blodgruppering och 
+  * BAS-test
+* UL abdominellt: för att kolla förande fosterdel
+* Odlingar: Vaginalodling, GBS, urinodling, klamydia-gonorré PCR i urin. 
+* Antibiotikaprofylax: erytromycin (skydda mot GBS)
+* Inom 24-48 timmar får alla kvinnor med PROM spontana värkar (PROM kan ske i fullgång, att vattenavgången sker tidigare). 
+* Om tecken på infektion, svår PE, ablatio→ induktion direkt. Hon visar inga tecken på detta. 
+* Steroider för lungmognad. För att steroiderna ska ha effekt måste de få verka i minst 6 timmar. Under den tiden bör man se till att kvinnan inte har värkar så att förlossningen fortskrider. Tractosile kan ges som dropp. Bricanyl kan man testa och se om man får stopp på det. 
+* Steroider ges fr o m gv 23+0 (men kan övervägas fr o m graviditetsvecka 22+0) t o m graviditetsvecka 32+6 alt 33+6 (viss variation mellan svenska kliniker). Inj [betametason](https://www.fass.se/LIF/result?userType=0&query=betametason) 3 ml ([Betapred](https://www.fass.se/LIF/result?userType=0&query=Betapred) 4 mg/ml) i.m. [Betapred](https://www.fass.se/LIF/result?userType=0&query=Betapred) 12 mg i.m. upprepas efter 24 timmar eller redan efter 12 timmar vid hög risk för snar förlossning. 
+  Om graviditeten fortskrider men hotande prematurbörd återkommer övervägs s k ”rescue steroid” om två veckor passerat sedan steroidprofylax givits. ”Rescue steroider” ges som en ny inj betametason 3 ml ([Betapred](https://www.fass.se/LIF/result?userType=0&query=Betapred) 4 mg/ml) i.m., i vissa fall (t ex om steroidprofylax givits redan i gv 22-24) upprepas en inj [betametason](https://www.fass.se/LIF/result?userType=0&query=betametason) 3 ml ([Betapred](https://www.fass.se/LIF/result?userType=0&query=Betapred) 4 mg/ml) i.m., redan efter en vecka (huruvida den dosen ska upprepas efter 24 timmar är oklart, handläggningen varierar i Sverige). Ingen evidens finns för ytterligare upprepning av ”rescue steroider”.
+  Bricanyl för att stoppa värkar. 
+* Man kan få andra infektioner när gravid, är appendicit
 
 
 
-Inom 24-48 timmar får alla kvinnor med PROM spontana värkar. Om tecken på infektion, svår PE, ablatio→ induktion direkt. Hon visar inga tecken på detta. 
-
-
-
-Steroider för lungmognad. För att steroiderna ska ha effekt måste de få värka i minst 6 timmar. Under den tiden bör man se till att kvinnan inte har värkar så att förlossningen fortskrider. Tractosile kan ges som dropp. Bricanyl kan man testa och se om man får stopp på det. 
-Steroider ges fr o m gv 23+0 (men kan övervägas fr o m graviditetsvecka 22+0) t o m graviditetsvecka 32+6 alt 33+6 (viss variation mellan svenska kliniker). Inj [betametason](https://www.fass.se/LIF/result?userType=0&query=betametason) 3 ml ([Betapred](https://www.fass.se/LIF/result?userType=0&query=Betapred) 4 mg/ml) i.m. [Betapred](https://www.fass.se/LIF/result?userType=0&query=Betapred) 12 mg i.m. upprepas efter 24 timmar eller redan efter 12 timmar vid hög risk för snar förlossning. 
-Om graviditeten fortskrider men hotande prematurbörd återkommer övervägs s k ”rescue steroid” om två veckor passerat sedan steroidprofylax givits. ”Rescue steroider” ges som en ny inj betametason 3 ml ([Betapred](https://www.fass.se/LIF/result?userType=0&query=Betapred) 4 mg/ml) i.m., i vissa fall (t ex om steroidprofylax givits redan i gv 22-24) upprepas en inj [betametason](https://www.fass.se/LIF/result?userType=0&query=betametason) 3 ml ([Betapred](https://www.fass.se/LIF/result?userType=0&query=Betapred) 4 mg/ml) i.m., redan efter en vecka (huruvida den dosen ska upprepas efter 24 timmar är oklart, handläggningen varierar i Sverige). Ingen evidens finns för ytterligare upprepning av ”rescue steroider”.
-Bricanyl för att stoppa värkar. 
-
-
-
-*Antibiotika*
+***Antibiotika***
 
  
 
@@ -2172,25 +2233,46 @@ Bricanyl för att stoppa värkar.
 
 **Två dygn senare får Mabobeh temp 38,3. CRP har stigit till 80 och LPK 12. CTG visar basalfrekvens ca 170 s/min och nedsatt variabilitet.** 
 
+
+
+<img src="./imgs/gyn_lec_010421_3Ry0b6CXVf.png" alt="3Ry0b6CXVf" style="zoom:50%;" />
+
+* förhöjd basalfrekvens
+* nedsatt variabilitet
+* inga accel
+* slät kurva
+* typisk CHORIONAMNIOT INTRAPATAL INFEKTION. 
+
+
+
 **Hur tolkar du CTG?** 
 
-110-160 är normalintervallet så 170 är för mycket och patologiskt. 
-Nedsatt variabilitet kan vara ett tecken på hypoxi. Patologiskt CTG. 
+* 110-160 är normalintervallet så 170 är för mycket och patologiskt. 
+* Nedsatt variabilitet kan vara ett tecken på hypoxi. 
+* Patologiskt CTG. 
+
+
 
 **Vad måste du misstänka nu?**
-Infektion hos mamma med påverkat foster.  **
-**Chorionamnionit + sepsis. 
 
-**Vad gör du nu?** **
-**Sätter in mamman på antibiotika. Kejsarsnitt om inte vaginal förlossning förväntas inom någon timme.
-Inte inducera pga förstföderska + påverkat foster. 
+* Infektion hos mamma med påverkat foster. 
+* Chorionamnionit + sepsis. 
 
 
 
-Orsaker: 
-\- infektion, polyhydramnios (missbildning, diabetes hos mamman), flerbörd, cervixinsufficiens (öppnar sig för tidigt), invasiva ingrepp (fosterterapi) 
+**Vad gör du nu?** 
 
-Konsekvenser: 
+* **Sätter in mamman på antibiotika**: ska få ab t mamma o barn
+* Kejsarsnitt om inte vaginal förlossning förväntas inom någon timme.
+* Inte inducera pga förstföderska + påverkat foster. 
+
+
+
+**Orsaker**: 
+
+* infektion, polyhydramnios (missbildning, diabetes hos mamman), flerbörd, cervixinsufficiens (öppnar sig för tidigt), invasiva ingrepp (fosterterapi) 
+
+**Konsekvenser**: 
 \- Om mycket tidigt tex före v.24 → artrogypos (behöver vatten för att kunna röra på sig) → felställningar). Utveckling av lungorna (risk för lunghypoplasi med kronisk lungsjukdom). Mgsulfat (om risk för förlossnign 32+0) minska risk cp skada och död. 
 Infektion: intrapartal feber ökar risk för asfyxi och neurologiska sequele hos barnet. 
 
@@ -2212,40 +2294,116 @@ Vad kna man göra prenatalt?
 - Magnesiumsulfat till 32+0
 - Antibiotika bensyl Pc under förlossningen. Erymax inför förlossningen om prematur vattenavgång. Om feber under förlossningen så pip tass
 
-### Fall 2
+### Fall 2 - Preeklampsi
+
+
 
 **Jenny 28-årig 2-grav, 0-para. Enligt ultraljudsdatering nu gravid i vecka 34+0. Hänvisad till förlossningen från MVC pga blodtryck 160/90 samt 1+ protein i urinen. Man har också noterat att SF-kurvan ligger i underkant. Vid ankomsten till sjukhusets förlossningsmottagning uppmättes blodtrycket 145/90, CTG är normalt och det är normal fostervattenmängd.** 
 
 
 
+<img src="./imgs/gyn_lec_010421_uCtaoerKBe.png" alt="uCtaoerKBe" style="zoom:50%;" />
+
+
+
+
+
+<img src="./imgs/gyn_lec_010421_hJaPMOPfdH.png" alt="hJaPMOPfdH" style="zoom:50%;" />
+
+
+
+* genetiska faktorer i detta, etnicitet (afrika, som i detta patientfallet!)
+* kraftigt överviktig har högre risk
+* kronisk njursjd ökad risk, 
+* ökad risk om familje anamnes också. 
+
+
+
+**Behandling**
+
+* trandate 
+* metoprolol kan användas: ofta psotpartum dessa kvinnor
+* de med kronisk hypertoni: kan se över medicinering, för att RAAS hämmare ska sättas ut o andra preparat, för att fostermissbildning o neonatal ...
+  * betablockerare, och behöver man lägga in d, ska man in 1a hand kalciumantagonsiter (ipine, adalate eller amlodipine)
+* vi satte in trandate o så blev hon sämre. 
+* **gällande ASA profylax**
+  * viktitg i framtida grav för pat, redan passerat så långt
+  * ASA är ingen beh för etabelrade preeklampsi
+  * !! ingen effekt i detta fallet, inte efter v16 insättning!!!
+  * men viktigt att om förstföderska att sättas in i nästa grav igen, helst före v12 absolut före v16
+  * profylaktisk effekt minskar risk preeklampsi och IUGR.1
+  * 75mgx1-2
+* viktigt att rökning är en viktig riskfaktor att man ska motivera rökstopp...
+
+
+
+v36+0
+
+* lägger in henne o ställningstagande iggsättande
+* enda boten preeklampsi är förlossning att bli av med placentan
+
+
+
+sista frågan hur man inducerar förlossningen: 
+
+* induktionsmetod vi väljer är utifrån BISHOP o cervixmognad (e.g. om helt stängdi ngen poäng med oxytocin, eller )
+* augusta (cytotec förrut?): för att mogna cervix
+
+
+
 **Vad vill du veta om Jenny och hennes symptom?** 
 
-Huvudvärk, ögonflimmer, ödem, smärta, epigastriella symtom. Sjukdomskänsla. Hypertoni i tidigare graviditet (graviditet). Preeklampsi symtom. 
-Tid.nuv. sjd för risken för preeklampsi. 
-Hereditet 
-Rökning 
+* Huvudvärk, 
+* ögonflimmer, 
+* ödem, 
+* smärta, 
+* epigastriella symtom. 
+* Sjukdomskänsla. 
+* Hypertoni i tidigare graviditet (graviditet). 
+* Preeklampsi symtom. 
+* Tid.nuv. sjd för risken för preeklampsi. 
+* Hereditet 
+* Rökning 
+* APC-resistens?
+* äggdonation, IVF
+* BMI
+* sömnapne
+* BT när skrevs in, normalt eller högt fr början 
+* har hon ärftlighet hypertension + preeklampsi nära vamilj, röker hon?
 
 
 
 **Vilka diagnoser är tänkbara?** 
 
-Preeklampsi, för preeklampsi är det +2 på urinsticka som är mängd nog att reagera på. 
-
-Graviditetshypertoni 
-Tillväxthämning (mer symtom) 
-
-Njursjukdom 
-Placentär dysfunktion
+* Preeklampsi, för preeklampsi är det +2 på urinsticka som är mängd nog att reagera på. 
+* Graviditetshypertoni 
+* Tillväxthämning (mer symtom) 
+* Njursjukdom 
+* Placentär dysfunktion
+* HYPERTONI, kronisk, eller grav inducerad som får sätter v20
+  * !!! diffar grav inducerad hyperteno fr preeklampsi: att det är multiorganscvikt med preeklampsi
+    * vanligaste vi tittar på är proteinuri att det är njurarna som är först att drabbas
+    * leverpåverkan, transamninaser, palperar buken epigastrisk smärta
+    * hemolys, sjunkande Hb och TPK
+    * därför gör kroppsliga undersökning och därför prover för att fånga organpåverkan
+* låg SF kura att ökar risken för tillväxthämning av fostret. 
 
 
 
 **Vilka prover ordinerar du?** 
 
-Lilla toxpaketet till att börja med för preeklampsi diagnosen. Protein 0,3 gram per dygn. 
-
-- “Lilla tox” Hb, TPK, ALAT, krea och urat. Tas som screening. Men om man har sjuk patient med preeklampsi så tar man stora tox. Stora tox är markörer för hemolys (haptoglobin, LD), koagulationsprover. 
-
-Urinsticka. U-Alb/krea kvot. SKilja på proteinläckage + hypertoni. 
+* Lilla toxpaketet till att börja med för preeklampsi diagnosen. Protein 0,3 gram per dygn. 
+  * “Lilla tox” Hb, TPK, ALAT, krea och urat. 
+  * Tas som screening. 
+  * Men om man har sjuk patient med preeklampsi så tar man stora tox. 
+* Stora tox är markörer för hemolys (haptoglobin, LD), koagulationsprover. 
+  * man vill framförallt ha koagulationsproverna och hemolys.. som man får med stora tox
+  * detta vid inläggning och värer organpåverkan
+  * // lilla tox är en screening för preeklampsi, 
+  * // stora tox är för att få reda på hur sjuk hon är. 
+  * // man skulle alltid ta i första hand lilla tox vid inläggning  för att screena preeklampsi vs grav inducerad hypertoni
+  * // man tar stora tox om vid inläggning mkt åpverkad
+* Urinsticka. U-Alb/krea kvot. SKilja på proteinläckage + hypertoni. 
 
 
 
@@ -2257,18 +2415,33 @@ Utesluta preeklampsi. Man får organpåverkan och därför kollar med koagulatio
 
 **Hur undersöker du Jenny?** 
 
-CTG, Abd UL (tillväxt + flöde), vitalparametrar, AT (ödem, hjärtsviktstecken), neurostatus (fotklonus, ökade reflexer), bukstatus (ömhet under arcus, ökad risk för placentaavlossning, ljuskänslighet. 
+* CTG, 
+* Abd UL (tillväxt + flöde), 
+* vitalparametrar, 
+* AT (ödem, hjärtsviktstecken), 
+* neurostatus (fotklonus, ökade reflexer), 
+* bukstatus (ömhet under arcus, ökad risk för placentaavlossning, ljuskänslighet. 
+* nytt SF-mått
 
 
 
-**Vilken behandling föreslår du?** **
-**Beror på. Ett värde med högt BT är lugnt. 150 mmHg är behandlingsgräns. Diastoliskt 100 mmHg. Sjukskrivning. Gräns BT så inte behandling om hon inte har andra symtom. 
+**Vilken behandling föreslår du?** 
+
+* Beror på. 
+  * Ett värde med högt BT är lugnt. 
+    * 150 mmHg är behandlingsgräns. 
+    * Diastoliskt 100 mmHg. 
+* Sjukskrivning. 
+* Gräns BT så inte behandling om hon inte har andra symtom. 
 
 
 
 **Hur följer du upp patienten?** 
 
-Kontroller, tillväxt UL samt BT samt toxprover samt proteinuri. 
+* Kontroller: BT kontroll varje vecka?
+* Tillväxt UL (viktskattning), varannan vecka
+* Samt toxprover samt proteinuri. 
+* täta MVC kontroller (varje vecka?)
 
 
 
@@ -2276,30 +2449,22 @@ Kontroller, tillväxt UL samt BT samt toxprover samt proteinuri.
 
 **Önskar du vidta någon åtgärd?** 
 
-BT-sänkande medicin Labetalol tex 100-300 mg x 2-3. Förstahandsbehandling. Är så väl beprövad hos gravida och relativt ofarlig för mamma och barn. 
-
-Fostervikt är inom referens +- 2 SD. BFK 0 är bra. -22% är fine. 
-
-Fortsatt kontroll samt provtagning. 
+* BT-sänkande medicin Labetalol tex 100-300 mg x 2-3. Förstahandsbehandling. Är så väl beprövad hos gravida och relativt ofarlig för mamma och barn. 
+* Fostervikt är inom referens +- 2 SD. BFK 0 är bra. -22% är fine. 
+* Fortsatt kontroll samt provtagning. 
 
 
 
 **När Jenny kommer för kontroll 1 vecka senare, nu i gravid i vecka 36+0, mår hon sämre. Hon känner sig orkeslös, har mer ont i huvudet och undrar om hon håller på att få influensa. Lab visar: ALAT 2,6, TPK 110 Urinsticka: 2+ proteinuri Reflexer: ej stegrade, ingen fotklonus Ultraljud: tillväxtmätning - 24%, BFK 0 i a umbilicalis, normal fostervattenmängd CTG: normalt Bltr: 160/105** 
 
-
-
 **Vad säger du till Jenny och hur handlägger du fallet nu?** 
 
-Säger att hon har utvecklat preeklampsi eller havandeskapsförgiftning. Barnet är så pass långt gånget att man kommer vilja inducera förlossningen för att det inte ska bli värre. 
-Barnet är lite mindre än normalt men det är ingen fara. Man kan tänka sig att det beror på hennes tillstånd. Hon har svår preeklampsi (BT 160/110) vilket är indikation för förlossning från v. 34. 
-
-
-
-Mgsulfat infusion, maternell behandling, har även neuroprotektiv effekt på det lilla barnet men främst är det bevisat hos prematura. Undvika kramper för att det binder Calcium. 
-
-Blodtryckssänkande. Man kan höja Trandate. Om BT fortsatt ligger högt så finns det risk för eklampsi 
-Adalat (kalciumantagonist, tillägg) Nifedipin. Kortverkande (tuggtablett) om man snabbt behöver få ner trycket. 
-Ta kontakt med IVA och ge Nepresol. 
+* Säger att hon har utvecklat preeklampsi eller havandeskapsförgiftning. Barnet är så pass långt gånget att man kommer vilja inducera förlossningen för att det inte ska bli värre. 
+* Barnet är lite mindre än normalt men det är ingen fara. Man kan tänka sig att det beror på hennes tillstånd. Hon har svår preeklampsi (BT 160/110) vilket är indikation för förlossning från v. 34. 
+* Mgsulfat infusion, maternell behandling, har även neuroprotektiv effekt på det lilla barnet men främst är det bevisat hos prematura. Undvika kramper för att det binder Calcium. 
+* Blodtryckssänkande. Man kan höja Trandate. Om BT fortsatt ligger högt så finns det risk för eklampsi 
+  Adalat (kalciumantagonist, tillägg) Nifedipin. Kortverkande (tuggtablett) om man snabbt behöver få ner trycket. 
+  Ta kontakt med IVA och ge Nepresol. 
 
 
 
@@ -2309,19 +2474,10 @@ Ta kontakt med IVA och ge Nepresol.
 
 **Hur kan man inducera en förlossning?** 
 
-Om omogen cervix (0-5 p enligt Bishops index) = Prostaglandin E2 vaginalt för inducera remodellering av cervixbindväven → Uppmjukning och dilatation av cervix. AUGUSTA
-
-
-
-Om mogen cervix 4-5 poäng kan en dilatation mha ballong (BARD)
-
-
-
-Moget cervixstatus = amniotomi. Kan kombineras med iv. oxytocin. 
-
-
-
-Man kan även ge oxytocin om kvinnan i senare skede blir värksvag. 
+* Om omogen cervix (0-5 p enligt Bishops index) = Prostaglandin E2 vaginalt för inducera remodellering av cervixbindväven → Uppmjukning och dilatation av cervix. AUGUSTA
+* Om mogen cervix 4-5 poäng kan en dilatation mha ballong (BARD)
+* Moget cervixstatus = amniotomi. Kan kombineras med iv. oxytocin. 
+* Man kan även ge oxytocin om kvinnan i senare skede blir värksvag. 
 
 
 
@@ -2357,45 +2513,138 @@ I nästa graviditet
 
 
 
-### Fall 3 
+### Fall 3 - IUGR / SGA
 
 **Anna 31 år, 1-grav, 0-para. Inremitteras till dig på specialistmödravården pga lågt SFmått i vecka 34+6. Normal graviditet i övrigt. Anna mår bra och förstår inte varför hon behöver sitta och vänta på ytterligare en kontroll idag. Hon har ett möte om 2 timmar och undrar om du inte kan skynda dig på.** 
 
 
 
+TODO lägg in patientfalelt fr slidesesn. 
+
+* SF-mått en screening metod för detta med IUGR o SGA etc
+
+
+
+<img src="./imgs/gyn_lec_010421_GeXqxnR1HD.png" alt="GeXqxnR1HD" style="zoom:50%;" />
+
+* KAn finnas large for gestational age: har man accelerande SF-mått eller att kvinnan är fet, kan vara stort foster eller tilltagande polyhydramnios
+  * remitterar in för detta ocksp
+
+
+
+<img src="./imgs/gyn_lec_010421_1FRToRX9v2.png" alt="1FRToRX9v2" style="zoom:50%;" />
+
+
+
+<img src="./imgs/gyn_lec_010421_zyDLJaYqLV.png" alt="zyDLJaYqLV" style="zoom:50%;" />
+
+* kontrollerar blodflöde mammas sida med uterinae, för att placentainsufficiens
+  * om inte d, kan vara ett foster som är i den storleken den ska vara (SGA?)
+* följa viktskatt varannan vecka för error margin
+* blodflöden kan man mäta oftare mellan dessa däremellan, e.g. varje vecka etc.
+
+
+
+<img src="./imgs/gyn_lec_010421_WV9QriQ39L.png" alt="WV9QriQ39L" style="zoom:50%;" />
+
+* normalintervall: +-22% = 2.5SD
+
+
+
+<img src="./imgs/gyn_lec_010421_Pe7T0JmizI.png" alt="Pe7T0JmizI" style="zoom:50%;" />
+
+* man har ett foster i översta kurvan som var normal sen växte = IUGR
+* man behöver kombinera med olika blodflödesundersökningar. 
+
+
+
+<img src="./imgs/gyn_lec_010421_VZPBqZtaWu.png" alt="VZPBqZtaWu" style="zoom:50%;" />
+
+* trisomi21 att det kav vara fel på fostret att den växer sämre, alt att det är placental insuff för dessa. 
+* Viktigaste maternella faktorn: kroniska sjukdomar hypertoni, njursjd, diabetes.
+
+
+
+<img src="./imgs/gyn_lec_010421_KqGf8VHpMm.png" alt="KqGf8VHpMm" style="zoom:50%;" />
+
+
+
+* SF: Låg tröskel för att remittera vidare
+* man planerar in UL för att hitta tillväxthämmade foster. 
+* i andra länder än sverige har rutinmässig viktskattning (viktskattning behöver remiss,)
+
+
+
+<img src="./imgs/gyn_lec_010421_YHxbwUwSQc.png" alt="YHxbwUwSQc" style="zoom:50%;" />
+
+
+
+* ökad risk att dö prenatal eller postnatal, med asfyxi med tillväxthämmade foster. 
+
+
+
 **Vad vill du veta mer?****
-**Är Anna tidigare frisk? (kardiovaskulära, hypertoni, diabetes, autoimmuna sjd) kan öka risken för tillväxthämning hos fostret. 
 
-Aptit?
+* Är Anna tidigare frisk? (kardiovaskulära, hypertoni, diabetes, autoimmuna sjd) kan öka risken för tillväxthämning hos fostret. 
+* Aptit?
+* Rökning?
+* Gjort KUB, NIPT (kan bero på fel hos barnet). 
+* ätstörningar
+* illamående
+* Tid sj
+* Läkemedel
+* Rökning/alkohol osv
+* Känt fosterrörelser
+* Infektionstecken?
+* Övriga symtom 
+* Blödning/flytningar?
+* Har hon gått på kontroller?
+* Hereditet för preeklampsi, blödningssjukdomar osv
+* Kan/har hon ätit ordentligt?
 
-Rökning?
-
-Gjort KUB, NIPT (kan bero på fel hos barnet). 
 
 
+**obs**
 
-OBS! SF mått är ej diagnostik men bra screening. 
-Huvudmåt: Man mäter biparietal diameter 
-Bukmått Medelabdominaldiameter
-Lårbensmått. 
+* OBS! SF mått är ej diagnostik men bra screening. 
+* Huvudmåt: Man mäter biparietal diameter 
+* Bukmått Medelabdominaldiameter
+* Lårbensmått. 
 
--15% → blodflödeskontroll i a.umbilicalis och a.uterina för att kolla båda sidor av placenta. 
-\- Nya mätningar var 14:e dag för att annars hinner inte fostret växa så mycket. 
 
-- Fostervattenmängd, dålig cirkulation → dåligt kiss → lite vatten. 
+
+**Viktskattningen**
+
+* 15% → blodflödeskontroll i a.umbilicalis och a.uterina för att kolla båda sidor av placenta. 
+* Nya mätningar var 14:e dag för att annars hinner inte fostret växa så mycket. 
+* Fostervattenmängd, dålig cirkulation → dåligt kiss → lite vatten. 
 
 IUGF = avplanad tillväxt, blod flödespåverkan inte bara att man är liten. Kan ju vara litet barn i sig. 
 
 Högt → normal med delta 10% är ändå tillväxthämning. 
 
-**Vilka undersökningar ordinerar du?** **
-**Tillväxt UL med blodflöde, BT, U-sticka 
+
+
+**Vilka undersökningar ordinerar du?** 
+
+* Tillväxt UL med blodflöde, 
+* BT, 
+* U-sticka 
+* Ultraljud inkl flöden och storleksbedömning
+* SF mått
+* Hb
+* Glukos
+* BT
+* Urinsticka
+* Vikt
+* CTG
 
 
 
 **Vilken är den troliga diagnosen?** 
 
-Vanligaste orsaken ska vara placentär förändring med försämrad blodperfusion. 
+* IUGR: fetal tillväxtning
+* Vanligaste orsaken ska vara placentär förändring med försämrad blodperfusion. 
 
 
 
@@ -2407,7 +2656,9 @@ Vanligaste orsaken ska vara placentär förändring med försämrad blodperfusio
 
 **Hur ofta skall man kontrollera fostertillväxt och flöde vid misstänkt tillväxtavvikelse?** 
 
-Beror på hur pass stor avvikelsen är. Mätning av foster varannan vecka för att minska risken av fel. Doppler kan göras varje vecka. 
+* Beror på hur pass stor avvikelsen är. 
+* Mätning av foster varannan vecka för att minska risken av fel. 
+* Doppler kan göras varje vecka. 
 
 
 
@@ -2444,9 +2695,82 @@ Placentära faktorer
 
 ![img](https://lh5.googleusercontent.com/_ROPFHMEhCQPtgscGf73XfoHHQZe6syl3IYb3VUJRoC0Vb2LgyGK4vyq6yjQRVs4IsrMG4utFPV8cef2oFWhCiQfM_ihBwaGfdNDPImKlbwZtiD5J4tHuUv3rJgiJiqTJyYe4N2X)
 
-### Fall 4 
+### Fall 4 - IUFD
 
 **Jessika 27 år, 1-grav, 0-para. Tidigare frisk. Kommer för inskrivning på MHV. Oklar graviditetslängd pga oregelbundna blödningar men tror att hon är gravid ca vecka 11-12.** 
+
+
+
+
+
+* mga BM delar upp inskriv besöket i 2:
+  * första är en allmäninfo o prevention: livsstilsråd, är det ASA profy etc
+  * andar besök: fokus KUB, vad händer mödravården + hälsoscreeningen
+    * baseline: BT+ urinsticka + vikt + längd + glukos + Hb
+    * screenar för infektioner: HBV, Röda hund,. sylifs,t riktat om annat land, 
+    * BAS-test
+* grav längd: före 12+3 mäter sitthöjd (CRL); använder UL datering för att säkrare än sista mens
+  * detta är reprod mått
+* fr v12+3: BPD diametern (biparietaldiametern, föredrar denna): så senare grav är BPD. 
+* // inte för datering femurmått  o bukmått
+  * om sent i grav kan man anvädna detat
+  * om det är anencefali kan man använda lårbenet i första hand. 
+
+
+
+<img src="./imgs/gyn_lec_010421_Bope0J6MU1.png" alt="Bope0J6MU1" style="zoom:50%;" />
+
+
+
+* Minskade fosterrörelser många söker för detta: oklart om åpverkar risken för IUFD
+* alal gravida blir informerade i samband med rutinbesök v24 av BM att man ska känna sparkar
+* avvikande rörelsemönster etc ska man söka kontrolll sjukhus
+* I detta fallet redan dött patienten
+
+
+
+<img src="./imgs/gyn_lec_010421_ZK0hPLj11w.png" alt="ZK0hPLj11w" style="zoom:50%;" />
+
+
+
+* second-opinion för att verkligen bekräfta
+* vanligare än plötslig spädbarnsdöd
+* 4 fall av 1000 inträffar IUFD av olika orsaker
+  * infektion GBS ecoli sprider t fostervätska sen organ åp fostret och dödar den
+  * fetomaternell transfusion: brist i barriär i palacenta att fostret blöer ut blod i mammans cirkulation
+  * tillväxthämning vanligaste orsakerna...
+  * titta sliden
+  * placenta når bästföredatum, även om ingen manifest IUGR kan komma svikt situationa tt foster i fullgången tid dör i placenta: därför fortsätter ej grav max 42v närmar sig 41v
+  * när ej hitta orsak är det relativ liten risk att få igen
+
+
+
+<img src="./imgs/gyn_lec_010421_kt6rrzBNI5.png" alt="kt6rrzBNI5" style="zoom:50%;" />
+
+
+
+* handläggningen mkt psykososicalt omhänderatagande
+* ingen brådska med förlossningen
+* paret går hem
+* innan går hem en del prover: 
+  * hitta orsak vf foster dog
+  * prover på mamman: koagrubb, hepatos, preeklampsi, fetomaternell ...
+  * om Rh-negativ o foster pos ska man få profylax innan går hem
+* många par vill få ut den snabbt med kejsarsnitt
+* men forskning att acceptans etc att man ska föda barnet vaginalt, föda barnet, fotografera etc. stötta så långt d går
+* att så normal förlossning som det går. 
+* stor fördel att d e samtycker t obduktion: 
+  * placenta: PAD histologisk, test infektioner, kromosomutredningar
+  * tar hjärtblod nyfödda barnet att om bakterirer i barnets blod
+* sjukskrivning t föräldrarna
+* moderskapsintyug: rätt förädlrapening o stanna hemma
+* uppföljning mpende, och PAD o provsvar etc. 
+* extensiv utrednign i IUFD fallen att kopplade i fler månader t vården
+* stor oro för att hända igen. 
+
+
+
+
 
 **Vad görs på inskrivningsbesöket på MVC?** 
 
@@ -2472,11 +2796,13 @@ Erbjuds alla kvinnor i sthlm. Är ett komplext ämne. Finns informationsfilm 117
 
 **Vad mäts för att bedöma graviditetslängd i tidig graviditet?** 
 
-CRL (crown rump length)
-v. 12+3 → huvud
-
-Minskade fosterrörelser. Vissa av kvinnorna har ökad risk för fosterdöd. ALla gravida ska få information om att söka från v.24+0. Så om det blir skillnad i rörelser. 
-Vanligare än plötslig spädbarnsdöd. Händer 1 på 4000 graviditeter. 
+* CRL (crown rump length)
+* v. 12+3 → huvud
+* Minskade fosterrörelser. 
+* Vissa av kvinnorna har ökad risk för fosterdöd. 
+* Alla gravida ska få information om att söka från v.24+0. 
+* Så om det blir skillnad i rörelser. 
+* Vanligare än plötslig spädbarnsdöd. Händer 1 på 4000 graviditeter. 
 
 
 

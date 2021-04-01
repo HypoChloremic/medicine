@@ -41,7 +41,6 @@
   * operativa laparoskopisjka metoder för tubargrav: tubotomi eller salpingektomi
   * risker ena metod jfr andra: trofoblast väv kvar i tuba vid tubotomi
   * postoperativ uppföljning: s-hCG vid tubotomi
-  * 
 
 
 
@@ -3788,6 +3787,12 @@ cerivicit
 #### Hypothyreos
 
 #### Hyperthyreos
+
+
+
+
+
+### TTS
 
 
 

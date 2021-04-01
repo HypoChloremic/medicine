@@ -2091,6 +2091,8 @@ remitera vidare enrummig cysta 5cm
 
 # Det lilla barnet
 
+https://ki.padlet.org/eleonortiblad/u416n0zrxqgqihih
+
 
 
 **Detta seminarium täcker lärandemål: Kunna: Normal graviditet, dess diagnostik och övervakning Avvikelser i graviditetsförloppet och övervakningsrutiner Graviditetsrelaterade sjukdomar Känna till: Metoder för övervakning av fostret före och under förlossningen** 
@@ -2105,27 +2107,24 @@ remitera vidare enrummig cysta 5cm
 
 **Vad vill du veta mer?** 
 
-Är smärtan konstant eller kommer den i intervaller? 
-
-Feber? 
-Hur ofta byter hon binda? 
-Blödning?
-
-Sammandragningar?
-Fosterrörelser?
-Hereditet?
-UVI symtom? Svider när du kissar, trängningar?
-Avföring?
-Hur är smärtan? SOCRATES
-
-Tidigare sjd 
-Medicinering 
+* Är smärtan konstant eller kommer den i intervaller? 
+* Feber? 
+* Hur ofta byter hon binda? 
+* Blödning?
+* Sammandragningar?
+* Fosterrörelser?
+* Hereditet?
+* UVI symtom? Svider när du kissar, trängningar?
+* Avföring?
+* Hur är smärtan? SOCRATES
+* Tidigare sjd 
+* Medicinering 
 
 
 
 **Vilken diagnos misstänker du?** 
 
-pPROM (preterm premature rupture of membrane) innan 37+0. PROM >37+0 vattenavgång men utan värkar. Har också risk för infektion och dom inducerar man inom 48 timmar. 
+* pPROM (preterm premature rupture of membrane) innan 37+0. PROM >37+0 vattenavgång men utan värkar. Har också risk för infektion och dom inducerar man inom 48 timmar. 
 
 
 

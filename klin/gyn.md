@@ -215,6 +215,19 @@ cerivicit
 
 ### Inkontinens
 
+
+
+***Presentation***
+
+* Tanja 49åå
+  * arbetar som murare. Nu har hon svårt att hålla urinen, hon tror hon har ansträngningsinkontinens eller kanske trängningsinkontines.
+  * Förklara för henne hur man skiljer de båda tillstånden åt?
+    * trängning: läckage samband med plötsligt behov tömma urnblåsan, kan ej hålla in
+    * ansträngningsinkont: samma som stressinkontinens, läckage samband skratt, nys, hosta, fysisk ansträng
+  * riskfaktorer ansträngningsinkont, abe: vaginal födsel, övervikt, ålder, graviditet, tid gynop, långvarig förtoppning, diabetes, nedsatt motilitet, hereditet, HRT
+
+
+
 #### Ansträngningsinkontinens
 
 ***Etiologi och patofysiologi***
@@ -236,7 +249,7 @@ cerivicit
 
 #### Blandinkontinens
 
-#### Stressinkontinens
+#### Trängningsinkontinens
 
 ***Presentation***
 
@@ -249,8 +262,6 @@ cerivicit
 ***Utredning och handläggning***
 
 ***Behandling***
-
-* Kan botas med kirurgi
 
 
 
@@ -3404,6 +3415,9 @@ cerivicit
   * **navelsträngskomplikationer**: inflam navelsträng; navelsträngsprolaps; navelsträngsomslingring; avvikande navelsträng "koiling" (minskat/ökat vaskulära varv i navelsträng)
   * **massiv fetomaternell blödning**; samband med fetal död. 
   * **fetomaternell transfusion**: trauma uterus + ablation leda t fetometernell transfusion. men flesta fall ingen bakomliggande orsak kan hittas. 
+  * **placentaavlossning, ablatio**: fler av orsakerna ökar risken för ablatio
+  * **Rh-immunisering**: mindre osrak idag. 
+* **Intrapartal död:** attribuers till asfyxi, andel itrapartal död av total IUFD har använts som kvalitetsmått inom obstetriken. 
 * **Perinatal mortalitet**: v22-7d efter förlossning
 * **neonatal mortalitet**: första 27d efter födsel
 
@@ -5748,6 +5762,11 @@ cerivicit
 * Betty 53år, TODO
   * har sedan 2 år östrogenplåster som hon byter 2 gånger per vecka. Var 3e månad tar hon en gestagentablett i 2veckor och får då en blödning. nu är hon så trött på blödningarna och kommer till dig för att hon inte längre vill ta sitt gestagen. Vad svarar du? M
   * åste hon ta gestagen och varför? finns andra alternativ?
+* Greta 52åå
+  *  söker dig då hon inte haft någon blödning på 1,5 år. Mådde bra i början men nu tycker hon att hon sover dåligt, känner sig varm och svettig, får plötsliga episoder när det hettar ordentligt i ansiktet oc hon blir alldeles röd. 
+  * Finns det hjälp att få, undrar Greta: HRT, ERT + spiral etc. 
+  * kontraindikationer mot behandlingen, ange 2: DVT, LE, VTE, angina, hjärtinfarkt, stroke, allvarlig leversjd; ER-beroende cancer, hormonberoende cancer, ökad genitalblödning
+  * 
 
 
 

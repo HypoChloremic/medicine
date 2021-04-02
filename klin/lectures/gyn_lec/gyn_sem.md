@@ -2619,6 +2619,8 @@ TODO lägg in patientfalelt fr slidesesn.
 * Nya mätningar var 14:e dag för att annars hinner inte fostret växa så mycket. 
 * Fostervattenmängd, dålig cirkulation → dåligt kiss → lite vatten. 
 
+
+
 IUGF = avplanad tillväxt, blod flödespåverkan inte bara att man är liten. Kan ju vara litet barn i sig. 
 
 Högt → normal med delta 10% är ändå tillväxthämning. 
@@ -2698,8 +2700,6 @@ Placentära faktorer
 ### Fall 4 - IUFD
 
 **Jessika 27 år, 1-grav, 0-para. Tidigare frisk. Kommer för inskrivning på MHV. Oklar graviditetslängd pga oregelbundna blödningar men tror att hon är gravid ca vecka 11-12.** 
-
-
 
 
 
@@ -2812,28 +2812,38 @@ Erbjuds alla kvinnor i sthlm. Är ett komplext ämne. Finns informationsfilm 117
 
 **Vad finns det för möjliga orsaker till IUFD?** 
 
-Riskfaktorer: Hög ålder, tobak, alkohol&koffein konsumption, övervikt och obesitas, sociala faktorer, tidigare utfall. 
-Orsaker: intrauterin tillväxthämning pga placentainsuff. Associerat med preeklampsi, flerbördsgraviditet, missbildningar, kromosomavvikelser men i många fall okänt. 
-Sjukdomar hos mamman: Diabetes typ 1 och 2. Hypertensiv sjukdom. Koagulationsrubbningar. 
-Kromosomavvikelser och missbildningar. 
-
-Placenta och navelsträngskomplikationer
-
-Infektioner 
+* Riskfaktorer: Hög ålder, tobak, alkohol&koffein konsumption, övervikt och obesitas, sociala faktorer, tidigare utfall. 
+* Orsaker: intrauterin tillväxthämning pga placentainsuff. Associerat med preeklampsi, flerbördsgraviditet, missbildningar, kromosomavvikelser men i många fall okänt. 
+* Sjukdomar hos mamman: Diabetes typ 1 och 2. Hypertensiv sjukdom. Koagulationsrubbningar. 
+* Kromosomavvikelser och missbildningar. 
+* Placenta och navelsträngskomplikationer
+* Infektioner 
 
 
 
 **Redogör för handläggning vid IUFD före, under och efter förlossning. Motivera** 
 
-Måste göras med god omvårdnad där man måste känna in paret i fråga. 
-Handläggningen. Blir induktion med införsel av prostaglandin för att mjuka upp cervix. Sedan oxytocindropp, ta hål på hinnor kanske. EXTREMT bra smärtlindring. 
-Vid födseln, låt paret ha kvar barnet för att säga hejdå. Erbjud dop, erbjud prästkontakt, erbjud kurator. Erbjud begravning. Fråga kvinnan/paret vad de önskar och vad de vill.  
-
-
-
-Bekräfta med 2 läkare. Omhändertagande. Socialt, psykologiskt (kontakt med kurator osv). Prover vid diagnossättandet. Efter barnet är fött för att kola varför det hänt. Barnet till obduktion, placenta på undersökning, blod från hjärtat för att kolla infektioner, kromosomavvikelser. 
+* Måste göras med god omvårdnad där man måste känna in paret i fråga. 
+* Handläggningen. 
+  * Blir induktion med införsel av prostaglandin för att mjuka upp cervix. 
+  * Sedan oxytocindropp, ta hål på hinnor kanske. 
+  * EXTREMT bra smärtlindring. 
+  * Vid födseln, låt paret ha kvar barnet för att säga hejdå. 
+  * Erbjud dop, erbjud prästkontakt, erbjud kurator. 
+  * Erbjud begravning. 
+  * Fråga kvinnan/paret vad de önskar och vad de vill.  
+* Bekräfta med 2 läkare. Omhändertagande. Socialt, psykologiskt (kontakt med kurator osv). Prover vid diagnossättandet. 
+* Efter barnet är fött för att kolla varför det hänt. Barnet till obduktion, placenta på undersökning, blod från hjärtat för att kolla infektioner, kromosomavvikelser. 
 
 ![img](https://lh4.googleusercontent.com/bhewJzWpLfnVcVy00qbE5dkjuPf4tb4eM8zPbaDDOFA5P9Ew9C-m9vcb3M4EvFc607haGLsQmQt8xQLE23E8WHRIOVl-CN1sqbQsIrdx24jskSYWmkicANQGXKuLviICUvW8a1Wb)
+
+
+
+
+
+
+
+# Blandade fall 
 
 
 
@@ -2848,8 +2858,6 @@ Fall och undersökning.
 OSCE är stationer från listan. 
 
 
-
-# Blandade fall 
 
 ### Fall 1 
 

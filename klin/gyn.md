@@ -3332,7 +3332,25 @@ cerivicit
 
 
 
-### intrauterin fosterdöd IUFD
+### IUD intrauterin död
+
+
+
+***Allmänt***
+
+* !! skillnad IUD och IUFD. 
+
+
+
+***Etiologi och patofysiologi***
+
+
+
+***Riskfaktorer***
+
+* Rökning
+
+### IUFD intrauterin fosterdöd 
 
 ***Presentation***
 
@@ -3341,19 +3359,52 @@ cerivicit
   * Ange två undersökningsmetoder som kan vara till god hjälp för att snabba klara ut om fostret lever eller inte! 
     * CTG + UL
   * Tyvärr konstaterar du med dessa undersökningar att intrauterin fosterdöd föreligger. Tillsammans med barnmorska har du ett mycket långt samtal med helen och hennes man. De undrar vad som nu kommer att hönda. Vilket förlossningssätt rekommenderar du?
-    * enl abe: vaginal förlossning
+    * vaginal förlossning; bättre för att hantera fostret, att man verkligen föder fram den, förbättrar acceptansen efteråt. Finns risker med att man kör kejsarsnitt som påverkar nästkommande graviditeten
+    * Inducerad vaginal förlossning 
+  
 * Hur hög perinatal mortalitet (0.51%), vad är definition perinatal mortalitet
+
+* Jessika 27 år, 
+
+  * 1-grav, 0-para. Tidigare frisk. Kommer för inskrivning på MHV. Oklar graviditetslängd pga oregelbundna blödningar men tror att hon är gravid ca vecka 11-12.
+
+  * **Eftersom graviditetslängden är oklar bokas hon in för ett ultraljud 2 dagar senare. Ultraljud visar en intrauterin viabel singelgraviditet i vecka10+3.** **Vad mäts för att bedöma graviditetslängd i tidig graviditet?** 
+
+  * Jessika mår bra och graviditeten fortlöper normalt. I graviditetsvecka 30 kommer hon för rutinkontroll och barnmorskan noterar då ett lågt SF-mått. Jessika är orolig och berättar att personer i hennes omgivning tycker att ”magen är liten”. Bm planerar ultraljudskontroll inom ett par dagar. Dagen före det planerade ultraljudet söker Jessika MVC då hon är orolig för att det varit så lugnt i magen. Hon har inte känt någon riktig spark det senaste dygnet. När barnmorskan lyssnar med doptone får hon bara in mammans puls. Jessika hänvisas till förlossningsavdelningen. När man undersöker med ultraljud ses ingen hjärtaktivitet på barnet och en intrauterin fosterdöd (IUFD) konstateras.
+
+  * orsaker IUFD? Riskfaktorer: Hög ålder, tobak, alkohol&koffein konsumption, övervikt och obesitas, sociala faktorer, tidigare utfall. ; Orsaker: intrauterin tillväxthämning pga placentainsuff. Associerat med preeklampsi, flerbördsgraviditet, missbildningar, kromosomavvikelser men i många fall okänt. ; Sjukdomar hos mamman: Diabetes typ 1 och 2. Hypertensiv sjukdom. Koagulationsrubbningar. ; Kromosomavvikelser och missbildningar. ; Placenta och navelsträngskomplikationer; Infektioner ; 
+
+    * fr seminariet: infektion, placentaavlossning (ablatio; vanligare fullgångna, överburna..); fetomaternell transfusion; koagulationsrubbningar, trombos; kromosomavvikelser; IUGR (olika orsaker för detta); 
+
+  * handläggning IUFD före o efter förlossning, motivera: vaginal förlossning (24-48h senare), Rh-profylax, inducerad (VÄLDIGT bra smärtlindring; ), snabb kuratorkontakt, så barnet, ta bilder, ha tid med den, erbjuda präst dop, fråga om obduktion skicka placenta och fostret; 
+
+    
+
+
+
+***Allmänt***
+
+* !! **Definition**: framfödande dött foster festationsålder >v22
 
 
 
 ***Etiologi och patofysiologi***
 
-* Vanligaste orsakerna till IUFD
-  * placentaavlossning ablatio
-  * dödföddhet utan känd orsak
-  * missbildningar: atresier enl abe
-* Perinatal mortalitet: v22-7d efter förlossning
-* neonatal mortalitet: första 27d efter födsel
+* Svårigheter etiologi IUFD: 
+  * vikt skattas sent: vikt vid förlossning ist för dödstidpunkt -> fostret förlorat vikt, -> överskatta IUGR som dödsorsak
+  * kromosomanalys, infektionanalys: odlingar svåra att analysera efter fosterdöd, död vävnad etc påverkar analysen,. 
+* **Vanligaste orsakerna till IUFD**: SVÅRT att bedöma enl SFOG. 
+  * **nr1 INGEN SÄKER ORSAK**: flesta studier
+  * **nr2 IUGR**: svårbedömt för att vikt ej skattas vid dödsförklaring utan efter födsel, risk för felbedömningar och feldiagnoser. 
+    * epidemiologiskt har risken för detta sjunkit över tid i Sverige, men fortfarande en av de större orsakerna till IUFD.
+  * **!! nr3 missbildningar**: denna är en svårbedömd orsak också. samband IUFD-missbildningar svagare än missbildning-tidig neonatal död!!!
+  * **gällande infektioner**: svårbedömt också. 
+  * !!**placenta och navelsträngskomplikationer**: inflammation hinnor, inflam navelsträng, förändring uteroplacentär vaskulär insuff, tecken på ablatio; 
+  * **navelsträngskomplikationer**: inflam navelsträng; navelsträngsprolaps; navelsträngsomslingring; avvikande navelsträng "koiling" (minskat/ökat vaskulära varv i navelsträng)
+  * **massiv fetomaternell blödning**; samband med fetal död. 
+  * **fetomaternell transfusion**: trauma uterus + ablation leda t fetometernell transfusion. men flesta fall ingen bakomliggande orsak kan hittas. 
+* **Perinatal mortalitet**: v22-7d efter förlossning
+* **neonatal mortalitet**: första 27d efter födsel
 
 
 
@@ -3364,11 +3415,19 @@ cerivicit
 
 
 
-
-
 ***Kliniska kännetecken***
 
+* Minskade fosterrörelser: riktlinjer fr socialstyrelsen. Låg evidens. alla gravida av BM info om fosterrörelser under rutinbesök v24.
+  * utan avvakta alla minskade fosterrörelser + avvikande rörelsemönster fr v24 undersökas på sjukhus. 
+
+
+
 ***Utredning och handläggning***
+
+* Akut utredning
+  * Ultraljud + CTG: determinera fosterstatus snabbt. 
+
+
 
 ***Behandling***
 
@@ -6628,7 +6687,66 @@ cerivicit
 
 #### IUGR
 
+***Presentation***
+
+* Anna 31 år, 
+  * 1-grav, 0-para. Inremitteras till dig på specialistmödravården pga lågt SF-mått i vecka 34+6. 
+  * Normal graviditet i övrigt. Anna mår bra och förstår inte varför hon behöver sitta och vänta på ytterligare en kontroll idag. Hon har ett möte om 2 timmar och undrar om du inte kan skynda dig på.
+  * vad vill du veta mer: tidg frisk? Rökning?? Gjort KUB, NIPT (kan bero på fel hos barnet). ? ätstörningar? illamående? Tid sj? Läkemedel? Rökning/alkohol osv? Känt fosterrörelser? Infektionstecken?? Övriga symtom ? Blödning/flytningar?? Har hon gått på kontroller?? Hereditet för preeklampsi, blödningssjukdomar osv? Kan/har hon ätit ordentligt?? 
+  * undersökningar ordinerar du: Tillväxt UL med blodflöde, ? BT, ? U-sticka ? Ultraljud inkl flöden och storleksbedömning? SF mått? Hb? Glukos? BT? Urinsticka? Vikt? CTG? 
+  * hur ofta  kontrollera tillväxt + flöde misstänkt tillväxtavvikelse: viktskattning varannan vecka, flöde varje vecka eller oftare (båda beror på också hur avvikande fostret är)
+
 ***Etiologi***
+
+* **Diffa IUGR fr SGA:** titta på grafen nedan. Ser att SGA är om man är under 2.5SD (-22%) i fostervikt. 
+  * SGA = gm att titta på delta mellan mättillfännen. Om fostret fortsätter att växa i normal *takt (gradient)* men fortsatt under -2.5SD,
+  * iUGR = om det står still mellan mättillfällen, att gradienten = 0 eller liknande. 
+* **Maternella orsaker**:
+  * **kroniska sjd, systemsjukdomar**: duabetes, njursjd, hypertoni, autoimmuna sjd, IBD, anemi
+  * missbruk, rökning, alkohol
+  * preeklampsi
+* **Placentära orsaker**:
+  * defekt anläggning i tidig grav
+  * ablatio
+  * infarkter placenta
+  * velamentös navelsträng: TODO
+* **fetala**
+  * kromosomfel
+  * missbildningar
+  * infektion
+
+<img src="./imgs/gyn_sam_020421_uMFWQJca1z.png" alt="uMFWQJca1z" style="zoom:50%;" />
+
+
+
+***Epidemiologi***
+
+* 3-4% alla grav tillväxthämmade foster (IUGR + SGA?)
+* perinatal mortalitet 7-10x ökad risk
+* minimera perinatal risker gm övervaka, optimera förlossningstidpunkt:  (fosterdöd, asfyxi, perinatal hjärnskada, sjuklighet)
+
+
+
+***Komplikationer SGA IUGR längre sikt***
+
+* somatiska, koginitiva, psykomotorisk utv påverkas
+* predisp kronisk sjukdomar vuxenlivet (diabetes, kardiovaskulära sjd)
+
+
+
+***Utredning och handläggning***
+
+* **Screening, upptäckt tillväxthämning**
+  * **SF-mått följs (V24 och över)**: remiss för viktskattning när den avviker
+  * **Riskpatienter, riskfaktorer, remitteras viktskattning**: tidg SGA barn; kronisk sjd mor; graviditetskomplikationer (preeklampsi) mfl; 
+    * planerar in viktskatning på dessa
+  * // Rutinmässig 
+
+
+
+
+
+
 
 
 
@@ -6865,10 +6983,11 @@ cerivicit
 
 ***Presentation***
 
-* **Sara söker vårdcentralen** 
+* **Sara v31**
+  * **söker vårdcentralen** 
   * I Norrtälje för en liten blödning efter samlag. Den har varit brun och mindre än en mens. Hon väntar sitt första barn och har kommit till vecka 31. Graviditeten har varit normal. BT 110/70. Inga buksmärtor. Barnet sparkar bra.
   * **Differentialdiagnoser**: placenta ablatio och placenta previa
-  * Viktiga diagnoser utesluta: placenta previa, placenta ablatio,
+  * **Viktiga diagnoser utesluta**: placenta previa, placenta ablatio,
   * undersökningar kvinnor + blöd sen grav: UL + vaginal undersökning
 
 
@@ -7139,7 +7258,25 @@ cerivicit
 
 ### Placentarel
 
-#### Ablatio
+#### Placenta Ablatio
+
+***Etiologi och patofysiologi***
+
+* 
+
+
+
+***Riskfaktorer***
+
+* Preeklampsi
+* Graviditetshypertoni
+* GDM
+* Rökning
+* antifosfolipidsyndrom
+
+
+
+
 
 #### Placenta Previa
 

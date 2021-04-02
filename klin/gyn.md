@@ -3398,7 +3398,8 @@ cerivicit
   * **nr2 IUGR**: svårbedömt för att vikt ej skattas vid dödsförklaring utan efter födsel, risk för felbedömningar och feldiagnoser. 
     * epidemiologiskt har risken för detta sjunkit över tid i Sverige, men fortfarande en av de större orsakerna till IUFD.
   * **!! nr3 missbildningar**: denna är en svårbedömd orsak också. samband IUFD-missbildningar svagare än missbildning-tidig neonatal död!!!
-  * **gällande infektioner**: svårbedömt också. 
+  * **gällande infektioner**: svårbedömt också; placenta + foster infek via transplacentär (hematogen) spridning, ELLER via uppåtstigande infektion vaginalt
+    * många olika orsaker t <u>**IUD**</u>: parvovirus B19; cytomegalovirus; toxoplasma; rubella; vissa enterovirus; GBS; E coli; listeria monocytogenes; lues; genital mycoplama; ureaplasma urealyticum; malaria inte ovanlig orsak IUD U-länder; död av maternell sepsis finns beskrivet  
   * !!**placenta och navelsträngskomplikationer**: inflammation hinnor, inflam navelsträng, förändring uteroplacentär vaskulär insuff, tecken på ablatio; 
   * **navelsträngskomplikationer**: inflam navelsträng; navelsträngsprolaps; navelsträngsomslingring; avvikande navelsträng "koiling" (minskat/ökat vaskulära varv i navelsträng)
   * **massiv fetomaternell blödning**; samband med fetal död. 
@@ -3893,24 +3894,23 @@ cerivicit
   * Endometrios är vanligare hos kvinnor från västra Afrika.
   * Endometrios är vanligt hos kvinnor vars mödrar har endometrios
   * Endometrios bör i första hand behandlas kirurgiskt och radikalt med laparoskopisk resektion och diatermi.
-  
 * **20åå kvinna**
   * endometrios, steg1 behandlas med kombinerade p-piller
   * ringer nu, har en genombrottsblödning
   * Vad rekar du: antingen uppehåll 4d eller tar 2t dagligen i 5d.
-  
 * **Lovisa 25 **
   
   * **år söker dig på gynmottagningen pga smärtor i buken sedan nästan ett år. Hon har tidigare sökt hos husläkaren som mest trott på att hon har IBS. Själv undrar hon om det kan finnas en gynekologisk förklaring eftersom smärtan sitter mest i nedre delen av buken.**
-  
 * **Olga är 32 år**
   * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
   * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
-  
 * **25åå kvinna**
-
 * - endometrios, oklart hur länge
   - behandlats väl med Novashore: TODO (Novasure?)
+* Sussane, 18 år 
+  - har alltid haft smärtsam mens. Nu har det blivit värre och hon använder ipren, men det gör ändå så pass ont att hon måste va hemma från skolan. hon har en pojkvän men de har svårt att ha sex för det gör så ont vid samlag. kondom används som preventivmedel. Vid US undersökning ser allt fint ut vid inspektion, ingen ömhet i vulva eller vagina, däremor ömmar det kraftigt vid bimanuel palpation ffa på uterus baksida.
+  - diagnos: endometrios
+  - fastställa diagnos: laparoskopiskt är enda definitiva diagnos och gold standard; bilddiagnostiskt med UL, MR förekommer; testbehandling förekommer också 
 
 
 

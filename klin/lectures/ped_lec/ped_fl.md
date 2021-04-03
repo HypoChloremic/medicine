@@ -3280,6 +3280,10 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
   * ***Podocyt produktion***
     * ACEi och ARB: minskar trycket i glomerulus och skyddar därför glomerulus
 
+
+
+
+
 ## Fall 3 - Nefritiskt syndrom (aka glomerulonefrit)
 
 * 6åå pojke
@@ -3317,7 +3321,7 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
     * MPGN 1,2,3
 * **Sekundär**
   * **Postinfektiös**
-  * IgAN, HSN
+  * IgA-Nefrit?, HSN
   * komplement dysfunk
   * SLE
   * systemisk vaskulit

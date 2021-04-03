@@ -232,20 +232,22 @@ cerivicit
 
 ***Etiologi och patofysiologi***
 
-- Förlossning: tänjer på en massa muskler och bindväv, bäckenbotten blir slappare
-- Puborectalis: denna muskeln i bäckenbotten (perinealt?) är starkt relaterat till bibehållen kontinens i uretra, varpå påverkad puborectal muskelm (PRM) leder till att man kan få en ansträngningsinkontinens
-- Peruretral ligamentet: denna kan också tänjas i samband med förlossnings, varpå ansträngningsinkontinens
+- **Förlossning**: tänjer på en massa muskler och bindväv, bäckenbotten blir slappare
+- **Puborectalis**: denna muskeln i bäckenbotten (perinealt?) är starkt relaterat till bibehållen kontinens i uretra, varpå påverkad puborectal muskelm (PRM) leder till att man kan få en ansträngningsinkontinens
+- **Peruretral ligamentet**: denna kan också tänjas i samband med förlossnings, varpå ansträngningsinkontinens
+- **Äldre kvinnor**
+  - Intrinsic sphincter syndrome. 
+  -  uretra blir stel och glappt urinrör + låg tryck  
+  - sfinkter interna verkar vara påverkat
 
 ***Behandling***
 
-- Konservativ behandling: detta bör vara förstahandsvalet för patienter, att man hoppar på en konservativ behandling
+- **Konservativ behandling**: detta bör vara förstahandsvalet för patienter, att man hoppar på en konservativ behandling
+  - **kissa oftare, normalare volym i urinblåsan**: möjligt att patienten kissar endast när urinblåsan blir för full varpå ökad propensitet för att läcka urin
+  - **bäckenbottenträning**: detta kan hjälpa till med kontinensen
 
-- - kissa oftare, normalare volym i urinblåsan: möjligt att patienten kissar endast när urinblåsan blir för full varpå ökad propensitet för att läcka urin
-  - bäckenbottenträning: detta kan hjälpa till med kontinensen
-
-- Kirurgisk behandling: 
-
-- - TVT-behandling: slynga sätts runt uretra (efterliknar funktionen hos peruretral ligamentet? TODO)
+- **Kirurgisk behandling**: 
+  - **TVT-behandling**: slynga sätts runt uretra (efterliknar funktionen hos peruretral ligamentet? TODO)
 
 #### Blandinkontinens
 
@@ -464,22 +466,27 @@ cerivicit
 
 ***Presentation***
 
-*  Lotta 42 år, 
+*  **Lotta 42år**, 
   * I gravida, 1-para med PN för 5 år sedan. Hon söker för blödning efter samlag. Vilken åkomma bör du i första hand tänka på av nedanstående? (1p)
     * Cervixcancer: svaret 
     * (ett av alternativen var corpuscancer..)
+*  **Anna 40-år**, 
+   *  2 gravida 2 para med normala förlossningar, sista partus för 2 år sedan, söker akut på kirurgakuten pga tilltagande smärtor i nedre delen av buken. Smärtorna är mer lokaliserade till höger sida, och en tryckande smärta i ryggen också på hö sida ( över den hö njurloge). Av kirurgjouren skickas skickas Anna för en akut CT-buk som visar att Anna har en hö-sidigt hydronefros.
+   *  vilken gynekologisk diagnos bör man utesluta: cervixcancer
 
 
 
 ***Etiologi och patofysiologi***
 
 * **Orsak till död hos endstage**: njursvikt (nefrostomi tuber minskar risken)
+* **Hydronefros**: 
 
 
 
 ***Kliniska kännetecken***
 
 * Blödning vid samlag
+* Hydronefros: 
 
 
 
@@ -512,6 +519,7 @@ cerivicit
 * symptomlöst ofta
 * värk
 * bensvullnad
+* hydronefros
 
 
 
@@ -1221,13 +1229,22 @@ cerivicit
   * Veta mer: sj känt en knöl, ökat bukomfång, pollakisuri täta träng, problem avföring, rikliga mens, paramaligna symptom, trötthet, avmagring, 
   * fynd förstärker malignitet misstanke: adherent resistens. inte utgår fr uterus. UL cystisk förändring flera rum solikda partier, asciters
     * prover: anemi, förhöjt Ca-125, ec CEA o F-Hb
-* !! **En 55‐årig kvinna,** TODO
+* !! **En 55‐årig kvinna**: TODO
   * 0‐gravida söker dig på grund av vaginal blödning. Hon har tidigare i livet varit frisk frånsett övervikt (mellan 85 och 90 kg, hon är 165 cm lång). Patienten berättar för dig att när hon var tonåring hade hon oregelbundna blödningar. Dessa normaliserades dock under de 8 år som hon tog kombinerade p‐piller. Hon slutade med dessa då hon var 27 år då hon önskade bli gravid. När detta inte lyckades sökte hon läkare, men utredningen fullföljdes aldrig på grund av skilsmässa. Det visade sig dock att maken hade en normal spermiefunktion.Efter att hon slutade med p‐piller var blödningarna alltid oregelbundna, kom sällan och var ganska sparsamma. Vid 45 års ålder fick hon dock en tre veckor lång blödning och genomgick en skrapning på grund av detta. I journalen ser du att PAD av endometriebiopsi visade metropathia haemorrhagica cystica (MHC). Med hjälp av vaginalt ultraljud konstaterades då också ett myom i fundus. Menopausen inträffade vid 50 års ålder och patienten har inte blött förrän nu. Du gör en endometriebiopsi och diagnosen blir högt differentierat endometriecarcinom.
     Utifrån denna fallbeskrivning kan du se att patienten har några predisponerande faktorer för att utveckla endometriecancer, nämn tre av dessa faktorer och diskutera mekanismerna över vilka de verkar. (4p)
-    * obesitas: östrogenproduktion (ökad aromtas?) MInskad mängd SHBG därmed högre koncentration bioligskt aktivt östrogen som får endometrieslemhinnan att miotisera och prolifiera. Aromatisering sker osså där, av androstendin till östrogen vilket ger höger nivåer östrogen. 
-    * nulliparitet: förlängd östrogen ingen progest?
-    * infertilitet?
-    * oligomenorrhe: anovulation?
+    * **obesitas**: östrogenproduktion (ökad aromtas?) MInskad mängd SHBG därmed högre koncentration bioligskt aktivt östrogen som får endometrieslemhinnan att miotisera och prolifiera. Aromatisering sker osså där, av androstendin till östrogen vilket ger höger nivåer östrogen. 
+    * **nulliparitet**: förlängd östrogen ingen progest?
+    * **infertilitet**?
+    * **oligomenorrhe**: anovulation?
+* !! **Patient är 36-årig** 
+  * 0-gravida som söker för lågt blodvärde. Status vid senaste gyn undersökning för tre år sedan var normalt. Hon har nu Hb 95. Uterus palperas gåsäggstor myomatös. Fritt åt sidorna. Vaginalt ultraljud visar ett suberös myom som du mäter på 4cm. Patienten undrar om det är risk för att myomet kan fortsätta att växa och vad i så fall stimulerar tillväxten
+  * **Vad svarar du**: östrogen + progesteron komplex relation
+  * **negativ effekt på grav**: försvåra implantation; växa under grav o ge besvär; dålig placentering pga myomet multipla eller enstaka etc; onormal förlsosning; kejsarsnitt; malpresentation vid förlossning. 
+  * **vill minska mens, utan påverka möjlighet att bli gravid i framtiden, tre förslag**: 
+    * NSAID
+    * ciklokapron
+    * fertilitetsbevarnde kirurgi (om man attribuerat rikliga blödningar till hennes myom)
+  * **normal onormal blödningsmängd**: medel 40mL, normalt mellan 20-80mL. Över 80mL är riklig mens och ska undersökas + få järn consistently
 
 
 
@@ -1235,7 +1252,7 @@ cerivicit
 
 * **benign glatt muskel tumör i uterus**
 * "**muskelknutor**"
-* **rikliga blödningar**: en mekanisk påverkan på uterus eller lokala faktorer som åpverakr kärlbild eller koag, 
+* **rikliga blödningar**: en mekanisk påverkan på uterus eller lokala faktorer som påverkar kärlbild eller koag, 
 * **enl Blueprints**
   * aka leiomyom, fibroid
   * benign proliferationon glatt muskel i myometriet
@@ -1243,6 +1260,21 @@ cerivicit
   * **vanligaste indikation för kirurgi i US**: 1/3 av alla hysterektomier i Sverige
   * **reproduktiva svårigheter**
   * **benign, monoklonal tumör**: börjar fr enstaka glatt muskelcell
+  * **Indelning**: klassade baserade på locale. 
+    * **submukosal**: under endometrium
+    * **intramural**: in the muscular wall of the uterus
+    * **subseroal**: under uterin serosa
+  * **Innehåller mkt ECM** ( fibronectin, kollagen, proteoglycan)
+  * **omgiven av pseudokapsel** av komprimerad aerolär vävnad och glattmuskel
+  * **adenomyos är mer disorganiserad o diffus jämförligen**
+  * **Smärta: Förstoras, outgrow blodtillförsel, infarkt, degenerar och orsakar smärta**
+  * **Hormonella aspekten och myom**
+    * Fibroids are also hormonally responsive to both estrogen and progesterone, 
+    * but the relationship is complex.
+    * In reproductive-age women, 
+    * individual fibroids can grow and shrink at differing rates in the same woman.
+    * During menopause, the tumors usually stop growing and may atrophy inresponse to naturally lower endogenous estrogen levels
+  * **Blödningar, endometriell involvering**: blödningarna orsakas av den endometriella 
 * ? **malignt transformeras**: enl abbe under 1% han ref t ppt (enl blue så kan de uppstå samtidigt, men då parallelt inte att de stammar fr samma celler) 
 
 
@@ -1263,6 +1295,7 @@ cerivicit
 
 ***Kliniska kännetecken***
 
+* // enl abe: ryggsmärta med utstrålning mot benen...
 * **Trycksymptom**: trängningar, förstoppning, 
 * **rikliga menstruationer**: medför järnbristanemi
 * **oregelbundna menstrutationer**: verkar som att man kan få detta... enl blueprints (s)
@@ -1274,17 +1307,25 @@ cerivicit
 * infertilitet kan pga mekanisk orsak, att implantation försvåras
 * upptäcks som bifynd, kan ge kroniska o akuta symptom som kräver beh
 * **akut buksmärta**: nekros i myom
-* enl blueprints
-  * FIBROIDS Mnemonic
-  * F: Frekvens och ret urin, hydronefros
-  * I: Iron deficiency anemia
-  * B: Bleeding abnormalities (menorrhagi, metrorrhagi, menometrorrhagi, postcoital spotting), bloating
-  * R: Reproductive difficulties: dysfunctional labor premature labor delivery, fetal malpresentation, increased need cesarean delivery
-  * O: Obstipation and rectal pressure
-  * I: Infertility failed implantaation, spontaneous abortio
-  * D: Dysmenorrhe, dysparenu
-  * S: Symptomless
+* **enl blueprints**
+  * **FIBROIDS Mnemonic**
+  * **F**: Frekvens och ret urin, hydronefros
+  * **I**: Iron deficiency anemia
+  * **B**: Bleeding abnormalities (menorrhagi, metrorrhagi, menometrorrhagi, postcoital spotting), bloating
+  * **R**: Reproductive difficulties: dysfunctional labor premature labor delivery, fetal malpresentation, increased need cesarean delivery
+  * **O**: Obstipation and rectal pressure
+  * **I**: Infertility failed implantaation, spontaneous abortio
+  * **D**: Dysmenorrhe, dysparenu
+  * **S**: Symptomless
 * Pelvis smärta är va
+
+
+
+***Myom och graviditet***
+
+* **Submucosal myom**: can impact implantation, placentation, and ongoing pregnancy
+* resektion submukösa myom hos de med infertilitet påverkar ej fertilitet. 
+* **multipla stora / sitter bakom placenta onoral placentation**: ökad prematur födslar, foster malpresentation, onormal förlossning kejsarsnitt
 
 
 
@@ -1338,6 +1379,7 @@ cerivicit
   * Gyn: VVP ses ua. Uterus är normalstor för åldern och lätt devierad. Åt hö. Till vä och bakom uterus palperas en cystisk förändring som känns mjuk, ömmande, ca 7-8cm stor, rörlighet är svårt att avgöra.Ulj vaginalt: uterus är liten med normal konfiguration och tunt endometrium. Hö ovarium ses ej. Vid platsen för vä adnexa ses en 2-rummig cysta som mäter 7\*8 cm. Cystan är mstadels ekofri men i ena polen finns ett område som är mer ekogivande. ingen fri vätska ses i buken.
   * Diagnos/diagnoser? Svarade ovarialcancer, ovarialcysta
   * ytterligare prover bekräfta diagnos: här kan man diskutera en massa TODO
+* Hur utreder man ovarialcancer: CA125, CA19-9, CA15-3, CEA, (icke-serös cancer, i.e. stromal: beta-hcg, AFP, AMH); laparocentes, pleurocentes, DT-thorax vuk
 
 
 
@@ -3473,6 +3515,16 @@ cerivicit
 
 
 
+### Oligohydramnios
+
+***Etiologi och patofysiologi***
+
+
+
+***Kliniska kännetecken***
+
+
+
 ### Polyhydramnios
 
 ***Presentation***
@@ -3912,19 +3964,22 @@ cerivicit
   * endometrios, steg1 behandlas med kombinerade p-piller
   * ringer nu, har en genombrottsblödning
   * Vad rekar du: antingen uppehåll 4d eller tar 2t dagligen i 5d.
-* **Lovisa 25 **
-  
+* **Lovisa 25 **  
   * **år söker dig på gynmottagningen pga smärtor i buken sedan nästan ett år. Hon har tidigare sökt hos husläkaren som mest trott på att hon har IBS. Själv undrar hon om det kan finnas en gynekologisk förklaring eftersom smärtan sitter mest i nedre delen av buken.**
 * **Olga är 32 år**
   * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
   * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
 * **25åå kvinna**
-* - endometrios, oklart hur länge
-  - behandlats väl med Novashore: TODO (Novasure?)
+  * endometrios, oklart hur länge
+  * behandlats väl med Novashore: TODO (Novasure?)
 * Sussane, 18 år 
-  - har alltid haft smärtsam mens. Nu har det blivit värre och hon använder ipren, men det gör ändå så pass ont att hon måste va hemma från skolan. hon har en pojkvän men de har svårt att ha sex för det gör så ont vid samlag. kondom används som preventivmedel. Vid US undersökning ser allt fint ut vid inspektion, ingen ömhet i vulva eller vagina, däremor ömmar det kraftigt vid bimanuel palpation ffa på uterus baksida.
-  - diagnos: endometrios
-  - fastställa diagnos: laparoskopiskt är enda definitiva diagnos och gold standard; bilddiagnostiskt med UL, MR förekommer; testbehandling förekommer också 
+  * har alltid haft smärtsam mens. Nu har det blivit värre och hon använder ipren, men det gör ändå så pass ont att hon måste va hemma från skolan. hon har en pojkvän men de har svårt att ha sex för det gör så ont vid samlag. kondom används som preventivmedel. Vid US undersökning ser allt fint ut vid inspektion, ingen ömhet i vulva eller vagina, däremor ömmar det kraftigt vid bimanuel palpation ffa på uterus baksida.
+  * diagnos: endometrios
+  * fastställa diagnos: laparoskopiskt är enda definitiva diagnos och gold standard; bilddiagnostiskt med UL, MR förekommer; testbehandling förekommer också 
+* Maria 29 år gammal inkommer till gynakuten pga buksmärtor. arbetar som förskollärare. Ensamstående. alelrgisk mot pollen. för övrigt frisk. menarke 13 års ålder. regelbunda menser. använt p-piller en period utan problem dock ej nu när hon inte har en fast pojkvän. 0-grav. Laparaskopi pga buksmärtor för 3 år sedan. Ingetpatologiskt. fick ingen förklaring till smärtorna. Vaknade i dag klockan 7.05. pga smärtor i nedre delen av buken,mest på höger sida. Under dagen  litet illamående, inte haft lust att äta. Inga kräkningar. inga miktionsbesvär. SM började idag och kom på rätt tid. smärtorna har blivit något bättre men finns fortfarnade kvar. svårt att sitta. LÄtt smärtpåverkad. TEmp 37,0. Buk: mjuk ingen defenese, ömmar både höger o vänster fossa mest åt höger. Pågående måttlig mensblödning. Uterus normalstor rörlig, lätt ömmande till höger något mindre till vänster. Uterusnormalstor slemhinna 3mm. båda ovarierna ses normala. Ökad mängd vätska i buken. CRP 20, Hb 98, urinsticka visar blod. Grav test negativt. 
+  * vilken diagnos är mest trolig? Motivera svaret? Endometrios; laparoskoperad sen tidigare, p-piller bättre, dysmenorre (oförklarligt detta med ensidig smärta dock, att det kan vara endometrios som spridit sig till andra delar i bukhålan). Har mens. kan diffa X-grav (men neg grav-test), appendicit och ovarialtorsion men inget på UL som antyder d, hade bara en massa vätska i FD, kan vara endometros i bukhålan etc. 
+  * Handlägger fallet: enl abe inläggning, smärtlindring (HUR, TODO), observation, vidare utredning med MR (DT-buk ser man inget i nedre bukhålan..)
+
 
 
 
@@ -5766,7 +5821,12 @@ cerivicit
   *  söker dig då hon inte haft någon blödning på 1,5 år. Mådde bra i början men nu tycker hon att hon sover dåligt, känner sig varm och svettig, får plötsliga episoder när det hettar ordentligt i ansiktet oc hon blir alldeles röd. 
   * Finns det hjälp att få, undrar Greta: HRT, ERT + spiral etc. 
   * kontraindikationer mot behandlingen, ange 2: DVT, LE, VTE, angina, hjärtinfarkt, stroke, allvarlig leversjd; ER-beroende cancer, hormonberoende cancer, ökad genitalblödning
-  * 
+* Ulla är 54 år och har inte haft någon mens sedan hon genomgick en hysterektomi för 10 år sedan pga myom. Nu har hon svrt att sova pga svettningar och hjärtklappning. på dagtid besväras hon av plötsliga värmevallningar. nu önskar hon få diskutera klimakteriebehandling med dig. Ulla är frisk i övrigt. 
+  * Förklara vilken typ av behandling som är lämplig och hur länge du planerar att behandla henne. motivera din handläggning.
+    * ERT, då hysterektomerad (ingen progest för ingen risk för endometriehyperplasi och cancer)
+    * östrogen lägsta effektiva dos, sen utsättningsörsök årligen, behandlinge avslutas inom fem år. 
+    * man ska börja med 0.5-1mg och ge 1-2mg annars om det inte fungerar
+
 
 
 
@@ -5790,12 +5850,14 @@ cerivicit
 
 ***Behandling***
 
-* Klimakteriebesvär
-  * HRT: östrogen + gestagen
-  * ERT: 
-    * om man saknar livmoder kan man ge ERT;
+* **Klimakteriebesvär**
+  * **HRT**: 
+    * **östrogen + gestagen**
+  * **ERT**: 
+    * **Indikationer**: om man saknar livmoder kan man ge ERT;
     * man ger EJ HRT om man saknar en livmoder enl abbe. 
-    * // hormonspiral kan agera komplement till ERT för att skydda endometrieslemhinnan...
+    * // hormonspiral kan agera komplement till ERT för att skydda endometrieslemhinnan... 
+  * **Behandlingslängd**: utsättningsförsök 
 
 
 
@@ -7358,7 +7420,6 @@ cerivicit
   *  och kommer in i graviditetsvecka 9 med en liten blödning samt minskat illamående. UL ser man tom hinnsäck, ofostrig graviditet, blighted ovum
   * för ställa diagnos måste hinnsäck större än 25mm. vf viktigt inte diagnos tidigarE: inte döma ut viabel graviditet
   * om hinnsäck mindre 25mm: ta tillbaka patienten om 1 vecka
-  * 
 
 
 
@@ -7577,7 +7638,22 @@ cerivicit
 * FARG råd för behandling av missfall, 2020
 * NICE guidelines 2012 (updated 2017)
 
-* * 
+
+
+
+#### Upprepade missfall
+
+***Utredning och handläggning***
+
+* **Indikation för utredning efter 3 missfall**
+* **Kromosomanalys** av kvinna + mannen (karyotyp) 
+* **Koagulationsutredning**
+  * faktor V (Leiden)
+  * Protrombinmutation
+  * antifosfolipidutredning (antikardiolipinantikroppar, lupusantikoagulantisa)
+* **anatomisk utredning**: UL, hysterosalpingografi, ev laparoskopi
+* **hormonutredning** (thyroideahormoner, androgener, progesteron, under lutealfas, LH, FSH)
+* **immunologisk utredning HLA**
 
 ### Termer och definitioner
 
@@ -8850,6 +8926,7 @@ cerivicit
 
 ***Utredning och handläggning***
 
+* **Skraptest (på cervix och sopborste?)**: gynekologiskt cellprov
 * **Inkomplett papsmear**: ta om den...
 
 

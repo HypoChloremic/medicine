@@ -2926,16 +2926,10 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-
-
 ***Kliniska kännetecekn***
 
 * This patient’s murmur is consistent with a small ventricular septal defect (VSD). With a small VSD, a patient is likely to remain asymptomatic with normal growth and development. Typically, the smaller the VSD, the louder the murmur. Small muscular or membranous VSDs may close on their own without intervention. Small VSDs do not generally result in congestive heart failure or in Eisenmenger syndrome. A patent ductus arteriosus would more commonly present with a machinery-like continuous murmur at the upper left sternal border. Balloon valvuloplasty is not indicated for a VSD.
 * This patient’s signs and symptoms are consistent with congestive heart failure (CHF). Forms of congenital heart disease that increase pulmonary blood flow, obstruct outflow, or overload portions of the heart through valvular regurgitation are among the many causes of CHF. Of the choices listed, only a large ventricular septal defect, which has a large left-to-right shunt with increased pulmonary blood blow, would cause CHF in a child of this age. Atrial septal defects, small patent ductus arteriosus defects, and mild to moderate pulmonary stenosis do not typically cause CHF. Critical or severe aortic stenosis may cause CHF, but this usually occurs within 24 hours of birth.
-
-
-
-
 
 
 
@@ -3027,17 +3021,11 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-
-
 #### Tricuspid atresi
 
 ***Presentation***
 
 * You are called to the nursery to evaluate a male newborn with cyanosis. On auscultation, you hear a single S 2 but no murmur. Pulse oximetry shows an oxygen saturation of 72% in room air. An electrocardiogram reveals left axis deviation and left ventricular hypertrophy. What is his likely diagnosis?
-
-
-
-
 
 * Tricuspid valve orifice fails to develop; right ventricle is hypoplasti* * Often associated with ASD, resulting in a right-to-left shunt; presents with early
   cyanosi
@@ -3090,6 +3078,12 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+***Behandling***
+
+* Kirurgiskt: 
+
+
+
 ### Obstruktiv bronkit
 
 ***Presentation***
@@ -3107,10 +3101,6 @@ En kort lista över kliniska manifestationer av CF:
     * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
     * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
   * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
-
-
-
-
 
 
 
@@ -3135,10 +3125,6 @@ En kort lista över kliniska manifestationer av CF:
 * A 4-year-old boy is in the office for a routine health maintenance evaluation. His examination is normal except for multiple deep dental cavities. You plan on referring him for dental evaluation and possible dental extraction. His mother reminds you that he has a “heart condition.” Which of the following cardiac conditions requires antibiotic prophylaxis against endocarditis?
   * Before any invasive procedures that may result in bacteremia, prophylaxis against bacterial endocarditis is required for any patient who had structural heart disease repaired within the past 6 months. Patients with uncomplicated Kawasaki disease and cardiac dysrhythmias, including Wolff–Parkinson–White syndrome, or with acyanotic structural heart defects, such as patent ductus arteriosus, do not require antibiotic prophylaxi
 
-
-
-
-
 ### PPHN
 
 
@@ -3146,7 +3132,7 @@ En kort lista över kliniska manifestationer av CF:
 ***Presentation***
 
 * **3dygn neo barn**
-  * signifikant respiratorisk distress. Förlöstes med akut kejsarsnitt v42, pga fetal distress. du ntoterar att han saturerar 76% åp rumsuft men 95% med 100% syrgas
+  * signifikant respiratorisk distress. Förlöstes med akut kejsarsnitt v42, pga fetal distress. Du noterar att han saturerar 76% på rumsluft men 95% med 100% syrgas.
   * Vad är sant som supporterar vår misstanke om PPHN: Adekvat oxygeneriung är den bästa preventiva medlet och behandlingen
     * One of the most common causes of persistent pulmonary hypertension of the newborn (PPHN) is perinatal asphyxia, resulting in increased
       pulmonary vascular resistance and significant right-to-left shunting through the foramen ovale or the ductus arteriosus. 
@@ -3555,6 +3541,58 @@ Other:
 * **sen omkringliggande faktorer:** 
 
 
+
+#### IgA-nefrit och IgA-nefropati
+
+
+
+***Allmänt***
+
+* Aka bergers disease?
+
+
+
+***Etiologi och patofysiologi***
+
+* Okänd etiologi
+* deponering IgA-immunkomplex i glomeruli
+
+
+
+***Epidemiologi***
+
+* Vanligaste kroniska glomerulonefriten worldwide. 
+* presenterar andra eller tredje årtionden av livet. 
+* prevalent mest i Asien, Australien, Native americans. 
+
+
+
+***Kliniska kännetecken***
+
+* **makroskopisk Hematuri** återkommande, efter respiratorisk infektion. 
+* transient akut njursvikt kan ske hos vissa patienter
+* mikroskopisk hematury presenterar mellan makroskopisk hematuri
+* dåliga prognostiska tecken: mkt proteinuri + eleverad serum kreatinin. 
+* **Senare i livet, presentation**: att IgA nefropatin och nefriten presenterar senare i förloppet, inte i en patients barndom eller ungdom; 
+
+
+
+***Utredning och handläggning***
+
+* Renal biopsi: detta för att kunna sätta diagnos. 
+* Blodtryckskontroller: 
+
+
+
+***Behandling***
+
+* 
+
+
+
+#### Postinfektions-glomerulonefrit
+
+***Etiologi och patofysiologi***
 
 
 

@@ -41,6 +41,16 @@
   * operativa laparoskopisjka metoder för tubargrav: tubotomi eller salpingektomi
   * risker ena metod jfr andra: trofoblast väv kvar i tuba vid tubotomi
   * postoperativ uppföljning: s-hCG vid tubotomi
+* **Malin 27, TODO**
+  * år inkommer akut pga buksmärtor. Arbetar som förskollärare. Ensamstående. Väsentligen Frisk.  ob/gyn: menarke vid 13-års ålder. Regelbundna mensutrationer. 0-grav. Använt P-piller en period utan problem dock ej nu när hon inte har en fast pojkvän. laparoskopi pga buksmärtor för 3 år sedan. Inget patologiskt kunde påvisas och hon fick ingen förklaring till smärtorna.  Aktuellt : vaknade i morse pga smärtor i nedre delen av buken, mest på höger sida. Under dagen litet illamående , inte haft lust att äta. Inga kräkningar. Inga miktionsbesvär. SM började idag och kom på rätt tid. Smärtorna har minskat något men finns fortfarande kvar. Status AT: lätt smärtpåverkad Temp 37,0 Buk: Mjuk, ingen defense. ömmar både i höger och vänster fossa, mest dock höger. Gyn: Pågående måttlig mensblöding. Uterus normalstor rörlig, lätt ömmande till hö, något mindre till vä. Vag ulj: Uterus normalstor slemhinna 3mm. Båda ovarierna ses ua. ökad mängd vätska i buken.lab: CRP 20, Hb 98, urinsticka visar blod.
+  * Vilka diagnoser överväger du
+    * abe: x-grav, appendicit, blödande corpus luteum, ovarielltorsion
+* !!! **25 årig kvinna** TODO (addera behandlingarna t X)
+  *  inkommer till gynakuten med plötsliga svåra smärtor i nedre delen av buken, så pass att hon måste lägga sig. Vid inkomsten gör det betydligare mindre ont ur anamnesen har hon fast förhållande sen 5 år , använder säkra perioder som preventivmetod, sista regelbunden mens, senaste blödning 2 veckor sedan.Det låter mest som en cysta som gått sönder men du får vid undersökningen en känsla av att det kan vara ett X
+  * 2 gyn fynd tala för X: blod vagina; ömhet bimanuell palp (adnexa smärta)
+  * grav vecka brukar X ge symptom: efter v5
+  * visar sig X, föklara blödning 2v sedan: olaga blödning, ej mens. 
+  * 3 behandlingsalternativ t X: exspektans; medicinsk behandling (methotrexate); kirurgisk behandling
 
 
 
@@ -82,15 +92,6 @@
 ***Behandling***
 
 
-
-#### Fall
-
-***Presentation***
-
-* Malin 27, TODO
-  * år inkommer akut pga buksmärtor. Arbetar som förskollärare. Ensamstående. Väsentligen Frisk.  ob/gyn: menarke vid 13-års ålder. Regelbundna mensutrationer. 0-grav. Använt P-piller en period utan problem dock ej nu när hon inte har en fast pojkvän. laparoskopi pga buksmärtor för 3 år sedan. Inget patologiskt kunde påvisas och hon fick ingen förklaring till smärtorna.  Aktuellt : vaknade i morse pga smärtor i nedre delen av buken, mest på höger sida. Under dagen litet illamående , inte haft lust att äta. Inga kräkningar. Inga miktionsbesvär. SM började idag och kom på rätt tid. Smärtorna har minskat något men finns fortfarande kvar. Status AT: lätt smärtpåverkad Temp 37,0 Buk: Mjuk, ingen defense. ömmar både i höger och vänster fossa, mest dock höger. Gyn: Pågående måttlig mensblöding. Uterus normalstor rörlig, lätt ömmande till hö, något mindre till vä. Vag ulj: Uterus normalstor slemhinna 3mm. Båda ovarierna ses ua. ökad mängd vätska i buken.lab: CRP 20, Hb 98, urinsticka visar blod.
-  * Vilka diagnoser överväger du
-    * abe: x-grav, appendicit, blödande corpus luteum, ovarielltorsion
 
 ### PID
 
@@ -403,6 +404,15 @@ cerivicit
   * fick sin första menstruation för sex månader sedan. Nu söker hon på mottagningen tillsammans med sin mamma. Orsaken är att hon haft mer eller mindre riklig blödning i stort sett varje dag sedan en månad tillbaka.
   * Troligaste orsak: funktionell blödningsrubbning (anovulation), genombrott efter längre tids oavbruten östrogenpåverkan
   * vidare utredning: trötthet, Hb, tidg sjd. Gyn undersökning ej nödvändig enl HT12
+* Lisa är 14 år 
+  * och fick mens när hon var 13 år. Söker nu pga riklig vaginal blödning. Har ej debuterat sexuellt. Lisa är frisk och ingen i hennes familj har någon känd hjärtkärlsjukdom.
+  * Troligare orsaken till rikliga hennes mensutrationsblödning och ge förslag på behandling. motivera ditt svar.
+    * Anovulatorisk blödnnig: högre andel i anslutning med att patienten börjar få menarche, hormnella axlarna har inte stabiliserat sig, varpå anovulation kan utvecklas. En förlängd proliferationsfas, för att det inte sker ett påslag LH, varpå ovulation, och start av progesteron frisättningen fr corpus luteum, innan luteolys och progesteron faller bort. Anovulatorisk blödning att pat inte ovulerar, trots att den blött, då proliferation t den grad att endometrieslemhinnan går i nekros och stöts bort. Fortsatt proliferationsfas, förklarar fortsatta blödningar. 
+    * Därför vill behandla med gestagener. 
+    * Cykliskt gestagen
+    * kombinerade p-piller
+    * hormonspiral
+
 
 
 
@@ -624,7 +634,7 @@ cerivicit
 
 ### Dysplasi
 
-<img src="./imgs/gyn_sam_160321_DscfnZFfC5.png" alt="DscfnZFfC5" style="zoom:50%;" />
+
 
 
 
@@ -635,39 +645,64 @@ cerivicit
   * Cytologi ua.Söker i juli 2014 pga illaluktande blodtillblandade flytningar. Bilden och PAD visade invasiv cervix cancer lågdifferentierad, stad 1B1
   * <img src="./imgs/gyn_sam_160321_JM7xKMoIg8.png" alt="JM7xKMoIg8" style="zoom:50%;" />
 * **Vanligaste symptomet vid cellförändringar**: oftast symptomlöst. 
+* **Cecilia 26år** 
+  * har gått på den gynekologiska hälsokontrollen och tagit cellprov från livmodertappen. Cellprovet visade CIN II ( HSIL). Hon kommer nu till dig på gynmottagningen för vidare utredning. Hon är väldigt orolig och undrar om hon har cancer
+  * förklara lättförståeligt vad cellprovet visar: har cellförändringar, CIN2 att mindre än 2/3 av epitelet visar förändring. Förändringen kan i längden leda t utv av cancer in situ och invasiv cancer, därför är det viktigt att man upptäcker förändringarna i tid.
+  * Sensitivitet vid enstaka cellprov upptäcka cellförändringar: ~60%
+  * Symptom vanliga vid CIN3: ofta symptomlöst, men om symptom är det blödning efter samlag. 
 
 
 
 ***Etiologi och patofysiologi***
 
-* **HPV, omogna celler, i metaplastisk område**: HPV når lättast de omogna celler i det metaplastiska området
-* **Sexuellt aktiv**: alla sexuellt aktiva kvinnor löper risk att bli smittade med onkogent HPV
-* **HPV smittar lätt vid sexuella kontakter**
-* **80% sexuellt aktiva kvinnor** ngn gg infek m HPV
-* **HPV kan överföras genitalt**: behövs inte genomfört samlag för att viruset ska överföras
-* **HPV16, HPV18:** infektioner med dessa är rel ovanligt
-  * 70% all cervixcancer
-  * 70% av de prcancerösa o 
-  * 50% av de potentiellt precancerösa cellförändringar i cervix
+* **CIN**: Cervikal intraepitelial neoplasi (CIN) (s971 blueprint)
+  * graden CIN beror på andelen epitel som visar disorganiserad tillväxt + utv
+  * CIN1: förändringar isolerade nedre tredjedelen av epitelet
+  * CIN2: lower 2/3 av epitelet påverkat. 
+  * CIN3: mer än 2/3 epitel påverkat. 
+  * Carcinoma in situ: att det är allt epitel som verkar vara påverkat ovan basalmembranet
+  * Invasiv cancer: när den har brytit sig igenom basalmembranet
+* **Största orsaken till dysplasier**: HPV infektioner
+  * **HPV, omogna celler, i metaplastisk område**: HPV når lättast de omogna celler i det metaplastiska området
+  * **Sexuellt aktiv**: alla sexuellt aktiva kvinnor löper risk att bli smittade med onkogent HPV
+  * **HPV smittar lätt vid sexuella kontakter**
+  * **80% sexuellt aktiva kvinnor** ngn gg infek m HPV
+  * **HPV kan överföras genitalt**: behövs inte genomfört samlag för att viruset ska överföras
+  * **HPV16, HPV18:** infektioner med dessa är rel ovanligt
+    * 70% all cervixcancer
+    * 70% av de prcancerösa o 
+    * 50% av de potentiellt precancerösa cellförändringar i cervix
+*  **Regres**
+  *  HSIL: 32% av dessa går i regresso (om inte det är CIN2 som har 32% regresstakt)
 
 
 
-| <img src="./imgs/gyn_sam_160321_jDkOZ9ay9v.png" alt="jDkOZ9ay9v" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_S3ViuI2udc.png" alt="S3ViuI2udc" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_zDLwSzKvWy.png" alt="zDLwSzKvWy" style="zoom:50%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./imgs/gyn_sam_160321_V4RZt4FVDD.png" alt="V4RZt4FVDD" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_VBhQ4WYPFq.png" alt="VBhQ4WYPFq" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_3ZxhGEm9WV.png" alt="3ZxhGEm9WV" style="zoom:50%;" /> |
-| <img src="./imgs/gyn_sam_160321_ilINTKFO3h.png" alt="ilINTKFO3h" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_kFKFkDo9ne.png" alt="kFKFkDo9ne" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_zEvXMi7yrU.png" alt="zEvXMi7yrU" style="zoom:50%;" /> |
-| <img src="./imgs/gyn_sam_160321_Wpm0QjuHdH.png" alt="Wpm0QjuHdH" style="zoom:50%;" /> |                                                              |                                                              |
+<img src="./imgs/gyn_sam_030421_cT4YLXrPlw.png" alt="cT4YLXrPlw" style="zoom:50%;" />
+
+
 
 
 
 ***Kliniska kännetecken***
+
+* Blödning vid samlag: dock mer sannolikt att det handlar om sjukare vävnad innan man får detta symptom?
+* Dysplasier tenderar att vara symptomfria. 
+
+
+
+***Indelning av dysplasierna och stadieindelningarna***
+
+* Friskt epitel
+* CIN1-3
+* CIS: carcinoma in situ
+* invasiv cancer
 
 
 
 ***Kom ihåg***
 
 * **Dysplasier symptomfria**
-* **Sens av cytologprov är 60%** 
+* **Sensitivitet av cytologprov är 60%** 
 * **25% av alla cx-fall har normal cytologi**
 * **cervixcancer pres med symptom**
 * **ett cytologprov vid utredning kan fördröja**
@@ -693,9 +728,9 @@ cerivicit
 * **Regelbundna**: kontroller behövs för bra screening prestanda
 * **Som avvikelser**: 8% av cellprov visar en avvikelse 2012 (54k prover); baserat på data fr NKCx årsrapport 2013
 * **Cellförändringar**
-  * LSIL 40%
-  * ASCUS 40%
-  * HSIL 16% 
+  * LSIL 40%: low grade squamous intraepithelial lesion
+  * ASCUS 40%: atypical squamous cells.
+  * !!! **HSIL 16%**: High grade squamous intraepithelial lesion:
   * Körtelatypi 4%
 * **Cervixcancer drabbas idag**
   * **HPV infekterade**
@@ -709,7 +744,8 @@ cerivicit
 ***Utredning och handläggning***
 
 * **Screening program...**
-  * 23-50åå kallas vart tredje år t mödravården för att ta ett prov
+  * 23-50åå: vart 3e år;  mödravården för cellprovtagnign + analys för  (cytologi) (pap smear)
+  * 41åå: kompletterande analys för cytologi
   * o kvinnor mellan 50-64åå vart 7e år
   * Syfte cellprovtagning: upptäcka tidg förändringar för att kunna behandla de i tid innan evt cancer 
 * **Utredning på mottagning**
@@ -718,10 +754,6 @@ cerivicit
   * **Bedömning**: vad som orsakar cellatypin; hur evt behandling ska ske; ger allmänt lugnande info
 
 
-
-
-
-<img src="./imgs/gyn_sam_160321_IgFWcjWDZq.png" alt="IgFWcjWDZq" style="zoom:50%;" />
 
 
 
@@ -737,6 +769,28 @@ cerivicit
   * **Laser**
   * **LEEP**: Loop Elektrosurgical Excision
   * **LLETZ**: Large loop excision of the transformation zone (i Storbritannien)
+
+
+
+
+
+<img src="./imgs/gyn_sam_160321_IgFWcjWDZq.png" alt="IgFWcjWDZq" style="zoom:50%;" />
+
+
+
+
+
+
+
+| <img src="./imgs/gyn_sam_160321_jDkOZ9ay9v.png" alt="jDkOZ9ay9v" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_S3ViuI2udc.png" alt="S3ViuI2udc" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_zDLwSzKvWy.png" alt="zDLwSzKvWy" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_sam_160321_V4RZt4FVDD.png" alt="V4RZt4FVDD" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_VBhQ4WYPFq.png" alt="VBhQ4WYPFq" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_3ZxhGEm9WV.png" alt="3ZxhGEm9WV" style="zoom:50%;" /> |
+| <img src="./imgs/gyn_sam_160321_ilINTKFO3h.png" alt="ilINTKFO3h" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_kFKFkDo9ne.png" alt="kFKFkDo9ne" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_zEvXMi7yrU.png" alt="zEvXMi7yrU" style="zoom:50%;" /> |
+| <img src="./imgs/gyn_sam_160321_Wpm0QjuHdH.png" alt="Wpm0QjuHdH" style="zoom:50%;" /> |                                                              |                                                              |
+
+
+
+<img src="./imgs/gyn_sam_160321_DscfnZFfC5.png" alt="DscfnZFfC5" style="zoom:50%;" />
 
 
 
@@ -1765,6 +1819,61 @@ cerivicit
 
 ## Endokrinologi
 
+
+
+### Hormonaxlarna och relationer
+
+#### Thyroida, prolaktin och gonaderna
+
+***TRH***
+
+* **Strukturellt**: tripeptid
+* **Källa**: hypothalamus
+* **Dest**: anterior hypofys
+* **Frisättning v flera hormoner**
+  * TSH
+  * Prolaktin: dock verkar inte som att TRH har en regulatorisk roll på prolaktin enl boulpaep, men andra källor kopplar TRH med prolaktin frisläppning. 
+* **Påverkas av:**
+  * östrgoen och progesteron
+
+<img src="./imgs/gyn_sam_030421_djG1gso8zn.png" alt="djG1gso8zn" style="zoom: 33%;" />
+
+***Prolaktin***
+
+* **Påverkas av**: thyroidea
+
+
+
+***FSH, LH***
+
+
+
+***CRH***
+
+* Påverkas av: Ökhämmad FSH, LH
+
+
+
+***Interplay***
+
+* Potential hormonal mediators of amenorrhea and infertility. 
+* **Ökade CRH nivåer**: Physical, emotional, or nutritional stress may increase CRH levels, 
+  * which suppress GnRH release. 
+* **Cortisol levels ökar**: ökar av STRESS eller Cushing’s syndrome, 
+  * SÄNKER GnRH release
+  * därför SÄNKER LH responsiveness to GnRH. 
+* **Starvation sänker leptin**: results in low leptin levels and increased FGF-21 levels in animal models; 
+  * **SNKER GNRH**: the low leptin levels and increased FGF-21 levels likely suppress GnRH release by decreasing kisspeptin expression. 
+* **prolaktin, TRH och primär hypothyroidism**: In primary hypothyroidism, TRH levels are increased and stimulate prolactin release. 
+  * Hyperprolactinemia SÄNKER GNRH: by decreasing kisspeptin expression, and possibly through a CRH-mediated pathway. 
+* High androgen and progesterone levels may be seen in CAH, and these hormones likely suppress GnRH release. kiss, kisspeptin.
+
+
+
+<img src="./imgs/gyn_sam_030421_9Ec3DaYn9c.png" alt="9Ec3DaYn9c" style="zoom:50%;" />
+
+
+
 ###  HRT-behandling TODO
 
 
@@ -2089,6 +2198,21 @@ cerivicit
   * om gestagentest neg, FSH 77mIU/mL: prematur ovariell svikt
   * om prover normala, gestagentest positivt, fler hormonprover: testosteron, SHBG för att bedöma PCOS
   * Kommentarer: iom ingen mens = hypogonadism. Frågan blir vilken typ av hypogonadism vad gäller gonadotropin (hög, normal, låg)
+* Ida är 19 år 
+  * och har inte haft mens på 16 månader. hon är 167 cm lång och väger 46 kilo. Hon har inte debuterat sexuellt. Du kan snart konstatera att det föreligger en ätstörning hos Ida, och efter utredning planerar du kontakt med dietist.
+  * Tagit en del hormonprover, hur förväntarprovresultaten se ut: 
+    * lågt FSH/LH (hypogonadotrop hypogonadism)
+    * lågt östrogen, progesteron
+    * ACTH ökar, CRH ökar, kortisol ökar
+    * TSH, fT4
+* Vid amenorre 
+  * görs en utredning för att bestämma på vilken nivå störningen ligger. Förklara hur gonadotropinnivåerna förändras vid en störning på. ovariell nivå. 
+  * Ge också ett exempel på ett tillstånd på ovariell nivå som kan medföra amenorre.
+    * POI: FSH stegrat (över 40); detta är ett hypergonadotrop hypogonadism
+  * Hypofys/hypothalamus, tillstånd som medför amenorre:
+    * ätstörningar, mkt fysisk aktivitet
+    * hypothalamisk amenorre: minskad pulsatil GnRH frisättning, adrenala axeln överaktiverad, mkt kortisol, CRH, ACTH etc, som i sin tur hämmar mer av GnRH, varpå minskad FSH och Östrogen. minskar också därför TSH och thyroidea. slutändan ger anovulation, amenorre. Dåligt nutritionsstatus påverkar osså IGF1 som påverkar GnRH frisättningen (IGF stimmar GnRH)
+
 
 
 
@@ -2224,7 +2348,7 @@ cerivicit
 
 
 
-#### Amenorre - hypothalamisk
+##### hypothalamisk
 
 ***Etiologi och patofysiologi***
 
@@ -2233,13 +2357,19 @@ cerivicit
   * ökad aktivitet adrenala axeln
   * medierat via CRH (corticotropin releasin hormone): som hämmar GnRH sekretion
 * **brist Östrogen, Progesteron**
-  * TSH sjunker osså, varpå T4 sjunker
+* !!! **TSH sjunker osså**, varpå T4 sjunker
 * **Anovulation**
 * **Amenorre**
 
 
 
 <img src="./imgs/gyn_sam_270321_xmYmq6SUpb.png" alt="xmYmq6SUpb" style="zoom:50%;" />
+
+
+
+***Epidemiologi***
+
+* hypothalamisk amenorre, vanligaste orsaken till sekundär och primär amenorre hos unga. 
 
 
 
@@ -3496,10 +3626,21 @@ cerivicit
 
 ***Presentation***
 
-* Vera 
+* !! Vera g v13, TODO
   * kommer till dig i graviditetsvecka 13 på mödravårdscentralen. Hon har en lättare psoriasis och hade en djup ventrombos i 20-årsåldern i samband med p-piller. Normal graviditet
   * ngt spec du ska göra: initiera trombosprofy, alt remittera specialist-MVC för detta
   * prover: trombosutredning
+* !! Lotta g v10,  TODO
+  * och kommer till specialistmödravård. Hon har haft en djup ventrombos i samband med P-piller behandling. I anamnesen ses ej andra nuvarande riskfaktorer. 
+  * vad planerar du inför denna graviditet?
+    * initiera trombosprofylax mtp tidg trombos
+    * alt remittera spec-MVC för ställningstagande
+    * Utredningsmässigt:
+      * TPK, PKINR, APTT, 
+      * TPK kontrolleras 2v efter insättning också
+    * ökad blödningsrisk vid denna behandling
+  * Vilken vanlig åtgärd vid förlossning kräver särskild planering mtp detta: , TODO
+    * EDA insättning och dosering?
 
 
 
@@ -3976,7 +4117,8 @@ cerivicit
   * har alltid haft smärtsam mens. Nu har det blivit värre och hon använder ipren, men det gör ändå så pass ont att hon måste va hemma från skolan. hon har en pojkvän men de har svårt att ha sex för det gör så ont vid samlag. kondom används som preventivmedel. Vid US undersökning ser allt fint ut vid inspektion, ingen ömhet i vulva eller vagina, däremor ömmar det kraftigt vid bimanuel palpation ffa på uterus baksida.
   * diagnos: endometrios
   * fastställa diagnos: laparoskopiskt är enda definitiva diagnos och gold standard; bilddiagnostiskt med UL, MR förekommer; testbehandling förekommer också 
-* Maria 29 år gammal inkommer till gynakuten pga buksmärtor. arbetar som förskollärare. Ensamstående. alelrgisk mot pollen. för övrigt frisk. menarke 13 års ålder. regelbunda menser. använt p-piller en period utan problem dock ej nu när hon inte har en fast pojkvän. 0-grav. Laparaskopi pga buksmärtor för 3 år sedan. Ingetpatologiskt. fick ingen förklaring till smärtorna. Vaknade i dag klockan 7.05. pga smärtor i nedre delen av buken,mest på höger sida. Under dagen  litet illamående, inte haft lust att äta. Inga kräkningar. inga miktionsbesvär. SM började idag och kom på rätt tid. smärtorna har blivit något bättre men finns fortfarnade kvar. svårt att sitta. LÄtt smärtpåverkad. TEmp 37,0. Buk: mjuk ingen defenese, ömmar både höger o vänster fossa mest åt höger. Pågående måttlig mensblödning. Uterus normalstor rörlig, lätt ömmande till höger något mindre till vänster. Uterusnormalstor slemhinna 3mm. båda ovarierna ses normala. Ökad mängd vätska i buken. CRP 20, Hb 98, urinsticka visar blod. Grav test negativt. 
+* Maria 29 år 
+  * gammal inkommer till gynakuten pga buksmärtor. arbetar som förskollärare. Ensamstående. alelrgisk mot pollen. för övrigt frisk. menarke 13 års ålder. regelbunda menser. använt p-piller en period utan problem dock ej nu när hon inte har en fast pojkvän. 0-grav. Laparaskopi pga buksmärtor för 3 år sedan. Ingetpatologiskt. fick ingen förklaring till smärtorna. Vaknade i dag klockan 7.05. pga smärtor i nedre delen av buken,mest på höger sida. Under dagen  litet illamående, inte haft lust att äta. Inga kräkningar. inga miktionsbesvär. SM började idag och kom på rätt tid. smärtorna har blivit något bättre men finns fortfarnade kvar. svårt att sitta. LÄtt smärtpåverkad. TEmp 37,0. Buk: mjuk ingen defenese, ömmar både höger o vänster fossa mest åt höger. Pågående måttlig mensblödning. Uterus normalstor rörlig, lätt ömmande till höger något mindre till vänster. Uterusnormalstor slemhinna 3mm. båda ovarierna ses normala. Ökad mängd vätska i buken. CRP 20, Hb 98, urinsticka visar blod. Grav test negativt. 
   * vilken diagnos är mest trolig? Motivera svaret? Endometrios; laparoskoperad sen tidigare, p-piller bättre, dysmenorre (oförklarligt detta med ensidig smärta dock, att det kan vara endometrios som spridit sig till andra delar i bukhålan). Har mens. kan diffa X-grav (men neg grav-test), appendicit och ovarialtorsion men inget på UL som antyder d, hade bara en massa vätska i FD, kan vara endometros i bukhålan etc. 
   * Handlägger fallet: enl abe inläggning, smärtlindring (HUR, TODO), observation, vidare utredning med MR (DT-buk ser man inget i nedre bukhålan..)
 
@@ -4096,6 +4238,8 @@ cerivicit
   * // DT har ingen plats i diagnostiken
   * **Laparoskopi**: slutsatsen är att man ej hoppar på laparoskopi direkt, men detta är det enda sättet att defintivt få svar på om det handlar om en endometros. 
     * **(endast?) vid terapisvikt hormonell beh**: trots adekvat hormonbeh och smärtbeh
+      * detta när man testat steg1 och steg2 (alltså innan man testat GnRH analog, som innebär att man sätter kvinnan i en syntetisk menopaus)
+      * // Notera att man måste ha prövat
     * **vid infiltrativt växande endometrios**
     * **vid oklar diagnos**
     * **hittas endometrios, see and treat, avlägsna lesioner:** bör alla lesioner avlägsnas, px skickas för PAD
@@ -5519,10 +5663,6 @@ cerivicit
 
 ### Antifosfolipidsyndrom
 
-
-
-
-
 ### VTE
 
 ***Epidemiologi***
@@ -5574,12 +5714,6 @@ cerivicit
 
 
 
-
-
-
-
-
-
 ## Fertilitet
 
 ### Abort
@@ -5588,12 +5722,12 @@ cerivicit
 
 ***Presentation***
 
-* **Eva, 16 år,** 
+* **Eva, 16år,** 
   * söker på abortmottagningen tillsammans med pojkvännen Adam. Hon hade senaste mens för 6 veckor sedan. På ungdomsmottagningen har man tagit graviditetstest och klamydiatest, båda var positiva. Eva och Adam, som just fyllt 18 år, har praktiserat avbrutet samlag de senaste månaderna. I början använde de kondom. Eva önskar nu genomgå abort.
   * **ytterligare uppgifter vilka prover innan abort**: kroniska sjd, mediciner, allergier, tid grav, tid gyn sjd, gyn yndersök inkl UL infek, gravlängd, normal grav, se t att klamydiainfek behandlad disk preventivmedel
   * **beh alternativ**: medicinsk abort eller kirurgisk abort
   * **vill ej få berättat för päron**: har rätt t abort enl abortlagen. Dock inte ålder för integritetsskydd fr päron, bör överväga informera. Men kan finnas skyldighet att henmlighålla uppgifter om henne enl 14 kap 4 sekretesslagen. Om det kan antas hon lider betydande om uppgifter delges vårdnadshavare. Socialnämnd anmälan ska också övervägas.
-* **Emilie 17 år,** 
+* **Emilie 17år,** 
   * inkommer till akutmottagningen 1,5 dygn efter en kirurgisk abort i v 12. Hon har buksmärtor, och måttlig vaginal blödning. Temp 38 grader. Vid den gynekologiska undersökningen palperas uterus drygt normalstor o ömmande
   * Diagnoser överväga i första hand, minst 2
     * Endometrit
@@ -5601,6 +5735,9 @@ cerivicit
     * abortresetr
   * **Handläggning**
     * IL, CRP, LPK, Hb, möjligen Ab eller re-exeres eller cytotec (om rester), möjligen laparoskop
+* **Maria är 16år**
+  * och oönskat gravid. Hon kommer till din mottagning och vill ha hjälp med abort. Ultraljudsundersökning visar ett foster med graviditeteslängd 19v och 6 dagar 
+  * Redogör för den svenska abortlagen och vad den innebär för Maria? kvinna tom v18 helt frivillig abort och HSL ska oblige. efter detta fordras tillstånd fr socialstyrenslen rättsliga råd + synnerliga skäl föreligger. remiss kurator + läkarutlåtande bifogas kvinnas abortönskan -> socialstyrelsen
 
 
 
@@ -5614,6 +5751,16 @@ cerivicit
   * cervix kommer att relaxera också
   * fostret kommer att stötats bort
 * **Prostaglandinerna**: kontraktionerna ökar i uterus. 
+
+
+
+***Abortlagen***
+
+* **->v18**: fri abrort, pat fattar beslut sj. dvs tom v18 + 0
+* **v18+1-v22 (enl praxis och inte lagen)**: särskilt tillstånd från socialstyrelsen
+  * kräver kuratorkontakt + läkarutlåtande + abortönskan -> skickas till socialstyrelsen för bedömning och beslut. 
+* **Specifikt säger abortlagen, ingen direkt övre gräns**: after 18e veckan måste fostret vara icke livsdugligt för att kunna aborteras. Allstå ingen övre gräns. 
+* **Andra indikationer till abort efter **
 
 
 
@@ -6089,7 +6236,7 @@ cerivicit
 
 
 
-***Latensfas***
+#### ***Latensfas***
 
 * **!!! <u>Före aktiv förlossning</u>**
 * **Värkarna har börjat, men**
@@ -6104,7 +6251,7 @@ cerivicit
 
 
 
-***Aktiv förlossning***
+#### ***Aktiv förlossning***
 
 * normal förlossning: dilat livmoderhals, fostret huve trägnger ned.
 * normal hastighet öppning under aktiv fas = 1cm/h
@@ -6117,7 +6264,7 @@ cerivicit
 
 
 
-***Öppningsskedet - Stage 1***
+#### ***Öppningsskedet - Stage 1***
 
 * **Cervixdilatation**, i cm
 * **Regelbundna värkar** 2-5/10min, duration 30-90sek
@@ -6126,7 +6273,7 @@ cerivicit
 
 
 
-***Vattenavgång***
+#### ***Vattenavgång***
 
 * **Hinnbristning med vattenavgång**: aktiv process
 * **Degeneration hinnor**: området inre modermunnen
@@ -6150,7 +6297,7 @@ cerivicit
 
 
 
-***Utdrivningsskedet - Stage 2***
+#### ***Utdrivningsskedet - Stage 2***
 
 * **Fullvidgad cervix (retraherad) t barnet är fött:** inga palpabla kanter av cervix
 * **Två faser**
@@ -6163,7 +6310,7 @@ cerivicit
 
 
 
-***Efterbördesskedet - Stage 3***
+#### ***Efterbördesskedet - Stage 3***
 
 * Fr barnets födelse t placenta kommit ut
 * ca 8-10min
@@ -6171,7 +6318,7 @@ cerivicit
 
 
 
-***Puerperium***
+#### ***Puerperium***
 
 * **tidsintervall**: 2h t 6-8v efter födsel
 * **kliniska kännetecken**: avslag, eftervärkar, urinbesvär, smärtor, amning, känslomässiga reaktiober
@@ -6223,6 +6370,20 @@ cerivicit
   * värkarnas styrka
   * barnets storlek
   * mammans bäcken
+* !! Elin 32 år 
+  * och II-gravida, 0-para och hennes man Per kommer en kall och snöig novemeberkväll till förlossningsavdelningen på danderyd sjukhus. elin har haft ne nomral graviidtet, är 39 veckor gravid o har samandragningar sedan 2 dygn tillbaka. Hon har inte sovit senaste dyget. CTG normal visar 3 sammandragningar per 10 minuter. Du känner på cervix som är sakralriktad, bibehållen i längd till 75% medelmjuk i konsistensen och inre modermunnen är öppen för ett finger. Fostrets huvud står välinställt o fixerat i bäckeningången. Vattnet har inte gått.
+  *  vilket skede av förlossningen är elin? Öppnignsfasen
+  * definitionen aktiv förlossning: 
+    * 2 av 3
+    * 1 smärtsamma kontraktioner, regelbundna 2-3/10min
+    * 2 vattnet har gått
+    * 3 cervix >=5cm
+  * Hur handlägger du förloppet: enl abe CTG + BARD
+  * Timmarna går och Elin får allt mer ont. Cervix är nu utplånad och öppen 6cm. för 2 timmar sedan var cervix öppen 4 cm. Vattnet har gått. Elin har använt lustgas, sterila kvaddlar o TENS som smärtlindring. Elin känner dock att hon behöver effektivare smärtlindring.
+  * Ange 2 ytterligare smärtlindring och ange kortfattat deras verkningsmekanismer?
+    * EDA: ländryggen, buprenorfin, bedöva nervtråarna i samma nivå och lägre i epiduralrummet, (baricity of the anesthetic) 
+    * PBD (bäckenbottenbedövning): TODO
+    * PDB pudendus blockad
 
 
 
@@ -6443,9 +6604,22 @@ cerivicit
     * Yttre press 
     * Övertala Annika att fortsätta vaginal förlossning med ökat oxytocindropp eftersom barnet mår bra. 
     * Tång: vertex är inte nedom spinae
-* Helene, en frisk 33-åring, är gravid i vecka 39 i sin första graviditet. hon kommer till förlossningsavdelningen en förmiddag pga att hon under det senaste dygnet inte observerat fosterrörelser. Graviditeten har hittils varit helt normal. Du tar emot henne påförlossningsintaget.
+* **33-åring kvinna helene**
+  * , är gravid i vecka 39 i sin första graviditet. hon kommer till förlossningsavdelningen en förmiddag pga att hon under det senaste dygnet inte observerat fosterrörelser. Graviditeten har hittils varit helt normal. Du tar emot henne påförlossningsintaget.
   * Ange två undersökningsmetoder som kan vara till god hjälp för att snabba klara ut om fostret lever eller inte!
   * CTG + UL
+* !! **Elin 32år, TODO,** 
+  * och II-gravida, 0-para och hennes man Per kommer en kall och snöig novemeberkväll till förlossningsavdelningen på danderyd sjukhus. elin har haft ne nomral graviidtet, är 39 veckor gravid o har samandragningar sedan 2 dygn tillbaka. Hon har inte sovit senaste dyget. CTG normal visar 3 sammandragningar per 10 minuter. Du känner på cervix som är sakralriktad, bibehållen i längd till 75% medelmjuk i konsistensen och inre modermunnen är öppen för ett finger. Fostrets huvud står välinställt o fixerat i bäckeningången. Vattnet har inte gått.
+  * I vilket skede av förlossningen är elin? öppningsfasen (regelbundnavärkar, öppen 1cm etc.)
+  * Timmarna går och Elin får allt mer ont. Cervix är nu utplånad och öppen 6cm. för 2 timmar sedan var cervix öppen 4 cm. Vattnet har gått. Elin har använt lustgas, sterila kvaddlar o TENS som smärtlindring. Elin känner dock att hon behöver effektivare smärtlindring.
+  * Elin får adekvat smärtlindring. Hon känner sig nu piggare och kan vila. Efter ytterligare 3 timmar så är cervixfortfarande öppen 6cm. Elin har 2 värkar per 10 minuder.
+  * E) vilken komplikation har Elin fått? 
+    * värksvaghet, enl abe dagsläget kräver 4timmar cervix inte öppnar sig för utebliven progress
+  * F) Vilket läkemedel rekommenderar du, hur verkar denna substans och vilken huvusaklig risk finns det med detta LM i denna situation?
+    * oxytocindropp, värkstimulerande dropp
+    * risk överdosering, ger för mkt, fosterasfyxi pga överaktivt värkarbete
+  * Elins förlossning fortskrider igen. CTG regisreras kotninuerligt. Basalfrekvensen har sedan ett ar timmar stigit från 140 till 170. variabiliteten nedsatt sen en timme. Elin ingen feber. Du beslutar att ta ett skalpprov och laktat visar ett förhöjt värde. Du inser att du måste avsluta förlossningen. Cervix är nu retraherad och fosterhuvudet är slutroterat och står strax ovan bäckenbotten.
+    * akut kejsarsnitt, vertex ovan spinae. 
 
 
 
@@ -7336,6 +7510,28 @@ cerivicit
 * 
 
 
+### Könsstympning
+***Presentation***
+
+* Amira 
+  * kommer från ursprungligen från Somalia och är omskuren typ 3 Enl WHO. Hon kommer nu till din specialist MVC i graviditetesvecka 20.
+  * Hon har hört att det är ökad risk för hjärnblödning om mamman är omskuren. Vad svarar du?
+    * abe: förlosssningskomplikationer t könsstympning: förlängd förlossning; ökad risk postpartum blödning; ökad risk förlossningssskador eller vid instrumentell förlossning; ökad risk för ruptur och blödning
+  * Amira föder sedermera en dotter, samira via vaginal förlossning , Beskriv vad som oftast händer i dessa familjer efter migration till Sverige beträffande traditionen av könsstympning av flickor:
+    * olagligt att könsstympa i Sverige. HSL tillhandahåller ej detta. 
+    * ingrepp kvinnliga yttre könsorgan syfte stympa eller bestående förändringar, får inte utföras, oavsett samtycke
+    * den som bryter mfår fängelse högst 4år
+    * söker sig privata aktörer eller hemlandet. men får ej utföras i Sverige. 
+
+
+
+***Förlossningskomplikationer***
+
+* Förlängd förlossning
+* ökad risk postpartum blödning
+* ökad risk förlossningsskador eller ökad risk efter instrumentell förlossning
+
+
 
 ### Placentarel
 
@@ -8136,7 +8332,7 @@ cerivicit
 ***Definition***
 
 * **Sverige**: oförmåga gravid 1år av oskyddat samlag. 
-* **WHO definierar**: ofrivilligt barnalöshet 2år av oskyddat samlag
+* **WHO definierar**: ofrivilligt barnalöshet 2år av oskyddat samlag.
   * också infertilitet om man inte lyckas föda levande barn enl WHO. 
 * **Skillnad sterilitet:** absolut oförmåga att levande barn. 
 

@@ -1070,6 +1070,38 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Gynekomasti
+
+***Presentation***
+
+* **15-year-old healthy boy**
+  * presents for a routine health maintenance visit. On examination, you note bilateral breast enlargement and sexual maturity rating 3 (Tanner stage) pubertal development. The remainder of the examination is unremarkable. Which of the following is  the most appropriate next step in management?
+    * Order no tests and provide reassurance that the condition will resolve spontaneously.
+
+
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+* Gynekomast + under pubertet + verkar vara normal utveckling: ingen vidare utredning eller handläggning, utan man exspekterar
+  * det är normalt med gynekomasti under puberteten, så det gör inget.
+* Persisterande gynekomasti: att det har pågått ett tag etc, förutsatt att barnet inte är överviktig etc, kan man överväga kirurgi för att ta bort vävnaden. 
+
+
+
+***Behandling***
+
+
+
+
+
+
+
 ## Farmakologi
 
 ### Intoxikation

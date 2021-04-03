@@ -250,11 +250,23 @@ cerivicit
 - **Kirurgisk behandling**: 
   - **TVT-behandling**: slynga sätts runt uretra (efterliknar funktionen hos peruretral ligamentet? TODO)
 
+
+
 #### Blandinkontinens
+
+
 
 #### Trängningsinkontinens
 
 ***Presentation***
+
+* **Gunilla 47år** 
+  * kommer till dyn gynekologmottagning och säger att hon har svårt att hålla urinen tätt. Ofta läcker hon urin när hon nästan kommit hem ( Står o försöker hitta rätt nyckl till lägenheten). Gunilla är 165cm och väger 69kg. Hon har fött 3 barn vaginalt och genomgått kejsarsnitt. Hon promenerar till o från jobbet och då är det inga problem att hålla urinen tätt. Du inser att du bör göra en utredning av Gunillas besvär. Det låter som överaktiv blåsa tycker du. 
+  * **Vad ingår i utredningen för att du ska kunna ställa diagnos**? Vilka diff.diagnoser måste du överväga? motivera ditt svar?
+    * **basalutredning + tilläggsutredning**
+    * **uppmärksamhet mot bakomliggande orsak**: infektion; malignitet; neurologisk sjd; polyuri; polydipsi
+
+
 
 ***Etiologi och patofysiologi***
 
@@ -264,11 +276,43 @@ cerivicit
 
 ***Utredning och handläggning***
 
+* Anamnes
+  * UVI
+  * tumör i lilla bäckenet
+  * neurologisk sjd
+  * framfall
+  * bristfällig blåstömning
+* Buk + gynundersökning
+* Residualurinvolym
+* urinmätning, miktionsdagbok
+* urinläckagemätning
+* tidsmiktion
+* man kan även göra cytometri för att se om detrusor muskeln överaktiv. 
+* cystoskopi 
+* UL
+* urografi eller DT-urografi
+
+
+
 ***Behandling***
 
+* För en idiopatisk trängningsinkontinens
+  * Blåsträning och bäckenbottenträning (gärna med hjälp av uroterapeut). 
+  * Vaginal östrogenbehandling (postmenopausalt). 
+  * Urinuppsamlande hjälpmedel (initialt endast i avvaktan på behandlingsresultat). 
+  * Minskning av överdrivet vätskeintag. 
+  * Justering av eventuella diuretika. 
+  * Behandling av samtidig obstipation (ffa hos äldre).
+* Farmakologiskt: 
+  * antikolinergika (tolteridin, fesoterodin, detrusitol)
+  * beta3agonist: betmiga; om det föreligger kontraindikation för antikolinergika
+  * antidiuretiskt hormon: desmopressin
+* Kirurgiskt
+  * Elektrisk stimulering PTNS (perkutan tibialis nervstimulering): placeras i 
 
 
-#### urgeinkontinens
+
+#### Urgeinkontinens
 
 
 
@@ -447,9 +491,30 @@ cerivicit
 * **Cykliskt gestagen**: 3-6månader
 * **Kombinerade p-piller**
 
+
+
+### RMB riklig mensblödning
+
+
+
+***Behandling***
+
+* Hormonspiral: denna verkar ha bäst effekt för att minska blödningarna. 
+
 ## Cancer
 
 ### Allmänt
+
+
+
+***Presentation***
+
+* Ange några kliniska karakteristisak som gör att du bör misstänka en ärftlig cancer.
+* Vilket nedärvsningsmönster är vanligast?
+  * anamnes på att syskon eller moder bröst eller ovariecancer och andra när
+* Varför viktigat att känna igen dessa patienter?
+
+
 
 ***Epidemiologi***
 
@@ -650,6 +715,11 @@ cerivicit
   * förklara lättförståeligt vad cellprovet visar: har cellförändringar, CIN2 att mindre än 2/3 av epitelet visar förändring. Förändringen kan i längden leda t utv av cancer in situ och invasiv cancer, därför är det viktigt att man upptäcker förändringarna i tid.
   * Sensitivitet vid enstaka cellprov upptäcka cellförändringar: ~60%
   * Symptom vanliga vid CIN3: ofta symptomlöst, men om symptom är det blödning efter samlag. 
+* **Beata är 32år**, TODO
+  * och har fått svar från gynekologiska hälsokontrollen att hon har lätta cellförändringar och att det finns högrisk HPV i hennes prov. 
+  * Förklara vad högrisk HPV är, vilken betydelse det kan ha oc hur du ska gå vidare med att utreda Beata.
+    * HPV virus varianter som har en högre propensitet för att inducera cellförändringar och neoplasiering (inflammatorisk process etc)
+    * utredningsmässigt kolposkopi med riktade biopsier. 
 
 
 
@@ -1299,6 +1369,10 @@ cerivicit
     * ciklokapron
     * fertilitetsbevarnde kirurgi (om man attribuerat rikliga blödningar till hennes myom)
   * **normal onormal blödningsmängd**: medel 40mL, normalt mellan 20-80mL. Över 80mL är riklig mens och ska undersökas + få järn consistently
+* Rosa är 42 år
+  *  och remitteras från husläkaren pga rikliga vaginala blödningar. Hon har egentligen alltid haft riklig mens. Rosa har blivit tröttare på senare tid. Man har på vårdcentralen konstaterat att hon har en mikrocytär anemi oc hon är insatt på järn-tabletter. Rosa blöder regelbundet, har fött 2 barn och har nu en kopparspiral sedan sista barnets födelse för 3 år sedan. Status: AT gott BMI 27. BLt normal Buk mjuk oöm. Gyn, Status: VVP ua spiraltrådar, uterus förstorad motsvarande 10-12 gravevckor, fast hård i konsistensen Vaginalt ultraljud visar en uterus som är generellt förstorad med flera intramurala myom. Det största myomet är 3cm.
+  * Skriv en kortfattad bedömning för Rosa som ska innehålla sannolik diagnos, åtgärd och förslag på behandling på kort och lång sikt. Skriv på det sätt som du skulle skriva i journaltext. Motivera ditt svar.
+    * 42åå kvinna inremitterad pga rikliga vaginala blödningar i samband med mens och mikrocytär anemi, insatt järntabletter. 2 gravida 2 para, nu kopparspiral, sedan 3 år sedna. Statusmässigt oanmärningsvärt, utöver gynekoloiskt status med forstprad uterus motsvarande 10-12gravveckor, fat konsistens. Vaginalt UL visar flera intramurala myom, uterus förstorat, största myomet på 3cm. Myomen förklarar de rikliga vaginala blödningarna. Således byte av kopparspiral som kan attenuera blödningarna mot kombinerade hormonell prevention, då myomen kan ha
 
 
 
@@ -1412,8 +1486,8 @@ cerivicit
 
 * **radikalt eller uterussparande**
 * **farmakologiskt:** 
-  * **GNRH analog minskar myometriets volym**
-  * **hormonspiral**: minskar ej myometriet men kan minska blödningsbesvären specifikt
+  * !!! **GNRH analog minskar myometriets volym**
+  * !!! **hormonspiral**: minskar ej myometriet men kan minska blödningsbesvären specifikt
   * **esyma**: selektiv prostaglandin; denna är avskriven, den har gett leversvikt hos vissa patienter, så ej denna längre
 * **kirurgiskt**
   * hysterektomi
@@ -2032,7 +2106,7 @@ cerivicit
   * flesta försvinner apoptos
   * vissa ombildas primära oocyuter
   * ogmges enkelt lager epitel: = follikelceller
-  * primordialfollikel = oocyut + omgivande follikeceller
+  * primordialfollikel = oocyt + omgivande follikeceller
   * denna tidpunkt, v20..? första meiotiska celldelnig, som stannar i sen profas
   * återuptpas strax före ovulation: kan ligga i sen profas i 45-50 år vissa av oocyterna.
   * födsel, kvarstår 1M oocyter
@@ -2087,8 +2161,6 @@ cerivicit
 
 
 <img src="./imgs/gyn_sam_210321_rUbjgPbjjF.png" alt="rUbjgPbjjF" style="zoom:50%;" />
-
-
 
 
 
@@ -2182,6 +2254,8 @@ cerivicit
   * **UL ovarier**: dominant follikel 20-25mm
   * **Progesteronnivå:** 21-23d, corpus luteuminfektion
   * **LH-nivå**: ovulation ca 10h <u>**efter**</u> LH-peak
+
+
 
 #### Amenorré
 
@@ -3125,7 +3199,7 @@ cerivicit
   * MVC
   * och väntar sitt första barn i vecka 26. Hon besväras av trötthet. Hennes Hb är 101 och hon använder ingen behandling. Vilken är den vanligaste orsaken till anemi under graviditet? (1p)
     * järnbrist
-* 27åå kvinna, TODO
+* **27åå kvinna, TODO**
   *  som söker asyl och nyligen kommit från Syrien. Hon väntar sitt första första barn. Du möter henne på MVC. Hon är i vecka 26 och barnmorskan undrar hur hon skall hantera ett Hb på 112. Vid nästa kontroll ca 3 veckor det sjunkit till 104. (4p)
   * Resonera runt de två värdena och hur man skall tänka beträffande utredning:
     * Hb 112 v26 != anemi
@@ -7885,7 +7959,23 @@ cerivicit
 
 
 
-### Gestagena metoder
+### Fertilitetsrelaterade hormon
+
+#### Progesteron
+
+***Funktion***
+
+* Progesteronets funktion i hormoncykeln är att förhindar utsötning av en eventuell implantation av endoemtriet med ett embryo
+* Relaxerar uterus
+* Sekretionsfas i endometriet (eller snarare decidua) för att främja implantation och tillväxt av ett foster och placenta. 
+
+
+
+
+
+### Hormoner
+
+
 
 #### Gestagen
 
@@ -7936,7 +8026,7 @@ cerivicit
 
 
 
-#### Systemiska lågdoserad gestagen
+#### Lågdoserad gestagen
 
 ***Etiologi och patofysiologi***
 
@@ -7988,33 +8078,6 @@ cerivicit
 
 #### mellandoserade gestagena metoder
 
-***Etiologi och patofysiologi***
-
-* **ovulationshämmande**: 
-
-
-
-***Epidemiologi***
-
-* God säkerhet vid compliance
-* hög nöjdhet
-
-
-
-***Behaandling***
-
-* **kortverkande: p-piller**
-  * varje dag, 12h glömskemarginal
-* **långverkande: implantat**
-  * **sverige för 3 år: naxplanon**, armen lokalbedövning
-  * **världen även 5år: jadelle**, 2 stavar i armen lokalbedövning
-
-
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_BzJ3CPchbx.png" alt="BzJ3CPchbx" style="zoom:50%;" />
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_NGnCXKA73T.png" alt="NGnCXKA73T" style="zoom:50%;" />
-
 
 
 #### Högdoserade gestagena metoder
@@ -8047,66 +8110,6 @@ cerivicit
 
 
 
-
-
-
-
-### Hormonspiral
-
-***Presentation***
-
-* **vf ett av de mest effektiva preventivmedlen**	
-  * maximal hämning endometrietillväxt
-  * inget användarfel
-
-
-
-***Hormonspiral*** (diffa mot kopparspiral)
-
-* **!!! Levonorgestrel**: utsöndras lokalt i endometriet; endometiret blir ***tunt***
-* **Mirena**: 
-  * 25-40% av kvinnor blir amenorroiska (dosberoende) med jaydess ca 10% i studier, 
-  * kyleena 17%
-
-
-
-***Etiologi och patofysiologi***
-
-* **levonorgestrel effekter**
-* **cervixsekret**: segt, ogenomträngligt
-* **hämmar spermiemotilitet**: levonorgestrel hämmar spermiemotiliteten
-* **minskad blödningsmängd**: med upp t 90%
-* **EJ ovulationshämmande som regel**
-* enl abbe: endometrie tunnare
-
-
-
-***Epidemiologi***
-
-* **!!! lika säker som sterilisering!**
-* **högst andel nöjda användare av alla preventivmedel**
-* Bra för kvinnor med hög risk för grav
-* **ÖKar INTE risk för ektopsik grav**: av de som blir gravida är andelen ektopiska grav högre jmf med om inget preventivmedel
-* ***Infek vid spiral***: ovanligt, liten ökad risk upp t 3v efter insättning
-  * tskf Davon shield fr 60-talet
-
-
-
-***Handläggning***
-
-* ***Vid evt graviditet***: OMGÅENDE dra hormonspiralen
-  * ***Utesluta ektopisk graviditet***
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_Hj9UD7fMoH.png" alt="Hj9UD7fMoH" style="zoom:50%;" />
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_4Ckb9eqdpA.png" alt="4Ckb9eqdpA" style="zoom:50%;" />
-
-
-
-
-
-### Hormoner
-
 #### Östrogen
 
 ***Etiologi och patofysiologi***
@@ -8127,7 +8130,7 @@ cerivicit
 
 
 
-#### Hormonernas roll i p-piller
+#### Hormoner
 
 
 
@@ -8162,8 +8165,8 @@ cerivicit
 ***Östrogen***
 
 * **Mekanism**
-  * ökar konc av progesteronreceptorer
-  * hämmar FSH-frisättning
+  * **ökar konc av progesteronreceptorer**
+  * **hämmar FSH-frisättning**
   * ***SHBG resultat***: att den kan öka SHBG koncentrationen, sex hormone binding globulin
 * **Resultat**
   * bidrar t bättre blödningskontroll
@@ -8510,24 +8513,66 @@ cerivicit
     * p-stav el hormonspiral, ökar ej risk för tromboser (ena e mellangestagen som ej påverkar trombos, o andra e lokalt verkande)
     * kopparspiral o mini-P funkar
     * kan efterfråga anamnestiskt det patienten vill ha: framtidsplaner, grav när, perma skydd, blöda, 
+* **25åå kvinna**
+  * utvecklar bäckenvenstrombso på kombinerade p-piller
+  * blir en absolut kontraindikation för kombinerade p-piller i all framtid
+  * får enbart nu gestagena preparat, står på hormonspiral
 
 
 
+***Etiologi och patofysiologi***
+
+* **Absoluta risken**: den ökar för var år; alltså ökar grundrisken
+  * blir tjockare och tjockare
+  * progressivt bättre på att hitta VTE för varje studie
+* **p-piller**: Riskökning VTE med 2-6ggr, eller 1-20/10k; 0.1-2/1k
+* **Uppehåll ÖKAR risken**: varje gång man slutar och börjar ökar risken för trombos. Man måste ställa in sig och hålla sig där för att få minskad risk för trombos. 
+* **Gestagena metoder påverkar INTE risken för tromboser**
+  * !! man tar ej ut P-STAV på kvinnor som har fått tromboser
+* **Graviditet är väldigt trombogent**: kom ihåg att man försöker förhindra en graviditet, och det är grav som är väldigt trombogent jämförligen
+  * VTE hos 12:10k gravida
+  * Högre risk för trombos v12 än v3
+  * Högre risk för trmbos v6 än v4
+  * !! flesta aborter görs i v5-6, därför har man passerat risken för p-piller, så det är bättre att äta p-piller och UNDVIKA abort vad gäller trombosrisken
+* HÖGST RISK första tre månaderna vid p-pillers användning för trombosrisk: sedan faller risken
 
 
 
+***Rekommendationer vad gäller trombos och preventivmedel***
+
+* Läkemedelsverket vill att man ska använda kombinerade preparat som innehåller levonorgestrel
+* man ska dock beakta pat nöjdhet, önskemål etc
+* slutsats att skillnaderna vad gäller trombosrisk är så pass små att det gör ingen skillnad... att det är bättre än att vara gravid och göra abort. 
+
+
+
+***Vid utvecklad VTE***
+
+* ABSOLUT kontraindikation för fortsatt användnign av kombinerade preparat
+* istället övrgå till gestagena preparat!
 
 
 
 ### Kombinerade metoder
 
-***Etiologi och patiofysiologi***
+***Funktion***
 
-* Innehåller
-  * östrogen
-  * gestagen
+* Innehåller östrogen + gestagen
+* Östrogenet agerar har en synergistisk effekt på progesteronet
+  * progesteronreceptorer och östrogenreceptorer Ökar endometriet 
+    * !! bidrar t bättre blödningskontroll
+  * !!! hämmar FSH frisättning
+  * hämmar utveckling av Dominanta follikeln! (antagligen fram till den dominanata follikeln)
+    * ***Minskar frekvensen av ovarialcystor!!!***
+* Gestagen / progesteron effekter
+  * Hämmar LH-frisättningen
+  * Hämmar ovulation
+  * Förtjockar cervixsekret
+  * Hindrar sperm fr penetrera cervix
 
+***Biverkningar***
 
+* VTE risken ökad vid kombinerad metod: denna ökar EJ vid enbart gestagen metod
 
 ***Handläggning***
 
@@ -8546,37 +8591,7 @@ cerivicit
 
 
 
-<img src="./lectures/gyn_lec/imgs/gyn_lec_3E2PVQsAbt.png" alt="3E2PVQsAbt" style="zoom:50%;" />
-
-
-
-
-
-#### P-ringen
-
-***Etiologi och patofysiologi***
-
-* **Den kombinerade ringen**
-  * **!!! Verkar INTE lokalt**
-  * **Verkar via  blodet**: väldigt viktigt att förstå enl FL, att p-ringen verkar via blodet
-* ***Mycket jämnr serum-koncetration hormon***
-* **Mängd hormoni**: FL kommenterade ej mängden hormon
-* TODO: är det denna som hon starkt rekommenderade? man kan faktiskt se p-rings koncentrationerna ovan
-
-
-
-
-
-#### P-plåster
-
-***Etiologi och patofysiologi***
-
-* mycket högre koncentrationer hormon: detta jfr med p-ringen denna får lägre men också jämnare, se ovan
-* Mycket jämNare koncentrationer hormon (östrogen som man presenterade i en studie på ppt)
-* jämfört med p-piller: med piller får man mycket kraftigare uppgångar och nedgångar
-* uppnår steady state
-
-
+<img src="./lectures/gyn_lec/imgs/gyn_lec_3E2PVQsAbt.png" alt="3E2PVQsAbt" style="zoom: 25%;" />
 
 
 
@@ -8714,7 +8729,68 @@ cerivicit
 
 
 
-#### P-stav
+
+
+#### Kombinerade metoderna
+
+***Metod***
+
+* Innehåller både östrogen och gestagen
+
+
+
+***Beredskapsformer***
+
+* P-piller
+* P-ring
+* p-plåster
+* p-sprutor (inte i sverige)
+
+#### Kombinerade p-piller
+
+
+
+
+
+#### Lågpotent gestagen
+
+***Funktion***
+
+* Att man äter dessa varje dag
+* Väldigt snäv tidsmargina
+* ENDAST 3timmars glömskemarginal! Detta är väldigt problematiskt
+
+
+
+***Effekter***
+
+* Cervixsekret tjockt + ogenomträngligt
+* Endometriet blir tunt
+* ovulatiosnpåverkan: på äldre kvinnor, yngre mer fertila kvinnor har nog ingen större effekt på ovulationen. 
+
+
+
+***Vid dålig compliance***
+
+* Cervixsekretet förändras dag för dag unde menstruationscykeln, där man kan följa den och se när man är som mest fertil. Noterar att när sekretet är som mest fibröst, att man kan dra långa stärngar = högst fertilitet
+* Missar man äta de lågdoserade gestagen metoden, då kommer cervixsekretet att hinan förändras
+* konsekvensen är att om man missar blir kvinnan mer fertil, vilket är problematiskt. 
+
+
+
+
+
+#### Mellanpotent gestagen
+
+***Metoder***
+
+* Kortverkande p-piller
+  * som vanliga kombinerade p-piller
+  * längre glömskemarginal, 12 timmar
+* Implantat, p-stav
+  * nexplanon i Sverige
+
+##### P-stav
 
 ***Presentation***
 
@@ -8726,17 +8802,168 @@ cerivicit
 
 
 
-#### Kombinerade p-piller
+***Funktion***
 
-#### Lågpotent gestagen
+* Mellandoserad gestagen
+* Nexplanon
+* Sätts i armen i lokalbedövnnig
+* 3år tidsintervall innan byte
 
-#### Mellanpotent gestagen
+
+
+***Insättning av staven***
+
+* Den ska inte sitta över biceps
+* ska sitta väldigt ytligt
+* överarmen
+* 2cm fr mediala epikondylen
+
+
+
+***Hög nöjdhet***
+
+* ***DET MEST EFFEKTIVA PREVENTIVMEDEL***: 100% ovulationshämning i 3år
+  * hos i princip alla kvinnor
+* Efter hormonspiralen kommer p-staven in terms of nöjdhet
+
+
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_BzJ3CPchbx.png" alt="BzJ3CPchbx" style="zoom:50%;" />
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_NGnCXKA73T.png" alt="NGnCXKA73T" style="zoom:50%;" />
+
+
+
+
 
 #### Högpotent gestagen
 
+***Metod***
+
+* P-spruta (se p-spruta delen)
+
+##### P-spruta
+
+***Funktion***
+
+* Högpotent gestagen metod
+* var 3e månad
+* ovulationshämning
+* overhang effekt: att det kan ta lite lägnre tid efter sprutan för att ovulationen att komma tillbaka, e.g. upp t 8månader
+* absolut inget ägg produceras
+
+
+
+***Effekter***
+
+* **Låga östrogen nivåer!**
+* av alla inhibition med det högdoserade gestagenet, kraschar östrogennivåerna
+
+
+
+***Komplikationer***
+
+* Påverkad bentäthet
+* rekommenderas ej t kvinnor under 23åå
+
+
+
+
+
 #### Hormonspiral
 
-#### P-spruta
+***Presentation***
+
+* **vf ett av de mest effektiva preventivmedlen**	
+  * maximal hämning endometrietillväxt
+  * inget användarfel
+* !! 23åå pat (eget fall)
+  * Spiral insatt 2v sedan. Nu utvecklat kraftiga smärtor nedre buk + feber
+  * Differentialdiagnos: spiralrelaterad infektion i uterus (endometrit?)
+
+
+
+***Hormonspiral*** (diffa mot kopparspiral)
+
+* **!!! Levonorgestrel**: utsöndras lokalt i endometriet; endometiret blir ***tunt***
+* **Mirena**: 
+  * 25-40% av kvinnor blir amenorroiska (dosberoende) med jaydess ca 10% i studier, 
+  * kyleena 17%
+
+
+
+***Funktion***
+
+* **levonorgestrel effekter**
+* **cervixsekret**: segt, ogenomträngligt
+* **hämmar spermiemotilitet**: levonorgestrel hämmar spermiemotiliteten
+* **minskad blödningsmängd**: med upp t 90%
+  * Detta beror på progesteron doseringen
+  * Mirena 25-40%: blir amenorroiska
+  * Kyleena 17% amenorroiska
+  * Jaydess: 10% amenerroiska
+* !! **EJ ovulationshämmande som regel**
+* **Utsöndrar levonorgestrel** (gestagen / progesteron) lokalt i endometiet
+* **endometriet blir tunt**
+* !!! Högst andel nöjda patienter
+* !!! Otroligt effektiva mot mensvärk, även om blöder med dessa
+
+
+
+***Epidemiologi***
+
+* **!!! lika säker som sterilisering!**
+
+* **högst andel nöjda användare av alla preventivmedel**
+
+* Bra för kvinnor med hög risk för grav
+
+* **Ökar INTE risk för ektopsik grav**: av de som blir gravida är andelen ektopiska grav högre jmf med om inget preventivmedel
+
+* ***Infek vid spiral***: ovanligt, liten ökad risk upp t 3v efter insättning
+
+  * tskf Davon shield fr 60-talet
+
+  
+
+***Handläggning***
+
+* ***Vid evt graviditet***: OMGÅENDE dra hormonspiralen
+  * Hos de få som blir gravida är det viktigt att asap dra spiralen. Den kan interferea med fostret och hinnorna etc. Risk för missfall antar jag, så man vill dra den så snart som möjligt. 
+  * **Utesluta ektopisk graviditet**: om pat blir gravid är det otroligt viktigt att utesluta X-graviditet hos dessa
+  * **Spiralgraviditet**: att spiraltrådarna har åkt in i cervix, varpå svårt att få tag på trådarna igen; HÖG risk för pprom och prematur födsel. 
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_Hj9UD7fMoH.png" alt="Hj9UD7fMoH" style="zoom:50%;" />
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_4Ckb9eqdpA.png" alt="4Ckb9eqdpA" style="zoom:50%;" />
+
+#### P-plåster
+
+***Etiologi och patofysiologi***
+
+* mycket högre koncentrationer hormon: detta jfr med p-ringen denna får lägre men också jämnare, se ovan
+* Mycket jämNare koncentrationer hormon (östrogen som man presenterade i en studie på ppt)
+* jämfört med p-piller: med piller får man mycket kraftigare uppgångar och nedgångar
+* uppnår steady state
+
+
+
+#### P-ringen
+
+***Etiologi och patofysiologi***
+
+* **Den kombinerade ringen**
+  * **!!! Verkar INTE lokalt**
+  * **Verkar via  blodet**: väldigt viktigt att förstå enl FL, att p-ringen verkar via blodet
+* ***Mycket jämnr serum-koncetration hormon***
+* **Mängd hormoni**: FL kommenterade ej mängden hormon
+* TODO: är det denna som hon starkt rekommenderade? man kan faktiskt se p-rings koncentrationerna ovan
+
+
+
+
 
 #### akut p-piller
 
@@ -9167,6 +9394,8 @@ cerivicit
 
 
 
+<img src="./imgs/gyn_sam_030421_ntLhUuvNxY.png" alt="ntLhUuvNxY" style="zoom:50%;" />
+
 
 
 
@@ -9178,10 +9407,6 @@ cerivicit
 * symfys-fundus mått
 * man drar ett måttband fr symfysen till **fundus av livmodern**
 * Notera att man palperar fram fundus uteri (vilket är toppen, y3ni det som är mest proximalt mot huvudet)
-
-
-
-
 
 
 

@@ -8076,7 +8076,7 @@ cerivicit
 
 
 
-#### mellandoserade gestagena metoder
+#### Mellandoserade gestagena metoder
 
 
 
@@ -8310,7 +8310,7 @@ cerivicit
 
 ***Effektivitet preventivmedel***
 
-* **nexplanon är världens mest effektiv preventivmedel**: sitter den i armen är den fit and forget, kommer att fungera bra. 
+* **nexplanon (p-staven) är världens mest effektiv preventivmedel**: sitter den i armen är den fit and forget, kommer att fungera bra. 
 * användarberoende metoderna: att man ska behöva göra ngt, då märker man att skillnad perfekt användning jfr typisk användning att det finns väldigt stor skillnad
   * kvinnor har inte koll på skillnadi effektivitt
 * unga kvinnor: dåliga med preventivmedel; visar att långtidspreventuivmedel är mkt effektivare. att kortverkande kvinnor många under 21åå som blir gravida jfr över 21.
@@ -8326,7 +8326,7 @@ cerivicit
 
 ***Presentation***
 
-* **Olga är 32 år
+* Olga är 32 år
   * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
   * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
 
@@ -8543,6 +8543,40 @@ cerivicit
 * Läkemedelsverket vill att man ska använda kombinerade preparat som innehåller levonorgestrel
 * man ska dock beakta pat nöjdhet, önskemål etc
 * slutsats att skillnaderna vad gäller trombosrisk är så pass små att det gör ingen skillnad... att det är bättre än att vara gravid och göra abort. 
+
+
+
+!!! ***ABSOLUTA kontraindikationer för kombinerad metod***
+
+* "Har kvinnan en riskfaktor som ökar risken för trombos VTE? är svaret är ja, ska hon inte ha kombinerad metod (överhuvudtaget)"
+* **Lista på absoluta kontraindikationer riskfaktorer**:
+  * Previous VTE
+  * VTE in parents, siblings
+  * Coagulation disorder:
+      * antitrombindef
+      * protein C-def
+      * protein S-def
+      * factor V Leiden mutation
+      * APC-resistence without F V Leiden
+      * Protrombinmutation
+      * Dysfibrinogenemi
+      * High levels of av faktor VIII
+      * hyperhomocysteinemi
+  * Heart failure, heart disease
+  * Cerebrovaskulär disease
+  * SLE
+  * Lupusantikoagulans
+  * Antifosfolipidsyndrome
+  * Inflammatory bowel disease
+  * Myeloproliferative conditions
+  * Malignancy
+  * Polycytemia vera
+* **Relativa kontraindikationer**
+  * age >35
+  * smoking
+  * obesity
+      * discuss weight in absolute numbers
+      * BMI
 
 
 

@@ -2980,7 +2980,30 @@ cerivicit
 
 ### Fysiologi
 
-* En del av källorna är fr Bernebrandt
+***Presentation***
+
+* Soheila 
+  * är gravid i vecka 20. Det finns flera fysiologiska förändringar som uppträder i en helt normal graviditet.
+  * Vilket/a av nedanstående påståenden är korrekta avseende en normal graviditet?
+    * Blodtrycket ligger vanligen lägre i tredje trimestern jämfört med i andra trimestern 
+    * TSH stiger vanligen i första trimestern 
+    * **Den perifera kärlresistensen minskar**
+    * **Albumin ligger vanligen lägre i den tredje trimestern jmf med innan graviditeten**
+    * **Pigmentförändringar i ansiktet är vanligt** 
+
+
+
+
+
+
+
+En del av källorna är fr Bernebrandt
+
+
+
+
+
+
 
 #### **Viktuppgång under graviditet:** 
   * **för normalviktig kvinna:** 10-12kg 
@@ -3062,12 +3085,14 @@ cerivicit
 
   * **Basalmetabolismen ökar**: 15-20%
     * kcal ökar med 300kcal/d = 2 smörgåsar ca
+* Thyroidea förändringar: TODO
+  * !! **TSH sjunker i första trimestern**
 
 
 
 #### **Huden**
 
-  * **Chloasma**: ökad pigmentering ansikte, ofta symmetrisk. även vissa p-pill
+  * **Chloasma** (aka melasma): ökad pigmentering ansikte, ofta symmetrisk. även vissa p-pill
   * **spider naevi**: telangiektasi. 2:3 ljushyade. främst första o andra ditrikitet
   * **striae**: hudbrustning
   * **palmar-erythem**: 2:3 ljushyade
@@ -3340,66 +3365,6 @@ cerivicit
 
 
 
-### Asymptomatisk bakteriuri
-
-
-
-***Presentation***
-
-* **Gravid v8**	
-  * Vid en rutinmässig urinodling hos en förstgravida vecka 8 ser man signifikant växt bakterier men patienten har inga symptom
-  * **vf behandlas ABU**: större risk uppåtstigande infektion med pyelonefrit hos mamman, prematurt barn samt låg födelsevikt
-  * **faktorer ökar risken ABU**: sämre töm urinblåsa, sämer propulsion uretärer, tryck mot uretärer
-
-
-
-***Etiologi och patofysiologi***
-
-* **associerat med**
-  * pyelonefrit hos moder
-  * låg födelsevikt + prematuritet hos barn
-
-
-
-***Riskfaktorer för ABU***
-
-* Sämre tömning urinblåsa
-* sämre propulsion i uretärer
-* tryck mot uretärer
-
-
-
-***Epidemiologi***
-
-* 2-5% alla gravida
-
-
-
-***Kliniska kännetecken***
-
-
-
-***Utredning och handläggning***
-
-* U-sticka början graviditet
-* **Odling**: upprepade UVI sedan tidigare, eller utgör riskgrupp för hög UVI (e.g. pyelonefrti i anamnes eller urinvägsmissbildning)
-* **kontrollodling**: efter behandling,. vid upprepade positiva odlingar överväga profylax för att fröebygga pyelonefrit
-
-
-
-***Behandling***
-
-* Stark indikation för att behandla ABU
-* Antibiotikabehandling
-  * Amplicillin
-  * amoxicillin
-  * mecillinam
-  * furadantni
-  * cefalosporiner
-* antibiotika, kontraindicerade
-  * kinoloner, däribland lexinor
-  * trimetoprim
-
 
 
 
@@ -3580,6 +3545,43 @@ cerivicit
 * koagulationsrubbning
 * hjärnblödning
 * eklampsi (kramper)
+
+
+
+### Hepatos
+
+***Presentation***
+
+* Rita 
+  * är gravid i V 36 och kommer i december till mödravården för att hon inte kan sova längre. något är fel för det kliar så hon blir tokig sedan några dagar. Klådan fanns nog där innan dess men nu har den blivit helt ohanterlig. 
+  * Vilket/a av nedanstående påståenden är korrekta avseende intrahepatisk kolestas under graviditeten ( hepatos)?
+    * rätt: Intensiv klåda i handflator och fotsulor är ett typiskt symptom
+    * rätt: Tillståndet innebär ökad risk för intrauterin fosterdöd
+    * intensiv klåda på magen är ett typiskt symptom
+    * tillståndet innebär ingen ökad risk för intrauterin fosterdöd
+
+
+
+***Definition***
+
+* **Klåda under graviditet med samtidig förhöjning av flera leverfunktionsparametrar** 
+  * är ett tillstånd som benämnts på många olika sätt: 
+  * Graviditets-hepatos, 
+  * obstetrisk cholestas och 
+  * graviditetsklåda är några exempel. 
+* **I litteraturen har man de senaste de- cennierna valt att kalla tillståndet för ”intra- hepatic cholestasis of pregnancy” (ICP).** 
+* **Diagnoskriterierna uppfylls om patienten har:** 
+  * klåda utan annan känd orsak som debuterar under och fortgår hela graviditeten. 
+  * Klådan skall försvinna efter partus. 
+  * förhöjda gallsyrenivåer i maternellt blod. 
+
+
+
+***Komplikationer***
+
+ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal distress intrapartalt samt intrauterin fosterdöd, (IUFD)
+
+
 
 ### Hypertension i grav
 
@@ -3925,6 +3927,8 @@ cerivicit
     * trombosprofylax: rekas alltid vid SECTIO, minst 1 vecka. Denna pat HÖGRISK varpå 6v trombosprofylax övervägas
     * smärtlindring: morfin ev paracetamol/NSAID. 
       * !! NSAID kan g e BT stegring o vid svår hypertoni postpartum bör dessa prep undvikas. paracetamol kan ge leverpåverkan + njurar, bör undvikas vid lever o njurpåverkan
+  * Ngt lkm som bör sättas in början nästa grav, mtp preeklampsi denna grav: 
+    * trombyk (riskreduktion för preeklampsi igen)
 
 ***Allmänt***
 
@@ -4318,7 +4322,132 @@ cerivicit
 
 ### TTS
 
+***Allmänt***
 
+* Tvillingtransfusionssyndrom
+
+
+
+***Etiologi och patofysiologi***
+
+- Enäggstvillingar, placenta, gemensam
+
+- Anastomoser mellan foster, placentam: detta ökar risken för fosterpåverkan
+
+- TTS = boalans i cirkulationen mellan fostren
+
+- TTS 10-15% av grav med gemensam placenta
+
+- påfrestningar för tvillingfostren
+
+- Transfusionen blod, via anastomos: fr donator tvillingen till mottagar tvillingen, vi anastomosen
+
+- Donator 
+
+- - hypovolemisk, oligohydramniotisk,
+  - ofta tillväxthämmad
+  - renin prod ökar: för att kompensera
+  - uppreglerar RAAS systemet
+  - vasokonstriktion intrarenalt
+  - oligohydramnios ytterligar förvärras
+
+- mottagartvilling 
+
+- - hypervolemisk, svarar öka diures, polyhydramnios.
+  - Morfologiska förändringar: hjärta. 
+  - tar emot renin via anastomos fr donatorn
+  - nedreglerar sitt RAAS system
+
+- RAAS aspekten: oklart om det är en primär eller sekundär vid TTS.
+
+- endotelin-1, vasokonstriktor: förekomma 2x i serum hos mottagare som donator. 
+
+- - högst hos de med uttalad fetal hydrops
+
+***Epidemiologi***
+
+- 1-3% av alla grav = felrbördesgrav i Sverige
+
+- - Minoritet = enäggstvillingar
+
+- TTS 10-15% grav med gemensam placenta
+
+- utan behandling = dödlighet 80%
+
+### Urinvägarna
+
+***Presentation***
+
+* Mary 
+  * kommer till vårdcentralen när hon är gravid i v30. Det känns så konstigt i magen och får springa och kissa hela tiden. Här bör man misstänka urinvägsinfektion.
+  * Vilket/A av nedanstående påståenden är korrekta?
+  * Rätt: Urinvägsinfektion bör misstänkas när gravida kvinnor har prematura sammandragningar
+  * Rätt: e-coli och Grupp B streptokocker är vanliga agens vid urinvägsinfektion hos gravida 
+  * Rätt: kontrollodling ska utföras efter behandling av gravida med urinvägsinfektion 
+  * Vid grupp B streptokocker i urinen under graviditet skall patienten enbart få behandling med antibiotika under förlossningen om hon har symtom 
+  * Rätt: **Grupp B streptokocker är den vanligaste orsaken till neonatal sepsis**
+
+
+
+#### Asymptomatisk bakteriuri
+
+
+
+***Presentation***
+
+* **Gravid v8**	
+  * Vid en rutinmässig urinodling hos en förstgravida vecka 8 ser man signifikant växt bakterier men patienten har inga symptom
+  * **vf behandlas ABU**: större risk uppåtstigande infektion med pyelonefrit hos mamman, prematurt barn samt låg födelsevikt
+  * **faktorer ökar risken ABU**: sämre töm urinblåsa, sämer propulsion uretärer, tryck mot uretärer
+
+
+
+***Etiologi och patofysiologi***
+
+* **associerat med**
+  * pyelonefrit hos moder
+  * låg födelsevikt + prematuritet hos barn
+
+
+
+***Riskfaktorer för ABU***
+
+* Sämre tömning urinblåsa
+* sämre propulsion i uretärer
+* tryck mot uretärer
+
+
+
+***Epidemiologi***
+
+* 2-5% alla gravida
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utredning och handläggning***
+
+* U-sticka början graviditet
+* **Odling**: upprepade UVI sedan tidigare, eller utgör riskgrupp för hög UVI (e.g. pyelonefrti i anamnes eller urinvägsmissbildning)
+* **kontrollodling**: efter behandling,. vid upprepade positiva odlingar överväga profylax för att fröebygga pyelonefrit
+
+
+
+***Behandling***
+
+* Stark indikation för att behandla ABU
+* Antibiotikabehandling
+  * Amplicillin
+  * amoxicillin
+  * mecillinam
+  * furadantni
+  * cefalosporiner
+* antibiotika, kontraindicerade
+  * kinoloner, däribland lexinor
+  * trimetoprim
 
 
 
@@ -7545,6 +7674,19 @@ cerivicit
 
 
 ### Blödning - Postpartum
+
+
+
+***Presentation***
+
+* Kvinnor i länder med få resurser riskerar att dö i samband med förlossning. den vanligaste orsaken att kvinnor där vid fölrossning är blödning.
+  * Vilket är den vanligaste orsaken till blödning pospartu > 1000ml 
+  * cervixskada 
+  * perinealbristning
+  * **atonisk uterus**
+  * koagulopati
+
+
 
 ***Allmänt***
 

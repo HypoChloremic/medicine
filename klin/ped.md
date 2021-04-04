@@ -3297,7 +3297,13 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Oklar könsidentitet
 
+***Presentation***
+
+* Du vikarierar på neonatalavdelning där det just fötts ett barn med avvikande genitalia. man ser att urinröret mynnar på penis undersida mitt på skaftet och du kan inte känna några testiklar. Barnet förefaller lite slött och vill inte äta men har inga andra missbildningar.
+  * Vad ska du misstänka? vad gör du?
+  * Misstänka oklar könsidentitet. Mår barnet bra i övrigt? A-E.. Akuta prover: glukos, elektrolyter kreatnin. Viktigt hitta tecken till CAH som är misstanken. Hypospadi + retentio testsi remiss till DSD teamet / Kontakt med barnendokrinolog. Utvidga anamnes från föräldrar: Hereditet, andra släktingar med könsmissbildning, läkemedel p-piller under graviditeten, virilisering hos moder?, DSD teamet gör utredning med 17-OH , kortison, testosteron, andostendion, kortisol LH FSH, ultraljudsundersökning av binjurar och genitalia samt kromosombestämmning 
 
 ### Pataus syndrom
 

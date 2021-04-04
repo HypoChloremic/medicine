@@ -203,12 +203,39 @@ cerivicit
 
 ### TOA - Tuboovarial abscess
 
+
+
+***Presentation***
+
+* !! **En 45-årig kvinna** TODO
+  * remitteras från kirurgkliniken till kvinnoklinikenför gynekologisk bedömning pga buksmärtor. Insjuknade för 1 dygn sedan med hög feber 38,8 och ont i nedre delen av buken. Det ondra var inititalt mest på vänster sida, men nu har det spritt sig till hela buken. inga vaginala blödningar. har en CU-spiral sedan 10 år. Vid bukapalpation finner man kraftig palpationsömhet ver buken, meningen tydligt peritinoitstatus. CRP 120. Gynekologisk undersökning visar normallånga spiraltrådar ur cervix. Uterus normalstor, på vänster sida om uterus palperas en ömmande kuddig resistens. Vaginalt ultraljud visar en normalbild över uterus, spiralen sitter i kaviteten och ovarierna går ej att identifiera.
+  * 2 diffar du misstänker: TOA, divertikulit
+  * lämpliga åtgärder, motivera svar: inläggning, smärtlindring, spiralen ut + odlas. insättning iv antibiotikka misstanke TOA. om sit försämras  o kirurgui krävs, så kan man glra laparoskopisk tubotomi (tidigare salpingektomi med laparotomi)
+  * 
+
+
+
 ***Etiologi och patofysiologi***
 
 * **icke-utläkt PID**
   * vanligaste orsak
   * finns kvar som en kronisk PID
 * **äggledare**: blir vätskefulld o avstängd (säcktuba), (i samband med icke-utläkt PID?)
+* **Spiralrelaterade**: att pat kommer in med en för länge satt spiral, eller kommer in med en spiral. 
+  * kopparspiraler satta 5år innan byte
+  * hormonspiraler 3år eller 5år
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
 
 
 
@@ -264,7 +291,15 @@ cerivicit
   * kommer till dyn gynekologmottagning och säger att hon har svårt att hålla urinen tätt. Ofta läcker hon urin när hon nästan kommit hem ( Står o försöker hitta rätt nyckl till lägenheten). Gunilla är 165cm och väger 69kg. Hon har fött 3 barn vaginalt och genomgått kejsarsnitt. Hon promenerar till o från jobbet och då är det inga problem att hålla urinen tätt. Du inser att du bör göra en utredning av Gunillas besvär. Det låter som överaktiv blåsa tycker du. 
   * **Vad ingår i utredningen för att du ska kunna ställa diagnos**? Vilka diff.diagnoser måste du överväga? motivera ditt svar?
     * **basalutredning + tilläggsutredning**
-    * **uppmärksamhet mot bakomliggande orsak**: infektion; malignitet; neurologisk sjd; polyuri; polydipsi
+    * **uppmärksamhet mot bakomliggande orsak**: infektion; malignitet; neurologisk sjd; polyuri; polydipsi; framfall; bristfällig blåstömning
+    * utöver anamnes status gynstats: mätning res urin, urinmöt med miktionsdagbnok, urinläckagemätning, tidsmiktion.
+    * cyutometri för att se detrusor muskeln överaktiv eller ej
+  * om prel diagnos stämmer, vilken beh: konservativ behandling med bäöckenbottenträning, dricka mindra, kissa oftare etc. 
+    * Medicisk beh: antikolinergika (tolteridin); övergång desmopressin (som tillägg; ADH analog)
+  * om inledande åtgärd ej funkar: elektrisk stimulering av tibialis, alternativt (rektalt eller i blåsan enl champ)
+    * botoxinjektion i blåsa; inhib acetylkolinfrisättning i efferenta o afferenta nervändar. direkt hämmande effekt i detrusor. 
+      * upprepas efter 6-8mpn. 
+      * måste vara kapabel t RIK då blåstömningssvårigheter kan föreklmma efte beh med botox
 
 
 
@@ -444,11 +479,11 @@ cerivicit
 
 ***Presentation***
 
-* Elin, 13 år, 
+* **Elin, 13 år,** 
   * fick sin första menstruation för sex månader sedan. Nu söker hon på mottagningen tillsammans med sin mamma. Orsaken är att hon haft mer eller mindre riklig blödning i stort sett varje dag sedan en månad tillbaka.
   * Troligaste orsak: funktionell blödningsrubbning (anovulation), genombrott efter längre tids oavbruten östrogenpåverkan
   * vidare utredning: trötthet, Hb, tidg sjd. Gyn undersökning ej nödvändig enl HT12
-* Lisa är 14 år 
+* **Lisa är 14 år** 
   * och fick mens när hon var 13 år. Söker nu pga riklig vaginal blödning. Har ej debuterat sexuellt. Lisa är frisk och ingen i hennes familj har någon känd hjärtkärlsjukdom.
   * Troligare orsaken till rikliga hennes mensutrationsblödning och ge förslag på behandling. motivera ditt svar.
     * Anovulatorisk blödnnig: högre andel i anslutning med att patienten börjar få menarche, hormnella axlarna har inte stabiliserat sig, varpå anovulation kan utvecklas. En förlängd proliferationsfas, för att det inte sker ett påslag LH, varpå ovulation, och start av progesteron frisättningen fr corpus luteum, innan luteolys och progesteron faller bort. Anovulatorisk blödning att pat inte ovulerar, trots att den blött, då proliferation t den grad att endometrieslemhinnan går i nekros och stöts bort. Fortsatt proliferationsfas, förklarar fortsatta blödningar. 
@@ -456,6 +491,10 @@ cerivicit
     * Cykliskt gestagen
     * kombinerade p-piller
     * hormonspiral
+* **TODO Maria 45 år** 
+  * kommer till gynekologiska mottagning på grund av rikliga blödningar. Maria var opererad för 10 år sedan på KK på grund av invasivt cervikalt adenocarcinom och man gjorde en trackelektomi. maria har gått i 5 år pga regelbundna kontroller på KK, därefter på kontroller hos en öppenvårdsgynekolog. Proven har varit normala, inget recidiv av sjukdomen Vid den aktuella undersökninngen man ser blod i vagina, uterus palperas normalt stor, inga förändringar på plats av ovarierna kan palperas.
+  * troligaste diagnos + vilken diagnos måste uteslutas: anovulatorisk blödning mest sannolik + måste utesluta recidiv adenocarcinom
+  * 
 
 
 
@@ -490,6 +529,12 @@ cerivicit
 
 * **Cykliskt gestagen**: 3-6månader
 * **Kombinerade p-piller**
+
+
+
+### Missfalls blödning
+
+***Presentation***
 
 
 
@@ -1376,7 +1421,7 @@ cerivicit
     * ciklokapron
     * fertilitetsbevarnde kirurgi (om man attribuerat rikliga blödningar till hennes myom)
   * **normal onormal blödningsmängd**: medel 40mL, normalt mellan 20-80mL. Över 80mL är riklig mens och ska undersökas + få järn consistently
-* **Rosa är 42år**
+* !! **Rosa är 42år**
   *  och remitteras från husläkaren pga rikliga vaginala blödningar. Hon har egentligen alltid haft riklig mens. Rosa har blivit tröttare på senare tid. Man har på vårdcentralen konstaterat att hon har en mikrocytär anemi oc hon är insatt på järn-tabletter. Rosa blöder regelbundet, har fött 2 barn och har nu en kopparspiral sedan sista barnets födelse för 3 år sedan. Status: AT gott BMI 27. BLt normal Buk mjuk oöm. Gyn, Status: VVP ua spiraltrådar, uterus förstorad motsvarande 10-12 gravevckor, fast hård i konsistensen Vaginalt ultraljud visar en uterus som är generellt förstorad med flera intramurala myom. Det största myomet är 3cm.
   * Skriv en kortfattad bedömning för Rosa som ska innehålla sannolik diagnos, åtgärd och förslag på behandling på kort och lång sikt. Skriv på det sätt som du skulle skriva i journaltext. Motivera ditt svar.
     * 42åå kvinna inremitterad pga rikliga vaginala blödningar i samband med mens och mikrocytär anemi, insatt järntabletter. 2 gravida 2 para, nu kopparspiral, sedan 3 år sedna. Statusmässigt oanmärningsvärt, utöver gynekoloiskt status med forstprad uterus motsvarande 10-12gravveckor, fat konsistens. Vaginalt UL visar flera intramurala myom, uterus förstorat, största myomet på 3cm. Myomen förklarar de rikliga vaginala blödningarna. Således byte av kopparspiral som kan attenuera blödningarna mot kombinerade hormonell prevention, då myomen kan ha
@@ -1889,10 +1934,18 @@ cerivicit
 
 * Eva 35 år, 
   * II-grav, II-para och söker gynakuten då hon successivt fått allt mer ont i magen sista 3 veckorna. hon har hypertoni som hon medicinerar för men är för övrigt frisk, aldrig opererad i buken. hennes menstruationer upphörde för 4 år sedan och hon har inte använt hormoner. Eva beskriver att hon har ihållande buksmärta som började för ca 3 veckor sedan, men nu har hon svårt att röra sig då hon har fått allt mer ont. Beskriver att smärtan sitter långt ner i magen och även strålar ut i ryggen. Hon har även ont när hon sitter ner. Miktion ua, och även tarmen tömmer sig regelbundet men det gör ont. INget synligt blod i urin eller avföring. Buk: palperas överalt mjuk. Distinkt palpationsöm centralt i nedre delen av buken, ingen säker resistens palperas, ingen peritonit misstänks. Gyn: VVP ses ua. Uterus är normalstor för åldern och lätt devierad. Åt hö. Till vä och bakom uterus palperas en cystisk förändring som känns mjuk, ömmande, ca 7-8cm stor, rörlighet är svårt att avgöra. Ulj vaginalt: uterus är liten med normal konfiguration och tunt endometrium. Hö ovarium ses ej. Vid platsen för vä adnexa ses en 2-rummig cysta som mäter 7\*8 cm. Cystan är mstadels ekofri men i ena polen finns ett område som är mer ekogivande. ingen fri vätska ses i buken.
+* TODO **Vilka följande ultraljudsfynd ger misstanke om malignitet hos en postmenopausal kvinna.** 
+  * VET EJ: Excerenser och septa i en ovarialcysta
+  * malignt tecken: vätska i buken, orörliga förhållanden. Inger malignitetsmisstanke.
+  * malignt krit: Solida partier i cystan: INger misttanek om malignitet
+  * kan va malignt: Ekofri cysta >5cm: Kan va malignitet, kan va benignt , men cystor över 4,5mm ska genomgå kvalificerat ultraljudsundersökning.
 
 
 
+***Utredning och handläggnnig***
 
+* IOTA och RMI
+* att man remitterar för en IOTA certifierad bedömning om man ser ngt aberrant på UL. 
 
 
 
@@ -3737,7 +3790,21 @@ cerivicit
 
 
 
-### Oligohydramnios
+### Läkemedel
+
+***Presentation***
+
+* Eva är 25 år 
+
+  * och väntar sitt första barn. Du möter henne i tidig graviditet på specialistmödrabården. Eva har epilepsi sedan 11 års ålder. hennes sista anfall var för 9 månader sedan. Eva står på T.. Lamotrigin som profylax mot kramper. eva har fått information från sin neurolog att man kontrollerar serum-koncentrationen av lamotrigin regelbundet under graviditet.
+  * Bör kontrollera LKM lista innan graviditet
+  * sker mga fysiologiska förändringar som påverkar farmakokinetiken av LKM: ökad njurclearance, förhöjd kroppsvolym samt förändrad plasmakomposition (spädningseffekt), metabol omsättning ökar (omsättning lkm molekyler drf)
+  * abe: ökad clearance lamotrigin kan öka med 200%
+  * Undraro m hon kan amma, nämn 2 källor ständigt uppdaterade, där man kan söka sådan info: janusinfo + FASS
+
+  
+
+### Oligohydramnios TODO
 
 ***Etiologi och patofysiologi***
 
@@ -3747,15 +3814,26 @@ cerivicit
 
 
 
-### Polyhydramnios
+### Polyhydramnios TODO
 
 ***Presentation***
 
-* 32åå 
+* **32åå** 
   * En tidigare frisk kvinna återkommer från ultraljudsundersökning i graviditetsvecka 32 med polyhydrramnios.
   * tillstånd går med polyhydramnios: diabetes, esofagusatresi, neuro sjd påverkar svälj, stort barn
   * **vanligaste orsak**: GDM eller diabetes
   * **komplettera undersöknig**: glukosbelastningstest (OGTT, HbA1C)
+* !!! **Ellen är gravid vecka 30+0** 
+  * och hennes barnmorska på mödravården har uppmätt höga symfys-fundus mått. Ett tillväxtultraljud ordinerades och av svaret framgår att barnet ligger vänstervänt i en huvudbjudning Fostret har uppskattats till 1908 ( 19%+) och det finns en polyhydraminos. ellen har googlat och kommer till dig som MVC oc är mkt orolig. 
+  * **nämn en missbildning som är relaterad till polyhydraminos som Ellen kan ha läst om?** 
+    * esofagusatresi'
+  * **mest sannolika orsaken polyhydramnios**: GDM
+  * **vilken är mekanism  t polyhydramnios av ovan nämnd orsak:** 
+    * maternell hyperglykemi -> fetal hyperglykemi -> barnet kissar mer -> polyhydramnios
+  * vad är definition av large for gestational age (LGA) i Sverige
+    * LGA foster stort för sin gestationella ålder: ligger 2.5SD (abe skrev 2SD) över normalvikten dvs en avvikelse +22% eller mer
+  * VIlka mått UL-skattning av fostervikt: BPD, MAD (medelabdominaldiameter), femurlängd, 
+  * VIlken lab gör man ofta i ett fall som detta: OGTT !!
 
 
 
@@ -3814,7 +3892,6 @@ cerivicit
 * **samma cushing pat tillägg** 
   * tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
 * **35åå, 5grav 0 para**
-
 * - 2 missfall, 2 abort
   -  Noteras kontroll v24 att BT högt
   - RUL ser ej ngt avvikande, men åter UL bokas in
@@ -3829,7 +3906,6 @@ cerivicit
   - skrivs ut v28: informerar pat om tecken på preeklampsi att det krisar etc för att söka akut e.g. påverkade fosterrörelser avviker, flimrar ljus ögon, skakig, huvudvärk, 
   - Läkemedel trandate: 300mgx3 vid utskrivning
   - Enl handl: dessa med preeklampsi samt IUGR inte förväntat att de blir fullgångna, utan amna snittar tidigt ändå, att det behövs. Man har täta kontroller och följer  CTG e
-
 * !! **Elin söker dig på MVC, TODO**; detta fallet att det står proteinuri på ett konstigt sätt. 
   * i graviditetesvecka 20. hon är frisk och födde barn för tre år sedna i vecka 39.barnet vägde 2,3kg.
   * Blodtryck idag 130/80 mmhg, urinsticka visar 0/ spår för proteinuri. hon har just varit på rutinultraljud och allt var bra där. hon mår bra och arbetar som vanligt och det går bra. 
@@ -3840,6 +3916,15 @@ cerivicit
     * remiss spec-MVC: föreligger 2 riskfaktorer, att trombyl behöver läggas in
     * tätare BT + u-sticka kontroller resten av grav t v36: 
     * tillväxt-UL + flöde UL v24 
+* !!!**Pia, preeklampsi + kejsarsnitt postop handlägg**
+  * genomgick Kejsarsnitt operation igår på grund av en svår preeklampsi grav vecka 34.
+  * målblodtryck hos pat med svår preeklampsi i sluteta v graviditet: 
+    * Under 150/100 är okej
+  * Du sitter nu efter kejsarsnittet som underläkare på BB och planerar pias vård. du ordnar med en plan för att följa upp blodtrycket och se till att Vätskebalansen är tillfredsställande.
+  * förutom BT medicin, bör du sätta in en annan LKM behandling, vilken varför?
+    * trombosprofylax: rekas alltid vid SECTIO, minst 1 vecka. Denna pat HÖGRISK varpå 6v trombosprofylax övervägas
+    * smärtlindring: morfin ev paracetamol/NSAID. 
+      * !! NSAID kan g e BT stegring o vid svår hypertoni postpartum bör dessa prep undvikas. paracetamol kan ge leverpåverkan + njurar, bör undvikas vid lever o njurpåverkan
 
 ***Allmänt***
 
@@ -4119,6 +4204,97 @@ cerivicit
 
 
 
+
+### Storlek foster
+
+#### IUGR
+
+***Presentation***
+
+* Anna 31 år, 
+  * 1-grav, 0-para. Inremitteras till dig på specialistmödravården pga lågt SF-mått i vecka 34+6. 
+  * Normal graviditet i övrigt. Anna mår bra och förstår inte varför hon behöver sitta och vänta på ytterligare en kontroll idag. Hon har ett möte om 2 timmar och undrar om du inte kan skynda dig på.
+  * vad vill du veta mer: tidg frisk? Rökning?? Gjort KUB, NIPT (kan bero på fel hos barnet). ? ätstörningar? illamående? Tid sj? Läkemedel? Rökning/alkohol osv? Känt fosterrörelser? Infektionstecken?? Övriga symtom ? Blödning/flytningar?? Har hon gått på kontroller?? Hereditet för preeklampsi, blödningssjukdomar osv? Kan/har hon ätit ordentligt?? 
+  * undersökningar ordinerar du: Tillväxt UL med blodflöde, ? BT, ? U-sticka ? Ultraljud inkl flöden och storleksbedömning? SF mått? Hb? Glukos? BT? Urinsticka? Vikt? CTG? 
+  * hur ofta  kontrollera tillväxt + flöde misstänkt tillväxtavvikelse: viktskattning varannan vecka, flöde varje vecka eller oftare (båda beror på också hur avvikande fostret är)
+
+***Etiologi***
+
+* **Diffa IUGR fr SGA:** titta på grafen nedan. Ser att SGA är om man är under 2.5SD (-22%) i fostervikt. 
+  * SGA = gm att titta på delta mellan mättillfännen. Om fostret fortsätter att växa i normal *takt (gradient)* men fortsatt under -2.5SD,
+  * iUGR = om det står still mellan mättillfällen, att gradienten = 0 eller liknande. 
+* **Maternella orsaker**:
+  * **kroniska sjd, systemsjukdomar**: duabetes, njursjd, hypertoni, autoimmuna sjd, IBD, anemi
+  * missbruk, rökning, alkohol
+  * preeklampsi
+* **Placentära orsaker**:
+  * defekt anläggning i tidig grav
+  * ablatio
+  * infarkter placenta
+  * velamentös navelsträng: TODO
+* **fetala**
+  * kromosomfel
+  * missbildningar
+  * infektion
+
+<img src="./imgs/gyn_sam_020421_uMFWQJca1z.png" alt="uMFWQJca1z" style="zoom:50%;" />
+
+
+
+***Epidemiologi***
+
+* 3-4% alla grav tillväxthämmade foster (IUGR + SGA?)
+* perinatal mortalitet 7-10x ökad risk
+* minimera perinatal risker gm övervaka, optimera förlossningstidpunkt:  (fosterdöd, asfyxi, perinatal hjärnskada, sjuklighet)
+
+
+
+***Komplikationer SGA IUGR längre sikt***
+
+* somatiska, koginitiva, psykomotorisk utv påverkas
+* predisp kronisk sjukdomar vuxenlivet (diabetes, kardiovaskulära sjd)
+
+
+
+***Utredning och handläggning***
+
+* **Screening, upptäckt tillväxthämning**
+  * **SF-mått följs (V24 och över)**: remiss för viktskattning när den avviker
+  * **Riskpatienter, riskfaktorer, remitteras viktskattning**: tidg SGA barn; kronisk sjd mor; graviditetskomplikationer (preeklampsi) mfl; 
+    * planerar in viktskatning på dessa
+  * // Rutinmässig 
+
+
+
+***Komplikationer***
+
+* Modern
+  * Förlossnignstrauma: cervixruptur, vaginalruptur, perinealbristning, sfinkterskad
+  * blödning pga trauma resp uterus atoni
+  * långtidsföljder av bäckenbotten o sfinkterskada
+* barnet
+  * hypoxi / asfyxi pga förlossningskomplikation
+  * förlossningsskada ex klavikelfraktur
+  * skulderdystoci
+  * plexus brachialis skada
+
+
+
+### Makrosomi
+
+***Definition***
+
+* fostervikt eller  födselvikt >4500g
+
+
+
+***Risker för makrosomi vid förlossning***
+
+* missförhållanden bäckenstorlek + barnet
+* protraherad förlossning
+* sekundär svaghet
+* instumentell vaginal förlossning?..
+* akut kejsarsnitt
 
 ### 	Teratogen
 
@@ -4680,6 +4856,17 @@ cerivicit
 ***Uppföljning***
 
 * Läkningstid: 
+
+
+
+### Spiralrelaterad infektion
+
+***Etiologi och patofysiologi***
+
+* Trådarna kan bidra till att man får uppåtstigande infektion in i uterus
+* rik miljö i uterus, varpå dessa bakterier kan gro. 
+* **Flätade trådar, enklare att klättra för bakterier**
+* **Nya släta trådar är svårare **
 
 
 
@@ -5822,6 +6009,9 @@ cerivicit
 * **Maria är 16år**
   * och oönskat gravid. Hon kommer till din mottagning och vill ha hjälp med abort. Ultraljudsundersökning visar ett foster med graviditeteslängd 19v och 6 dagar 
   * Redogör för den svenska abortlagen och vad den innebär för Maria? kvinna tom v18 helt frivillig abort och HSL ska oblige. efter detta fordras tillstånd fr socialstyrenslen rättsliga råd + synnerliga skäl föreligger. remiss kurator + läkarutlåtande bifogas kvinnas abortönskan -> socialstyrelsen
+* !! **26-årig kvinna**
+  *  3 gravida, 0 para, uppsöker akutmottagningen med buksmärtor och rikliga blödningar 1 dag efter en kirurgisk abort i grav vecka 11. Patienten har ingen feber eller frossa. Vid undersökning: AT , gott, måttligt smärtpåverkat. BT 120 genom 70, puls 100, Hb 115, Buk mjuk, men ömt i nedre delen. Unget pertinoitstatus Vid vaginal undersökning är cervix öppen 1cm, uterus förstorad motsvarande grav vecka 12-13, det är mjukt och ömt i lilla bäckenet, inga patologiska resistenser palperas. Vaginalt ULJ visar rikligt med rester i kaviteten.
+  * sannolika diagnosen: inkomplett abort
 
 
 
@@ -6045,19 +6235,39 @@ cerivicit
 
 ***Presentation***
 
-* Betty 53år, TODO
+* **Betty 53år, TODO**
   * har sedan 2 år östrogenplåster som hon byter 2 gånger per vecka. Var 3e månad tar hon en gestagentablett i 2veckor och får då en blödning. nu är hon så trött på blödningarna och kommer till dig för att hon inte längre vill ta sitt gestagen. Vad svarar du? M
   * åste hon ta gestagen och varför? finns andra alternativ?
-* Greta 52åå
+* **Greta 52åå**
   *  söker dig då hon inte haft någon blödning på 1,5 år. Mådde bra i början men nu tycker hon att hon sover dåligt, känner sig varm och svettig, får plötsliga episoder när det hettar ordentligt i ansiktet oc hon blir alldeles röd. 
   * Finns det hjälp att få, undrar Greta: HRT, ERT + spiral etc. 
   * kontraindikationer mot behandlingen, ange 2: DVT, LE, VTE, angina, hjärtinfarkt, stroke, allvarlig leversjd; ER-beroende cancer, hormonberoende cancer, ökad genitalblödning
-* Ulla är 54 år och har inte haft någon mens sedan hon genomgick en hysterektomi för 10 år sedan pga myom. Nu har hon svrt att sova pga svettningar och hjärtklappning. på dagtid besväras hon av plötsliga värmevallningar. nu önskar hon få diskutera klimakteriebehandling med dig. Ulla är frisk i övrigt. 
+* **Ulla är 54 år** 
+  * och har inte haft någon mens sedan hon genomgick en hysterektomi för 10 år sedan pga myom. Nu har hon svrt att sova pga svettningar och hjärtklappning. på dagtid besväras hon av plötsliga värmevallningar. nu önskar hon få diskutera klimakteriebehandling med dig. Ulla är frisk i övrigt. 
   * Förklara vilken typ av behandling som är lämplig och hur länge du planerar att behandla henne. motivera din handläggning.
     * ERT, då hysterektomerad (ingen progest för ingen risk för endometriehyperplasi och cancer)
     * östrogen lägsta effektiva dos, sen utsättningsörsök årligen, behandlinge avslutas inom fem år. 
     * man ska börja med 0.5-1mg och ge 1-2mg annars om det inte fungerar
-
+* **53-årig frisk kvinna**
+  * söker vårdcentralen pga svettningar, blodvallningar och sömnstörningar sedan ett halvt år tillbaka. 
+  * Mensutrationen har blivit glesare men inte upphört. 
+  * Hon blöder 3-4/35-41 dagar. 
+  * ge förslag på behandling och motivera ditt svar
+    * åat har klimakterie besvär, då östrogennivåerna sjunker (till följd av progressivt reducerande antal folliklar som vidareutvecklas och bidrar till den cykliska östrogenproduktionen under menstruationscykeln). 
+    * motiverar behandling med östrogen och gestagen
+    * Hennes fall: HRT behandling (östrogen + gestagen) för att skydda endometrieslemhinnan, minska blödningsbenägenheten och endometriell hyperplasi, samt minska risken för malignitete jfr enbar behandling med östrogen som kan påverka endometriet. 
+    * Specifikt: kivnnor som fortfarande menstruerar + behandlingskrävande klimakteriella besvär, bör ha behandling enl följande
+      * cuklisk beh med fast kombination östrogen + gestagen. Eller individuell beh med östrogen transdermalt eller i tablettform tillsammans med gestagen för att skydda endometriet
+      * rekommenderade prep fr kloka listan
+        * fast kombination
+        * Novofem: en lågdos cyklisk behandling, inte alltid behöver ge ngn bortfallsblödning. vid otillräcklig effekt kan östrogendosen höjas t 2mg östradiol med tillägg ett getagen i 12d, varje månad som i divina plus och femasekvens
+  * Samm symptom som ovan, men hos kvinna som inte haft blödningar sedan 3år:
+    * kvinnor klimakteriebesvär + sista mens över 1år sedan, som inte vill ha några blödnignar bör beh enl följande
+      * Kontinyuerlig beh för blödningsfrihet som rek i kloka listan
+      * INdivina: 1mg östradiol + 2.5mg medroxyprgoesteron, 1mg östradiol + 5mg medroxyprogesteron
+      * activelle: 1mg östradiol + 0.5mg noretisteron
+  * Samma symptom som ovan men inga blödningar sedan 10år, pga hysterektomi. 
+    * endast östrogen. Gestagen behövs för att skydda en frånvarande endometrieslemhinna pga hysterektomin
 
 
 
@@ -6089,6 +6299,18 @@ cerivicit
     * man ger EJ HRT om man saknar en livmoder enl abbe. 
     * // hormonspiral kan agera komplement till ERT för att skydda endometrieslemhinnan... 
   * **Behandlingslängd**: utsättningsförsök 
+* **Specifikt: kivnnor som fortfarande menstruerar + behandlingskrävande klimakteriella besvär, bör ha behandling enl följande**
+  * cyklisk beh med fast kombination östrogen + gestagen. Eller individuell beh med östrogen transdermalt eller i tablettform tillsammans med gestagen för att skydda endometriet
+  * rekommenderade prep fr kloka listan
+    * fast kombination
+    * Novofem: en lågdos cyklisk behandling, inte alltid behöver ge ngn bortfallsblödning. vid otillräcklig effekt kan östrogendosen höjas t 2mg östradiol med tillägg ett getagen i 12d, varje månad som i divina plus och femasekvens
+* **Samm symptom som ovan, men hos kvinna som inte haft blödningar sedan 3år:**
+  * kvinnor klimakteriebesvär + sista mens över 1år sedan, som inte vill ha några blödnignar bör beh enl följande
+    * Kontinyuerlig beh för blödningsfrihet som rek i kloka listan
+    * INdivina: 1mg östradiol + 2.5mg medroxyprgoesteron, 1mg östradiol + 5mg medroxyprogesteron
+    * activelle: 1mg östradiol + 0.5mg noretisteron
+* **Samma symptom som ovan men inga blödningar sedan 10år, pga hysterektomi.** 
+  * endast östrogen. Gestagen behövs för att skydda en frånvarande endometrieslemhinna pga hysterektomin
 
 
 
@@ -7024,71 +7246,6 @@ cerivicit
 
 
 
-#### IUGR
-
-***Presentation***
-
-* Anna 31 år, 
-  * 1-grav, 0-para. Inremitteras till dig på specialistmödravården pga lågt SF-mått i vecka 34+6. 
-  * Normal graviditet i övrigt. Anna mår bra och förstår inte varför hon behöver sitta och vänta på ytterligare en kontroll idag. Hon har ett möte om 2 timmar och undrar om du inte kan skynda dig på.
-  * vad vill du veta mer: tidg frisk? Rökning?? Gjort KUB, NIPT (kan bero på fel hos barnet). ? ätstörningar? illamående? Tid sj? Läkemedel? Rökning/alkohol osv? Känt fosterrörelser? Infektionstecken?? Övriga symtom ? Blödning/flytningar?? Har hon gått på kontroller?? Hereditet för preeklampsi, blödningssjukdomar osv? Kan/har hon ätit ordentligt?? 
-  * undersökningar ordinerar du: Tillväxt UL med blodflöde, ? BT, ? U-sticka ? Ultraljud inkl flöden och storleksbedömning? SF mått? Hb? Glukos? BT? Urinsticka? Vikt? CTG? 
-  * hur ofta  kontrollera tillväxt + flöde misstänkt tillväxtavvikelse: viktskattning varannan vecka, flöde varje vecka eller oftare (båda beror på också hur avvikande fostret är)
-
-***Etiologi***
-
-* **Diffa IUGR fr SGA:** titta på grafen nedan. Ser att SGA är om man är under 2.5SD (-22%) i fostervikt. 
-  * SGA = gm att titta på delta mellan mättillfännen. Om fostret fortsätter att växa i normal *takt (gradient)* men fortsatt under -2.5SD,
-  * iUGR = om det står still mellan mättillfällen, att gradienten = 0 eller liknande. 
-* **Maternella orsaker**:
-  * **kroniska sjd, systemsjukdomar**: duabetes, njursjd, hypertoni, autoimmuna sjd, IBD, anemi
-  * missbruk, rökning, alkohol
-  * preeklampsi
-* **Placentära orsaker**:
-  * defekt anläggning i tidig grav
-  * ablatio
-  * infarkter placenta
-  * velamentös navelsträng: TODO
-* **fetala**
-  * kromosomfel
-  * missbildningar
-  * infektion
-
-<img src="./imgs/gyn_sam_020421_uMFWQJca1z.png" alt="uMFWQJca1z" style="zoom:50%;" />
-
-
-
-***Epidemiologi***
-
-* 3-4% alla grav tillväxthämmade foster (IUGR + SGA?)
-* perinatal mortalitet 7-10x ökad risk
-* minimera perinatal risker gm övervaka, optimera förlossningstidpunkt:  (fosterdöd, asfyxi, perinatal hjärnskada, sjuklighet)
-
-
-
-***Komplikationer SGA IUGR längre sikt***
-
-* somatiska, koginitiva, psykomotorisk utv påverkas
-* predisp kronisk sjukdomar vuxenlivet (diabetes, kardiovaskulära sjd)
-
-
-
-***Utredning och handläggning***
-
-* **Screening, upptäckt tillväxthämning**
-  * **SF-mått följs (V24 och över)**: remiss för viktskattning när den avviker
-  * **Riskpatienter, riskfaktorer, remitteras viktskattning**: tidg SGA barn; kronisk sjd mor; graviditetskomplikationer (preeklampsi) mfl; 
-    * planerar in viktskatning på dessa
-  * // Rutinmässig 
-
-
-
-
-
-
-
-
-
 #### Prematuritet
 
 ***Presentation***
@@ -7097,6 +7254,18 @@ cerivicit
   * är gravid för första gången. Hon har kommit till vecka 26. Innan hon blev gravid var hon rätt frisk hade bara haft 6-7 urinvägsinfektioner.Graviditeten har varit normal men hon har inte riktigt lyckas sluta röka. Söker nu på KK för tryck nedåt sedan någon dag. Ingen blödning eller vattenavgång. CTG normal för tiden. BT 110/70. Temp 36,9.
   * mer prover: urinsticka + nitrit
   * diagnos måste uteslutas: för tidiga värkar. vaginalt UL av cervix bör göras
+* !!! **Eva är 30 veckor gravid** TODO (checka behandlignarna om de stämmer, verkar lite off)
+  *  så möter du henne igen. Du är jour på förlossningen och eva söker för tilltagande sammandragningar sedan 6-8 timmar. 
+  * **Vilka undersökningar bör du utföra för att bedöma om Eva har ett påbörjat värkarbete. Motivera.**
+    * CTG, u-sticka, inre palpation cervix [bör man inte köra ett UL också?]
+  * **Vilka LKM ordinerar du och varför**: abe
+    * betapred för lungmognad. 
+    * tocolys för att görhindra sammandragningar, 
+    * möjliggöra att steroiderna får effekt. 
+    * Mg2 neuroprotektivt för fostret fram t v32. 
+    * alla pprom fram t v32+6 får erytrimycin, 
+    * men alla aktiva prematura förlossningar får bensyl fram t v36+6
+  * **orsaker t spontan prematurbörd, ange 3:** pprom, infektion, cervixinsufficiens
 
 
 
@@ -7702,6 +7871,7 @@ cerivicit
   * om hinnsäck mindre 25mm: ta tillbaka patienten om 1 vecka
 * **Lisa och Sluggo** 
   * kommer till gynakuten då Lisa börjat blöda vaginalt i grav vecka 7+3 enligt sista menstruation. Graviditeten är hett efterlängtad. Vid undersökningen ser du ingen pågående färsk blödning. Uterus är drygt normalstor och ultraljudsundersökningen visar en intrauterin hinnsäck motsvarande ca 6 graviditetesveckor samt en liten ekogivande struktur centralt men ingen påvisbar hjärtaktivitet.
+    * misstanke om uteblivet missfall med tanke på blödningarna. Då det är för tidigt för att bedöma med UL om det föreligger ett missfall (dels för att UL bedömningen sätts t v6, att membranen antagliegn är därför under 25mm, samt för att hjärtaktivitet kommer att mer definitivt etablera sig eller bli visibelt åp UL de kommande 2 veckorna) kan man välja att pat kommer på ÅB om 2 veckor. Man kan dela med sig misstankarna, smat att det kommer att behövas en second opinion bedömning av en specialist för att fastställa missfallet. 
 
 
 

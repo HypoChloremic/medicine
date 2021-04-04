@@ -493,6 +493,13 @@ cerivicit
 
 
 
+### Myomrelaterad blödning
+
+***Behandling***
+
+* Hormonspiral: har en ganska bra effekt
+* // GnRH analog: har en effekt åp blödning, men används enbart inför operation, för att den har gynnande effekter på myom inför kirurgin m med att den blir mer operabel.
+
 ### RMB riklig mensblödning
 
 
@@ -1369,7 +1376,7 @@ cerivicit
     * ciklokapron
     * fertilitetsbevarnde kirurgi (om man attribuerat rikliga blödningar till hennes myom)
   * **normal onormal blödningsmängd**: medel 40mL, normalt mellan 20-80mL. Över 80mL är riklig mens och ska undersökas + få järn consistently
-* Rosa är 42 år
+* **Rosa är 42år**
   *  och remitteras från husläkaren pga rikliga vaginala blödningar. Hon har egentligen alltid haft riklig mens. Rosa har blivit tröttare på senare tid. Man har på vårdcentralen konstaterat att hon har en mikrocytär anemi oc hon är insatt på järn-tabletter. Rosa blöder regelbundet, har fött 2 barn och har nu en kopparspiral sedan sista barnets födelse för 3 år sedan. Status: AT gott BMI 27. BLt normal Buk mjuk oöm. Gyn, Status: VVP ua spiraltrådar, uterus förstorad motsvarande 10-12 gravevckor, fast hård i konsistensen Vaginalt ultraljud visar en uterus som är generellt förstorad med flera intramurala myom. Det största myomet är 3cm.
   * Skriv en kortfattad bedömning för Rosa som ska innehålla sannolik diagnos, åtgärd och förslag på behandling på kort och lång sikt. Skriv på det sätt som du skulle skriva i journaltext. Motivera ditt svar.
     * 42åå kvinna inremitterad pga rikliga vaginala blödningar i samband med mens och mikrocytär anemi, insatt järntabletter. 2 gravida 2 para, nu kopparspiral, sedan 3 år sedna. Statusmässigt oanmärningsvärt, utöver gynekoloiskt status med forstprad uterus motsvarande 10-12gravveckor, fat konsistens. Vaginalt UL visar flera intramurala myom, uterus förstorat, största myomet på 3cm. Myomen förklarar de rikliga vaginala blödningarna. Således byte av kopparspiral som kan attenuera blödningarna mot kombinerade hormonell prevention, då myomen kan ha
@@ -1486,8 +1493,8 @@ cerivicit
 
 * **radikalt eller uterussparande**
 * **farmakologiskt:** 
-  * !!! **GNRH analog minskar myometriets volym**
   * !!! **hormonspiral**: minskar ej myometriet men kan minska blödningsbesvären specifikt
+  * !!! **GNRH analog, inför operation..:** minskar myometriets volym, minskar risken för peroperativ blödning etc. verkar som att indikationen är inför kirurgi som man använder GnRH analog. 
   * **esyma**: selektiv prostaglandin; denna är avskriven, den har gett leversvikt hos vissa patienter, så ej denna längre
 * **kirurgiskt**
   * hysterektomi
@@ -4187,14 +4194,17 @@ cerivicit
 * **25åå kvinna**
   * endometrios, oklart hur länge
   * behandlats väl med Novashore: TODO (Novasure?)
-* Sussane, 18 år 
+* **Sussane, 18 år** 
   * har alltid haft smärtsam mens. Nu har det blivit värre och hon använder ipren, men det gör ändå så pass ont att hon måste va hemma från skolan. hon har en pojkvän men de har svårt att ha sex för det gör så ont vid samlag. kondom används som preventivmedel. Vid US undersökning ser allt fint ut vid inspektion, ingen ömhet i vulva eller vagina, däremor ömmar det kraftigt vid bimanuel palpation ffa på uterus baksida.
   * diagnos: endometrios
   * fastställa diagnos: laparoskopiskt är enda definitiva diagnos och gold standard; bilddiagnostiskt med UL, MR förekommer; testbehandling förekommer också 
-* Maria 29 år 
+* **Maria 29 år** 
   * gammal inkommer till gynakuten pga buksmärtor. arbetar som förskollärare. Ensamstående. alelrgisk mot pollen. för övrigt frisk. menarke 13 års ålder. regelbunda menser. använt p-piller en period utan problem dock ej nu när hon inte har en fast pojkvän. 0-grav. Laparaskopi pga buksmärtor för 3 år sedan. Ingetpatologiskt. fick ingen förklaring till smärtorna. Vaknade i dag klockan 7.05. pga smärtor i nedre delen av buken,mest på höger sida. Under dagen  litet illamående, inte haft lust att äta. Inga kräkningar. inga miktionsbesvär. SM började idag och kom på rätt tid. smärtorna har blivit något bättre men finns fortfarnade kvar. svårt att sitta. LÄtt smärtpåverkad. TEmp 37,0. Buk: mjuk ingen defenese, ömmar både höger o vänster fossa mest åt höger. Pågående måttlig mensblödning. Uterus normalstor rörlig, lätt ömmande till höger något mindre till vänster. Uterusnormalstor slemhinna 3mm. båda ovarierna ses normala. Ökad mängd vätska i buken. CRP 20, Hb 98, urinsticka visar blod. Grav test negativt. 
   * vilken diagnos är mest trolig? Motivera svaret? Endometrios; laparoskoperad sen tidigare, p-piller bättre, dysmenorre (oförklarligt detta med ensidig smärta dock, att det kan vara endometrios som spridit sig till andra delar i bukhålan). Har mens. kan diffa X-grav (men neg grav-test), appendicit och ovarialtorsion men inget på UL som antyder d, hade bara en massa vätska i FD, kan vara endometros i bukhålan etc. 
   * Handlägger fallet: enl abe inläggning, smärtlindring (HUR, TODO), observation, vidare utredning med MR (DT-buk ser man inget i nedre bukhålan..)
+* **Greta är 17år**
+  * och har svår mensvär som hon egentligen haft sedan hon fick mens vid 11 års ålder. hennes mamma köper ipren åt henne men hon tycker inte att det hjälper. Greta stannar hemma från skolan och ibland även andra dagen när hon fått mens, nästan varje månad. hur kan man hjälpa greta? föreslå en behandling och motivera denna?
+  * Endometrios; vill uppnå ovulationshämning och amenorre utöver adekvat smärtlndring. 1a hands beh kombineade p-piller. 2a hand p-piller + hormonspiral. 3e hand GnRH analog, notera att detta görs efter att man har bekräftat diagnosen antingen med radiologi eller med laparoskopi. 
 
 
 
@@ -4407,7 +4417,7 @@ cerivicit
       * **ingen bortre gräns** för behandlingslängd gestagen
       * **andra gestagener:** 
         * cerazette kan tetas; 
-        * mirena funk ofta mkt bra för beh endometrios o kan kombas med andra gestagener eller p-piller
+        * !! mirena (hormonspiralen) funk ofta mkt bra för beh endometrios o kan kombas med andra gestagener eller p-piller
     * **Visanne:** gestagen, tas i dos 1x2mg dagligen. 
       * **prövas innan GnRH el kirurgi**
       * dienogest hög endometriespec
@@ -7690,6 +7700,8 @@ cerivicit
   *  och kommer in i graviditetsvecka 9 med en liten blödning samt minskat illamående. UL ser man tom hinnsäck, ofostrig graviditet, blighted ovum
   * för ställa diagnos måste hinnsäck större än 25mm. vf viktigt inte diagnos tidigarE: inte döma ut viabel graviditet
   * om hinnsäck mindre 25mm: ta tillbaka patienten om 1 vecka
+* **Lisa och Sluggo** 
+  * kommer till gynakuten då Lisa börjat blöda vaginalt i grav vecka 7+3 enligt sista menstruation. Graviditeten är hett efterlängtad. Vid undersökningen ser du ingen pågående färsk blödning. Uterus är drygt normalstor och ultraljudsundersökningen visar en intrauterin hinnsäck motsvarande ca 6 graviditetesveckor samt en liten ekogivande struktur centralt men ingen påvisbar hjärtaktivitet.
 
 
 
@@ -7790,7 +7802,7 @@ cerivicit
 
 * **Information till patient**: förväntad blödning, smärta, mifepreston ger kräk, återkomma om inom 1h för ny tablett. 
 
-  * uppsök akuten: feber; riklig blödnig (2 bindor/h i mer än 2h)
+  * **uppsök akuten**: feber; riklig blödnig (2 bindor/h i mer än 2h)
   * ny bedöm om blödning >3v efter missfall
   * frikostil uppföljande kontroll vid beh uteblivet missfall. kan via ÖPV-gyn (öppenvårds gyn)
 
@@ -7798,14 +7810,14 @@ cerivicit
 
   * !! cykelbaserad natikonception kan inte påbörjas förrän menstruation återkommit
 
-* Missfall >12+0v
+* **Missfall >12+0v**
 
   * pat ofta i kris; erbjuda kurator + psykologiskt störd: kurator via remiss,
   * sjukskriv erbjuds
   * BM fråga om pat vill se fostret, särskilda önskemål omhndertagande + kuratorskontakt; kurator förmedlar pats önskemål om hantering av foster
   * informera att fostret kommer fotograferas. bilden kan fås via kurator; pt kan ändra sig om hanteringen under förloppet
 
-* Efter behandling
+* **Efter behandling**
 
   * sjuksrivning + partner 10-14d pga krisreak
   * överväg remiss för PAD: särskilt om önskemål fr CFM
@@ -7814,8 +7826,6 @@ cerivicit
   * evidens för hygienråd saknas
 
   
-
-
 
 ***Behandling***
 
@@ -7979,7 +7989,7 @@ cerivicit
 
 #### Gestagen
 
-***Etiologi och patofysiologi***
+***Funktion***
 
 * **Gestagen** = progesteron (s847 i blueprints boken)
 * **Två faktorer bidrar till hälsoeffekter o biverkningar**
@@ -7990,28 +8000,22 @@ cerivicit
 
 
 
+***Gestagenerna är OLIKA***
+
+* Det finns många olika gestagener
+* gestagenerna skiljer sig åt i funktion
+* !! Androgenreceptor effekten = Huvudsaklig skillnad är effekt på 
+  * vissa androgena: att den agerar nästan  som testosteron
+  * andra antiandrogena: eller att den blockerar testosteron effekter
+
+
+
 ***Balans och effekter***
 
-* **ökad gestagen** 
-  * **androgent**
-    * akne
-    * hirsutism
-    * dålig lipidbalans
-  * **mineral-kortikoid**
-    * svullnad
-    * natriumretention
-    * högre blodtryck
-* **minskad gestagen**
-  * **anti-androgen**
-    * minskad akne
-    * minskad hirsutism
-    * bättre lipidlbalans
-    * sämre sexlust
-  * **anti-mineralkortikoid**
-    * natriumförlist
-    * vätskeförlsut
-    * kaliumretention
-    * sänkt blodtryck
+| Androgen gestagen                                            | Antiandrogen gestagen                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **androgent**:<br />akne <br />hirsutism<br />dålig lipidbalans (mer triglycerider,) | **anti-androgen**<br />minskad akne<br />minskad hirsutism<br />bättre lipidlbalans<br />sämre sexlust<br /> |
+| **MIneral kortikoid**:<br />svullnad<br />natriumretention<br />högre blodtryck | **anti-mineralkortikoid**<br />natriumförlist<br />vätskeförlsut<br />kaliumretention<br />sänkt blodtryck<br /> |
 
 
 
@@ -8517,6 +8521,9 @@ cerivicit
   * utvecklar bäckenvenstrombso på kombinerade p-piller
   * blir en absolut kontraindikation för kombinerade p-piller i all framtid
   * får enbart nu gestagena preparat, står på hormonspiral
+* !! 23åå kvinna
+  * äter kombinerade p-piller. FÅr en Weber C fraktur som fixas med intern fixation. gipsas i fotlen.
+  * Nu är hon rädd för att utveckla en trombos. Vad säger du? Man sätter in trombosprofylax och får INTE sätta ut p-pillren för att det är riskökande i sig. Får fragmin så länge hon är gipsad. samt i samband med operation
 
 
 
@@ -8550,6 +8557,7 @@ cerivicit
 
 * "Har kvinnan en riskfaktor som ökar risken för trombos VTE? är svaret är ja, ska hon inte ha kombinerad metod (överhuvudtaget)"
 * **Lista på absoluta kontraindikationer riskfaktorer**:
+  * !!! **MIGRÄN MED AURA**: denna ska man absolut inte ha kombinerade metoder på
   * Previous VTE
   * VTE in parents, siblings
   * Coagulation disorder:
@@ -8572,11 +8580,21 @@ cerivicit
   * Malignancy
   * Polycytemia vera
 * **Relativa kontraindikationer**
-  * age >35
-  * smoking
-  * obesity
+  * **age >35**
+  * **smoking**
+  * **obesity**
       * discuss weight in absolute numbers
       * BMI
+  * **Surgery**: consider LMWH
+  * **Immobilisation**: consider LMWH
+
+
+
+***Vid kirurgi***
+
+* INTE sätta ut p-piller: för att det ha en riskökning i sig
+* därför väljer man att sätta in trombosprofylax: fragmin etc, som patienten får ta
+* gipsning: att patienten fortsätter att ta trombosprofylax, samtidigt som den fortsätter att äta p-piller. 
 
 
 
@@ -8604,9 +8622,21 @@ cerivicit
   * Förtjockar cervixsekret
   * Hindrar sperm fr penetrera cervix
 
+
+
 ***Biverkningar***
 
 * VTE risken ökad vid kombinerad metod: denna ökar EJ vid enbart gestagen metod
+
+
+
+***Fördelar med kombinerad metod***
+
+* Endast gestagen leder till en suppressio av östrogenet
+* Detta mår vissa kvinnor inte bra av
+* Man behöver därför östrogen för att må bättre, då det är ett hormon som är involverat lite överallt i kroppen
+
+
 
 ***Handläggning***
 

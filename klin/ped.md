@@ -3880,3 +3880,15 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 
 
 
+## Utveckling
+
+### Puberteten
+
+***Presentation***
+
+* Vilket är första tecknet på normal pubertet hos flickor:
+  * Acneförändringar
+  * rätt: Begynnande brösttillväxt. (abe)
+  * Begynnande menstruationsblödning
+  * Begynnande könsbehåring 
+  * Humörförändringar 

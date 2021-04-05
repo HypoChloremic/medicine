@@ -20,7 +20,14 @@
 
 ### Allmänt
 
+***Presentation***
 
+* 38-årig kvinna 
+  * KK akutmottagningen som för 3 dagar sedan genomgått laparaskopisksterilisering. Hon är tidigare opererad för gallsten, extrauterin graviditet och appendektomerad. Postoperativt har hon inte mått särskilt bra och söker nu pga fortsatta buksmärtor och kräkningar. Det hörs sparsamt med tarmljud. Temp 37,9 grader. 
+  * Vilka prover och undersökningar oridnerar du?
+      * Svar: CRP, HB, Buk-översikt/DT-buk 
+  * B. Vilken diangos viktigast att utesluta?
+      * svar: tarmskada i samband med op. 
 
 ### Diagnoser
 
@@ -98,6 +105,21 @@
   * behandling med metrotrexat 
   * bestämning av s-hCG och nu om 48 timmar 
   * inläggning och observation
+* 32-årig kvinna 
+  * med 3 års primär infertilitet inkommer tilll akutmottagningen i grav vecka 9. De senaste dagarna lätt molvärk i nedre delen av buken samt i korsryggen. Sedan någon timme accentuerad värk. Hon har ingen vaginal blödning. BT 160/70 , puls 100, hb 115. DU har svår att adekvat palpera uterus men utför vaginal UL.
+  * Vad gör du om du finner
+      * Förtjockat endometrium, ingen avvikande ses över adnexa 
+          * Extrauterin graviditet? Missfall? 
+          * Inläggning med provtagning u-hCG inkl kvalificerat ultraljud. Smärtlindring och observation
+      * Jämn hinnsäck med levande foster i uterus ?
+          * Urinsticka ( utesluta cystit). Inläggning för observation och inläggning. Utesluta appendicit med kvalificerat ultraljud.
+* Beatrice är 32år gammal
+  *  och tror att hon haft missfall eftersomhon blödde en del för några dagar sedan. Hon söker akutmottagningen för plötsligt insättande buksmärta i nedre delen av buken. Man noterar pos gravtest, bt 95 genom 55 , puls 130. Med ultraljud noteras ökadmängd fri vätska i lillabäckenet men ingen synlig graviditet. Vilken forstsatt handläggning är mest lämplig?
+      * Akut exeres 
+      * rätt: Akut laparaskopi
+      * Behandling med metrotrexaat 
+      * Bestämning av s-hCG nu och om 48 timmar 
+      * Inläggning och observation
 
 
 
@@ -308,6 +330,18 @@ cerivicit
     * Tuboovarialabscess skall alltid opereras inom ett dygn 
     * Tuboovarialabscess kräver i likhet med divertikulit inte alltid antibiotikabehandling
     * Tuboovarialabscess orsakas oftast av klamydia och därför måste du ta detta prov på Sabrina 
+* **Kerstin 55-år** 
+  * remitteras från kirurgkliniken till kvinnokliniken för gynekologisk bedömning pga buksmärtor. Hon har känt sig lite sjuk senaste veckan men för 1 dygn sedan fick hon hög feber 38,8 och ont i edre delen av buken, mest på vä-sida, som så småningom spred sig över hela buken. Hon uppger inga blödningar. Hon har en CU spiral som sattes in vid 40 års ålder. Hon har inte haft ngn blödning sedan menopaus vid 51 års ålder. Vid bukpalpation finner man kraftig palpationsömhet över buken, men inget tydligt peritonitsttus. CRP 120. Gynekologisk undersökning visar att spiralen är på plats. Uterus är normalstor, på vänster sida om uterus palperas en ömmande kuddig resistens. Vaginal Ulj visar en normal uterus, spiralen sitter i kaviteten och ovarierna går ej att identifiera.
+  * **Ange två troliga diagnoser?**
+      * TOA. ( Tuboovarialabscess ) och divertikuli.
+  * **B. Motivera varför du anger dessa två diagnoser**
+      * Haft kopparpsiral för lång tid vilket ger ökad risk för bakterieltillväxt. Misstänkt abscess pga kuddigheten över vänster sida uterus. Feber, smärta. 
+      * Divertikulit: feber smärta, ont i nedre delen av buken med PM vänster fossa talande för diveritkulit.
+  * **Hur får du korrket diagnos?**
+      * abdominellt UL, alternativt DT. 
+  * **Handläggning?**
+      * Rundodla, antibiotikaa iv ( tydlig infektionsmisstanke med hög feber, CRP stegring på 120. Ta bort spiral suttit för länge risk för bakterietillväxt. 
+      * Inläggning, smärtlindra, ABD UL alternativt CT. Laparaskopi vid terapisvikt.
 
 
 
@@ -349,14 +383,14 @@ cerivicit
     * trängning: läckage samband med plötsligt behov tömma urnblåsan, kan ej hålla in
     * ansträngningsinkont: samma som stressinkontinens, läckage samband skratt, nys, hosta, fysisk ansträng
   * riskfaktorer ansträngningsinkont, abe: vaginal födsel, övervikt, ålder, graviditet, tid gynop, långvarig förtoppning, diabetes, nedsatt motilitet, hereditet, HRT
-* Maria är 40-år
+* **Maria är 40-år**
   * och söker för att hon har svårt att hålla urinen i vissa sammanhang. Vilket/a av nedanstående påståenden är korrekta?
   * rätt: Ansträngningsinkontinens är vanligare hos kvinnor som fött barn 
   * Ansträngningsinkontinens innebär ofta att man får täta trängningar 
   * rätt: Ansträngningsinkontinens går att behandla med så kallad TVT operation 
   * Trängningsinkontinens går att behandla med s-k. TVT operation
   * trängningsinkontinens definieras som ofrivilligt urinläckage i samband med tex hosta, nysningar och fysiska ktivitet 
-* Gullan är 58år
+* **Gullan är 58år**
   *  och har två vuxna barn som föddes med normal förlossning. hon söker dig på vårdcentralen då hon läcker urin vid hosta och nysning. det hela har förvärrats kraftigt efter en lunginflammation. Ungefär 2-3 gånger i veckan behöver hon gå upp på natten och kissa en gång. Normalviktig, inga mediciner, inga kroniska sjukdomar.
   * vilken diagnos är mest trolig?
       * rätt: Ansträngningsinkontines
@@ -364,6 +398,13 @@ cerivicit
       * cystocele
       * nykturi
       * trängningsinkontines
+* Vilket av följande påståenden om inkontinens är korrekt.
+  * Ansträngningsinkontinens behandlas i första hand med läkemedel 
+  * rätt: Ansträngningsnikontines definieras som ofrivilligt urinläckage i samband med tex. Hosta , nysningar och fysisk aktivitet
+  * Anstärngningsinkontnines finna bara hos kvinnor som fött barn vaginalt 
+  * Ansträngnignsinkontines innebär ofta att man får täta trängningar
+  * Överaktiv blåsa går att behandla med s.k. TVT operation 
+
 
 
 
@@ -415,7 +456,7 @@ cerivicit
     * botoxinjektion i blåsa; inhib acetylkolinfrisättning i efferenta o afferenta nervändar. direkt hämmande effekt i detrusor. 
       * upprepas efter 6-8mpn. 
       * måste vara kapabel t RIK då blåstömningssvårigheter kan föreklmma efte beh med botox
-* Beta 47år
+* **Beta 47år**
   * kommer till mottagningen och säger att hon har svårt att hålla urinen. ofta läcker hon då hon försöker hitta nyckeln när hon ska öppna dörren och hon får ofta springa snabbt på toaletten då hon är rädd att kissa på sig. hon är 165 cm och väger 69 kg. Hon har fött 3 barn vaginalt och födde första barnet med kejsarsnitt. hon kissar alltid innan hon promenerar till jobbet och har då inga problem att hålla urinen. 
   * Vilken diagnos är troligast att beata har?
     * Trängningsinkontinens
@@ -424,6 +465,8 @@ cerivicit
   * möjligt förstahandsalternativ för behandling av tillståndet
     * blåsträning
     * antikolinergika (detrusitol som är tolteridin) 
+* Karin 57 år 2-para söker med ca ett års anamnes på urinträngninngar både dag och natt samt ibland läckage. Läcker oftast inte vid hosta och nysning. Ange tre tänkbara orsaker till hennes symtom. 
+  * abe: uvi, tumör, stensjd, neurosjd
 
 
 
@@ -769,15 +812,22 @@ cerivicit
 
 ***Presentation***
 
-* Ange några kliniska karakteristisak som gör att du bör misstänka en ärftlig cancer.
+* **Ange några kliniska karakteristisak som gör att du bör misstänka en ärftlig cancer.**
   * Vilket nedärvsningsmönster är vanligast?
   * anamnes på att syskon eller moder bröst eller ovariecancer och andra när
   * Varför viktigat att känna igen dessa patienter?
-* !! Vilket/a av nedanstånde påståenden är korrekta? [vet ej om sant?]
+* !! **Vilket/a av nedanstånde påståenden är korrekta? [vet ej om sant?]**
   * rätt: Endometriecancer i stadium Ia kan oftas behandlas med enbart kirurgi 
   * rätt: äggstockscancer diagnosticeras oftas i avancerade stadier 
   * vulvacancer är vanligare bland kvinnor yngre än 40 år jmf med äldre 
   * risken för äggstockscancer ökar vid användning av kombinerade p-piller
+* **Vilket av följande påståenden om gynekologisk cancer är korrekt?**
+  * Endometriecancer i stadium Ia kräver ofta kombination av strålbehandling och radikal hysterektomi 
+      * Risken för äggstockscancer ökar vid användning av kombinerade p-piller
+      * Vulvacancer har ofta en ulcererande lymfkörtel som första tecken
+      * Vulva cancer är vanligare bland kvinnor yngre än 40 år jmf med äldre
+      * rätt: Äggstockscancer diagnostiseras oftast i avancerade stadier ( iii-IV). 
+      
 
 
 
@@ -1702,6 +1752,21 @@ cerivicit
       * hysterektomi
       * myomenukleation
       * progesteronreceptormodulator ESmya
+* **Myom** 
+  * är en benign uterustumör som är realtivt vanligt förekommande hos fertila kvinnor. De upptäcks inte sällan som bifynd, men kan ibland ge upphov till både kroniska och akuta symtom som kräver behandling
+  * **Vilka kroniska och icke akuta symtom kan växande myom leda till? Ange 3.**
+    * Ökat bukomfång
+    * dyspareuni
+    * nedre buksmärta
+    * ryggsmärta
+    * blödningsproblematik
+    * trycksymptom i form av obstipation
+    * trängningar
+  * Myomkomplikation kan leda t akut buksmärta, som förutom smärta över myomet, även kan ge upphov t feber o stegrade inflammatoriska parametrar
+    * Myomnekros
+  * Vilka olika beh alternativ finns vid symptomgivande myom ange 2 farmakologisk + 2 icke farmakologiska
+    * Hormonspiral, GnRH analog
+    * hysterektomi, UL-ledd embolisering av arteria uterina, enukleation
 
 
 
@@ -1837,6 +1902,14 @@ cerivicit
   * Diagnos/diagnoser? Svarade ovarialcancer, ovarialcysta
   * ytterligare prover bekräfta diagnos: här kan man diskutera en massa TODO
 * Hur utreder man ovarialcancer: CA125, CA19-9, CA15-3, CEA, (icke-serös cancer, i.e. stromal: beta-hcg, AFP, AMH); laparocentes, pleurocentes, DT-thorax vuk
+* Ulla 56år
+  * är remitterad till dig för en gynekologisk konsultation från sin husläkare pga andfåddhet och en obehaglig känsla i buken. Dessa problem har hon haft i ca 3 månader. Ulla har alltid varit frisk, och har aldrig opererats i magen. Kom in i menopaus vid 52-års ålder. Hon är III-para ( 3 PN). Lungröntgen som gjordes i förrgår pga andfåddheten visade pleuravätska bilateralt. Hb 112g/l, mammografi u.a. 
+  * Vid undersökning palperar du en rejält utspänd buk. Gynekologisk undersökning är svår att genomföra pga en väldigt spänd buk som komprimerar vagina. 
+  * Vaginal och abdominellt ultraljud visar en liten uterus och kraftigt ökad mängd fri vätska i buken. Du ser expansivitet på höger sida som är 9*9 cm stor. 
+  * Vilken/a diagnoser misstänker du?
+      * Ovarialcancer.
+  * Motivera varför du misstänker detta?
+      * Man ser expansivitet på höger sida 9*9cm stort. Ovarialcancer brukar diagnostiseras oftast i metastaserat stadium , Stadium 3-4. Här har vi även kliniska fynd och symtom talande för metastasering såsom pleuravätska bilateralt. 
 
 
 
@@ -2039,6 +2112,13 @@ cerivicit
   * follikelcystor ses ofta hos kvinnor innan menopaus 
   * rätt: En enkelrummig, ekofattig, tunnväggig cysta upp till 4 cm hos en kvinna i fertil ålder är att betrakta som ett normalfynd 
   * en enkelrummig, ekofattig, tunnväggig cysta upp till 6cm hos en fertil ålder är att betrakta som ett normalfynd
+* **Follikelcystor ses ofta hos kvinnor efter menopaus** 
+  * Vilket av följande påståenden är korrekt?
+      * Liksom för bröstcancer finns en stark ärftlig komponent vid cervixcancer.
+      * Lätta cellförändringar försvinner oftast inte utan behandling
+      * medianåleder för att insjukna i cervixcancer är 18-25 år 
+      * rätt: medinålder för att insjuukna i cervixcancer är 55-60.
+      * konisering ökar risken för placenta previa 
 
 
 
@@ -3043,6 +3123,11 @@ cerivicit
   * rätt: prematur ovariell insufficiens
   * prolaktinom
   * turners syndrom
+* Britta 39år har inte haft mens på 7 månader. frisk. Hennes mamma hade blodpropp under sin graviditet, men i övrigt finns inget avvikande i anamnesen Labmässigt normalt Hb och crp, högt fsh. Hon remittersa till endokrinmottagning där proverna upprepas med samma resultat en månad senare.
+  * Va där det troligaste diagnosen?
+      * svar: prematur ovariell insufficiens.
+  * Vilken typ av preperat bör Britta få behandling med. Motiviera preperatet, preperaten?
+      * svar: HRT. Östrogen+gestagen. 
 
 
 
@@ -3442,6 +3527,18 @@ cerivicit
     * **Den perifera kärlresistensen minskar**
     * **Albumin ligger vanligen lägre i den tredje trimestern jmf med innan graviditeten**
     * **Pigmentförändringar i ansiktet är vanligt** 
+* **Vilket av följande påståenden är korrekt?**
+  * rätt: Albumin ligger vanligen lägre i den tredje trimestern jämfört med innan graviditetn
+  * pigmentförändringar på ryggen är vanligt under normal graviditet 
+  * vid en normal graviditet ligger kvinnans blodtryck vanligen lägre i det tredje trimestern jämfört med andra trimestern 
+  * vid normal graviditet stiger vanligen TSH i första trimestern
+  * vid normal graviditet ökar en perifera kärlresistensen
+* **Vilket av följande påståenden är korrekt:**
+  * Carpaltunnelsyndrom under tidig graviditet behöver oftast opereras 
+  * näsblödningar under graviditet är oftast ett tecken på högt blodtryck 
+  * rikliga flytningar under graviditet beror oftast på bakteriell vaginos 
+  * rätt: Smärta i bäckenlederna är vanligt under normal graviditet 
+  * Synbortfall är vanligt under normal graviditet 
 
 
 
@@ -3639,6 +3736,13 @@ En del av källorna är fr Bernebrandt
 
 
 ### Rutinundersök
+
+
+
+***Presentation***
+
+* **Vilka 4 infektioner screenas alla gravida för inom mödrahälsovården?**
+  * Rubella, syfilis, HIV, HBV
 
 
 
@@ -5236,17 +5340,32 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Presentation***
 
-* Ett korrekt alternativ:
+* **Ett korrekt alternativ:**
+  
   * tenta, MJökstockning kan uppkomma efter flera månaders amning (rätt)
   * ej korrekt var: bröstböld ofta ihållande hög feber, 
+  
 * **Erika 28åå**
+  
   * fick sitt första barn för tre veckor sedan. Idag har hon insjuknat med smärta i vänster bröst som är ömt. hon har ont i musklerna och lite huvudvärk. Tempen visar sig vara 39 grader. Bröstet är svullet, spänt, rodnat och litet småknöligt. inga besvär från något annat ställe.
   * **vad har hon**: mastit
   * **hur handlägger du det**: först tömma bröstet, amma bättre
-* Svea 
+  
+* **Svea** 
+  
   * har födde barn i förrgår och har nu feber. Du undersöker henne och det mesta är normalt utom höger bröst som är svullet och rött och det känns ett hårdare område 4\*5 cm som mitt i är lite flukturerande. Du tar en sårodling som skickas och CRP= 60 och vita= 14.
+  
+* **På jourläkarmoattningen** 
 
+  * I gävle där du arbetar som allmänläkare kommer ingrid 41 år. Hon födde sitt femte barn för 7 månader sedan. hon ammade fram till 6 månaders ålder. sedan tre veckor tillbaka känner hon en ömmande knöl i vänster bröst. Du kan palpera en resistens i bröstet som är ca 4cm stor och lätt ömmande. hon har ingen feber. 
+  * VIlken diagnos är viktigast att utesluta?
+    * aterom
+    * bröstböld 
+    * bröstcancer
+    * mjölkstockning
+    * lipom 
 
+  
 
 ***Allmänt***
 
@@ -6486,6 +6605,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * mirabergon ( betmiga)
     * detruitol
     * vitt vaselin
+- Leanne 59år 
+  - 3-para med normala förlossningar kommer itll gyn mottagningen via primärvården för bedömning. Hon klagar över skavningskänsla och känsla av att något finns i sildan. Hon har mest besvär vid promenader och ofta svårt att tömma blåsan helt. Hon behöver oftast kissa två gånger i följd. Undersökning ser du en pingpongbollstor förändirng i slidöppningen.
+  - Vad är det troligaste att förändringen du ser i slidöppningen utgörs av?
+      * svar: Cystocele, urinblåsan.
+  - Hur kan du behandla henne i detta skede på din mottagning?
+      * svar: bäckenbottenträning, lokalt östrogen, P-ring.
+- !! Gerd är 52år 
+  * och har genomgått en lång vaginal prolapsoperation vid vilkenman tog bort livmodern. Hon vaknar dagen efter operationen med högsersidig droppfot och parestesier över låret och fotryggen på samma sida. 
+  * Vilken struktur har skadats?
+      * Arteria poplitea
+      * N.femoralis
+      * N. Ileo-inguinale
+      * N. Obturatorius
+      * rätt: N.peroneus 
 
 
 
@@ -6875,6 +7008,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * POI: ingen ägglossning, varierna svarar inte på GnRH och cyklisk follikeltillväxt uteblir
     * Myom: mekaniskt problem med tex implantation
     * ätstörning: pga hypothalamisk ämning vilket gör att GnRH och gonadotropiner inte frisätts i samma nivå o ingen follikel völjs ut o ingen ägglossning de får amenorre
+* **Vilket av följande påståenden är korrekt avseende fertilitet?**
+  * Artificiell reproduktiv teknologi är inte möjligt vid azospermi: att inte kan producera spermier / spermierna inte kan ta sig fram gm ejakulationen
+  * cervixdysplasi är en vanlig orsak till kvinnlig infertilitet 
+  * rätt: Endometrios är en vanlig orsak till kvinnlig infertilitet 
+  * kvinnor med endometrios har högre risk för att utveckla ovariellt hyperstimuleringssyndrom än kvinnor med PCOS 
+  * Kvinnor med PCOS har ingen ökad risk för hyperstimuleringssyndrom 
 
 
 
@@ -7789,6 +7928,22 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * risk överdosering, ger för mkt, fosterasfyxi pga överaktivt värkarbete
   * Elins förlossning fortskrider igen. CTG regisreras kotninuerligt. Basalfrekvensen har sedan ett ar timmar stigit från 140 till 170. variabiliteten nedsatt sen en timme. Elin ingen feber. Du beslutar att ta ett skalpprov och laktat visar ett förhöjt värde. Du inser att du måste avsluta förlossningen. Cervix är nu retraherad och fosterhuvudet är slutroterat och står strax ovan bäckenbotten.
     * akut kejsarsnitt, vertex ovan spinae. 
+* **Vilket av följade påståenden är korrekt?**
+  * Rätt: Amniotomi kan utföras för förlossningsinduktion även om kvinnan är koloniserad med GBS 
+  * Att dilatera cerix genom att blåsa upp en liten ballong ovanför inre modermunnen bör bara användas tillsammans med misoprostol
+  * förlossning bör alltid i första hand induceras med sublingualt misoprostol
+  * misoprostol ges i samma doser som vid abort när det används för förlossningsinduktion
+  * oxytocindropp är förbehåller omföderskor som metod för förlossningsinduktion
+* **Kam** 
+  * är gravid med första barnet i v 39+4 . Hon kommer till förlossningen då hennes barnmorska uppmätt ett BT på 160 genom105 Kam har huvudvärk men mår annars bra. Du misstänker pre-eklampsi. 
+  * Vilka blodprover tar dU?
+      * svar: lilla tox: Hb, TPK, ALAT , ASAT, Krea, Urat.
+  * Varför tar du just dessa prover?
+      * svar. Dessa prover kan vara påverkade pga preeklampsi och man tar de därför att bedöma om de föreligger någon njur/lever påverkan osv.
+  * Du tänker att Kam nog bör induceras. Vad görs innan man bedömer om/hur en kvinna ska induceras?
+      * svar: Bishops score. Palpation av cervix. Barnmorskekontroll avseende CTG, temp, urinsticka och ev. temp. 
+  * Vad avgör vilken metod som är lämpligt?
+      * svar: mognadsstatus enligt bishops score.
 
 
 
@@ -8692,8 +8847,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * spontan prematurförlossning
       * uterusruptur
       * vasa previa 
-
-
+* 
 
 ***Etiologi och patofysiologi***
 

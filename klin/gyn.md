@@ -16,6 +16,12 @@
 
 ## Akut buk
 
+
+
+### Allmänt
+
+
+
 ### Diagnoser
 
 * Salpingit
@@ -63,10 +69,10 @@
   * kommer med akuta buksmärtor nedre buk. började högertill, nu över hela nedre buken. 0-grav. Äter NSAIDs och DMARDs pga reumatologiska besvär. Hon är hemodynamiskt stabil på akuten, hon har S-hcg som är i platå under 1500IU/L. UL utesluter heterotrop graviditet. 
   * Hon vill absolut inte opereras, utan vill få en läkemedelsbehandling. Hon har hört talas om methotrexate behandling. Vad säger du
     * Då hon just nu äter och ätit NSAID och DMARDs, som är interagerande lkm med methotrexate som kan höja dess serum-koncentration och leda till benmärgssvikt och aplastisk anemi, gastrointestinal toxicitet och död, så rekar vi ej detta, utan bör gå vidare med kirurgisk behandling. 
-* 30åå kvinna:
+* **30åå kvinna:**
   * Sekundärt infertil, sedan 2år. Genomgår en utredning för IVF behandling en privat klinik på östermalm. Nu utvecklar en X-graviditet, som är indikead för kirurgi
   * Vilket kirurgiskt tillvägagångssätt använder du: Salpingektomi!  
-* Farzaneh är 22år
+* **Farzaneh är 22år**
   * och söker för buksmärta och blödning. Man noterar positivt graviditestest vilket patienten förvånas över. 100 genom 55 , puls 130. Med ultraljud noteras ökad mängd fri vätska i lilla bäckenet men ingen synlig graviditet.
   * Vilken fortsatt handläggning är mest lämplig?
   * Akut exeres 
@@ -74,6 +80,16 @@
   * behandling med metrotrexaat 
   * bestämning av s-hcg nu och om 48 timmar
   * inläggning och observation
+* Åsa opad för X
+  * Du blir tillkallad till avd. kl 03.00 på natten för att titta på Åsa som laparoskoperats pga ett utomkvedshavandeskap under dagen.F örst mådde Åsa mkt bra men mer ont idag vid 18.00 tiden. Ingen har tittat på proverna som togs vid 22 tiden en du ser ett crp på 22 och ett LPk på 12,7 och HB 101, puls 120, bltr i liggande 90/60 
+  * Vilken diagnos är viktigast att utesluta
+    * Tarmskada
+  * Beskriv o motivera hur du resonerar dig fram t denna diagnos
+    * Risk tarmskada, uretörskada och blåsskada i samband med laparoskopi
+    * Kan leda till smärtor, peritonit, sepsis, chock och död. Möjligt att patienten också blöder.
+  * Beskriv hur man ställer rätt diagnos
+    * DT-buk / laparotomi
+    * även om DT-bild inkonklusiv kan mangå vidare med laparotomi mtp den kliniska bilden. viktitg att agera i denna situation
 
 
 
@@ -596,6 +612,15 @@ cerivicit
     * hormonspiral
     * kombinerade p-piller
     * gestagena preparat
+* Fardihe 47år
+  * III-para med normalt gyn status enl journalanteckningarna ringer på din telefontid för att få svar efter genomgång endometriebiopsi som utfördes på kvinnoklinikens mottagning pga rikliga oregelbunda blödningar som haft senaste året. histologi visar benign endometriehyperplasi 
+  * **Vilket är den troliga orsaken till Fardihes endometrieförändringar?**
+    * abe: Anovulatorisk blödning  (abe hade osså skrivit ovariell insufficiens)
+  * **mekanismen bakom flrändringarna**
+    * Utebliven ovulation, kvarstår i proliferationsfasen och follikelfasen. Endometrieslemhinnan fortsätter att proliferea och hyperplasiera. 
+  * 2 lämpliga 1a handsbehandlingar: 
+    * Gestagena behjandlingar: hormonspiral eller gestagen kur
+      * viktigt informera ormonspiral första 6månaderna orskar oregelbundna småblödningar men brukar gå över.
 
 
 
@@ -3804,7 +3829,18 @@ En del av källorna är fr Bernebrandt
 
 
 
+### Cervixrelaterat
 
+***Presentation***
+
+* !! **Märta är 27år** 
+  * och har behandlats tidigare för svåra cellförändringar med så kallas konisering vid två tillfällen. Efterkontrollerna har varit normala. hon planerar nu graviditet och undrar om hennes genomgånga operationer ökar hennes risker i samband emd graviditet och förlossning?
+  * Vad har Märta ökad risk för ?
+      * Cervixrurptur
+      * infertilitet 
+      * rätt: prematurbörd
+      * tidiga missfall 
+      * utebliven progress 
 
 ### Chorionamnionit
 
@@ -3829,6 +3865,10 @@ En del av källorna är fr Bernebrandt
 ***Utredning och handläggning***
 
 ***Behandling***
+
+
+
+
 
 
 
@@ -3877,6 +3917,18 @@ En del av källorna är fr Bernebrandt
         * Kotbehandlad GDM: om viktskattningen (v36-38) är påverkad får man planera hur d blir. om dessa är ua får man gå vidare som vid normal förlossning, med sista datum för induktion innan v42. 
         * Metforminbehandlad GDM: viktskattning (v28-32, v36-38), induktion senast 40+6. v38+0 förlossningsplanering + uppföljning av UL-tillväxt (målfödelsevikt <4500g)
         * Insulinbehandlad GDM:  viktskattning (v28-32, v36-38). induktion senast 40+6 (målfödelsevikt <4500g)
+* **Kicki 28 år,** 
+  * väntar sitt första barn och hade ett BMI på 34 vid inskrivningen. Hon kommer på kontroll på MVC i v.26. Och har gått upp 8kg. Barnmorskan uppmäter ett slumpsocker som är förhöjt. Nämn ett sätt att diagnostisera graviditetsdiabetes?
+      * Svar: OGTT 
+  * Det visar sig att hon har.
+  * **Ange 2 risker som Kicki själv löper under graviditeten och förlossningen?**
+      * svar: Ökad risk för preeklampsi, förlossningen: ökad risk för instrumentell förlossning / sectio.
+  * **Ange två risker som hennes foster löper under graviditeten och/eller förlossningen.**
+      * Svar. Skulderdystoci, brachialisskada, LGA , makrosomi , hypoglykemi postpartum.
+  * **Nämn en åtgärd som du rekommenderar att Kicki vidtar i första hand för att minska risken för komplikationer **
+      * Grundstegen i behandling av kvinnor med konstaterad GDM är personligt anpassade kostråd och livsstilsråd samt utbildning i självtest, inkl tolkning av kapillärt p glukos. Om 3 värden på en vecka ligger över målvärdet bör farmakologisk behandling inledas med metformin eller insulin.
+  * **Motivera varför fortsatta kontroller av Kicki blodsocker efter graviditeten kan vara motiverat! 
+      * Kvinnor med GDM har hög risk för att utveckla diabetes senare i livet varför de är motiverat att följa deras blodsocker.**
 
 
 
@@ -6990,6 +7042,15 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * klåda i underlivet hos en 80-årig kvinna beror oftast på lokal svampinfektion
   * rätt: lättblödande slemhinnor hos en 80-årig kvinna beror oftast på lokal östrogenbrist 
   * lättblödande slemhinnor hos en 80-årig kvinna beror oftast på lokal vaginalcancer 
+* Annika 54 år 
+  * och besväras av svettningar och humörförändringar sedan ett halvår. hon kan inte sova och har inget tålamod med folk längre. Är i övrigt frisk, förnekar viktförändring och har gått på alla hälsokontroller som samhället erbjuder. Hon hade sin senaste mensutration för 8 månader sedan.**
+  * Behövs ytterligare utredning av Annikas klimakteriesymtom?
+    * Anamnes: VTE, tromboembolisk sjd, bröstcancer, endometiecancer,
+      * följer hon mammografi o vaginalscreening
+      * status: fysikaliskt status inkl BT
+      * gyn undersökning om inte gjorts
+      * om spiral låt den va kvar ett år efter menopaus då den kan extraheras
+      * ev bröstpalpation
 
 
 

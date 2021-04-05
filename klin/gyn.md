@@ -686,21 +686,17 @@ cerivicit
 
 ***Behandling***
 
-* 1a hand Tranexamsyra
+* **1a hand Tranexamsyra**
   * Tranexamsyra är en fibrinolyshämmare som kan tas under de blödningsrikaste dagarna (ofta 3–4 dagar) för att minska blödningsmängden.
   * Patienten kan dosera efter behov: 1–1,5 g x 3–4 gånger per dygn (maxdos 6 g/dygn).
   * Tranexamsyra kan kombineras med NSAID förutsatt att patienten inte har en koagulationsrubbning.
-* NSAID: kan kombineras med tranexemsyra
+* **NSAID: kan kombineras med tranexemsyra**
   * NSAID kan tas under de blödningsrikaste dagarna (ofta 3–4 dagar) för att minska blödningsmängden och menssmärtan.
   * Rekommenderade NSAID är ibuprofen och naproxen i full rekommenderad dygnsdos, under 4–5 dagar med start vid blödningsdebut.
-* Hormonspiral
-  * Levonorgestrel utgör den mest effektiva medicinska behandlingen och är förstahandsval vid hormonell behandling.
-* Kombinerade p-piller
-  * Kombinerade p-piller, p-ring och p-plåster ger minskad mängd bortfallsblödning. Vissa p-piller är sammansatta för att ge ökad blödningskontroll.
-* Annan gestagen behandling
-  * Ytterligare gestagen behandling finns att tillgå vid behov men dessa alternativ kan dock ha en sämre biverkningsprofil.
-* Kirurgisk behandling
-* Endometrieablation, kirurgi eller hysterektomi kan vara aktuellt vid svårbehandlad menorragi eller myom.
+* **Hormonspiral**: Levonorgestrel utgör den mest effektiva medicinska behandlingen och är förstahandsval vid hormonell behandling.
+* **Kombinerade p-piller**: Kombinerade p-piller, p-ring och p-plåster ger minskad mängd bortfallsblödning. Vissa p-piller är sammansatta för att ge ökad blödningskontroll.
+* **Annan gestagen behandling**: Ytterligare gestagen behandling finns att tillgå vid behov men dessa alternativ kan dock ha en sämre biverkningsprofil.
+* **Kirurgisk behandling**: Endometrieablation, kirurgi eller hysterektomi kan vara aktuellt vid svårbehandlad menorragi eller myom.
 
 
 
@@ -4647,7 +4643,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Misstanke om endometrios skall alltid verifieras med laparoskopi
   * Endometrios bör i första hand behandlas med enbart NSAID
   * Endometrios är vanligare hos kvinnor från västra Afrika.
-  * Endometrios är vanligt hos kvinnor vars mödrar har endometrios
+  * rätt: Endometrios är vanligt hos kvinnor vars mödrar har endometrios
   * Endometrios bör i första hand behandlas kirurgiskt och radikalt med laparoskopisk resektion och diatermi.
 * **20åå kvinna**
   * endometrios, steg1 behandlas med kombinerade p-piller
@@ -9271,11 +9267,23 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Handläggning***
+!!! ***Utredning och Handläggning***
 
-* Förstahandsval: när kombinerad hormonell antikonception önskas
-  * när man önskar kombad hormonell antikoncept rekommenderas vid förstagångsförskrivning monofasiskt preparat med levonorgestrel, norgestimat eller noretisteron efter som prep med dessa gestagener gr lägst risk för VTE, rek grad B
+* Innan förskrivning, nogrann undersökning
+  * allmän + gynekologisk anamnes
+  * mäta BT
+  * kontroller bmi
+  * !! ofta gynekologisk undersökning: kan senareläggas och utebliven gyn udnderssök utgör inget hinder för förskrivning t unga kvinnor
+  * Kontroll därefter: 1-2åå intervall. 
+* Uppföljning: fokusera på oro, biverkningar, 
+* **Förstahandsval**: 
+  * när man önskar kombad hormonell antikoncept rekommenderas vid förstagångsförskrivning monofasiskt preparat med
+    *  levonorgestrel, 
+    * norgestimat 
+    * eller noretisteron 
+  * eftersom prep med dessa gestagener gr lägst risk för VTE, rek grad B
   * vid rådgiv o förskrivning ska ta hänsyn t önskemål om preparat o neg faktorer som bedöms påverka nöjdhet o följsamet
+  * "om en högre dos önskas, e.g. pga risk frör läkemedelsinteraktion, kan man överväga ge monofasiskt lågdospreparat som ges utan tablettuppebåll under e.g. tre månader. därigenom elimineras "tablettfria veckan" som är förknippad med ökad risk för escape ovulatio, vilket torde minak risken för grav. en risk med detta  regim är att det månatliga kvittot på att man inte är gravid uteblir o att en oönsakad grav kan ta längre tid att upptäcka"
 
 
 
@@ -9301,7 +9309,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * !!! **MIGRÄN MED AURA**: denna ska man absolut inte ha kombinerade metoder på
   * Previous VTE
   * VTE in parents, siblings
-  * Coagulation disorder:
+  * **Coagulation disorder**
     * antitrombindef
     * protein C-def
     * protein S-def
@@ -9328,6 +9336,18 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * BMI
   * **Surgery**: consider LMWH
   * **Immobilisation**: consider LMWH
+* **Kontraindikationer mot användning av kombinerad hormonell antikonception, enl s168 i boken**
+  * Anamnes DVT eller artärtrombos
+  * hereditet DVT (förälder, syskon)
+  * känd kaoagdefekt hos kvinnan, föräldrar, syskon
+  * sjd i hjärtklaffarna, som innebär ökad risk för tormbos
+  * migrän med fokala neurologiska symptom
+  * anamnes cerebrovaskulärsjd eller myokardsjd
+  * uttalade varicer, som kan innebära nedsatt venöst återflöde
+  * övriga tillstånd som kan predisponera för trombos t exempel omfattande kirurgi el långvarig immobilisering
+  * tidg bröstcancer
+  * akut intermittent porfyri
+  * sytematisk lupus erytmatosus
 
 
 
@@ -9739,19 +9759,30 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * mamma haft blodpropp på  p piller
   * ätit gestagen mellanpiller men blödde hela tiden
   * prövat p-stav samma sak
-  * v**ad ska vi rekommendera**
+  * **vad ska vi rekommendera**
     * hormonspiral: kan rek ändå
     * spelar ingen roll att hon koniserats
     * bara för att hon blött på gestagena, betyder inte att hon blöder på spiral
       * för att gestagena tar bort ovulation ägglossning
       * och hormonspiralen agerar lokalt, och hon troligen har kvar sin ägglossning och ett bra blödningsmönster med hormonspiralen
     * annars kopparspiral
+* Frida 
+  * som har regelbunda blödningar är 36 år och ska resa till Kreta under sin semester och undrar om du kan hjälpa henne med att skjuta upp sin mens då hon inte vill blöda när hon ska bada.
+  * Fr Kry
+    * Med en tillfällig behandling kan du flytta fram mensen genom att förlänga din menstruationscykel. 
+    * Det gör du genom att ta en hög dos av gestagen som är ett kemiskt framställt hormon. 
+    * Detta hormon finns även naturligt i kroppen i form av gulkroppshormon. 
+    * **Du påbörjar behandlingen ungefär 3 dagar till 1 vecka innan du ska få din mens** beroende på vilket läkemedel du tar. 
+    * Du kan alltså inte stoppa mensen när du redan har fått den.
+    * ehandlingen hindrar slemhinnan i livmodern från att blöda och kan tas i maximalt 14 dagar. 
+    * Under behandlingen kan det vara vanligt med bröstspänningar och PMS-liknande besvär. Efter att du har avslutat behandlingen kan det dröja ungefär 2 till 3 dagar innan du får din mens igen.
+    * notera inget skydd mot graviditet
 
 
 
 ***Utredning och handläggning***
 
-* Frågor
+* **Frågor**
   * I rådgivningssituationen är det förutom hälsoanamnesen viktigt att penetrera:
 
     * Vad gör du om du blir gravid? (om kvinnan ändå tänker sig behålla graviditeten är behovet av ett mycket säkert preventivmedel kanske lägre)

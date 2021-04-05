@@ -80,7 +80,7 @@
   * behandling med metrotrexaat 
   * bestämning av s-hcg nu och om 48 timmar
   * inläggning och observation
-* Åsa opad för X
+* **Åsa opad för X**
   * Du blir tillkallad till avd. kl 03.00 på natten för att titta på Åsa som laparoskoperats pga ett utomkvedshavandeskap under dagen.F örst mådde Åsa mkt bra men mer ont idag vid 18.00 tiden. Ingen har tittat på proverna som togs vid 22 tiden en du ser ett crp på 22 och ett LPk på 12,7 och HB 101, puls 120, bltr i liggande 90/60 
   * Vilken diagnos är viktigast att utesluta
     * Tarmskada
@@ -90,6 +90,14 @@
   * Beskriv hur man ställer rätt diagnos
     * DT-buk / laparotomi
     * även om DT-bild inkonklusiv kan mangå vidare med laparotomi mtp den kliniska bilden. viktitg att agera i denna situation
+* Anna 26år 
+  * gammal söker akutmottagningen plötsligt insättande buksmärta i nedre delen av buken. Man noterar positivt grav test vilket kommer som en överaskning, bt 100 genom 55 puls 130.Med ultraljud noteras ökad mängd fri vätska i lilla bäckenet men ingen synlig graviditet.
+  * VIlken fortsatt handläggning är mest lämplig?    
+  * Akut exeres
+  * Rätt: akut laparaskopi 
+  * behandling med metrotrexat 
+  * bestämning av s-hCG och nu om 48 timmar 
+  * inläggning och observation
 
 
 
@@ -407,6 +415,17 @@ cerivicit
     * botoxinjektion i blåsa; inhib acetylkolinfrisättning i efferenta o afferenta nervändar. direkt hämmande effekt i detrusor. 
       * upprepas efter 6-8mpn. 
       * måste vara kapabel t RIK då blåstömningssvårigheter kan föreklmma efte beh med botox
+* Beta 47år
+  * kommer till mottagningen och säger att hon har svårt att hålla urinen. ofta läcker hon då hon försöker hitta nyckeln när hon ska öppna dörren och hon får ofta springa snabbt på toaletten då hon är rädd att kissa på sig. hon är 165 cm och väger 69 kg. Hon har fött 3 barn vaginalt och födde första barnet med kejsarsnitt. hon kissar alltid innan hon promenerar till jobbet och har då inga problem att hålla urinen. 
+  * Vilken diagnos är troligast att beata har?
+    * Trängningsinkontinens
+  * Hur kan diagnosen bekräftas
+    * dryck / miktionslista
+  * möjligt förstahandsalternativ för behandling av tillståndet
+    * blåsträning
+    * antikolinergika (detrusitol som är tolteridin) 
+
+
 
 
 
@@ -4017,7 +4036,7 @@ En del av källorna är fr Bernebrandt
 
 
 
-### Graviditetsillamående
+### Graviditetsillamående och Hyperemsis Gravidarum
 
 
 
@@ -4034,8 +4053,33 @@ En del av källorna är fr Bernebrandt
     * **lättare illamående**: räcker kostråd o livsstil; e.g. mat som ej doftar, mindre portioner, undvik fet mat, minska kaffekonsumtion,
       * om ingen effekt ger meklozin eller prometazin
     * **svårare gad:** blodstatus, elektrolytstatus, urinsticka för ketonuri, thyroideastatus, leverstatus (enl abbe)
-
-
+* Linda 
+  * väntar sitt första barn. hon är i vecka 8 och mår så illa-kräks varje dag. Hon kommer till dig på mödravården och undrar nu vad hon ska höra och om de finns någon bot eller behandling.
+  * Hur kan du hjälpa henne?
+    * Illamående vanligaste symptomet tidigt gravidiett. upp t 80% ngn illamåpende o kräkningar. 
+    * Brukar vara 6e grav veckan o vanligen över vid v20
+    * Värst på morgonen
+    * Trötthet, tom mage, stress kan bida. 
+    * Ökad luktkänslighet sätter igång illamåpndet
+    * uttalade besvär när inte kan behålla ngt: hyperemesis gravidarum. drabbar 1%, snabb dehydrering elektrolytstörning, viktförlust, sjukhusvård. oklar etiologi. grav hormoner + hcg nämns som orsaker
+    * Behandlingsmässigt i hennes fall nu
+      * beror på grad symptom
+      * lindrigare fall: livsstilsförändringar. avråda stark kryddig mat och undvika fet mat. minska kaffekonsumption. äta många små måltidr. tilltugg före uppstigande o äta kall o torr föda. 
+      * om otillräckligt av detta: antiemetika e.g. meklozin och prometazin
+      * prometazin: antihistaminikum
+      * ingefära kan hjölpa
+  * Hon kommer tillbaka två veckor senare o tycker det är ännu värre. kräks hela tiden och får inte behålla någon mat. Hon har gått ned 4kg i vikt. har svimmat vid 2 tillfällen. Du remitterar till dina kolleger påKK.
+  * Beskriv 4 åtgärder som kommer vidtas när hon kommer till sjukhuset samt motivera varje åtgärd.
+    * hyperemesis gravidarium
+    * uttalade besvär + frekventa kräkningar: kontrolleras elektrolytstatus, leverstatus, kreatinin, hematokrit, TSH, ketonuri
+    * multipel grav + mola måste uteslutas
+    * oklar patogenes t hyperemesis, symptomatisk behandling
+    * sjukhusvård + korrektion vätska elektrolyter + antiemetika rektalt eller parenteralt + parenteral nutrition om ej svara cätsketerapi
+    * persisterande kröknigar: andra bakomliggandeorsaker måste uteslutas: gastroenterit, kolecystit, hepatit, ulcus, pyelonefrit, leversteatos
+    * anamnes: psyk, pregravid vikt.
+    * klin bedömning dehydrering: detta då minstkat intag kräkts ned i vikt
+    * UL undersökning, BT, puls: cirk påverkan och fsotret
+    * bedömnig provsvar
 
 ***Etiologi och patofysiologi***
 
@@ -4059,7 +4103,7 @@ En del av källorna är fr Bernebrandt
   * **bör du göra**: remittera t kvinnoklinik
   * **prover kan bidra t diagnos**: leverprover och TPK
   * **yttersta konsekvens**: kramper (eklampsi), hjärnblödning, koagulationsrubbning
-  * 
+* 
 
 
 
@@ -4498,6 +4542,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 ### Storlek foster
+
+***Presentation***
+
+* !!! Soheila är 25 år 
+  * och väntar sitt första barn. hon har vistats utomlands i hemlandet under hela sin graviditet och kommer till MVC för inskrivning 30 veckor efter sista mens. hon är i övrigt helt frisk.Barnmorskan noterat ett SF mått som vida överstiger +2SD.
+  * Ange minst tre skäl till ökat SF-mått.
+    * Felmätning (individuell variationsmätning , tummen på fel ställe), 
+    * GDM, 
+    * felberäknat grav längd.
+    * Tvillingbörd, 
+    * polyhydraminos
+
+
 
 #### IUGR
 
@@ -7046,11 +7103,18 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * och besväras av svettningar och humörförändringar sedan ett halvår. hon kan inte sova och har inget tålamod med folk längre. Är i övrigt frisk, förnekar viktförändring och har gått på alla hälsokontroller som samhället erbjuder. Hon hade sin senaste mensutration för 8 månader sedan.**
   * Behövs ytterligare utredning av Annikas klimakteriesymtom?
     * Anamnes: VTE, tromboembolisk sjd, bröstcancer, endometiecancer,
-      * följer hon mammografi o vaginalscreening
+      * betona, följer hon mammografi o vaginalscreening
       * status: fysikaliskt status inkl BT
       * gyn undersökning om inte gjorts
       * om spiral låt den va kvar ett år efter menopaus då den kan extraheras
       * ev bröstpalpation
+    * Hur skiljer sig beh vid klimakteriebesvär mellan kvinnor med o utan livmoder uterus
+      * HRT vs ERT
+      * föreligger livmoder: östrogen + progesteron, i.e. HRT
+      * utan livmoder: ERT, då endometrieprotektion inte behövs
+    * Motivera vf behandlingen skiljer sig åt
+      * östrogenets proliferativa effekt på endometrieslemhinnan (inducerad proliferaitionsfas) med enbart östrogen leder t att slemhinnan genomgår hyperplasi (mitoser). med ökad risk för endometriecancer, varför det är motiverat med proliferationshämning med pogesteron
+      * 
 
 
 
@@ -8159,6 +8223,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * framstupa kronbjudning
   * minst huvudomfång
   * därför enklare passage gm förlossningskanalen
+* !!! Svea 3 grav 2 para kommer förlossningen grav vecak 37 för planering av sätesändläge. Tidigare 2 pN.
+  *  !! Vad erbjuer man i första hand? svar: Yttre vändning
+  *  Vad finns det för andra alternativ? kejsarsnitt, förlossning i sätesbjudning 
+  *  kan vara så att iom tidigare förlöst så kan man tänka sig förlösa i sätesbjudning annars hade nog alternativet varit kejsarsnitt.
 
 
 

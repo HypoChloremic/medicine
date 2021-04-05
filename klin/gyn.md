@@ -51,6 +51,29 @@
   * grav vecka brukar X ge symptom: efter v5
   * visar sig X, föklara blödning 2v sedan: olaga blödning, ej mens. 
   * 3 behandlingsalternativ t X: exspektans; medicinsk behandling (methotrexate); kirurgisk behandling
+* **26-årig kvinna**
+  * väsentligt frisk söker dig på grund av lågt sittande buksmärta med viss utstrålning mot ryggen och vaginal blödning. Hon lever i ett fast förhållande sedan 2 år och använder kondom som preventivmedel. Hon är 0-gravida. Hon berättar att hon haft attacker av lågt sittande buksmärta den senaste veckan men de gått över efter en stund. Det gör mer ont åt vänster seda nedtill i buken. Vid bukpalpation finner du att hon är rejält ömt nedtill i buken. 
+  * Vilken/a bakomliggande diagnoser bör du ha mest respekt för i detta här läget och vad blir det mest lämpliga fortsatta handläggningen? motivera svaret.
+    * X-grav, extrauterin graviditet
+    * buksmärta + olaga blödning: 85% av alla har ngn eller båda symptomen
+    * gyn-undersökning, UL, u-hCg, Hb, urinsticka.
+    * beroende på UL och u-hCG etc ta tällning om det är ett X
+    * om det ska exspekteras, behandlas medicinskt, eller kirurgiskt
+* !!! **27-årig kvinna**
+  * kommer med akuta buksmärtor nedre buk. började högertill, nu över hela nedre buken. 0-grav. Äter NSAIDs och DMARDs pga reumatologiska besvär. Hon är hemodynamiskt stabil på akuten, hon har S-hcg som är i platå under 1500IU/L. UL utesluter heterotrop graviditet. 
+  * Hon vill absolut inte opereras, utan vill få en läkemedelsbehandling. Hon har hört talas om methotrexate behandling. Vad säger du
+    * Då hon just nu äter och ätit NSAID och DMARDs, som är interagerande lkm med methotrexate som kan höja dess serum-koncentration och leda till benmärgssvikt och aplastisk anemi, gastrointestinal toxicitet och död, så rekar vi ej detta, utan bör gå vidare med kirurgisk behandling. 
+* 30åå kvinna:
+  * Sekundärt infertil, sedan 2år. Genomgår en utredning för IVF behandling en privat klinik på östermalm. Nu utvecklar en X-graviditet, som är indikead för kirurgi
+  * Vilket kirurgiskt tillvägagångssätt använder du: Salpingektomi!  
+* Farzaneh är 22år
+  * och söker för buksmärta och blödning. Man noterar positivt graviditestest vilket patienten förvånas över. 100 genom 55 , puls 130. Med ultraljud noteras ökad mängd fri vätska i lilla bäckenet men ingen synlig graviditet.
+  * Vilken fortsatt handläggning är mest lämplig?
+  * Akut exeres 
+  * rätt: akut laparaskopi 
+  * behandling med metrotrexaat 
+  * bestämning av s-hcg nu och om 48 timmar
+  * inläggning och observation
 
 
 
@@ -77,10 +100,7 @@
 ***Kliniska kännetecken***
 
 * Ensidig buksmärta: e.g. i ena fossan
-* Defence?
-* 
-
-
+* Defence
 
 
 
@@ -89,9 +109,54 @@
 * **S-hCG**: fördubblas på 2dygn vid viabel intrauterin grav (<= 8v)
   * halveras på 2 dygn vid avsaknad nyproduktion
 
+
+
 ***Behandling***
 
-
+* !!! **Exspektans under S-hCG**: förutsätter att det är ej en allvarlig X
+  * Hemodynamiskt stabil
+  * Patienten är asymptomatisk
+  * Patienten eh har vätska i buk: Ingen blödning i buken (FD ska vara tom)
+  * Adnexresistens är <4cm på vaginalt UL
+  * S-hCG nivåer sjunkande, företrädesvis <1000IU/L
+  * ***S-hCG kontroll intervall***: 
+    * initialt 2d intervall
+    * därefter vanlinen 1/vecka tills att S-hCG normaliserat (<5IU/L)
+    * ***Aktiv behandlinb indikerat:*** stigande S-hCG, eller tilltagande symptom
+* **Primär methotrexate**
+  * **Förutsättningar**
+    * SÄKER Diagnos ektopisk graviditet
+    * INTE HETEROTOP graviditet (X-grav + samtidig intrauterin grav)
+    * Cirkulatoriskt opåverkad
+    * inga tecken intrabdominell blödning
+    * !!! inga kontraindik för methotrexate föreligga + komb interagerande lkm, speciellt NSAID
+      * NSAID / DMARDs: kan öka konc methotrexate -> benmärgssupp, aplastisk anemi, gastrointestinal tox -> ökad mortalitet
+  * **Kan övervägas**: s-hcg långsamt stigande / s-hCG platå; båda under 1500IU/mL
+* **Kirugisk behandling**: 1a hands alternativ verkar det som
+  * Förstahandsvalet vid:
+    * vid stigande S-hCG >1000IU/L: 
+    * blödning i bukhålan
+    * påvisad levande ektopisk graviditet med vaginalt UL 
+    * synlig tubargraviditet (>4cm?) / hematom >4cm
+    * Hemodynamiskt instabil patient
+  * **kan göras laparoskopiskt om sp är lämpligt**
+  * **Salpingektomi**: 
+    * försumbar risk för persisterande trofoblast
+    * mindre risk blödning peroperativt, postoperativt jfr tubotomi
+    * **1a handval** 
+      * avslutat barnafödande: att kvinnan inte föder fler barn
+      * levande ektopisk tubargraviditet
+      * s-hcg > 4000IU/L
+      * tidigiare ipslateral tuba graviditet
+      * kirurgisk situation kräver det: isthmical grav, stor skada äggledare, hemostasproblem
+      * alltid vid heterotrop grav
+      * asssterad befruktning: starkt övrvägas vid tuvar grav vid planerad eller pågående 
+  * **Tubotomi**
+    * man har sväng gällande denna, att man hellre gör en salpingektomi
+    * övriga situationer. 
+    * notera att grav ofta sitter proximalt om hematomet i tuban. 
+    * Vid assisterad befruktning ÖKAS RISKEN FÖR NY TUBAGRAV vid tubotomi, därför använde man inte den. 
+    * kvarvarande trofoblast 7%: man måste följa S-hCG tills den nått under ref för att acceptera, annars åter kir eller methotrexate. 
 
 ### PID
 
@@ -201,7 +266,7 @@ cerivicit
 
 
 
-### TOA - Tuboovarial abscess
+### TOA - Tuboovarial abscess TODO
 
 
 
@@ -211,7 +276,14 @@ cerivicit
   * remitteras från kirurgkliniken till kvinnoklinikenför gynekologisk bedömning pga buksmärtor. Insjuknade för 1 dygn sedan med hög feber 38,8 och ont i nedre delen av buken. Det ondra var inititalt mest på vänster sida, men nu har det spritt sig till hela buken. inga vaginala blödningar. har en CU-spiral sedan 10 år. Vid bukapalpation finner man kraftig palpationsömhet ver buken, meningen tydligt peritinoitstatus. CRP 120. Gynekologisk undersökning visar normallånga spiraltrådar ur cervix. Uterus normalstor, på vänster sida om uterus palperas en ömmande kuddig resistens. Vaginalt ultraljud visar en normalbild över uterus, spiralen sitter i kaviteten och ovarierna går ej att identifiera.
   * 2 diffar du misstänker: TOA, divertikulit
   * lämpliga åtgärder, motivera svar: inläggning, smärtlindring, spiralen ut + odlas. insättning iv antibiotikka misstanke TOA. om sit försämras  o kirurgui krävs, så kan man glra laparoskopisk tubotomi (tidigare salpingektomi med laparotomi)
-  * 
+* **Sabrina är 47år**
+  * och inkommer med feber och misstänkt infektiös process i lilla bäckenet. Du misstänker tuboovarialabscess 
+  * Vilken information ger du Sabrina?
+    * rätt: Risken för tuboovarialabscess är ökad hos kvinnor som tidigare haft salpingit
+    * Sabrina har haft otur då tuboovarialabscess är vanligast hos kvinnor innan 40 års ålder 
+    * Tuboovarialabscess skall alltid opereras inom ett dygn 
+    * Tuboovarialabscess kräver i likhet med divertikulit inte alltid antibiotikabehandling
+    * Tuboovarialabscess orsakas oftast av klamydia och därför måste du ta detta prov på Sabrina 
 
 
 
@@ -253,6 +325,21 @@ cerivicit
     * trängning: läckage samband med plötsligt behov tömma urnblåsan, kan ej hålla in
     * ansträngningsinkont: samma som stressinkontinens, läckage samband skratt, nys, hosta, fysisk ansträng
   * riskfaktorer ansträngningsinkont, abe: vaginal födsel, övervikt, ålder, graviditet, tid gynop, långvarig förtoppning, diabetes, nedsatt motilitet, hereditet, HRT
+* Maria är 40-år
+  * och söker för att hon har svårt att hålla urinen i vissa sammanhang. Vilket/a av nedanstående påståenden är korrekta?
+  * rätt: Ansträngningsinkontinens är vanligare hos kvinnor som fött barn 
+  * Ansträngningsinkontinens innebär ofta att man får täta trängningar 
+  * rätt: Ansträngningsinkontinens går att behandla med så kallad TVT operation 
+  * Trängningsinkontinens går att behandla med s-k. TVT operation
+  * trängningsinkontinens definieras som ofrivilligt urinläckage i samband med tex hosta, nysningar och fysiska ktivitet 
+* Gullan är 58år
+  *  och har två vuxna barn som föddes med normal förlossning. hon söker dig på vårdcentralen då hon läcker urin vid hosta och nysning. det hela har förvärrats kraftigt efter en lunginflammation. Ungefär 2-3 gånger i veckan behöver hon gå upp på natten och kissa en gång. Normalviktig, inga mediciner, inga kroniska sjukdomar.
+  * vilken diagnos är mest trolig?
+      * rätt: Ansträngningsinkontines
+      * blandinkontines
+      * cystocele
+      * nykturi
+      * trängningsinkontines
 
 
 
@@ -267,6 +354,10 @@ cerivicit
   - Intrinsic sphincter syndrome. 
   -  uretra blir stel och glappt urinrör + låg tryck  
   - sfinkter interna verkar vara påverkat
+
+
+
+
 
 ***Behandling***
 
@@ -494,7 +585,17 @@ cerivicit
 * **TODO Maria 45 år** 
   * kommer till gynekologiska mottagning på grund av rikliga blödningar. Maria var opererad för 10 år sedan på KK på grund av invasivt cervikalt adenocarcinom och man gjorde en trackelektomi. maria har gått i 5 år pga regelbundna kontroller på KK, därefter på kontroller hos en öppenvårdsgynekolog. Proven har varit normala, inget recidiv av sjukdomen Vid den aktuella undersökninngen man ser blod i vagina, uterus palperas normalt stor, inga förändringar på plats av ovarierna kan palperas.
   * troligaste diagnos + vilken diagnos måste uteslutas: anovulatorisk blödning mest sannolik + måste utesluta recidiv adenocarcinom
-  * 
+* !! **Elisabeth 46 år**: ganska kraftig blödning; fråga vilken akut behandling man ska ge. 
+  * är tidigare frisk söker på kvinnoklinikens akutmottagning pga riklig blödning. Efter 3 månaders blödningsuppehåll har hon nu fått en mycket riklig blödning med koagler. Hon har nu i 3 dagar och nätter blött igenom både binda och tampong. Hon har inga mediciner och inget eget preventivmedel. Vid den gynekologiska undersökningen finner du att uterus är normalstor, det rinner blod ur cervix. Ultraljudsundersökningen visar normala förhållanden. patientens Hb är 98g/l. Elisabeth har provat cyklokapron som skrevs ut av hennes husläkare igår i dosen 1g\*4 utan större effekt. Föreslå diagnos och redogör kort för dess bakomliggande mekanism?
+    * Anovulatorisk blödning. 
+    * brukar drabba perimenopausalt + unga som precis fått menarche. 
+    * beror på östrogenåpslag utan progesteron (avsaknad LH-peak, ovulation, corpus luteum, progesteron påslag). 
+    * slemhinna proliferar, proliferationsfas, follikelfasen. TIlls fläckvisa nekrotiska partier och avstötnignsblödningar, samtidigt med en fortsatt proliferatio i reseterande delar av endometriet
+    * hos äldre brukar vara ovariedysfunktion. yngre domogen hpothalamus-hypofys-gonad axel
+  * 1a handsbehandlingar
+    * hormonspiral
+    * kombinerade p-piller
+    * gestagena preparat
 
 
 
@@ -530,8 +631,6 @@ cerivicit
 * **Cykliskt gestagen**: 3-6månader
 * **Kombinerade p-piller**
 
-
-
 ### Missfalls blödning
 
 ***Presentation***
@@ -547,11 +646,63 @@ cerivicit
 
 ### RMB riklig mensblödning
 
+***Presentation***
+
+* Lydia är 42år
+  * gammal och har fött två barn. Hon lever i en ny fast relation och önskar nu p-piller när hon nu slutat amma. Hon är frisk för övrigt och ingen i hennes släkt har haft blodproppar. Hennes mensutrationer har blivit rikligare med åren men hon upplever att de är normala. Du kontrollerar för säkerhetsskull ett hb som är 115 . bt normalt o somatisk undersökning ink vaginalt ultraljud utfaller normalt .
+  * Metod mest lämplig för lydia
+    * rätt: hormonspiral
+    * kombinerade ppiller
+    * kopparspiral
+    * p-plåster
+    * pring
+
 
 
 ***Behandling***
 
 * Hormonspiral: denna verkar ha bäst effekt för att minska blödningarna. 
+
+#### Menorragi
+
+***Diagnos***
+
+* blödning över 80mL
+* eller blödningslängd 8d
+
+
+
+***Dffa***
+
+* Myom
+* polyp
+* koagulopati
+* infektion
+* endometiecancer
+* antikoag behandling
+* missfall
+
+
+
+***Behandling***
+
+* 1a hand Tranexamsyra
+  * Tranexamsyra är en fibrinolyshämmare som kan tas under de blödningsrikaste dagarna (ofta 3–4 dagar) för att minska blödningsmängden.
+  * Patienten kan dosera efter behov: 1–1,5 g x 3–4 gånger per dygn (maxdos 6 g/dygn).
+  * Tranexamsyra kan kombineras med NSAID förutsatt att patienten inte har en koagulationsrubbning.
+* NSAID: kan kombineras med tranexemsyra
+  * NSAID kan tas under de blödningsrikaste dagarna (ofta 3–4 dagar) för att minska blödningsmängden och menssmärtan.
+  * Rekommenderade NSAID är ibuprofen och naproxen i full rekommenderad dygnsdos, under 4–5 dagar med start vid blödningsdebut.
+* Hormonspiral
+  * Levonorgestrel utgör den mest effektiva medicinska behandlingen och är förstahandsval vid hormonell behandling.
+* Kombinerade p-piller
+  * Kombinerade p-piller, p-ring och p-plåster ger minskad mängd bortfallsblödning. Vissa p-piller är sammansatta för att ge ökad blödningskontroll.
+* Annan gestagen behandling
+  * Ytterligare gestagen behandling finns att tillgå vid behov men dessa alternativ kan dock ha en sämre biverkningsprofil.
+* Kirurgisk behandling
+* Endometrieablation, kirurgi eller hysterektomi kan vara aktuellt vid svårbehandlad menorragi eller myom.
+
+
 
 ## Cancer
 
@@ -562,9 +713,14 @@ cerivicit
 ***Presentation***
 
 * Ange några kliniska karakteristisak som gör att du bör misstänka en ärftlig cancer.
-* Vilket nedärvsningsmönster är vanligast?
+  * Vilket nedärvsningsmönster är vanligast?
   * anamnes på att syskon eller moder bröst eller ovariecancer och andra när
-* Varför viktigat att känna igen dessa patienter?
+  * Varför viktigat att känna igen dessa patienter?
+* !! Vilket/a av nedanstånde påståenden är korrekta? [vet ej om sant?]
+  * rätt: Endometriecancer i stadium Ia kan oftas behandlas med enbart kirurgi 
+  * rätt: äggstockscancer diagnosticeras oftas i avancerade stadier 
+  * vulvacancer är vanligare bland kvinnor yngre än 40 år jmf med äldre 
+  * risken för äggstockscancer ökar vid användning av kombinerade p-piller
 
 
 
@@ -772,6 +928,22 @@ cerivicit
   * Förklara vad högrisk HPV är, vilken betydelse det kan ha oc hur du ska gå vidare med att utreda Beata.
     * HPV virus varianter som har en högre propensitet för att inducera cellförändringar och neoplasiering (inflammatorisk process etc)
     * utredningsmässigt kolposkopi med riktade biopsier. 
+* **Du är WHO-konsult**
+  *  på hälsoministriet i ett sjukvårdsdisrikt i ett grannland till sverige. Här har man hittills bara haft s.k. opportunistiskt screening, dvs. man har tagit prover på kvinnor som sökt för gynekologiska besvär, men inte haft regelbunden kallelse för alla kvinnor. Dett uppdrag är nu att medverka till uppbyggnad av ett screeningprogram med provtagning för att identifiera förstadier till cervixcancer. Du beöver nu övertyga de ansvariga på ministriet om nyttan med denna screening. Genom att använda dina kunskaper om riktlinjer för att starta ett screeningprogram , motiviera varför screening för CIN kan uppfylla kriterierna för screeningprogram.
+    * måste va en sjukdom med en viss prevalence i populationen
+    * Som ger signifkant hälsoproblem 
+    * Prekliniska stadier där diagnos kan hittas 
+    * Tiidg diagnos som ökar chansen för bot 
+    * Tilllgängligt test med bra sensivitet och specifitet 
+    * sjukdom med certain prevalens in the population
+    * Signifkant health problem
+    * Prekliniskt stadium där diagnos genom screening är möjlig 
+    * Tidig diagnos ökar bot 
+    * Availabe test with proper sensivity and specififty 
+    * Rädda flera 100 liv per år. 
+    * Diagnosen är allavarlig men med upptäckt tidigt förbättrar prognos oerhört. 
+  * **Förslag förbättra det prediktiva värdet t** 
+    * Kombinera cellprovstagning som har låg sensitivitet Med HPV-testningen som har närmare 100% sensivitet men sämre specifitet.
 
 
 
@@ -829,9 +1001,9 @@ cerivicit
 * **cervixcancer pres med symptom**
 * **ett cytologprov vid utredning kan fördröja**
 * **Nya riktlinjer**
-  * Nya svenska riktlinjer för HPV-screening finns, men är inte implementerade i klinisk praxis.
+  * **Nya svenska riktlinjer för HPV-screening finns, men är inte implementerade i klinisk praxis.**
   * I de nya riktlinjernahöjs den övre gränsen till 64 år. Cytologiscreening görs i åldrarna 23–29.
-  * HPV-screening inleds vid 32, fortsätter vart tredje år till 50 års ålder och sedan vart sjunde år. 
+  * !!! **HPV-screening inleds vid 32, fortsätter vart tredje år till 50 års ålder och sedan vart sjunde år**. 
   * Vid 41 föreslås screening med både HPV-test och cytologi. HPV-positiva kvinnor med normal cytologi ska hänvisas åter till screeningprogrammet med nytt prov efter tre år, och vid positivt test remitteras för utredning.
   * Screeningintervall på minst fem år rekommenderas för god balans mellan nytta och risk för överdiagnostik och överbehandlin
 
@@ -866,14 +1038,34 @@ cerivicit
 ***Utredning och handläggning***
 
 * **Screening program...**
-  * 23-50åå: vart 3e år;  mödravården för cellprovtagnign + analys för  (cytologi) (pap smear)
-  * 41åå: kompletterande analys för cytologi
-  * o kvinnor mellan 50-64åå vart 7e år
+  * **Cytologiscreeningen**
+    * 23-29åå, vart 3e år cytologi bara (ingen HPV);  mödravården för cellprovtagnign + analys för  (cytologi) (pap smear)
+    * !!! 41åå: ***kompletterande analys*** för cytologi: HPV-test + cytologi
+      * pos HPV + normal cutologi: åter t screeningprogram, nytt prov efter 3 år. 
+      * Pos test remitteras för utredning
+    * Notera att man efter år 30 inte gör ngn cytologi förutom vid år 41, då det är cytologi + HPV
+    * **Motiveringen för detta**: 
+      * Avgörande för rekommendationen är att det inte finns något vetenskapligt stöd för att cellprov för HPV är en mer effektiv testmetod än cellprov för cytologi i denna åldersgrupp. Dessutom är andelen kvinnor i åldern 23–29 år som bär på HPV mycket hög.
+      * Risk överdiagnostik om man testar HPV för 23-29, vilket ger onödig mkt vård. 
+      * HPV under 30år är oftsat **självläkande**, behöver inte negativ konekvens. 
+  * **HPV-screeningen**
+    * 32år-64år
+    * 32år-50år: var tredje år
+    * 50-64år: var sjunde år
+    * 41åå: cytologi + HPV (ett extra test specifikt)
+    * **Motiveringen**: 
+      * Avgörande för rekommendationen är att HPV-test har en ökad cancerförebyggande effekt (jämfört med primär cytologisk analys), 
+      * !! **under förutsättning att positiva HPV-test följs upp med en cytologisk analys av eventuella cellförändringar.**
+      * Enligt Socialstyrelsens rekommendation bör även de kvinnor som kallas vid cirka 41 år primärt analyseras för både HPV och cytologi. Detta för att säkerställa att samtliga cellförändringar upptäcks, även i de få fall som kan uppstå utan en aktiv HPV-infektion
   * Syfte cellprovtagning: upptäcka tidg förändringar för att kunna behandla de i tid innan evt cancer 
 * **Utredning på mottagning**
   * **Kolposkopi**: är visuell inspektion cervix med special low-magnification microscope, in search for abnormaliteter aiming to identify och ta sample fr atypiska site for biopsi
   * **Riktade biopsier**
   * **Bedömning**: vad som orsakar cellatypin; hur evt behandling ska ske; ger allmänt lugnande info
+
+
+
+<img src="./imgs/gyn_sam_050421_jSeYtZG8Uk.png" alt="jSeYtZG8Uk" style="zoom:50%;" />
 
 
 
@@ -1425,6 +1617,14 @@ cerivicit
   *  och remitteras från husläkaren pga rikliga vaginala blödningar. Hon har egentligen alltid haft riklig mens. Rosa har blivit tröttare på senare tid. Man har på vårdcentralen konstaterat att hon har en mikrocytär anemi oc hon är insatt på järn-tabletter. Rosa blöder regelbundet, har fött 2 barn och har nu en kopparspiral sedan sista barnets födelse för 3 år sedan. Status: AT gott BMI 27. BLt normal Buk mjuk oöm. Gyn, Status: VVP ua spiraltrådar, uterus förstorad motsvarande 10-12 gravevckor, fast hård i konsistensen Vaginalt ultraljud visar en uterus som är generellt förstorad med flera intramurala myom. Det största myomet är 3cm.
   * Skriv en kortfattad bedömning för Rosa som ska innehålla sannolik diagnos, åtgärd och förslag på behandling på kort och lång sikt. Skriv på det sätt som du skulle skriva i journaltext. Motivera ditt svar.
     * 42åå kvinna inremitterad pga rikliga vaginala blödningar i samband med mens och mikrocytär anemi, insatt järntabletter. 2 gravida 2 para, nu kopparspiral, sedan 3 år sedna. Statusmässigt oanmärningsvärt, utöver gynekoloiskt status med forstprad uterus motsvarande 10-12gravveckor, fat konsistens. Vaginalt UL visar flera intramurala myom, uterus förstorat, största myomet på 3cm. Myomen förklarar de rikliga vaginala blödningarna. Således byte av kopparspiral som kan attenuera blödningarna mot kombinerade hormonell prevention, då myomen kan ha
+* !! **Majvor är 52 år**
+  * o frisk bortsett från essentiell hypertoni som hon behandlar med enalapril 10mg*1. Hon sökte för buksmärtor vid kirurgakuten för 6 veckor sedan och man noterade då flertalet myom i livmodern vid CT undersökning. hon är nu helt besvärsfri. Majvor har fött två barn som nu är vuxna och hon har inte längre några menstruationer.
+  * Vilken handläggning är mest lämplig för Majvor?
+    * Embolisering
+    * hysterektomi 
+    * lugnande besked - ingen åtgärd 
+    * myomenukleation 
+    * rätt: specialisultraljud för att bedöma risk för sarkom.
 
 
 
@@ -1751,6 +1951,19 @@ cerivicit
 ## Cystor
 
 ### Allmänt
+
+***Presentation***
+
+* !! **Matilda 20 år**
+  * med ultraljud inför att hon önskar bli gravid ser du en cysta på 3,5 cm på ena äggstocken. 
+  * VIlket/a av nedanstående påståenden är korrekta?
+  * Alla äggstockscytor behöver undersökas av gynekolog 
+  * corpus luteumcystor försvinner alltid spontant 
+  * follikelcystor ses ofta hos kvinnor innan menopaus 
+  * rätt: En enkelrummig, ekofattig, tunnväggig cysta upp till 4 cm hos en kvinna i fertil ålder är att betrakta som ett normalfynd 
+  * en enkelrummig, ekofattig, tunnväggig cysta upp till 6cm hos en fertil ålder är att betrakta som ett normalfynd
+
+
 
 ***Riskfaktorer***
 
@@ -2332,20 +2545,28 @@ cerivicit
   * om gestagentest neg, FSH 77mIU/mL: prematur ovariell svikt
   * om prover normala, gestagentest positivt, fler hormonprover: testosteron, SHBG för att bedöma PCOS
   * Kommentarer: iom ingen mens = hypogonadism. Frågan blir vilken typ av hypogonadism vad gäller gonadotropin (hög, normal, låg)
-* Ida är 19 år 
+* **Ida är 19 år** 
   * och har inte haft mens på 16 månader. hon är 167 cm lång och väger 46 kilo. Hon har inte debuterat sexuellt. Du kan snart konstatera att det föreligger en ätstörning hos Ida, och efter utredning planerar du kontakt med dietist.
   * Tagit en del hormonprover, hur förväntarprovresultaten se ut: 
     * lågt FSH/LH (hypogonadotrop hypogonadism)
     * lågt östrogen, progesteron
     * ACTH ökar, CRH ökar, kortisol ökar
     * TSH, fT4
-* Vid amenorre 
+* **Vid amenorre** 
   * görs en utredning för att bestämma på vilken nivå störningen ligger. Förklara hur gonadotropinnivåerna förändras vid en störning på. ovariell nivå. 
   * Ge också ett exempel på ett tillstånd på ovariell nivå som kan medföra amenorre.
     * POI: FSH stegrat (över 40); detta är ett hypergonadotrop hypogonadism
   * Hypofys/hypothalamus, tillstånd som medför amenorre:
     * ätstörningar, mkt fysisk aktivitet
     * hypothalamisk amenorre: minskad pulsatil GnRH frisättning, adrenala axeln överaktiverad, mkt kortisol, CRH, ACTH etc, som i sin tur hämmar mer av GnRH, varpå minskad FSH och Östrogen. minskar också därför TSH och thyroidea. slutändan ger anovulation, amenorre. Dåligt nutritionsstatus påverkar osså IGF1 som påverkar GnRH frisättningen (IGF stimmar GnRH)
+* **Anna 25år**
+  * kommer till dig på mottagningen då hon inte haft mens på 6 månader. hon har tidigare ätit kombinerade p-piller men slutat pga barnönskan. 
+  * Vilket/A av nedanstående påståenden är korrekta?
+  * för att kunna diagnosticera PCOS behöver man verifiera att patienten har polycystiska ovarier, hyperandrogenism och infertilitet 
+  * för att kunna diagnostiscera PCOS behöver man verifiera att patienten har polycysiska ovarier, hyperandrogenism och övervikt
+  * Vid lågt FSH hos en 25-årig kvinna bör man utesluta prematur ovariell insufficiens
+  * rätt: vid högt FSH hos en 25-årig kvinna bör man utesluta prematur ovariell insufficiens 
+  * rätt: för att kunna tolka testosteron behöver man samtidigt analysera SHBG 
 
 
 
@@ -2698,6 +2919,13 @@ cerivicit
   * Du tar hormmonprover: FSH, prolaktin, TSH, samt gestagentest
   * om gestagentest neg, FSH 77mIU/mL: prematur ovariell svikt
   * om prover normala, gestagentest positivt, fler hormonprover: testosteron, SHBG för att bedöma PCOS
+* !!! Helena är 33 år
+  * gammal och söker för oregelbunda blödnigar. hon har varit gravid en gång men avbrutit graviditeten och använder inte något preventivmedel sedan ett åar år., Vid närmare anamnestagning framkommer det att hon haft ca 1-2 mens blödningar per år sista två åren. helena tror de kan ha gått ungefär ett år sedan henne sensate blödning. Gyn us normalt, men du har svårt att se äggstokcarna med ultraljud. i blodprovsaren noterar du högt FSH.  Vilken diagnos misstänekr du i första hand?
+  * hypotalamisk amenorre
+  * polycystisk ovariesyndrom
+  * rätt: prematur ovariell insufficiens
+  * prolaktinom
+  * turners syndrom
 
 
 
@@ -2907,6 +3135,19 @@ cerivicit
 
 
 
+### Övergång
+
+***Presentation***
+
+* !! **Åke är född ida**, TODO
+  * och genomgår just nu könskorrigerande behandling från kvinna till man. Han har några frågor om hur detta kommer att bli för honom. Vilket/a av nedanstående påståenden är korrekta avseende testosteronbehandling hos patienter som genomgår behandling för att korrigera sitt kön från kvinna till man?
+  * rätt: Mensutrationerna försvinner oftast så snart testosteronbehandlingen inletts
+  * rätt: muskelmassan ökar inom några månader efter att testosteronbehandlingen inletts 
+  * brösten minskar påtagligt i storlek inom ett år efter att testosteron behandlingen inletts
+  * risken för hjärt-kärlsjukdom ökar kraftigt
+
+
+
 
 
 ## Grav
@@ -2978,6 +3219,100 @@ cerivicit
 
 
 
+
+
+### Fosterdiagnostik
+
+
+
+***Presentation***
+
+* (tenta ht12) Fosterdiagnostik kan utföras på många olika sätt. Ange en uppskattad risk för att nästa barn har en allvarlig skada och förklara kort vilket typ av fosterdiagnostik som är lämpligast i följande situationer:
+  * **Ett par som har ett gemensamt barn med MbKrabbe**, en autosomalt recessiv tidigt dödlig metabol sjukdom, och man har identifierat barnets två mutationer. Paret önskar fler barn
+    * Mb Krabbe: upprepningsrisk 25%
+    * fosterdiagnostik med CVB (korionvillibiopsi), v 10-11 fastställa om foster sjukt, analysera mutationerna fostret jhar
+      * eller PGD därefter IVF, välja ut preemebryon
+  * **makens avlidne bror har trisomi 18**
+    * upprepningsrisk ej förhöjd
+    * om paret känner oro erbjuda fosterdiagnostik 
+      * med CVB (v10-11) eller 
+      * amniocenetes (v15-16), 
+      * som analyseras med ett snabbtest för aneuploidi (QF-PCR eller riktad FISH)
+  * **Kvinna orolig för att barnet inte är friskt eftersom hon arbetar på ett boende för utvecklingsstörda.**
+    * **oro utan spec frågeställning**: hennes risk är ej förhöjd, ca 2% har barnet en allvarlig sjd
+    * inget test kan friskförklara fostret
+    * **erbjudas aneuploidiscreening**: KUB-test i.e. UL och blod test, risk för kromosomavvikelser; får en sannolikhetssiffra
+    * om siffra hög erbjuds invasiv fosterdiagnostik
+  * **Ett par som efter tre tidiga missfall fått besked att kvinnan bär en kromosomavvikelse, en reciprok translokation mellan kromosomerna 5 och 10.**
+    * Reciprok translokation
+    * empirisk risksiffra för obalanserad avkomma = 10-15%
+    * risken varierar mellan olika kromsmavvikelser
+    * erbjuds fosterdiagnos: CVB med karyotp
+    * PGD kan erbjudas: spec för att nedsatt fertilitet o missfall av translokationen
+* **Cecilia 36år** 
+  * **väntar sitt andrabarn och har kommit till graviditetsvecka 10. hon undrar om fosterdiagnostik. Vad är fosterdiagnostik?**
+    * olika undersökningar + tester -> informtion om fostret har en avvikelse eller sjd
+  * **vilken metod mest aktuellt i detta fall, och vad innebär den**
+    * KUB: kombinerad UL + blodprov;
+    * mäter nackuppklarning + PAPP-A + b-hCG
+    * riskbedömning för kromosomavvikelse spec k21, 13, 18. 
+    * v11-14
+* Mia och Ali 
+  * kommer till MVC för att diskutera fosterdiagnostik. de har tid för KUB och undrar om man i samband med denna undersökning kan se läppspalt hos fostret. De är oroliga då Alis bror föddes med detta. Beskriv För mia och ali vilka undersökningar som utgör KUB?
+    * KUB: Ultraljud + blodprov. För att sätta en risksiffra vad gäller trisomier, speciellt trisomi 21. Högrisk patienter går vidare med NIPT test, varpå chorionvillibiopsi etc. 
+    * Det man tittar på UL: nackuppklarning TODO (indrar om det är fler saker man tittar på)
+    * Blodprovet: PAPP-A (Pregnancy associated plasma protein A) + b-hCG
+  * Förklara syftet med KUB undersökningen
+    * Syftet är att hitta de vanlgiaste kromsomfelen för fostret. riskindikation på hur stor risken är att fostret har trisomi 21 (tidig. kallat Downs) etc. majoriteten foster med trisomi 21 (Downs) hittas med denna metod
+  * Leta läppspalt under denna graviditet
+    * 3D-UL; bättre svar än konventionellt UL
+    * svårt att visualisera hårda gommen med ett konventionellt UL
+
+
+
+***Etiologi och patofysiologi***
+
+* Försöker hitta aneuploidier: assoc med att det är inte lätt att predicera Downs enbart baserat på moderns ålder, varpå man utvecklat bättre diagnostiska metoder
+* Kombinerat ultraljd + blodprov
+* Mål med screening: bland de som vill veta om foster har kromosomavvikelse, identifiera så mågna foster med kromosomavvikelse som möjligt. 
+  * samtidigt så få som möjligt ska göra en invasiv fosterdiagnostik, med associerad risk för missfall (även om risken är liten)
+* 
+
+
+
+***Epidemiologi***
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utredning och handläggning***
+
+* Första trimestern
+  * **KUB-testet: Screening Downs syndrom, sens 86%**: 
+    * i v10-14
+    * omfattar: 
+      * UL av nackuppklarning hos foster
+      * fritt beta-hCG + PAPP-A (pregnancy associated plasma protein A)
+      * moderns ålder
+  * **Sannolikhet Downs**
+    * beta-hCG 2x högre i Downs
+    * PAPP-A 50% lägre i Dows
+* andra trimestern: v15-290, 
+  * 83% identifikation Downss: screening 4 markörer (kvadrupeltest) maternellt blod + ålder; 5% falsk-positiva
+  * 2 markörer är inhibin + Beta-hCG: båda dubbelt höga vid Downs. 
+  * 2 markörer är östriol + AFP (alfafetoprot); 30% lägre hos Downs
+* **screening öppna neuralrörsdefekter, bukbråck, andra tillstånd, AFP**: AFP ingår i testet andra trimestern, så man får svar för neuralrörsdefekter också (öppna ryggmärgsbråck, ananecefali, encefalocele) 
+  * Bekräftas med UL + AFP i fostervatten.
+
+
+
+***Behandling***
+
+
+
 ### Fysiologi
 
 ***Presentation***
@@ -3013,7 +3348,14 @@ En del av källorna är fr Bernebrandt
 #### **Hjärta och cirkulation**
 
   * **Ökad cardiac output**: t bla bröst, hud, njurar o uterus
-  * **Sänkt BT**: BT öndras under grav osså
+  * **BT förändras**: BT öndras under grav osså
+      * **Först trimester etc**: att BT sjunker, pga sänkt total perifer kärlresistens. Relateras med progesteronets relaxerande effekt på kärlbäddarna och uterus. 
+      * !!! **Andra trimestern**: BT når sin lägsta punkt under andra trimestern. viktig klinisk konsekvens är att en kronisk hypertoni kan maskeras 
+          * trots ökning av hjärtminutvolymen
+          * perifera kärldilatationen leder t minskning ***systoliska trycket***, som når sin lägsta punkt i tredje trimestern. 
+      * **Korotkof fas V**: Hur man mäter turbulens enl Sarah, har att göra med mätning av blodtrycket, när man lyssnar för blodtyrcket sedvanligt. 
+      * **Ligga på rygg:** 5-10% av gravida kvinnro drabbas av symptomatiskt BT fall, uppkommer gm att den gravida livmodern obstruerar venösa återflödet t hjätat (Vena cava syndromet)
+          * reduktion upp t 30% reduktion hjärtminutvolymen
   * **Blodvolym ökar**: plasmavolym ökar 30-40%.
     * **Singelgrav blodvolym 1L**
     * **Duplex blodvolym ökar 1.5-2.5L**
@@ -3027,6 +3369,21 @@ En del av källorna är fr Bernebrandt
     * TPK oförändrat
     * Hb sjunker
     * EVF sjunker
+* **Uteroplacentär flöde**: 
+  * **Tredje trimestern**: i tid att den tar emot 15-20% hjärtminutvolymen
+  * Jfr icke gravida: 2% omflöde går t uterus
+  * 80-90% av flödet tar placentan.
+  * omdirigeringen attribueras till flera omställningar
+    * trofoblastinväxt i decidua o myometrium omvandlar fr tjock muskelvägg med högt kärlmotstånd t tunnvägg med lågt kärlmotstånd
+      * distala a uterina, 
+      * spiralartärerna, 
+      * fr arterioler 
+    * trofoblastcellerna ersatt muskulära elastiska komponenterna i kärväggen.
+* **Albumin**: sänkta albuminnivåer under grav, 
+  * sjunkande kolloidosmotisaka trycket: fr 21mmhg -> 18mhg.
+  * bidrar ökande benägenhet att utv ödem. 
+  * tillförsel kristalloider för att kompensera blodförlust efter förlossning ger YTTERLIGARE SÄNKNING av kolloidosmotosika trycket. 
+* Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas flödet fr extremiteter
 
 
 
@@ -3293,6 +3650,13 @@ En del av källorna är fr Bernebrandt
   * med vilka proveR?
   * hur ska provsvar bedömas?
   * ngt särkilt du bör tänka på?
+* Helena är gravid
+  *  i vecka 26 och HB visar 114. Hon står på järntabletter. I vecka 7 hade hon Hb på 132. Helena undrar om man ska göra något åt hennes Hb. vilken information ger du Helena
+    * nuläget inte göra något åt Hb, det är normalt att Hb sjunker. 
+    * Plasmavolymen ökar, även erytrocytvolymen ökar men plasmavolymen ökar mer vilket ger en utspädningseffekt . Detta gör att Hb brukar sjunka. 
+    * Normalt Hb hos gravida är >110 och från vecka 28 > 105g/l. 
+
+
 
 
 
@@ -3419,7 +3783,79 @@ En del av källorna är fr Bernebrandt
 
 
 
-### Graviditetsdiabetes
+### Graviditetsdiabetes TODO
+
+
+
+***Presentation***
+
+* **Hilda** 
+  * väntar sitt andra barn. Förra graviditeten gick bra. hon födde ett barn som vägde 3,9kg i graviditetesvecka 41. Hon har kommit till graviditetesvecka 25. ett slumpmässigt tagit blodsocker har visat ett förhöjt värde.
+  * va gör du o hur bedömer du det: OGTT, bedöma föreligger GDM?
+* !!! **Greta 34år** 
+  * iv 14 kommer för inskrivning. Förra barnet föddes i v39 med kejsarsnitt pga sätesändläge och vägde 4,7 kg. Barnet mår fint idag.
+  * Hur planerar du Gretas graviditet? Gör du något utöver ordinarie basprogram och isf vad o varför?
+      * En av de vanligaste orsakerna till ett barn på 4,7 kg är GDM. 
+      * I o med detta bör man göra ett OGTT i vecka 12-14 (Uppsala). !! Jag vet ej om detta tämmer, PM säger bara att man gör OGTT v24-28 ist om detta föreligger
+      * Om denna utfaller normal ska man också göra ett OGTT test v. 24-28. Detta bättre sensitivitet för att catcha en GDM diagnos. Därmed livsstilsråd samt eventuell behandling för att undvika så stort barn återigen. 
+  * Greta undrar om förlossnignssätt , vad rekommenderar du och varför?
+      * Sätesbjudning eller tidigare LGA motiverar inte att planera annat sätt för förlossning än vaginalt om inte något annat tillstöter under denna graividtet. Vaginal förlossning rekommenderas med dess fördelar gentemot kejsarsnitt. Inte heller rekommenderas kejsarsnitt denna gång då det en gång redan gjort och risken för uterusruptur är marginellt förhöjd vid ett tidigare kejsarsnitt.
+      * Enl PM
+        * Kotbehandlad GDM: om viktskattningen (v36-38) är påverkad får man planera hur d blir. om dessa är ua får man gå vidare som vid normal förlossning, med sista datum för induktion innan v42. 
+        * Metforminbehandlad GDM: viktskattning (v28-32, v36-38), induktion senast 40+6. v38+0 förlossningsplanering + uppföljning av UL-tillväxt (målfödelsevikt <4500g)
+        * Insulinbehandlad GDM:  viktskattning (v28-32, v36-38). induktion senast 40+6 (målfödelsevikt <4500g)
+
+
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+* Prover: 
+
+  * **kP-glukos**: 
+    * inskrivning: tas samtliga gravida vid 
+    * rutinbesök: v25, v29, v32/33, v37/37
+  * !! **OGTT v24-28 OM**: vissa riktlinjer tidigarelägger OGTT t v12-14, om den är normal gör man den andra. 
+    * tidg GDM
+    * tidg stort barn: >=4.5kg eller +2SD
+    * BMI >= 35
+  * !! OGTT omgående (asap): 
+    * slumpmässig kP-gluks >= 9mM men <12mM
+    * !! om slumpmässig kP-gluk >=12mM: ta kap faste glukos kfP-gluks INNAN OGTT
+    * accelererad fostertillväxt
+    * hög fostervikt >=22%
+    * polyhydramnios
+  * kfP-glukos: tas om kP-gluk >=12mM
+    * !!! om >=7mM: hög sannolikhet behandlingskrävande diabates, GÖR EJ OGTT
+    * BMM ska då utrusta patienten med glukosmätare, instruera om daglig glukoskontroll x 5, kost och motion, se vårdgivarguiden.se
+
+* OGTT med 75g glukosbelastninng 
+
+  * (ange på remiss att pat är gravid)
+
+  * | P-glukos    | GDM inled kostbehandling | GDM behöver LKM |
+    | ----------- | ------------------------ | --------------- |
+    | fasteglukos | >=5.1mM                  | >=7mM           |
+    | 1-h värde   | >=10mM                   | saknas ref      |
+    | 2-h värde   | >=8.5mM                  | >=11.2mM        |
+
+    
+
+
+
+***Behandling***
+
+* kfP-glukos >=7mM: att faste gluk kapillärt >=7mM
+  * BMM ska då utrusta patienten med:
+    *  glukosmätare, 
+    * instruera om daglig glukoskontroll x 5, 
+    * kost och motion, 
+    * se vårdgivarguiden.se
 
 
 
@@ -3427,9 +3863,6 @@ En del av källorna är fr Bernebrandt
 
 * **Farmakologiskt**
   * **Gällande metformin**: denna supposedly ska man sluta med, då epidem studier visat att ungar vars mamma tagit metformin i deras grav blir större, högre BMI vid 10åå etc. istället att man går över till insulin. Men det verkar som att PM inte har ändrats 
-* Hilda 
-  * väntar sitt andra barn. Förra graviditeten gick bra. hon födde ett barn som vägde 3,9kg i graviditetesvecka 41. Hon har kommit till graviditetesvecka 25. ett slumpmässigt tagit blodsocker har visat ett förhöjt värde.
-  * va gör du o hur bedömer du det: OGTT, bedöma föreligger GDM?
 
 
 
@@ -3584,6 +4017,54 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 ### Hypertension i grav
+
+***Presentation***
+
+* !!! **Eva är 36år** TODO
+
+  *  och väntar sitt första barn. Hon kommer på MVC i v.28 och har inga symtom. Vid inskrivning hittils under grav alla kontroller normala. Barnmorsken mäter upp BT 150/95 och efter några timmars vila 155/90. 
+  * **Varför uppfyller inte eva krav för diagnos på preeklampsi?**
+    * !! **Detta fallet diagnos**: gravidietsrelaterad hypertoni, efter v20, över 140/90 samt 2 mätningar 4-6 timmars intervall (här hade hon några timmars vila). 
+    * **Definitionen preeklampsi**: BT >140/90 + utöver ***graviditetshypertoni (ya3ni efter v20?)*** + måste ha (multi)organpåverkan / fosterpåverkan
+    * proteinuri, flimmer för ögonen, (frontal() huvudvärk, svullna fingrar, 
+    * ödem
+    * dimsyn, flimmerskotom
+    * epigastriesmärta, leversmärta
+    * darrig / sjukdomskänsla
+    * njurpåverkan: oliguri <500mL/d
+    * proteinuri: 0.3g/d eller mikroalbuminemi. Vi tar urinsticka om de 2+ sp är d signifikant, eller alb/krea kvot. Då räknas över 30 som signifikant proteinuri
+    * TPK under 100
+    * ASAT, ALAT fördubblade
+    * IUGR för ungen också antytt. 
+  * **2 risker som Eva löper under graviditeten**
+    * hjärnblödning
+    * placenta ablatio
+    * permaturitet
+    * tillväxthämning (IUGR)
+    * // preeklampsi
+    * stroke
+    * njursvikt
+    * retinopati
+  * **Motivera vf fortsatta BT kontroller EFTER Evas grav kan motiveras**
+    * **Normalisering BT 6-12v efter**
+    * genomgåen gravrelaterad hypertonisjd påverkar maternell långtidsprognos avseende ffa CVD. Det finns en ökad risk för högt BT senare i livet. ungefär 25% av alla kvinnor som haft gravrelaterad hypertonsjd har högt BT 10-14år framåt i tiden. sambandet kan antingen bero åp gemensamma riskfaktorer / arv för sjd eller gravrelaterade hypertonisjd är en bleastning för kvinnans kärl -> ökad risk för sjd senare i livet.
+    * samband starkare ju svårare hypertonisjd kvinnan haft o vid gravrelaterad hypertonisjd vid mer än grav
+    * risk stroke, infarkt, njursjd är också ökad men risken är låg på individnivå
+    * samband med risk att insjukna DM2. efter 
+    * gravidiettsrelaterad hypertono rekas årlig ktrl på VC vikt, BT, plasmaglukso
+    * **sammanfattat**: genomgången gravhypertonisjukdom påverkar maternell långtidsprognos avseende hjärt-kärlsjukdom. Finns ökad risk för högt BT senare i livet. Risken för stroke, koronar o njursjukdom är ökad. Samband med insjukna i dm2 också. Därför årlig kontroll på VC innefattande vikt, BT o plasmaglukos.
+
+* **När under en normal grav ligger BT som lägst i vila + vf viktigt att känna t detta**
+
+  * andra trimestern
+  * kan maskera kronisk hypertoni....
+  * kan uppleva yrsel, tappa balans, svimgärdig pga lgåa BT
+  * ligger på rygg o trycket mot vena cava obstruerar blodflödet tillbaka t hjärtat.
+  * De enda människorna som kan 
+
+  
+
+
 
 ***Etiologi och patofysiologi***
 
@@ -3871,325 +4352,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Behandling***
 
-
-
-### Preeklampsi
-
-
-
-***Presentation***
-
-* **Jie kommer på efterkontroll.** 
-  * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
-  * Fyra möjliga orsaker till den stora blödningen
-  * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
-* **Pat 35åå**
-  * preeklampsi
-  * nu ihållande bradykardi på CTG 
-  * ska misstänka placenta ablatio 
-* **pat 35åå** 
-  * tidigare snittad
-  * nu ihållande bradykardi på CTG 
-  * ska misstänka uterus ruptur
-* **samma cushing pat tillägg** 
-  * tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
-* **35åå, 5grav 0 para**
-* - 2 missfall, 2 abort
-  -  Noteras kontroll v24 att BT högt
-  - RUL ser ej ngt avvikande, men åter UL bokas in
-  - Nya UL v24 el nåt noteras IUGR, att den är hämmad, -27% el nåt
-  - åb v24+3 högre BT 150/90
-  - åb v24+4 samma högt BT 145/90
-  - åb v25 samma höga BT
-  - åb v 25+2 BT 180/100
-  - trandate 200x3 insättes
-  - misstänkt preeklampsi
-  - inlägges v27: man behandlar blodtrycket, tittar på UL-flöden ser att det är bra kompensation för ungen
-  - skrivs ut v28: informerar pat om tecken på preeklampsi att det krisar etc för att söka akut e.g. påverkade fosterrörelser avviker, flimrar ljus ögon, skakig, huvudvärk, 
-  - Läkemedel trandate: 300mgx3 vid utskrivning
-  - Enl handl: dessa med preeklampsi samt IUGR inte förväntat att de blir fullgångna, utan amna snittar tidigt ändå, att det behövs. Man har täta kontroller och följer  CTG e
-* !! **Elin söker dig på MVC, TODO**; detta fallet att det står proteinuri på ett konstigt sätt. 
-  * i graviditetesvecka 20. hon är frisk och födde barn för tre år sedna i vecka 39.barnet vägde 2,3kg.
-  * Blodtryck idag 130/80 mmhg, urinsticka visar 0/ spår för proteinuri. hon har just varit på rutinultraljud och allt var bra där. hon mår bra och arbetar som vanligt och det går bra. 
-  * Finns skäl med ledning av anamnesen att ställa ytterligare frågor eller att vidta någon mer åtgärd under graviditeten?
-    * tidigare IUGR och +1 isch på stickan nu kan föranleda att patienten behöver tätare kontroller
-    * penetrera anamnes: HELLP anamnes, diarre, HV, kiss, ögonflimmer
-    * misstanke preeklampsi: proteinuri + tidg. IUGR. 
-    * remiss spec-MVC: föreligger 2 riskfaktorer, att trombyl behöver läggas in
-    * tätare BT + u-sticka kontroller resten av grav t v36: 
-    * tillväxt-UL + flöde UL v24 
-* !!!**Pia, preeklampsi + kejsarsnitt postop handlägg**
-  * genomgick Kejsarsnitt operation igår på grund av en svår preeklampsi grav vecka 34.
-  * målblodtryck hos pat med svår preeklampsi i sluteta v graviditet: 
-    * Under 150/100 är okej
-  * Du sitter nu efter kejsarsnittet som underläkare på BB och planerar pias vård. du ordnar med en plan för att följa upp blodtrycket och se till att Vätskebalansen är tillfredsställande.
-  * förutom BT medicin, bör du sätta in en annan LKM behandling, vilken varför?
-    * trombosprofylax: rekas alltid vid SECTIO, minst 1 vecka. Denna pat HÖGRISK varpå 6v trombosprofylax övervägas
-    * smärtlindring: morfin ev paracetamol/NSAID. 
-      * !! NSAID kan g e BT stegring o vid svår hypertoni postpartum bör dessa prep undvikas. paracetamol kan ge leverpåverkan + njurar, bör undvikas vid lever o njurpåverkan
-  * Ngt lkm som bör sättas in början nästa grav, mtp preeklampsi denna grav: 
-    * trombyk (riskreduktion för preeklampsi igen)
-
-***Allmänt***
-
-* aka havandeskapsförgiftning
-* Detta verkar vara en extension av hypertensiva tillstånd under graviditeten
-
-
-
-***Definitionsmässigt***
-
-* **Multiorgansvikt** är en del av definitionen
-* med hypertoni
-* med nydebuterade symptom eller engagemang av 1 el flea organsystem 
-* och eller fosterpåverkan efter v20
-
-* **Preeklampsi**
-  * **Njurpåverkan**
-    * Proteinuri verifierad med slumpmässig alb/krea ≥8 mg/mmol (ej obligat) 
-    * Njurinsufficiens: 
-      * Krea ≥ 90 µmol/L, 
-      * oliguri <500 mL/dygn
-  * **Leverpåverkan**
-    * Transamninasstegring >1,2 µkat/L, 
-    * svår epigastriesmärta 
-    * eller smärta under höger arcus
-  * **Hematologisk påverkan**
-    * TPK <100x109/L, 
-    * hemolys (haptoglobin <0,25 g/L 
-    * eller LD >10 µkat/L
-  * **Neurologisk påverkan:**
-    *  Svår huvudvärk, 
-    * persisterande synstörning, 
-    * hyperreflexi med klonus, 
-    * kramper (eklampsi)
-  * **Cirkulationspåverkan:** 
-    * Lungödem, 
-    * bröstsmärta, 
-    * uteroplacentär dysfunktion, 
-    * intrauterin tillväxthämning, IUGR
-* **Pålagrad preeklampsi**
-  * Kronisk hypertoni som efter v20 utv en el fler
-    * trots misnt 2 olika antihypertensiva: persisterande hypertoni, 
-    * ny eller försämrad proteinuri
-    * organåpverkan en eller flera enl ovan
-* **Svår preeklampsi**
-  * preeklampsi + svår hypertoni 
-  * och eller organpvårakan / klin symptom
-  * och eller försämr organpåverkan / symptom enl voan
-  * diagnos o eller födsel på preeklampsiindikation före v34
-* HELLP
-  * tecken hemolys: 
-    * haptoglobin under 0.25
-    * eller LD över 10
-  * TPK under 100
-  * ASAT, ALAT över 1.2
-  * **!! EJ obligat proteinuri eller hypertoni**
-
-
-
-***Diagnos***
-
-* **Hypertoni** efter v20 + [proteinuri eller andra former av organskada]
-* **Blodtrycket**: över 140, två mätningar 4-6 timmars mellanrum
-  * förutsatt att mamman inte haft hypertoni innan graviditet
-
-
-
-***Etiologi och patofysiologi***
-
-* **trofoblaster, decidua, spiralartärer:** Trofoblasterna, när invadera decidua går gm myometriet och infiltrerar spiralartärerna som försörjer uterus
-* **spiralartärer abnormala**: Abnormal utveckling v blodkärlen i placenta
-* **placenta underperfusion**: om dålig access till spiralartärerna kommer den försörjas dåligt
-  * Senare i graviditet ökar syreförsörjning till placentan fysiologiskt
-  * placentan har ett större syrgasbehov
-  * men pga defekten i blodförsörjningen kommer man att märka av defekten nu
-* **placenta inflammatoriska mediatorer**: börjar frisätta inflam mediatorer, som
-* **endotel dysfunktion, hypertoni**: pga inflam mediatorer (antiangiogena faktorer) fr placenta
-  * tonus i blodkärlen påverkas
-  * producerar **hypertoni**
-  * kärlen blir mer genomsläppliga -> proteinuri, ödem, ökad leverenzymer pga dysfunktionen, tillväxthämning foster
-  * mikroangiopatisk hemolys
-  * vasokonstriktion, manifesteras kliniskt som hypertoni
-* **endotel skada**, trombos: frisätter sina faktorer och ökar risken för trombos
-* **sjunkande blodflöde till placenta:** pga systemisk vasokonstriktion inklusive till placenta, 
-  * akut uteroplacental insufficiens
-  * resulterar i placentar ablatio eller fetal hypoxi
-* ***Systemisk vasokonstriktion, maternellt***: generealiserade arteriolär vasokonstriktion
-  * **kramper**
-  * **stroke**
-  * **njurar**: oliguri, njursvikt
-  * **lungor**: lungödem
-  * **lever**: ödem, subkapsulär hematom
-  * **små blodkärl:** trombocytopeni, DIC
-* ***Tidmässigt***: definieras som efter v20, men sker 5%-6% av alla live births. 
-  * vanligast efter tredje trimestern,. near term
-
-
-
-***Komplikationer till preeklampsi***
-
-* **fetala**
-  * **Relaterat t prematuritet**
-    * Akut uteroplacental insufficiens
-    * placental infarkt och eller ablatio
-    * intrapartum fetal distress
-    * stillbirth - i svåra fall
-  * **Kronisk uteroplacental insufficiens**
-    * asymmetrisk and symmetrisk SGA fetuses
-    * !!! ***IUGR***: då är det att preeklampsin ger detta, frågan är om IUGR ökar risken för preeklampsi i sin tur
-  * **Oligohydramnios**
-  * **IUGR**: intrauterine-growth restriction
-  * **placentär ablatio**
-  * **fetal hypoxi**
-* **maternella**
-  * **medicinska manifestationer**
-    * **kramper**
-    * **cerebral blödning**
-    * **njurar**: oliguri, njursvikt
-    * **lungor**: lungödem
-    * **lever**: leverruptur, ödem, subkapsulär hematom
-  * **obstetriska komplikationer**
-    * uteroplacental insufficiens
-    * placental ablatio
-    * ökad prematur förlossning
-    * ökad kejsarsnitt förlossning
-  * **små blodkärl:** trmobcytopeni, DIC
-* **! long-term komplikationer**
-  * **! ökad risk för kardiovaskulär sjukdom senare i livet**
-
-
-
-***Riskfaktorer***
-
-* **Primär sjd relaterat**
-  * **kronisk hypertensuion**
-  * **kronisk njursjd**
-  * **DM2**
-  * **antifosfolipid syndrom APLS**
-  * **kollagen vaskulär sjd:** SLE
-  * **pregestationell diabetes**
-  * **african-ameria**
-  * **maternell ålder:** under 20åå, över 35
-* **Primör immunrelterat**
-  * nullipara
-  * tidigare preekmlampsi
-  * multiple gestation
-* **immunoegena**
-  * **multipara men ny man**: samma risk som nullipara.
-  * **multipel gestation**: i.e. tvillingar o grejor, att fler foster implanterade
-  * **abnormal placentation**: 
-  * **ny paternitet:** att det är en ny pappa
-* **Familjehistorik**
-  * female relatives of parturient
-  * mother-in-law
-  * cohabitation under 1år
-
-
-
-***Skyddande faktor (minskad relativ risk)***
-
-* **Multipara utan tidigare preeklampsi**
-* **Ett barn, inte tvillingar etc**
-* **Rökning:** verkar sänka risken...
-
-
-
-***Utredning och handläggning***
-
-* ***GENERELLT***
-  * **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
-  * **Om mamma inte jättesjuk o diffar preeklampsi**
-    * **U-sticka**
-    * **lilla-tox**: Hb, TPK, ALAT, Krea, urat
-  * **svårt sjuk o diffar preeklampsi**
-    * **stora-tox**: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, 
-      * diffa preeklampsi mot HELLP (hemolysis-elevated liver enzymes-low platelet count syndrome)
-* **SCREENING + MÄTMETODER**
-  * ***Proteinuri***
-    * **BT**: varje besök MVC; sittande, arm hjärthöjd, vila, adekvat bredd, automatisk är rekommenderad
-    * **PROTEINURI**: först på MHV (MHV1-2), 
-    * **RISKFAKTORER FÖR PREEKLAMPSI**: 
-      * screening för proteinuri ske vid VARJE kontroll på MHV
-      * **upprepade +1 eller en 2+**: måste ta alb/krea kvot för kvantifiering 
-* **HÖGRISKGRUPPER**
-  * tidg preeklampsi eller eklampsi
-  * **autoimm sjd**: SLE, APLS (antifosfolipid)
-  * tidg grav. hypertoni + födsel innan v34
-  * IUGR
-  * IUFD
-  * Ablatio
-  * DM2, DM1
-  * flerbörd
-  * Njursjd
-  * kronisk hypertoni
-  * IVF med äggdonation
-* **MÅTTLIGA RISKFAKTORER**
-  * nullipara
-  * hereditet preeklampsi
-  * BMI över 30
-  * ålder över 40
-  * graviditetsintervall över 10åå
-  * BT över **130mmHg eller 80mmhg** vid **inskrivning**
-  * afrikanskt ursprung
-  * verifierad obstruktiv sömnapne
-* **HANDLÄGG + ÖVERVAK UNDER GRAV, BT över 140/90**
-  * Kontroll Hb, TPK, ALAT, krea, urat
-  * UL med viktskattning foseter, vid diagnos
-  * misstänkt IUGR uppfölj enl separat PM
-  * liberal sjukskrivning
-  * !!! om inga subjektiva synmptom el organpåverkan, kontroll inom 1 vecka, **därefter 1-3gg/vecka**.
-* **BT150/100 eller subjektiva symptom**
-  * huvudvärk
-  * buksmärtor
-  * organpåverkan
-  * krävs snar handlägg på spec MVC ofta sjukhusvård
-* **Vid slutenvård**
-  * kontrolleras labbprover enl ovan, minst varannan dag
-  * svår preeklampsi/HELLP/pato värden: utvudgad provtagning
-    * leverfunktion: ASAT, bilirubin, LD, albumin, haptoglobin, AT, fibrinogen, APTT, PKINR
-    * Na, K,
-  * UL + viktuppskattning
-  * IUGR separat PM: tillväxthämning
-  * Vätskebalans vid svår preeklampsi
-    * dygnsdiures
-    * max intag vätska: 80mL/tim (2000mL/d)
-  * BT mäts 4gg/d eller enl ordin
-  * CTG 2gg/d
-
-
-
-***Behandling***
-
-* **Riskfaktor reduktion**
-  * **ASA**
-  * **Folsyra**
-  * **viktkontroll, minska BMI**
-  * **kontroller i ny grav:** UL, BT
-  * **screening**: finns ingen bra metod, osäekert man gör med infon
-  * **Sluta röka**
-  * **hålla normal vikt**
-  * **motionera**
-  * **kontrollera blodtryck i framtiden**
-* **PROFYLAX**
-  * ASA 75mg t ikväll
-  * senast fr v12 fram till v36
-  * Senare insättning kan ha effekt
-  * till HÖGRISKGRUPPER
-  * övervägs vid måttliga riskfaktorer
-* **ANTIHYPERTENSIV BEHANDLING**
-  * Inleds vid: systoliskt >=150 eller diastoliskt >=100
-  * Mål: systoliskt <150 och diastoliskt 80-100
-    * diabetes, njursjd, annan samsjuk: systoliskt >140 och diastoliskt 80-90
-  * Läkemedel
-    * 1a hand labetalol (Trandate): startdos 100mgx3. kan höjas t 400mgx4. 
-      * överväg kombinationsbeh vid dos >200mgx3
-    * 2a hand nifepidine (Adalate): startdos 10mg; via licens för att den inte framställs längre
-      * calciumblockare
-    * 3e hand hydralazin (Apresolin): 25mgx3. kan höjas t 50mgx4
-    * kan överväga: metoprolol, visken, amlodipin
-
-
+-
 
 ### Reumatoid artrit
 
@@ -4291,7 +4454,6 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * fostervikt eller  födselvikt >4500g
 
 
-
 ***Risker för makrosomi vid förlossning***
 
 * missförhållanden bäckenstorlek + barnet
@@ -4300,7 +4462,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * instumentell vaginal förlossning?..
 * akut kejsarsnitt
 
-### 	Teratogen
+### Teratogen
 
 ***Teratogena ämnen***
 
@@ -4510,6 +4672,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Greta är 17år**
   * och har svår mensvär som hon egentligen haft sedan hon fick mens vid 11 års ålder. hennes mamma köper ipren åt henne men hon tycker inte att det hjälper. Greta stannar hemma från skolan och ibland även andra dagen när hon fått mens, nästan varje månad. hur kan man hjälpa greta? föreslå en behandling och motivera denna?
   * Endometrios; vill uppnå ovulationshämning och amenorre utöver adekvat smärtlndring. 1a hands beh kombineade p-piller. 2a hand p-piller + hormonspiral. 3e hand GnRH analog, notera att detta görs efter att man har bekräftat diagnosen antingen med radiologi eller med laparoskopi. 
+* **Trine 29år**
+  * har alltid haft mycket mensvärk och har haft kombinerade p-piller i flera år. Hon fick diagnosen endometrios och har mycket frågor vad som gäller för kvinnor med endometrios.
+  * Vilket/a av nedanstående påståenden är korrekta?
+  * rätt: De med endometrios har en ökad risk för ektopisk graviditet 
+  * rätt: de med endometrios har en ökad risk för ovarialcancer
+  * rätt: de med endometrios har en ökad risk för infertilitet
+  * de med endometrios har en ökad risk för cervixdysplasi 
+  * de med endometrios skall inte behandlas med endast gestagen 
 
 
 
@@ -4860,11 +5030,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Herpes simplex - kongenital
 
-***Etiologi och patofysiologi***
-
-* 
 
 ### HIV
 
@@ -5003,12 +5169,27 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+***Presentation***
+
+* !! Ella 23 år
+    * söker på ungdomsmottagningen pga att hon inte längre kan ha penetreraned sex med sin kille. Det gör helt enkelt för ont.
+    * Vilket/a av nedanstående påståenden är korrekta?
+    * Vaginism innebär en viljestyrd muskelkontraktion av musklerna runt introitus vaginae i samband med penetration
+    * rätt: Clitoris innerveras av sensoriska nervändslut från N-pundendalis 
+    * rätt: för att sätta diagnosen lokaliserad provocerad vestibulodyni ( LPV, tidigare vulvavestibulit) krävs minst 6 månaders anamnes på penetrationssmärta 
+    * rätt: kvinnor som drabbas av diagnosen lokaliserad provocerad vestibulodyni ( LPV, tidigare vulvavestibulit) är sällan över 30 år.
+
+
+
 ***Etiologi och patofysiologi***
 
 - Upprepad sex när det gör ont
 - leder i längden till att pat utvecklar vaginism (slidkramp)
 - så fort man ska beröra vagina, så krampar den + smärtsam
 - Hör ihop med vestibulit
+- Kramp: kontraherar muskler i bäckenbotten
+
+
 
 ***Kliniska kännetecken***
 
@@ -5073,6 +5254,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * söker för ökade flytningar. I journalen ser du att hon är III-gravida, I-para, med en normal, vaginal förlossning för 10 år sedan och därefter två missfall. Sedan tonåren har hon typ I-diabetes och behandlas med insulin via pump. Besvären som hon söker för har hon haft av och till under flera månader. Du får veta att hon är singel och haft flera kortare relationer med olika män under de senaste åren. Hon har p-piller och regelbunden mens. Inga tidigare gynekologiska problem förutom kondylom för några år sedan. Cytologprov var normalt för 1 år sedan men Margarita är orolig för cellförändringar. Flytningen beskriver hon som ganska tunn, gulaktig, ibland rosafärgad, luktar lite illa av och till. Klåda och irritationskänsla finns också av och till. Hennes insulinbehandling fungerar bra och blodsockret är mestadels stabilt. Du fortsätter med en gynekologisk undersökning.
   * **Differentialdiagnoser:** BV, candida, kondylom, klamydia
   * **Prover**: wet smear, sniff-test, pH, klamydia prov
+* **Emelie 22 år** 
+  * har haft underlivsproblem i några dagar.
+  * Vilket/a nedan påstående är korrekta?
+  * vid bakteriell vaginos noteras ofta rodnade slemhinnor
+  * vid vulvovaginal svampinfektion noterats ofta gråaktig flytning
+  * rätt: vid bakteriell vaginos kan man behandla både systemiskt och vaginalt 
+  * vid bakteriell vaginos bör man överväga partnerbehandling
+  * vid vulvovaginal savmpinfektion finns relativt hög risk för uppåtstigande infektion ( salpingit ) 
 
 
 
@@ -5312,6 +5501,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Herpes
 
+***Presentation***
+
+* !! Ebatha 
+  * söker pga blåser i underlivet. Hon har haft detta tidigare vid något tillfälle men aldrig sökt vård för detta tidigare. Det visar sig att hon är tididgt gravid men ej hunnit skriva in sig vid mödravården. 
+  * Vilken information ska du ge Beatha?
+  * Vid genital herpesinfektion ska smittspårning utföras 
+  * Vid genital herpesinfektion finns ingen behandling att erbjuda 
+  * vid genital sekundär herpresinfektion under andra trimestern under graviditeten finns en hög sannolikhet för smitta mellan mor o barn 
+  * Vid upprepade genital herpesinfektioner under graviditeten bör man förlösa med kejsarsnitt oavsett om det föreligger en aktuell infektion i samband med förlossning eller inte 
+  * rätt: Vid upprepade genitala herpesinfektioner under graviditet bör man behandla profylaktiskt inför förlossningen
+
+
+
 ***Etiologi och patofysiologi***
 
 * **Genital herpes**: 
@@ -5529,6 +5731,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Utredning och handläggning***
 
 ***Behandling***
+
+
+
+
+
+### puerperiet: feber
+
+***Presentation***
+
+* **Ange 4 orsaker till feber som är specifikt relaterade till puerperiet?**
+  * svar: Mastit/bröstabscess/mjölkstockningUVIEndometritSårinfektion i perineum
+
+
 
 
 
@@ -5918,6 +6133,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ## Kirurgi
 
+### Enukleation
+
+***Presentation***
+
+* Maud är 34 år
+  * och du känner henne då du är hennes allmänläkare sedan många år. Bortsett från atopiska eksem är hon frisk. Nu har man opererat bort en ovarialcysta med laparoskopisk enukleation. Hon var lite orolig för allvarlig komplikation i samband med ingreppet. Fyra dagar efter operationen söker Maud för feber och allmän sjukdomskänsla.
+  * Vad är viktigast att utesluta?
+      * Infektion i porthål
+      * intraabdominell blödning
+      * lunginflammation
+      * rätt: tarmskada 
+      * urinvägsinfektion 
+  * // finns även risk för att skada urinledaren + urinblåsan
+
 ### Fertilitetsbev kirurgi
 
 ***Trachelectomi - cervix***
@@ -6003,12 +6232,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 <img src="./lectures/gyn_lec/imgs/gyn_lec_8wfku7ikHt.png" alt="8wfku7ikHt" style="zoom:50%;" />
 
-### Prolaps
+### Prolaps TODO
 
 ***Presentation***
 
 - 43åå kvinna
-
 - - 5 månader sedan opererad med bakre kolporafi och perineorafi . 
 
   - postop komplikation beh med antibiotika
@@ -6023,16 +6251,45 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
   - Gyndundersökning: Väldigt smärtpåverkad vid beröring, e.g. vid beröring innerlår, attribueras till att ha utvecklat allodyni. 
 
-  - - vaginalt tydligt framfall (likt att cervix pushats fram nästan)
+    - vaginalt tydligt framfall (likt att cervix pushats fram nästan)
     - Smärtpåverkad överallt. 
     - Först ffa klitoralt, sedan också när palperar insida vagina. 
+- Birgitta 73år
+  -  kommer till dig på vårdcentralen för att något hänger ut på eftermiddagen. Birgitta är frisk och mycket aktiv. Hon har fött 3 barn vaginalt. Kom in i menopaus vid 53 års ålder. Hon använder lokalt östrogen sedan flera år.
+  - Vad är det vanlgiaste vävanderna / organernerna som kan bukta ut genom slidan
+    - Urinblåsa, uterus, rektum
+  - ilka riskfaktorer, förklara hur varje riskfaktor bidrar t uppkomsten
+    - Vaginal förlossning: vanligaste faktorn. extrem uttänjning o kompression vävnader, orsaka stukturella o neruologiska skador bäckenbotten. samband med vaginal förlossning uppstår ofta skador på perineum och nedre vagina. levatorn drabbas av skadorna, vilket inträffar hos ca 1:5 kvinnor vid deras 1a förlossning o ytterligare skador kan uppstå under efterföljande förlossningar. huvuddelen av dessa djupa skador kvarstår livet ut. dessa assoicierade t utv av prolaps
+    - Ålder: annan stark bakgrundsfaktor. åldersrelateade degenerative vävnadsförändringar som resulterar av kronsik belastning bäckenbotten
+    - tungt arbete, obestias, KOL, obstipation utgör ökad belastning o ökad risk för prolaps
+  - behandling Birgitta, beskriv utifrån en behandlingstrappa med vad man kan börja mde och hur man resonerar vidare
+    - Konservativ behandling: 
+      - beh lokalt verkande östrogen rekads allmänt t postmenopausala med prolaps i syfte stärka slemhinnorna + underliggande stödjevävnader
+      - väckenbottenträning: förbättra muskulära stödet teoretiskt muldra symptom + möjligen minska risk rpogress. svårigheter påvisa positiv effekt av bäckenbottenträning kan bero på att många kvinnor med prolaps har utalad strukturell eller funktionell defekt i levatorn, så de inte kan kontrahera muskulaturen. men de kan hjälpa t med inkontinens som många kvinnor med prolaps har problem med. 
+      - prolapsring
+      - om dessa åtgärder ej hjälper: kirurgi, det är den huvudsakliga beh där man försöker återställa anatomin
+- Ulla 
+  * som har uttalad demens. Den senaste tiden har personalen noterat att något hänger ut ur henne sunderliv. Vid undersökningen noterar du en uterovaginal prolaps där cervix inte når utanför introitus när ulla krystar. 
+  * Vilken åtgärd föreslår du i första hand? 
+  * Cervixamputation
+    * rätt: expektans
+    * hysterektomi
+    * operation med uterosakropexi
+    * prolapsring
+  * Vilket läkemedel ger du i Ulla i frågan ovan utöver ditt förslag till åtgärd?
+    * antibiotikaprofylax
+    * rätt: lokalt östrogen
+    * mirabergon ( betmiga)
+    * detruitol
+    * vitt vaselin
+
+
 
 ***Etiologi och patofysiologi***
 
 - Anatomiskt: 
 
-- - bäckenutgång täcks huvudsak av levatormuskel
-
+  - bäckenutgång täcks huvudsak av levatormuskel
   - central öppning i muskel levatorslitsen släpper igm uirinrör, vagina och rektum
 
   - den i ståednde horisontella delen av levatorn (m ileococcygeus utgör en diafragmaliknande platta som understödjer bäckenorganen. 
@@ -6139,8 +6396,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * och oönskat gravid. Hon kommer till din mottagning och vill ha hjälp med abort. Ultraljudsundersökning visar ett foster med graviditeteslängd 19v och 6 dagar 
   * Redogör för den svenska abortlagen och vad den innebär för Maria? kvinna tom v18 helt frivillig abort och HSL ska oblige. efter detta fordras tillstånd fr socialstyrenslen rättsliga råd + synnerliga skäl föreligger. remiss kurator + läkarutlåtande bifogas kvinnas abortönskan -> socialstyrelsen
 * !! **26-årig kvinna**
-  *  3 gravida, 0 para, uppsöker akutmottagningen med buksmärtor och rikliga blödningar 1 dag efter en kirurgisk abort i grav vecka 11. Patienten har ingen feber eller frossa. Vid undersökning: AT , gott, måttligt smärtpåverkat. BT 120 genom 70, puls 100, Hb 115, Buk mjuk, men ömt i nedre delen. Unget pertinoitstatus Vid vaginal undersökning är cervix öppen 1cm, uterus förstorad motsvarande grav vecka 12-13, det är mjukt och ömt i lilla bäckenet, inga patologiska resistenser palperas. Vaginalt ULJ visar rikligt med rester i kaviteten.
+  *  3 gravida, 0 para, uppsöker akutmottagningen med buksmärtor och rikliga blödningar 1 dag efter en kirurgisk abort i grav vecka 11. Patienten har ingen feber eller frossa. Vid undersökning: AT , gott, måttligt smärtpåverkat. BT 120 genom 70, puls 100, Hb 115, Buk mjuk, men ömt i nedre delen. Inget peritonitstatus. Vid vaginal undersökning är cervix öppen 1cm, uterus förstorad motsvarande grav vecka 12-13, det är mjukt och ömt i lilla bäckenet, inga patologiska resistenser palperas. Vaginalt ULJ visar rikligt med rester i kaviteten.
   * sannolika diagnosen: inkomplett abort
+* !! **Alba** 
+  * kommer till avdelning för att få en abort i v 21+4. 
+  * Vilket/a nedanstående påståenden är korrekta?
+    * fel: vårdgivare har ingen skyldighet att utföra abort om det strider mot deras religiösa övertygelser
+    * fel: socialstyrelsen kan aldrig medge inducerad abort efter v 22+0 
+    * fel: vid inducerad abort där fostret visar livstecken ska barnläkare alltid tillkallas
+    * Rätt: kvinnor har rätt att få samtalskontakt vid abort
+* !! **Vad är korrekt avseende lagar som reglerar abort?**
+  * ?? kvinnan har alltid rätt att välja abortmetod 
+  * i sverige har kvinnan rätt att begära abort till och med v-12+0 
+  * rätt: i sverige har kvinnan rätt att begära abort till och med vecka 18+0. 
+  * vid inducerad abort där fostret visar livstecken efter framfödandet ska barnläkare alltid tillkallas 
 
 
 
@@ -6358,6 +6627,200 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Infertilitet
+
+
+
+***Presentation***
+
+* Olga är 32 år
+  * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
+  * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
+* **Ingrid är 37 år** 
+  * gammal och hon berättar att hon och hennes make försökt få barn i 2 års tid utan att lyckas.
+  * Vilket/a nedanstående påståendaen är korrekta?
+  * rätt: endometrios är en vanlig orsak till kvinnlig infertilitet 
+  * kvinnor med endometrios har högre risk för att utveckla ovariellt hyperstimuleringssyndrän än kvinnor med PCOS 
+  * cervixdysplasi är en vanlig orsak till kvinnligt inferilitet 
+  * IVF är inte möjligt vid azospermi
+
+
+
+***Definition***
+
+* **Sverige**: oförmåga gravid 1år av oskyddat samlag. 
+* **WHO definierar**: ofrivilligt barnalöshet 2år av oskyddat samlag.
+  * också infertilitet om man inte lyckas föda levande barn enl WHO. 
+* **Skillnad sterilitet:** absolut oförmåga att levande barn. 
+
+
+
+***Etiologi och patofysiologi***
+
+* **Olika orsaker**
+  * **Ovulatoriska störningr:** 
+    * hypothalamisk anovulation.
+    * PCO 
+    * ovariellsvikt
+  * **Tubarobstruktion:** 
+    * **infektioner**: 
+      * klamydia, gonorre, PID? har att göra med ärrvävnad som bildas och efterföljande adherenser, so mförsvårar för ovums resa ned för tuborna till uterus, samt av fertilisering av ovum med sperimier. Då det är svårt för implantation uteralt, kan orsaka infertilitet. 
+    * **!!! ektopisk graviditet**: 
+      * Notera relationen med **infektioner**. att det är infektionerna som kan påverka tuborna, varpå det ökar sannolikeheten för x-grav
+    * **endometrios**
+  * **Endometrios**
+  * **Uterina orsaker:** 
+    * submukösa leiomyom, 
+    * malformation
+  * **Sexuellstörning**: vaginism
+  * **Postoperativa**: 
+    * kejsarsnitt att det är färre barn efter kejsarsnitt och glesare mellan barnen (vet ej om frivilligt eller ej; kan confounding factor; eller orsaker t kejsarsnitt som hög ålder, eller annan sjjd exempelvis)
+  * **Läkemedel + tidg behandlingar**: 
+    * strålbehandling; cytostatika; NSAID påverkar fovulation; 
+    * spermakvalitet negativt: cimetidin, sulfasalazin, androgener
+  * **Tidigare infektioner**
+    * // klamydia kan försvåra för graviditet; till skillnad fr candida, bakteriell vaginos, HPV som inte påverkar fertilitet
+    * infektioner speciellt  genitalia
+  * operationer i bukhhålan
+  * Hos mannen: ljumskbråck, tidg operationer genitalia, ljumsbråcksoperationer. 
+* **Fekunditet** 
+  * Ålder: komplex o multifaktoriell. ökad medicinska faktorer, hormon, psykosociala faktorer, gyn sjd e.g. myom endometrios o resttillstånd efter infektion har betydelse
+    * 25åå = 31%
+    * 30åå minskad fekunditet
+    * 45åå fåtal kvinnor som blir gravida
+  * 40åå: kraftigt försämrad fekunditet
+    * öakde anovulatoriska cykler
+    * försämrad ovarailfuntkion med färre folliklar, högre 
+    * högre andel defekta oocyter 
+    * högre andek kromosmalt abnorma embryon
+  * **indicens missfall**: 30åå 8-10%; 40åå 30%
+  * livsstil: hög kaffekonsumption, alkohol, rökning, marijuana, övervikt, undervikt
+  * **STI ökar med missbruk, ökad missfallsfrekvens.**
+  * alkohol och lägre spermieantal
+  * låg koitusfrekcens (färre än 1gg i veckan) minskar osså kumulativ graviditetsfrekvens inom ett år. 
+
+
+
+***Indelning***
+
+* **Primär infertilitet**: frånvaro av konception, trots 2års graviditetsförsök
+* **Sekundär infertilitet**: kvinna varit gravid, men sedan inte blivit gravid igen efter 2års försök. 
+
+
+
+***Epidemiologi***
+
+* vanligt
+* primär infertilitet: 3.5-6.6%
+* sekundär infertilitet: 2-10%
+* 15-20% av alla par b eräknas inte få barn när de önskar. 
+* sterila par: 1% 
+* fekunditet: sannolikhet för konception per menscykel eller per månad
+  * antalet kvinnor som blir gravida per cykel el månad, delat med antalet som försöker bli grav. 
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utredning och handläggning***
+
+* **i  regel 1år efter oskyddat samlag utan graviditet.** 
+
+* **Förutsättning för infertilitetsutrednin**g
+
+  * förutsätter båda parterna medverkar
+  * samkönade par tillåtsbehandling med insemination eller in vitro fertilisering
+  * enl lag: relation betraktas stabil, paret är gifta, registrerade partners eller samboende för att tillåtas asssterad befrukt. 
+  * praxis: parest levt ihop minst 1 år 
+  * ensamstående tillåts ej befruktas assisterat
+  * heterosex par, haft sex minst 1 år, oskyuddat. 
+  * hög ålder (över 35åå för kvinna)redan klar eller misstänkt fertilitetsnedsättande faktor
+
+* **före utredning:**
+
+  * inga kontraindikationer för behandling grav: allvarlig medicinsk eller psykisk sjd , missruk, annan psykososical problem (barn till omsorgssviktande päron ökad risk för somatisk + psykisk ohälsa)
+  * utredning bör ej göras förrän båda parter åtminstone 19åå; varit myndiga i ett år. 
+  * begränsad utredning kvinnor 40-42åå
+  * INGEN utredning kvinnor efter 43åå, gravmöjligheter mkt små
+
+* **klara sked så tiditg som möjligt**: för att så pass krisande thing, att de behöver få svar asap. 
+
+* **utredningsmål + syfte**: målet infertila paret ska få ett gemensamt barn. förklaring till infertilitet. info om bästa möjliga behandling
+
+* **Anamnes**
+
+  * Ålder
+  * Pubertetsutvecklin, tidg sjd
+  * **menscykel mönster**: amenorre, oligomenorre, ovulationstester
+    * helt regelbunden cykel, 28-32d intervall, UTESLUTER i regel ovulationsdefekt
+    * oligomenorre med clängd över 40d + amenorre (>6mån mellan mens): störning ovulationsmekanism
+    * korta cykler (mindre än 26d): störning
+    * oregelbunden intervall, även om inom 26-35d: störning
+  * dysmenorre eller dyspareuni: tda endometrios, ta ställning t indik för laparoskopi föreligger. 
+  * tidg grav, även missfall
+  * riskfaktorer för tubarskada, operationer
+
+* **Livsstilsfaktorer**
+  * rökning
+  * alkohol
+  * övervikt förenad med subfebrilitet
+  * speciellt hos kvinnor med oligomenorre och PCOS
+  * undervikt
+
+* **Status**
+  * **BMI**: övre gräns 30-32 BMI för behandling; 18-19 efterfråga ätstörning. 
+  * **PCOS frågeställning** (acne, hyperandrogenism, hirsutism)
+  * **Acne**
+  * **tecken hyperandrogenism**
+  * **thyroidea**
+  * **gynundersökning**: utesluta anatomiska anomalier
+
+  * **UL**: endometrietjocklek, ovariers storlek, evt follikel, corpus luteum rel t cykelfas. antal antral folliklar, förekomst randställd folklar, tecken PCOS. 
+    * säckformade äggledare (sektosalpinx) eller cystor ovarier viktiga fiagnostisera
+
+* **Infektionsprover** (enl bok): båda parter för HBV, HCV, HIV. 
+
+  * **i fall assiterad befruktning aktuell**: enl lag ta HTLV1, HTLV2 och syfilis
+
+* **Diagnostik**
+
+  * **Ovulation:** 
+    * UL folliklar, 
+    * antal folliklar, 
+    * normal mens
+    * S-progesteron
+    * TSH
+    * FSH,
+    * LH o PRL om amenorre el oligomenorre
+  * **Tubar**: hystrosonossalpingografi
+  * **Endometrios**: anamnes, dysmenorre, smärta, gynekologiskt status, smärtfulla resistenser, ovariecystor
+  * **Uterus utseende:** UL
+
+* // mannen: infek underliv, tidg ljumskbårckoperation, exponering toxisk ämnen, strålning. normalt spermaprov räcker utredningsmässigt för män. 
+
+
+
+***Behandling***
+
+* Rekommendationer
+  * normal menscykel 26-35d, ovulation 12-14d före mens, på 28d cykel är ovulation d14. efter ovulation ovum lever 1 dygn, spermier 3d (minst). 
+  * bästa konceptionsmöjlighet: samlag inom 2d fr ovulation. 
+* **Ovulationinduktion**
+  * antiöstrogen i PCO
+  * gonadotropin vid hypothalamisk amenorre
+* **Operativ behandling endometrios**
+* **inseminering + ovulationsinduktion** om oförklarlig infertilitet
+* **IVF:** 
+  * tubarskada
+  * endometrios
+  * anovulation
+
+
+
+
+
 ### Menopaus
 
 
@@ -6397,6 +6860,13 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * activelle: 1mg östradiol + 0.5mg noretisteron
   * Samma symptom som ovan men inga blödningar sedan 10år, pga hysterektomi. 
     * endast östrogen. Gestagen behövs för att skydda en frånvarande endometrieslemhinna pga hysterektomin
+* **Fadumeh 80 år** 
+  * en-passent på att hon blöder från underlivet ibland i samband med toalettbesök och upplever att det är så torrt att hon inte kan genomföra samlag längre. 
+  * Vilket/a nedanstående pååståenden är korrekta?
+  * Torra slemhinnor hos en 80-årig kvinna beror oftast på lokal svampinfektion
+  * klåda i underlivet hos en 80-årig kvinna beror oftast på lokal svampinfektion
+  * rätt: lättblödande slemhinnor hos en 80-årig kvinna beror oftast på lokal östrogenbrist 
+  * lättblödande slemhinnor hos en 80-årig kvinna beror oftast på lokal vaginalcancer 
 
 
 
@@ -6443,7 +6913,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### OHSS
+### OHSS TODO
 
 ***Presentation***
 
@@ -6468,6 +6938,17 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * men det utlöses först då hCG getts.
 * **förstorade ovarier, torsion**: detta är möjligt, nödvändigt med akut operation. 
 * **syndrom värre om grav samma cykel som hormonstimuleringen**: syndromet blir längre o värre om man blir grav i samma cykel. 
+* **Under FSH-stimulering får för många folliklar och snabbt stigande östrogen, trots detta går vidare ge hCG**
+
+
+
+***Riskfaktorer***
+
+* PCOS
+* unga patienter
+* små och nätta kvinnor: att man har feldoserat?
+* alla pat med hög ovarialreserv: högt AFC (antral follicle count) och eller AMH
+* patienter med lång menscykel (över 30d)
 
 
 
@@ -6513,6 +6994,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 *  Anna 39-årig 
   * IV-para, söker för sterilisering. Vill absolut inte ha fler barn. Hon är 161 cm lång och väger 92 kg, har en måttlig astma för vilken hon medicineras med Pulmicort. Yngsta barnet är 6 år. Anna har gjort 3 aborter de senaste 3 år. Använder kondom som preventivmedel, sedan hon tog ut spiralen pga riklig mens
   * handläggning o steriliseringsmetoder föreslå: rådgivnde samtal kruator. Metoder laproskopi o hysteroskopi. Föreslå hysteroskopisk sterilisering (risk med narkos om laparoskopi)
+*  Vilket av följande påståenden är korrekt avseende sterilisering:
+   * Man har rätt till sterilisering om man fylt 18 år 
+   * rätt: man har rätt till sterilisering om man fyllt 25 år 
+   * man har endast rätt till sterilisering om man har barn 
+   * vid sterilisering krävs endast muntlig medgivande av patienten
+   * vid sterilisering krävs att partnern informeras
 
 
 
@@ -8636,188 +9123,6 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Infertilitet
-
-
-
-***Presentation***
-
-* Olga är 32 år
-  * och remitteras från en privat gynekolog till fertilitetsenheten. Hon kommer tillsammans med sin man. Från remissen framgår att hon är 0 gravida och lider av kronisk smärta i nedre delen avbuken. Den sista gynekologiska undersökningen inklusive ultraljudsundersökning var normal.Tyreoideaprover var normala. Infektionsproverna utan anmärkning. Smear var benignt. Hennes manhar nyligen lämnat spermaprov som var helt normalt
-  * Du misstänker en <u>vanlig orsak</u> till kvinnlig infertilitet hos denna patient: endometrios
-
-
-
-***Definition***
-
-* **Sverige**: oförmåga gravid 1år av oskyddat samlag. 
-* **WHO definierar**: ofrivilligt barnalöshet 2år av oskyddat samlag.
-  * också infertilitet om man inte lyckas föda levande barn enl WHO. 
-* **Skillnad sterilitet:** absolut oförmåga att levande barn. 
-
-
-
-***Etiologi och patofysiologi***
-
-* **Olika orsaker**
-  * **Ovulatoriska störningr:** 
-    * hypothalamisk anovulation.
-    * PCO 
-    * ovariellsvikt
-  * **Tubarobstruktion:** 
-    * **infektioner**: 
-      * klamydia, gonorre, PID? har att göra med ärrvävnad som bildas och efterföljande adherenser, so mförsvårar för ovums resa ned för tuborna till uterus, samt av fertilisering av ovum med sperimier. Då det är svårt för implantation uteralt, kan orsaka infertilitet. 
-    * **!!! ektopisk graviditet**: 
-      * Notera relationen med **infektioner**. att det är infektionerna som kan påverka tuborna, varpå det ökar sannolikeheten för x-grav
-    * **endometrios**
-  * **Endometrios**
-  * **Uterina orsaker:** 
-    * submukösa leiomyom, 
-    * malformation
-  * **Sexuellstörning**: vaginism
-  * **Postoperativa**: 
-    * kejsarsnitt att det är färre barn efter kejsarsnitt och glesare mellan barnen (vet ej om frivilligt eller ej; kan confounding factor; eller orsaker t kejsarsnitt som hög ålder, eller annan sjjd exempelvis)
-  * **Läkemedel + tidg behandlingar**: 
-    * strålbehandling; cytostatika; NSAID påverkar fovulation; 
-    * spermakvalitet negativt: cimetidin, sulfasalazin, androgener
-  * **Tidigare infektioner**
-    * // klamydia kan försvåra för graviditet; till skillnad fr candida, bakteriell vaginos, HPV som inte påverkar fertilitet
-    * infektioner speciellt  genitalia
-  * operationer i bukhhålan
-  * Hos mannen: ljumskbråck, tidg operationer genitalia, ljumsbråcksoperationer. 
-* **Fekunditet** 
-  * Ålder: komplex o multifaktoriell. ökad medicinska faktorer, hormon, psykosociala faktorer, gyn sjd e.g. myom endometrios o resttillstånd efter infektion har betydelse
-    * 25åå = 31%
-    * 30åå minskad fekunditet
-    * 45åå fåtal kvinnor som blir gravida
-  * 40åå: kraftigt försämrad fekunditet
-    * öakde anovulatoriska cykler
-    * försämrad ovarailfuntkion med färre folliklar, högre 
-    * högre andel defekta oocyter 
-    * högre andek kromosmalt abnorma embryon
-  * **indicens missfall**: 30åå 8-10%; 40åå 30%
-  * livsstil: hög kaffekonsumption, alkohol, rökning, marijuana, övervikt, undervikt
-  * **STI ökar med missbruk, ökad missfallsfrekvens.**
-  * alkohol och lägre spermieantal
-  * låg koitusfrekcens (färre än 1gg i veckan) minskar osså kumulativ graviditetsfrekvens inom ett år. 
-
-
-
-***Indelning***
-
-* **Primär infertilitet**: frånvaro av konception, trots 2års graviditetsförsök
-* **Sekundär infertilitet**: kvinna varit gravid, men sedan inte blivit gravid igen efter 2års försök. 
-
-
-
-***Epidemiologi***
-
-* vanligt
-* primär infertilitet: 3.5-6.6%
-* sekundär infertilitet: 2-10%
-* 15-20% av alla par b eräknas inte få barn när de önskar. 
-* sterila par: 1% 
-* fekunditet: sannolikhet för konception per menscykel eller per månad
-  * antalet kvinnor som blir gravida per cykel el månad, delat med antalet som försöker bli grav. 
-
-
-
-***Kliniska kännetecken***
-
-
-
-***Utredning och handläggning***
-
-* **i  regel 1år efter oskyddat samlag utan graviditet.** 
-
-* **Förutsättning för infertilitetsutrednin**g
-
-  * förutsätter båda parterna medverkar
-  * samkönade par tillåtsbehandling med insemination eller in vitro fertilisering
-  * enl lag: relation betraktas stabil, paret är gifta, registrerade partners eller samboende för att tillåtas asssterad befrukt. 
-  * praxis: parest levt ihop minst 1 år 
-  * ensamstående tillåts ej befruktas assisterat
-  * heterosex par, haft sex minst 1 år, oskyuddat. 
-  * hög ålder (över 35åå för kvinna)redan klar eller misstänkt fertilitetsnedsättande faktor
-
-* **före utredning:**
-
-  * inga kontraindikationer för behandling grav: allvarlig medicinsk eller psykisk sjd , missruk, annan psykososical problem (barn till omsorgssviktande päron ökad risk för somatisk + psykisk ohälsa)
-  * utredning bör ej göras förrän båda parter åtminstone 19åå; varit myndiga i ett år. 
-  * begränsad utredning kvinnor 40-42åå
-  * INGEN utredning kvinnor efter 43åå, gravmöjligheter mkt små
-
-* **klara sked så tiditg som möjligt**: för att så pass krisande thing, att de behöver få svar asap. 
-
-* **utredningsmål + syfte**: målet infertila paret ska få ett gemensamt barn. förklaring till infertilitet. info om bästa möjliga behandling
-
-* **Anamnes**
-
-  * Ålder
-  * Pubertetsutvecklin, tidg sjd
-  * **menscykel mönster**: amenorre, oligomenorre, ovulationstester
-    * helt regelbunden cykel, 28-32d intervall, UTESLUTER i regel ovulationsdefekt
-    * oligomenorre med clängd över 40d + amenorre (>6mån mellan mens): störning ovulationsmekanism
-    * korta cykler (mindre än 26d): störning
-    * oregelbunden intervall, även om inom 26-35d: störning
-  * dysmenorre eller dyspareuni: tda endometrios, ta ställning t indik för laparoskopi föreligger. 
-  * tidg grav, även missfall
-  * riskfaktorer för tubarskada, operationer
-
-* **Livsstilsfaktorer**
-  * rökning
-  * alkohol
-  * övervikt förenad med subfebrilitet
-  * speciellt hos kvinnor med oligomenorre och PCOS
-  * undervikt
-
-* **Status**
-  * **BMI**: övre gräns 30-32 BMI för behandling; 18-19 efterfråga ätstörning. 
-  * **PCOS frågeställning** (acne, hyperandrogenism, hirsutism)
-  * **Acne**
-  * **tecken hyperandrogenism**
-  * **thyroidea**
-  * **gynundersökning**: utesluta anatomiska anomalier
-
-  * **UL**: endometrietjocklek, ovariers storlek, evt follikel, corpus luteum rel t cykelfas. antal antral folliklar, förekomst randställd folklar, tecken PCOS. 
-    * säckformade äggledare (sektosalpinx) eller cystor ovarier viktiga fiagnostisera
-
-* **Infektionsprover** (enl bok): båda parter för HBV, HCV, HIV. 
-
-  * **i fall assiterad befruktning aktuell**: enl lag ta HTLV1, HTLV2 och syfilis
-
-* **Diagnostik**
-
-  * **Ovulation:** 
-    * UL folliklar, 
-    * antal folliklar, 
-    * normal mens
-    * S-progesteron
-    * TSH
-    * FSH,
-    * LH o PRL om amenorre el oligomenorre
-  * **Tubar**: hystrosonossalpingografi
-  * **Endometrios**: anamnes, dysmenorre, smärta, gynekologiskt status, smärtfulla resistenser, ovariecystor
-  * **Uterus utseende:** UL
-
-* // mannen: infek underliv, tidg ljumskbårckoperation, exponering toxisk ämnen, strålning. normalt spermaprov räcker utredningsmässigt för män. 
-
-
-
-***Behandling***
-
-* Rekommendationer
-  * normal menscykel 26-35d, ovulation 12-14d före mens, på 28d cykel är ovulation d14. efter ovulation ovum lever 1 dygn, spermier 3d (minst). 
-  * bästa konceptionsmöjlighet: samlag inom 2d fr ovulation. 
-* **Ovulationinduktion**
-  * antiöstrogen i PCO
-  * gonadotropin vid hypothalamisk amenorre
-* **Operativ behandling endometrios**
-* **inseminering + ovulationsinduktion** om oförklarlig infertilitet
-* **IVF:** 
-  * tubarskada
-  * endometrios
-  * anovulation
 
 ### Koagulation
 
@@ -8919,16 +9224,32 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Kombinerade metoder
 
+
+
+***Presentation***
+
+* Miriam 32 år 
+  * kommer för preventivmedelsrådgivning efter att hon slutat amma nrä hennes barn är 10 månader. hon har hört att man kan äta ihop p-pillerkartor och slippa ha blödningar. det viktigt att känna till de kontraindikationer som finns för kombinerad hormonell metod. 
+  * Vilket/a Av nedanstående tillstånd utgör kontraindikation mot användning av kombinerade hormonella preventivmedelsmetoder?
+  * rätt: **Inflammatorisk tarmsjukdom**
+  * rätt: **tidigare genomgången djup ventrombos**
+  * fel? : välbehandlad hypertoni
+  * fel? : bröstcancer hos patientens systser 
+
+
+
+
+
 ***Funktion***
 
 * Innehåller östrogen + gestagen
-* Östrogenet agerar har en synergistisk effekt på progesteronet
+* **Östrogenet agerar har en synergistisk effekt på progesteronet**
   * progesteronreceptorer och östrogenreceptorer Ökar endometriet 
     * !! bidrar t bättre blödningskontroll
   * !!! hämmar FSH frisättning
   * hämmar utveckling av Dominanta follikeln! (antagligen fram till den dominanata follikeln)
     * ***Minskar frekvensen av ovarialcystor!!!***
-* Gestagen / progesteron effekter
+* **Gestagen / progesteron effekter**
   * Hämmar LH-frisättningen
   * Hämmar ovulation
   * Förtjockar cervixsekret
@@ -8968,6 +9289,47 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 <img src="./lectures/gyn_lec/imgs/gyn_lec_3E2PVQsAbt.png" alt="3E2PVQsAbt" style="zoom: 25%;" />
+
+
+
+
+
+!!! ***ABSOLUTA kontraindikationer för kombinerad metod***
+
+* "Har kvinnan en riskfaktor som ökar risken för trombos VTE? är svaret är ja, ska hon inte ha kombinerad metod (överhuvudtaget)"
+* **Lista på absoluta kontraindikationer riskfaktorer**:
+  * !!! **MIGRÄN MED AURA**: denna ska man absolut inte ha kombinerade metoder på
+  * Previous VTE
+  * VTE in parents, siblings
+  * Coagulation disorder:
+    * antitrombindef
+    * protein C-def
+    * protein S-def
+    * factor V Leiden mutation
+    * APC-resistence without F V Leiden
+    * Protrombinmutation
+    * Dysfibrinogenemi
+    * High levels of av faktor VIII
+    * hyperhomocysteinemi
+  * Heart failure, heart disease
+  * Cerebrovaskulär disease
+  * SLE
+  * Lupusantikoagulans
+  * Antifosfolipidsyndrome
+  * Inflammatory bowel disease
+  * Myeloproliferative conditions
+  * Malignancy
+  * Polycytemia vera
+* **Relativa kontraindikationer**
+  * **age >35**
+  * **smoking**
+  * **obesity**
+    * discuss weight in absolute numbers
+    * BMI
+  * **Surgery**: consider LMWH
+  * **Immobilisation**: consider LMWH
+
+
 
 
 
@@ -9121,6 +9483,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * P-ring
 * p-plåster
 * p-sprutor (inte i sverige)
+
+
 
 #### Kombinerade p-piller
 

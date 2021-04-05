@@ -631,6 +631,23 @@ cerivicit
 * **Cykliskt gestagen**: 3-6månader
 * **Kombinerade p-piller**
 
+
+
+### Läkemedelsbehandling
+
+***Presentation***
+
+* Caty är 27år
+  * Söker för stora blödningar. hon önskar bli gravid och du förskriver därför inte hormonell behandling utan enbart cyklokapron och järntabletter.
+  * Vilket typ av läkemedel är cyklokapron
+    * Faktor VIII-frisättare 
+    * rätt: Fibrinolyshämmare
+    * NSAID 
+    * Protrombinkomplex
+    * Vitamin K 
+
+
+
 ### Missfalls blödning
 
 ***Presentation***
@@ -1177,8 +1194,8 @@ cerivicit
   * söker för långdragna blödningar och buksmärtor. Av den gynekologiska journalen framgår att hon fött 4 barn. Alla förlossningar har varit normala. Dessutom hade hon ett missfall och en legal abort. Fick spiral insatt i samband med abortingreppet och efter detta en salpingit som antibiotikabehandlades. Efter senaste partus åter kopparspiral. Patienten har haft regelbundna menstruationer fram till mitten av april 2012. Från mitten av maj till augusti haft mellanblödningar. Sökte akut i slutet av juli pga blödningar då man avlägsnade spiralen på misstanke om att denna orsakade blödningstrasslet. Eftersom blödningarna inte upphörde sökte hon åter akut och blev insatt på per oral gestagenbehandling under 10 dagar. Trots detta fortsatta blödningar. Man förordade hormonspiral som patienten fick insatt i oktober 2012. Vid återbesök juni 2013 fortsatta blödningar. Hon upplever att hon är trött på blödningarna. Smear och endometriebiopsi ua.
   * Sannolik diagnos: myom...
   * behandlingsalternativ t denna patient: endometrieablation, endometrieresektion, hysterektomi, eller esmia
-* Karin 60 år, TODO
-  * slutade mensutrera vid 51 års ålder men besväras nu av stänkblödning av och till. Hon har också obehagskänsla när hon har sex. Söker på gynekologisk mottagning.Vid undersökningen finner du lite rodnade lättblödande slemhinnor i vagina. Portio ser oretad ut makroskopiskt. 
+* **Karin 60 år, TODO**
+  * Slutade mensutrera vid 51 års ålder men besväras nu av stänkblödning av och till. Hon har också obehagskänsla när hon har sex. Söker på gynekologisk mottagning.Vid undersökningen finner du lite rodnade lättblödande slemhinnor i vagina. Portio ser oretad ut makroskopiskt. 
   * Vilka diagnoser överväger du? Vilken/Vilka undersökningar gör du?
     * abe: endometriecancer, cervixcancer, cervixdysplasi, sköra slemhinnor pga menopaus
   * undersökningar: 
@@ -1187,6 +1204,18 @@ cerivicit
     * (endometrie PX ska tas?)
     * cytologi 
     * HPV-test (papsmear)
+* !! **Ulla 71 år** 
+  * slutade mensutrera för många år sedan. lever med sin man har inga barn. Överviktig och hade oregelbundna menstruationer under största delen av sitt liv. I helgen fick hon en blödning i samband med samlag och vid närmare anamnestagning framkommer att hon haft småblödningar i snart 5 veckor.
+  * **Nämn den viktigaste diagnosen att utesluta?**
+    * endometriecancer
+  * **nämn 3 riskfaktorer som Ulla har för denna diagnos**
+    * övervikt (obesitas), nulliparitet, ålder
+    * övervikt: minskad SHBG, därmed högre biologiskt aktivt östrogen (enl abe)
+    * nulliparitet: har ej haft barn, eller verkar som att varit gravid. + anovulationer ökar risken då med ökad östrogen påslag, längre tid proliferationsfas
+  * !! **3 andra diagnoser som förklarar Ullas blödningar**
+    * Cervixcancer
+    * sköra slemhinnor slida och urinledare
+    * polyper! TODO
 
 
 
@@ -1615,12 +1644,20 @@ cerivicit
     * 42åå kvinna inremitterad pga rikliga vaginala blödningar i samband med mens och mikrocytär anemi, insatt järntabletter. 2 gravida 2 para, nu kopparspiral, sedan 3 år sedna. Statusmässigt oanmärningsvärt, utöver gynekoloiskt status med forstprad uterus motsvarande 10-12gravveckor, fat konsistens. Vaginalt UL visar flera intramurala myom, uterus förstorat, största myomet på 3cm. Myomen förklarar de rikliga vaginala blödningarna. Således byte av kopparspiral som kan attenuera blödningarna mot kombinerade hormonell prevention, då myomen kan ha
 * !! **Majvor är 52 år**
   * o frisk bortsett från essentiell hypertoni som hon behandlar med enalapril 10mg*1. Hon sökte för buksmärtor vid kirurgakuten för 6 veckor sedan och man noterade då flertalet myom i livmodern vid CT undersökning. hon är nu helt besvärsfri. Majvor har fött två barn som nu är vuxna och hon har inte längre några menstruationer.
-  * Vilken handläggning är mest lämplig för Majvor?
+  * **Vilken handläggning är mest lämplig för Majvor?**
     * Embolisering
     * hysterektomi 
     * lugnande besked - ingen åtgärd 
     * myomenukleation 
     * rätt: specialisultraljud för att bedöma risk för sarkom.
+* **Greta är 42år** 
+  * och har diabetes mellitus typ 1 och är lätt överviktig. hon har 2 barn och vill inte ha flera. Hon söker för rikliga men regelbunda blödningar och man finner ett intramuralt myom på 3cm.
+  * **Vilken behandling är lämplig?**
+      * kombinerade p-piller
+      * hormonspiral
+      * hysterektomi
+      * myomenukleation
+      * progesteronreceptormodulator ESmya
 
 
 
@@ -2217,6 +2254,14 @@ cerivicit
 
 
 
+#### Gonadotropinerna
+
+***FSH - Follicle stimulating hormone***
+
+* 
+
+
+
 ###  HRT-behandling TODO
 
 
@@ -2357,6 +2402,17 @@ cerivicit
 
 
 ### Menstruationscyk
+
+
+
+***Presentation***
+
+* Vilket påstående är korrekt?
+  * FSH bildas framförallt i leydigcellerna
+  * LH bildas framförallt primordialfolliklarna
+  * rätt: progesteron relaxerar glatt muskulatur
+  * östrogen bildas framför allt i hypofysen 
+  * östrogenhalten i blodet är som högst under lutealfasen 
 
 
 
@@ -2504,6 +2560,17 @@ cerivicit
 
 
 ### Menstruation
+
+
+
+***Presentation***
+
+* Frida 
+  * som har regelbunda blödningar är 36 år och ska resa till Kreta under sin semester och undrar om du kan hjälpa henne med att skjuta upp sin mens då hon inte vill blöda när hon ska bada. 
+  * Hur kan du hjälpa henne att uppnå blödningsfrihet under semestern?
+  * Kan ta gestagen 3d-1v innan mens för att bibehålla patienten sekretionsfasen och hindra utstötning av endometrieslemhinnan. Förutsätter att gestagenet tas regelbundet och hålls på en jämn nivå. 
+
+
 
 ***Data***
 
@@ -2793,6 +2860,16 @@ cerivicit
   * gyn undersök + UL, vad lär man hitta: polycystiska ovarier >=12 antralfolliklar eller ovarialvolym över 10cm^3
   * labb bekräfta diagnos: FSH, LH, TSH, fT4, prolaktin, progesterontest (gestagentest, 17-OH-progesteron), SHBG, testosteron (för att klinisk hyperandrogenism + mensstörning)
   * förslag behandling: konservativ behandling (viktnedgång, metabola syndromet adderssera, livsstilsråd). p-piller för mensstruationsstörningen (cykliska gestagener eller hormonspiral)
+* **Doris är 23 år.** 
+  * Hon söker för oregelbunda blödningar. hon fick menarke vid 11 års ålder och minns inte om hon hade regelbundna blödningar innan hon började med p-piller i 14-årsåldern. Efter att hon slutade p-pillren för 1,5 år sedan har hon endast haft 6-7 menstruationer.
+  * Gynekologisk undersökning utfaller normalt. I blodprovssvaren noterar du testosteron vid övre referensintervallet men normalt FSH och ett mycket lågt SHBG. 
+  * vilken diagnos misstänker du i första hand? 
+      * hypotalamisk amenorre ( nej för att FSH borde va lågt pga hämmad pulsatil GNRH frisättning) 
+      * Rätt: polycystiskt ovariesyndrom
+      * prematur ovariell insufficiens ( Ska va högt FSH) 
+      * prolaktinom ( måste läsa på)
+      * turners syndrom
+
 
 
 
@@ -4544,6 +4621,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Rätt: kontrollodling ska utföras efter behandling av gravida med urinvägsinfektion 
   * Vid grupp B streptokocker i urinen under graviditet skall patienten enbart få behandling med antibiotika under förlossningen om hon har symtom 
   * Rätt: **Grupp B streptokocker är den vanligaste orsaken till neonatal sepsis**
+* Vilket av följande påståenden är korrekt?
+  * Behandling av GBS i urin minskar risk för sepsis hos mamman 
+  * enterokocker är vanlgiaste agens vid urinvägsinfektion hos gravida 
+  * kontrollodling behöver inte utföras efter behandling av gravida med urinvägsinfektion
+  * recidiverande urinvägsinfektioner under grav skall alltid föranleda profylaktisk antibiotikabehanding under förlossning 
+  * rätt: urinvägsinfektion bör misstänkas när gravida kvinnor har prematura sammandragningar 
 
 
 
@@ -6113,6 +6196,22 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Lichen sclerosus
+
+***Presentation***
+
+* Majken är 65år
+
+  * och lever i spanien på vintrarna men besöker dig på vårdcentralen i sverige då hon är hemma över sommaren. hennes man dog för 3 år sedan men hon har ändå ett aktivt sexliv utan fast partner. Hon beväras dock sedan länge av intensiv klåda i underlivet och hon tycker det kan vara mycket smärtsamt vid samlag. Vid undersökning noterar du en normal flytning men i vulva ses vita områden med skör hud och rivmärken. 
+  * Vilken diagnos är mest trolig?
+    * Atopiskt eksem
+    * candida albicans 
+    * klamidya trachomatis 
+    * **lichen sclerosus** 
+    * neisseria gonorrhoeae 
+
+  
+
 ### Vulvär eksem
 
 ***Behandling***
@@ -6406,6 +6505,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * i sverige har kvinnan rätt att begära abort till och med v-12+0 
   * rätt: i sverige har kvinnan rätt att begära abort till och med vecka 18+0. 
   * vid inducerad abort där fostret visar livstecken efter framfödandet ska barnläkare alltid tillkallas 
+* **Kimberly 21år**
+  * på besök från Irland och söker KK då hon är oönskat gravid. Med ultraljud konstateras att hon är gravid i v. 11+1. Hon önskar att göra abort så snart som möjligt.
+  * Vilken handläggning är mest lämplig utifrån kimberleys önskemål?
+      * ge mifropostol idag och meddela att hon kan göra resten av behandlingen i hemlandet
+      * informera om att hon måste göra aborten i sitt hemland men att du kan skriva remiss
+      * Påbörja aborten idag med mifepriston o slutföra som hemabort 
+      * senarelägga aborten och utföra den som medicinsk andratrimesterabort
+      * rätt: vårdplanera för medicinsk eller kirurgisk abort sverige snarast möjligt
 
 
 
@@ -6609,8 +6716,6 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-
-
 #### IVF
 
 ***Metodmässigt***
@@ -6639,6 +6744,28 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * kvinnor med endometrios har högre risk för att utveckla ovariellt hyperstimuleringssyndrän än kvinnor med PCOS 
   * cervixdysplasi är en vanlig orsak till kvinnligt inferilitet 
   * IVF är inte möjligt vid azospermi
+* !! **Olga** 
+  * kommer till dig och berättar att hon och hennes Make fredrik har försökt få barn under två års tid utan framgång. 
+  * Motivera för Olga varför även Fredrik måste komma till mottagningen och berätta om 2 saker som man söker hos fredrik?
+  * Infertilitet är 30% kombination av saker eller idiopatiskt, 
+  * ⅓ pga mannen och
+  *  ⅓ pga kvinnor
+  * Därmed måste även mannen komma för att kunna finna om han är ev. orsaken, 
+  * Det man letar efter: spermieantal och spermiemotilitet.
+* **Ett par som är infertila**
+  * **Ange tre orsaker till kvinnlig infertilitet?** 
+    * PCOS
+    * POI
+    * myom
+    * // tidigare behandling cancerbehandling
+    * endometrios
+    * tidigare PID
+    * // rökning
+  * !! **Förklara varför var o en av dessa kan leda t infertilitet**
+    * PCOS: oligomenorrhe, amenorre, hormonell obalans o ovarierna ägglosar inte då. 
+    * POI: ingen ägglossning, varierna svarar inte på GnRH och cyklisk follikeltillväxt uteblir
+    * Myom: mekaniskt problem med tex implantation
+    * ätstörning: pga hypothalamisk ämning vilket gör att GnRH och gonadotropiner inte frisätts i samma nivå o ingen follikel völjs ut o ingen ägglossning de får amenorre
 
 
 
@@ -7032,7 +7159,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **åtgärdas av läkare i operation**: <u>sfinkter</u>skador, svåråtkomliga grad2 skador
 * **återuppbygg perineum**
 
-<img src="./imgs/gyn_sam_230321_TI0dsB8rAC.png" alt="TI0dsB8rAC" style="zoom:50%;" />
+<img src="./imgs/gyn_sam_230321_TI0dsB8rAC.png" alt="TI0dsB8rAC" style="zoom: 80%;" />
 
 
 
@@ -7089,7 +7216,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 - Beskriv enl SFOGs terminologi
 
-- - basalfrekvens
+  - basalfrekvens
   - variabilitet
   - förekomst accelerationer, decelerationer: variabla [okomplicerade, komplicerade], eller uniforma [tidiga, sena]
   - värkar: frekvens var 10e minut, och duration på värkarna
@@ -7098,35 +7225,32 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 - **Basalfrekvens**
 
-- - **Normalt**: 110-160bpm
+  - **Normalt**: 110-160bpm
   - **Avvikande**: 100-109, över 160bpm
   - **Patologiskt**: under 100bpm
 
 - **Variabilitet**
 
-- - **Normalt**: 5-25npm
+  - **Normalt**: 5-25npm
   - **avvikande**
   - **Patologiskt**: under 5bpm över 60min3; över 25bpm över 30min; sinusoidalt över 30min
 
 - **Decelerationer**
 
-- - **Normalt**: Inga repetitiva, repetitiva variabla okomplicerade / uniforma tidiga; 
+  - **Normalt**: Inga repetitiva, repetitiva variabla okomplicerade / uniforma tidiga; 
   - **avvikande**: repetitiva variabla komplicerade med normal basalfrekvens och normal variabilitet
   - **Patologiskt**: repetitiva uniforma sena över 30min vid takykardi el nedsatt variab över 20min; rep variabla komplicerade vid takykardi nedsatt variabilittet över 20min; rep förlängda över 3min; en förlängd över 5min
 
 - **Tolkning**
 
-- - **Normalt**: ej pågående hypoxi
+  - **Normalt**: ej pågående hypoxi
   - **avvikande**: låg risk hypoxi
   - **Patologiskt**:_ medel hög risk hypoxi
 
 - **Åtgärd**
-
-- - **Normalt**: ingen åtgärd
+  - **Normalt**: ingen åtgärd
   - **avvikande**: korrigera reversibla orsaker, fortsatt CTG, överväg stimtest el skalpblodprov
   - **Patologiskt**: korrigera reversibla orsaker, utför stimtest, tag skalblodprov eller förlö
-
-
 
 
 
@@ -7270,6 +7394,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * amma barnet: frisätta oxytocin (uterussammandragande)
 * ge uteruskontraherande lk
 
+
+
 ***Risk postpartumblöd***
 
 * Ökar signifikant, om efterbördesskede (placenta kvar) >18min
@@ -7284,7 +7410,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Presentation***
 
-* tre faktorer störst betydelse för förlossningsprocessen ska gå vidare: 
+* **tre faktorer störst betydelse för förlossningsprocessen ska gå vidare:** 
   * värkarnas styrka
   * barnets storlek
   * mammans bäcken
@@ -7959,6 +8085,22 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Presentationer
+
+***Presentation***
+
+* <img src="./imgs/gyn_sam_050421_vTyVO1xFIp.png" alt="vTyVO1xFIp" style="zoom:50%;" />
+  * A: Framstupa kronbjudning
+  * B: Framstupa hjässbjudning
+  * C: Vidöppen pannbjudning
+  * D: Vidöppen ansiktsbjudning
+* VIlken bjudning är vanlgiast och har minst risk för komplikationer och varför: 
+  * framstupa kronbjudning
+  * minst huvudomfång
+  * därför enklare passage gm förlossningskanalen
+
+
+
 ### Signalsubstanser
 
 #### Oxytocin
@@ -8072,15 +8214,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 - Infusion inleds med 20mL/h
 - infusionshastighet ökas med 20mL var 20e-30e minut tills adekvat värkar
 - eftersträva 
-- - i öppningsskede 4-5 värkar/10min, med misnt 60s lpays mellan,
+  - i öppningsskede 4-5 värkar/10min, med misnt 60s lpays mellan,
   - utdrivningsskede max 5värkar/10min med minst 45-50s paus mellan
 - anpassa dos efter individuell respons o använd minsta möjliga effektiva dos
-
-
-
-
-
-
 
 
 
@@ -8414,6 +8550,21 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ### Placentarel
 
 #### Placenta Ablatio
+
+
+
+***Presentation***
+
+* Pirjo är 39år 
+  * gammal o väntar sitt första barn. kontroller på MVC har varit normala men BT har stiigt de två sista veckorna. hon kommer till förlossningsavdelningen i vecka 28 pga färsk vaginal blödning på CTG noteras takykardi och nedsatt variabilitet. Uterus palperas hård. Svårt att palpatoriskt och anamnestiskt få farm ngt tydligt värkmönster 
+  * Med den info tillgänglig, trolig diagnos?
+      * Rätt: Ablatio placentae
+      * hemorragisk cystit
+      * spontan prematurförlossning
+      * uterusruptur
+      * vasa previa 
+
+
 
 ***Etiologi och patofysiologi***
 
@@ -9231,6 +9382,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * rätt: **tidigare genomgången djup ventrombos**
   * fel? : välbehandlad hypertoni
   * fel? : bröstcancer hos patientens systser 
+* **Vilket av följande påståenden utgör en kontraindikation för användning av kombinerad preventivmedelsmetod:**
+  * BMI 30 
+  * bröstcancer hos patientens syster
+  * rätt: migrän med aura
+  * Persisterande HPV infektion
+  * superficiella varicer
 
 
 

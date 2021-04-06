@@ -26,7 +26,7 @@
   * KK akutmottagningen som för 3 dagar sedan genomgått laparaskopisksterilisering. Hon är tidigare opererad för gallsten, extrauterin graviditet och appendektomerad. Postoperativt har hon inte mått särskilt bra och söker nu pga fortsatta buksmärtor och kräkningar. Det hörs sparsamt med tarmljud. Temp 37,9 grader. 
   * Vilka prover och undersökningar oridnerar du?
       * Svar: CRP, HB, Buk-översikt/DT-buk 
-  * B. Vilken diangos viktigast att utesluta?
+  * Vilken diangos viktigast att utesluta?
       * svar: tarmskada i samband med op. 
 
 ### Diagnoser
@@ -59,7 +59,7 @@
   * Vilka diagnoser överväger du
     * abe: x-grav, appendicit, blödande corpus luteum, ovarielltorsion
 * !!! **25 årig kvinna** TODO (addera behandlingarna t X)
-  *  inkommer till gynakuten med plötsliga svåra smärtor i nedre delen av buken, så pass att hon måste lägga sig. Vid inkomsten gör det betydligare mindre ont ur anamnesen har hon fast förhållande sen 5 år , använder säkra perioder som preventivmetod, sista regelbunden mens, senaste blödning 2 veckor sedan.Det låter mest som en cysta som gått sönder men du får vid undersökningen en känsla av att det kan vara ett X
+  *  inkommer till gynakuten med plötsliga svåra smärtor i nedre delen av buken, så pass att hon måste lägga sig. Vid inkomsten gör det betydligare mindre ont ur anamnesen har hon fast förhållande sen 5 år , använder säkra perioder som preventivmetod, sista regelbunden mens, senaste blödning 2 veckor sedan. Det låter mest som en cysta som gått sönder men du får vid undersökningen en känsla av att det kan vara ett X
   * 2 gyn fynd tala för X: blod vagina; ömhet bimanuell palp (adnexa smärta)
   * grav vecka brukar X ge symptom: efter v5
   * visar sig X, föklara blödning 2v sedan: olaga blödning, ej mens. 
@@ -120,6 +120,16 @@
       * Behandling med metrotrexaat 
       * Bestämning av s-hCG nu och om 48 timmar 
       * Inläggning och observation
+* **Michaela 32 år med 3 års primär infertilitet inkommer till akutmottagningen i grav vecka 9. De senaste dagarna har hon haft lätt molvärk i nedre delen av buken samt i korsryggen. Sedan ngn timmer mer accentuerad värk. Ingen vaginal blödning. BT 120/70. Puls 100. Hb 115. Du har svårt att palpera uterus men utför vaginal ultraljudsundersökning.****Vad gör du om du finner:
+  * A) Förtjockat endometrium, inget patologiskt åt sidorna?
+    * tar s-hCG, abdominellt UL, lägger in pat, följer S-hCG
+    * inläggning för observation, smärtlindring ta o följa S-hcg
+    * kval UL av spec av uterus och adnexa
+    * misstänkt X, ektosipskt grav, missfall=
+  * B) Jämn hinnsäck med levande foster i uterus**.
+    * U-sticka, utesluta cystitt
+    * inläggning för obs + smärtlindring
+    * uteslute appendicit divertikulit med kval UL
 
 
 
@@ -398,12 +408,20 @@ cerivicit
       * cystocele
       * nykturi
       * trängningsinkontines
-* Vilket av följande påståenden om inkontinens är korrekt.
+* **Vilket av följande påståenden om inkontinens är korrekt.**
   * Ansträngningsinkontinens behandlas i första hand med läkemedel 
   * rätt: Ansträngningsnikontines definieras som ofrivilligt urinläckage i samband med tex. Hosta , nysningar och fysisk aktivitet
   * Anstärngningsinkontnines finna bara hos kvinnor som fött barn vaginalt 
   * Ansträngnignsinkontines innebär ofta att man får täta trängningar
   * Överaktiv blåsa går att behandla med s.k. TVT operation 
+* !!! **Anna 54år**
+  * kommer till dig på bäckenbottenmottagningen pga inkontines. Hon har fött tre vaginalt. BMI 35. Hon har ffa besvär när hon springer, hoppar, nyser eller hostar. Hon är i övrigt frisk.  
+  * Vilket av följande påståenden är korrekt?
+      * Bäckenbottenövningar bör endast prövas i särskilt utvalda fall av ansträngningsnikontines
+      * Bäckenbottenövningar i kombination med bio-feedback är förstahandsbehandling vid all typ av inkontinens 
+      * Farmakologisk behandling leder till goda resultat hos de flesta vid ansträngningsinkontinens
+      * Så kallad TVT operation leder till förbätttring hos ett fåtal kvinnor o bör endas användas i fall med uttalad inkontins
+      * rätt: Viktnedgång kan lindra symtom för överviktiga vid all typ av inkontines
 
 
 
@@ -760,6 +778,21 @@ cerivicit
     * kopparspiral
     * p-plåster
     * pring
+* Päivi 47 år
+  *  162 cm lång väger 90kg. Använder kopparspiral pga att hon haft en bröstcancer tidigare. Hon står fortfarande på tamoxifen. Hon har fått reda på att hon har ett lågt blodvärde och man tror att det kan bero på rikliga menstruationer. Hon kommer nu till dig somgynekolog
+  * Nämn minst 4 frågor som tillsammans kan svara på om Pävi har rikliga menstruationer? (2p)
+    * Byter ofta tampong / binda
+    * genomblödning av sanitetsskyd
+    * nattligt byte / ferkventa bytningar
+    * menstruationslängd
+    * hur ofta blöder du
+  * Diff vid RMB med mkt mellanblödningr
+    * endometriecancer
+  * utöver vaginalt UL vilken utredning
+    * endometiebiopsi (Tar man DT etc?)
+  * Riskfaktorer för denna diagnos, minst 2
+    * obesitas
+    * tamoxifen
 
 
 
@@ -827,7 +860,14 @@ cerivicit
       * Vulvacancer har ofta en ulcererande lymfkörtel som första tecken
       * Vulva cancer är vanligare bland kvinnor yngre än 40 år jmf med äldre
       * rätt: Äggstockscancer diagnostiseras oftast i avancerade stadier ( iii-IV). 
-      
+  
+* Ulla 71år, slutade menstruera längesen. Nu blödningar i samband med samlag sedan 6 månader
+  * Diffar
+    * Endometiecancer
+    * cervixancer
+    * polyp
+    * slemhinna
+    * myom: 
 
 
 
@@ -1051,6 +1091,17 @@ cerivicit
     * Diagnosen är allavarlig men med upptäckt tidigt förbättrar prognos oerhört. 
   * **Förslag förbättra det prediktiva värdet t** 
     * Kombinera cellprovstagning som har låg sensitivitet Med HPV-testningen som har närmare 100% sensivitet men sämre specifitet.
+* Annika 36år 
+  * mkt glad för 3 v sedan positivt grav test efter mångårig inferilitet. Kommer t gynmottanign eftersom hon fått resultat från screeningen att hon kommer att kallas för exra undersökning pga cellförändirngar och högrisk HPV. Vad är syftet med denna undersökning?
+    * KOlposkopi
+    * lokalisera lesion + biopsera den
+    * infärgning ättiksyra, sedan tillsättning jod
+    * lesionen blir acetovit av ättiksyra  o sen pensling jod för att se vilka celler som inte tar emot jod
+    * av dessa biopserar man, då jod negativa
+    * man får en representativ biopsi
+    * kartläggning av cellförändringarna
+  * undar om förändringarna ökar missfallsrisken
+    * nej, risken är inte ökad
 
 
 
@@ -1310,6 +1361,21 @@ cerivicit
     * Cervixcancer
     * sköra slemhinnor slida och urinledare
     * polyper! TODO
+* Päivi 47 år
+  *  162 cm lång väger 90kg. Använder kopparspiral pga att hon haft en bröstcancer tidigare. Hon står fortfarande på tamoxifen. Hon har fått reda på att hon har ett lågt blodvärde och man tror att det kan bero på rikliga menstruationer. Hon kommer nu till dig somgynekolog
+  * Nämn minst 4 frågor som tillsammans kan svara på om Pävi har rikliga menstruationer? (2p)
+    * Byter ofta tampong / binda
+    * genomblödning av sanitetsskyd
+    * nattligt byte / ferkventa bytningar
+    * menstruationslängd
+    * hur ofta blöder du
+  * Diff vid RMB med mkt mellanblödningr
+    * endometriecancer
+  * utöver vaginalt UL vilken utredning
+    * endometiebiopsi (Tar man DT etc?)
+  * Riskfaktorer för denna diagnos, minst 2
+    * obesitas
+    * tamoxifen
 
 
 
@@ -1767,6 +1833,23 @@ cerivicit
   * Vilka olika beh alternativ finns vid symptomgivande myom ange 2 farmakologisk + 2 icke farmakologiska
     * Hormonspiral, GnRH analog
     * hysterektomi, UL-ledd embolisering av arteria uterina, enukleation
+* **Petra är en 36-årig , 
+  * **0-gravida som söker för rikliga mensutrationer som ökat på senaste år. Status vid den senaste gynekologiska undersökningen för tre år sedan var normalt. Hon har nu Hb 95g/l. Uterus palperas förstorad myomatös med missätnkt myom i fundus. Fritt åt sidorna.****Vaginaltultrlajud visar ett myom i Fundus samt ett på 4cm som buktar in kaviteten. Hon undrar hur vanligt det är med myom och om myom av denna typ och storlek kan förklara de rikliga blödningarna.Vad svarar du?**
+    * VAnlig myom
+    * mellan 35-49åå 60% har myom
+    * kan förklada dina blödningar
+    * antingen mekanisk orsak eller loakla fakttorer som påverkar kärlbildning + koagulation, samt interaktion med endometriesleminnan (att den gets upphörd)
+  * risk för att myom fortsätter växa, vad stimmar detta?
+    * bl.a. östrogen + progesteron (invecklad mekanism som inte är fullt klarlagd )
+  * Risk negativ effekt på graviditet, kan leda 
+    * försvårad implantation, felplacentation, födsel, kejsarsnitt etc
+    * tillväxt av myomet under graviditeten
+  * vill ha hjälp minska menstruationer, utan förlora möjligt att bli gravid i framtiden
+    * abe: hormonspiral, p-stav, fertilitetsbevarande kirurgi
+    * ali: NSAID, ciklokapron, hormonspiral... gestagen cykliskt tabletter etc. 
+  * normal blödningsmängd mens:
+    * vanligast 40mL, mellan 20-80mL. över 80 = RMB
+  * 
 
 
 
@@ -2119,6 +2202,19 @@ cerivicit
       * medianåleder för att insjukna i cervixcancer är 18-25 år 
       * rätt: medinålder för att insjuukna i cervixcancer är 55-60.
       * konisering ökar risken för placenta previa 
+* **Vilken cysta är vad** (TODO, bekräfta att det är rätt cystor)
+  * **Endometriom**: 26-årig kvinna med kopparspiral, dysmenorre , vid vaginalt ultraljud ses en 4 cm septerad cysta på höger ovarie 
+  * **Corpus luteum**: 48-årig kvinna söker för plötslig buksmärta. Regelbunden mens. Senaste mens för 3v sedan. Vaginalt ultraljud visar 6cm ekofattig cysta på vänster ovarie
+  * **Malignitet**: 55-årig kvinna som söker för framfall som snabbt förvärrats.Vaginalt ultraljud visar en 8cm flerrummig cysta med exkrescenser
+  * **Follikelcysta**: 32 årig kvinna söker för plötslig insättnde buksmärta som nu inte går över. Haft dessa smärtor lite av och till under en måands tid. Vid vaignalt ultraljud ses en 5cm stor ekofattig cysta.
+* **Olga 42-årig** 
+  * 2-grav 1-para med regelbundna menstruationer använder spiral som preventivmedel. Söker akut pga att hon sedan ett halvt dygn haft intermittenta kraftiga smärtor och trängningar i nedre delen av buken. Gyn undersökning: mkt smärtsam,du palperar en drygt apelsinstor rund fast resistens lateralt om uterus. Ultraljud visar en cystisk resistens ekogenicitet varav några ekotäta områden, varav en lite extremt ekotät förändring. Vilken typ av ovarialtumör misstänker du med anledning av ultraljuds fyndet och symtomen?
+  * **VIlken är den sannolika orsane t smräta**
+    * Ovarialtumör: dermoid, teratom
+    * Smärtan: ovarialtorsion
+  * **Vilket organ avlägsnar vid operation**
+    * Dermoiden bara
+    * är den stor tar man bort ovarien också, för att ovariet kan vara skadat. 
 
 
 
@@ -2537,6 +2633,18 @@ cerivicit
   * rätt: progesteron relaxerar glatt muskulatur
   * östrogen bildas framför allt i hypofysen 
   * östrogenhalten i blodet är som högst under lutealfasen 
+* Vilket av följande påståenden är korrekta om menscykeln?
+  * Corpus luteum bildar framför allt östrogen
+  * FSH styr produktionen av progesteron från äggstockarna 
+  * I lutealfasen dominerar östrogen 
+  * LH påverkan ger follikeltillväxt och ökad östrogenproduktion
+  * rätt: LH Toppen kommer 24-36 timmar innan ägglossning
+* !!! Vilket påstående nedan är korrekt? 
+  * ?? Östrogenhaten i blodet är som högst under lutealfas: det är nuder follikelfasen
+  * Hypofysen bildar östrogen 
+  * Primordialfollklarna bildar LH 
+  * rätt: Glatt muskulatur relaxerar av progesteron 
+  * Leydigcellerna bildar FSH 
 
 
 
@@ -2993,6 +3101,20 @@ cerivicit
       * prematur ovariell insufficiens ( Ska va högt FSH) 
       * prolaktinom ( måste läsa på)
       * turners syndrom
+* **Farideh är 24år**
+  * gammal och kommer till dig på husläkarmottagningen. Hon undrar om man kan få landstingsbidrag för epilering. Hon har rejält med hårväxt runt bröstvårtorna och mellan brösten. Det blir bara värre och värre och hon har blivit deprimerad och tycker att hon har gått upp i vikt.
+  * Du misstänker PCOS ( polycystiskt ovariesyndrom)
+  * förklara för Farideh vad polycystiskt ovariesyndrom är för något och mekanismen bakom att hon kan få dessa symtom:
+    * Hormonell obalans drabbar kvinnor i fertil ålder. 
+    * vanligaste endokrina avvikelsen kvinnor fertil åldr
+    * symptom: hirsutism, acne, menstruationsrubbningar
+    * Insulinresistens är central vid PCOS: höga koncetrationer insulin, minskad leversyntes IGF1, SHBG, ökad fritt testosteron ökar, o fritt insulin ökar
+    * direkt effekt på hypothalamys och hypofysen leder t ökad utsöndring av LH, flera LH receptorer uttrycks i ovarier i tecac eller, ond cirkel startar
+    * dominerande orsaken hyperandrogenism är ovariell hypersekretion androgener
+    * .... lägg in läs på TODO
+  * Kriterier frör diagnosen: 2 av 3: hyperandrogenism, menstruationsrubbning (oligomenorre, amenorre), polycystiska ovarier / volym över 1...cm3
+
+
 
 
 
@@ -3459,7 +3581,7 @@ cerivicit
     * mäter nackuppklarning + PAPP-A + b-hCG
     * riskbedömning för kromosomavvikelse spec k21, 13, 18. 
     * v11-14
-* Mia och Ali 
+* **Mia och Ali** 
   * kommer till MVC för att diskutera fosterdiagnostik. de har tid för KUB och undrar om man i samband med denna undersökning kan se läppspalt hos fostret. De är oroliga då Alis bror föddes med detta. Beskriv För mia och ali vilka undersökningar som utgör KUB?
     * KUB: Ultraljud + blodprov. För att sätta en risksiffra vad gäller trisomier, speciellt trisomi 21. Högrisk patienter går vidare med NIPT test, varpå chorionvillibiopsi etc. 
     * Det man tittar på UL: nackuppklarning TODO (indrar om det är fler saker man tittar på)
@@ -3495,13 +3617,34 @@ cerivicit
 * Första trimestern
   * **KUB-testet: Screening Downs syndrom, sens 86%**: 
     * i v10-14
-    * omfattar: 
+    * omfattar trisomier: 21, 13, 18
+    * **omfattar**: 
       * UL av nackuppklarning hos foster
       * fritt beta-hCG + PAPP-A (pregnancy associated plasma protein A)
       * moderns ålder
-  * **Sannolikhet Downs**
-    * beta-hCG 2x högre i Downs
-    * PAPP-A 50% lägre i Dows
+    * **Sannolikhet Downs**
+      * beta-hCG 2x högre i Downs
+      * PAPP-A 50% lägre i Dows
+    * **KUB erbjuds kvinnor som kommer at vara 35åå eller (enl dokument fr SLL)** 
+    * Svaret: samband UL undersökningen, besked om **låg el hög** sannolikhet kromsomavvikelse. hög sannoliket = högre risk än 1:200
+      * Allar flesta får besked om låg sannolikhet men den gravidas ålder påverkar andelen som får låg el hög risk
+      * Låg sannolikhet: ingen vidarare provtagning.
+      * Hög sannolikhet: erbjuda NIPT (non-invasive prenatal test)
+    * Ibland **direkt moderkaksprov eller fostervattenprov**: detta förutsätter att risken är högre än 1:50, enl kliniker
+  * **NIPT**: non invasive prenatal test
+    * blodbanan hos gravida pat, liten mängd DNA, fostermassa
+    * blodprov vanligaste kromsomavvikelserna hos fostret
+    * **Låg risk**: att man inte påvisar kromsomavvikelser fr blodet = låg sannolikhet, kan vara säker med undersökningen.
+    * Hög risk: att man går vidare med ett närmare prov 
+  * **Moderkaksprov, chorionvillibiopsi**: 
+    * Provtagning kan tidigast göras fr graviditetsvecka 11
+    * Börjar med UL undersökning
+    * placenta, biopsi: efter UL bedömninnen, stick in i placenta, relevant vad gäller hur placentan är placerad
+    * **prov skickas kromosomanalys**
+    * **Placentaprov medför ökad risk för missfall**: motsvarande 500-1000 provtagningar
+  * **Fostervattenprov**:
+    * tidigast v14-15
+    * efter UL undersökning: antal foster, var provet tas, hur långt grav kommit
 * andra trimestern: v15-290, 
   * 83% identifikation Downss: screening 4 markörer (kvadrupeltest) maternellt blod + ålder; 5% falsk-positiva
   * 2 markörer är inhibin + Beta-hCG: båda dubbelt höga vid Downs. 
@@ -4052,6 +4195,19 @@ En del av källorna är fr Bernebrandt
       * Grundstegen i behandling av kvinnor med konstaterad GDM är personligt anpassade kostråd och livsstilsråd samt utbildning i självtest, inkl tolkning av kapillärt p glukos. Om 3 värden på en vecka ligger över målvärdet bör farmakologisk behandling inledas med metformin eller insulin.
   * **Motivera varför fortsatta kontroller av Kicki blodsocker efter graviditeten kan vara motiverat! 
       * Kvinnor med GDM har hög risk för att utveckla diabetes senare i livet varför de är motiverat att följa deras blodsocker.**
+* !! **Vilket av följande påståenden om graviditetesdiabetes är korrekt**: TODO, när debuterar GDM och hos vem är den vnaligast
+  * Debuterar ofta före v 25 i graviditet 
+  * Leder till risk för tillväxthämning
+  * rätt (abe=): Leder trots god glukoskontroll till ökad risk för intrauterin fosterdöd
+  * Måste alltid behandlas med insulin för att undvika komplikationer
+  * Är vanligast hos överviktiga kvinnor
+
+* **Nadia är gravid med sitt första barn. Vid inskrivningen på MVC var hon 162cmlång och vägde 82 kilo.H on e frisk. Under grav. Utvecklat GDM och ultraljud för fostertillväxt har visat 30%+.** 
+  * **Beskriv behandlingstrappan vid gestationsdiabetes och förklara för Nadia hur var och en av dessa åtgärder fungerar för att stabilisera hennes blodsocker.**
+    * Kost livsstilsråd: fysisk aktivitet minskar insulinrsesistens. kostråd gör att man håller blodsocker på en bättre nivå istället för toppar och dalar
+    * metformin: reduktion elverns produktion glukos, hämma glukoneogenesen och glykogenlosen. gm öka insulinkänslighet, förbättra perifert glukosupptag, glukosuttyttjande i muskulaturen
+    * metformin + insulin vb
+    * insulin: stabiliserar gm att man exemplivs har ett långverkande insulin snabbt ett snabbverkande insulin för måltider. Är till för att exogent manipulera insulinnivåerna för att passa patientens inkapabiltiet att producera tillräckliga nivåer, mtp ökade insulinbehovet och insulinresistensen etc. 
 
 
 
@@ -4627,6 +4783,28 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 -
 
+
+
+### Postpartum 
+
+***Presentation***
+
+* **!!! TODO:** Johanna 32 år har fött sitt andra barn med PN för två dagar sedan. Det var en lång fölrossning där vattnet gick tidigt i förloppet. Hon inkommer nu till gynakuten då hon plötsligt fått hög feber i hemmet, 39,5 grader. Känner sig sjuk, har huvudvärk men har ingen buksmärta och avslaget är normalt. BLT 90/60. Puls 120/minut.
+  * Nämn den viktigaste diffen att tänka på
+    * !!! ENDOMETRIT
+    * sepsis med oklar fokus
+    * postpartum infek inklderar bla endometri där man ska ha vaginal blödning eller rikliga flytningar, framkommer inte i anamnesen.
+    * vissa famm smärta över uterus framkomer nite här
+    * framkommer inte heller här bröststatus, kan vara mastit, 
+    * ken ej utesltua endometrit i detta fallet dock, viktigt med GAS täckning
+    * de tre viktigaste åtgärderna här är att rundodla, insättning av antibiotika, ge vätka, följa patientens parametrar, ävven ta blodprover, LPK, CRP
+    * viktigaste bakterie ab är GAS i detta fallet.
+    * kvarstannar på avdelning och efter 3d på vårdavdelningen när du ska skriva ut Johanna klagar hon över smärta i ett av brösten. 
+  * Hon kvarstannar på avdelningen och efter 3 dagar på vårdavdelningen när du ska skriva ut Johanna klagar hon över smärta i ett av brösten. När du undersöker brösten palperar du en diffus resistens under det rodnade området lateralt höger bröst. Du palperar även en fast resistens mer centralt i bröstet, ej fritt förskjutbar mot underlaget.
+    * Vilken diagnos måste du utesluta? En diagnos som måste utesluta bröstcancer
+
+
+
 ### Reumatoid artrit
 
 
@@ -4670,6 +4848,22 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * vad vill du veta mer: tidg frisk? Rökning?? Gjort KUB, NIPT (kan bero på fel hos barnet). ? ätstörningar? illamående? Tid sj? Läkemedel? Rökning/alkohol osv? Känt fosterrörelser? Infektionstecken?? Övriga symtom ? Blödning/flytningar?? Har hon gått på kontroller?? Hereditet för preeklampsi, blödningssjukdomar osv? Kan/har hon ätit ordentligt?? 
   * undersökningar ordinerar du: Tillväxt UL med blodflöde, ? BT, ? U-sticka ? Ultraljud inkl flöden och storleksbedömning? SF mått? Hb? Glukos? BT? Urinsticka? Vikt? CTG? 
   * hur ofta  kontrollera tillväxt + flöde misstänkt tillväxtavvikelse: viktskattning varannan vecka, flöde varje vecka eller oftare (båda beror på också hur avvikande fostret är)
+* Alina är 38 år och väntar sitt första barn. Tidigare väsentligen frisk. I första trimestern har hon gjort en KUB undersökning som visar en låg risk och hennes rutinultraljud i vecka 19 var normalt. Hon har mått väs. Väl förutom tilltagande symfyseolys. Vid besök på sin MVC i vecka 33+5 har inte SF-måttet tillvuxit. Hon känner normala fosterrörelser har inga tilltagande sammandragningar och har inte haft någon blödning. Du remitterar henne för ett tillväxtultraljud. Hon kommer till dig för att få svaret som visar en skattad fostervikt på-26%, normalt fostervatten och ett normalt blodflöde o navelsträngsartären.Vilken diagnos är mest sannolik.
+  * intrauterin tillväxthämning (inte SGA för att det verkar inte som att ungen faller under måttet)
+  * Ytterligare undersökningar, isf vilka
+    * BT, CTG, u-sticka
+  * Uppföljning, isf hur
+    * varannan vecka viktskattning
+    * SDP (fostervattenmätning
+    * blodflöde a umbilicalis, v34 MCA osså
+    * CTG analys korttidsvariabilitet, urinsticka, BT
+    * överväg förlossning senast v41
+  * om barnet -28- -33%
+    * BT, SDP, flöden umbilicalis, media, BT, u-sticka minst 1g/vecka
+    * CTG med analys korttidsvariabilitet 2-3ggr/vecak
+    * viktsattning varannan vecka
+    * övreväg förlossning v39+6
+
 
 ***Etiologi***
 
@@ -4766,9 +4960,46 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Tvillingar
+
+***Presentation***
+
+* **I vecka 30 säker Cecilia** 
+  * förlossningen pga allmänt sämre mående. Hon känner sig orkeslös , illamående o lätt huvudvärk. Status: Väs gott. Temp 37,4. BT 150/100. Buk mjuk oöm. CTG normalt.
+  * Ultraljud visar normalt med fostervatten och att tvilling 1 ligger i tvärläge och tvilling 2 i sätesändläge.
+  * Ta prover o i sådana fall, vilka prover
+    * U-stcka om proteinuri, mtp BT, symptom preeklampsi
+    * lilla tox: Hb, TPK, ASAT, ALAT, Krea, urat
+    * CRP
+  * motivera vf
+    * CRP infektionstecken. U-sticka bra för att både kolla UVI men främst görs detta för proteinuri
+    * lilla tox paket tar jag också för att kolla om d finns ngn form av organpåverkan
+  * Under tiden du väntar på provsvar försämras Cecilia hastigt, hennes huvudvärk tilltar. Blodtrycket stiger till 170/116. Hon läggs in för observation och behandling av blodtrycksförhöjningen. Trots blodtrycksmedicinering lyckas man inte sänka hennes blodtryck och man funderar på att förlösa Cecilia.
+  * Inför förlossningen behöver du optimera situationen för Cecilia och barnen.
+    * För barnen: Steroider + magnesiumsulfat
+    * Mamman: EDA + magnesiumsulfat infusion för att förhindra elampsi och höja kramptröskeln.
+    * // spontant värkarbete + huvudbjudning kan vaginal förlossning ske oavsett gravidietetsvecka under nogrann övervakning av moder och foster. 
+    * // Induktion och vaginal förlossning kan testas efter grav vecka 32
+    * // kejsarsnitt ist för induktion rekar före g v32
+    * // Bättre BT: reduktion preload och afterload, föräbttrat uteroplacentärt flöde, örbättrat navelstängsblodgaser
+    * // Samråd anestesi EDA: reduktion preload och afterload, föräbttrat flöde, navelsträngsblodgaser etc, kan användas vid kejsarsnitt osså
+    * för mamman
 
 
-### TTS
+
+***Indelningar***
+
+* DC DA: dichorion, diamniotisk
+* MC DA: monochorion, diamniotisk
+* MC MA: monochorion, monoamniotisk
+
+
+
+<img src="./imgs/gyn_sam_060421_zSxid3EQdw.png" alt="zSxid3EQdw" style="zoom:50%;" />
+
+
+
+#### TTS: tvillingtransfusionssyndrom
 
 ***Allmänt***
 
@@ -5818,8 +6049,17 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * vid genital sekundär herpresinfektion under andra trimestern under graviditeten finns en hög sannolikhet för smitta mellan mor o barn 
   * Vid upprepade genital herpesinfektioner under graviditeten bör man förlösa med kejsarsnitt oavsett om det föreligger en aktuell infektion i samband med förlossning eller inte 
   * rätt: Vid upprepade genitala herpesinfektioner under graviditet bör man behandla profylaktiskt inför förlossningen
+  
+* En 18-årig kvinna 
 
+  * söker pga fem dagars anamnes på miktionsbesvär och blåsor i uderlivet som nu övergått i smärtsamma smetiga sår i vulva och perineum. Hon har även subfebrilitet, huvudvärk, allmän sjukdomskänsa och smärtor i ljumskarna. Vilken är den mest troliga diagnosen?
+      * Disseminerad gonorre
+      * rätt: Primär genital herpes
+      * Sekundär genital herpes
+      * Sekundär syfilis
+      * Ulcus molle
 
+  
 
 ***Etiologi och patofysiologi***
 
@@ -6062,6 +6302,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * Fatima 
   * har fått ett brev att hon bör testa sig för klamydia. Hon har inga besvär men DNA-testen bekräftar att hon är smittad. Hon har nu en fast relation med Konrad.Vad är korrekt i denna situation? (1p)
+* Fatima har fått ett brev att hon bör testa sig för klamidya. Hon har inga besvär men DNA testen bekräftar att hon är smittad. Hon har nu en fast relation med Konrad.
+    * Vad är korrekt i denna situation?
+        * Fatima måste komma till dig och ta sin medicin
+        * rätt: Fatima måste medverka till partnerspårning genom att uppge sina sexuella kontakter 
+        * Kontroll att Fatima är smittfri är obligatoriskt
+        * Om fatmia är besvärsfri kan hon avstå behandling
+        * Fatima måste själv kontakta sina tidigare sexuella kontakter
+    
 
 
 
@@ -6486,10 +6734,48 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 <img src="./lectures/gyn_lec/imgs/gyn_lec_FSWI4ztXzN.png" alt="FSWI4ztXzN" style="zoom:50%;" />
 
+
+
+### Hysterektomi
+
+***Presentation***
+
+* Denna hysterektktomi 
+  * utfördes abdominellt med öppen kirurgi, nämn 2 andra sätt
+    * laparoskopsik: mindre infektionsrisk jmfr laparotomi, mindre ärr, kortare vårdtid, minskad infektionsrisk
+    * vaginal: ingen narkoms, endast ryggbedöbnin, kortare vårdtid, färre komplikationer
+  * 2 koomplikationer hysterektomi kort sikt
+    * Kort sikt: infektion, trombos
+    * lång sikt: prolaps, urininkontinens, ärrbråck ,.öppen kirurgi
+
+### Laparoskopi
+
+***Presentation***
+
+* !! Alice 48år
+  *  opererades med en vaginal hysterektomi pga myom för 10 dagar sedan. Hon har inte mått helt bra efter operationen. Hon söker nu akut p.g.a tilltagande smärta i nedre delen av buken, feber. 38,3 grader och illamående. 
+  * Vilken diagnos misstänker du i första hand?
+      * Abscess i lilla bäckenet
+      * Ruptur av postoperativt område
+      * rätt: Uretärskada (enl abe)
+      * Hematom
+      * Ileus 
+* Maud är 34år 
+  * gammal och du känner henne sedan länge då du är hennes allmänläkare sedan många år.  Bortsett från atopiska eksem är hon frisk. Nu har man opererat bort en ovarialcysta med laparaoskopisk enukleation. Hon var lite orolig för allvarlig komplikation i samband med ingreppet. Fyra dagar efte roperationen söker Maud för feber och allmän sjukdomskänsla. Vad är viktigast att utesluta?
+      * Urinvägsinfektion
+      * Infektion i porthål 
+      * Intraabodminell bödning 
+      * Blodpropp
+      * rätt: Tarmskada 
+
+
+
 ### Lymf mets
 
 * lymfkörtelmetastaser
 * **Prognostisk faktor:** Enskilt viktigate prognostiska faktorn efter kirurgi (cervix?)
+
+
 
 ### Nervsparande kirurgi - cervix
 
@@ -7014,6 +7300,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * rätt: Endometrios är en vanlig orsak till kvinnlig infertilitet 
   * kvinnor med endometrios har högre risk för att utveckla ovariellt hyperstimuleringssyndrom än kvinnor med PCOS 
   * Kvinnor med PCOS har ingen ökad risk för hyperstimuleringssyndrom 
+* Olga är 32år
+  *  och remitteras från en privat gynekolog till fertilitetsenheten. Kommer tillsammas med sin man. Från remisen framgår 0 gravida lider av kornisk smärta nedre delen. Samma namnes som innnan
+  * Sen: En annan orsak till kvinnlig infertilitet är postinfektiösa orsaker. Beskriv hur infektioner kan leda till infertilitet.Kan skada på tuborna med ärrvävnad och blockering av äggledarna vilket i sin tur leder till infertilitet. 
 
 
 
@@ -7944,6 +8233,124 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * svar: Bishops score. Palpation av cervix. Barnmorskekontroll avseende CTG, temp, urinsticka och ev. temp. 
   * Vad avgör vilken metod som är lämpligt?
       * svar: mognadsstatus enligt bishops score.
+* **Markus och Kim** 
+  * är på förlossningen.Kim har 5värkar/10 min och är öppen fem cm. CTG visar god variabiltet med upprepade sena uniforma deccelerationer. Vilket av följande påståenden är korrekt? 
+      * rätt: Ett högt laktat vid avvikande CTG bör verifieras med ytterligare ett laktat för att vara säker 
+      * Vid normalt CTG är barnet alltid friskt
+      * Vid normalt laktat är barnet alltid friskt
+      * Vid patologisk CTG måste man förlösa inom några timmar 
+      * Vid preterminalt CTG bör man ändå ta ett laktat för att vara säker
+* Nadia 
+  * är gravid med sitt första barn. Vid inskrivningen på MVC var hon 162cmlång och vägde 82 kilo.H on e frisk. Under grav. Utvecklat GDM och ultraljud för fostertillväxt har visat 30%+.
+  * Hon inducerades i v 38+4 pga sjunkande insulinbehov. Hon startar med värkar efter 7 doser misoprostol
+  * **Partogram visar värksvaghet sekundärt efter full retraktion, vertex ovan spina och ingen fortsatt nedträngning**
+  * **Föreslå en lämplig åtgärd för att Nadias förlossning ska fortskrida.**
+    * Stimma oxytocininfusion (redan vattenavgg, så behöver ej amniotomi dessförinnan)
+    * Lägesändringar hos mamma kan vara av värde för att påskynda förloppet
+    * använd oxytocin med omdöme för att undvika överstimulering
+  * **När det börjar bli dags att förlösa Nadia tänker du på eventuella risker i samband med barnets födelse hos Nadia. nämn 2 specifika risker som kan uppstå Nadia och 1 specifik risk som kan uppstå hos barnet.**
+    * **Risker för Nadia**: instrumentell förlossning, kejsarsnitt, högre grads vaginalbristning
+    * **Risker för barnet**: asfyxi, skulderdystoci
+  * !!! **Delfråga i : Barnet föds i och får APGAR 7-8-10 och väger 4532g, bedöms som LGA. Nadia är orolig och undrar om det finns någon risk för barnet de närmaste timmarna efter förlossningen. Vilken risk svarar du Nadia att det finns för barnet (1p) och vilken åtgärd skall vidtas rutinmässigt för att minska denna risk (1p)**
+    * !! Neonatal ***hypoglykemi***
+    * Blodsockerkontroll
+    * föer 2a måltiden eller SENAST vid 3tim ålder
+  * !!! **Du ombeds av ansvarig barnmorska att komma och inspektera Nadias bristning. Du finner att hon fått en total sfinkterruptur med slemhinneskada med en totalt brusten perinealkropp samt en djupp vaginalruptur kl 7 upp till sidofornix. DU op-anmäler Nadia inom 6h.**
+    * **Nämn 4 besvär en total sfinkterruptur kan ge på kort sikt ( inom 1-2 veckor efter förlossningen) och nämn 2 besvär som en total sfinkterruptur kan ge på lång sikt ( månader till år). Vilken av dessa 2 bristningstyper är mest troligt att ge besvär i framtiden?**
+    * Kort sikt: infektion, smärta, samt analinkontinens
+    * Lång sikt: fekal inkontinens, flatusinkontinens, dyspareuni, perinealsmärta
+  * **Nadia undrar om hon får föda vaginalt igen när hon fått en sfinkterruptur. Vad svarar du? Motivera ditt svar**
+    * Om kvinnan efter bristning, oavsett grad, har kvarstående besvär i form av analinkontinens >6 månader efter förlossningen, rekommenderas sectio.
+    * Bristande funktion trots intakt anatomi kan bero på nervskador som kan förvärras vid påföljande vaginal förlossning.
+    * Vad gäller levatorskador tycks påföljande förlossning inte försämra situationen i någon betydande grad (3).
+    * Om kvinnan är besvärsfri efter sfinkterskada kan vaginal förlossning rekommenderas men kvinnans egen åsikt och önskemål ska tas i beaktande vid val av förlossningssätt. 
+    * 90% får inga problem, 10% får åter en sfinkterruptur.
+  * **Nadia undrar hur hon kan undvika att få gestationsdiabets vid nästa graviditet. Nämn en förebyggande åtgärd som Nadia kan vidta.**
+    * gå ner i vikt
+* **Farideh är 28 år**
+  * **gammal och en helt frisk förstföderska som har haft en normal graviditet. Hon har inkommit till förlossningsavdelningen med egna värkar i vecka 39+3. Klockan 06 var cervix utplånad och öppen 5cm , då utfördesamniotomi i värkförstärkande syfte pga utebliven progress under 3 timmar. Oxytocinstimulering startades sedan. Klockan är nu 16 och cervix xhar varit retraherad i tre timmar med maximal oxytocinstimulering 180ml/h som pågår Trots epiduralbedövning är hon mkt trott och önskar avsluta förlossningen. Vid inre undersökning finner du cervix retraherad, en tjock fostersvulst och att Vertex står ett tvärfinger ovan spinalplanet.** 
+  * **Hur vill du avsluta förlossningen?**
+    * Kejsarsnitt
+  * **Motivera varför**
+    * Varit retraherad 3 timmar, men fortfarande stor fostersvulst över spinae.
+    * Vi har amniotomerat, maximal oxytocinstimulering
+    * men ingen progress, man skulle kunna vänta 1h till och ser vart d tar väen
+    * men i detta fall ändå kejsarsnitt lämpligast
+    * sugklocka kan ej för att vertex ovan spinae
+    * inge ge oxytoxin stim orsaka överstimulering med värkar
+    * lämpligast kejsarsnitt i detta fall
+* **Serena är en 40årig**
+  * förstföderska som är 150cm lång och väger 87kg. Serena har en graviditetesdiabetes och står på metformin. Tillväxtultraljud i förrgår visade en skattad fostervikt på +31%. Hon är nu i vecka 39+5, och har en planerad igångsättning i morgon. Hon ringer till förlossningen och berättar att hennes förlossning startat för ca 3-4 timmar sedan, och att hon börjar få det mer och mer jobbigt. Värkarna har intensiferats och kommer 3-4ggr/10 min. Serena inkommer med sin Man holger. Serena har riskfaktorer inför sin förlossning, identifiera minst tre av dessa. 
+      * Förstföderska 
+      * BMI 
+      * Ålder 
+      * Stort barn ( LGA ) 
+      * Obesitas samt 150cm lång. 
+  * börjar få mer ont, nämn minst 3 former av smärtlindring under förlossnignen som kan erbjudas
+      * EDA
+      * pudendusblockad
+      * lustgas
+      * TENS
+      * Värmebad
+  * Serenas förlossning förlöper med snabbb progress och är öppen 8cm nu. CTG kurvan patologis. DU orolig för fostret mår dåligt. Vad bör du göra nu? Om det visar sig att fostret inte mår bra, vilket är det korrekta sättet att avsluta denna förlossning?
+      * Skalpbrodprov (x2 om patologis) för laktat och pH
+      * om CTG fortsatt patologisk + pato laktat: motiverat med kejsarsntit om vertex ovan spinae och cervix är inte helt retraherad.
+  * **Klockan är nu 20.00. Nu tillstöter oregelbundet värkmönster med dålig kraft i värkarna. Det är ingen förlossningsprogress på två timmar. Vertex står strax nedom spinalplanet. CTG kurvan är nu normaliserad. Partogram enl nedan.** **Vilen diagnos ställer du?**
+      * Värksvaghet
+  * Nämn minst 2 medicinska åtgärder för att få förlossningen att gå framåt
+      * amniotomi + oxytocindropp, 
+      * Ändra kroppsställning
+* **Riskfaktorer skulderdystoci**
+  * maternell diabetes
+  * stor vuktuppgång uneder grav
+  * obes föderska
+  * värskvaghet i öppning och utdrivnignsskede
+  * makrosomt barn
+  * tidigare skulddystoci
+  * medelhöga instrumentella extraktioner
+  * pH brukar sjunka; svår asfyxi på 4min
+  * **Diagnos:** 
+    * utebvliven värk
+    * Turdle sign
+    * Huvudetes fjärde rotation uteblir
+  * **Hnadläggning**
+    * manuella åtgärder, sänk huvudända så rygg platt mot underlaget
+    * höft flekterade, pressa med knuten hand ovan symfysen först kontinuerligt sen gungande vb
+    * asap autraumistk förlosa
+    * stoppa in hand o pilla fram axel fr hindret
+    * ställa sig på alla fyra
+    * sluta kkrysta
+    * stäng oxytocininfusion
+    * ingen funduspress
+    * dra ej i hivd eller sänka
+    * mamma slappna av
+    * tömma urinvlsa
+  * **Serena förlöses spontant och vaginalt kl 21.54. Du träffar Serena på efterkontrollen på MVC. Vilka råd kan du ge Serena för att minimera riskerna inför nästa graviditet / förlossning.**
+    * kostråd, livsstilsråd + fysisk aktivitet.
+* **Alina**
+  *  kontaktar själv förlossningen i vecka 35+1 då hon tycker att barnet rör sig mindre. Hon har inga andra nytillkomna symtom. Vid en bedside undersökning med ultraljud ser man ett barn som ligger stilla med ffd huvud. Man konstaterar även en oligohydraminos. CTG patologiskt. Vad är mest lämplig åtgärd?
+    * akut kejsarsnitt
+    * patologiskt CTG + oligohydramnios + minskade fosterrörelser -> tyder på hotande asfyxi som föranleder akut handläggning med att vi måste snabbt få ut ungen, därav akut kejsarsnitt  ? 
+* **I vecka 30 säker Cecilia** 
+  * förlossningen pga allmänt sämre mående. Hon känner sig orkeslös , illamående o lätt huvudvärk. Status: Väs gott. Temp 37,4. BT 150/100. Buk mjuk oöm. CTG normalt.
+  * Ultraljud visar normalt med fostervatten och att tvilling 1 ligger i tvärläge och tvilling 2 i sätesändläge.
+  * **Ta prover o i sådana fall, vilka prover**
+    * U-stcka om proteinuri, mtp BT, symptom preeklampsi
+    * lilla tox: Hb, TPK, ASAT, ALAT, Krea, urat
+    * CRP
+  * motivera vf
+    * CRP infektionstecken. U-sticka bra för att både kolla UVI men främst görs detta för proteinuri
+    * lilla tox paket tar jag också för att kolla om d finns ngn form av organpåverkan
+  * **Under tiden du väntar på provsvar försämras Cecilia hastigt, hennes huvudvärk tilltar. Blodtrycket stiger till 170/116. Hon läggs in för observation och behandling av blodtrycksförhöjningen. Trots blodtrycksmedicinering lyckas man inte sänka hennes blodtryck och man funderar på att förlösa Cecilia.**
+  * **Inför förlossningen behöver du optimera situationen för Cecilia och barnen.**
+    * För barnen: Steroider + magnesiumsulfat
+    * Mamman: EDA + magnesiumsulfat infusion för att förhindra elampsi och höja kramptröskeln.
+    * // spontant värkarbete + huvudbjudning kan vaginal förlossning ske oavsett gravidietetsvecka under nogrann övervakning av moder och foster. 
+    * // Induktion och vaginal förlossning kan testas efter grav vecka 32
+    * // kejsarsnitt ist för induktion rekar före g v32
+    * // Bättre BT: reduktion preload och afterload, föräbttrat uteroplacentärt flöde, örbättrat navelstängsblodgaser
+    * // Samråd anestesi EDA: reduktion preload och afterload, föräbttrat flöde, navelsträngsblodgaser etc, kan användas vid kejsarsnitt osså
+    * för mamman
 
 
 
@@ -7953,9 +8360,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Utredning och Handläggning***
+***Handläggnign och behandling***
 
-* 
+* !!! ?? Preeklampsi och förlossning 
+  * Vid spontant värkarbete och huvudbjudning kan vaginal förlossning ske oavsett graviditetsvecka under noggrann övervakning av moder och foster. Induktion och vaginal förlossning kan prövas efter graviditetsvecka 32.
+  * Kejsarsnitt istället för induktion förordas före graviditetsvecka 32. I enstaka fall före graviditetsvecka 32 kan induktion övervägas vid gynnsamma förutsättningar (gynnsamt cervixstatus, enkelbörd, huvudbjudning, ingen tillväxthämning).
+  * Vid kronisk hypertoni och graviditetsinducerad hypertoni planera för förlossning ≥ v37+0 och senast v39+6 om stabilt tillstånd och normal fostertillväxt.
+  * Vid preeklampsi och graviditetslängd ≥ v37 förlös, då det inte finns några fördelar med expektans (1), (2). Om < v37+0 och stabilt tillstånd kan expektans övervägas.
+  * Vid svår preeklampsi eller svår hypertoni efter v34+0 finns det inte visat någon fördel med expektans hos kvinnor med svår preeklampsi och/eller svår hypertoni. Förlossning kan därför rekommenderas i denna grupp efter stabilisering av blodtrycket.
+  * Det rekommenderas att avsluta graviditeten vid svår preeklampsi, om den uppträder ≤ 23 graviditetsveckan.
+  * 
 
 
 
@@ -8063,26 +8477,18 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   - syra-basstatus i navelsträng, fr artär som ven
   - om man behöver ta barn t barnbord direkt ska man klampa med 3 peanger, så att prov kan tas senare
 
-
-
-
-
 ### Förlossningskanal
 
 ***Utredning och handläggning***
 
 - Mätningar palpatoriskt
-
 - **Utplånad cervix**: att förlossningskanalen som utgörs av corpus uteri, isthmus uteri och cervix uteri har bildat en kanal. Vid en utplådan cervix kan man inte palpera en cervix at all, så det finns ingen cervix längd att tala om
-
 - **Vertex**: detta är den yttersta delen som pekar ut av skallen på barnet
-
-- - **svulst räknas ej**: av traumat att ungens huvud slår måt bäckenet o man försöker pusha ut den, så kan den utveckla en svulst mellan huden och skallbenet. Denna ska ej räknas som vertex, utan man måste palpera fram skallen för att determinera vertex på ungen
+  - **svulst räknas ej**: av traumat att ungens huvud slår måt bäckenet o man försöker pusha ut den, så kan den utveckla en svulst mellan huden och skallbenet. Denna ska ej räknas som vertex, utan man måste palpera fram skallen för att determinera vertex på ungen
   - **distans vertex och spina**: man mäter distansen mellan vertex och spina ischiadica. detta gör man med fingertip på huvet och fingerryggen på spina ischiadica. 
 
 - **Cervixlängd**: längden på cervix är något man följer på partogrammet också. för att den måste utplånas, varpå det är relevant att följa den
-
-- - normallängd: 3-4cm palperas
+  - normallängd: 3-4cm palperas
   - utplånad längd: 0cm cervix palperas
 
 
@@ -8145,12 +8551,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
   * **Bjudning**: 
 
-  * - framstupa ansiktsbjudning (i.e. att ryggen är till luften om mamman ligger på rygg (att man slår pannan på ngt)
-    - pannbjudning
+    * framstupa ansiktsbjudning (i.e. att ryggen är till luften om mamman ligger på rygg (att man slår pannan på ngt)
+    * pannbjudning
 
   * **Utebliven progress i öppningsfas**
 
-  * - Utebliven öppningsfas definieras i PM vi tog bild på, den i plastfickan
+    * Utebliven öppningsfas definieras i PM vi tog bild på, den i plastfickan
 
 
 
@@ -8162,7 +8568,17 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Induktionsåtgärder
+### Induktion: åtgärder
+
+
+
+***Fysiologiskt***
+
+* Koordination cervixmognad + värkar
+  * måste koordineras med myometriella kontraktioner cervixmognaden
+* Cervixmognad: hör 
+
+
 
 ***Olika åtgärder***
 
@@ -8176,8 +8592,46 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Indikationer***
 
 * **Bishop 0-2p:** PE2 intracervikalt
-* **Bishiop 3-5p:** PE2 vaginalt, alt ballongbeh
-* **Bishop 6-10p**: oxytocin amniotomi
+* **Bishiop 3-5p:** PE2 vaginalt /  ballongbeh
+* **Bishop 4-5p**: ballongbehandling
+* **Bishop 6-10p**: oxytocin / amniotomi
+
+
+
+***Handläggning och behandling***
+
+* **Kontraktet**
+  * **induktion / igångsättning då cervix mogen eller börjat mogna**; kan aktuellt före el efter beräknad förlossningsdag
+  * **Baserat tidg anamnes**: utifrån aktuellt cervixstatus bestäms induktionsmetod, då pat kmr t igångsättning
+  * **kan om tidig, i.e. cervix under 3-4cm öppen**, lägga EDA + bedövning aktiveras då önskar smärtlindring
+* **Inför induktion**
+  * informera paret om vilken induktionsmetod som ska tilllämpas
+  * informera tidsförlopp: mkt omogen cervix upp t 48-72h
+  * vid humnitär indikation: avvakta vid mkt omogen cervix
+* **Humanitär indikation**
+  * bad obstetric history
+  * bäckenbesvär, ländryggsbesvär
+  * förlossningsrädsla
+  * stort barn
+* **medicinska indikationer** (s487)
+  * Preeklampsi
+  * Tillväxthämning hos fostret
+  * Överburenhet
+  * Duplex
+  * Diabetes
+  * IUD
+  * maternell sjd
+
+
+
+| Cervixscore   | aka moddad Bishop enl Westin |               |                     |
+| ------------- | ---------------------------- | ------------- | ------------------- |
+| **Parameter** | **Poäng - 0**                | **Poäng - 1** | **Poäng - 2**       |
+| Station       | ovan eller vid bäckeningång  | ovan spinae   | vid el nedom spinae |
+| Diameter (cm) | <= 0.5                       | >0.5-<1.5     | >= 1.5              |
+| Utplåning (%) | 0                            | under 50      | >= 50               |
+| Konsistens    | Fast                         | Medium        | Mjuk                |
+| Riktning      | Bakåt                        | Mellanläge    | Framåt              |
 
 
 
@@ -8196,6 +8650,17 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Partogram
 
+
+
+***Presentation***
+
+* **När gick vattnet**
+  * <img src="./imgs/gyn_sam_060421_vHcjh55BOI.png" alt="vHcjh55BOI" style="zoom:50%;" />
+  * **Vad kallas detta:** Verkar som primär värksvaghet, att patienten initialt inte uppnår den minsta hastigheten på 1cm/h
+    * notera också att det är en sekundär värksvaghet iom att vid full retraktion sker ingen nedträngning a
+
+
+
 ***Indikation***
 
 * Följer: öppningsgrad och nedträngnings huvet
@@ -8208,7 +8673,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * **Alert line (svart):** när passerat denna, har förlossning tagit längre än genomsnittet för flesta kvinnor
   * göra ngt för att stimma förlossningen
-* **Action line**: passerar man denna måste man agera
+* **Action line**: 
+  * **2-4h förskjutning av alert line**
+  * passerar man denna måste man agera
+  * **Värksvaghet**: när förlossning stått still 3h och passerat action line på partogrammet = värksvaghet
 
 
 
@@ -8382,6 +8850,30 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   *  !! Vad erbjuer man i första hand? svar: Yttre vändning
   *  Vad finns det för andra alternativ? kejsarsnitt, förlossning i sätesbjudning 
   *  kan vara så att iom tidigare förlöst så kan man tänka sig förlösa i sätesbjudning annars hade nog alternativet varit kejsarsnitt.
+* Bjudningar
+  * Vilken bjudning är vanligast och motivera varför denna bjudning är mest fördelaktig: framstupa kronbjudning, minst huvudomgång lättare igm kanalen
+  * vilken bjudning kontraindicerat avsluta förlossning instrumentellt: vidöppen ansiktsbjudning
+* Namnge de olika bjudningarna
+  * Framstupa kronbjudning: 9.5cm, ej förlossningshinder, mest gynnsam
+  * vidöppen hjässbjudning: 11.5cm, ej förlossningshinder
+  * vidöppen pannbjudning: 13.5cm, förlossnignshinder
+    * men är oftast en övergångsform
+    * flektera eller "deflektera"
+    * slutresultat en hjässbjudning eller en ansiktsbjudning
+    * MEN om mer smärtor MELLAN värkar och inte sker ngn ändring, finns risk uterusruptru o indikation för setio.
+  * vidöppen ansiktsbjudning: gynnsam enl abe
+  * framstupa ansiktsbjudning: ABSOLUT förlossningshinder. magen mot sarum, o ansikte pekar ner ut fr vagina
+  * snedläge: ej förlossningshinder
+  * huvudbjudning: normal
+  * Sätersbjudning: kejsarsnitt förstföderska där omvänding inte  gick; omföderska kan man testa vaginal
+  * tvärläge: förlossningshinder om inte kan vända
+
+
+
+***Terminologi***
+
+* Vidöppen: ryggen mot mammas sakrum
+* Framstupa: magen mot mammas sakrum
 
 
 
@@ -8408,6 +8900,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Storlek foster
 
+
+
 ***Utredning och handläggning***
 
 * Screenar storleken på fostret innan födsel
@@ -8428,11 +8922,17 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Utebliven progress
+
+***Handläggning och behandling***
+
+| <img src="./imgs/gyn_sam_060421_b5M8SIbkr3.png" alt="b5M8SIbkr3" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_060421_T9o3h6JQIO.png" alt="T9o3h6JQIO" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
 
 
 
-
-### Värkar
+### Värk
 
 ***Värkstimulerande åtgärder***
 
@@ -8451,11 +8951,104 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Värsvaghet = dystoci
+### Värsvaghet: dystoci TODO
 
-***Definition***
+
+
+***Presentation***
+
+* Nadia 
+  * är gravid med sitt första barn. Vid inskrivningen på MVC var hon 162cmlång och vägde 82 kilo.H on e frisk. Under grav. Utvecklat GDM och ultraljud för fostertillväxt har visat 30%+.
+  * Hon inducerades i v 38+4 pga sjunkande insulinbehov. Hon startar med värkar efter 7 doser misoprostol
+  * <img src="./imgs/gyn_sam_060421_MNCV2RFGxd.png" alt="MNCV2RFGxd" style="zoom: 80%;" />
+  * **Bedöm partogrammet**
+    * **Primär värksvaghet:** 
+        * Öppnar sig långsamt initialt och öppnar inte sigsenare 
+        * (I detta fallet ser vi att det tar pat 4h fr 3.5cm - 5cm; 
+        * alltså uppnår hon inte initialt den förväntade minimala hastigheten pp 1cm/h, vilket enl boken s 492 = primär värksvaghet) 
+    * **[NOTERA:** 
+        * Golbarg Westerlund samt PM ang Utebliven Progress säger att så länge patienten fortsätter att öppna sig, även om det är <1cm/h, är ACCEPTABELT. 
+        * **UTEBLIVEN PROGRESS** = 
+            * Öppen 5-7cm: öppningsakt MINDRE än 1cm på 4h. 
+            * 7cm - fullt retraherad: öppningsakt mindre än 1cm på 2h. Vaginal undersökning efter 1h vid hela hinnor; amniotomi eller avvakta beroende på individen: förlopp, tidg progress, värkar, EAD 
+    * **Sekundär värksvaghet**
+        * Initialt adekvat öppninghastighet, som sedan avstannar i progress. 
+        * I detta fallet initialt långsam öppning (värksvaghet kan anses primär) men öppnar sig t full retraktion, varpå vi noterar utebliven nedträngnign. 
+        * Öppnar sig och är retraherad men nedträngande fasen är förlångsammad/avstannad. 
+        * Så de här är dystoci. 
+  * **Riskfaktorer dystoci för henne**
+    * Förstföderska
+    * Stort barn
+    * Riskgravidtet (diabetes)
+    * högt BMI
+    * Föregående fosterdel står högt trots fullvidgad cervix
+  * **Föreslå en lämplig åtgärd för att Nadias förlossning ska fortskrida.**
+    * Stimma oxytocininfusion (redan vattenavgg, så behöver ej amniotomi dessförinnan)
+    * Lägesändringar hos mamma kan vara av värde för att påskynda förloppet
+    * använd oxytocin med omdöme för att undvika överstimulering
+
+
+
+***Allmänna definitioner***
 
 * Ingen enighet om denna för värksvaghet, när åtgärd, vilken åtgärd och dos oxytocin-dropp
+* Ingen konsensus om hur lång de olika stadieran under förlossnignen bör ta.
+* **Förlängd latensfas** = uppgår över 20h förstöfderska, 12h omföderska
+* **aktiva fasen eller öppningsskedet** = 
+  * 2 av 3 kriterier; 
+    * cervix utplånad och öppen 3-4cm; 
+    * vattenavgång (brusta *fosterhinnor*); 
+    * kvinnan har regelbundna smärtsamma kontraktioner
+  * Varar omkring 6h förstföderska.
+* Utdrivningsskedet: när cervix fullvidgad
+  * inleds med **nedträningsfas**: vara 1-2h.
+  * därefter **utdrivningsfas**: 30min-1h
+* Tidigare ansetts: öppningshastighet under aktiv fas var 1cm/h. 
+* senare forskning: långsam öppning fram t 6cm, sen accelereras
+
+
+
+***Defintioner värksvaghet***
+
+* **Värkrubbningar under aktiva fasen, delas in i primär och sekundär värksvaghet**
+
+
+
+***Primär värksvaghet***
+
+* **Primär värksvaghet**: värkarbete startar mkt långsamt. Aldrig uppnår öppningshastighet 1cm/h
+* !!! **Vanligaste åtgärd**: kejsarsnitt, för att inte tillräckligt öppna för att kunna förlsa med sugklocka, vertex tenderar vara ovan spinae, etc. 
+* **Komplikationer**: postpartum blödningar (tillhörande de vanligaste orsakerna till att kvinnor dör i sin förlossning, atonisk uterus, blödning etc)
+
+
+
+<img src="./imgs/gyn_sam_060421_UlrMzQJH74.png" alt="UlrMzQJH74" style="zoom:50%;" />
+
+* I bilden ovan: att pat kommit in i förlossning. Öppnar sig väldigt långsamt + timmarna går; öppnar sig t 4h sen händer inget flera timmar, sedan 5 och 6 väldigt långsamt
+
+
+
+***Sekundär värksvaghet***
+
+* **Definition**: 
+  * **att hon öppnat sig adekvat.**: alltså fullt retraherad, så **öppningsfasen avklarad**
+  * !! **Tid utebliven progress 2-4h**
+  * Men att det efter d inte händer så mkt. 
+  * att förlossningen står still efter att patienten öppnat sig
+  * alltså patienten är fullt **retraherad**, men att nedträngningen inte fortsätter beyond that. 
+* **Åtgärd**: 
+  * primära Sugklocka förekommer ofta här, för att vertex ovan spinae och man är fullt retraherad. 
+  * Kejsarsnitt förekommer
+* **Komplikationer**:
+  * inte lika många blödningar här
+  * mer bäckenbottenskador
+  * urinretention: att man sitter och trycker på blåsan och ger kvinnan komplikationer på det sättet patogenes mässigt. 
+
+
+
+
+
+<img src="./imgs/gyn_sam_060421_MAZIJZub4o.png" alt="MAZIJZub4o" style="zoom:50%;" />
 
 
 
@@ -8466,6 +9059,15 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * stressad
 * förstföderska
 * avvikande bjudning
+
+
+
+***Handläggning och behandling***
+
+* **Partogrammet**:; identifiera att patienten är värksvag
+* **Åtgärder**: amniotomi + oxytoxinstimuleiring är de två mest beprövade metoder som man alltid vidtar om värkarbetet avtar
+  * konservativt: ändrig kroppsläge, smärtlindringsmetoder, psyche, tillförsel näring och energi
+* **Amniotomi**;: alltid innan oxytocinstimulering
 
 
 
@@ -8931,6 +9533,15 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Lisa och Sluggo** 
   * kommer till gynakuten då Lisa börjat blöda vaginalt i grav vecka 7+3 enligt sista menstruation. Graviditeten är hett efterlängtad. Vid undersökningen ser du ingen pågående färsk blödning. Uterus är drygt normalstor och ultraljudsundersökningen visar en intrauterin hinnsäck motsvarande ca 6 graviditetesveckor samt en liten ekogivande struktur centralt men ingen påvisbar hjärtaktivitet.
     * misstanke om uteblivet missfall med tanke på blödningarna. Då det är för tidigt för att bedöma med UL om det föreligger ett missfall (dels för att UL bedömningen sätts t v6, att membranen antagliegn är därför under 25mm, samt för att hjärtaktivitet kommer att mer definitivt etablera sig eller bli visibelt åp UL de kommande 2 veckorna) kan man välja att pat kommer på ÅB om 2 veckor. Man kan dela med sig misstankarna, smat att det kommer att behövas en second opinion bedömning av en specialist för att fastställa missfallet. 
+* Lena kmr grav 11 efter IVG. 
+  * Blöder rikligt. Lena har ont. Fostret vecka 7. Bekräftas av en specialist i obstretik också. Cervix öppen 1cm. Hb 128, BT chill puls bra. Pågående missfall
+    * Vanligaste orsaken till missfall: 
+        * svar: kromosomavvikelse.
+    * Nämn minst 2 behandlingsmöjligheter som står till buds för lenas rikliga blödning?
+        * svar: Medicinsk eller kirurgisk behandling.
+    * Vilken av dessa skulle du rekommendera i första hand?
+        * svar: Kirurgisk abort 
+  * Motivera ditt * svar: Indicerat med kirurgisk abort då pat har pågående riklig blödning.  (Detta enl Missfalls PM, och Abort PM, att vid riklig pågående blödning är det kirurgisk behandling som är indicerat. )
 
 
 
@@ -9795,6 +10406,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Preventivmedel
 
+***Presenttaion***
+
+* hormonspiral och p-stav, varför skyddar mot X-grav
+  * hormonspiral: endometriet tynt, cervixsekret hårt ogenomträngligt, hämmar spermiemobilitet,  verkar lokalt i livmodern, blöder mindre
+  * p-stav: medelpotent getagen, tunt endometrium, tätare cervixsekret, väldigt bra ovulationshämning; gm ovulationshämning komplett att man hindrar X-grav fullkomligt, för att det är ej möjligt. 
+
+
+
+
+
 ***Epidemiologi***
 
 * **Anslutning till abort:** att pat avstått preventivmedel för att oro eller tidig erfarenheter med biverkningar; 
@@ -10499,6 +11120,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Retraherad***
 
 * **Öppningsgrad**: helt öppen
+* Retraherad termen har att göra med öppningsgraden av cervix: INTE cervixhalsen, som ahr att göra med utplåningsgraden
+* 
+
+
+
+<img src="./imgs/gyn_sam_060421_o729waa40C.png" alt="o729waa40C" style="zoom:50%;" />
 
 
 

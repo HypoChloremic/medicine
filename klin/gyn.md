@@ -130,6 +130,24 @@
     * U-sticka, utesluta cystitt
     * inläggning för obs + smärtlindring
     * uteslute appendicit divertikulit med kval UL
+* !!! 24-åriga Tove 
+  * kommer till gynakuten pga kraftiga lågt sittande buksmärtor som startade för ett par timmar sedan. Hon är tiidgare gynfrisk förutom klamidyainfektion ett par år sedan. Använder kondom som preventivmedel. Vid ankomsten har Tove rejält ont i nedre delen av buken, är blek och andas häftigt. Tove har oregelbunden mens och kan inte svara på när hennes senaste mens var. Barnmorskan ringer til dig på förlossningen där du håller på och fikar och ber dig komma omgående.
+    * Vad ber du barnmorskan att göra medan du förflyttar dig till gynakuten? Ge fem förslag.
+        * Andningsfrekvens
+        * HF 
+        * Blodtryck 
+        * Temp 
+        * Infarter, 
+        * provtagning; Hb, LPK, CRP, elektrolyter, s-hcg uhc, glukos.
+    * Vid gynundersökningen har patienten så ont att det är svårt att ens få nudda magen. ULJ visar en normal uterus men rikligt med fri vätska i fossa douglasi.
+    * Nämn 2 rimliga och troliga differentialdiagnoser som du funderar över innan du har provsvaren?
+        * svar: Extrauteringraviditet och appendicit. 
+    * Hur handlägger du resp diagnos utifrån statusfynden
+        * Ektopisk grav - inläggning, Grav test, ultraljud abdomen, hb, Blodtryck. Smärtlindra.Finns tre olika behandlingsalternativ beroende på patientens kliniska status, labvärden och ultraljudfsynd. Antigen Expektans, eller medicinsk behandling med metrotrexat i.m. eller kirurgi. 
+        * Appendicit: Ringa kirurgkonsult , CRP , abdomen ultraljud (inflammation? Förtjockning av appendix). Dock sköts det av kirurgen. Så från gyn sidan viktigt här med kirurg konsult för komma o undersöka pat
+        * Endometriomcysta som spruckit: inläggning, observation svårt att diffa mot adnextorsion.I oklara fall eler om pat försämras bör lapraskopsi utföras akut. Smärtlindra. Smärtintensiteten brukar vara hög och såvida det inte komlpiceras av blödning brukar symtomen klinga av inom några timmar .
+        * Motivera din handläggning: En blandning av svaren ovan. 
+        * Frågan är om ovarialtorison också är en diff även fast vaginalt ul ej visade det… Och även en brusten corpus luteum är en diff ev.
 
 
 
@@ -860,14 +878,20 @@ cerivicit
       * Vulvacancer har ofta en ulcererande lymfkörtel som första tecken
       * Vulva cancer är vanligare bland kvinnor yngre än 40 år jmf med äldre
       * rätt: Äggstockscancer diagnostiseras oftast i avancerade stadier ( iii-IV). 
-  
-* Ulla 71år, slutade menstruera längesen. Nu blödningar i samband med samlag sedan 6 månader
+* **Ulla 71år, slutade menstruera längesen. Nu blödningar i samband med samlag sedan 6 månader**
   * Diffar
     * Endometiecancer
     * cervixancer
     * polyp
     * slemhinna
     * myom: 
+* **Anna 41 år** 
+  * Hon födde sitt fjärde barn för 7 månader sedan. Hon ammade fram till 6 månaders ålder. sedan tre veckor tillbaka känner hon en ömmande knöl i vänster bröst. Du kan palpera en resistens i bröstet som är ca 4cm stor och lätt ömmande. Hon har ingen feber. 
+      * Lipom
+      * Aterom
+      * Mjölkstockning
+      * Bröstcancer
+      * Bröstböld
 
 
 
@@ -1102,6 +1126,25 @@ cerivicit
     * kartläggning av cellförändringarna
   * undar om förändringarna ökar missfallsrisken
     * nej, risken är inte ökad
+* Cervix är ett organ som förbinder livmoder med slida. För att cervixcancer och preinvasiva förändringar ska utvecklas krävs att kvinnan är smittad med humant papillomvirus (HPV) 
+  * Vilka typer av epitel hittar man i/på cervix.Nämn 2 st. 
+  * Hur smittas man med HPV?
+  * Svar: Skivepitel och cylinderepitel.
+  * Skivepitel körtelepitel jani.
+  * HPV smittar genom hud och slemhinnekontakt. Smittar lätt vid sexuell kontakt.
+* ASCUS och hur förklarar du detta för Linda?
+  * ASCUS innebär cellförändringar av den lägsta graden. Jag berättar för Linda utan att skapa oro och ångest att det här är de lättare cellförändringarna man kan hitta. Många gånger går dessa cellförändringar i regress utan någon behandling. ( näst lägsta är LSIL)
+  * **3. Hur utreder du Linda?**svar: Kolposkopi
+* Linda Lnda undrar om hon ska behandlas. Förklara för Linda vilka typer av cellförändringar som bör behandlas:
+    * svaR: HSIL ska behandlas för alla kvinnor 25 år och uppåt. 
+    * HSIL med CIN3 ska behandlas för alla kvinnor oavsett ålder. 
+    * Alltså skulle jag förklarat för Linda att den höggradiga cellförändringen är det som ska behandlas. 
+* Vad heter behandlingen som erbjuds kvinnor i första hand om de nu behöver behandling?
+    * svar: konisering.
+* Beskriv kortfattat hur behandlingen går till?
+  * svar: Antigen lokalbedövning eller i vissa fall narkos. Genom vaginal operation så skär man bort cirka en del i livmodertappen med hjälp av en upphettad metalltråd s.k. slynga
+* Påverkar behandlingen fertilitet och barnafödande undrar Linda som har mycket frågor?
+    * Påverkar inte fertiliteten eller barnafödandet. Har dock visats att de som genomgått konisering har högre frekvens av prematur födsel.
 
 
 
@@ -2840,6 +2883,7 @@ cerivicit
   * om gestagentest neg, FSH 77mIU/mL: prematur ovariell svikt
   * om prover normala, gestagentest positivt, fler hormonprover: testosteron, SHBG för att bedöma PCOS
   * Kommentarer: iom ingen mens = hypogonadism. Frågan blir vilken typ av hypogonadism vad gäller gonadotropin (hög, normal, låg)
+  
 * **Ida är 19 år** 
   * och har inte haft mens på 16 månader. hon är 167 cm lång och väger 46 kilo. Hon har inte debuterat sexuellt. Du kan snart konstatera att det föreligger en ätstörning hos Ida, och efter utredning planerar du kontakt med dietist.
   * Tagit en del hormonprover, hur förväntarprovresultaten se ut: 
@@ -2847,6 +2891,7 @@ cerivicit
     * lågt östrogen, progesteron
     * ACTH ökar, CRH ökar, kortisol ökar
     * TSH, fT4
+  
 * **Vid amenorre** 
   * görs en utredning för att bestämma på vilken nivå störningen ligger. Förklara hur gonadotropinnivåerna förändras vid en störning på. ovariell nivå. 
   * Ge också ett exempel på ett tillstånd på ovariell nivå som kan medföra amenorre.
@@ -2854,6 +2899,7 @@ cerivicit
   * Hypofys/hypothalamus, tillstånd som medför amenorre:
     * ätstörningar, mkt fysisk aktivitet
     * hypothalamisk amenorre: minskad pulsatil GnRH frisättning, adrenala axeln överaktiverad, mkt kortisol, CRH, ACTH etc, som i sin tur hämmar mer av GnRH, varpå minskad FSH och Östrogen. minskar också därför TSH och thyroidea. slutändan ger anovulation, amenorre. Dåligt nutritionsstatus påverkar osså IGF1 som påverkar GnRH frisättningen (IGF stimmar GnRH)
+  
 * **Anna 25år**
   * kommer till dig på mottagningen då hon inte haft mens på 6 månader. hon har tidigare ätit kombinerade p-piller men slutat pga barnönskan. 
   * Vilket/A av nedanstående påståenden är korrekta?
@@ -2862,6 +2908,27 @@ cerivicit
   * Vid lågt FSH hos en 25-årig kvinna bör man utesluta prematur ovariell insufficiens
   * rätt: vid högt FSH hos en 25-årig kvinna bör man utesluta prematur ovariell insufficiens 
   * rätt: för att kunna tolka testosteron behöver man samtidigt analysera SHBG 
+  
+* **amenorre fall**
+
+  * Vad heter den vanligaste typen av amenorre ( utöver graviditet) för såväl primär som sekundär amenorre hos unga kvinnor- dvs på vilken nivå ligger problemet?
+       * SvaR: hypothalamisk amenorre. 
+
+  * Nämn två orsaker till denna typ av amenorre?
+      * SvaR: Anorexia nervosa, mycket fysisk träninng, stress. 
+  * långsiktiga hälsokonsekvenser förutom infertilitet av denna 
+    * Osteoporos, muskuloskeletala skador, hämmad skelettutv
+    * upostår gm östrogen bristen dessa kvinnor har
+    * atleter o anorexiker
+    * hypothaalmisk amenorre: infertilitet, osteoporos, hämmad skelettutv, muskuloskelet
+  * Hypothalamiskamenorre- behandling.
+    * Beror på bakomliggande orsak 
+    * Om ätstörning : Psykiatrisk behandling.
+    * Adekvat nutrition ( uppnå normal BMI, kroppsfetthalt)
+    * Vikktuppgång vid undervikt.
+    * Anpassad fysisk aktivitet 
+    * Hormonell substitution: HRT eller P-piller.
+    * Kalcium och D-vitamintillskott viktigt. 
 
 
 
@@ -3479,6 +3546,17 @@ cerivicit
 
 
 ### Allmänt
+
+***Presentation***
+
+* Blodprov
+  * P-albumin 30 ( icke gravid referens 36-45) Kan ses i normal graviditet ( brukar ligga lägre i tredje trimestern ) 
+  * P-Alat 1,26 ( icke gravid referens: <0,76): Ska inte kunna ses i normal graviditet.
+  * P-CRP 10 ( Icke gravid referens <3mg/L) : Kan ses i normal graviditet.
+  * P-D dimer: 0,32 ( icke gravid referens <0,25): Kan ses i normal graviditet.
+  * B-leukocyster : 11,2 icke grav ferens 3,5-8,8. Kan ses i normal graviditet; I vecka 39 kan de stiga till 16 till o med,
+
+
 
 #### Graviditets längd
 
@@ -4112,6 +4190,17 @@ En del av källorna är fr Bernebrandt
 
 ***Presentation***
 
+* 31åå pat
+  * **Du är AT-läkare på vårdcentralen och träffar 13-åriga Wilma som är gravid och söker då hon själv misstänker UVI. Hon har haft problem med detta tidigare och känner igen symtomen. I journalen läser du att hon födde sitt första barn prematurt vaginalt efter plötslig värkdebut i vecka 31. Man hittade ingen orsak till den för tidiga födseln. Barnet mår idag bra. Ingen angivelse av sjukdom finns förutom att hon haft upprepade urinvägsinfektioner.****Hon är nu gravid i v29+4. Graviditeten har varit ua. För en vecka sedan var hon på ultraljudsundersökning av cervix och det var bra. De sista dagarna har hon haft lite obehag i buken men sonen har haft maginfluensa. Idag kl 10:00 tilltog besvären från urinblåsa och det känns mera som ett tryck nedåt.** **Vid undersökningen känner du en uterus som drar ihop sig direkt när du palperar.****Bltr 110/70. Urinprov+/0, Nitrit positiv och 3+ vita. Temp 37,8.****A) Hur handlägger du patienten?****B) motivera varför?**
+  * **När man undersöker Wilma finner man cervix utplånad och öppen 2cm. Du bedömer att det finns en hög risk för att barnet kan födas prematurt. Wilma utvecklar hög feber 39,5 grader sedan 3 timmar. Febern går inte ner trots antibotik och infusion paracetamol. Hon får tilltagande konstanta smärtor i buken. CTG kurvan har senaste timmen blivit alltmer takykard med frekvenser uppåt 180-200 slag/minut.** 
+  * Vilken diagnos misstänker du?
+    * chorionamnionit
+    * Mycoplasma hominis, Ureaplasma urealyticum, peptostreptokocker och Bacteroides-arter är de agens som oftast kan identifieras i fostervattnet vid för tidigt värkarbete. Efter PPROM är grupp B-streptokocker och E. coli vanliga orsaker till korioamnionit.
+    * Infektion i korion- och amnionhinnor, korioamnionit, innebär fara för både mamma och foster och kräver antibiotikabehandling. Fetal takykardi brukar anges som ett diagnostiskt kriterium. Infektionen predisponerar sannolikt för asfyxi, och feber hos mamman ska alltid föranleda skärpt observation av CTG-mönstret med en lägre tolerans för avvikelser.
+    * Fetal anemi är en sällsynt men allvarlig orsak till takykardi. Den kan orsakas av fetal blödning, immunisering eller tvillingtransfusion. Takykardin kan då ses tillsammans med sinusoidalt CTG-mönster.
+
+
+
 ***Etiologi och patofysiologi***
 
 * 
@@ -4340,6 +4429,20 @@ En del av källorna är fr Bernebrandt
     * klin bedömning dehydrering: detta då minstkat intag kräkts ned i vikt
     * UL undersökning, BT, puls: cirk påverkan och fsotret
     * bedömnig provsvar
+* Lina 30 år
+  * 1 gravida, frisk förutom lätt depression sombehandlades med Fontex. Kommer mVc pga illamående o enstaka kräkningar. Hos barnmorska allmlän info om att försöka äta ljummen mat , te och skorpa inan hon stiger up från sängen. Efter 5 dagar ringer lina t barnmorska, mår mkt sämre, har kräkts många ggr varje dag i 4-5 dagar o kan nästan inte behålla maten, men kan behålla vätska. Barnmorskan rekommenderar att vända sig till gynakuten. Då hon kommer till gynakuten nästa dag mår hon ännu sämre. Nu är hon gravid i v10+4. Behöver levande stöd till toaletten för att lämna urinprov. 
+  * vad kallas tillståndet?
+    * hyperemesis gravidarum
+  * Vilka sjukdomar kan orsaka hyperemesis gravidarum
+    * Anorexia nerovsa eller annan osepcificerad ätstörningsproblematik
+    * hyperthyreos, leverpåverkan
+    * // Druvbörd, mola hydratitosa (diffdiagnos)
+  * 2 olika behandlingar som kan lindra linas symptom
+    * prometazin
+    * primperan: dopaminantagonist
+    * postagen: h1-antagonist
+
+
 
 ***Etiologi och patofysiologi***
 
@@ -4958,7 +5061,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 #### Hyperthyreos
 
+***Presentation***
 
+* Märker omätbart TSH och ett T4 i överkant
+  * gestationell hyperthyreos: mekanismen bakom detta är att hCG hämmar TSH
 
 ### Tvillingar
 
@@ -4984,6 +5090,31 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * // Bättre BT: reduktion preload och afterload, föräbttrat uteroplacentärt flöde, örbättrat navelstängsblodgaser
     * // Samråd anestesi EDA: reduktion preload och afterload, föräbttrat flöde, navelsträngsblodgaser etc, kan användas vid kejsarsnitt osså
     * för mamman
+* Beskriv hur respektiva tvillingtyp uppkommer
+  * Svar: antingen dizygota (80 %) eller monozygota (20 %) för DC DA . ( dizygota jani 2 befruktade ägg)
+  * MC DA : Alltid monozygota
+  * MC MA : monozygota. 1% av alla tvillinggraviditetr.
+
+* Beskriv varför tvillinggraviditeten på bild 2 är mer av en riskgraviditet jämfört med tvillinggraviditeten i bild 1?
+  * Bild 2 risk för tvillingstransfusion syndrom jmf bild 1. 
+  * Komplikationsrisker.
+  * Spontanabort <24 veckor. Enkel graviditet 1%. 
+  * I dikorion graviitet 2% , i MC DA 12%
+  * missbildning: enkel graviditet 1%
+  * DC DA 2% ( 2 foster såde blir fördubllat.
+  * MC DA 8%.
+  * Tillväxt	hämning 5% enkel graviditet 
+  * 10% på DC DA 
+  * Och 15% är MC DA 
+  * Förlossning <32 veckor , 1% i singel
+  * 5% i DC DA 
+* Vad är orsaken till skillnader i utfall?
+  * Till vänster ser vi Dikorion  DA 
+  * 2 navelsträngar, klar avgränsning mellan ytorna, funktionellt separata medans MCDA graviditeten ena navelsträngen ses båda och så har de en rad olika förbindelser, de har anastomoser och gemensam placenta vilket kan ge problem! Händer de ngt i ena så kan de hända i den andra och ge olika komplikationer. Högre delen av MCDA är att högra delen är mindre än vänstra vilket ger förustättningar hur mkt mna kan vätska
+  * Ex.vis kan ena delen av placentan vara mindre än den vänstar vilket ger förutsättningar för hur mkt man kan väska osv. 
+  * Därför är den mer risk.
+  * Beskriv vilken risk för barnen som är ökad för just denna typ av tvillingar jmf med bild 1? 
+  * Tvillingtransfussionsyndrom.
 
 
 
@@ -5071,6 +5202,15 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * kontrollodling behöver inte utföras efter behandling av gravida med urinvägsinfektion
   * recidiverande urinvägsinfektioner under grav skall alltid föranleda profylaktisk antibiotikabehanding under förlossning 
   * rätt: urinvägsinfektion bör misstänkas när gravida kvinnor har prematura sammandragningar 
+* **31åå kvinna
+  * **Du är AT-läkare på vårdcentralen och träffar 13-åriga Wilma som är gravid och söker då hon själv misstänker UVI. Hon har haft problem med detta tidigare och känner igen symtomen. I journalen läser du att hon födde sitt första barn prematurt vaginalt efter plötslig värkdebut i vecka 31. Man hittade ingen orsak till den för tidiga födseln. Barnet mår idag bra. Ingen angivelse av sjukdom finns förutom att hon haft upprepade urinvägsinfektioner.****Hon är nu gravid i v29+4. Graviditeten har varit ua. För en vecka sedan var hon på ultraljudsundersökning av cervix och det var bra. De sista dagarna har hon haft lite obehag i buken men sonen har haft maginfluensa. Idag kl 10:00 tilltog besvären från urinblåsa och det känns mera som ett tryck nedåt.** **Vid undersökningen känner du en uterus som drar ihop sig direkt när du palperar.****Bltr 110/70. Urinprov+/0, Nitrit positiv och 3+ vita. Temp 37,8.A) Hur handlägger du patienten?B) motivera varför?** 
+    * Pat ska urinodlas och behandlas med antibiotika.Motivera varför: Risk för uppåtgående infektion med pyelonefrit och urosepsis. 
+    * Samt risk för sammandragningar och hotande prematurbörd.
+  * Misstänkt afebril UVI under graviditet – ta urinodling och behandla.
+  * Misstänkt febril UVI under graviditet – ta omgående kontakt med specialiserad vård för omhändertagande och behandling.
+  * Obehandlad ABU under graviditet ökar kraftigt risken för febril UVI och bör därför handläggas som afebril UVI (utom vid GBS).
+  * Vid fynd av GBS under graviditet hos symtomfri kvinna ska profylax ges vid förlossning.
+  * Vid makroskopisk hematuri – utred enligt standardiserat vårdförlopp urinblåse- och urinvägscancer.
 
 
 
@@ -5489,6 +5629,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * dokumenteras 
       * skrivs i sammanvättning av grav på MVH
     * **oavsett koncentration + vaginal förlossning**: beh i samband med partus
+* Vilket av följande påståenden är korrekt?
+  * Förlossning bör alltid i första hand induceras med sublingualt misoprostol
+  * Misoprstol ges i samma doser som vid abort när det används för förlossningsninduktion 
+  * rätt: Amniotomi kan utföras för förlossnignsinduktion även om kvinnan är koloniserad med GBS 
+  * Oxytocindropp är förbehållet omföderskor som metod för förlossningsinduktion
+  * Att dilatera cervix genom att blåsa upp en liten ballong ovanför inre modermunnen bör bara användas tillsammans med misoprostol
 
 
 
@@ -5526,7 +5672,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * ABU med GBS behöver inte behandlas
 * GBS >=100 000 i urinodling: kåvepenin 1gx3x5
 * uttalade symptom: behandling lägre koncentrationer
-* Samband förlossning, AB, endast om vaginal: behandling ska ges
+* Samband förlossning, AB, endast om vaginal: behandling ska ges, TODO [när i förloppet ger man antibiotika]
 * penicillinallergi: erytromycin eller klindamycin.
   * erytromycin ökad risk hjärtmissbildningar om tidig gav
   * öakd andel resistensutv makrolider ffa erytromycin senast 10år
@@ -6686,6 +6832,18 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * **lichen sclerosus** 
     * neisseria gonorrhoeae 
 
+* Vilket av nedanstående påståenden om sjukdomen Lichen sclerosus et atrophicus är korrekt?
+
+  * Sjukdomen är vanligast hos postmenopausala kvinnor
+  * Sjukdomen drabbar bara genitalia
+  * Den huvudsakliga behandlingen är mjukgörande
+  * Sjukdomen förekommer bara hos kvinnor
+  * Lichen sclerosus kan aldrig utvecklas till cancer
+
+* 
+
+  
+
   
 
 ### Vulvär eksem
@@ -6991,6 +7149,21 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Trombosprofylax bör ges om kvinnan har komb metod**.
   * **Surgery**- consider LMWH
   * **Immobilisation**- consider LMWH
+
+
+
+## Lagar
+
+### Våldtäkt
+
+***Presentation***
+
+* Fedra 15 år kommer till gynakuten kl 02:00 på natten tillsammans med jämnårig vänninga. Hon berättar att hon varit på fest och blivit berusad och gått och lagt sig för att sova i ett angränsande rum. Hon vaknade av att en av de manliga festdeltagarna hade sex med henne. Vid ankomst är hon lätt berusad ch vill absolut inte att du ringer hennes föräldrar. När du berättat att vi vill att antigen henens föräldrar eller ngn annan vuxen ska komma till sjukhuset så lämnar hon akutmottagningen i affekt.
+  * Vilket av nedanstående påståenden är korrekt?
+  * Du får som läkare inte göra en polisanmälan pga tystandsplikt
+  * Du måste som läkare göra en polisanmälan innan ni bestämmer vad som ska göras 
+  * Du behöver som läkare inte göra en polisanmälan då detta inte var en våldtäkt
+  * rätt: Du har en skyldighet att kontakta sociala myndigheter
 
 
 
@@ -7542,7 +7715,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * utan livmoder: ERT, då endometrieprotektion inte behövs
     * Motivera vf behandlingen skiljer sig åt
       * östrogenets proliferativa effekt på endometrieslemhinnan (inducerad proliferaitionsfas) med enbart östrogen leder t att slemhinnan genomgår hyperplasi (mitoser). med ökad risk för endometriecancer, varför det är motiverat med proliferationshämning med pogesteron
-      * 
+* Maja 54år
+  *  söker pga svårigheter att sova på ntäterna pga rikligt nattliga svettningar och vallningar. Får gå upp flera gånger och byta sängkläder och nattlinne. Minskad sexlust. Tycker också att hon på sista tiden fått svårare att hålla urinen får kissa ofta. Hereditet: majas mamma drabbades av bröscancer vid 60 åå ( ER positiv ca). Majas syster drabbades av lungemboli vid 25 åå i sabmand med flygresa. Systern åt kombinerade p-piller då och mår bra idag.Gyn: Vi gravida 3 para 2 missfall o en legal abort. Sista mens 1 år sedan. Röker inte och dricker ett glas vin på freda goch ett på lördag. Hon motionerar regelbundet:joggar och spelar tennis på lördagarna. Väger 72kg o 172 cm lång 
+  * Maja vill verkligne ha östrogenbehandling för sina vallningar och svettningar !
+  * kan hon få behandling med östrogen för sina vallnignar o svettnnigar
+    * ja
+    * ingen hereditär cancer, iom ER positiv, ingen BRCA muterad cancer
+    * stystern provoderad lungemboli, tyder ej på familjär komponent i koagulipatin
+    * individuell basis inga kontraindikationer_: trombos, grav angina, leversjd, tidg bröstca,
+    * tidig 5graviditeter och ingen trombos, graviditet är väldigt tromotiskt
+    * icke hög ökning o pat nytta av att stå på HRT stär över riskerna
 
 
 
@@ -7596,7 +7778,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * Tahar, 32 år, 
   * med två misslyckade IVF-försök, har nu senast genomfört en äggtransfer för 6 veckor sedan och ett graviditetstest för 2 veckor sedan visade sig positivt. Tahar kommer in akut med måttliga buksmärtor. Vid undersökningen noterar Du att patienten är blek, takykard och buken är ordentligt svullen och öm vid palpation. Bimanuell undersökning är svår att genomföra p g a utpräglad bukömhet. Du gör ett vaginalt ultraljud som visar att det finns en intrauterin hinnsäck motsvararande graviditetsvecka 5 + 6. Samtidigt finner Du vätska i buken och att patienten har bilaterala multipla cystor på platsen för ovarierna som är cirka 10 cm i diameter.
   * Vad kallas det tillstånd som patienten har? (1p)
+    * OHSS
   * Hur uppkommer tillståndet och dessa cystor? (2p)
+    * Vanligt att under FSH-stimulering utvecklar multipla folliklar och snabbt stigande östogenr
+* 
 
 
 
@@ -7697,6 +7882,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Bristningar
 
+***Presentation***
+
+* Bristning
+  *  **Annika födde barn för 6 dagar sedan med sugklocka. Hon fick en bristning som på bilden som syddes. På BB mådde hon som förväntat.****Sedan 2-3 dagar har hon fått smärtor i underlivet som blir värre och värre och hon har ckså svårt att gå på toaletten och ha avföring. Det gör så fruktansvärt ont. Hon har så ont att hon har svårt att sitta.**
+  * Vilken grad bristning på bilden: grad 3
+  * namnge numrerade strukturerna: 3 sphincter ani externa, 2 bulbus cavernosus. 1 hymen / vestibulum
+  * <img src="./imgs/gyn_sam_060421_LvkuM1mLqd.png" alt="LvkuM1mLqd" style="zoom:50%;" />
+  * Infektion?
+
+
+
+
+
 ***Gradering***
 
 * Grad1: slemhinna
@@ -7712,7 +7910,13 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **åtgärdas av läkare i operation**: <u>sfinkter</u>skador, svåråtkomliga grad2 skador
 * **återuppbygg perineum**
 
-<img src="./imgs/gyn_sam_230321_TI0dsB8rAC.png" alt="TI0dsB8rAC" style="zoom: 80%;" />
+
+
+| <img src="./imgs/gyn_sam_230321_TI0dsB8rAC.png" alt="TI0dsB8rAC" style="zoom: 80%;" /> | <img src="./imgs/gyn_sam_060421_z1S9qMDB9c.png" alt="z1S9qMDB9c" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_sam_060421_LvkuM1mLqd.png" alt="LvkuM1mLqd" style="zoom:50%;" /> |                                                              |
+
+
 
 
 
@@ -10269,7 +10473,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Presentation***
 
-* Miriam 32 år 
+* **Miriam 32 år** 
   * kommer för preventivmedelsrådgivning efter att hon slutat amma nrä hennes barn är 10 månader. hon har hört att man kan äta ihop p-pillerkartor och slippa ha blödningar. det viktigt att känna till de kontraindikationer som finns för kombinerad hormonell metod. 
   * Vilket/a Av nedanstående tillstånd utgör kontraindikation mot användning av kombinerade hormonella preventivmedelsmetoder?
   * rätt: **Inflammatorisk tarmsjukdom**
@@ -10282,6 +10486,15 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * rätt: migrän med aura
   * Persisterande HPV infektion
   * superficiella varicer
+* **Tara är 29år**
+  * och har fött sitt andra barn vaginalt. Pga blödning på 1000ml hamnade hon på BB. Hon har beslutat att hon inte ska amma pga att hon fick oerörda problem förra gången med bröstböld och flera operationer pga detta. Hon är tidigare frisk, har normalt BMI äter inga mediciner och röker inte. 
+  * Vid utskrivningssamtalet på BB noterar du att ingen planering är gjorde för hennes preventivmetod efter förlosningen. Det är viktigt för henne att undvika graviditet pga att hon nu har 2 barn under 2 år och den senaste graviditeten var oplanerad.
+  * Innan graviditeten använde tara kombinerade metod. Hon vill gärna fortsätta med det.
+  * Är kombinerad metod lämplig för Tara i nuläget?
+      * Nej.
+  * Resonera kring varför du tycker denna metod är lämplig/olämplig för Tara i nuläget.
+      *  Mamman. Har postpartum ökad risk för trombos och det kan förstärkas med kombinerade metooder, om man ska använda denna metod bör man avvakta 6-8 veckor efter förlossningen.
+      * Sen är kombinerade p-piller användarberoende, har tidIgare blivit gravid med denna antikonception, vi vet inte om de ren otur eller om det är så att hon glömt ta sina piller. Om det är så att hon glömmer ta sina piller eller så, så kan de också vara en aspekt att ta hänsyn till och därmed kanske erbjuda något som inte är användarberoende såsom p-stav eller hormonspiral
 
 
 

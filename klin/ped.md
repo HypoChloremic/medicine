@@ -1156,7 +1156,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * The treatment of breastfeeding jaundice is hydration, which typically includes increasing the frequency of breastfeeding, along with observation and serial bilirubin assessments. 
     * Breast milk jaundice, which occurs later, after the first week of life, is thought to be associated with high levels of lipase and β-glucuronidase within breast milk. 
     * Choledochal cysts, biliary atresia, and neonatal hepatitis are more typical causes of direct, or conjugated, hyperbilirubinemia.
-* Allmänt om ikterus
+* **Allmänt om ikterus**
   * Fysiologsk ikterus är vanligt hos nyfödda, varför
     * Omställninge fetalt hemoglobin till adult hemoglobin
     * nedbrytning bildas det bilirubin som konjugeras av levern, innan det kan skickas vidare ut i gallan
@@ -1166,12 +1166,29 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
       after birth
       2. Delayed activity of the hepatic enzyme glucuronyl transferase
       2. ?? Har detta att göra emd HbF eller att det är en anann mekanism som styr nedbrytningen RBC
+* **5v gammal siri. Tiden bokad kontroll ikterus. undersökning pigg, men hy o sklera är tydligt gyla. hon helammas med god aptit.** 
+  * Vilken bakomliggande icke-patoglogiskt orsak t gyulhet misstäner du i första hand
+    * Bröstmhölksinducerad
+* **Vänninnans barn som opats pga svår o ovanlig gulsotssjukdom, vid 3månaders ålder**
+  * ange ett tilltånd el diagnos hon sannolikt dyftar p
+    * gallvägsatresi, biliär atresi
+  * vilka 2 blodanalysr bör man beställa för att initialt utreda detta tillstånd
+    * konjugerat bilirubin och totalbilirubin
+    * // konjugerat bili över 20% totalbili är patologiskt o kräver vidar utredning
 
 
 
 #### Okonjugerade orsaker
 
-* Bröstmjölksinduc
+
+
+##### Bröstmjöksinducerad ikterus
+
+***Etiologi och patofysiologi***
+
+* Okonjugerad hyerpbilirubinemi
+* neonatal hyperbilirubinemi
+* okänt enzym i bröstmjölk: inhiberar konjugering av bilirubin, pga enzymet som finns i bröstmjölken
 
 
 
@@ -1831,6 +1848,18 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 ### Vaccinationer
+
+***Presentation***
+
+* I fikarummet kommer en BVC-sköterska in till dig för att be om hjälp. Hon har just blivit utskälld av en arg mamma som inte vill ge sitt 18 månader gamla barn MPR-vaccin. Mamman vill omgående diskutera frågan med en barnmedicinkunnig person. Ange två skäl till varför du rekommenderar mamman att vaccinera sitt barn mot mässling
+  * Mässling är en sjd, potentiellt och mest sannolikt livshotande. 
+  * Kan ge livshotande komplikationer som encefalit och om överlever är otroligt debiliterande
+  * Inget botemedel finns för mässling
+  * Otroligt smittsam sjd (är luftburen) och man bör skydda sin omgivning o de som ännu int fått vaccin i smhälelet
+
+
+
+***Vaccinationsschemat***
 
 * 3 månader
   * ***TEDAP***
@@ -3166,14 +3195,41 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Feberkramp
+
+***Presentation***
+
+* En 7 år gammal pojke kommer in till akutrummet på barnakuten pga generaliserade symmetriska kramper. Han har haft 40C feber i ca 3 dagar. Ingen annan är sjuk i familjen. När du träffar honom har han slutat krampa. Han är medvetandepåverkad men väckbar vid smärtstimuli. I status noterar du att han har takypné, takykardi, saturation 91 %, kapilläråterfyllnad 4s och nackstyvhet.'
+  * **Initiala handläggning punktform, kronologiskt**
+    * **Ringer efter narkos + senio kollega**
+    * **Handläggning enl ABCDE**
+      * A: stabilisera luftvägarna, kontrollera fri och att pat kan hålla de fria, åtgärda därefter; inspiratoriska eller expiratoriska stridor
+      * B: Lyssna lungor, saturation, andningsrörelser, (CRP?); antydningar obstruktivitet, indragningar, asymmetrier
+        * Koppla syrgas främst om ingen obstruktivitet föreligger. Föreligger obstruktivitet adminstrering ventoline.
+      * C: Capillart refill time, pulsar, EKG, hjärt auskultatuin, blodtryck
+        * PVK insättning samband med detta, prover. Blodgas, blodstatus, med diff, kapillärt-CRP
+        * PKINR, APT, blododling, KAD sättnnig + U-sticka, NPH
+        * Bolus RA 20mL/kg, så fort som ärlet tillåter, utvärdera kaprefil.l. 
+        * nackstyvhet + kramp, samt sänkt edvetande koppling antibiotika på meningitmisstanke: Cefotaxim + aciklovir + steroider
+      * D: AVPU, postiktal, sker det ng förändring; glukosmätning
+      * E: hudkostym: septiska embolier, petekier, blåm,ärken, varm, kall
+    * **LP undersökning**
+    * **Antibiotika**:
+      * barn <3måpn ges ampicillin + cefotaxim
+      * barn >3mån ges steroider + cefotaxim
+    * Vad måste du utesluta och hur gör du det: meningit + LP
+    * Vila två agens är mest sannolika: Pneumokocker + meningokocker
+
+
+
 ### Kramper
 
 When is the lifespan risk of seizures highest?
 
 As a neonate
 
+mer än 75% are cerebrovascular in origin:
 
->75% are cerebrovascular in origin:
 - hypoxic/ischaemic encephalopathy (60% overall)
 - intracranial haemorrhage (15%)
 - ischaemic stroke
@@ -3195,31 +3251,6 @@ Other:
 
 
 
-### Feberkramp
-
-***Presentation***
-
-* En 7 år gammal pojke kommer in till akutrummet på barnakuten pga generaliserade symmetriska kramper. Han har haft 40C feber i ca 3 dagar. Ingen annan är sjuk i familjen. När du träffar honom har han slutat krampa. Han är medvetandepåverkad men väckbar vid smärtstimuli. I status noterar du att han har takypné, takykardi, saturation 91 %, kapilläråterfyllnad 4s och nackstyvhet.'
-  * Initiala handläggning punktform, kronologiskt
-    * Ringer efter narkos + senio kollega
-    * Handläggning enl ABCDE
-      * A: stabilisera luftvägarna, kontrollera fri och att pat kan hålla de fria, åtgärda därefter; inspiratoriska eller expiratoriska stridor
-      * B: Lyssna lungor, saturation, andningsrörelser, (CRP?); antydningar obstruktivitet, indragningar, asymmetrier
-        * Koppla syrgas främst om ingen obstruktivitet föreligger. Föreligger obstruktivitet adminstrering ventoline.
-      * C: Capillart refill time, pulsar, EKG, hjärt auskultatuin, blodtryck
-        * PVK insättning samband med detta, prover. Blodgas, blodstatus, med diff, kapillärt-CRP
-        * PKINR, APT, blododling, KAD sättnnig + U-sticka, NPH
-        * Bolus RA 20mL/kg, så fort som ärlet tillåter, utvärdera kaprefil.l. 
-        * nackstyvhet + kramp, samt sänkt edvetande koppling antibiotika på meningitmisstanke: Cefotaxim + aciklovir + steroider
-      * D: AVPU, postiktal, sker det ng förändring; glukosmätning
-      * E: hudkostym: septiska embolier, petekier, blåm,ärken, varm, kall
-    * LP undersökning
-    * Antibiotika:
-      * barn <3måpn ges ampicillin + cefotaxim
-      * barn >3mån ges steroider + cefotaxim
-    * Vad måste du utesluta och hur gör du det: meningit + LP
-    * Vila två agens är mest sannolika: Pneumokocker + meningokocker
-
 ### Tumör
 
 ***Presentation***
@@ -3237,6 +3268,25 @@ Other:
   * Drabbar barn från 3-13 års ålder, anfall ofta nattetid, typiska centro temporala spikes och sharp-waves på EEG
 
 
+
+
+
+### Utebliven neuro progress
+
+***Presentation***
+
+* **Nästa barn du träffar på BVC är en 7.5 månader gammal flicka som heter Alexis. Hon är bokad på ett extrabesök för utvecklingsbedömning. På 6-månaderskontrollen hade hon ett fint nyanserat joller, men hon klarade varken de förväntade fin- eller grovmotoriska färdigheterna.** 
+  * **Nämn tre motoriska (fin- och/eller grovmotoriska) färdigheter som kontrolleras vid 6 månaderskontrollen på BVC? (1 p) (2 rätt=0,5 p, 1 rätt=0 p)** 
+    * Sitter med stö
+    * flytter föremål mellan händerna
+    * vänder sig fr mage t rygg
+    * skyddsreflexer (Tar emt sig med handen när man försöker tippa dom)
+  * samband med dagens besök klarar hon hjälpligt de färdigheter du jsut angett. Du noterar dock att hon har en tydligt nedsatt rörelseförmåga i höger ben
+  * ange fyra diagnoser eller orsaker som kan lgigga bakom det avvikande statusfynder
+    * CP skada
+    * höftluxation
+    * misshandel
+    * trauma (benbrott tex)
 
 
 
@@ -4130,6 +4180,19 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 
 ### Barnets utveckling
 
+
+
+***Presentation***
+
+* **ästa barn du träffar på BVC är en 7.5 månader gammal flicka som heter Alexis. Hon är bokad på ett extrabesök för utvecklingsbedömning. På 6-månaderskontrollen hade hon ett fint nyanserat joller, men hon klarade varken de förväntade fin- eller grovmotoriska färdigheterna.** 
+  * nämn 3 motorisk el finmotoriska färidhgee som kontrolleras vid 6mån
+    * Sitter med stöd
+    * Flyttar föremål mellan händer
+    * vänder om fr mage t rygg
+    * skyddsrefelxeR: tar emot sig med handen om försöker tippa
+
+
+
 **Det förekommer fyra fält som man attribuerar till barnutvecklingen:** 
 
 * Motoriskt, 
@@ -4173,6 +4236,8 @@ Flera faktorer måste beaktas
 * stadiet barnet uppnått för varje skill field
 * om progressen är likt för varje skill field
 * i slutet: barnets overall utvecklings profil, och hur det relaterar till barnets ålder
+
+
 
 #### Motoriskt
 
@@ -4251,8 +4316,6 @@ Flera faktorer måste beaktas
 * ***Postural support***: när hålls upprätt, benen tar vikt och barnet pushar ifrån (bounce)
 * ***lateral propping***: när barnet sitter, armarna extenderande till sidan barnet faller, som saving mekanism
 * ***parachute***: när suspenderas ansikte nedåt, extenderas armar som för att rädda sig sj
-
-
 
 
 

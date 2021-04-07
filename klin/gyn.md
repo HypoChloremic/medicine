@@ -7757,10 +7757,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * // hormonspiral kan agera komplement till ERT för att skydda endometrieslemhinnan... 
   * **Behandlingslängd**: utsättningsförsök 
 * **Specifikt: kivnnor som fortfarande menstruerar + behandlingskrävande klimakteriella besvär, bör ha behandling enl följande**
-  * cyklisk beh med fast kombination östrogen + gestagen. Eller individuell beh med östrogen transdermalt eller i tablettform tillsammans med gestagen för att skydda endometriet
+  * cyklisk beh med fast kombination östrogen + gestagen. 
+  * Eller individuell beh med östrogen transdermalt eller i tablettform tillsammans med gestagen för att skydda endometriet
   * rekommenderade prep fr kloka listan
     * fast kombination
     * Novofem: en lågdos cyklisk behandling, inte alltid behöver ge ngn bortfallsblödning. vid otillräcklig effekt kan östrogendosen höjas t 2mg östradiol med tillägg ett getagen i 12d, varje månad som i divina plus och femasekvens
+  * Detta sker alltså **cykliskt**
 * **Samm symptom som ovan, men hos kvinna som inte haft blödningar sedan 3år:**
   * kvinnor klimakteriebesvär + sista mens över 1år sedan, som inte vill ha några blödnignar bör beh enl följande
     * Kontinyuerlig beh för blödningsfrihet som rek i kloka listan
@@ -10572,7 +10574,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Lista på absoluta kontraindikationer riskfaktorer**:
   * !!! **MIGRÄN MED AURA**: denna ska man absolut inte ha kombinerade metoder på
   * Previous VTE
-  * VTE in parents, siblings
+  * **VTE in parents, siblings**: DVT och lungemboli
   * **Coagulation disorder**
     * antitrombindef
     * protein C-def

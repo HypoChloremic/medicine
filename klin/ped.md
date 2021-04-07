@@ -39,14 +39,6 @@ Utredning
 
 
 
-
-
-
-
-* 
-
-
-
 ### Föda, nutrition och vikt
 
 #### Innehåll
@@ -103,15 +95,9 @@ Det man bör ge
 
 
 
-
-
 ### Hypothyreos
 
 * Kurvan ser enligt kalle okej ut, att det är inte helt manglat kurva, bara en avplaning som man ska beakta.
-
-
-
-
 
 
 
@@ -165,8 +151,8 @@ Det man bör ge
 
 ***Definition:***
 
-* Flickor: Brösttillväxt < 8 åå
-* Pojkar: Testikelvolym > 4 ml < 9 åå
+* **Flickor**: Brösttillväxt < 8 åå
+* **Pojkar**: Testikelvolym > 4 ml < 9 åå
 
 
 
@@ -174,8 +160,8 @@ Det man bör ge
 
 * Hos pojkar ofta patologisk orsak -> utredning obligat
 * Hos flickor oftast idiopatiskt
-* Centralt utlöst: CNS-tumör, idiopatisk
-* Perifert utlöst: Binjurebarkstumör
+* **Centralt utlöst**: CNS-tumör, idiopatisk
+* **Perifert utlöst**: Binjurebarkstumör
 
 
 
@@ -293,6 +279,17 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * söker p g a av en allergisk reaktion efter intag av jordnötter. Hon har urtikaria över större delen av hudkostymen. Vilken kombination av symptom – utöver urikarian - gör att hon inte uppfyller kriterierna för anafylaxi?
     * Detta är EJ anafylaxi: Svullen tunga, en kräkning och klåda i munnen
     * Dessa är anafylaxi: Andningsbesvär med ronki, svullna läppar och konjunktivit med klåda; Upprepade kräkningar, heshet och klåda i halsen; Nysningar, ökande buksmärta och heshet; Hjärtklappning, diarré och sväljningsbesvär
+* Lotta 
+  * satt på en thairestaurang och åt middag med några kompisar för att fira sin 15-årsdag. Helt plötsligt började det kittla i munnen och kännas tungt att andas. Hon började få panik. Kompisarna blev oroliga och försökte nå mamman utan att lyckas och till slut slängde de sig i en taxi och åkte till akuten. Du möter henne där. Nu är hon även påverkad i sitt medvetande. Kapillär återfyllnad är 2,5 s. Saturation 89%. Hon är tungandad och har distans ronki.
+  * a) Vilka åtgärder görs i första hand och i vilken ordning? 2p
+    * Ta personen t akutrummet, kontakta narkos då misstänkt hotande luftväg
+    * ABCDE
+    * Adrenalin: 1mg/mL 0.01mg/kg, intramuskulärt
+    * ihalation ventoline + syrgas
+    * PVK sättning + vätska
+    * betapred + antihistamin
+  * vad har hon drabbats av: anafylaktisk reaktion
+  * Hur behandlar du Lotta akut: 
 
 
 
@@ -308,6 +305,14 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 *  GI: Kräkning, illamående, sväljningssvårigheter, diarré.
 *  Luftvägar: Svullnad i övre luftvägar, astma, hosta, heshet, nästäppa, rinnsnuva.
   *  Cirkulation: Kardiovaskulär chock, takykardi, svag puls, blodtrycksfall. 
+
+
+
+***Behandling***
+
+* 
+
+
 
 ### Astma 
 
@@ -338,6 +343,11 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
             * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
             * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
         * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
+* 4 år gammal flicka
+    *  som söker för andra gången med andningsbesvär i samband med en förkylning, i övrigt frisk. Hon har 37,8 i temp, har indragningar, ökad andningsfrekvens och en saturation på 95%. Hon hostar mycket ffa nattetid nu när hon är förkyld och har då svårt att sova. Vid lungauskultation noteras ronki basalt bilateralt. 2 p
+    * Diagnos: förkylningstma, men hon har diagnosen astma per definition, då över 2å + förkyld med obstruktivitet
+    * agens: virus, ofta rhinovirus
+    * Behandling: ventoline, inhalation, NaCl om slem, syras under 92%.
 
 
 
@@ -1146,6 +1156,16 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * The treatment of breastfeeding jaundice is hydration, which typically includes increasing the frequency of breastfeeding, along with observation and serial bilirubin assessments. 
     * Breast milk jaundice, which occurs later, after the first week of life, is thought to be associated with high levels of lipase and β-glucuronidase within breast milk. 
     * Choledochal cysts, biliary atresia, and neonatal hepatitis are more typical causes of direct, or conjugated, hyperbilirubinemia.
+* Allmänt om ikterus
+  * Fysiologsk ikterus är vanligt hos nyfödda, varför
+    * Omställninge fetalt hemoglobin till adult hemoglobin
+    * nedbrytning bildas det bilirubin som konjugeras av levern, innan det kan skickas vidare ut i gallan
+    * Stora nedbryuntningen hmelgobin orsakar för stor mängd Hb för levern att process, varpå man får ikterus, 
+    * Enl BRS: 
+      1. Increased bilirubin load on hepatocytes due to breakdown of red blood cells
+      after birth
+      2. Delayed activity of the hepatic enzyme glucuronyl transferase
+      2. ?? Har detta att göra emd HbF eller att det är en anann mekanism som styr nedbrytningen RBC
 
 
 
@@ -1185,6 +1205,114 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ## Infektion och Immunologi
 
+
+
+### Bronchiolitis
+
+
+
+***Presentation***
+
+* **3 månader gammal pojke** 
+  * som insjuknade för 4 dagar sedan med en förkylning. Ingen feber. 
+  * Nu vill han inte amma och han kräks i samband med hosta. 
+  * Han har  interkostala indragningar och ökad andningsfrekvens. 
+  * Du auskulterar en hel del slembiljud, saturationen är 89%. 
+  * Han har en storasyster som är förkyld, föräldrarna friska
+  * **svar: bronkiolit bronchiolitis, RSV, koksalt och syrgas**
+* **3 månader gammal pojke som insjuknade för 4 dagar sedan med en förkylning. Ingen feber. Nu vill han inte amma och han kräks i samband med hosta. Han har interkostala indragningar och ökad andningsfrekvens. Du auskulterar en hel del slembiljud, saturationen är 89%. Han har en storasyster som är förkyld, föräldrarna friska. 2p**
+  * RS bronkiolit, agens RS virus
+  * **behandling**: rehydrering, nästoalett, inhalation NaCl, syrgas
+    * rehydrering + nästoalett + inhalation NaCl + syrgas + optiflow (håller uppe luftvägarna bättre) -> CPAP
+    * Syrgas  ges vid saturation under 90%. Är en lägre gräns vid RS än vanliga 92%: TODO vad gäller syrgasgränsen (noterar att det är acceptabelt ned till 90% i saturation)
+
+
+
+***Definition***
+
+* ***Bronchiolitis*** inflammatorisk bronkiolär obstruktion med cellulär debirs och mucus plugg, mest sekundärt t viral nedre luftvägsinfektion
+
+
+
+***Epidemiologi***
+
+* ***bronchiolitis är den vanligaste nedre luftvägsinfektionen under första 2 åren av livet och den vanligaste orsaken till sjukhusinlöäggning under första året***
+* male to female 2:1
+* epidemier occurs fr november t april
+* risk av infektion ökar with day care attendance, multipla syskon, exponering till tobakrök, ingen bröstamning
+* mer signifikant sjukdom occurs in patient 
+  * med kronisk lungsjd, kongenital hjärtsjd, historik av prematuritet,
+  * immunbrist, genetisk abnormalitet, satm spädbarn yngre än 3 månader
+
+
+
+***Etiologi***
+
+* ***Alltid viral***
+* ***RSV*** är den vanligaste orsaken
+* ***mindre vanligt***: human metapneumovirus, parainfluenza, adenovirus, rhinovirus, influenza, coronavirus,
+
+
+
+***Kliniska kännetecken***
+
+* ***Onset is gradual***: med övre luftvägssymptom, e.g. rhinorrhe, nasal congestion, feber, hosta
+* ***Progression***: of respiratory symptom inklusive takypne, fina rassel, ronki, och ökat andningsarbete
+* ***hypoxemi*** kan förekomma
+* **apne**, kan förekomma hos spädbarn och barn med historika av apne of prematuritet
+* **röntgen**: hyperinflation med luftfälla och patchy infiltrat och atelektas
+* ***komplikationer***: kan inkluder apne, respiratorisk insuff, respiratorisk failure, och död. Bakteriell superinfektion. 
+* ***torr, wheezy hosta***
+* ***takypne, takykardi***
+* ***subkostal och interkostala recessioner***
+* ***hyperinflation of the chest***
+* ***fina end-inspiratoriska rassel***
+* ***high-pitched wheezes*** - expiratoriska mer än inspiratoriska
+* ***Auskultation, mkt slembiljud***
+* ***desaturation***
+
+
+
+<img src="./imgs/ped_sum_zQMnflOr2I.png" alt="zQMnflOr2I" style="zoom:50%;" />
+
+
+
+***Diagnos***
+
+* ***kliniska diagnos***
+* ***virologisk testning***
+
+
+
+***Utredning och handläggning***
+
+* ***Anamnes***
+* ***Status***
+  * ***saturation: bör tas på alla barn med suspekt bronkiolit.*** 
+  * inga andra ujtredningar rekommenderas
+  * endast vid suspekt respiratorisk svikt: lungröntgen eller  blodgas.
+* ***sjukhusinläggning indicerat om:***
+  * apne (observerad eller rapporerad)
+  * persisterande syrgassaturation under 90%, när andas vanlig luft
+  * inadekvat oral vätskeintag, (50-75% av volym)
+  * svår respiratorisk distress: grunting, marked chest recession, andningsfrekvens över 70
+* ***På sjukhus***
+  * monitoreras för 
+
+
+
+***Behandling***
+
+* ***Understödjande primärt***: 
+  * **nasal bulb suctioning**, (spädbarn är obligata näsandare, drf viktigt), 
+  * **rehydrering**, 
+  * **syrgas humidifierad** om saturation under 92%. 
+  * **koksalt**
+* ***hand dekontamination (desinfektion)***: för att förhindra spridning av smittan
+* undvik tobakrök exponering
+
+
+
 ### Borrelia
 
 ***Presentation***
@@ -1201,13 +1329,74 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Doxycyklin verkar vara det generella behandlingsalterantivet
   * ceftriaxon iv: kan ges till barn smo inte kan ta tabletter. 
 
-### Immunologiskt
-
-#### Immunglobulinnivåerna
 
 
+### Febrerna TODO
 
-<img src="./imgs/pedsum_gVJFqHkYbL.png" alt="gVJFqHkYbL" style="zoom:67%;" />
+#### Kawasaki
+
+***Presentation***
+
+* 6 månader gammal flicka med feber i två dygn. Enstaka kräkning men ingen diarre. Inga fokala eller respiratoriska symtom. Ganska grinig o gnällig. Ingen epidemiologi för infektionssjukdom i omgivningen. 
+  * Status: Febril 39.0. Ingen nackstel. Kapillär återfyllnad normal. Hjärta lungor ua Buk ua.  LgLL ua. Hud: inget utslag. 
+  * ab CRP 180 mg/ml, Blodstatus: leukocytos med neutrofiler 13,5x109/l, Urinsticka: Leukocyter 3+, erytrocyter 3+, protein 1+, glukos 0.
+  * Diagnos? Vidare provtagning?
+
+
+
+***Diagnoskriterierna***
+
+* Obligat: feber över 38.5, över 4d
+* Minst 4 av 5 följande 
+  * Konjunkivit, bilateralt
+  * Förändringar läppar, munhåla: examtem? stora läppar 
+  * Förändringar extremiteter: exantem? röda fingertoppar, palmarerythem, etc.
+  * utslag, polymorft
+  * Exantem läppar och i munhåla: torra läppar, röd tunga
+  * Halsadeniter: ofta ensidgit
+* Atypisk kawasaki
+  * under 4 kriterier, drabbar ofta små barn
+  * ökad risk
+
+
+
+***Etiologi och patofysiologi***
+
+* **Enl PM**
+  * Etiologin är ofullständigt känd
+  * talar för genetiska + infektiösa orsaker
+  * säsongsvariation
+  * fler fall av kawasaki under infektionssäsong [det som att det är under vinter]
+* **Vaskulit, kranskärlen**: Vaskulit som drabbar kranskärlen
+
+
+
+***Komplikationer***
+
+* Vaskulitsjd som drabbar kranskärlen
+
+
+
+***Kliniska kännetecken***
+
+* Det finns ett antal kriterier
+* Progerssiv irritabilitet är ett kännetecken
+
+
+
+***Behandling***
+
+* **IvIG**: 
+  * före dag 10 av febern
+  * en dos åp 2g/kg, infusion 8-12h. 
+  * forskning visar att 12h är bäst. 
+* **ASA**: ges i antitrombotisk dos, 2-5mg/kg/d, i 6-8v
+* **Steroider** [INTE förstahandsval, man ska hoppa på IvIG]: har ingen plats i behandlingen
+  * inte helt klarlagd funktion
+  * ffa hos riskgrupper: Steroider kan användas som tillägg IvIG att minska hjärtkomplikationer,
+    * slutsats: att man inte bör ge denna i behandlingsstart, utan använd IvIG
+
+
 
 ### Henoch-schönlein - IgA-vaskulit
 
@@ -1336,6 +1525,18 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 <img src="./imgs/ped_sammanstallning_p73kCSQn6C.png" alt="p73kCSQn6C" style="zoom:50%;" />
+
+
+
+
+
+### Immunologiskt
+
+#### Immunglobulinnivåerna
+
+
+
+<img src="./imgs/pedsum_gVJFqHkYbL.png" alt="gVJFqHkYbL" style="zoom:67%;" />
 
 
 
@@ -1495,106 +1696,48 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-### Bronchiolitis
 
 
+### Pneumoni
 
 ***Presentation***
 
-* 3 månader gammal pojke 
-  * som insjuknade för 4 dagar sedan med en förkylning. Ingen feber. 
-  * Nu vill han inte amma och han kräks i samband med hosta. 
-  * Han har  interkostala indragningar och ökad andningsfrekvens. 
-  * Du auskulterar en hel del slembiljud, saturationen är 89%. 
-  * Han har en storasyster som är förkyld, föräldrarna friska
-  * **svar: bronkiolit bronchiolitis, RSV, koksalt och syrgas**
+* 3 årig pojke 
+  * som söker pga trötthet och hög feber sedan 4 dagar. Har nu tilltagande andningsbesvär. Nedsatt aptit. I status finner du en trött och lite blek pojke som har ökad andningsfrekvens. Inga indragningar och antydd rassel vid auskultation. Saturation 91%. Du tar ett CRP som är 110, U-sticka som är blank
+  * Pneumoni
+  * pneumokocker
+  * **Behandling initialt:** 
+    * bedömning enl ABCDE. 
+    * Inläggning
+    * Syrgas
+    * Bedöm kaprefill
+  * **Antibiotika**: 
+    * PcV förstahandsvalaet: peroral behandling (fenoxymetylpenicillin)
+    * // Amoxicillin: bättre smak, längre resoprtion, men kan selektera fram resistenta bakterier.
+    * Erytromycin: mykoplasma, klamydia, och penicillinallergi
+    * när iv antibiotika: 
+      * bensylpenicillin iv.
+      * eller cefotax
 
 
 
-***Definition***
+**Utredning och handläggning**
 
-* ***Bronchiolitis*** inflammatorisk bronkiolär obstruktion med cellulär debirs och mucus plugg, mest sekundärt t viral nedre luftvägsinfektion
-
-
-
-***Epidemiologi***
-
-* ***bronchiolitis är den vanligaste nedre luftvägsinfektionen under första 2 åren av livet och den vanligaste orsaken till sjukhusinlöäggning under första året***
-* male to female 2:1
-* epidemier occurs fr november t april
-* risk av infektion ökar with day care attendance, multipla syskon, exponering till tobakrök, ingen bröstamning
-* mer signifikant sjukdom occurs in patient 
-  * med kronisk lungsjd, kongenital hjärtsjd, historik av prematuritet,
-  * immunbrist, genetisk abnormalitet, satm spädbarn yngre än 3 månader
+* 
 
 
-
-***Etiologi***
-
-* ***Alltid viral***
-* ***RSV*** är den vanligaste orsaken
-* ***mindre vanligt***: human metapneumovirus, parainfluenza, adenovirus, rhinovirus, influenza, coronavirus,
-
-
-
-***Kliniska kännetecken***
-
-* ***Onset is gradual***: med övre luftvägssymptom, e.g. rhinorrhe, nasal congestion, feber, hosta
-* ***Progression***: of respiratory symptom inklusive takypne, fina rassel, ronki, och ökat andningsarbete
-* ***hypoxemi*** kan förekomma
-* **apne**, kan förekomma hos spädbarn och barn med historika av apne of prematuritet
-* **röntgen**: hyperinflation med luftfälla och patchy infiltrat och atelektas
-* ***komplikationer***: kan inkluder apne, respiratorisk insuff, respiratorisk failure, och död. Bakteriell superinfektion. 
-* ***torr, wheezy hosta***
-* ***takypne, takykardi***
-* ***subkostal och interkostala recessioner***
-* ***hyperinflation of the chest***
-* ***fina end-inspiratoriska rassel***
-* ***high-pitched wheezes*** - expiratoriska mer än inspiratoriska
-* ***Auskultation, mkt slembiljud***
-* ***desaturation***
-
-
-
-<img src="./imgs/ped_sum_zQMnflOr2I.png" alt="zQMnflOr2I" style="zoom:50%;" />
-
-
-
-***Diagnos***
-
-* ***kliniska diagnos***
-* ***virologisk testning***
-
-
-
-***Utredning och handläggning***
-
-* ***Anamnes***
-* ***Status***
-  * ***saturation: bör tas på alla barn med suspekt bronkiolit.*** 
-  * inga andra ujtredningar rekommenderas
-  * endast vid suspekt respiratorisk svikt: lungröntgen eller  blodgas.
-* ***sjukhusinläggning indicerat om:***
-  * apne (observerad eller rapporerad)
-  * persisterande syrgassaturation under 90%, när andas vanlig luft
-  * inadekvat oral vätskeintag, (50-75% av volym)
-  * svår respiratorisk distress: grunting, marked chest recession, andningsfrekvens över 70
-* ***På sjukhus***
-  * monitoreras för 
 
 
 
 ***Behandling***
 
-* ***Understödjande primärt***: 
-  * **nasal bulb suctioning**, (spädbarn är obligata näsandare, drf viktigt), 
-  * **rehydrering**, 
-  * **syrgas humidifierad** om saturation under 92%. 
-  * **koksalt**
-* ***hand dekontamination (desinfektion)***: för att förhindra spridning av smittan
-* undvik tobakrök exponering
-
-
+* ***Antibiotika***
+  * PcV förstahandsvalaet: peroral behandling (fenoxymetylpenicillin)
+  * // Amoxicillin: bättre smak, längre resoprtion, men kan selektera fram resistenta bakterier.
+  * Erytromycin: mykoplasma, klamydia, och penicillinallergi
+  * när iv antibiotika: 
+    * bensylpenicillin iv.
+    * eller cefotax
 
 
 
@@ -2453,6 +2596,10 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ## Kirurgisk
 
+
+
+
+
 ### Invagination
 
 ***Etiologi och patofysiologi***
@@ -2507,7 +2654,50 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+
+
+### Kräkningar
+
+***Presentation***
+
+* Kräkningar vanligt symptom hos barn, och en vanlig orsak sökorsak. ange 2 kirrugiska orasaker till kräkingar. i vilke nålder desas är vanlgiast förekommande, samt hyur de kliniskt presnterar utöver kräkningar. hur bekräftar dy diagnos och ehandling
+  * Pylorusstenos: upptäcks vanligtvis 2-10v ålder. Projektilkräkningar, barnen äter och har ingen aptit. kan vara dehydrerade. Palperbar oliv i bukstatus, dock ett ovanligt fynd. TODO
+  * Invagination: tarmavsnitt matar sig fram i föreliggande tarm. 2mån-3åå. kan förekommai alla åldrar. typiskt att ungen insjuknar hastight + intervallsmätror. fulminant ileus börjar kräkningarna. Emellan smärtorna är barnet okej. man kan få retinal blödning (rödvinsbärsgele). 
+    * UL buk diagnosticerar invaginationen
+    * BÖS ger svar om det föreligger fri gas och tecken ileus
+    * behandling: reponering mha kolonröntgen. lyckas i ca80% av fallen; misslyckas vidare med operatio. 
+
+
+
+***Etiologi och patofysiologi***
+
+* Mga olika orsaker till att barn kräks
+* Pylorusstenos
+* Duodenal atresi
+* Hirschprung
+* Volvulus
+* Invagination
+* Nec
+* Andra orsaker
+  * ICP, hjärntumör
+
+
+
+
+
 ## Kardi och pulm
+
+### Aningngspåverkan
+
+***Presentation***
+
+* **3 årig pojke som söker pga trötthet och hög feber sedan 4 dagar. Har nu tilltagande andningsbesvär. Nedsatt aptit. I status finner du en trött och lite blek pojke som har ökad andningsfrekvens. Inga indragningar och antydd rassel vid auskultation. Saturation 91%. Du tar ett CRP som är 110, U-sticka som är blank. 2p**
+  * Lunginflammation
+    * pneumokocker
+    * behandling initialt: rehydrering (bedöm vätskesattus), odlingar (blododling, sputumodling), inläggning, syrgas
+    * antibiotika: 
+
+
 
 
 
@@ -2520,6 +2710,8 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * diffusion påverkan
 * ***intrapulmonell shunting***: 
 * ventilation-perfusion mismatch
+
+
 
 
 
@@ -3080,6 +3272,20 @@ Other:
 
 ### Allmänt
 
+### APGAR
+
+***Presentation***
+
+* Förklara APGAR
+  * Till för att bedöma allmänstatus av fostret och vilken handläggning man bör använda, om det exemeplvis är indicerat med att genomföra neo-HLR. med hjälp av APGAR kan man få en snabb beddömning
+  * **Appearance**: 2 poäng, vilken färg ungen har vid födsel
+  * **Pulse**: 2p = >100s/min, 1p = <100/min, 0p ingen puls
+  * **Grimace**: Avvärjer = 2p, grimaserar = 1p
+  * **Aktivitet, aka tonus:** normal = 2p, nedsatt = 1p, slapp = 0p
+  * **Respiration**: regelbunden = 2p, oregelbudnen =1p, 0 = ingen
+
+
+
 #### CTG - kardiotorakografi
 
 * aka cardiothoracography
@@ -3154,6 +3360,21 @@ Other:
 ***Utredning och handläggning***
 
 ***Behandling***
+
+
+
+### Prematura
+
+***Presentation***
+
+* Varför får prematura under 2.5kg vid födsel järnstillskott, och inte fullgångna
+  * Järn försv över fr mamman främst i 3e trimester.
+  * för tidigt födda barn föds med mindre järnförråd än fullgångnan
+  * rekas därför järntillskott hos prematura
+  * anses vara neuroprotektuivt (mekanism?)
+  * ska ej överdoseras, då det kan vara toxiskt
+  * kroppen har inte heller ngt sätt att göra sig av med järn
+  * för mkt järn kan påverka tillvät, leda t ökad risk för infektioner, samt skada hjärnan
 
 
 
@@ -3380,12 +3601,12 @@ Other:
 * **3 år gammal flicka**
   * som du träffar på barnakuten som ej velat gå sedan ett par dagar. Hon var förkyld för ett par veckor sedan. Gott allmäntillstånd. Hon har ingen feber, inga utslag. Hon har en lätt inskränkning vid abduktion i höger höft men i övrigt finner du inget anmärkningsvärt. Ange en sannolik diagnos och vad är ditt nästa steg? 
   * Höftsnuva
-* **En 3 år gammal flicka som du träffar på barnakuten som ej velat gå sedan ett par dagar. Hon var förkyld för ett par veckor sedan. Gott allmäntillstånd. Hon har ingen feber, inga utslag. Hon har en lätt inskränkning vid abduktion i höger höft men i övrigt finner du inget anmärkningsvärt. Ange en sannolik diagnos och vad är ditt nästa steg? 
+* En 3 år gammal flicka som du träffar på barnakuten som ej velat gå sedan ett par dagar. Hon var förkyld för ett par veckor sedan. Gott allmäntillstånd. Hon har ingen feber, inga utslag. Hon har en lätt inskränkning vid abduktion i höger höft men i övrigt finner du inget anmärkningsvärt. Ange en sannolik diagnos och vad är ditt nästa steg? 
   * Coxitis simplex, höftsnuva
   * UL mo oklar diagnos, letar ledutgjutning antydan på inflammation i leden
   * brukar bli bättre inom ngt dygn. 
-  * BEhandling: vila, alvedon, ipren vb vid smärta.
-  * Övrig info om diagnos
+  * Behandling: vila, alvedon, ipren vb vid smärta.
+  * **Övrig info om diagnos**
     * Typisk åldeR: 2-8åå, 
     * haltande ungar
     * ingen feber
@@ -3426,6 +3647,46 @@ Other:
 
 
 
+
+
+## Preliminär bedömning
+
+### Mall för PBD
+
+***Exempel 1***
+
+* 2.5 åå gammal pojke, tidigare recidiverade otiter och förkylningsastma, som söker för 1a ggs kramp. Har feber sedan 2dygn, idag snabbt stigande t 40.5. Storebror sjuk nyligen med influensasymptom. Fyller kriterier för feberkramp. I status noteras AMO, sannolik orsak t feber. CRP förhöjt. Har även virusbild dock låg misstanke om influensa då AT väs ua. Skickas hem med recept på amimox. informerar föräldrar om försämring eller uteblibven förbättring får de söka vård igen. VIktigt att han dricker ordentligt och kissar. 
+
+
+
+### Tentfalll
+
+#### Feberkramp
+
+Johan 1,5 år söker på barnakuten Anamnes Kontaktorsak: Misstänkt kramp Socialt 1:a barnet. Bor hos mamma. Träffar pappa emellanåt. Tidigare sjd: Tidigare frisk Aktuellt: Igår så gick Johan på dagis under dagen och var pigg som vanligt. På kvällen kändes han lite varm. Inga ÖLI tecken. Kom över och sov i mammas säng och på natten satte han sig upp och pratade, somnade om. Efter en stund vaknade mamman av att han lät konstigt då han andades, tog upp honom. Han tittade upp med uppspärrade ögon och kändes spänd och hade symmetriska ryckningar. Duration cirka ngn minut. Var lite trött i anslutning till episoden men kunde titta och prata. Överkänslighet: Ingen känd. Status Allmäntillstånd: Rosig om kinderna. I övr god kontakt. Rätt pigg. Kroppstemperatur: 39,7 °C Munhåla och svalg: Rodnat svalg, inga beläggningar. Öron: Trumhinnorna bilateralt ua. Ytliga lymfkörtlar: Små adeniter palpabla på halsen. Hjärta: Normal rytm, inga blåsljud. Perifera pulsar: Femoralispulsar palperas ua bilateralt. Lungor: Normala andningsljud bilat, inga biljud. Buk: Mjuk, oöm. Inga palpabla patologiska resistenser. Hud: Inga utslag Neuro: God kontakt. Symmetriska rörelser och normal tonus. Normal gång. PBD Skriv på nästa sida 
+
+
+
+***Svar***
+
+1.5åå pojke, tidigare frisk, söker pga misstänkt feberkramp. Inatt varm och mamma noterat pat fått symmetriska ryckningar, och spändhet, duration på 1minut. Ingen tydliga tecken på postiktalitet då litet trött men kunnat prata och titta efter episod hemma. På akuten 39.7 graders feber, rodnat svalg, adeniter palpabla hals, normala andningsljud, och neurologiskt adekvat symmetrisk i rörelse, pratbar, normal gång. Därför misstänkt feberkramp pga tydligt infektionsfokus, febrilitet, gott neurostatus med avsaknad postiktalitet. osannolikhet epilepsi eller meningit pga central infektiös genes inga tydliga diagnostiska tecken (e.g. postiktalitet, fokalitet). Stämmer av med flöde innan hemskick med antipyretika och uppföljning BVC.
+
+
+
+#### Hjärtsvikt
+
+Emma 5 veckor kommer till barnakuten Anamnes Kontaktorsak: Amningsproblem Socialt 2:a barnet till sammanboende föräldrar. Alla friska. Graviditet och nyföddhetsperiod: Normal graviditet. Partus normalis i vecka 39 + 2. Okomplicerat förlopp. Aktuellt: Emma har varit tröttare den senaste veckan och inte orkat amma som vanligt. BVC sjuksköterskan noterar att hon tappar i vikt sedan ett par veckor. Emellanåt så svettas hon vid amning. Nu är hon trött och mamman är orolig att hon inte får i sig tillräckligt med mat. Emma har inga förkylningssymtom och ingen feber. Överkänslighet: Ingen känd. Status Allmäntillstånd: Trött, ej slö. Feberfri. Blek och hypoton. Kroppstemperatur: 36,7 °C Munhåla och svalg: Inspekteras ua. Öron: Trumhinnorna bilateralt ua. Ytliga lymfkörtlar: Inga palpabla på halsen. Hjärta: Normal rytm, Systoliskt blåsljud längs sternum vänster sida. Lungor: Normala andningsljud bilat, inga biljud. Buk: Mjuk, oöm. Leverkant palperas 2cm nedom arcus. Hud: Blek. Inga utslag Neuro: Fontanell palperas ua. Symmetriska rörelser. Gripreflexer i händer och fötter något svaga. Mororeflex ua. Något hypoton. PBD Skriv på nästa sida 
+
+
+
+***Svar***
+
+5v flicka, normal PN 39+4, ingen hereditet, tidigare frisk, söker med misstänkt VSD/hjärtkomplikation + amingsproblematik. Senaste veckorna tröttare + ingen ork för amning + svett vid amning. Har enl BVC sjunkit i vikt senaste veckorna. Enl status inga tecken infektion, förkylning eller ÖLI. Vid hjärtauskultation vänstersidiga blåsljud. Lever palpabel 2cm nedom arcus. Gripreflexer svaga. Övrig spädbarnstatus ej påverkat. Enl anamnes + status misstänkt hjärtsvikt (e.g. signifikant VSD med förhöjd pulmonal resistens och nu högersidig svikt). NG-sond på akuten. Saturation preduktalt, postduktalt.  Läggs in BAVA för rehydrering enl PM (5% kroppsvikt 4h, RA), sondmatning (ersättning 4kg = 600mL 24h), återfödning, PEWS 4. viktkontroller, dygngsdiures. Kontakt barnkardiolog jour + barnneurologjour gällande fortsatt handläggning på avdelning. Avstämning med flöde gällande bedömning. 
+
+
+
+
+
 ## Professionell Utveckling
 
 ### Anamnes
@@ -3440,6 +3701,12 @@ Other:
 ***Utredning***
 
 * HEADS: Home, education, activities, drugs, sex
+
+
+
+
+
+
 
 
 

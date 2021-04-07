@@ -790,7 +790,7 @@ Om man missar kan hela tarmpaketet gå i nekros! Viktigt att upptäcka.
 
 
 
-### Fall 7
+### Fall 7 - NEC
 
 1. Signe föddes vid 24 veckors gestationsålder. Hon är nu två veckor och har sista dygnet blivit alltmer spänd i buken. Hon tolererar inte de små mängder mat man försöker ge henne. 
 
@@ -845,7 +845,7 @@ NEC ser man till stor del hos prematura. Fullgångna kan också få det. Börjar
 
 
 
-### Fall 8
+### Fall 8 - esofagusatresi
 
 
 
@@ -867,9 +867,11 @@ Har man long gap atresi kan man behöva vänta innan man opererar (man sluter fi
 
 
 
-### Fall 9
+### Fall 9 - 
 
 1. Gustav och Hanna väntar barn. Vid ultraljudskontroll ligger delar av tarmen utanför bukhålan. På hemortssjukhuset har man sagt att det är ett bukväggsbråck.
+
+
 
 Bukväggsbråck, 2 typer: 
 

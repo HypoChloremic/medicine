@@ -26,305 +26,6 @@
 
 
 
-### Barnets tillväxt
-
-#### Drivfaktorer under tillväxt
-
-* ***Fetalt***: 30% av adult längd
-  * **uterin miljö**: är drivande för den längden
-* ***Spädbarnsfasen***: 15% av adult längd, representeras under denna fas
-  * **Nutrition**
-  * **Bra hälsa och glädje**
-  * **Thyroidea hormon**
-* ***Barndomen***: 40% av den adulta längden
-  * **genetik**
-  * **bra hälsa och glädje**
-  * **tillväxthormon**, Growth Hormone (GH)
-  * **Thyroidea hormon**
-* ***Pubertet***: 15% av adult längd
-  * **testosteron och östrogen**
-  * **tillväxthormon**, GH
-* ***Könsskillnader***: vuxna män är längre än kvinnor, för att de har en längre barndomsfas + högre peak hastighet tilläxt + tillväxten hävs senare
-
-<img src="./imgs/pedsum_mOWEJiY3vy.png" alt="mOWEJiY3vy" style="zoom: 50%;" />
-
-***Fetalt***
-
-* Snabbaste tillväxtperioden. 
-* Determinerar 30% av den eventuella slutlängden som vuxne
-
-
-
-***Storlek vid födsel***
-
-* **Påverkas av flera faktorer**
-* **mammas storlek**
-* **placental nutrient supply**: Modulerar fetala tillväxtfaktorer
-  * IGF-2
-  * Human placental lactogen 
-  * insulin
-* ***påverkas ej av***: storlek vid födsel är *oberoende* av pappans längd + tillväxthormon (GH)
-* ***Långt gående konsekvenser***: låg storlek vid födsel har en högre sannolikhet för barnet att utveckla obesitas senare i livet. 
-
-
-
-#### Vikt
-
-* ***Spädbarnsåren***: 150-175g/v
-* ***quadrupled weight***: efter 2.5 år...
-
-
-
-#### ***!!! Endokrinologiskt***
-
-* **fosterfasen**: Insulin kortison.  
-* **spädbarnsfas**: IGF-1, tyrodieahormon, insulin, kortison. 
-* **barndomsfas**: tillväxthormon ( from 1,5åå), senare androgener (. From 7åå).  
-* **Pubertetsfas**: könshormoner.
-* I enlighet med olika åldrar
-  * 3 månader, IGF-1, insulin, thyroideahormon, kortisol.  
-  * 4 år, Barndomsfasen: Tillväxthormon 
-  * 12år,  Pubertetsfas: könshormone
-
-
-
-
-
-### Barnets utveckling
-
-**Det förekommer fyra fält som man attribuerar till barnutvecklingen:** 
-
-* Motoriskt, 
-* syn, finmotoriskt
-* hörsel, tal, språk
-* Socialt, emotionellt, beteenderelaterat
-
-
-
-***Konstant mönster men olika takt***
-
-* ***Konstant mönster***: det är ett ganska så konstant mönster som barn följer när de utvecklas
-* ***Sker i olika takt***: men detta kan ske i olika takt. 
-* ***Därför, ska man relatera utvecklingen med vad som skett tidigare***: för att bedömma utvecklignen korrekt ska man därför "relate each tage to what has gone before and what lies ahead". 
-
-***Brister i ett område påverkar andra***
-
-* Om ett barn brister inom ett visst område kan detta påverka andra områden i utvecklingen också. 
-* ***Äldre, andra funktioner börjar bli relevanta***: att tex social funktion och kapabilitet att fokusera kommer att bidra till vidareutvecklingen. 
-
-
-
-#### Milstenar
-
-Det finns ett antal olika milstenar utvecklingsmässigt:
-
-* ***Median åldern***: åldern då hälften av standard populationen av barnen uppnår en nivå. Agerar guide för att veta hur långt ett barn bör ha kommit utvecklingsmässigt.
-  * Men berättar inte om barnet är utanför normala vrange
-* ***Gränsåldrar, limit ages:*** åldern som utvecklingsrelaterade milstenen bör ha passerats. 
-  * Vanligtvis, ***2 SD (standard deviationer)*** från medelvärdet. 
-  * Hjälper till att guide action.
-
-
-
-#### När man evaluerar utv
-
-Flera faktorer måste beaktas
-
-* Varje skill separat
-* sekvens av utvecklingsprogress
-* stadiet barnet uppnått för varje skill field
-* om progressen är likt för varje skill field
-* i slutet: barnets overall utvecklings profil, och hur det relaterar till barnets ålder
-
-#### Motoriskt
-
-**Motorisk utveckling sker som snabbast det första levnadsåret.** 
-
-* ***De första stegen***
-  * 25% vid 11 månader
-  * 50% vid 12 månader,
-  * 75% vid 13 månader
-  * 90% vid 15 mpnader
-  * 97.5% vid 18 månader
-  * ***median***: 12 månader, agerar guide för vanligt mönster att förvänta sig. 
-  * ***Gränsåldern***: är 18 månader.
-  * ***om ej uppnådd efter detta misstänk:***
-    *  cerebral pares (cerebral palsy, CP), 
-    *  psykosocialt: understimulering socialt, social deprivation
-  * ***Motorisk mönster***: det finns olika sätt att ta sig upp p ben, fr krälgång, crawling, till att man direkt ställer sig upp o går
-    * det som determinerar tiden, som mest, är om barnet hasar först, då brukar det ta längre tid. 
-* ***Cefalocaudalt mönster, cephalocaudal pattern***
-  * motorisk utv sker i cefalocaudal riktning. 
-  * relateras med ***mognad av nervsystemet*** + ***myelinering***
-  * ***Myelineringen, snabbast 2 första åren***: sker som snabbast två levnadsåret, vilket förklarar den snabba motoriska utvecklingen. 
-  * ***Därefter***: sker myelineringen långsammare, ***e.g. frontalloberna**
-* ***Prematuritet, korrigering***
-  * prematurt barn fött 3 månader tidigt (28 veckors gestation), når ålder 9 månader, ska ligga 6 månader utvecklingsmässigt
-  * ***slutar korrigera***: efter 2a levnadsåret, för
-
-
-
-***Officiella stegen (median åldrarna)***
-
-* **Nyfödd**: Extremiteter flekterade, symmetrisk pos: Nyfödd
-* **Nyfödd**: "marked head lag on pulling up": nyfödd
-* **6-8 v (2mån):** Reser huvet ovan 45 grader, i prone position (liggande på mage)
-* **6-8 mån:** sitter utan stöd
-  * **6 månader:** rund rygg
-  * **8 månader:** rak rygg
-* **8-9 mån:** crawling, kryper
-* **10 mån:** står oberoende (tar hj av möbler), cruises runt möbler
-* **12 mån:** går ostadigt, bred gång (gait), händer apart
-* **15 mån:** går stadigt
-
-
-
-***Gränsåldrarna***
-
-* **Huvudkontroll:** 4 mån
-* **Sitter utan stöd**: 9 mån
-* **står med stöd**: 12 mån
-* **går självständigt**: 18 mån
-
-
-
-#### Reflexmässigt
-
-***Primitiva reflexer***
-
-* ***Moro***: plötslig extension huvud ***ORSAKAR*** symmetrisk ***extension sedan flektion (flexion)*** armar 
-  * borta vid 4-5mån postnatalt. ofullständig vid v28, 
-* ***Gripreflexen***: (handgrip) flexion fingrar, när objekt placeras palmart
-  * svag v34, bort 4-5 mån
-* ***Tåreflexen:*** tårna flekterar när man trycker palmart, försvinner sist av de primitiva reflexerna
-  * svag v34, borta 9-15mån
-* ***Asymmetrisk tonisk nack reflex***: (ATNR) liggande supint, spädbarnet får ***utsträckt arm t den sidan huvudet är vänt*** (antar att armen byter sida när barnet vrider huvudet)
-  * tydligast vid 2-3 mån ålder, borta 6mån
-* ***Sugreflexen***: barnet suger, när får teat i munnen (automatisk födnings aktion)
-  * svag v28, borta 4-6mån
-* ***Rooting***: huvud vänds mot stimulus, när rör nära munnen
-* ***Stepping response***: rör på fötterna (stepping movements) när man håller barnet vertikalt och dorsum av fötterna rör yta
-
-
-
-***Posturala reflexer***
-
-* ***Labyrinthine righting:*** huvudet rör sig motsatt riktning som kroppen är vänd
-* ***Postural support***: när hålls upprätt, benen tar vikt och barnet pushar ifrån (bounce)
-* ***lateral propping***: när barnet sitter, armarna extenderande till sidan barnet faller, som saving mekanism
-* ***parachute***: när suspenderas ansikte nedåt, extenderas armar som för att rädda sig sj
-
-
-
-
-
-#### Syn och finmotoriskt
-
-***Medianåldrarna***
-
-Stadiemässigt flera saker man ser hos barnet. Följande är ***median åldrarna***
-
-* ***6 veckor:*** följer objekt som rör sig eller ansikte, genom att vända på huvudet
-* ***4 mån:***  sträcker sig efter leksaker
-* ***4-6 mån***: palmart grepp (palmar grasp)
-* ***7 mån:*** överför leksak fr en sida till en annan sida
-* ***10 mån***: mogen pincett grepp
-* ***16-18 mån*** gör markeringar med krita
-* ***14mån-4år***: bygga med klossar
-  * ***18 mån:*** torn med tre klossar
-  * ***2 år:*** torn med sex klossar
-  * ***2.5år:*** torn med åtta klossar, eller ett tåg med fyra klossar (tre klossar avlångt, sen sista klossen två vertikalt)
-  * ***3år:***  bro enl modell,
-  * ***4år:*** trappsteg (steps), efter demonstration
-* ***2-5år:***  rita specifika geometriska former
-  * **2år** linje
-  * **3år** cirkel
-  * **3.5år** kors
-  * **4år** kvadrat
-  * **5år** triangel
-
-
-
-***Gränsåldrarna***
-
-* **FIxerar och följer visuellt**: 3 mån
-* **sträcker efter objekt**: 36 mån
-* **överför saker händerna**: 9 mån
-* **pincett-grepp**: 12 mån
-
-
-
-#### Hörsel, tal, språk
-
-***medianåldrarna***
-
-Stadiemässigt vad gäller hörsel, tral, språk hos barn, medianåldrarn
-
-* **nyfödd** "startles to loud noises"
-* **3-4 mån** vokaliserar ensam eller när man pratar med barnet, coos and laughs
-* **7 mån** vänder sig till ljud utanför synfält
-* **7-10 mån**: generera ljud
-  * **7 mån** skapar ljud indiscriminately
-  * **10 mån** skapar ljud discriminately mot mamma och pappa
-* **12 mån** 2-3 fler ord än "dada/mama"
-* **18 mån** 6-10 ord, visar delar av kroppen ("where is your nose")
-* **20-24 mån** förenar 2 el fler ord, för att skapa små fraser ("give me teddy")
-* **2.5år-3år** pratar konstant i 3-4 ords meningar
-
-
-
-***Gränsåldrarna***
-
-* **Polysyllables babble**: 7 mån
-* **konsonant babble**: 10 mån
-* **säger 6 ord med mening**: 18 mån
-* förenar ord (i mening?): 2 år
-* 3-ord meningar: 2.5 år
-
-#### Socialt, emotionellt, beteenderelaterat
-
-***Medianåldrarna***
-
-Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, medianåldrarna
-
-* **6 veckor:** ler responsivt
-* **6-8 mån** sätter mat i munnen
-* **10-12 mån** vinkar bye-bye, spelar pek-a-bo
-* **12 mån** dricker fr glas med två händer
-* **18 mån** håller sked, sätter mat säkert till munnen
-* **18-24 mån** symboliskt leka (e.g. matar leksaker etc)
-* **2 år** kan vara torr (kissar inte) under dagen, drar av några kldäder (inför att kissa potta?)
-* **2.5-3år** parallelt leka, interakivt leka evolverar, tar tur
-
-
-
-***Gränsåldrarna och sekvens***
-
-* mönster för nedan -> [socialt beteende: gränsåldern]
-* Ler: 8v
-* Rädsla främlingar: 10 månader
-* matar själv, via sked: 18 månader
-* symboliskt leka: 2-2.5år
-* interaktiv leka: 3-3.5år
-
-
-
-
-
-#### Sammanfatt
-
-<img src="./imgs/pedsum_L5rU1lbCzE.png" alt="L5rU1lbCzE" style="zoom:80%;" />
-
-
-
-<img src="./imgs/ped_sum_o02X36gngf.png" alt="o02X36gngf" style="zoom: 67%;" />
-
-
-
-
-
-
-
 
 
 ### Förstorad huvudomfång
@@ -575,83 +276,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 <img src="./imgs/pedsum_t7u9axJ1mD.png" alt="t7u9axJ1mD" style="zoom:80%;" />
 
 
-
-
-
-### Tillväxtkurvor
-
-
-
-***Hormonellt***
-
-<img src="./imgs/ped_sam_till_0Nbo7ybf32.png" alt="0Nbo7ybf32" style="zoom:50%;" />
-
-
-
-* notera att tillväxthormon menar man IGF1 när man screenar (det medräknar GH och IGF); för att GH varierar så mkt över tid mäter man IGF1 istället. 
-* Har man normalt IGF1 har man ingen GH-brist
-* GH och IGF1 är sammankopplade ska man notera. man använder inte GH för att prvota. 
-* GH är by itself drivande för att generera tillväxten, men finns assistans. 
-
-
-
-***Viktmässigt***
-
-* Tredubbling vikt första året. 
-
-
-
-***Kurva 0-2åå***
-
-* Fortsättning intrauterin tillväxt
-
-
-
-***Kurva 2-7åå***
-
-* barnet växer ca 5-6cm/år
-* tillväxten ffa beroende på GH: därför faller man ut vad gäller GH brist i denna fast, ibland tidigare
-* man pratar om slanka barndomsfasen
-* minskad fettmassa, BMI sjunker
-* Det är många barn som hoppar över den slanka barndomsfasen tyvärr, dessa ska man identifiera så tidigt man kan.
-* // notera ingen överburen korrigerar man
-
-
-
-***Speciella kurvor***
-
-* Prematurkurvor: ålderskorrigering upp t 2åå
-  * denna korrigerin kommer att mötas efter en liten period
-  * kan ske en längd och viktcatchup. 
-* Downs syndrom barnen: är kortare
-* Turners syndrom: har en Turner kurvva
-* skelettdysplasier: man kan kolla på deras sitthöjd, då de har korta ben etc.....
-
-
-
-***Tillväxt barn jfr med normalkurvan (SD)***
-
-* Tillväxt barn jfr med SD är när man jämför med normalen
-* Notera att normalen baseras på studier fr 70-talets Sverige. Har man ej korrigerat för d då?
-
-
-
-***Target height***
-
-* flicka: $\frac{M_{längd} + P_{längd}}{2} - 6.5cm$
-* pojke: $\frac{M_{längd} + P_{längd}}{2} + 6.5cm$
-* ***98% växer inom $+-1.5SD$ fr TH (target height)***
-* Längden anges i SD jrf med normalkurvan och TH. 
-* Har man väldigt olika långa i SD föräldrars längder skiljer sig kommer att få barn som varierar mycket i längd-
-
-
-
-***Systematisk tolkning tillväxtkurvor***
-
-* Grundförutsättning
-  * fullständigt kurva med korrekta mätuppgifter
-* ***Tillväxthastighet:*** normal för ålder? kanalföljare
-* ***Relation mellan längdo ch vikt*** vad faller först
 
 
 
@@ -2361,6 +1985,56 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Petekier
+
+***Presentation***
+
+* Pelle 3 år var förkyld för några veckor sedan men har mått bra och gått på dagis sedan dess. Söker nu med sin pappa på barnakuten då han har fått petekier på kroppen, annars mår han bra. I status finner du endast små utslag generellt på kroppen som inte går att trycka bort. Du misstänker ITP (Idiopatisk trombocytopen purpura/Immuntrombocytopeni). Det finns fler tillstånd när barn får petekier.
+  * nämn 2 tilltånd utöver ITP som kan ge petekier
+    * Sepsis
+    * leukemi
+    * HSP
+    * TTP ?
+    * HUS?
+    * läkemedelsinducerad reaktion (vilken?)
+  * beskriv med 1 ord ellr2 grundläggande orsaken bakom dessa 3 tillstånd
+    * Sepsis = kapillärläackate
+    * ITP = antikroppar mot trombocyterna
+    * leukemi = minskad produktinio
+    * HSP = mikroinfarkteR? 
+
+
+
+***Etiologi och patofysiologi***
+
+* **Blödning in i dermis**
+* Påverkan därför av hemostasen resulterar i att petchier sker med olika kliniska kännetecken
+* primära patofysiologin t petekier och purpura
+  * trombocytopen
+  * trombocyt dysfunktion
+  * påverkad koagulation
+  * förlust vakulär integritete
+
+
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+* Försvinner inte efter tryck
+
+
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
+
+
 ### Sfärocytos
 
 ***Etiologi och patofysiologi***
@@ -3309,6 +2983,31 @@ Other:
 
 
 
+### Feberkramp
+
+***Presentation***
+
+* En 7 år gammal pojke kommer in till akutrummet på barnakuten pga generaliserade symmetriska kramper. Han har haft 40C feber i ca 3 dagar. Ingen annan är sjuk i familjen. När du träffar honom har han slutat krampa. Han är medvetandepåverkad men väckbar vid smärtstimuli. I status noterar du att han har takypné, takykardi, saturation 91 %, kapilläråterfyllnad 4s och nackstyvhet.'
+  * Initiala handläggning punktform, kronologiskt
+    * Ringer efter narkos + senio kollega
+    * Handläggning enl ABCDE
+      * A: stabilisera luftvägarna, kontrollera fri och att pat kan hålla de fria, åtgärda därefter; inspiratoriska eller expiratoriska stridor
+      * B: Lyssna lungor, saturation, andningsrörelser, (CRP?); antydningar obstruktivitet, indragningar, asymmetrier
+        * Koppla syrgas främst om ingen obstruktivitet föreligger. Föreligger obstruktivitet adminstrering ventoline.
+      * C: Capillart refill time, pulsar, EKG, hjärt auskultatuin, blodtryck
+        * PVK insättning samband med detta, prover. Blodgas, blodstatus, med diff, kapillärt-CRP
+        * PKINR, APT, blododling, KAD sättnnig + U-sticka, NPH
+        * Bolus RA 20mL/kg, så fort som ärlet tillåter, utvärdera kaprefil.l. 
+        * nackstyvhet + kramp, samt sänkt edvetande koppling antibiotika på meningitmisstanke: Cefotaxim + aciklovir + steroider
+      * D: AVPU, postiktal, sker det ng förändring; glukosmätning
+      * E: hudkostym: septiska embolier, petekier, blåm,ärken, varm, kall
+    * LP undersökning
+    * Antibiotika:
+      * barn <3måpn ges ampicillin + cefotaxim
+      * barn >3mån ges steroider + cefotaxim
+    * Vad måste du utesluta och hur gör du det: meningit + LP
+    * Vila två agens är mest sannolika: Pneumokocker + meningokocker
+
 ### Tumör
 
 ***Presentation***
@@ -3324,6 +3023,56 @@ Other:
 
 * Benign barnepilepsi - eller Rolandisk epilepsi - är en vanlig epilepsiform med god prognos. Vilken beskrivning stämmer bäst överens med diagnosen?
   * Drabbar barn från 3-13 års ålder, anfall ofta nattetid, typiska centro temporala spikes och sharp-waves på EEG
+
+
+
+
+
+### West syndrome
+
+***Presentation***
+
+* **Lisa 3 mån kommer till barnakutmott via remiss från BVC. Fadern har noterat att Lisa sedan någon vecka rycker till flera gånger per dag. Plötsligt stirrar flickan till, rycker till med huvudet och rycker därefter med både armar och ben uppåt. Hon förlorar inte medvetandet i samband med episoderna. Hon kan ännu inte lyfta huvudet bra i bukläge och ger ännu inget riktigt bra svarsleende. I övrigt tycker du att status är normalt. Hon har följt sin vikt och längd kurva på BVC. Då du utför status ser du några liknande episoder som beskrivs ovan.** 
+  * Vad rör sig sannolikt om för tillstånd
+    * West syndrome
+  * Vad bör du göra med flickan
+    * ge pyrodoxinhydroklorid på akuten
+  * Vilken undersökning akut, och frågeställnnig
+    * sömn EEG, frågeställning hypsarrytmi, omgående MR, inled behandling omgående
+* Du är BVC-läkare och SSK har bokat in ett extrabesök. Ulla 6 mån som sedan ungefär 10 dagar drar ihop sig i attacker som upprepas flera gånger efter varandra och sedan är det paus ett par timmar. Ulla blir ledsen och gråter. Hon har stannat upp i sin utveckling. 
+  * Det såg ut som att barnet fick moro-reflexer men läkar förklara att det är infantila spasmer, där hon blir ledsen efter dem. 
+  * Diffar: infantila spasmer + West syndrom (symptomtriad som inkluderar spasmer)
+  * Handläggning akut
+    * Skicka till akuten? 
+    * Ganska omgående EEG, MR och inledning av beh. 
+    * Ska göras inom ett par dagar. 
+    * ska direkt skickas till akuten, för att man ska utreda det akut. 
+    * EEG: akut ska göras, 
+    * MR: 2-4 veckor, 1 månad, för att humm vad det beror på
+    * neurometabol skreening, genetisk utredning. 
+    * EEG ska visa hyxarrytmi: ser ut som kaos och jättehöga amplituder. 200-300mikro Volt, vanligtvis runt 50 mikrovolt. 
+    * West syndrom: EEG karak i.e. hyxmönster + avstannad utveckling + infantila spasmer = West syndro
+
+***Diagnos***
+
+* Tre diagnoskriterier
+  * Hyxmönster + avstannad utveckling + infantila spasmer
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
+
+
+
 
 
 
@@ -3493,6 +3242,18 @@ Other:
 
 
 
+***Presentation***
+
+* **En 11 år gammal pojke söker dig på vårdcentralen pga allmän sjukdomskänsla sedan ett par veckor. Han är frisk sedan tidigare bortsett från en förkylning som han hade för ca en månad sedan. Han har ingen feber och inga förkylningssymtom i nuläget. Mamman tycker att han ser lite svullen ut kring ögonen bilateralt symmetriskt vilket du också noterar. Du mäter blodtrycket som är något förhöjt för åldern.** 
+  * Snabbt prov hjälpa närmae diagnos,, vad förväntas om hypotes  rätt: U-sticka, hematuri
+  * Utifrån svar, fortsatt handläggning: om misstänker nefrit, skicka patienten t akuten och sjukhus
+  * Två tillstånd tänkbara i detta fall, och hur skilja åt
+    * Postinfektiös glomerulonefrit: komplementdeponering efter biopsi, GAS odling, serologi för GAS
+    * IgA-nefrit: IgA komplex deponering i biopsi glomeruli 
+    * TODO
+
+
+
 **Kliniska kännetecken**
 
 * **Hematuri**
@@ -3619,6 +3380,19 @@ Other:
 * **3 år gammal flicka**
   * som du träffar på barnakuten som ej velat gå sedan ett par dagar. Hon var förkyld för ett par veckor sedan. Gott allmäntillstånd. Hon har ingen feber, inga utslag. Hon har en lätt inskränkning vid abduktion i höger höft men i övrigt finner du inget anmärkningsvärt. Ange en sannolik diagnos och vad är ditt nästa steg? 
   * Höftsnuva
+* **En 3 år gammal flicka som du träffar på barnakuten som ej velat gå sedan ett par dagar. Hon var förkyld för ett par veckor sedan. Gott allmäntillstånd. Hon har ingen feber, inga utslag. Hon har en lätt inskränkning vid abduktion i höger höft men i övrigt finner du inget anmärkningsvärt. Ange en sannolik diagnos och vad är ditt nästa steg? 
+  * Coxitis simplex, höftsnuva
+  * UL mo oklar diagnos, letar ledutgjutning antydan på inflammation i leden
+  * brukar bli bättre inom ngt dygn. 
+  * BEhandling: vila, alvedon, ipren vb vid smärta.
+  * Övrig info om diagnos
+    * Typisk åldeR: 2-8åå, 
+    * haltande ungar
+    * ingen feber
+    * ingen crp
+    * haltar smäörtpåverkad, 
+    * men inte sjuka
+    * normal rtg, ekofri synoivt på UL
 
 
 
@@ -3882,6 +3656,309 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 
 ## Utveckling
 
+### Barnets tillväxt
+
+#### Drivfaktorer under tillväxt
+
+* ***Fetalt***: 30% av adult längd
+  * **uterin miljö**: är drivande för den längden
+* ***Spädbarnsfasen***: 15% av adult längd, representeras under denna fas
+  * **Nutrition**
+  * **Bra hälsa och glädje**
+  * **Thyroidea hormon**
+* ***Barndomen***: 40% av den adulta längden
+  * **genetik**
+  * **bra hälsa och glädje**
+  * **tillväxthormon**, Growth Hormone (GH)
+  * **Thyroidea hormon**
+* ***Pubertet***: 15% av adult längd
+  * **testosteron och östrogen**
+  * **tillväxthormon**, GH
+* ***Könsskillnader***: vuxna män är längre än kvinnor, för att de har en längre barndomsfas + högre peak hastighet tilläxt + tillväxten hävs senare
+
+<img src="./imgs/pedsum_mOWEJiY3vy.png" alt="mOWEJiY3vy" style="zoom: 50%;" />
+
+***Fetalt***
+
+* Snabbaste tillväxtperioden. 
+* Determinerar 30% av den eventuella slutlängden som vuxne
+
+
+
+***Storlek vid födsel***
+
+* **Påverkas av flera faktorer**
+* **mammas storlek**
+* **placental nutrient supply**: Modulerar fetala tillväxtfaktorer
+  * IGF-2
+  * Human placental lactogen 
+  * insulin
+* ***påverkas ej av***: storlek vid födsel är *oberoende* av pappans längd + tillväxthormon (GH)
+* ***Långt gående konsekvenser***: låg storlek vid födsel har en högre sannolikhet för barnet att utveckla obesitas senare i livet. 
+
+
+
+#### Vikt
+
+* ***Spädbarnsåren***: 150-175g/v
+* ***quadrupled weight***: efter 2.5 år...
+
+
+
+#### ***!!! Endokrinologiskt***
+
+* **fosterfasen**: Insulin kortison.  
+* **spädbarnsfas**: IGF-1, tyrodieahormon, insulin, kortison. 
+* **barndomsfas**: tillväxthormon ( from 1,5åå), senare androgener (. From 7åå).  
+* **Pubertetsfas**: könshormoner.
+* I enlighet med olika åldrar
+  * 3 månader, IGF-1, insulin, thyroideahormon, kortisol.  
+  * 4 år, Barndomsfasen: Tillväxthormon 
+  * 12år,  Pubertetsfas: könshormone
+
+
+
+
+
+### Barnets utveckling
+
+**Det förekommer fyra fält som man attribuerar till barnutvecklingen:** 
+
+* Motoriskt, 
+* syn, finmotoriskt
+* hörsel, tal, språk
+* Socialt, emotionellt, beteenderelaterat
+
+
+
+***Konstant mönster men olika takt***
+
+* ***Konstant mönster***: det är ett ganska så konstant mönster som barn följer när de utvecklas
+* ***Sker i olika takt***: men detta kan ske i olika takt. 
+* ***Därför, ska man relatera utvecklingen med vad som skett tidigare***: för att bedömma utvecklignen korrekt ska man därför "relate each tage to what has gone before and what lies ahead". 
+
+***Brister i ett område påverkar andra***
+
+* Om ett barn brister inom ett visst område kan detta påverka andra områden i utvecklingen också. 
+* ***Äldre, andra funktioner börjar bli relevanta***: att tex social funktion och kapabilitet att fokusera kommer att bidra till vidareutvecklingen. 
+
+
+
+#### Milstenar
+
+Det finns ett antal olika milstenar utvecklingsmässigt:
+
+* ***Median åldern***: åldern då hälften av standard populationen av barnen uppnår en nivå. Agerar guide för att veta hur långt ett barn bör ha kommit utvecklingsmässigt.
+  * Men berättar inte om barnet är utanför normala vrange
+* ***Gränsåldrar, limit ages:*** åldern som utvecklingsrelaterade milstenen bör ha passerats. 
+  * Vanligtvis, ***2 SD (standard deviationer)*** från medelvärdet. 
+  * Hjälper till att guide action.
+
+
+
+#### När man evaluerar utv
+
+Flera faktorer måste beaktas
+
+* Varje skill separat
+* sekvens av utvecklingsprogress
+* stadiet barnet uppnått för varje skill field
+* om progressen är likt för varje skill field
+* i slutet: barnets overall utvecklings profil, och hur det relaterar till barnets ålder
+
+#### Motoriskt
+
+**Motorisk utveckling sker som snabbast det första levnadsåret.** 
+
+* ***De första stegen***
+  * 25% vid 11 månader
+  * 50% vid 12 månader,
+  * 75% vid 13 månader
+  * 90% vid 15 mpnader
+  * 97.5% vid 18 månader
+  * ***median***: 12 månader, agerar guide för vanligt mönster att förvänta sig. 
+  * ***Gränsåldern***: är 18 månader.
+  * ***om ej uppnådd efter detta misstänk:***
+    *  cerebral pares (cerebral palsy, CP), 
+    *  psykosocialt: understimulering socialt, social deprivation
+  * ***Motorisk mönster***: det finns olika sätt att ta sig upp p ben, fr krälgång, crawling, till att man direkt ställer sig upp o går
+    * det som determinerar tiden, som mest, är om barnet hasar först, då brukar det ta längre tid. 
+* ***Cefalocaudalt mönster, cephalocaudal pattern***
+  * motorisk utv sker i cefalocaudal riktning. 
+  * relateras med ***mognad av nervsystemet*** + ***myelinering***
+  * ***Myelineringen, snabbast 2 första åren***: sker som snabbast två levnadsåret, vilket förklarar den snabba motoriska utvecklingen. 
+  * ***Därefter***: sker myelineringen långsammare, ***e.g. frontalloberna**
+* ***Prematuritet, korrigering***
+  * prematurt barn fött 3 månader tidigt (28 veckors gestation), når ålder 9 månader, ska ligga 6 månader utvecklingsmässigt
+  * ***slutar korrigera***: efter 2a levnadsåret, för
+
+
+
+***Officiella stegen (median åldrarna)***
+
+* **Nyfödd**: Extremiteter flekterade, symmetrisk pos: Nyfödd
+* **Nyfödd**: "marked head lag on pulling up": nyfödd
+* **6-8 v (2mån):** Reser huvet ovan 45 grader, i prone position (liggande på mage)
+* **6-8 mån:** sitter utan stöd
+  * **6 månader:** rund rygg
+  * **8 månader:** rak rygg
+* **8-9 mån:** crawling, kryper
+* **10 mån:** står oberoende (tar hj av möbler), cruises runt möbler
+* **12 mån:** går ostadigt, bred gång (gait), händer apart
+* **15 mån:** går stadigt
+
+
+
+***Gränsåldrarna***
+
+* **Huvudkontroll:** 4 mån
+* **Sitter utan stöd**: 9 mån
+* **står med stöd**: 12 mån
+* **går självständigt**: 18 mån
+
+
+
+#### Reflexmässigt
+
+***Primitiva reflexer***
+
+* ***Moro***: plötslig extension huvud ***ORSAKAR*** symmetrisk ***extension sedan flektion (flexion)*** armar 
+  * borta vid 4-5mån postnatalt. ofullständig vid v28, 
+* ***Gripreflexen***: (handgrip) flexion fingrar, när objekt placeras palmart
+  * svag v34, bort 4-5 mån
+* ***Tåreflexen:*** tårna flekterar när man trycker palmart, försvinner sist av de primitiva reflexerna
+  * svag v34, borta 9-15mån
+* ***Asymmetrisk tonisk nack reflex***: (ATNR) liggande supint, spädbarnet får ***utsträckt arm t den sidan huvudet är vänt*** (antar att armen byter sida när barnet vrider huvudet)
+  * tydligast vid 2-3 mån ålder, borta 6mån
+* ***Sugreflexen***: barnet suger, när får teat i munnen (automatisk födnings aktion)
+  * svag v28, borta 4-6mån
+* ***Rooting***: huvud vänds mot stimulus, när rör nära munnen
+* ***Stepping response***: rör på fötterna (stepping movements) när man håller barnet vertikalt och dorsum av fötterna rör yta
+
+
+
+***Posturala reflexer***
+
+* ***Labyrinthine righting:*** huvudet rör sig motsatt riktning som kroppen är vänd
+* ***Postural support***: när hålls upprätt, benen tar vikt och barnet pushar ifrån (bounce)
+* ***lateral propping***: när barnet sitter, armarna extenderande till sidan barnet faller, som saving mekanism
+* ***parachute***: när suspenderas ansikte nedåt, extenderas armar som för att rädda sig sj
+
+
+
+
+
+#### Syn och finmotoriskt
+
+***Medianåldrarna***
+
+Stadiemässigt flera saker man ser hos barnet. Följande är ***median åldrarna***
+
+* ***6 veckor:*** följer objekt som rör sig eller ansikte, genom att vända på huvudet
+* ***4 mån:***  sträcker sig efter leksaker
+* ***4-6 mån***: palmart grepp (palmar grasp)
+* ***7 mån:*** överför leksak fr en sida till en annan sida
+* ***10 mån***: mogen pincett grepp
+* ***16-18 mån*** gör markeringar med krita
+* ***14mån-4år***: bygga med klossar
+  * ***18 mån:*** torn med tre klossar
+  * ***2 år:*** torn med sex klossar
+  * ***2.5år:*** torn med åtta klossar, eller ett tåg med fyra klossar (tre klossar avlångt, sen sista klossen två vertikalt)
+  * ***3år:***  bro enl modell,
+  * ***4år:*** trappsteg (steps), efter demonstration
+* ***2-5år:***  rita specifika geometriska former
+  * **2år** linje
+  * **3år** cirkel
+  * **3.5år** kors
+  * **4år** kvadrat
+  * **5år** triangel
+
+
+
+***Gränsåldrarna***
+
+* **FIxerar och följer visuellt**: 3 mån
+* **sträcker efter objekt**: 36 mån
+* **överför saker händerna**: 9 mån
+* **pincett-grepp**: 12 mån
+
+
+
+#### Hörsel, tal, språk
+
+***medianåldrarna***
+
+Stadiemässigt vad gäller hörsel, tral, språk hos barn, medianåldrarn
+
+* **nyfödd** "startles to loud noises"
+* **3-4 mån** vokaliserar ensam eller när man pratar med barnet, coos and laughs
+* **7 mån** vänder sig till ljud utanför synfält
+* **7-10 mån**: generera ljud
+  * **7 mån** skapar ljud indiscriminately
+  * **10 mån** skapar ljud discriminately mot mamma och pappa
+* **12 mån** 2-3 fler ord än "dada/mama"
+* **18 mån** 6-10 ord, visar delar av kroppen ("where is your nose")
+* **20-24 mån** förenar 2 el fler ord, för att skapa små fraser ("give me teddy")
+* **2.5år-3år** pratar konstant i 3-4 ords meningar
+
+
+
+***Gränsåldrarna***
+
+* **Polysyllables babble**: 7 mån
+* **konsonant babble**: 10 mån
+* **säger 6 ord med mening**: 18 mån
+* förenar ord (i mening?): 2 år
+* 3-ord meningar: 2.5 år
+
+#### Socialt, emotionellt, beteenderelaterat
+
+***Medianåldrarna***
+
+Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, medianåldrarna
+
+* **6 veckor:** ler responsivt
+* **6-8 mån** sätter mat i munnen
+* **10-12 mån** vinkar bye-bye, spelar pek-a-bo
+* **12 mån** dricker fr glas med två händer
+* **18 mån** håller sked, sätter mat säkert till munnen
+* **18-24 mån** symboliskt leka (e.g. matar leksaker etc)
+* **2 år** kan vara torr (kissar inte) under dagen, drar av några kldäder (inför att kissa potta?)
+* **2.5-3år** parallelt leka, interakivt leka evolverar, tar tur
+
+
+
+***Gränsåldrarna och sekvens***
+
+* mönster för nedan -> [socialt beteende: gränsåldern]
+* Ler: 8v
+* Rädsla främlingar: 10 månader
+* matar själv, via sked: 18 månader
+* symboliskt leka: 2-2.5år
+* interaktiv leka: 3-3.5år
+
+
+
+
+
+#### Sammanfatt
+
+<img src="./imgs/pedsum_L5rU1lbCzE.png" alt="L5rU1lbCzE" style="zoom:80%;" />
+
+
+
+<img src="./imgs/ped_sum_o02X36gngf.png" alt="o02X36gngf" style="zoom: 67%;" />
+
+
+
+
+
+
+
+
+
+
+
 ### Puberteten
 
 ***Presentation***
@@ -3892,3 +3969,89 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
   * Begynnande menstruationsblödning
   * Begynnande könsbehåring 
   * Humörförändringar 
+
+### Tillväxtkurvor
+
+
+
+***Presentation***
+
+* **Tillväxtkurvan är ett av barnläkarens viktigaste verktyg. Matcha tillväxtkurvorna (siffran på kurvan skrivs på linjen) med nedanstående tillstånd och motivera kort ditt svar. Ett tillstånd per tillväxtkurva.** **a) Tillväxthormonbrist _________** **b) Turners syndrom _________** **c) Celiaki _________** **d) Sen pubertet _________** **Kurvorna bifogade som bilaga. 4 p** 
+
+
+
+***Hormonellt***
+
+<img src="./imgs/ped_sam_till_0Nbo7ybf32.png" alt="0Nbo7ybf32" style="zoom:50%;" />
+
+
+
+* notera att tillväxthormon menar man IGF1 när man screenar (det medräknar GH och IGF); för att GH varierar så mkt över tid mäter man IGF1 istället. 
+* Har man normalt IGF1 har man ingen GH-brist
+* GH och IGF1 är sammankopplade ska man notera. man använder inte GH för att prvota. 
+* GH är by itself drivande för att generera tillväxten, men finns assistans. 
+
+
+
+***Viktmässigt***
+
+* Tredubbling vikt första året. 
+
+
+
+***Kurva 0-2åå***
+
+* Fortsättning intrauterin tillväxt
+
+3
+
+
+
+***Kurva 2-7åå***
+
+* barnet växer ca 5-6cm/år
+* tillväxten ffa beroende på GH: därför faller man ut vad gäller GH brist i denna fast, ibland tidigare
+* man pratar om slanka barndomsfasen
+* minskad fettmassa, BMI sjunker
+* Det är många barn som hoppar över den slanka barndomsfasen tyvärr, dessa ska man identifiera så tidigt man kan.
+* // notera ingen överburen korrigerar man
+
+
+
+***Speciella kurvor***
+
+* Prematurkurvor: ålderskorrigering upp t 2åå
+  * denna korrigerin kommer att mötas efter en liten period
+  * kan ske en längd och viktcatchup. 
+* Downs syndrom barnen: är kortare
+* Turners syndrom: har en Turner kurvva
+* skelettdysplasier: man kan kolla på deras sitthöjd, då de har korta ben etc.....
+
+
+
+***Tillväxt barn jfr med normalkurvan (SD)***
+
+* Tillväxt barn jfr med SD är när man jämför med normalen
+* Notera att normalen baseras på studier fr 70-talets Sverige. Har man ej korrigerat för d då?
+
+
+
+***Target height***
+
+* flicka: $\frac{M_{längd} + P_{längd}}{2} - 6.5cm$
+* pojke: $\frac{M_{längd} + P_{längd}}{2} + 6.5cm$
+* ***98% växer inom $+-1.5SD$ fr TH (target height)***
+* Längden anges i SD jrf med normalkurvan och TH. 
+* Har man väldigt olika långa i SD föräldrars längder skiljer sig kommer att få barn som varierar mycket i längd-
+
+
+
+***Systematisk tolkning tillväxtkurvor***
+
+* Grundförutsättning
+  * fullständigt kurva med korrekta mätuppgifter
+* ***Tillväxthastighet:*** normal för ålder? kanalföljare
+* ***Relation mellan längdo ch vikt*** vad faller först
+
+
+

@@ -1207,6 +1207,26 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Allmänt
+
+***Etiologi och patofysiologi***
+
+* **Nyfödd**
+  * GBS
+  * E coli
+  * // Undrar om det förekommer 
+* **Barn 1mån-5åå**
+  * Virus, ex RSV 
+  * pneumokocker
+  * hemofilus influenzae
+  * klamydia trachomatic [verkar som att detta är inte pneumonae]
+* **Barn > 5år**
+  * pneumokocker
+  * mykoplasma pneumonae
+  * klamydia pneumonae (inte trachomatis?)
+
+
+
 ### Bronchiolitis
 
 
@@ -3380,6 +3400,36 @@ Other:
 
 ## Nefrologi
 
+
+
+### Hematuri
+
+***Utredning och handläggning***
+
+* !! **U-sticka pos för ERY vid olika situationer: HEMOGLOBINURI, MYOGLOBINURI**
+* Evaluering, enl BRS
+  * Detektion hematuri kan vara u-sticka eller MIKROskopiskt (att man använder mikroskop)
+  * Falsk-negativa resultat:
+    * Vitamin-C ingestion, ascorbic acid
+  * MIKROskopisk urinanalys
+    * förekomst erytrocyter (sediment?), inkluderar förekomst bakterier etc: 
+    * Erytrocyt morfolig
+      * glomerulus origin: dysmorfisk, ofta blebs i RBC membrane
+      * lower urinary tract: bikonkava RBC
+    * RBC casts (sediment?)
+      * kristaller: indikativ renal stensjukdom
+      * stort antal RBC: akut hemorrhagisk cystit; av bakteriell infektion, viral infektion (adenovirus), kemoaterapi (cyklofosfamid)
+
+| <img src="./imgs/ped_sam_070421_gHKV4QUrEY.png" alt="gHKV4QUrEY" style="zoom:50%;" /> | <img src="./imgs/ped_sam_070421_RWiV6zx2Ge.png" alt="RWiV6zx2Ge" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
+
+
+
+
 ### Nefrotiskt syndrom - NS
 
 
@@ -3459,7 +3509,7 @@ Other:
 
 
 
-### Nefritiskt syndrom
+### Nefritiskt syndrom (aka glomerulonefrit? )
 
 
 
@@ -3475,11 +3525,65 @@ Other:
 
 
 
+
+
+***Etiologi och patofysiologi***
+
+* Varierad orsak, 
+* generellt immunmedierade, glomerulärt
+* olika antigen stimmar immunkomplex bildning och deponering inuti glomeruli
+
+
+
+***Indelning***
+
+* Primär glomerulonefrit: sjukdomsprocess specifikt t njurarna
+* Sekundär glomerulonefrit: nefrit del av en systemsjd e.g. SLE
+
+
+
+***Epidemiologi***
+
+* **Poststreptococcal glomerulonefrit (postinfektiös)**
+  * VANLIGASTE formen av akut glomerulonefrit
+  * skolålder, OVANLIG före 2åå
+  * andra mindre vanliga orsaker t postinfek: malaria, HIV, HBV, HCV, kongenital syfilis
+  * 
+
+
+
 **Kliniska kännetecken**
 
 * **Hematuri**
 * **högt BT**
 * **sen omkringliggande faktorer:** 
+* BRS
+  * Akut nefritiskt syndorm: 
+    * makro hematuri, 
+    * cola-färgat urin, 
+    * hypertensino, 
+    * vissa ggr tecken vätske overload och 
+    * renal insufficiens
+  * Glomerulonefrit associerat med nefrotiskt syndorm
+    * mkt proteinuri
+    * hyperkolesterolomi
+    * ödem
+  * Vissa patienter kan vara relativt asymptomatiska, där nefriten detekterad som ett bifynd i status av e.g. u-sticka
+
+
+
+***Utredning och handläggning***
+
+* Labb
+  * Så snabbt som möjligt	
+  * Initialt: 
+    * urinanalys (sediment, RBC morfologi)
+    * Alb/krea kvot, kvantifiera proteinuri
+    * blodkemi: elektrolyter, BUN, kreatinin, serum albumin, lever enzym, kolesterol
+      * **komplement komponenter**, samt **antikroppstester (ANA, anca, aso, adb**
+      * IgA-nivåer
+  * Extra evaluering utefter anamenss
+    * HIV, HBV, HCV, HBV-serologier, för att evaluera orsaker till postinfektiös glomerulonefrit
 
 
 
@@ -3533,7 +3637,44 @@ Other:
 
 #### Postinfektions-glomerulonefrit
 
+
+
 ***Etiologi och patofysiologi***
+
+* Komplementrelaterat: deponering av glomeruli deponering av komplement komplex
+* etiologiskt
+  * poststreptococcalt: detta är det vanligast förekommande
+  * andra orsaker: HIV, malariba, HCV, HBV [bör beaktas därför i utredningen av dessa]
+* 
+
+
+
+***Epidemiologi***
+
+* **Poststreptococcal glomerulonefrit (postinfektiös)**
+  * VANLIGASTE formen av akut glomerulonefrit
+  * skolålder, OVANLIG före 2åå
+  * andra mindre vanliga orsaker t postinfek: malaria, HIV, HBV, HCV, kongenital syfilis
+
+
+
+***Kliniska kännetecekn***
+
+* **Ålder**: skolålder enl BRS, ovanligt vöre 2åå
+* **8-14d utvecling efter infektion**: hud, pharyinx, nefritogen variant av GAS beta-hemolytiska streptococcer. 
+* **21-28d latens efter impetigo**
+* **Hematuri, makroskopisk**: 
+* **proteinuri**: ovanligt av nefrotisk proportion (alltså att det är långt mkt högre proportioner vid nefros)
+* **Låg-serum komplement**: C3, förekommer, men "transient", normaliserar inom 8-12v
+* **njursvikt, borta efter 6-8v**: "transient impairment"
+
+
+
+***Diagnos***
+
+* 
+
+
 
 
 

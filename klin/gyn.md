@@ -4628,6 +4628,305 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Farmakologiskt**
   * **Trandate**: labetalol
 
+
+
+
+
+### Preeklampsi
+
+***Presentation***
+* **Jie kommer på efterkontroll.** 
+  * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
+  * Fyra möjliga orsaker till den stora blödningen
+  * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
+* **Pat 35åå**
+  * preeklampsi
+  * nu ihållande bradykardi på CTG 
+  * ska misstänka placenta ablatio 
+* **pat 35åå** 
+  * tidigare snittad
+  * nu ihållande bradykardi på CTG 
+  * ska misstänka uterus ruptur
+* **samma cushing pat tillägg** 
+  * tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
+* **35åå, 5grav 0 para**
+* - 2 missfall, 2 abort
+  -  Noteras kontroll v24 att BT högt
+  - RUL ser ej ngt avvikande, men åter UL bokas in
+  - Nya UL v24 el nåt noteras IUGR, att den är hämmad, -27% el nåt
+  - åb v24+3 högre BT 150/90
+  - åb v24+4 samma högt BT 145/90
+  - åb v25 samma höga BT
+  - åb v 25+2 BT 180/100
+  - trandate 200x3 insättes
+  - misstänkt preeklampsi
+  - inlägges v27: man behandlar blodtrycket, tittar på UL-flöden ser att det är bra kompensation för ungen
+  - skrivs ut v28: informerar pat om tecken på preeklampsi att det krisar etc för att söka akut e.g. påverkade fosterrörelser avviker, flimrar ljus ögon, skakig, huvudvärk, 
+  - Läkemedel trandate: 300mgx3 vid utskrivning
+  - Enl handl: dessa med preeklampsi samt IUGR inte förväntat att de blir fullgångna, utan amna snittar tidigt ändå, att det behövs. Man har täta kontroller och följer  CTG e
+* !! ?? **Elin söker dig på MVC, TODO**; detta fallet att det står proteinuri på ett konstigt sätt. 
+  * i graviditetesvecka 20. hon är frisk och födde barn för tre år sedna i vecka 39. barnet vägde 2.3kg.
+  * Blodtryck idag 130/80 mmhg, urinsticka visar 0/ spår för proteinuri. hon har just varit på rutinultraljud och allt var bra där. hon mår bra och arbetar som vanligt och det går bra. 
+  * Finns skäl med ledning av anamnesen att ställa ytterligare frågor eller att vidta någon mer åtgärd under graviditeten?
+    * tidigare IUGR och +1 isch på stickan nu kan föranleda att patienten behöver tätare kontroller
+    * penetrera anamnes: HELLP anamnes, diarre, HV, kiss, ögonflimmer
+    * misstanke preeklampsi: proteinuri + tidg. IUGR. 
+    * remiss spec-MVC: föreligger 2 riskfaktorer, att trombyl behöver läggas in
+    * tätare BT + u-sticka kontroller resten av grav t v36: 
+    * tillväxt-UL + flöde UL v24 
+* !!!**Pia, preeklampsi + kejsarsnitt postop handlägg**
+  * genomgick Kejsarsnitt operation igår på grund av en svår preeklampsi grav vecka 34.
+  * målblodtryck hos pat med svår preeklampsi i sluteta v graviditet: 
+    * Under 150/100 är okej
+  * Du sitter nu efter kejsarsnittet som underläkare på BB och planerar pias vård. du ordnar med en plan för att följa upp blodtrycket och se till att Vätskebalansen är tillfredsställande.
+  * förutom BT medicin, bör du sätta in en annan LKM behandling, vilken varför?
+    * trombosprofylax: rekas alltid vid SECTIO, minst 1 vecka. Denna pat HÖGRISK varpå 6v trombosprofylax övervägas
+    * smärtlindring: morfin ev paracetamol/NSAID. 
+      * !! NSAID kan g e BT stegring o vid svår hypertoni postpartum bör dessa prep undvikas. paracetamol kan ge leverpåverkan + njurar, bör undvikas vid lever o njurpåverkan
+  * Ngt lkm som bör sättas in början nästa grav, mtp preeklampsi denna grav: 
+    * trombyk (riskreduktion för preeklampsi igen)
+
+***Allmänt***
+* aka havandeskapsförgiftning
+* Detta verkar vara en extension av hypertensiva tillstånd under graviditeten
+
+***Definitionsmässigt***
+* **Multiorgansvikt** är en del av definitionen
+* med hypertoni
+* med nydebuterade symptom eller engagemang av 1 el flea organsystem 
+* och eller fosterpåverkan efter v20
+* **Preeklampsi**
+  * **Njurpåverkan**
+    * Proteinuri verifierad med slumpmässig alb/krea ≥8 mg/mmol (ej obligat) 
+    * Njurinsufficiens: 
+      * Krea ≥ 90 µmol/L, 
+      * oliguri <500 mL/dygn
+  * **Leverpåverkan**
+    * Transamninasstegring >1,2 µkat/L, 
+    * svår epigastriesmärta 
+    * eller smärta under höger arcus
+  * **Hematologisk påverkan**
+    * TPK <100x109/L, 
+    * hemolys (haptoglobin <0,25 g/L 
+    * eller LD >10 µkat/L
+  * **Neurologisk påverkan:**
+    *  Svår huvudvärk, 
+    * persisterande synstörning, 
+    * hyperreflexi med klonus, 
+    * kramper (eklampsi)
+  * **Cirkulationspåverkan:** 
+    * Lungödem, 
+    * bröstsmärta, 
+    * uteroplacentär dysfunktion, 
+    * intrauterin tillväxthämning, IUGR
+* **Pålagrad preeklampsi**
+  * Kronisk hypertoni som efter v20 utv en el fler
+    * trots misnt 2 olika antihypertensiva: persisterande hypertoni, 
+    * ny eller försämrad proteinuri
+    * organåpverkan en eller flera enl ovan
+* **Svår preeklampsi**
+  * preeklampsi + svår hypertoni 
+  * och eller organpvårakan / klin symptom
+  * och eller försämr organpåverkan / symptom enl voan
+  * diagnos o eller födsel på preeklampsiindikation före v34
+* HELLP
+  * tecken hemolys: 
+    * haptoglobin under 0.25
+    * eller LD över 10
+  * TPK under 100
+  * ASAT, ALAT över 1.2
+  * **!! EJ obligat proteinuri eller hypertoni**
+
+***Diagnos***
+* **Hypertoni** efter v20 + [proteinuri eller andra former av organskada]
+* **Blodtrycket**: över 140, två mätningar 4-6 timmars mellanrum
+  * förutsatt att mamman inte haft hypertoni innan graviditet
+
+***Etiologi och patofysiologi***
+* **trofoblaster, decidua, spiralartärer:** Trofoblasterna, när invadera decidua går gm myometriet och infiltrerar spiralartärerna som försörjer uterus
+* **spiralartärer abnormala**: Abnormal utveckling v blodkärlen i placenta
+* **placenta underperfusion**: om dålig access till spiralartärerna kommer den försörjas dåligt
+  * Senare i graviditet ökar syreförsörjning till placentan fysiologiskt
+  * placentan har ett större syrgasbehov
+  * men pga defekten i blodförsörjningen kommer man att märka av defekten nu
+* **placenta inflammatoriska mediatorer**: börjar frisätta inflam mediatorer, som
+* **endotel dysfunktion, hypertoni**: pga inflam mediatorer (antiangiogena faktorer) fr placenta
+  * tonus i blodkärlen påverkas
+  * producerar **hypertoni**
+  * kärlen blir mer genomsläppliga -> proteinuri, ödem, ökad leverenzymer pga dysfunktionen, tillväxthämning foster
+  * mikroangiopatisk hemolys
+  * vasokonstriktion, manifesteras kliniskt som hypertoni
+* **endotel skada**, trombos: frisätter sina faktorer och ökar risken för trombos
+* **sjunkande blodflöde till placenta:** pga systemisk vasokonstriktion inklusive till placenta, 
+  * akut uteroplacental insufficiens
+  * resulterar i placentar ablatio eller fetal hypoxi
+* 
+***Systemisk vasokonstriktion, maternellt***: generealiserade arteriolär vasokonstriktion
+  * **kramper**
+  * **stroke**
+  * **njurar**: oliguri, njursvikt
+  * **lungor**: lungödem
+  * **lever**: ödem, subkapsulär hematom
+  * **små blodkärl:** trombocytopeni, DIC
+* 
+***Tidmässigt***: definieras som efter v20, men sker 5%-6% av alla live births. 
+  * vanligast efter tredje trimestern,. near term
+
+***Komplikationer till preeklampsi***
+* **fetala**
+  * **Relaterat t prematuritet**
+    * Akut uteroplacental insufficiens
+    * placental infarkt och eller ablatio
+    * intrapartum fetal distress
+    * stillbirth - i svåra fall
+  * **Kronisk uteroplacental insufficiens**
+    * asymmetrisk and symmetrisk SGA fetuses
+    * !!! ***IUGR***: då är det att preeklampsin ger detta, frågan är om IUGR ökar risken för preeklampsi i sin tur
+  * **Oligohydramnios**
+  * **IUGR**: intrauterine-growth restriction
+  * **placentär ablatio**
+  * **fetal hypoxi**
+* **maternella**
+  * **medicinska manifestationer**
+    * **kramper**
+    * **cerebral blödning**
+    * **njurar**: oliguri, njursvikt
+    * **lungor**: lungödem
+    * **lever**: leverruptur, ödem, subkapsulär hematom
+  * **obstetriska komplikationer**
+    * uteroplacental insufficiens
+    * placental ablatio
+    * ökad prematur förlossning
+    * ökad kejsarsnitt förlossning
+  * **små blodkärl:** trmobcytopeni, DIC
+* **! long-term komplikationer**
+  * **! ökad risk för kardiovaskulär sjukdom senare i livet**
+
+***Riskfaktorer***
+* **Primär sjd relaterat**
+  * **kronisk hypertensuion**
+  * **kronisk njursjd**
+  * **DM2**
+  * **antifosfolipid syndrom APLS**
+  * **kollagen vaskulär sjd:** SLE
+  * **pregestationell diabetes**
+  * **african-ameria**
+  * **maternell ålder:** under 20åå, över 35
+* **Primör immunrelterat**
+  * nullipara
+  * tidigare preekmlampsi
+  * multiple gestation
+* **immunoegena**
+  * **multipara men ny man**: samma risk som nullipara.
+  * **multipel gestation**: i.e. tvillingar o grejor, att fler foster implanterade
+  * **abnormal placentation**: 
+  * **ny paternitet:** att det är en ny pappa
+* **Familjehistorik**
+  * female relatives of parturient
+  * mother-in-law
+  * cohabitation under 1år
+
+***Skyddande faktor (minskad relativ risk)***
+* **Multipara utan tidigare preeklampsi**
+* **Ett barn, inte tvillingar etc**
+* **Rökning:** verkar sänka risken...
+
+***Utredning och handläggning***
+* 
+***GENERELLT***
+  * **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
+  * **Om mamma inte jättesjuk o diffar preeklampsi**
+    * **U-sticka**
+    * **lilla-tox**: Hb, TPK, ALAT, Krea, urat
+  * **svårt sjuk o diffar preeklampsi**
+    * **stora-tox**: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, 
+      * diffa preeklampsi mot HELLP (hemolysis-elevated liver enzymes-low platelet count syndrome)
+* **SCREENING + MÄTMETODER**
+  * 
+  ***Proteinuri***
+    * **BT**: varje besök MVC; sittande, arm hjärthöjd, vila, adekvat bredd, automatisk är rekommenderad
+    * **PROTEINURI**: först på MHV (MHV1-2), 
+    * **RISKFAKTORER FÖR PREEKLAMPSI**: 
+      * screening för proteinuri ske vid VARJE kontroll på MHV
+      * **upprepade +1 eller en 2+**: måste ta alb/krea kvot för kvantifiering 
+* **HÖGRISKGRUPPER**
+  * tidg preeklampsi eller eklampsi
+  * **autoimm sjd**: SLE, APLS (antifosfolipid)
+  * tidg grav. hypertoni + födsel innan v34
+  * IUGR
+  * IUFD
+  * Ablatio
+  * DM2, DM1
+  * flerbörd
+  * Njursjd
+  * kronisk hypertoni
+  * IVF med äggdonation
+* **MÅTTLIGA RISKFAKTORER**
+  * nullipara
+  * hereditet preeklampsi
+  * BMI över 30
+  * ålder över 40
+  * graviditetsintervall över 10åå
+  * BT över **130mmHg eller 80mmhg** vid **inskrivning**
+  * afrikanskt ursprung
+  * verifierad obstruktiv sömnapne
+* **HANDLÄGG + ÖVERVAK UNDER GRAV, BT över 140/90**
+  * Kontroll Hb, TPK, ALAT, krea, urat
+  * UL med viktskattning foseter, vid diagnos
+  * misstänkt IUGR uppfölj enl separat PM
+  * liberal sjukskrivning
+  * !!! om inga subjektiva synmptom el organpåverkan, kontroll inom 1 vecka, **därefter 1-3gg/vecka**.
+* **BT150/100 eller subjektiva symptom**
+  * huvudvärk
+  * buksmärtor
+  * organpåverkan
+  * krävs snar handlägg på spec MVC ofta sjukhusvård
+* **Vid slutenvård**
+  * kontrolleras labbprover enl ovan, minst varannan dag
+  * svår preeklampsi/HELLP/pato värden: utvudgad provtagning
+    * leverfunktion: ASAT, bilirubin, LD, albumin, haptoglobin, AT, fibrinogen, APTT, PKINR
+    * Na, K,
+  * UL + viktuppskattning
+  * IUGR separat PM: tillväxthämning
+  * Vätskebalans vid svår preeklampsi
+    * dygnsdiures
+    * max intag vätska: 80mL/tim (2000mL/d)
+  * BT mäts 4gg/d eller enl ordin
+  * CTG 2gg/d
+
+***Behandling***
+* **Riskfaktor reduktion**
+  * **ASA**
+  * **Folsyra**
+  * **viktkontroll, minska BMI**
+  * **kontroller i ny grav:** UL, BT
+  * **screening**: finns ingen bra metod, osäekert man gör med infon
+  * **Sluta röka**
+  * **hålla normal vikt**
+  * **motionera**
+  * **kontrollera blodtryck i framtiden**
+* **PROFYLAX**
+  * ASA 75mg t ikväll
+  * senast fr v12 fram till v36
+  * Senare insättning kan ha effekt
+  * till HÖGRISKGRUPPER
+  * övervägs vid måttliga riskfaktorer
+* **ANTIHYPERTENSIV BEHANDLING**
+  * Inleds vid: systoliskt >=150 eller diastoliskt >=100
+  * Mål: systoliskt <150 och diastoliskt 80-100
+    * diabetes, njursjd, annan samsjuk: systoliskt >140 och diastoliskt 80-90
+  * Läkemedel
+    * 1a hand labetalol (Trandate): startdos 100mgx3. kan höjas t 400mgx4. 
+      * överväg kombinationsbeh vid dos >200mgx3
+    * 2a hand nifepidine (Adalate): startdos 10mg; via licens för att den inte framställs längre
+      * calciumblockare
+    * 3e hand hydralazin (Apresolin): 25mgx3. kan höjas t 50mgx4
+    * kan överväga: metoprolol, visken, amlodipin
+
+
+
+
+
 ### Immunisering
 
 

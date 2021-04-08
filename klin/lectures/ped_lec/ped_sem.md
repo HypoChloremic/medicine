@@ -1534,7 +1534,7 @@ Anafylaxigrader
 * **9 mån pojke**
   * Ahmed kommer med sin mamma till barnakuten. 
   * Han har blivit väldigt blek och trött de senaste dagarnaenligt mor.
-  * Han ammas fullt och äterlite fruktpuréer som mamma själv tillverkat. 
+  * Han ammas fullt och äter lite fruktpuréer som mamma själv tillverkat. 
   * Vikt och längdökning normal. 
   * I status finner du en mycket blek och passiv gosse.
   * CRP< 10. 

@@ -127,102 +127,7 @@ Det man bör ge
 
 
 
-### Pubertas praecox - För tidig pubertet
-
-* Man gillar det inte
-* man ska utreda detta, att man tar hormonprover för att se. 
-
-
-
-***Presentation***
-
-* isolerad svettlukt eller behåring... klan vara binjurebarkstumör
-  * MEN då ska man inte ha tillväxt eller könskognad, detta sker ej med binjurebarksmognad. 
-
-
-
-***Allmänt***
-
-* Notera att adenarche att binjurebarkspubertet kan ske tidigt, och det kan vara okej
-  * man gör ej MR hjärna för att man luktar svett
-  * utan man ska titta på de andra tecken på pubertet som man ska vara varsam för och uppmärksam. 
-
-
-
-***Definition:***
-
-* **Flickor**: Brösttillväxt < 8 åå
-* **Pojkar**: Testikelvolym > 4 ml < 9 åå
-
-
-
-***Orsak:***
-
-* Hos pojkar ofta patologisk orsak -> utredning obligat
-* Hos flickor oftast idiopatiskt
-* **Centralt utlöst**: CNS-tumör, idiopatisk
-* **Perifert utlöst**: Binjurebarkstumör
-
-
-
-***Kliniska kännetecken***
-
-
-
-***Handläggning och Utredning***
-
-* Gonadotroppiner, bla LH, FSH, CENTRAL
-* könshormoner: östrogen, testosteron, PERIFER
-* skelettålder
-* MR hjärna
-* Gällande om man luktar svett
-  * att isolerat lukta svett, sen att det går bort etc, detta är okej
-  * notera 
-
-
-
-***Behandling***
-
-* GnRH-analoger (block av gonadotropin-utsöndring)
-
-
-
-* 
-
-### Pubertas tarda
-
-***Etiologi och patofysiologi***
-
-* Multifaktoriellt, samt många olika orsaker
-* Heriditet för sen pubertet: dominerar störst, se till att fråga föräldrarna om de hade för sen pubertet
-* ***Anorexia***
-* ***Kronisk sjukdom***
-* ***Hård träning***: både män och kvinnor. 
-* allvarligare diagnoser som ska beaktas
-  * ***CNS-tumör*** (ex kraniofaryngiom): detta att man får utreda.
-    * hypofystumör
-  * ***Turners syndrom***
-
-
-
-***Utrednin***
-
-* Gonadotropiner: bla FSH, LH;
-  * dessa bör dra iväg först. 
-* Könshormoner: östrogen och testosteron
-  * har man ett testo som börjar dra iväg ibland, då vet man att pubertet är snart igång
-
-
-
-***Handläggning och utredning***
-
-
-
-***Behandling***
-
-* testostoron im inj
-* östrogen plåster
-  * många tjejer som avstår. 
+* * 
 
 
 
@@ -268,6 +173,36 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 ## Allergi
+
+
+
+### Allmänt
+
+***Presentation***
+
+* **Olle 7 
+  * **månader har en akuttid bokad till dig på barnmottagningen för allergiutredning. I remissen från BVC står följande: ”Gosse med eksem över armar och ben sedan en tid tillbaka. Allergi?” Du suckar ljudlöst över den undermåliga remissen, och väljer att komplettera anamnesen innan du börjar undersöka pojken.** **a) Ange 2 frågor som du önskar svar på och som har relevans för frågeställningen. (1 p)** 
+    * Hereditet
+    * Födoanamnes; vad har patienten ätit
+    * andra tecken e.g. obstruktivitet, infektioner, 
+    * epidemiologisk anamnes: var har man varit med barnet, utomlands etc.
+    * ammar barnet
+    * andra allergiska besvär
+  * När du inspekterar hud noterar att olle generellt torr och utbredda eksem över båda armarnas sträcksidor, samt båda låren. De är inte vätskande, och ser inte infekterade ut. har antydda eksem över båda kinderna
+    * Hur vill du behandla olles eksem
+      * Mjukgörande
+      * Steroid kräm behandling
+    * 2 metoder för att verifiera eller utesluta allergi hos barn
+      * Pricktest
+      * IgE-antikroppar
+      * Elimination-provokation
+    * Vilka 2 vanligaste födoämnen orsakar allergier i dena ålder
+      * Mjölkallergi
+      * Äggproteinallergi
+      * under 1åå är det ofta mjölk, ägg, om utbbredda eksem.
+      * över 1åå är det ofta inte födoämnen som orsakar
+
+
 
 ### Anafylaxi
 
@@ -501,6 +436,21 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Atopi
+
+***Presentation***
+
+* !!! ?? Allergiska eller atopiska sjukdomarna i barnaår utgörs grup 4 typiska manifest. ett par debuterar mkt tidigt, en senare och fjärde i skolålder
+  * ange de fyra manifesten i den ordning åldersmässigt
+    * !! Atopiskt eksem: Debute inder första levnadsået
+    * Födoämnesallergi: beroende på allergi (mjölk, ägg första levnadsåret); jordnöt andra nöter, skaldjur ofta senare
+    * Astma: 
+      * flera obstruktiva episoder under 2åå
+      * En obstruktiv episod om över 2åå
+    * Hösnuva: ofta senare i åldrana, men kan debutera tidigt
+
+
+
 ### Komjölksallergi
 
 ***Presentation***
@@ -543,7 +493,33 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * **Akut buk:** appendicit, peritonit
   * **Intestinal obstruktion:** intussuception (invagination), malrotation, tarm-atresi, tarm-stenos
 
-### Pediatrisk resuscitation: HLR o grabbarna
+### Resuscitation: HLR o grabbarna
+
+
+
+***Presentation***
+
+* Hjärtstopp hos barn väl förberedda och ovanliga, 
+  * förhållandet hjärtkompressioner o inblåsningar
+    * Initierar med 5 inblåsningar, 
+    * sen 15:2
+  * Hur ofta kontroll hjärtrytmen
+    * 2min
+  * Hur långt efter adrenalindos 1 ges dos nr2
+    * 4min
+  * när vuxma får hjärtstopp är bakomliggande kardiell ischemi vanligt
+  * vad är vanligaste orsaken t hjätrstopp
+    * hypoxi (e.g. asfyxi)
+* !!! **3 månader gammal gosse**
+  * inkommer på larm pga apné i hemmet. Han var på barnakuten föregående kväll och man konstaterade då RS-virusinfektion. Han hade i samband med akutbesöket haft bra effekt av inhalationer med Natriumklorid och kunde återgå till hemmet efter några timmar. Du står redo som barnjour och teamledare på akutrummet när ambulansen ankommer. När gossen lyfts över från ambulansbritsen till neobordet noterar du att han är rejält snorig. Andningen är snabb och ytlig, och du ser markerade indragningar. Han är blek och ligger stilla och blundar på britsen. I samband med att han kopplas upp slutar han plötsligt andas och blir livlös. På monitorn konstaterar du en asystoli. Ange 6 akuta åtgärder du omedelbart ombesörjer. (Korta punkter).
+  * Larma narkos
+  * 5-inblåsningar
+  * 15:2
+  * PVK
+  * adrenalin ASAP
+  * analysera rytm
+
+
 
 #### Wet Flag
 
@@ -567,7 +543,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * **OMEDELBART VID ASYSTOLI/PEA/UNDER 60HF**: sedan var 4e minut. 
   * EFter 3e deffen, för VF/VT
 
-<img src="./lectures/imgs/ped_9D15xjXjny.png" alt="9D15xjXjny" style="zoom:80%;" />
+<img src="./lectures/ped_lec/imgs/ped_9D15xjXjny.png" alt="9D15xjXjny" style="zoom:80%;" />
 
 
 
@@ -1016,6 +992,18 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+***Allmänt***
+
+* Daniel, 15 år, 
+  * har sedan några månader varit trött och håglös. Hans skolprestationer har tidigare varit goda men har den senaste tiden varit sämre. Han har inte gått upp i vikt det senaste året och har vuxit 4 cm på längden. Han har haft 3 - 4 lösa avföringar per dag och för detta har man för 2 månader sedan sökt på allmänläkarmottagningen. Man tog avföringsodlingar och TSH. Båda undersökningarna visade ingen patologi. SR 32 mm. I status kan du konfirmera blekhet. I övrigt finner du inget fokalt patologiskt i mun o svalg, hjärta, hud, lungor eller buk. Du vill förstås utreda pojken med bakgrund av hans symtomatologi. Vilka prover anser du vara de viktigaste av nedanstående alternativ för att få klarhet i pojkens sjukdomsbild och kunna gå vidare utredningsmässigt. (2* 
+  * Blodstatus, elfores, ANA, immunglobuliner, transglutaminas 
+  * Elektrolyter, komplement, urinsticka, transglutaminas 
+  * Elektrolyter, F-calprotectin, albumin, transglutaminas 
+  * Blodstatus, ANA, kreatinin, proteinfraktioner, transglutaminas 
+  * rätt: Blodstatus, F-calprotectin, proteinfraktioner, transglutaminas 
+
+
+
 ### Biliär atresi, gallvägsatresi
 
 ***Behandling***
@@ -1124,13 +1112,42 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ### Förstoppning
 
+
+
+***Presentation***
+
+* Det sista barnet på dagens BVC-mottagning är snart 5 år gamla Samir. Han är uppsatt på ett extra barnläkarbesök till dig då han enligt medföljande pappa klagat över varierande grad av buksmärtor de senaste veckorna. Hans aptit har varit klen så länge pappan kan minnas. ”Samir käkar bara makaroner med ketchup!” Han bajsar hårda korvar 2-3 gånger per vecka. Vissa dagar är avföringen omväxlande lös och hård. Blod har man aldrig noterat 
+  * Sannolika orsaken buksmärtor: förstoppning
+  * Behanding på mottagning, respektive hemmet: 
+    * klyx mottagningen
+    * hemma: äta annat än makaroner, även fast det är svårt.
+      * högt fiberinnehåll, intag vatten
+      * fysisk aktivitet
+      * bulkmedel, movicol: 3-4ggr, period 3-6mån (el tills vidare=)
+  * glutenprov ua
+  * blodstatus + ferritin: Hb 92, TPK 355, LPK 8, MCV 64, ferritin 4 (10-150)
+  * hur tolkar du resultaten?
+    * Järnbrist anemi, mikrocytär anemi just av Hb brist pga nedsatt produkton relaterat t bristande järndepåer
+  * Vad rekommenderar du för behandling med anledning av analyssvaren
+    * Järntillskott. 
+    * Försöker äka mängden kost i maten.	
+
+
+
 ***Röda flaggor***
 
 * Tillväxthämning, faltering growth: Hypothyroidism, celiaki, och andra orsaker
 
 
 
+### Gluteinitolerans
 
+***Presentation***
+
+* Samirs kusin är 
+  * glutenintolerand, frågar om man kan ta ett glutenprov
+  * VIlket prov: transglutaminas antikroppar
+  * Gltuenprovet ua. 
 
 ### Ikterus hos barn
 
@@ -1175,12 +1192,33 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * vilka 2 blodanalysr bör man beställa för att initialt utreda detta tillstånd
     * konjugerat bilirubin och totalbilirubin
     * // konjugerat bili över 20% totalbili är patologiskt o kräver vidar utredning
+* **Det finns flera olika bakomliggande orsaker till att ett nyfött/några veckor gammalt barn har ikterus. Ange för varje punkt (ålder) två relevanta bakomliggande orsaker till ikterus (3p)** 
+  * 30h gammalt barn ikteriskt med bili 280 och konj 20
+    * övervikt okonjugerat
+    * neonatal ikterus (nedbrytning av hem). RH-immunisering, ABO-immunisering
+  * 3d gammalt, ikteriskt, bilirubin 380, konjugerat 10
+    * Övervikt okonjugerat
 
 
+
+
+
+***Etiologi och patofysiologi***
+
+<img src="./imgs/ped_sam_080421_ztzirKiDwX.png" alt="ztzirKiDwX" style="zoom:50%;" />
+
+
+
+#### Konjugerade orsaker
+
+##### Neonatal hepatit
+
+***Etiologi och patofysiologi***
+
+* **Bilirubin, ökat konjugerat:** Man skulle tro att hepatitetn leder till att kapaciteten för levern att eliminera bilirubin och konjugera bilirubin påverkas. Men det verkar som att den huvudsakliga effekten är att kapabilitten att eliminera konjugerat bilirbuin påverkas
+  * BRS: "The symptoms of neonatal hepatitis are similar to [biliary atresia](http://www.hopkinsmedicine.org/healthlibrary/conditions/adult/pediatrics/biliary_atresia_22,BiliaryAtresia/), in which the bile ducts are destroyed for reasons that are not understood. An infant with biliary atresia also has jaundice and an enlarged liver but is growing well and does not have an enlarged spleen. These symptoms, along with a liver biopsy and blood tests, are needed to distinguish biliary atresia from neonatal hepatitis."
 
 #### Okonjugerade orsaker
-
-
 
 ##### Bröstmjöksinducerad ikterus
 
@@ -1189,12 +1227,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * Okonjugerad hyerpbilirubinemi
 * neonatal hyperbilirubinemi
 * okänt enzym i bröstmjölk: inhiberar konjugering av bilirubin, pga enzymet som finns i bröstmjölken
+* 
 
-
-
-
-
-### Ikterus - amningsrelat
+##### Amningsrelat
 
 ***Presentation***
 
@@ -1214,9 +1249,58 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 ***Kliniska kännetecken***
 
 * Okonjugerad hyperbilirubinemi
-* 
 
 
+
+
+
+#### Tidsmässigt
+
+##### Ikterus inom 24h
+
+* HEMOLYS: vanligtvis orsakat av hemolys
+* Rh-immunisering: identifieras oftat antenatalt, monitoreras och behandlas om behvös. 
+  * Svårt åpverkad unge föds med hydrops, hepatomegali, splenomegali, snabbt ut vecklande ikterus
+  * antikroppar bildas mot Rh-antigen (rehsus), RhD, Rh-kell, Rh-Duffy
+  * Finns fler antikroppar som bilads, men sällan att dessa leder t hemolys
+* ABO-inkompatibilitet, ABO-immunisering
+  * VAnligare
+  * !!! IgM-antikroppar: flesta antikroppar är IgM antikroppar SOM EJ PASSERAR PLACENTA
+  * IgG-antikroppar: vissa kvinnor kan bilda dessa, som immuniserar mot just A, så anti-A-hemolysiner, eller anti-B-hemolysiner, som kan vara IgG
+    * Dessa kan passera placenata. 
+  * ikterus: ger ikterus, men mindre allvarlig jfr Rh-immunisering
+  * Hb nivån vanligvis normal, eller ltiet reducrat, till skillnad fr Rh-immunisering där den kan vara starkt påverkad
+  * Direkt-antikropps tst (Coombs test (BAS=) eller ere DAT), demonstrerar antikroppar på ytan = positiv
+  * ikterus peakar 12h-72h
+
+##### Ikterus inom 2d-2v
+
+* Fysiologisk ikterus
+* Bröstmjölksinducerad ikterus
+* Dehydrering
+* Infektion
+* Andra orsaker: 
+  * vanligtvis att hemolys presenterar inom 1d fr födel, kan ske inom 1v
+  * hematom (bruising) och polycytemi exacerberar ikterus
+  * Crigler-najjar syndrom: glucuronyl transferas bristande eller frånvarande, kan resultera i hög nivåer okonjugerat bilirubin
+
+
+
+### Ljumskbråck
+
+***Presentation***
+
+* **Du vikarierar som distriktsläkare sommaren 2018 i ett samhälle 2 timmar med bil från sjukhuset i Falun. Gustaf, 2 månader har skrikit i omgångar sedan några timmar. Han har kräkts ett par gånger och verkar olycklig. När du undersöker honom har han varit lugn i ca 15 minuter och skriker ej. Han spänner lite generellt i buken när du undersöker den. Du noterar en upphöjd svullnad i höger ljumske ca 3x2 cm som verkar öm. När du trycker på den börjar han skrika igen. Testiklarna förefaller ej svullna eller ömma. Status i övrigt tycks ua förutom puls 160 när han skriker.** 
+  * **a) Vad blir din åtgärd? (1p)** 
+    * Misstank inklämt ljumskbråck
+    * måste försöke reponera bråcket
+  * Förbereda farmakologiskt, hur gör du det?
+    * Smärtlindra patienten
+  * När du väl lyckats med din åtgärd är han lugn och tyst och du funderar på hur du fortsättningsvis ska handlägga detta. Vad gör du härnäst
+    * Operation indikerat
+    * Inklämp ljumskbråck indicerar operation de närmsta veckorna
+    * Remiss lasarett för omhändertagande
+    * information föräldrar om besvär återkommer att söka akut, direktnummer kirurgmottaningen
 
 
 
@@ -1569,11 +1653,35 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ### Immunologiskt
 
+#### Immunbrist
+
+***Presentation***
+
+* En pappa kommer med sin 20 månader gamla flicka Ingrid som har täta recidiverande luftvägsinfektioner. Pappans arbetssituation har blivit ansträngd då arbetsgivaren är oroad av hans täta frånvaro från arbetet, nu sammanlagt nästan 10 veckor det senaste halvåret. Ingrid har fått antibiotika för otit vid ett tillfälle och för pneumoni vid ett tillfälle. I övrigt har hon tillfrisknat spontant i det som du bedömer som täta recidiverande övre luftvägsinfektioner av virustyp. Pappa misstänker att det är något fel på immunsystemet. Du är inte lika övertygad. 
+  * Ange 4 anamnestiska uppgifter som kan föranleda utredning för immunbrist hos barn (4p)** 
+    * 2 ab krävande pneumonier på året
+    * över >=4 ab krävande otiter
+    * över >=2 ab krävande sinuiter
+    * över >=2 ab krävnde pneumonier
+    * Infektioner som inte läker enl förbäntan med adekvat AB
+    * återkommande Hudinfek, mjukdelsinfek, roganabscess, icke-infektiös granulom
+    * infektioner ovanlig lokalisation, ovanlig agens
+    * över >=1invasiv infektion: osteomyelit, meningit, sepsis
+    * candidos: uttalad kronisk oral eller kutan candidos
+    * Multipla autoimmuna sjukdomar:  eller mkt tidig debut autoimmun sjd, >=3åå
+    * omfattande hudförändringar, erytrodermi, eksem som inte svarar på behandling
+    * spädbarn som inte växer som förväntat
+    * Känd primär immunbrist sjd i familj
+
+
+
 #### Immunglobulinnivåerna
 
 
 
 <img src="./imgs/pedsum_gVJFqHkYbL.png" alt="gVJFqHkYbL" style="zoom:67%;" />
+
+
 
 
 
@@ -1635,8 +1743,13 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * <img src="./imgs/ped_sammanstallning_NzWqMPQGi6.png" alt="NzWqMPQGi6" style="zoom: 25%;" />
 * A 6-year-old boy 
   * from northern Thailand developed rhinorrhea and a mild non-productive cough 8 days before admission to the Chiang Mai University Hospital (CMUH). Six days before admission to CMUH, he developed a tactile fever and was taken to a local clinic. He was prescribed a mucolytic and an antihistamine. Despite this treatment, his cough worsened and his fever persisted. Three days before admission to CMUH, he developed a facial rash, which proceeded to spread to his trunk ([figure 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3369465/figure/bcr.12.2011.5411.f1/)). On the day before admission to CMUH his fever and cough persisted, and he was transferred to CMUH for severe respiratory distress and potential need for mechanical ventilation. He was diagnosed with measles pneumonia. The child had no medical or surgical history. He did not take any medications. His birth history was unremarkable. He had no known drug allergies. His vaccination history included: BCG vaccine; diphtheria, pertussis and tetanus vaccine; oral polio virus vaccine (three doses); and hepatitis B vaccine (three doses).n the patient’s admission to CMUH, he was febrile (39.5°C), tachycardic (110–120 beats/min) and tachypnoeic (40 respirations/min). The child appeared ill and had bilateral conjunctivitis, a normal oral pharynx, decreased breath sounds with fine crepitation throughout, mild subcostal retractions and a generalised erythematous macular-papular rash with confluence on face, trunk and extremities
+* 1,5 årig pojke som varit med sin far i flera månader i Afghanistan, faderns ursprungsland. Pojken har haft hög feber upp till 40,5 i 5 dagar och han har ätit och druckit dåligt. Efter 3 - 4 dagars feber fick pojken ett makulopapulöst utslag som började i ansiktet och som nu har spridit sig ner på bålen och armarna och bäcken. Han har nu också en påtaglig konjunktivit. I ansiktet är nu utslaget nästan konfluerande (dvs täcker hela ansikte*. Han har inga förstorade lymfkörtlar, inga utslag på händerna. I munnen har han små vita och röda prickar på insidan av kinden bilateralt. Vilken inkubationstid stämmer bäst med den misstänkta infektionssjukdomen? (2* 
 
-
+  * 3-4 dagar 
+  * 5 -7 dagar 
+  * rätt: 9 – 12 dagar 
+  * 2 veckor 
+  * 3 veckor 
 
 
 
@@ -1873,6 +1986,20 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Allmönt
+
+***Presentation***
+
+* !!! Lisa 3 år inkommer till akuten för att hon sedan tre dagar haft små petekier på bålen. Hon har också haft lite lätt feber 38,2 grader utan förkylningssymtom. Ingen blödning från slemhinnor eller tarm. Föräldrarna tycker att hon varit lite tröttare än vanligt och varit gnällig i slutet av dagarna på förskolan sedan cirka 2 veckor. I status kan du notera några få, diskreta petekier på bålen. Hon har fin färg. I buken känner du en resistens till vänster i buken ca 3 cm nedom arcus i mamillarlinjen och du misstänker en mjältförstoring. Hjärta lungor fysikaliskt ua. Du tar ett blodstatus som visar tpk 27 x 109/l, Hb 85 g/l, Lpk 10,8 x 109/l Med bakgrund av symtom, status och lab misstänker du i första hand (2* 
+  * leukemi och anstaltar om diff, urat samt benmärgsundersökning 
+  * ITP och kollar diff samt antikroppar mot trombocyter 
+  * aplastisk anemi och anstaltar om diff 
+  * aplastisk anemi och anstaltar om diff och benmärgsundersökning 
+  * rätt: leukemi och anstaltar om diff, urat, benmärgsundersökning med kromosomundersökning 
+    * Förklaring: diff är standard, urat värderar risk för tumörlyssyndrom, benmärgsundersökning med mikroskopi och kromosomundersökning för att få diagnos. Kromosomundersökningen ger också svar på olika faktorer som kan vara gynnsamma eller ogynnsamma och bestämmer även val av behandling. 
+
+
+
 ### ALL
 
 ***Presentation***
@@ -1900,6 +2027,19 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * Blodmaligniteter hos barn: B-ALL vanligast, men T-ALL och AML förekommer liksom MDS
 
 
+
+### Anemi
+
+***Presentation***
+
+* **9 mån pojke**
+  * Ahmed kommer med sin mamma till barnakuten. 
+  * Han har blivit väldigt blek och trött de senaste dagarnaenligt mor.
+  * Han ammas fullt och äter lite fruktpuréer som mamma själv tillverkat. 
+  * Vikt och längdökning normal. 
+  * I status finner du en mycket blek och passiv gosse.
+  * CRP< 10. 
+  * Hb 63g/L
 
 
 
@@ -2049,7 +2189,21 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Hematom
 
+***Presentation***
+
+* **6. En 5 årig flicka inkommer till akuten en söndagskväll kl 21 tillsammans med hennes mor. Föräldrarna som är skilda befinner sig i en vårdnadstvist om flickan. Mamma berättar att flickan har blåmärken på kroppen efter att hon vistats hos sin pappa i helgen. Flickan själv vill inte berätta vad som har hänt. I status kan du se att det finns blåmärken av ganska färsk art på bål och armar men även på underben. Även något blåmärke på kinden. Ange 6 olika åtgärder eller ställningstaganden som är obligatoriska i denna situation (3p)** 
+  * Akut remiss fotografi blåmärken
+  * Dokumentera dessa nogrant i journal
+  * Kontakta senior kollega eller bakjour
+  * Ögonbottenspegling
+  * Inläggning för vidare utredning
+  * Status inkl ortopediskt sådant
+  * Konsultera senio kollega gällande helkroppsrtg
+  * Undersökning fr topp t tå
+  * prover: koagulationsprover, utesluta trombocytopeni, blodstatus. [leverstatus, njurprover]
+  * Orosanmälan till socialtjänsten [ingen polisanmälan?]
 
 ### Hemolys
 
@@ -2609,7 +2763,25 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Urinvägsinfektion
 
+***Presentation***
+
+* !!! **Du är dagjour på barnakuten och träffar Hamza 9 månader som inkommer till barnakuten med hög feber sedan 2 dagar. Han var på akuten under gårdagen och var då relativt pigg. Han bedömdes ha en viros och skickades hem med uppmaning att återkomma om febern kvarstod. Urinodling skickades då urinstickan visat 1+ vita. Blodprover togs ej. Han är vid dagens besök trött. Han har druckit och kissat sparsamt. Är fortsatt tydligt febril, men saknar liksom igår symptom från luftvägar och magtarmkanal. Inga andra sjuka i familjen. Urinodlingen från gårdagen påvisar riklig växt av E.coli. Han har gått ner i vikt från 8.4 till 8 kg det senaste dygnet. Du misstänker att Hamza har en pyelonefrit.** 
+  * **a) Två blodprover är nu av stor vikt att kontrollera då nivåerna på dessa avgör hur den fortsatta utredningen bör göras.** 
+    * Kreatinin + CRP
+    * CRP över 70 = riskfaktor
+    * krea över 30 0-1åå, över 40 1-2pp = riskfaktor -> DMSA inom 1mån
+    * Febril recidiv också inom en månad
+    * Om defekter -> MUC
+    * Patologiskt UL = pyelonefrit. DÅ blir det DMSA Direkt
+  * **Det framkommer att den förra urinodlingen togs från ett kastat urinprov utan föregående tvättning. Du bestämmer dig därför för att säkra diagnosen genom att skicka ytterligare en urinodling.** **b) Hur tar du ett urinprov på barn < 1 års ålder för att minimera risken för kontamination?** 
+    * Blåspunktion
+  * **Urinprovet som togs enligt ditt svar ovan påvisar leukocyturi med 2+ vita och positiv nitrit, och din diagnosmisstanke stärks således ytterligare. Som led i den fortsatta utredningen vill du nu gå vidare med en radiologisk undersökning. Ange…** **c) … vilken undersökning du beställer (1 p)** 
+    * Ultraljud
+  * En för diagnosen relevant frågeställning undersökningen ger svar på 
+    * hydronefros 
+  * lade in hnm för rehydrering + antbitiotika i form av ceftibuten
 
 ### Varningstecken hos barn
 
@@ -2768,16 +2940,21 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Presentation***
 
-* 13mån pojke
+* !!! 13mån pojke
   * och är inlagd på barnavdelning för en pneumoni diagnosticerad medröntgen. 
   * Petter har tidigare varit inlagd för en pneumoni vid 10 månaders ålder men efter den har han inte blivit riktigt bra i luftvägarna. 
   * Han har blivit ordinerad luftrörsvidgande med misstänkt astma men har ändå inte blivit besvärsfri i luftrören. 
   * Han har fallit i vikt 1,5 SD sedan 8 månaders ålder och han har fallit 1 SD i längd. 
   * Blodstatus visar lätt anemi och lätt stegrade neutrofiler, CRP 130 mg/l. 
   * När du lyssnar på hans lungor är det rikliga biljud från båda sidorna med slembiljud, rhonki och rassel. 
-    * Överläkaren frågar dig under ronden vad du misstänker för sjukdom: cystisk fibros
-    * Vilket/vilka prover vill du ta för att styrka din misstanke? Svettest, genotypning ev F-elastas
-    * ytterligare anamnes relevant fråga: hereditet? friska sjuka syskon
+    * Överläkaren frågar dig under ronden vad du misstänker för sjukdom: 
+      * cystisk fibros
+    * Vilket/vilka prover vill du ta för att styrka din misstanke? 
+      * Svettest, 
+      * genotypning: CFTR
+      * ev F-elastas
+    * ytterligare anamnes relevant fråga: hereditet? 
+      * !! friska sjuka syskon
 
 
 
@@ -2827,6 +3004,19 @@ En kort lista över kliniska manifestationer av CF:
 * Komplettera anamnes
   * Hereditet, friska/sjuka syskon
 
+
+
+### Fostercirkulationenn
+
+
+
+***Presentationen***
+
+* Under grav shuntas fostrets blod vi ductus venosus, ductus arteriosus samt via foramen ovale
+  * Sant
+
+
+
 ### Hjärtstopp
 
 ***Etiologi och patofysiologi***
@@ -2847,6 +3037,35 @@ En kort lista över kliniska manifestationer av CF:
 <img src="./imgs/wet_flag.png" alt="wetflag" style="zoom:50%;" />
 
 ### Hjärtdefekter
+
+***Presentation***
+
+* Svara rätt eller fel
+  * alla nyfödda kontrolleras femoralis för VSD och eller coarctio aortae
+    * FALSKT
+    * VSD: kan man inte känna av i femoralispulsarna
+  * Systoliskt blåpslljud grad 3 av 6 hos 1åå feber o snuva utan andra symptom hjärtsjd bedöms fysiologiskt o behöver inte följas upp
+    * FALSKT (enö sarah)
+  * ?? supraventrikulär takykardi är den vanligaste arrytmin hos barn
+    * SANT
+  * ?? TGA transposition of the great arteries och fallots anomali är exempel på cyanotiska vitier
+    * SANT
+    * TGA: hö kammar kopplad aorta, vänster med lungkretsloppet. Sker shunt h
+    * Fallots: VSD + högerkammare väggförtjocknign + utfldet fr höger kammare t pulmonalis trångt + överridande aorta. 
+      * blodet fr höger t cänster kammare, pga höga tryck i hö kammare, trångt pulmonalisklaffen
+      * desat blod ut i systemkretsloppet
+  * Under gav shuntas fostrets blod via ductus venosus och ductus arteriosus samt via foramen ovale
+    * SANT
+  * Hjärtsvikt sekundär t VSD brukar i de flesta fall presentera kliniskt under barnets första levnadsvecka
+    * FALSKT
+* !!! **Hjärtfel hos barn kan ge symtom i form av hjärtsvikt, cyanos och blåsljud. En stor VSD brukar ge symtom och därmed diagnostiseras vid ca 1 – 3 månaders ålder. Förklara mycket kort i telegramform för varje symtom, dvs de tre symtomen, varför det föreligger eller varför det ej föreligger vid den angivna vanliga diagnosåldern. Uppsatser ger avdrag. (3 p)**
+  * HJärtsvikt: Vä-hö shunt -> ökad pulmonell kärlresistens -> högre arbetsmotstånd Hö hjärta -> sviktande funktion och hö-svikt
+  * Cyanos: VSD acyanotiskt: relateras vä-hö shunt, varpå saturerat blod -> systemkretsloppet trots shunt (till skillnad fr hö-vä shunt: desat blod blandas -> systemkretslopp -> cyanos)
+  * !!! Blåsljud: beroende på storlek
+
+
+
+
 
 #### Ventricular septal defect (VSD)
 
@@ -3224,30 +3443,39 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Kramper
 
-When is the lifespan risk of seizures highest?
+***Presentation***
 
-As a neonate
+* **På barnakuten inkommer 6 åriga Annie med hög feber sedan några timmar och en pågående fokal toniskklonisk kramp i vänster arm som enligt medföljande pappa debuterat för 25 minuter sedan. Hon ger ingen kontakt, men är cirkulatoriskt stabil. Ambulanssjukvårdaren har lyckats få in en PVK under transporten.** 
+  * vad ordinerar kramplösande: Diazepam (inte midazolam?)
+  * Vad i den givna informationen talar emot att flickan har en feberkramp
+    * Fokalitet, asymmetriskt samt ej tonisk-klonisk som feberkramper tenderar att vara (är?)
+    * Tidsspannet, feberkramper upplöses relativt korta tidsperioder (några minuter)
+    * Typisk ålder för feberkramp 6mån-4.5åå
 
-mer än 75% are cerebrovascular in origin:
 
-- hypoxic/ischaemic encephalopathy (60% overall)
-- intracranial haemorrhage (15%)
-- ischaemic stroke
 
-Infection (12%):
-- bacterial meningitis
-- viral meningoencephalitis
-- TORCH infections
+***Etiologi och presentation***
 
-Metabolic:
-- electrolyte disturbance (hypoglycaemia, hypoCa, hypoMg, hypoNa or hyperNa
-- inborn pyridoxine deficiency
-- congenital amino acid or organic acid disorder
+* When is the lifespan risk of seizures highest?
+* As a neonate
+* mer än 75% are cerebrovascular in origin:
+  * hypoxic/ischaemic encephalopathy (60% overall)
+  * intracranial haemorrhage (15%)
+  * ischaemic stroke
+* Infection (12%):
 
-Other:
-- drug withdrawal
-- cerebral dysgenesis
-- benign familial neonatal seizures
+  * bacterial meningitis
+  * viral meningoencephalitis
+  * TORCH infections
+* Metabolic:
+
+  * electrolyte disturbance (hypoglycaemia, hypoCa, hypoMg, hypoNa or hyperNa
+  * inborn pyridoxine deficiency
+  * congenital amino acid or organic acid disorder
+* Other:
+  * drug withdrawal
+  * cerebral dysgenesis
+  * benign familial neonatal seizures
 
 
 
@@ -3287,6 +3515,31 @@ Other:
     * höftluxation
     * misshandel
     * trauma (benbrott tex)
+* !!! **En 1 årig flicka kommer till dig på barnläkarmottagningen med pappa. Hon kunde vid 10 månaders ålder resa sig och stå med stöd. Hon hade pincettgrepp och kunde säga enstaka ord såsom mamma o pappa. Nu kan hon inte sitta utan stöd, hon har ej längre ett pincettgrepp och säger inga ord. Hon har den senaste tiden också haft många luftvägsinfektioner varav två av dem krävt antibiotikabehandling.** 
+  * a) Ange vad ett barn vid ett års ålder skall kunna grov motoriskt, fin motoriskt samt kognitivt (1 p)** 
+    * Grovmotoriskt: 
+      * kunna resa sig upp och gå med stöd
+      * Vältutvecklade skyddsreflexer
+    * Finmotorikt
+      * Pincettgrepp
+      * Staplar saker på varandra
+    * Kognitivt
+      * Säger ett ord, förtår innebörd
+      * imitera 
+      * interagerar med andra utomstående
+      * vinkar, leker, tittut, klappar händer osc
+  * Vart remiterras barnet
+    * barnneurolog
+  * Nämn en sjd som kan vara orsaken
+    * Rett syndrmo
+      * drabbar glifkco
+      * början inga symptom
+      * vid 6-18mån utv lågnsam o stannar upp
+      * huvet växer långsammare än förvänat. 
+      * muskelspänningen minskar
+      * flickor med Rett får svårt koordinera sina rörelser
+      * slutar använda händerp å ett meningsfullt sätt o slutar leka o tala
+    * // degen muskelsjd?
 
 
 
@@ -3342,6 +3595,16 @@ Other:
 
 ### Allmänt
 
+***Presentation***
+
+* medfödda missbildnignar svårupptäckta vid födsel. MEn som är tydligt livshotande. Inga tydliga symptom initialt men som upptäcks säker rutn på BB. Sjukdomar inte upptäcks direkt som kan leda t död hos neo barn
+  * Ductusberoende hjärtfel: TGA, coarctio aortae
+  * Gallvägsatresi
+  * Diafragmabråck
+  * Esofagusatresi (tracheoesofageal fistel)
+
+
+
 ### APGAR
 
 ***Presentation***
@@ -3353,6 +3616,15 @@ Other:
   * **Grimace**: Avvärjer = 2p, grimaserar = 1p
   * **Aktivitet, aka tonus:** normal = 2p, nedsatt = 1p, slapp = 0p
   * **Respiration**: regelbunden = 2p, oregelbudnen =1p, 0 = ingen
+* **Du är barnjour på Södertälje sjukhus och sitter i fikarummet på förlossningen i väntan på kvällsrapporten då en barnmorska rusar in och med panik i blicken skriker åt dig att omedelbart komma till akutrummet. Under den korta språngmarschen i korridoren berättar hon att det just fötts ett dåligt barn i v 37+2 på rum 4. Barnet hade navelsträngen virad två varv runt halsen, fostervattnet var mekigt. CTG:t normalt fram till 5 min före partus. På återupplivningsbordet (neobordet) ligger en mycket blek och helt slapp gosse utan egenandning. Du börjar omgående ventilera barnet med neopuffen samtidigt som du konstaterar att monitorn visar en hjärtfrekvens på 85 och att barnet inte reagerar på undersköterskans daskande. Apgarklockan piper för att upplysa om att det gått 1 min sedan födelsen.** 
+  * Fyll i APGAR
+    * A: 0
+    * P: 1
+    * G: 0
+    * A: 0
+    * R: 0
+  * **Pojken hämtar sig fort och andas utan andningsstöd efter 15 minuter. Han bedöms dock ha haft en asfyxi och du förbereder transport för neonatalvård på Huddinge sjukhus.** 
+    * är barnet prematurt: nej, den är född v37+2
 
 
 
@@ -3448,7 +3720,7 @@ Other:
 
 
 
-## Nefrologi
+## Nefrologi och urologi
 
 
 
@@ -3572,6 +3844,12 @@ Other:
     * Postinfektiös glomerulonefrit: komplementdeponering efter biopsi, GAS odling, serologi för GAS
     * IgA-nefrit: IgA komplex deponering i biopsi glomeruli 
     * TODO
+* !!! En 6 årig flicka kommer till barnakuten pga att hon haft röd-brun urin sedan ett dygn. Hon hade en halsinfektion med hög feber för 2 veckor sedan. Man sökte ej läkare och infektionen gick över spontant efter ca 5 dagar. Det senaste dygnet har flickan kissat ganska lite. Hon klagar över viss huvudvärk. Sjuksköterskan har tagit en urinsticka som visar röda 4+, vita 1+, protein 2+, glukos 0, nitrit 0. I status finner du inget fokalt patologiskt förutom antytt ödem på underbenen men ingen tydlig svullnad över ögonlocken. BT hö arm 140/90 mm Hg. Du bestämmer dig för att lägga in flickan på avdelning för utredning. Vilka undersökningar och eventuell behandling anstaltar du om till avdelningen (2* 
+  * U-albumin, S-albumin, kreatinin, urinsediment, blodtryck x 8, daglig vikt 
+  * Dagliga U-krea/albuminkvot, kreatinin, daglig vikt, Prednisolon 2 mg/kg/dyg 
+  * Daglig vikt, blodtryck x 8, urinmätning, Prednisolon 2 mg/kg/dygn, 
+  * rätt: Svalgodling, komplement C3, C4, kreatinin, dagliga U-krea/albuminkvot , urinsediment, blodtryck x 8, Urinmätning 
+  * Svalgodling, komplement C3, C4, dagliga kreatinin, Prednisolon 2 mg/kg/dygn 
 
 
 
@@ -3726,7 +4004,13 @@ Other:
 
 
 
+### Testikel
 
+***Presentation***
+
+* **På barnläkarmottagningen träffar du 8 månader gamla Oskar. Han är remitterad från BVC för kontroll av testiklarna som inte varit på plats i skrotum vid 6 månadskontrollen. Du konstaterar vid dagens besök att höger testikel kan ”mjölkas” ner i skrotum, men att testikeln omedelbart åker tillbaka upp i buken när du släpper den. Vänster testikel kan du inte finna. Vilka två diagnoser misstänker du avseende statusfyndet i testiklarna på respektive sida? (2 p)** 
+  * Höger testikel = RETRAKTil testikel
+  * Vänster testikel = Retenerad testikel, retentio testis
 
 ### Wilms tumör
 
@@ -3805,6 +4089,10 @@ Other:
     * haltar smäörtpåverkad, 
     * men inte sjuka
     * normal rtg, ekofri synoivt på UL
+*  **En 5-årig pojke kommer in till akuten pga hälta på höger sida. Han klagar inte så mycket men vill inte gå på det högra benet. Han har ingen feber och är tidigare frisk. Du undersöker honom och noterar då skyddsreflexer o smärta vid rotation i höger höft. Övrigt status i leder och rörelseapparaten är utan anmärkning. Blodstatus med diff är normalt, CRP < 5.** 
+  * Diagnos: coxitis simplex, höftsnuva
+  * bekäfta diagnos: UL höft men krävs ej för diagnos, kliniskt annars..
+  * vad visar undersök: Ekofri synovit (ledutgjutnign=)
 
 
 
@@ -3852,6 +4140,18 @@ Other:
 
 ### Tentfalll
 
+#### Bronkiolit och ÖLI
+
+7 v gammal flicka på barnakuten Kontaktorsak: Apné i hemmet. Inkommer på larm med ambulans. Socialt: Första gemensamma barnet. Äldre halvsyskon (2,5 år) på förskola. Graviditets- och nyföddhetsförlopp: Okomplicerad graviditet. Akut sectio v 34+4 p g a kraftig vaginal blödning. FV 2,1 kg. Vårdad neo 4 veckor, CPAP första levnadsveckan. Antibiotikabehandlad (Bensyl PC och Biklin) p g a suspekt sepsis, neg blododlingar x 2. Aktuellt: Välmående sedan utskrivning från neo fram till för 2 dagar sedan. Sedan dess tilltagande snuva och andningsbesvär. Andats snabbt och ansträngt enligt föräldrarna. Ammat sämre, ej velat ta bröstet sedan i morse. Möjligen kissat mindre än vanligt. Bajsat normalt under ambulanstransporten. Ej känts varm, tempen ej kontrollerad. Kl 19, i samband med amningsförsök, plötsligt slutat andats. Var slapp i hela kroppen i samband med detta, men ingen säker färgskiftning. Återfick andning och tonus efter några sekunder efter att föräldrarna sugit bort segt slem med hjälp av nässug. Stabil under transporten, erhållit syrgas på mask. Status: AT: Kl 19.45. Något blek och tagen, öppna ögon. AF 70/min. Rejält snorig, diskret hosta. Interkostala indragningar och bukandning. Saturation 97% med 5 L syrgas på öppen mask. Kap refill 2,5 sek. Temp 37,2. Vikt: 2,8 kg MoS: Något torra slemhinnor. Oretat svalg. Hjärta. RR, normofrekvent. Inga blåsljud. Lungor: Rikligt med slembiljud över båda lungfälten. Buk: Mjuk, ingen organförstoring Neurologi: Sidlik tonus i övre och nedre extremiteter. Normala nyföddhetsreflexer. Fontanell ua. Hud: Inspekteras utan anmärkning Lab: Blodgas med pH 7.32, pCO2 9 och BE -6. Glukos 5.4. CRP 7. Skriv din PBD på de anvisade raderna 
+
+
+
+***Svar***
+
+7v flicka, prematur 34+4 pga kraftig blödning, FV2.1kg, vårdad 4v, fått CPAP, utv sepsis, beh antibiotika. Sökar pga apneutveckling med rejäl förkylning och snorighet, samt slembiljud. Utskriven neo 2d sedan. Sedan dess tilltagande förkylningsbesvär + andningsbesvär. Sämre amning sedan morgonen. Mindre kiss + normalt bajs under ambulans. Under transport vid amning blev plötsligt slapp + apnoisk, som reverserades efter nässug. Status högt AF 70/min, rejält snor, hosta, interkostala indragningar, bukandning, saturation 97% på 5L syrgas. Torra slemhinnor, oretat svalg. slembiljud båda lunfält. Ingen. Differentialdiagnostiskt pneumoni men osannolikt i nuläget pga tydligt pot RS-virus bronkiolit. Sammantaget misstänkt RS bronkiolit + ÖLI på nyligen utskriven prematurt född 7v flicka. Inlägges för stabilisering, uppvätskning, nutrition. Fortsatt syrgas. NaCl nästoalett för att förbättra andning. V-sond för uppvätskning enl 5% kroppsv över 4h ORS, underhåll 150mL/kg/d bröstmjölk. PEWS 8 första dygn. Återkoppling med flöde och ringer Neo-konsult för vidare handläggning. 
+
+
+
 #### Feberkramp
 
 Johan 1,5 år söker på barnakuten Anamnes Kontaktorsak: Misstänkt kramp Socialt 1:a barnet. Bor hos mamma. Träffar pappa emellanåt. Tidigare sjd: Tidigare frisk Aktuellt: Igår så gick Johan på dagis under dagen och var pigg som vanligt. På kvällen kändes han lite varm. Inga ÖLI tecken. Kom över och sov i mammas säng och på natten satte han sig upp och pratade, somnade om. Efter en stund vaknade mamman av att han lät konstigt då han andades, tog upp honom. Han tittade upp med uppspärrade ögon och kändes spänd och hade symmetriska ryckningar. Duration cirka ngn minut. Var lite trött i anslutning till episoden men kunde titta och prata. Överkänslighet: Ingen känd. Status Allmäntillstånd: Rosig om kinderna. I övr god kontakt. Rätt pigg. Kroppstemperatur: 39,7 °C Munhåla och svalg: Rodnat svalg, inga beläggningar. Öron: Trumhinnorna bilateralt ua. Ytliga lymfkörtlar: Små adeniter palpabla på halsen. Hjärta: Normal rytm, inga blåsljud. Perifera pulsar: Femoralispulsar palperas ua bilateralt. Lungor: Normala andningsljud bilat, inga biljud. Buk: Mjuk, oöm. Inga palpabla patologiska resistenser. Hud: Inga utslag Neuro: God kontakt. Symmetriska rörelser och normal tonus. Normal gång. PBD Skriv på nästa sida 
@@ -3864,6 +4164,18 @@ Johan 1,5 år söker på barnakuten Anamnes Kontaktorsak: Misstänkt kramp Socia
 
 
 
+#### Feberkramp 2
+
+Intagningsorsak 2,5 årig pojke med 1:a gångs kramp som inkommer till akuten i ambulans. Ärftlighet: Ingen feberkramp hos föräldrar. Båda föräldrarna har haft upprepade otiter och rör som barn. Socialt: Sammanboende föräldrar. Har en storebror. Går på förskola Tid/nuv.sjukdomar: Under sitt första levnadsår haft fyra otiter. Otit även för tre månader sedan. Förkylningsastma. Epidemiologi: Storebror har precis haft influensasymtom. Aktuellt: Feber sedan två dygn. Varit hostig. Idag på eftermiddagen suttit vid köksbordet och plötsligt blivit stel och glidit ner från stolen men ej slagit i huvudet. Var cyanotisk om läpparna och stirrade uppåt men var ej kontaktbar. Var först stel och fick sedan symmetriska ryckningar och man upplevde att pojken inte andades under denna tid, ungefär 1-2 minuter. Pappa började göra inblåsningar och pojken återfick färgen strax därefter. Då släppte även stelheten. Pojken var därefter trött men steg gradvis i medvetande. Då man smärtstimulerade reagerade han. Ambulans kom några minuter därefter och pojken skrek i samband med stickförsök. I ambulansen 40,5 grader. Status Allmäntillstånd: Sover initialt i mammas knä. Vaknar lätt vid undersökning, pratar och reagerar adekvat. Kapillär återfyllnad <2 sekunder. 38,0 °C efter given Alvedon. Vikt 12 kg Saturation 97 % Munhåla och svalg Stora tonsiller, ej rodnade eller med beläggningar. Öron: Bilateralt röd kärlinjicerad trumhinna, som buktar lätt. Ytliga lymfkörtlar: Palpabla i käkvinkel bilateralt, i övrigt inga i halsregionen. Hjärta: Regelbunden rytm, inga hörbara bi- eller blåsljud. Lungor: Vesikulära andningsljud bilateralt utan rassel eller ronki. Inget ökat andningsarbete. Buk: Normala tarmljud. Palperas mjuk och oöm. Neurologiskt status: Rör sig liksidigt. Pratar adekvat. Provtagning: CRP 37. Glukos 5,7. Bedömning o Åtgärd: - var god skriv på nästa sida! 
+
+
+
+***Svar***
+
+2.5åå pojke, söker för 2d feber och tonisk klonisk kramp idag eftermiddag. Ingen känd heredite, föräldrar öronbarn. Epidemiologiskt, storebror haft influensaliknande sjukdom.  Feber sedan 2d, och idag tonisk klonisk kramp 1-2min, ingen postiktalitet enl anamnes. Status, 40.5 feber, 38.0 efter alvedon, god cirkulation. Infektionsfokus öron bilateralt med butkande trumhinnor + käkvinkeladenit. Bra andningsarbete, saturerar väl. Neurologiskt, pratbar och rör sig symmetiskt. I övrigt oanmärkningsvärd status. DIfferentialdiagnostiskt inga större förebehåll meningit (ingen nackstelhet, god neurostatus). Sannolikt feberkramp pga bilateral AMO. Ställningstagande LP efter disk. med Flöde och barnjour. Observation några timmar på akuten, med antipyretika, försök matintag + vätskeintag. Hemgg om gott status, och inga tecken försämrande AT och neurostatus. Feberkramp anses komplicerande för AMO, förskriver kåvepenin 5d. Avrapporterting med flöde gällande ställningstagande.
+
+
+
 #### Hjärtsvikt
 
 Emma 5 veckor kommer till barnakuten Anamnes Kontaktorsak: Amningsproblem Socialt 2:a barnet till sammanboende föräldrar. Alla friska. Graviditet och nyföddhetsperiod: Normal graviditet. Partus normalis i vecka 39 + 2. Okomplicerat förlopp. Aktuellt: Emma har varit tröttare den senaste veckan och inte orkat amma som vanligt. BVC sjuksköterskan noterar att hon tappar i vikt sedan ett par veckor. Emellanåt så svettas hon vid amning. Nu är hon trött och mamman är orolig att hon inte får i sig tillräckligt med mat. Emma har inga förkylningssymtom och ingen feber. Överkänslighet: Ingen känd. Status Allmäntillstånd: Trött, ej slö. Feberfri. Blek och hypoton. Kroppstemperatur: 36,7 °C Munhåla och svalg: Inspekteras ua. Öron: Trumhinnorna bilateralt ua. Ytliga lymfkörtlar: Inga palpabla på halsen. Hjärta: Normal rytm, Systoliskt blåsljud längs sternum vänster sida. Lungor: Normala andningsljud bilat, inga biljud. Buk: Mjuk, oöm. Leverkant palperas 2cm nedom arcus. Hud: Blek. Inga utslag Neuro: Fontanell palperas ua. Symmetriska rörelser. Gripreflexer i händer och fötter något svaga. Mororeflex ua. Något hypoton. PBD Skriv på nästa sida 
@@ -3873,6 +4185,32 @@ Emma 5 veckor kommer till barnakuten Anamnes Kontaktorsak: Amningsproblem Social
 ***Svar***
 
 5v flicka, normal PN 39+4, ingen hereditet, tidigare frisk, söker med misstänkt VSD/hjärtkomplikation + amingsproblematik. Senaste veckorna tröttare + ingen ork för amning + svett vid amning. Har enl BVC sjunkit i vikt senaste veckorna. Enl status inga tecken infektion, förkylning eller ÖLI. Vid hjärtauskultation vänstersidiga blåsljud. Lever palpabel 2cm nedom arcus. Gripreflexer svaga. Övrig spädbarnstatus ej påverkat. Enl anamnes + status misstänkt hjärtsvikt (e.g. signifikant VSD med förhöjd pulmonal resistens och nu högersidig svikt). NG-sond på akuten. Saturation preduktalt, postduktalt.  Läggs in BAVA för rehydrering enl PM (5% kroppsvikt 4h, RA), sondmatning (ersättning 4kg = 600mL 24h), återfödning, PEWS 4. viktkontroller, dygngsdiures. Kontakt barnkardiolog jour + barnneurologjour gällande fortsatt handläggning på avdelning. Avstämning med flöde gällande bedömning. 
+
+
+
+
+
+#### Hyperglykemi
+
+Intagningsorsak: 12 årig pojke med hyperglukemi Ärftlighet Morfar samt morbror med DM typ 2. Inga kända övriga autoimmuna sjukd i familjen. Socialt: Barn 3/3 till sammanboende föräldrar. Går i 6e klass engelska skolan. Haft lite extra mycket press i skolan. Trivs bra och har mycket kompisar. Gillar på fritiden att åka kickbike samt sysslar med parkour. Tid/nuv.sjukdomar: Väsentligen frisk. Överkänslighet: Kraftig överkänslighet mot pollen. Epidemiologi: 0 Aktuella läkemedel: Läkemedel för astma. Aktuellt: Druckit mycket vätska och kissat ofta de senaste två veckorna, även på nätterna vilket han annars inte gör. Ingen feber eller huvudvärk. Gått ner ett par kilo i vikt. Han har varit tröttare än vanligt och haft lite illamående de senaste dagarna. Status Allmäntillstånd: Hålögd och lite blek men annars vid gott allmäntillstånd. Vikt 38,6 kg Andningsfrekvens: Cirka 18 andetag/min. Saturation 98 % på rumsluft. Pulsfrekvens 90 slag/min Kroppstemperatur 36,9 °C Munhåla och svalg: Inspekteras normalt Ytliga lymfkörtlar: Palperas på sedvanliga stationer ua. Hjärta: Regelbunden rytm utan hörbara bi- eller blåsljud. Lungor: Vesikulära andningsljud bilateralt. Inga rassel, inga ronki. Buk: Palperas generellt mjuk och oöm Perifer cirkulation: Kapillär återfyllnad < 2 sekund er, perifert varm. Hud Huden ua. Provtagning pH 7,33, BE -8, natrium 127, kalium 4,2, b-glukos 38,9. Blodketoner 4,2. Urinsticka +3 ketoner och glukos 3+ Bedömning o Åtgärd – var god skriv på nästa sida! 
+
+
+
+***Svar***
+
+12åå pojke, tidg frisk, morbror DM2, söker pga trötthet, ökat vätskeintag, viktnedgång senaste 2v. Status överlag oanmärkningsvärt. Labbmässigt glukosuri, ketonuri, kompenserad metabol acidos, med B-glukos 38.3, blodketoner 4.2. Arbetsidagnos nydebuterad DM1 med svår hyperglykemi, och antydan början på DKA. Akut inläggning, rekommenderar inläggning BIVA för rehydrering och glukos/keton korrektion. Infarter på akuten, rehydrering RA/NaCl minst 1h INNAN insulinbehandling. Kaliumtillägg när kalium <3.5. Monitorering blodgas varje timme initialt. Kontakt barnendokrinolog, BIVA. Snabb avstämning flöde eller barnjour innan. 
+
+#### Kawasaki
+
+2 år gammal pojke på barnakuten Kontaktorsak: Feber. Remiss från Fittja vårdcentral Socialt: Barn 3 av 3 i hel familj. Går i förskola. Tidigare sjukdomar: Förkylningsastma, tar Airomir och Flutide regelbundet via Optichamber under vinterhalvåret Aktuellt: Feber och dålig aptit sedan snart 6 dagar. Varit påtagligt gnällig det senaste dygnet. Ögonen irriterade och röda. Ingen hosta eller andra symptom som föräldrarna känner igen som astma. Remitterad från vårdcentralen p g a oklar feber och högt CRP (110). Endast druckit 1 dl Festis sedan i morse. Ej kissat idag. Normal avföring i går. Status: AT: Kl 20.30. Påtagligt irritabel, svårtröstad. Normalt andningsmönster. Kap refill 2,5 sek. Temp 39,6. Saturation 99% på luft. Vikt: 14,1 kg. Vägde 14,8 kg för en månad sedan. MoS: Tydligt rodnad tunga. Torra slemhinnor, ilsket röda och spruckna läppar. Förstorade tonsiller bilat, rodnade. Inga beläggningar. Lymfkörtlar: Bilateralt förstorade ömmande körtlar i båda käkvinklarna, ca 2 cm. Ögon: Uttalad bilat konjunktivit med ökad kärlinjektion. Hjärta. RR, HF 110-130 ppm. Inga säkra biljud, svårbedömt p g a skrik. Lungor: Sidlika andningsljud. Inga ronki, inga krepitationer. Buk: Svårbedömt då gossen spänner sig. Ingen tydlig ömhet eller organförstoring. Neurologi: Normal sidlik tonus. Ingen nackstelhet. Hud: Makulöst utslag över större delen av bålen. Händer och fingrar inspekteras utan anmärkning. Lab: Måttlig grad av leukocytos, i övrigt normalt blodstatus. CRP 125. Blank urinsticka. Skriv din PBD på de anvisade raderna 
+
+***Svar***
+
+2åå gosse, söker med misstänkt Kawasaki. Förkylningsastma som beh med Airomir + flutide regelbundet under vinter. Nu Feber + dålig aptit senaste 6 dagarna. Högt CRP (110). Viktnedgång senaste dagarna sannolikt pga dehydrering och dålig nutrition, påtagligt  gnällig senaste dygn.  På akuten status uppfyller kriterier för kawasaki (vg se status). Cirkualtoriskt stabil (god CRF), inga tecken chock, meningit. Differentialdiagnostiskt osannolikt mononukleos, läkemedelsreaktion (steven johnson), eller sepsis. Ska efterfråga vaccinationsstatus. Planeras inläggning för rehydrering och nutrition. PVK  för uppvätskning och nutrition mtp MoS status. Ställningstagande inför IvIg efter diskussion med Flöde. PEWS x6. 
+
+
+
+
 
 
 
@@ -3916,6 +4254,29 @@ Emma 5 veckor kommer till barnakuten Anamnes Kontaktorsak: Amningsproblem Social
     * **Borrelia artrit**
     * **Psoriasis artrit**
   * **Detta är ingen: Septisk artrit**
+* **Du tar emot 12 åriga Suri på barnmottagningen för bedömning av ett knä som varit konstant svullet i snart fyra veckor. Hon förnekar bestämt bakomliggande trauma. Knät ömmar vid flexion och är värmeökat. Svullnaden är ff a lokaliserad medialt och lateralt om patella. Hon är opåverkad och afebril, men haltar tydligt. Övriga leder undersöks utan anmärkning.** 
+  * Uppfyller hon kriterierna för JIA, motivera kort ditt svar
+    * Nej
+    * kriterierna för JIA
+      * Under 16åå
+      * symptom över 6v
+      * uteslutit andra diagnoser
+* **Du funderar kort på om flickan skulle kunna ha en septisk artrit, men du kommer fram till att den diagnosen är mindre sannolik utifrån anamnes och status.** **b) Förklara med 3 punkter hur du resonerat! (1 p)** 
+  * Duration: leden konstant svullen 4 vecokor. Septisk artrit har ett mer akut förlopp
+  * Afebrilitet
+  * Ej allmänpåverkad
+* **c) Ange 4 relevanta blodprover – utöver Hb, LPK och TPK – du vill beställa som led i den fortsatta utredningen av Suris besvär? (2 p)** 
+  * SR/CRP
+  * ANA
+  * Borrelia serologi
+  * blodstatus + diff
+* **Du får snabbt svar från lab att Siris blodstatus är utan anmärkning. Farmodern är mycket lättad över beskedet, men hon undrar hur ”blodkroppsanalysen” kan se ut om ett barn har blodcancer.** **d) Förklara detta kort för farmodern! (1 p)** 
+  * LÅga nivåer blodkroppar, blodplätter och ofta höga nivåer eller låga nivåer vita blodkroppar
+* Vilke vanligaste barncancertypen
+  * ALL
+* Vilket prov tar man för att bekräfta en misstänkt blodcancer
+  * Benmärgsprov
+* Vilken behandling sätter du in i väntan på återbesäket
 
 
 
@@ -3980,7 +4341,7 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 ***Behandling***
-* NSAID.
+* !!! NSAID.
 * Om inte fungerar man kan skicka remiss till reumatolog för kortisoninjektion. 
 
 
@@ -4002,6 +4363,27 @@ Ataxic cerebral palsy is due to [...] damage.
 ## Vätskebalans
 
 ### Allmänt
+
+***Presentation***
+
+* !! **9mån pojke pat gått ned 8.4kg til 8kg, inlagd AB och har en sond**
+  * Väljer lägga in hamza för vätskbeh och nutritionsbeh via sond, samt beh proralt ntibiotika i form av ceftibuten
+  * ordinera vätska, volym i mL samt under hur lång tid vätskan ska ges
+    * Uppvätskning 
+      * 5% kroppsvikt på 4h. ORS (oral rehydration solution, istället för RA) då pat har sond
+    * Underhållsbehandling
+      * välling 1000mL på 24h
+* !!! **En 1 årig**: Notera att man lägger på + FÖRLUSTER
+  * flicka kommer till barnakuten för feber, kräkningar och diarre i 1½ dygn. Hon var normalviktig vid födseln och har följt sin vikt och längdkurva på medianen. I status är hon febril 38,5. Hon tycks lätt-medel dehydrerad med torra läppar. Kapillär återfyllnad 2 sek. Väger nu 9,5 kg., kräks ej på akutmottagningen men tar inte emot vätska. Du väljer att lägga in henne. Du väljer sond och skall nu ordinera rehydrering och underhåll. Dina ordinationer blir: (2 * 
+  * Rätt: ORS 500 ml på 4 timmar följt av välling underhåll 50 ml per timme + ***förluster med ORS*** 
+  * ORS 500 ml på 4 timmar följt av ORS underhåll 50 ml per timme 
+  * ORS 500 ml på 2 timmar följt av välling underhåll 50 ml per timme 
+  * ORS 500 ml på 4 timmar följt av välling underhåll 100 ml per timme + förluster med ORS 
+  * ORS 200 ml på 2 timmar följt av välling underhåll 50 ml per timme 
+
+
+
+***Allmänt***
 
 * Nyfödda, under 1 mån:
   * utgörs av 77% vatten. 
@@ -4048,7 +4430,7 @@ Ataxic cerebral palsy is due to [...] damage.
   * 5% av kroppsvikten över 4 timmar. 
   * sedan reevaluering av vätskestatus
 * ***Underhållsbehandling***: 
-  * ***Peroral form***: Då är patienten tillräckligt adekvat för att ta drycken sj, eller att det sker via sond
+  * ***Peroral form (välling?)***: Då är patienten tillräckligt adekvat för att ta drycken sj, eller att det sker via sond
     * 0-6mån: 150mL/kg/d
     * 6-12mån: 125mL/kg/d
     * \>12mån: 100mL/kg/d
@@ -4440,6 +4822,103 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
   * Begynnande menstruationsblödning
   * Begynnande könsbehåring 
   * Humörförändringar 
+
+
+
+### Pubertas praecox - För tidig pubertet
+
+* Man gillar det inte
+* man ska utreda detta, att man tar hormonprover för att se. 
+
+
+
+***Presentation***
+
+* isolerad svettlukt eller behåring... klan vara binjurebarkstumör
+  * MEN då ska man inte ha tillväxt eller könskognad, detta sker ej med binjurebarksmognad. 
+
+
+
+***Allmänt***
+
+* Notera att adenarche att binjurebarkspubertet kan ske tidigt, och det kan vara okej
+  * man gör ej MR hjärna för att man luktar svett
+  * utan man ska titta på de andra tecken på pubertet som man ska vara varsam för och uppmärksam. 
+
+
+
+***Definition:***
+
+* **Flickor**: Brösttillväxt < 8 åå
+* **Pojkar**: Testikelvolym > 4 ml < 9 åå
+
+
+
+***Orsak:***
+
+* Hos pojkar ofta patologisk orsak -> utredning obligat
+* Hos flickor oftast idiopatiskt
+* **Centralt utlöst**: CNS-tumör, idiopatisk
+* **Perifert utlöst**: Binjurebarkstumör
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Handläggning och Utredning***
+
+* Gonadotroppiner, bla LH, FSH, CENTRAL
+* könshormoner: östrogen, testosteron, PERIFER
+* skelettålder
+* MR hjärna
+* Gällande om man luktar svett
+  * att isolerat lukta svett, sen att det går bort etc, detta är okej
+  * notera 
+
+
+
+***Behandling***
+
+* GnRH-analoger (block av gonadotropin-utsöndring)
+
+### Pubertas tarda
+
+***Etiologi och patofysiologi***
+
+* Multifaktoriellt, samt många olika orsaker
+* Heriditet för sen pubertet: dominerar störst, se till att fråga föräldrarna om de hade för sen pubertet
+* ***Anorexia***
+* ***Kronisk sjukdom***
+* ***Hård träning***: både män och kvinnor. 
+* allvarligare diagnoser som ska beaktas
+  * ***CNS-tumör*** (ex kraniofaryngiom): detta att man får utreda.
+    * hypofystumör
+  * ***Turners syndrom***
+
+
+
+***Utrednin***
+
+* Gonadotropiner: bla FSH, LH;
+  * dessa bör dra iväg först. 
+* Könshormoner: östrogen och testosteron
+  * har man ett testo som börjar dra iväg ibland, då vet man att pubertet är snart igång
+
+
+
+***Handläggning och utredning***
+
+
+
+***Behandling***
+
+* testostoron im inj
+* östrogen plåster
+  * många tjejer som avstår. 
+
+
 
 ### Tillväxtkurvor
 

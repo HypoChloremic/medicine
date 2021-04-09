@@ -1952,6 +1952,59 @@ Enligt ABCDE
     * Buk Normala tarmljud. Palperas mjuk. Har ett litet navelbråck som lätt kan reponeras. Neurologiskt status Fin tonus, normalställd fontanell.
     * Perifer cirkulation Kapillär återfyllnad två sekunder. 
     * CRP < 5. LPK 27,8, Lymfocyter 18,5 (ref 1,5 – 8) Hb 104. Blodgas med pH 7,26, 7,2 i pCO2.
+* 1mån, ambulans, föräldrar hittade henne livlös. de lyfte upp henne hon vaknade till o hostade tills hon blev ***blå  ***
+    * har det hänt fler tillfällen
+    * hur hon mår mellan hostattacker
+    * blodstatus, dff
+    * saturation 96%
+    * CRP<5
+
+
+
+### Pneumoni
+
+***Presentation***
+
+* 3 årig pojke 
+  * som söker pga trötthet och hög feber sedan 4 dagar. Har nu tilltagande andningsbesvär. Nedsatt aptit. I status finner du en trött och lite blek pojke som har ökad andningsfrekvens. Inga indragningar och antydd rassel vid auskultation. Saturation 91%. Du tar ett CRP som är 110, U-sticka som är blank
+  * Pneumoni
+  * pneumokocker
+  * **Behandling initialt:** 
+    * bedömning enl ABCDE. 
+    * Inläggning
+    * Syrgas
+    * Bedöm kaprefill
+  * **Antibiotika**: 
+    * PcV förstahandsvalaet: peroral behandling (fenoxymetylpenicillin)
+    * // Amoxicillin: bättre smak, längre resoprtion, men kan selektera fram resistenta bakterier.
+    * Erytromycin: mykoplasma, klamydia, och penicillinallergi
+    * när iv antibiotika: 
+      * bensylpenicillin iv.
+      * eller cefotax
+
+
+
+**Utredning och handläggning**
+
+* 
+
+
+
+
+
+***Behandling***
+
+* ***Antibiotika***
+  * PcV förstahandsvalaet: peroral behandling (fenoxymetylpenicillin)
+  * // Amoxicillin: bättre smak, längre resoprtion, men kan selektera fram resistenta bakterier.
+  * Erytromycin: mykoplasma, klamydia, och penicillinallergi
+  * när iv antibiotika: 
+    * bensylpenicillin iv.
+    * eller cefotax
+
+
+
+
 
 ### RSV 
 
@@ -2099,47 +2152,6 @@ Enligt ABCDE
 
 
 
-
-### Pneumoni
-
-***Presentation***
-
-* 3 årig pojke 
-  * som söker pga trötthet och hög feber sedan 4 dagar. Har nu tilltagande andningsbesvär. Nedsatt aptit. I status finner du en trött och lite blek pojke som har ökad andningsfrekvens. Inga indragningar och antydd rassel vid auskultation. Saturation 91%. Du tar ett CRP som är 110, U-sticka som är blank
-  * Pneumoni
-  * pneumokocker
-  * **Behandling initialt:** 
-    * bedömning enl ABCDE. 
-    * Inläggning
-    * Syrgas
-    * Bedöm kaprefill
-  * **Antibiotika**: 
-    * PcV förstahandsvalaet: peroral behandling (fenoxymetylpenicillin)
-    * // Amoxicillin: bättre smak, längre resoprtion, men kan selektera fram resistenta bakterier.
-    * Erytromycin: mykoplasma, klamydia, och penicillinallergi
-    * när iv antibiotika: 
-      * bensylpenicillin iv.
-      * eller cefotax
-
-
-
-**Utredning och handläggning**
-
-* 
-
-
-
-
-
-***Behandling***
-
-* ***Antibiotika***
-  * PcV förstahandsvalaet: peroral behandling (fenoxymetylpenicillin)
-  * // Amoxicillin: bättre smak, längre resoprtion, men kan selektera fram resistenta bakterier.
-  * Erytromycin: mykoplasma, klamydia, och penicillinallergi
-  * när iv antibiotika: 
-    * bensylpenicillin iv.
-    * eller cefotax
 
 
 
@@ -4722,6 +4734,22 @@ Intagningsorsak 2,5 årig pojke med 1:a gångs kramp som inkommer till akuten i 
 
 
 
+
+
+#### Frånvaroattack
+
+Kontaktorsak: 6 årig flicka som inkommer akut efter frånvaroattack Ärftlighet: Ingen ärftlighet för epilepsi eller krampsjukdom. Socialt: Sammanboende föräldrar och första barnet. Tid/nuv.sjukdomar: Tidigare frisk. Aktuellt: Idag vid 21.30-tiden plötsligt börjat göra konstiga ljud ifrån sig strax efter insomnande. Modern sprang in till flickan som då satt rakt upp i sängen, stirrade rakt framför sig, gick inte att få kontakt med. Flickan, andades lite konstigt. Var lite blek men inte blå i ansiktet. Moder uppskattar att det varade i cirka 2-3 minuter, därefter gick det att få lite kontakt med henne men hon var väldigt slö och loj. Reagerade inte som vanligt, svår att få kontakt med, svarade inte som hon brukar på frågor. Ambulans tillkallades, reagerade ej vid blodprovstagningen för glukos. Har piggat på sig på akutmottagningen. Varit lite förkyld de senaste dagarna. Välmående under dagen. Magsjuk och förkyld innan jul. Inga tidigare episoder som liknar denna. Ingen säker hereditet för krampsjukdom. StatusAllmäntillstånd: Trött men ger motstånd vid undersökning i samband med att flickan väcks. Snuvig. Andningsfrekvens 25 andetag/min. Saturation 100 % Pulsfrekvens 120 slag/min. Kroppstemperatur 38,1 °C, Perifer cirkulation: Kapillär återfyllnad under 2,5 sekund. Munhåla och svalg: Inspekteras lätt rodnad över gombågarna. Öron: Inspekteras bilateralt, höger sida blek trumhinna, vänster sida lätt rodnad trumhinna men ej buktande. Ytliga lymfkörtlar: Palperas cervikalt och inguinalt utan anmärkning. Hjärta: Auskulteras med regelbunden rytm. Inga bi- eller blåsljud. Lungor: Vesikulära andningsljud bilateralt. Inga rassel eller ronki. Buk: Palperas mjuk och oöm. Neurologiskt status: Isokora pupiller, normal reaktion på direkt och indirekt ljus. Rör sig sidlikt. Ingen nackstyvhet. Hud: Inspekteras utan utslag, petekier eller erytem. Provtagning: Blodgas utan anmärkning. CRP under 5. Glukos 5,3. 
+
+
+
+***Svar***
+
+6åå flicka, ingen känd heredite, tidg frisk, söker för akut frånvaroattack. Litet förkyld senaste dagarna. Inatt 21:00 akut frånvaroattack, 2-3min, andades oregelbundet, därefter postiktal, "slö och loj" enl mamma, reagerade ej som vanligt, svår att få kontakt med.  Piggare på akutmottagningen. Status AT trött, motstånd vid undersökning samband med att hon väcks, snuvig, MoS lätt rodnad över gombågar, temp 38.1. Neurologiskt adekvat, symmetriska rörelser, isokora pupiller, ingen nackstyvhet. Arbetsdiagnos epileptiskt anfall, mtp tydlig frånvaroattack med potentiell postiktalitet. Differentialdiagnostiskt central infektion såsom meningit, men mindre sannolikt då AT inte tillräckligt dåligt, temperatur enbart 38.1. Inlägges för EEG utredning. Kan inte utesluta central patogenes t frånvaroattacken, därför DT-hjärna. Ingen LP i nuläget då frånvaroattack potentiellt fokalt utlöst. Rådfrågar flöde och senior kollega innan vidare handläggning. Planerad inläggning för vidare utredning.     
+
+
+
+
+
 #### Hjärtsvikt
 
 Emma 5 veckor kommer till barnakuten Anamnes Kontaktorsak: Amningsproblem Socialt 2:a barnet till sammanboende föräldrar. Alla friska. Graviditet och nyföddhetsperiod: Normal graviditet. Partus normalis i vecka 39 + 2. Okomplicerat förlopp. Aktuellt: Emma har varit tröttare den senaste veckan och inte orkat amma som vanligt. BVC sjuksköterskan noterar att hon tappar i vikt sedan ett par veckor. Emellanåt så svettas hon vid amning. Nu är hon trött och mamman är orolig att hon inte får i sig tillräckligt med mat. Emma har inga förkylningssymtom och ingen feber. Överkänslighet: Ingen känd. Status Allmäntillstånd: Trött, ej slö. Feberfri. Blek och hypoton. Kroppstemperatur: 36,7 °C Munhåla och svalg: Inspekteras ua. Öron: Trumhinnorna bilateralt ua. Ytliga lymfkörtlar: Inga palpabla på halsen. Hjärta: Normal rytm, Systoliskt blåsljud längs sternum vänster sida. Lungor: Normala andningsljud bilat, inga biljud. Buk: Mjuk, oöm. Leverkant palperas 2cm nedom arcus. Hud: Blek. Inga utslag Neuro: Fontanell palperas ua. Symmetriska rörelser. Gripreflexer i händer och fötter något svaga. Mororeflex ua. Något hypoton. PBD Skriv på nästa sida 
@@ -4767,6 +4795,24 @@ Kontaktorsak 7 månader gammal pojke kommer till akutmottagningen pga feber och 
 
 
 
+
+
+
+#### Pertussis TODO
+
+Kontaktorsak: 3 månaders pojke som kommer till akuten pga andningsbesvär och hosta Socialt: Första barnet till sammanboende föräldrar. Föräldrarna kommit till Sverige ifrån Nicaragua för drygt tre månader sedan, talar endast spanska. Samtal via tolk. Tid/nuv.sjukdomar: Prematurfödd v 35+1. Neoperiod ua och efter utskrivning från neonatalen i december mått fint. Erhållit 3 månaders vaccinationen för en vecka sedan. Epidemiologi: Mor varit förkyld med hosta. Aktuellt: Samtal förs med tolk. Berättar att pojken varit förkyld i ungefär två veckor med snor och hosta. Den senaste veckan intensiv hosta och haft jobbigt med andningen. Idag slutat andas i samband med flera hostattacker. Förefaller ha varit röd i ansiktet i samband med hostattack men sedan blivit blå om läpparna. Har sovit dåligt och äter sämre, äter BM-ersättning på flaska men det går väldigt långsamt. Urin o avföring normalt. Har haft periodvis tempstegring upp till 38,5. Status Allmäntillstånd: Enligt sköterska andningspåverkad vid temp- och vikttagning, nästoalett x 2 och natriumkloridinhalation med god effekt. När jag träffar gossen är han vital, lite gnällig men kommer till ro med napp. Har en hostepisod då han hostar så han tappar andan och får en ca 25 sekunders apne och blir blek och lätt blå om läpparna, men hämtar sig sedan snabbt. Vikt 5,2 kg Andningsfrekvens 57 /min. Saturation 97 %, Pulsfrekvens 163 /min, Kroppstemperatur 37 °C Munhåla och svalg: Fuktade slemhinnor. Inspekteras utan anmärkning. Öron: Trånga förhållanden, kan ej bedömas. Ytliga lymfkörtlar: Inga palpabla i huvud/halsområdet eller i ljumskar. Hjärta: Regelbunden rytm, inga hörbara bi- eller blåsljud. Lungor: Ej påtagligt ökat andningsarbete, inga indragningar. Inga biljud Buk: Normala tarmljud. Palperas mjuk. Har ett litet navelbråck som lätt kan reponeras. Neurologiskt status: Fin tonus, normalställd fontanell. Reflexer utan anmärkning. Perifer cirkulation Kapillär återfyllnad två sekunder. Femoralispuls palperas utan anmärkning. Hud: Inga utslag eller petekier. Provtagning: CRP < 5. LPK 27,8, Lymfocyter 18,5 (ref 1,5 – 8) Hb 104. Blodgas med pH 7,26, 7,2 i pCO2. Elektrolyter och glukos normalvärden. 
+
+
+
+***Svar***
+
+
+
+3mån pojke, prematur v35+1, föräldrar Nicaragua, kommit t Sverige 3 månader sedan, söker för apne + hostattacker. Neoperiod ua. Fått 3 månaders vaccination 1v sedan. Epidemiologiskt, mamma förkyld med hosta. Samtal med tolk. Pat förkyld senaste 2 veckor med snor + hosta. Senaste veckan mer intensiv hosta + jobbigt andningsarbete. Idag apne samband hosta, förefallit röd sedan blå om läpparna. Ätit sämre oklart hur länge. Urin + avföring normalt. Temp periodvis stegrat t 38.5. Statusmässigt andningspvåvekad, nästoalett med NaCl god effekt; vital vid undersöning, hostepisod och 25s apne, men hämtar sig. vikt 5.2kg, AF 57, sat 97%, MoS fuktade + ua, lungor inga indragningar, inga biljud. CRT 2s. provtagning CRP <5 + LPK 27.8, lymf 18, HB 104. Blodgas acidotisk, med pco2 7.2. Sammantaget arbetsdiagnos pertussis, mtp apneattacker med hosta + höga lymfocyter + lungor ua + epidem anamnes. Diff RS-virus bronkiolit eller kikhosta, men passar ej status eller anamnes. Inlägges för rehydrering och nutrition, antibiotika erytromycin för att reducera smittsamhet, smittskyddsåtgärder med separation. Konsult flöde + barninfektion innan fortsatt handläggning. 
+
+
+
+// Barn som är yngre än sex månader har inte fullt skydd av vaccinet. För dem kan kikhostan bli allvarlig och ibland livshotande. Extra utsatta är barn yngre än tre månader som ännu inte har fått sin första dos vaccin.
 
 ## Professionell Utveckling
 

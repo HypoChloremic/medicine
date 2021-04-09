@@ -444,6 +444,53 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ## Akut pediatrik
 
+### Hjärtstopp
+
+***Etiologi och patofysiologi***
+
+* Illustrated Paed
+  * Hypoxi
+  * ***Hypoglykemi***
+  * Hypokalemi/hyperkalemi
+  * Hypotermi
+  * !!!***Hypovolemi***
+  * Tension pneumothorax
+  * Toxisk påverkan, terapeutisk påverkan
+  * Trombos (koronart, pulmonart)
+  * !! Tamponad: kardiellt
+
+
+
+***Epidemiologi***
+
+* Hypoxi: Vanligaste orsak 
+
+
+
+***Handläggning och behandling***
+
+* Under HLR
+  * Ensure high-quality CPR: rate, depth, recoil
+  * Plan actions before interrupting CPR
+  * Give oxygen
+  * Vascular access (intravenous, intrasseous)
+  * Give adrenaline (epinephrine) every 3−5 min (10 μg/kg IV or IO,
+  * i.e. 0.1 ml/kg of 1 in 10 000 solution), otherwise 100 μg/kg via
+  * tracheal tube
+  * Consider advanced airway and capnography (end-tidal CO2 monitoring)
+  * Continuous chest compressions when advanced airway in place
+  * Correct reversible causes
+  * Consider amiodarone (5 mg/kg) after 3 and 5 shocks
+* Post ROSC
+  * ABCDE
+  * KOntrollerad oxygenering, ventilation
+  * utredningar, labb
+  * behandla orsak
+  * temperatur kontroll
+  * tereapeutisk hypotermi
+
+
+
 ### Presentation och orsaker till svår sjd hos barn
 
 * **Chocktillstånd, shock**
@@ -465,7 +512,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * **Akut buk:** appendicit, peritonit
   * **Intestinal obstruktion:** intussuception (invagination), malrotation, tarm-atresi, tarm-stenos
 
-### Resuscitation: HLR o grabbarna
+### Resuscitation: HLR
 
 
 
@@ -498,20 +545,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Fortsätter HLR 15:2. Avvaktar defibrillering och adrenalin i väntan på nästa rytmanalys om 2 minuter. 
   * rätt: Fortsätter HLR 15:2. Defibrillerar 4 J/kg så snart plattorna är på plats och förbereder adrenalin som skall ges efter 3:e defibrilleringen. 
   * Fortsätter HLR 15:2. Defibrillerar 4 J/kg så snart plattorna är på plats och ger omgående adrenalin i den infart som sättes. 
-
-
-
-#### Wet Flag
-
-***Läkemedel enl WET-FLAG***
-
-* ***adrenalinet***: notera att doseringen 0.1ml/kg av 0.1mg/ml avser 0.01mg/kg också, vilket är samma dos som avsett.
-
-<img src="./imgs/wet_flag.png" alt="wetflag" style="zoom:50%;" />
-
-
-
-
+* Zaid 6 månader inkommer på larm p g a medvetslöshet. Han har haft en svår gastroenterit med frekventa voluminösa diarréer sedan 4 dagar. Han skickades hem från akuten föregående dygn med sedvanliga råd avseende behandling med vätskeersättning i hemmet, vägde då 8 kg. Du anländer som barnjour till akutrummet 3 min efter att ambulansen lämnat över barnet. På barnbordet ser du en blek gosse som inte andas. På monitorn noterar du att hjärtfrekvensen är 55 slag/min. Saturationen går ej att avläsa, sannolikt p g a perifer kyla. Ansvarig sjuksköterska berättar att kap refill är 5 sekunder. Du gör omedelbart följande: 
+  * Ger gossen 5 inblåsningar följt av HLR 15:2. Ber ssk sätta en pvk och ordinerar bolusvätska Ringeracetat 160 ml och Adrenalin 0,1 mg/ml 0,8 ml. Larmar narkosen om insatta åtgärder ej förbättrar patientens mående. 
+  * Ber en sköterska larma narkosen. Ger gossen 5 inblåsningar följt av HLR 15:2. Förbereder för intravenös infart och ordinerar bolusvätska Ringeracetat 160 ml och Adrenalin 1 mg/ml 0,8 ml 
+  * Ber en sköterska larma narkosen. Ventilerar med neopuffen ca 20-30 inblåsningar per minut. Ber ssk sätta en pvk och ordinerar bolusvätska Ringeracetat 160 ml. Kontrollerar andning, puls och kap.refill omgående efter insatta åtgärder. 
+  * rätt: Ber en sköterska larma narkosen. Ger gossen 5 inblåsningar följt av HLR 15:2. Förbereder för intraosseös infart och ordinerar bolusvätska Ringeracetat 160 ml och Adrenalin 0,1 mg/ml 0,8 ml 
+  * Ventilerar med neopuffen ca 20-30 inblåsningar per minut. Ber ssk sätta en pvk och ordinerar bolusvätska Ringeracetat 160 ml. Kontrollerar en blodgas. Larmar narkosen om insatta åtgärder ej förbättrar patientens mående. 
 
 
 
@@ -524,6 +563,44 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * EFter 3e deffen, för VF/VT
 
 <img src="./lectures/ped_lec/imgs/ped_9D15xjXjny.png" alt="9D15xjXjny" style="zoom:80%;" />
+
+
+
+
+
+#### Wet Flag
+
+***Läkemedel enl WET-FLAG***
+
+* ***adrenalinet***: notera att doseringen 0.1ml/kg av 0.1mg/ml avser 0.01mg/kg också, vilket är samma dos som avsett.
+
+<img src="./imgs/wet_flag.png" alt="wetflag" style="zoom:50%;" />
+
+***Adrenalin***
+
+* HLR: 0.1mg/mL, 0.1mL/kg
+* anafylaxi: 1mg/mL, 0.01mL/kg
+
+
+
+
+
+#### Åtgärder
+
+***Enligt ABCDE***
+
+
+
+| Del         | Bedömning                                                    | Åtgärd                                                       | Exempel                                                      |
+| ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Airways     | Titta, lyssna, känna                                         | haklyft, käklyft, sug, adrenalin im / inhal, NaCl (inhalation), näskantarell, svalgtub, larynxmask, narkos o intubation | Främmande kropp, krupp, slem (CF, RS), intox, medvetslöshet, anafylaxi |
+| Breathing   | AF, mönster, arbete, cyanos, saturation, auskulterar         | syrgas, näsgrimma, **oxymask**, inhalationer (adrenalin, ventolin, atrovent), kortison, ventilera (blåsa, neopuff) | Pneumothorax, astma, RS                                      |
+| Circulation | Perifer cirk (kap refill), temperatur (varm perifer?), EKG, HF, puls (amplitud), buk, temp, (inte riktigt blodtryck) | PVK, RA 20mL/kg (10mL/kg), provtagning (blodgas, CRB, blododling), ev antibiotika (cefotaxim, ampicillin) | sespsis, dehdyrering,                                        |
+| Disability  | Pupiller, GCS, AVPU, glukos, nackstyvhet, tonus, reflexer, fontanell, kramp | midazolam (0.2-0.3mg/kg), glukos (10%, 2mL/kg <3?), antibiotika, giftinfo, LP | Feberkramp, epilepsi, meningit, intox, ICP                   |
+
+Enligt ABCDE
+
+* Airways: 
 
 
 
@@ -1011,6 +1088,24 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 ### Diarre 
+
+
+
+***Presentation***
+
+* **Muhammed 3 år söker på grund av frekventa diarréer sedan 3 dagar och har svårt att äta och dricka. Han har 38C feber och är trött, nästan slö. Han är frisk sedan tidigare men nu har han gått ner 2 kg i vikt. Han väger 16kg. Han har knappt kissat senaste dygnet. Du ser en slö pojke med takykardi och en kapilläråterfyllnad på 3,5s. Du bestämmer dig för att ta en blodgas snabbt som visar pH 7,29, BE -12, Na 155, K 3,6, pCO2 4.** **Hur handlägger du detta fall de närmaste timmarna. Skriv i kronologisk ordning och i punktform. (4p)** 
+  * Bedömning enl ABCDE
+  * B: kopplar syrgas vid  låg saturation, inhalationer om föreligger obstruktivt status...
+  * C: kapilläråterfyllnad. Infarter, RA bolus 20mL/kg, så fort som möjligt då förlängd kap refill
+    * fråga om vaccinationsstatus
+    * Prover: blodgas, CRP, faeces-odling, F-PCR för Rotavirus om vaccinationsstatus dålig.
+  * D: Glukos, bedöm neurostatus och AVPU
+  * E: Temperaturmättnign och inspektion hudkostym
+  * Andra åtgärder och planer
+    * **Rehydrering**: 5% RA över 4 timmar. 
+    * **Insätting underhållsbehandling glukos**: långsam sänkning av natrum ner t 145, undvika risken för hjärnödem
+      * Förväntad vikt 15kg: 1000mL + 50mL * 5 = 1250mL per dag + förluster
+    * // inte sänka natrium mer än 0.4mM per timme. 
 
 
 
@@ -2964,13 +3059,19 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Stabilisering patienten: vätskemässigt
     * Smärtlindring
     * V-sond
-    * 
 * **Eliza är 4 månader gammal** 
   1. och fick rotavirus-vaccin förra veckan. 
   2. Hon har varit gnällig i en timme. 
   3. Föräldrarna uppfattar det som buksmärta.
   4. Smärtorna kommer i intervaller, däremellan är hon helt stilla. 
   5. Kräkts flera gånger. 
+* 3.5 månader gammal pojke 
+  * som söker med sina föräldrar pga att han verkar ha ont i magen och är missnöjd. Han är fullgången och frisk sedan tidigare. Han följer vaccinationsprogrammet i Stockholm vilket innebär att han även har vaccinerats mot Rotavirus. Vad är den mest fruktade biverkan av Rotavaccin? 
+  * encefalit 
+  * feber 
+  * gastroenterit 
+  * rätt: invagination 
+  * meningit 
 
 
 
@@ -3790,6 +3891,10 @@ En kort lista över kliniska manifestationer av CF:
     * neurometabol skreening, genetisk utredning. 
     * EEG ska visa hyxarrytmi: ser ut som kaos och jättehöga amplituder. 200-300mikro Volt, vanligtvis runt 50 mikrovolt. 
     * West syndrom: EEG karak i.e. hyxmönster + avstannad utveckling + infantila spasmer = West syndro
+* **Sara 3 månader gammal söker akut med sina föräldrar pga gnällighet och ryckningar. Ryckningarna utgörs av först en nickning i huvudet följt av en flektionsrörelse i armar och ben utan medvetandeförlust. Du noterar att Sara har avstannat i utvecklingen. Du behöver skicka en akut remiss för EEG för att få rätt diagnos.** 
+  * **Vad förväntar du att få för svar från EEG undersökningen? Det är en mycket karaktäristisk bild vid detta tillstånd. (1 p)** 
+  * Wetst syndrome
+  * EEG visar Hypsarrytmi, tecken till infantila spasmer. 
 
 ***Diagnos***
 
@@ -3951,6 +4056,19 @@ En kort lista över kliniska manifestationer av CF:
 
 
 ## Nefrologi och urologi
+
+
+
+### Allmänt
+
+***Presentation***
+
+* Ett organsystem kan påverkas mkt allvarligt av Ibuprofen intox vid dehydrering. Med bakgrund av det, vilket prov vill du ta för att undersöka eventuell biverkan? 
+  * Na 
+  * Troponin 
+  * rätt; Kreatinin 
+  * ALAT 
+  * S - Ibuprofen 
 
 
 
@@ -4388,6 +4506,18 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Tentfalll
 
+#### Anafylaxi
+
+Kontaktorsak: 4-år gammal flicka kommer till akutmottagningen pga utslag och nu tilltagande andningsbesvär. Socialt: Barn 1/1, sammanboende föräldrar. Kommer med mamma. Tidigare o nuvarande sjukdomar: Tidigare frisk. Hereditet: Ingen känd Aktuellt: Maja lekte tillsammans med en kompis hemma helt plötsligt klagade på klåda. Mamman noterade utslag på kroppen och att Maja kliade. Hon tyckte det kändes konstigt i munnen men i övrigt var relativt opåverkad. Mamman slängde sig i bilen med Maja och åkte till barnakuten. De bodde nära sjukhuset så de var inne på 10 minuter. Maja nämnde att hon fick smaka en chokladbit av kompisen, det visar sig att chokladbiten innehöll nötter. Maja började bli gnällig och blev mer andningspåverkan. Nu var de på akuten och fick snabb hjälp. Status Allmäntillstånd: Temp 37,5 C. Ledsen o missnöjd. Protesterar vid undersökningen. Kapillär återfyllnad 3 sekunder. Saturation: 89%. Subkostala indragningar. AF 40. Vikt: 18 kg Munhåla och svalg: Retningsfritt förutom lätt rodnad tunga. Öron: Trumhinnan inspekteras utan anmärkning bil. Ytliga lymfkörtlar: Inga tydliga lymfkörtlar cervikalt. Hjärta: RR, takykardi 160. Lungor: Ronki bilateralt basalt. Buk: Mjuk och oöm. Inga organförstoringar. Hud: Lätt upphöjda rodnade makulopapler generellt på kroppen. Rodnad i ansiktet med lätt svullnad runt ögonen Neuro: Symmetriska rörelser. Normal tonus.
+
+
+
+***Svar***
+
+4åå flicka, tidg frisk, ingen känd hereditet, söker med anafylaxi, svårigheter andnign efter intag jordnötter. Precis innan akut inkomst intagit jordnötter på lekplats, varpå kliande utslag och andningssvårigheter. Statusmässigt enl ABCDE, verkar hålla fri luftväg men potentiellt hotande, saturer 89%, subkostala indragningar, AF 40, ronki basalt bilateralt, takykardi 160, kap refill 3 sek, AVPU adekvat, makulopapler generellt på kropp, rodnad ansikte, lätt svullnad runt ögon. Bedömer som akut anafylaxi, trigger jordnötter. Diff astma, mindre sannolikt mtp förlopp. Rek adrenalin 1mg/mL 0.01mL/kg im. Infarter. betapred po och desloratadin po. Ventoline inhalationer. Syrgas. Inläggnign för observation. PEWS varje timme första timmarna. Ställningstagande adrenalin penna, CAVE efter stabilisering. Kontakt barnallergelog jour. Avstämning med flöde.
+
+
+
 #### Bronkiolit och ÖLI
 
 7 v gammal flicka på barnakuten Kontaktorsak: Apné i hemmet. Inkommer på larm med ambulans. Socialt: Första gemensamma barnet. Äldre halvsyskon (2,5 år) på förskola. Graviditets- och nyföddhetsförlopp: Okomplicerad graviditet. Akut sectio v 34+4 p g a kraftig vaginal blödning. FV 2,1 kg. Vårdad neo 4 veckor, CPAP första levnadsveckan. Antibiotikabehandlad (Bensyl PC och Biklin) p g a suspekt sepsis, neg blododlingar x 2. Aktuellt: Välmående sedan utskrivning från neo fram till för 2 dagar sedan. Sedan dess tilltagande snuva och andningsbesvär. Andats snabbt och ansträngt enligt föräldrarna. Ammat sämre, ej velat ta bröstet sedan i morse. Möjligen kissat mindre än vanligt. Bajsat normalt under ambulanstransporten. Ej känts varm, tempen ej kontrollerad. Kl 19, i samband med amningsförsök, plötsligt slutat andats. Var slapp i hela kroppen i samband med detta, men ingen säker färgskiftning. Återfick andning och tonus efter några sekunder efter att föräldrarna sugit bort segt slem med hjälp av nässug. Stabil under transporten, erhållit syrgas på mask. Status: AT: Kl 19.45. Något blek och tagen, öppna ögon. AF 70/min. Rejält snorig, diskret hosta. Interkostala indragningar och bukandning. Saturation 97% med 5 L syrgas på öppen mask. Kap refill 2,5 sek. Temp 37,2. Vikt: 2,8 kg MoS: Något torra slemhinnor. Oretat svalg. Hjärta. RR, normofrekvent. Inga blåsljud. Lungor: Rikligt med slembiljud över båda lungfälten. Buk: Mjuk, ingen organförstoring Neurologi: Sidlik tonus i övre och nedre extremiteter. Normala nyföddhetsreflexer. Fontanell ua. Hud: Inspekteras utan anmärkning Lab: Blodgas med pH 7.32, pCO2 9 och BE -6. Glukos 5.4. CRP 7. Skriv din PBD på de anvisade raderna 
@@ -4458,7 +4588,13 @@ Intagningsorsak: 12 årig pojke med hyperglukemi Ärftlighet Morfar samt morbror
 
 
 
+#### Meningit
 
+Kontaktorsak 7 månader gammal pojke kommer till akutmottagningen pga feber och slöhet. Socialt: Barn 3/3, sammanboende föräldrar. Kommer med båda föräldrarna. Graviditet och nyföddhetsperiod: Normal graviditet. PN. Född i v 38+5. FV 3450g. Komplikationsfritt neonatalt. Tidigare o nuvarande sjukdomar: Tidigare frisk. Hereditet: Pappan pollenallergi. Aktuellt: Har mått bra tills igår när han började äta sämre. Har ingen förkylning. Febern runt 39-40C. Syskonen förkylda med feber. Blöjan var inte lika tung som vanligt på morgonen. Är inte lika aktiv med rörelser och jollrande. Trött, sover mest. Status Allmäntillstånd: Temp 40,2 C. Slö. Kapillär återfyllnad 3,5 sekunder. Saturation: 91%. Inga indragningar. Gråblek. Vikt: 7,5 kg Munhåla och svalg: Retningsfritt. Öron: Inspekteras rodnade men ej buktande bilateralt. Ytliga lymfkörtlar: Inga lymfkörtlar cervikalt. Hjärta: RR, takykard 170. Lungor: Normala andningsljud, möjligtvis lite svaga då han inte orkar ta ordentliga andetag. Buk: Mjuk och oöm. Inga organförstoringar. Hud: Inga exantem. Neuro: Försiktiga symmetriska rörelser. Slapp. Ger ingen kontakt. Fontanell lätt spänd. Ej nackstyv. 
+
+
+
+7mån pojke, tidg frisk, PN v38+5, FV 3450kg. Epidemiologiskt syskon med feber. Igår fick pat  feber 39-40grader, ätit sämre, vägt mindre, mindre tung blöja på morgonen, mindre rörelser och jollrande, mer trött än vanligt, och sover mest. På akuten 40.2grader, slö, kap ref 3.5s, saturation 91%, inga indragningar, blek, 7.5kg, Takykardi 170. Öron rodnade ej buktande. Något svaga andningsljud, orkar ej. neuro symmetrisk, försiktiga rörelser, slapp, ingen kontakt, fontanell lätt spänd, ingen nackstyvhet. Bedömer att central infektiös genes ej kan uteslutas, däribland meningit. Differentialdiagnostisk genes fr öron, e.g. AOM, men sammantaget fortfarande riskpatient. Mindre sannolikt RS-virus. Inläggningsfall. Infart på akuten, V-sond. infarter cefotaxim + aciclovir. LP-provtagning. kap-Hb, kap-CRP, u-sticka. Urinodlar, blodlar. RA bolus 20mL/kg iv. ORS 5% kroppsvikt 4h po. Underhållsbehandling  välling 125mL/kg/d.
 
 
 
@@ -4540,6 +4676,13 @@ Ataxic cerebral palsy is due to [...] damage.
   * kommer till din mottagning. Hon har haft ett svullet höger knä och en svullen vänster fotled i många veckor. Hon är stel på morgonen och det tar ett par timmar innan hon har normal gång. Hon har en mormor som har ledgångsreumatism i övrigt inga reumatiska sjukdomar i närmaste släkten. Anna blev fästingbiten i somras men fick ingen ring runt bettet. I status kan du bekräfta anamnesen. Övrigt ledstatus är utan anmärkning Du misstänker en diagnos och beställer prover. Vilket alternativ stämmer bäst med din bedömning och plan:
   * **Juvenil idiopatisk artrit.** 
   * **Borreliaserologi, Blodstatus, CRP och SR, ANA**
+* Karin 4 år
+  * och tidigare väs frisk, har haltat lätt sedan 7 veckor tillbaka men hon har inte klagat över smärta. I status noteras att hon har gott allmäntillstånd, haltar och är afebril. I ledstatus kan du notera en svullnad och värmeökning i hö knä och hö fotled. Viss inskränkning av flektion och extension av båda lederna. Övrigt somatiskt status inkl hud är utan anmärkning. Du vill nu utreda flickan. Vilka prover vill du ta? 
+  * Blodstatus, B-celler, CRP, SR, Reumafaktor, CCP-antikroppar 
+  * Blodstatus, B-celler, PK-INR, ApT-tid, ANA, CRP 
+  * Blodstatus, B-celler, CRP, Punktion av leden med cellräkning, protein, bakterieodling av ledvätska, Borrelia antikroppar i ledvätska 
+  * Blodstatus, B-celler, ANA, ANCA, CRP 
+  * rätt: Blodstatus, B-celler, ANA, Borrelia serologi, CRP, SR 
 
 
 
@@ -4637,6 +4780,13 @@ Ataxic cerebral palsy is due to [...] damage.
   * Vätskeersättning, 1000L på 24 timmar 
   * rätt: Vätskeersättning 500 ml på 4 timmar [ORS via sond alltså]
   * // De frågar om rehydrering vilket innebär RA/ORS. Rehydrering innebär också en tid på 4 timmar. 5% av flickans kroppsvikt. Man kan tänka sig att hon väger kanske ca 10 kg. 
+* Noel, 11 månader, 
+  * kommer med sin far till akuten pga gastroenterit sedan 2 dagar. Han behåller inget, kräks och har vattniga diarréer. Det är svårt att få i honom vätska. Han är slö och har torra slemhinnor, tachykard och har gått ner ca 1 kg i vikt. Han väger nu 10 kg. Blodgasen visar S-Na 156 mmol/l. Du ger en uppvätskning och därefter underhållsbehandling. Vilket av nedanstående stämmer som underhållsbehandling under 36 timmar? 
+  * 5% glukos, Na 80-120, K 20, 2800ml + förluster 
+  * rätt: 5% glukos, Na 40, K 20, 1500ml + förluster 
+  * 10% glukos, Na 80-120, K 40, 1500ml + förluster 
+  * 10% glukos, Na 80-120, K 20, 2800ml + förluster 
+  * Ringeracetat, 2800ml + förluster 
 
 
 
@@ -4697,6 +4847,8 @@ Ataxic cerebral palsy is due to [...] damage.
     * 0-10kg: 100mL/kg/d
     * 10-20kg: 1000mL + 50mL per kg över 10kg
     * \> 20kg: 1000mL + 20mL per kg över 20kg
+
+
 
 #### Hyperton dehydrering
 
@@ -4799,10 +4951,16 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 
 * ***Spädbarnsåren***: 150-175g/v
 * ***quadrupled weight***: efter 2.5 år...
+* **Viktformler**
+  * 0-1år: 0.5*mån +4
+  * 2-5åå: 2*år + 8
+  * över 5: 3 * år + 7
 
 
 
-#### ***!!! Endokrinologiskt***
+
+
+#### !!! Endokrinologiskt
 
 * **fosterfasen**: Insulin kortison.  
 * **spädbarnsfas**: IGF-1, tyrodieahormon, insulin, kortison. 

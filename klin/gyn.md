@@ -3209,6 +3209,7 @@ cerivicit
   * **Genetisk predisposition**: ökad androgenicitet (testosteronnivåer höga, SHBG låga), som ger anovulation
   * **Höga insulinnivåer, insulinresistens**: relaterat med mkt, e.g. övervikt. Kan direkt påverka ovarierna, varpå ökad androgrenicitet, och anovulation
     * minskad SHBG rel med insulinresistens osså, varpå samma effekt. 
+    * **Minskad SHBG syntes levern**: Höga insulinnivåer och resistens leder till att man får minskad SHBG produktion.
 
 
 
@@ -3293,6 +3294,12 @@ cerivicit
 * **menstruationsstörning**: p-piller (yasmin, diane (anti-androgena?)), cykliskt gestagen
 * **hirustism**: p-piller; epilering; antiandrogener; spironolakton; androcur (cyproteron); casodex (bikalutamid)
 * **graviditetsönskan**: ovulationsstimulering; ivf; gonadotropinstimulering
+* **Effekt av kombinerad hormonbehandling**
+  * **Starkt östrogenpåslag**: Påverkar SHBG produktionen på ett positvit sätt, att man driver upp leversytnesen av SHBG, som i sin tur minskar testosteron koncentrationerna i plasma
+  * **Antiandrogena gestagener**: kompetetiv antagonsisering, blockering, av androgen vid målorganet. Sänkning
+  * Exampel: Diane, innehåller Cyproteron (anti-androgent gestagen) + Etinylestradiol
+    * Cyprotoeron: antiandrogen, effekt. Kompetetiv blockering av androgen targets i perifera målorgan + antigonadotrop, så minskar central stimulering av androgenproduktionen. 
+    * Etinylestradiol (östrogen): ökar SHBG syntesen i levern verkare som
 
 ### Prematur ovariell svikt
 
@@ -4344,17 +4351,17 @@ En del av källorna är fr Bernebrandt
     * tidg GDM
     * tidg stort barn: >=4.5kg eller +2SD
     * BMI >= 35
-  * !! OGTT omgående (asap): 
+  * !! **OGTT omgående (asap)**: 
     * slumpmässig kP-gluks >= 9mM men <12mM
     * !! om slumpmässig kP-gluk >=12mM: ta kap faste glukos kfP-gluks INNAN OGTT
     * accelererad fostertillväxt
     * hög fostervikt >=22%
     * polyhydramnios
-  * kfP-glukos: tas om kP-gluk >=12mM
+  * **kfP-glukos**: tas om kP-gluk >=12mM
     * !!! om >=7mM: hög sannolikhet behandlingskrävande diabates, GÖR EJ OGTT
     * BMM ska då utrusta patienten med glukosmätare, instruera om daglig glukoskontroll x 5, kost och motion, se vårdgivarguiden.se
 
-* OGTT med 75g glukosbelastninng 
+* **OGTT med 75g glukosbelastninng** 
 
   * (ange på remiss att pat är gravid)
 

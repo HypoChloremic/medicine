@@ -197,6 +197,15 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * betapred + antihistamin
   * vad har hon drabbats av: anafylaktisk reaktion
   * Hur behandlar du Lotta akut: 
+* **Karin, 3 år, inkommer till akuten då hon plötsligt i samband med lek hos en kusin blivit orolig, blek samt fått utslag över kroppen. Börjat gråta. Hon har fått väsande andning, vilket hon tidigare ej haft annat än i samband med förkylningar. Hon har den senaste tiden ej haft feber eller varit förkyld. Hon inkommer i ambulans 15 minuter senare. I ambulansen fått inhalation Ventoline. Status: Temp 36,8. Ingen snuva. O2 sat 82%, orolig, blek, väsande andning med press på expiriet. Oregelbundna rodnade utslag med vit upphöjd hud i mitten över bål och armar o lår. Pulm förlängt expirium, expiratoriska rhonki. Kapillär återfyllnad 3-4 s. BT 70/40. Hjärta normal rytm, frekvens 110.** 
+  * **Vad blir din diagnos? (1p)** 
+    * Anafylaxi
+  * ange 4 viktigaste första behandlingarna, typ av lkm, adminstrationssätt
+    * Adrenalin im
+    * Vätska
+    * Ventoline
+    * syrgas
+    * // betapred, antihistamin därefter
 
 
 
@@ -744,6 +753,10 @@ Enligt ABCDE
 * **15-year-old healthy boy**
   * presents for a routine health maintenance visit. On examination, you note bilateral breast enlargement and sexual maturity rating 3 (Tanner stage) pubertal development. The remainder of the examination is unremarkable. Which of the following is  the most appropriate next step in management?
     * Order no tests and provide reassurance that the condition will resolve spontaneously.
+* **En 14–årig pojke kommer till allmänläkarmottagningen på grund av ömhet på höger bröstvårta. Vid undersökning känner Du en liten fast knöl som känns som bröstvävnad strax under areola. Ingen rodnad. Status i övrigt ua.** **Vilken är den mest sannolika orsaken/diagnosen? (1p)** **
+  * **Gynekomasti. Kan drabba pojkar i tonåren och brukar gå bort i 20-årsåldern. **
+  * Hur bör man handlägga detta? (1p)
+  * Avvakta 6 mån. Brukar gå tillbaka av sig självt. Om inte och besvärande kan man planera för ev operation. 
 
 
 
@@ -1273,6 +1286,11 @@ Enligt ABCDE
     * neonatal ikterus (nedbrytning av hem). RH-immunisering, ABO-immunisering
   * 3d gammalt, ikteriskt, bilirubin 380, konjugerat 10
     * Övervikt okonjugerat
+* **På BVC har sjuksköterskan satt upp en 5 veckors flicka på läkarundersökning, eftersom hon är lätt ikterisk fortfarande. Flickans födelsevikt var 3560 g och hon väger nu 3820 g. Hon ammas helt och mor tycker hon verkar äta bra. I status finner du en pigg flicka som är lite gröngul i färgen. Status i övrigt är u.a., förutom att flickan har ett ganska sparsamt hull.** 
+  * 2 viktigaste proverna du vill ta
+    * Total bilirubin + konjugerat bilirubin
+  * nämn 1 sjd som kan ge den här gröngula färgen vid den här åldern
+    * Gallvägsatresi?
 
 
 
@@ -1384,6 +1402,18 @@ Enligt ABCDE
 
 
 ### Allmänt
+
+
+
+***Presentation***
+
+* **Varför drabbar de klassiska ’barnsjukdomarna’, såsom vattkoppor, mässling, påssjuka och röda hund, främst barn (under förutsättning att de inte är vaccinerade)?***
+  * *Ange i korthet två orsaker.** 
+    * Adaptiva immunssytemet har einte bildat minne mot dessa agens, varpå inte kan mount a defence
+    * Allmänt immuniserad befolkning pga tidigare exponering eller vaccination, varpå det isolerats till barn. 
+    * Sjukdomar med hög smittsamhet, större andelar av population bör ha drabbats, varpå överlavare immuniserade, varpå nyfödda icke-exponerade tidigt infekterats och insjuknar. 
+
+
 
 ***Etiologi och patofysiologi***
 
@@ -1726,6 +1756,16 @@ Enligt ABCDE
 * ***Vilken/vilka av symptom och manifestationer kan innebära allvarlig sjukdom hos barnet:*** hematuri, nefrit, nefros, njursvikt
 * Stina 5 år 
   * har sedan tre dagar haft utslag på benen som är lokaliserade till baksidan av låren, på skinkorna samt på underbenen. Utslagen är rödblå från mm stora till flera cm stora. De går ej att trycka bort. Hon har dessutom svullnad vid fotleden samt därav hälta. Det senaste dygnet har hon dessutom klagat över bukont. Vilken diagnos ligger närmast till hands? Vilka enkla prover vill du ta och varför? Hur kan man behandla buksmärtorna?
+* **Stina, 3 år, kommer till barnläkarmottagningen på grund av att hon har fått utslag och haltar på hö ben. Stina hade lite tempstegring i 3 dagar kring 38,5 för drygt en vecka sedan, men är nu feberfri. Igår noterade mamma utslag på baksidan av låren samt på skinkorna. Idag har hon fått svullnad kring hö fotled. På dagis har det gått halsfluss. Status: Afebril. Gott allmäntillstånd men haltar på hö ben. Röda utslag, upp till ett par cm stora, lokaliserade på skinkor och baksidan av benen ner mot fötterna. Går ej att trycka bort. Svullnad av fotleden och upp mot fotryggen. Övriga leder u.a. Lab: Hb 120 g/l. Trc 189,. Vita 8.6. Diff u.a. CRP 38.** 
+  * **Vad misstänker du för diagnos i första hand? (1p)** 
+    * HSP, IgA-vaskulit
+  * 2 andra organ som kan drabbas vid den här sjukdomen
+    * Njurarna
+    * gastrointestinalt
+    * Hud
+    * Leder
+  * Nämn ett viktigt prov som du måste komplettera med
+    * kreatinin
 
 
 
@@ -1734,7 +1774,8 @@ Enligt ABCDE
 * Typ 3 hypersensitivitet
 * småkärls vaskulit (small-vessel vasculitis)
 * IgA-vaskulit: IgA immun komplex deposition
-* ***Njurpåverkan***: immun-komplexen kan deponeras glomerulärt också, som i sin tur kan driva njursvikt. 
+* **Njurpåverkan**: immun-komplexen kan deponeras glomerulärt också, som i sin tur kan driva njursvikt. 
+* **Organ som påverkas, TODO**
 
 
 
@@ -2208,6 +2249,10 @@ Enligt ABCDE
   * aplastisk anemi och anstaltar om diff och benmärgsundersökning 
   * rätt: leukemi och anstaltar om diff, urat, benmärgsundersökning med kromosomundersökning 
     * Förklaring: diff är standard, urat värderar risk för tumörlyssyndrom, benmärgsundersökning med mikroskopi och kromosomundersökning för att få diagnos. Kromosomundersökningen ger också svar på olika faktorer som kan vara gynnsamma eller ogynnsamma och bestämmer även val av behandling. 
+* **Till akuten kommer Brenda, en 5-årig flicka som kommer från Uganda. Hon söker för smärta i hö ben sedan 1 dygn. Hon har tidigare i Uganda vid två års ålder legat inne för ’osteoartrit’ och fått antibiotika. I status anger Brenda smärta från hö lårben. Status: temp 38,6. Smärtpåverkad. Missnöjd. Du kan ej finna någon artrit i status i någon led. Lab: Hb 82 g/l (100 – 140). Trc 105 x 109 /l (150 – 400). Vita 4.3 x 109 /l (5-15), Neutrofiler 2.2 x 109 /l (1,5 - 8), Lymfocyter 1,8 x 109 /l (1,5 – 8). CRP 65 g/l (< 5).** 
+  * Vilka två diagnoser måste du tänka på i första hand?
+    * Leukemi
+    * Osteomyelit?
 
 
 
@@ -3204,9 +3249,25 @@ Enligt ABCDE
 
 
 
+### Pylorusstenos
+
+***Presentation***
+
+* **En mamma söker på akuten med sin 6 veckor gamla pojke, som sedan 5-6 dagar kräkts kraftfullt efter så gott som varje måltid. Kräkningarna slår ut som en kvast från munnen. Ätit ganska glupskt. Ej haft diarréer och ej haft feber. Ingen epidemiologi för magsjuka. Gått upp fint i vikt fram till den senaste veckan, men stått stilla i vikt den senaste veckan. Ammas helt. Avföring normal bröstmjölksavföring. Status: Afebril. Trött, lätt dehydrerad med något nedsatt turgor. F ö. status u s. Afebril. Buk: inga specifika fynd. Lab: B-Hb 140 g/L. B-LPK 10.0. S-CRP <9 mg/L. U-ketoner 2, f ö urin u.a. Neonatal screen u.a.** 
+  * **Vilken diagnos misstänker du i första hand? (1p)** 
+    * Pylorusstenos
+  * Om din diagnosmisstanke visar sig vara riktig, vilken rubbning i syra/bas och elektrolyter förväntar du dig? (1p)
+    * Hypoklorem, hypokalem metabol alakalos
+  * Ange en undersökning som kan säkerställa diagnosen
+    * UL buk
+
+
+
+
+
 ## Kardi och pulm
 
-### Aningngspåverkan
+### Andningspåverkan
 
 ***Presentation***
 
@@ -3304,7 +3365,7 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### Fostercirkulationenn
+### Fostercirkulationen
 
 
 
@@ -3312,6 +3373,12 @@ En kort lista över kliniska manifestationer av CF:
 
 * Under grav shuntas fostrets blod vi ductus venosus, ductus arteriosus samt via foramen ovale
   * Sant
+
+
+
+
+
+<img src="./imgs/ped_sam_090421_wlgF6f51Fq.png" alt="wlgF6f51Fq" style="zoom:50%;" />
 
 
 
@@ -3368,6 +3435,18 @@ En kort lista över kliniska manifestationer av CF:
   * Pneumoni 
   * rätt: VSD (Kammarseptumdefekt) 
   * // enl sarah, leukemi går ej med leverförstoring, ASD oftast inga symptom, coarctio för ha påverkade femoralispulsar,
+* **En mamma kommer till dig som barnläkare på BVC med lille Pelle för 2-månaderskontroll. I status hör du ett tydligt systoliskt, högfrekvent blåsljud över I3 – I4 sin, som man inte noterade på BB.** **Mamma undrar varför man inte hörde detta vid undersökningen efter förlossningen?** **I status eller anamnes talar ingenting för inkompensation.** **Hur förklarar man detta? (1p)**
+  * VSD, vä-hö shunt. Blåsljudet högre potentiellt för att den håller på att sluta sig varpå högre frekventa blåsljud
+  * **om misstanke bekräftats, varför skulle ett pox prov inte ha bidragit t misstanken**
+    * VSD är inte ett ductusberoende hjärtfel, så en pox utesluter inte VSD
+
+
+
+
+
+***Allmänt***
+
+<img src="./imgs/ped_sam_090421_bzG283kKZk.png" alt="bzG283kKZk" style="zoom:50%;" />
 
 
 
@@ -3379,27 +3458,85 @@ En kort lista över kliniska manifestationer av CF:
 
 * A 1-month-old female infant is seen in your office for a routine health maintenance evaluation. On examination, you hear a grade 4 holosystolic murmur at the left sternal border. Femoral pulses and oxygen saturation in room air are normal. The infant is otherwise well and growing normally. Which of the following statements regarding this patient’s condition is correct?
 * You see a 7-week-old male infant with cough and poor feeding. Examination reveals a respiratory rate of 72 breaths/minute and a heart rate of 170 beats/minute. His weight is 7 pounds 6 oz, just 2 oz more than his birth weight. You hear diffuse rales throughout the lung fields and a systolic murmur on auscultation. The liver is 4 cm below the right costal margin. Which of the following conditions is the most likely cause of his signs and symptoms?
+* A 5-week-old female infant was referred to hospital because of wheezing, poor feeding and poor weight gain during the previous 2 weeks. Before this she had been well. Her routine neonatal examination had been normal. She was tachypnoeic (50–60 breaths/min) and there was some sternal and intercostal recession. The pulses were normal. There was a thrill, a pansystolic murmur at the lower left sternal edge and a slightly accentuated pulmonary component to the second heart sound. There were scattered wheezes. The liver was enlarged, palpable at two finger breadths below  the costal margin. The ECG was unremarkable. The chest radiograph showed cardiomegaly and increased pulmonary vascular markings. An echocardiogram showed a moderate-sized ventricular septal defect (VSD; Fig. 18.3). Treatment was medical with diuretics and captopril. The VSD closed spontaneously at 18 months. This infant developed heart failure from a moderate VSD presenting at several weeks of age when the pul- monary resistance fell, causing increased left-to-right shunting of blood. The defect closed spontaneously.
 
 
 
 ***Etiologi och patofysiologi***
 
-* Defect in the septum that divides the right and left ventricles
-* Most common congenital heart defect
-* Associated with fetal alcohol syndrome
-* Results in left-to-right shunt; 
-* size of defect determines extent of shunting and age at presentation
-* Small defects are often asymptomatic; 
-* large defects can lead to Eisenmenger syndrom
-* Treatment involves surgical closure; 
-* small defects may close spontaneously
+* **Öppning hö o vä ventrikel**: defect in the septum that divides the right and left ventricles
+* **FAS**: associated with fetal alcohol syndrome
+* **Results in left-to-right shunt**; 
+* **mängd shunting**: size of defect determines extent of shunting and age at presentation
+* **Eisenmenger**: large defects can lead to Eisenmenger syndrom
+* **Kirurgiskt**: treatment involves surgical closure; 
+* **Small**: 
+  * mindre än aortavulv diameter perhaps to 3mm
+  * small defects may close spontaneously
+  * small defects are often asymptomatic; 
+* **Storleksordnat**: kliniken karak av storleken på VSD
 
 
 
-***Kliniska kännetecekn***
+***Epidemiologi***
 
-* This patient’s murmur is consistent with a small ventricular septal defect (VSD). With a small VSD, a patient is likely to remain asymptomatic with normal growth and development. Typically, the smaller the VSD, the louder the murmur. Small muscular or membranous VSDs may close on their own without intervention. Small VSDs do not generally result in congestive heart failure or in Eisenmenger syndrome. A patent ductus arteriosus would more commonly present with a machinery-like continuous murmur at the upper left sternal border. Balloon valvuloplasty is not indicated for a VSD.
+* **Vanliga**
+* 30% av alla med kongenital hjärtsjukdom
+* **Ventrikulära septum**: Varhelst på septum, perimembranöst (brevid tricuspidalis) eller muskulärt (helt omgivet av muskel) kan man få en öppning. 
+
+
+
+***Kliniska kännetecken***
+
+* This patient’s murmur is consistent with a small ventricular septal defect (VSD). With a small VSD, a patient is likely to remain asymptomatic with normal growth and development. Typically, the smaller the VSD, the louder the murmur. Small muscular or membranous VSDs may close on their own without intervention. Small VSDs do not generally result in congestive heart failure or in Eisenmenger syndrome. A patent ductus arteriosus would more commonly present with a machinery-like continuous murmur at the upper left sternal border. Balloon valvuloplasty is not indicated for a VSD
 * This patient’s signs and symptoms are consistent with congestive heart failure (CHF). Forms of congenital heart disease that increase pulmonary blood flow, obstruct outflow, or overload portions of the heart through valvular regurgitation are among the many causes of CHF. Of the choices listed, only a large ventricular septal defect, which has a large left-to-right shunt with increased pulmonary blood blow, would cause CHF in a child of this age. Atrial septal defects, small patent ductus arteriosus defects, and mild to moderate pulmonary stenosis do not typically cause CHF. Critical or severe aortic stenosis may cause CHF, but this usually occurs within 24 hours of birth.
+* **Enl Illustrated Paed**
+  * **Små VSD**
+    * **Asymptomatiskt**
+    * **Fysiska tecken**
+      * **Loud pansystoliskt blåsljud**: lower left sternal edge 
+      * !!! **LOUD MURMUR IMPLIES SMALLER DEFECT**
+      * Quitet pulmonary second sound (P2)
+  * **Större VSD**
+    * These defects are the same sie or bigger than the aortic valve
+    * **Symptoms**
+      * Heart failure with brathlessness and faltering growth after 1 week old
+      * Recurrent chest infection
+    * **Fysiska tecken**
+      * Takypne, takykardi, och förstorad lever och hjärtsvikt
+      * Aktive prekordium
+      * Soft pansystolisk blåsljud eller inget blåsljud (implying large defect)
+      * Apikal mid-diastoliskt blåsljud (fr ökad flöde över mitralis efter att blodet cirkulerat gm lungorna)
+      * Loud pulmonary second sound (P2): fr raised pulmonary artery pressure
+
+
+
+
+***Utredning och handläggning***
+
+* **Liten VSD**
+  * **Lungröntgen**: normal
+  * **EKG**: normal
+  * **Ekokardiografi**: demonstrerar the precise anatomy of the defect. this is ascertiained by the disapperance of the murmur with a normal ECG on followup by a cardiologist and bya a normal echocardiogram. While the VSD is present, prevention of bacterial endocarditis is by maintaining good dental hygiene
+* **Stod VSD**
+  * **Lungröntgen**
+    * Kardiomegali
+    * Enlarged pulmonary arteries
+    * Increased pulmonary vascular markings
+    * pulmonary oedema
+  * **EKG**: biventrikulär hypertrofi vid 2mån ålder
+  * **EKO**: Demonstrerar the anatomi of the defekt, hemodynamiskt effekt och pulmonary hypertension (pga högt flöde)
+* 
+
+
+
+| <img src="./imgs/ped_sam_090421_NkZ5Nsp8NT.png" alt="NkZ5Nsp8NT" style="zoom:50%;" /> | <img src="./imgs/ped_sam_090421_sU9xaDPiYo.png" alt="sU9xaDPiYo" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
+
 
 
 
@@ -3410,7 +3547,7 @@ En kort lista över kliniska manifestationer av CF:
 * Ostium primum type is associated with Down syndrom
 * Results in left-to-right shunt and split S2 on auscultation (increased blood in right
   heart delays closure of pulmonary valve)
-* Paradoxical emboli are an important complicatio
+* Paradoxical emboli are an important complication
 
 
 
@@ -3471,7 +3608,7 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-
+***Kliniska känntecken***
 
 * ***Diffa mot ductus arteriosus***
 * Characterized by a single large vessel arising from both ventricles
@@ -3536,8 +3673,6 @@ En kort lista över kliniska manifestationer av CF:
 * Collateral circulation develops across the intercostal arteries; engorged arteries
   cause 'notching' of ribs on x-ray (Fi* 8.11 B).
 * Associated with bicuspid aortic valve
-
-
 
 
 
@@ -3688,6 +3823,16 @@ En kort lista över kliniska manifestationer av CF:
   * Normal tillväxt 
   * rätt: Utebliven pubertet 
   * Ventrikel septum defekt 
+* **Lisa, 8 år, kommer med sina föräldrar till endokrinmottagningen. Skolläkaren har skrivit remiss vid 1:a klass-undersökning, eftersom Amanda är minst i klassen. Hon växer längs –2,5 SD. Mor och far är 170 respektive 185 cm och flickans äldre syster, som är 10 år, är normalstor. Lisa har varit frisk tidigare förutom ett flertal otiter. I status finner du en flicka med lite lågt sittande hårfäste, lite brett nackfäste och lite brett mellan mamillerna.** 
+  * Vilken diagnos och hur fastställer
+    * Turners
+    * Kromosomanalys
+  * Vad visar undersökningen
+    * asaknad en könsbunden kromosom (X/Y), 
+    * varpå X0 uppsättning
+  * 2 betydelsefulla konsekvenser på sikt för flickan
+    * utebliven pubertet
+    * nedsatt fertiltiet
 
 
 
@@ -3809,6 +3954,14 @@ En kort lista över kliniska manifestationer av CF:
 
 * ***Sture, 7 år***
   * har sedan två månader börjat bli gnällig och missnöjd. Vid några tillfällen har han vaknat och klagat över huvudvärk. Vid flera tillfällen de senaste veckorna kräkts på morgonen. Han berättar också att han ser dubbelt, och i status misstänker du abduscenspares. Vilken sjukdom misstänker Du i första hand?
+* **7-årig pojke, Ahmed,
+  * **som kommer för att han sedan 3 veckor haft huvudvärk, särskilt på morgonen. Modern tycker att det blivit värre och värre. Två gånger senaste veckan har han också kräkts på morgonen. I status noterar du att hö öga inte följer med ut till hö när du kollar hans ögonmotorik. Han har också svårt att utföra finger – näs test.** 
+  * **Vilken förklaring till symtomen bör du i första hand misstänka? (1p)** 
+  * Hjärntumör
+  * vad kallas ögonmuskelparesen pojken har;:
+    * Abducenspares
+  * Vilken åtgärd vidtar du på akuetn
+    * Skicka t akuten omgående,.
 
 
 
@@ -4040,6 +4193,14 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Respiration TODO
+
+***Presentation***
+
+* Vad står och vad är PAS och RDS
+  * PAS: Pulmonary adaptation syndrom; fostervatten kvar i lungorna, "wet lungs"
+  * RDS: respiratory distress syndrome; surfaktant brist, lungomognad
+
 ### Prematura
 
 ***Presentation***
@@ -4118,15 +4279,22 @@ En kort lista över kliniska manifestationer av CF:
   * Risk för trombos 
   * Förhöjda blodfetter 
   * // Förklaring, förlorar koagulationsfaktorer och andra proteiner som leder t att levern börjar öka sin produktion då ökar äöven prod vlodfetter. När man förlorar protein å drar det sig med vatten ut -> ödem och proteinuri
+* **En fyraårig flicka Cecilia kommer till akutmottagningen för att hon svullnat om fotlederna. Hon sökte två dagar tidigare den 2 maj för att hon var lite svullen kring ögonen och fick då ett antihistamin på misstanke om allergi, eftersom både hennes storasyster och mor har hösnuva. I status finner du en opåverkad flicka som har symmetriska ödem på fötter och underben och är svullen kring båda ögonen. Hon har en lindrig atopisk dermatit, men i övrigt är status u.a., ingen konjunktivit eller rhinit.** 
+  * Vilken diagnos
+    * Nefrotiskt syndrom
+  * 2 enkla prov för att bekräfta din diagnos
+    * u-sticka + S-alb?
+  * Om hypotes stämmer, hur behandlar primärt
+    * Steroidbehandling (prednisolon?)
 
 
 
 ***Etiologi och patofysiologi***
 
-* Förlust normal charge- and size-selective glomerulär barriär till filtrering av **plasmaproteiner**
-* Excessiv urinära proteinförluster, leder till **hypoproteinenmi hos nefrotiskt syndrom**
+* **palsmaprotein**: Förlust normal charge- and size-selective glomerulär barriär till filtrering av **plasmaproteiner**
+* **Proteinförluster**: Excessiv urinära proteinförluster, leder till **hypoproteinenmi hos nefrotiskt syndrom**
 * ***Hyperkolesterolemi = konsekvens till hypoproteinemi***, kompenserande?
-  * reducerad plasma oncotic pressure inducerar förhöjd hepatisk produktuion plasma proteiner inklusive **lipoproteiner**
+  * reducerad plasma oncotic pressure inducerar förhöjd hepatisk produktion plasma proteiner inklusive **lipoproteiner**
   * plasma lipid clearande reduceras av reducerad aktivitet av lipoprotein lipas i adipö vävnad. 
 * ***Bakomliggande orsaker till nefrotiskt syndrom***
   * ***MCNS***: Minimal change nephrotic syndrome; representerar 80% av barnen 1-12åå
@@ -4987,13 +5155,16 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
     * Flyttar föremål mellan händer
     * vänder om fr mage t rygg
     * skyddsrefelxeR: tar emot sig med handen om försöker tippa
-* Kasper är 9 månader gammal. 
+* **Kasper är 9 månader gammal.** 
   * Han har just börjat krypa, men har ännu inte börjat resa sig upp mot möbler. De senaste veckorna blir han ledsen när han träffar främlingar och han vill bara vara med sina föräldrar. Är det något i anamnesen du blir bekymrad över? (1 p) 
   * Ja, Kasper borde ha börjat resa sig mot möbler vid denna ålder 
   * Rätt: Nej, Kasper har en helt normal utveckling 
   * Ja, Kasper har både en sen motorisk utveckling och verkar ha en tillbakagång i sin utveckling när han nu blivit rädd för främlingar 
   * Ja, det är onormalt att Kasper inte börjat krypa förrän vid 9 månaders ålder 
   * Nej dock borde Kasper känna mer trygghet och kunna träffa främlingar utan att bli ledsen 
+* **Ismael sitter i sin mammas knä när han undersöks på BVC. Han sitter fint med stöd, men kan inte sitta utan stöd. Han håller en skramla i handen med grabbgrepp och flyttar den från hand till hand. På undersökningsbordet rullar han lätt över från mage till ryggläge.** 
+  * Sannolik ålder barnet = 6mån
+  * Vad bör barnet kunna språkmässigt = joller, enstavigt joller
 
 
 
@@ -5240,6 +5411,14 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
   * rätt: Proteinnivån är densamma som i komjölk [i.e. att det är ersättning har olika proteinnivåer jfr bröstmjölk]
   * De är järnberikade 
   * Har tillsats av mineraler och vitaminer 
+* **Veronika, 3 veckor gammal, blir inlagd på barnavdelningen som ’vårdbarn’, då hennes mamma vårdas på psykavdelning för en psykos. Pappan kan inte närvara. Du skall nu ordinera mat åt barnet. Barnet väger ca 4 kg. Ange typ av mat (Fråga A o B):** 
+  * Om barnet inte har en komjölksallergi
+    * Bröstmjölksersättning = Baby semp
+  * Om barnet har en komjölksallergi
+    * Nutramigen: hydrolyseade bröstmjölksersättningar där mjölkproteiner har sönderdelats
+  * ungefärliga mL per d, hur mga mål per d
+    * Ska äta var 4e timme-3e timme
+    * 150mL/kg/d => 600mL/d
 
 
 
@@ -5460,12 +5639,12 @@ Det man bör ge
 
 ***Speciella kurvor***
 
-* Prematurkurvor: ålderskorrigering upp t 2åå
+* **Prematurkurvor**: ålderskorrigering upp t 2åå
   * denna korrigerin kommer att mötas efter en liten period
-  * kan ske en längd och viktcatchup. 
-* Downs syndrom barnen: är kortare
-* Turners syndrom: har en Turner kurvva
-* skelettdysplasier: man kan kolla på deras sitthöjd, då de har korta ben etc.....
+  * kan ske en längd och viktcatchup
+* **Downs syndrom barnen**: är kortare
+* **Turners syndrom**: har en Turner kurvva
+* **skelettdysplasier**: man kan kolla på deras sitthöjd, då de har korta ben etc.....
 
 
 

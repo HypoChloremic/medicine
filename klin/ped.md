@@ -1292,10 +1292,31 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Etiologi och patofysiologi***
 
+* ***Neonatal perioden***
+  * Den mest högrisk perioden under en ungdom för att få en invasiv infektion
+* Infektionerna indelas "Earyl-onset" + "Late-onset"
+* ***Early-onset infektioner***
+  * **Via fostervätskan**
+    * Mindre 48h efter födsel.
+    * bakterier steg fr förlossningskanalen
+    * invaderar fostervätskan, amniotiska vätskan (korionamnionit?)
+    * !! **Foster infekteras sekundärt**: fetala lungor är i direkt kontakt med infekterad amniotisk vätska
+      * **Bakteremi, sepsis**
+      * **Pneumoni**
+  * **Via placentan**
+    * Kongenitala viral + Listeria Monocytogenes: kan infektera över placentan. 
+    * **Efter maternell infektion**
+
+
+
+***Agens***
+
 * **Nyfödd**
   * GBS
   * E coli
   * // Undrar om det förekommer 
+  * Enl Illustrated paed
+    * Listeria Monocytogenes
 * **Barn 1mån-5åå**
   * Virus, ex RSV 
   * pneumokocker
@@ -1429,6 +1450,52 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * Neuroborrelios
   * Doxycyklin verkar vara det generella behandlingsalterantivet
   * ceftriaxon iv: kan ges till barn smo inte kan ta tabletter. 
+
+
+
+### Early onset infection
+
+***Etiologi och patofysiologi*** (Ill paed, s187)
+
+* **Ökad risk för early onset infection**
+  * Prolongerad ruptur amnion
+  * PROM (prematur ruptur av membranen)
+  * pågående korionamnionit: e.g. kännetecknas av att mammab är febril  UNDER förlossning
+* Agens
+  * GBS: uppåtstigande infektion via förlossningskanal, in i fostervätska, lunga på fostret och ungen
+  * Gramnegativa bakterier: uppåtstigande infektion via förlossningskanal, in i fostervätska, lunga på fostret och ungen
+  * Listeria Monocytogenes: Över placenta
+  * Virala agens förekommer?: tenderar över placenta?
+
+
+
+***Kliniska kännetecken***
+
+* Neonatal sepsis
+  * **Respiratorisk distress**: 
+  * Temperatur instabilitet
+  * Hypothermi
+  * Apne
+  * bradykardi
+  * Abdominell distension
+  * ikterus
+  * neutropeni
+  * hypoglykemi
+  * hyperglukemi
+  * chock
+  * irritabilitet
+  * kramper
+  * letargi, stuporös. ..
+* Meningit
+  * Utbuktande fontaneller, eller spänd fontaneller
+  * Head retraction: Opisthotonos
+
+
+
+***Utredning och handläggning***
+
+* Labb
+  * CRP: tar 12-24h för att stiga, kommer att akut inte påvisa ngt
 
 
 
@@ -3791,15 +3858,13 @@ En kort lista över kliniska manifestationer av CF:
   * Gossen blir slö o grå i färgen d3. misstänker infektino, vilken vanligaste agens i den här åldern
     * GBS,
     * E coli
-    * S aurues
+    * S aurues [enl Sarah; skulle pers lägga Listeria enl Illustrated]
 
 
 
 #### CTG - kardiotorakografi
 
 * aka cardiothoracography
-
-
 
 
 
@@ -3837,8 +3902,6 @@ En kort lista över kliniska manifestationer av CF:
 ***Utredning och handläggning***
 
 ***Behandling***
-
-
 
 
 
@@ -4022,8 +4085,19 @@ En kort lista över kliniska manifestationer av CF:
   * U-albumin, S-albumin, kreatinin, urinsediment, blodtryck x 8, daglig vikt 
   * Dagliga U-krea/albuminkvot, kreatinin, daglig vikt, Prednisolon 2 mg/kg/dyg 
   * Daglig vikt, blodtryck x 8, urinmätning, Prednisolon 2 mg/kg/dygn, 
-  * rätt: Svalgodling, komplement C3, C4, kreatinin, dagliga U-krea/albuminkvot , urinsediment, blodtryck x 8, Urinmätning 
+  * !!! rätt: Svalgodling, komplement C3, C4, kreatinin, dagliga U-krea/albuminkvot , urinsediment, blodtryck x 8, Urinmätning 
   * Svalgodling, komplement C3, C4, dagliga kreatinin, Prednisolon 2 mg/kg/dygn 
+* !!! **Pelle 6 år har fått tid på en barnläkarmottagning pga trötthet, mörk urin och huvudvärk. Han hade en halsinfektion med feber i 6 dagar för drygt 2 veckor sedan, men man sökte aldrig läkare och han fick således ingen behandling. Han har haft mörk urin i två dagar. I status noterar du en något trött pojke som är lite blek och lätt svullnad över ögonen. Han har nu ingen feber, inga utslag och är ej andningspåverkad.** 
+  * Troligaste diagnosen mha anamnes och status
+    * Nefritiskt syndrom [postinfektiös glomerulonefrit]
+  * Vilket prob behöver du ordinera akut för att stärka din misstanke. Obs ett prov där du får svar inom några minuter. vad förväntar du dig för resultat
+    * U-sticka: proteinuri, hemturi
+  * Du får det svaret du förväntade dig och nu vill du ytterligar 3 specifika prover för att bekräfta diagnosen. Vilka prover beställer d u
+    * C3 komplement
+    * Krea
+    * svalgodling
+  * mot bakgrund pojkens huvudvärk, får du inte glömma en mycket vikti undersökning, vilken
+    * Blodtryck
 
 
 

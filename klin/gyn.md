@@ -4302,9 +4302,36 @@ En del av källorna är fr Bernebrandt
 
 ***Etiologi och patofysiologi***
 
+* Ökad insulinresistens, främst andra trimester och framåt: detta sker **fysiologiskt** under en graviditet
+* **Bidragande faktorer, driver insulinresistens**: main drivers for this insulin resistance (doi: [10.4239/wjd.v10.i6.333](https://dx.doi.org/10.4239%2Fwjd.v10.i6.333))
+  * Maternella, placentala hormon
+  * progesterone, 
+  * oestrogen, 
+  * prolactin, 
+  * human placental lactogen, 
+  * human placental growth hormone, and 
+  * cortisol, 
+* **Patologisk resistens, och hyperglykemi**: att detta går i overdrive. Man kanse är obes, högt BMI, har genetisk predisposition att denna insulinresistens leder till att man blir diabetiker
+
+
+
 ***Epidemiologi***
 
+* South-east asians
+* Mellanöstern
+* obesitas
+* hög vikt
+* Tidigare GDM
+* Tidigiare LGA?
+
+
+
 ***Kliniska kännetecken***
+
+* SF-mått: accelererar i växt
+* Viktskattning: noterar att fostret blir progressivt större, hamnar i överkant
+
+
 
 ***Utredning och handläggning***
 
@@ -5317,11 +5344,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Komplikationer***
 
-* Modern
-  * Förlossnignstrauma: cervixruptur, vaginalruptur, perinealbristning, sfinkterskad
+* **Modern**
+  * **Förlossnignstrauma**: cervixruptur, vaginalruptur, perinealbristning, sfinkterskad
   * blödning pga trauma resp uterus atoni
   * långtidsföljder av bäckenbotten o sfinkterskada
-* barnet
+* **barnet**
   * hypoxi / asfyxi pga förlossningskomplikation
   * förlossningsskada ex klavikelfraktur
   * skulderdystoci
@@ -5329,7 +5356,35 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Makrosomi
+#### Large for gestational age
+
+***Presentation***
+
+* **Mammor med diabetes föder ofta stora barn med födelsevikt upp mot 5 kg. Varför blir barnen så stora? (2 p)** 
+  * Insulinresistens hos mamma, otillräckliga nivåer insulin för att sänka P-glukos
+  * Ökade glukoskoncentrationer cirkulatoriskt hos fostret
+  * Hyperinsulinism hos fostret: Börjar lagra upp energi
+  * Ökad diures: Polyhydramnios också
+
+
+
+***Etiologi och patofysiologi***
+
+
+
+***Komplikationer eller problem***
+
+* Födseltrauma: skudlderdystoci (axeldystoci, shoulderdystoci) under förlossning
+  * svårigheter att förlosa axeln
+  * impaction, kolliderar, bakom bmaternell symfysis pubis
+* Förlossnings asfyxi
+* !!! Hypoglykemi pga **hyperinsulinism**
+* polycytemi
+* andningssvårigheter fr förstorad tunga, beckwith-wiedmann syndrom
+
+
+
+#### Makrosomi
 
 ***Definition***
 

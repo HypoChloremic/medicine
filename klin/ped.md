@@ -22,8 +22,42 @@
 
 ## Allmänt
 
+### Allmänvården
+
+***Presentation***
+
+* !!! Barnavårdscentral (BVC) har en viktig roll för alla barn i Sverige oberoende av socioekonomisk bakgrund. Nämn 3 olika insatser som BVC erbjuder alla familjer. (1,5 p) 
+  * Vaccination
+  * Föräldragrupper
+  * Hälsokontroller av barn
 
 
+
+### Brott
+
+***Presentation***
+
+* ***Presentation***
+
+  * **6. En 5 årig flicka inkommer till akuten en söndagskväll kl 21 tillsammans med hennes mor. Föräldrarna som är skilda befinner sig i en vårdnadstvist om flickan. Mamma berättar att flickan har blåmärken på kroppen efter att hon vistats hos sin pappa i helgen. Flickan själv vill inte berätta vad som har hänt. I status kan du se att det finns blåmärken av ganska färsk art på bål och armar men även på underben. Även något blåmärke på kinden. Ange 6 olika åtgärder eller ställningstaganden som är obligatoriska i denna situation (3p)** 
+    * Akut remiss fotografi blåmärken
+    * Dokumentera dessa nogrant i journal
+    * Kontakta senior kollega eller bakjour
+    * Ögonbottenspegling
+    * Inläggning för vidare utredning
+    * Status inkl ortopediskt sådant
+    * Konsultera senio kollega gällande helkroppsrtg
+    * Undersökning fr topp t tå
+    * prover: koagulationsprover, utesluta trombocytopeni, blodstatus. [leverstatus, njurprover]
+    * Orosanmälan till socialtjänsten [ingen polisanmälan?]
+  *  **Föräldrar som kommer till akutmottagningen med Elsa 8 månader. Föräldrarna förklarar att Elsa har ramlat från skötbordet och har varit slö sedan dess. I status hittar du en slö flicka som gnyr och som har blåmärken på rygg, armar och ben. Hon verkar ha ont när du undersöker höger arm. På frågan om alla blåmärken svarar föräldrarna att hon hade ramlat tidigare i veckan från en soffa och nu skötbordet. Du gör ett noggrant status i vilket du kan notera blåmärken av olika åldrar. Du försöker få ihop statusfynden med anamnesen och känner en oro för omsorgssvikt.** **Hur handlägger du Elsa?** 
+    * Nämn 5 åtgärder du behöver göra inom de närmsta timmarna
+      * Misstanke grov misshandel av barn: SOL anmälan
+      * kontakte med bakjour
+      * Akut remiss helkroppsfotografering och dokumentation
+      * Helkroppsrtg, ev DT
+      * Noggrant beskriva fynden i journal
+      * inläggning
 
 
 
@@ -36,62 +70,6 @@ Utredning
   * bakre skallgropsförändringar ser ma nitne med ultraljud, som man ska komma ihåg. 
 * letar ökat tryck, tumör
 * MR: tveksamheter med ultraljud
-
-
-
-### Föda, nutrition och vikt
-
-#### Innehåll
-Saker att undvika
-* Saltmat ska man inte
-* Jordnötter för att det finns saker de kan sätta sig i halsen
-
-Det man bör ge
-* i princip alla födoämnen förutom d ovan. 
-
-#### Daglig energibehov
-
-* **1mån 120kcal/kg/d**
-* **1år 100kcal/kg/d**
-* **3år 85kcal/kg/d**
-* **pubertet 65kcal/kg/d**
-* **vuxen 30kcal/kg/d**
-
-#### Energiekvivalenter
-
-* 1kcal = 5.18kJ
-* 1kJ = 0.24kcal
-* 1g fett = 9kcal
-* 1g protein = 4kcal
-* 1g kolhydrat = 4kcal
-
-#### Viktutveckling
-
-* ***Formeln***
-  * 2-7 år: $2\times\text{ålder} + 8$
-  * Yngre än 2åå
-* **1-3mån = 5kg**
-* **1år = 10kg**
-* **3år = 15kg**
-* **5år = 20kg**
-* **7år = 25kg**
-* **9år = 30kg**
-* **12år = 40kg**
-* **14år = 50kg**
-
-
-
-#### Bröstmjölk och amning
-
-* Optimal sammansättning
-* reducerar infektionsrisk
-* förstoppar inte
-* mer hygieniskt
-* ekonomiskt
-* tillgängligt
-* anknytning
-
-***Rekommendera: upp t 6mån ålder***
 
 
 
@@ -124,12 +102,6 @@ Det man bör ge
   * **diafragmabåck**: blir värre av ventilering eftersmo lyft också ner i ventrikel o luft i tarmar som är påväg upp i thorax
   * **transposition**
   * **VSD**
-
-
-
-* * 
-
-
 
 
 
@@ -518,6 +490,14 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * PVK
   * adrenalin ASAP
   * analysera rytm
+* !!! **Du tjänstgör som allmänläkare på en BVC-mottagning i stan. Milton 4 år gammal är bokad för kontroll då hans föräldrar tycker att han har svårt att sitta still. De tror att han har ADHD. Pojken faller plötsligt ihop i korridoren när han jagar sin pappa. När du kommer fram till honom är han livlös. Han andas inte och du kan inte palpera någon puls. En sköterska har snabbt hämtat ett kardioskop och en defibrillator på vårdcentralen i samma byggnad. Fadern, som är sjuksköterska, har påbörjat HLR. Följande rytm visas på monitorn. (1 p)** 
+  * <img src="./imgs/ped_sam_090421_Cy917EDxXE.png" alt="Cy917EDxXE" style="zoom:50%;" />
+  * Vad gör du i väntan på ambulans
+  * Avbryter hjärtkompressioner p g a sinustakykardi på monitorn. Ventilerar 60 inblåsningar/minut. Planerar för ny rytmkontroll om 2 min. Drar upp adrenalin. 
+  * Fortsätter HLR 15:2. Avvaktar defibrillering p g a PEA. Ger omgående adrenalin i den infart som sättes. 
+  * Fortsätter HLR 15:2. Avvaktar defibrillering och adrenalin i väntan på nästa rytmanalys om 2 minuter. 
+  * rätt: Fortsätter HLR 15:2. Defibrillerar 4 J/kg så snart plattorna är på plats och förbereder adrenalin som skall ges efter 3:e defibrilleringen. 
+  * Fortsätter HLR 15:2. Defibrillerar 4 J/kg så snart plattorna är på plats och ger omgående adrenalin i den infart som sättes. 
 
 
 
@@ -1454,6 +1434,16 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ### Febrerna TODO
 
+
+
+#### Allmänt
+
+
+
+<img src="./imgs/ped_sam_090421_hqUYQ7QMRV.png" alt="hqUYQ7QMRV" style="zoom:50%;" />
+
+
+
 #### Kawasaki
 
 ***Presentation***
@@ -1462,6 +1452,23 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Status: Febril 39.0. Ingen nackstel. Kapillär återfyllnad normal. Hjärta lungor ua Buk ua.  LgLL ua. Hud: inget utslag. 
   * ab CRP 180 mg/ml, Blodstatus: leukocytos med neutrofiler 13,5x109/l, Urinsticka: Leukocyter 3+, erytrocyter 3+, protein 1+, glukos 0.
   * Diagnos? Vidare provtagning?
+* **12. Kawasaki sjukdom (KS) är en av vaskulitsjukdomarna som ofta drabbar barn under 5 år.** 
+  * **a) Vilka är de diagnostiska kriterierna för Kawasaki - förutom feber? (2,5 p)** 
+    * Polymorft utslag
+    * Feber över 5d
+    * Utslag övre extremiteter: Exantem, röda fingertoppar, palmarerythem (ffa palmart)
+    * exantem läppar och munhåla: torar läppar, röd tunga
+    * halsadeniter: ofta ensidigt
+  * Hur behandlas kawasakis sjd
+    * IvIG 2g/kg
+    * ASA 6-8v
+  * Mest fruktade komplikationen av kawasakis och hur bekrätas den
+    * Kranskärlspåverkan; läägs tilld aneurysm, dilation
+    * EKO
+    * EKG
+    * (slät?)rtg-hjärta lungor
+* This 2-year-old boy developed a high fever of 2 days’ duration. Examination showed a miserable child with mild conjunctivitis, a rash, and cervical lymphadenopa- thy. A viral infection was diagnosed and his mother was reassured. When he presented to hospital 3 days later, he was noted to have cracked red lips (Fig. 15.18a). He was admitted and a full septic screen, including a lumbar puncture, was performed and antibiotics started. The following day, he was still febrile and irritable; his C-reactive protein and erythrocyte sedimentation rate were raised considerably above upper limit of normal. Kawasaki disease was suspected and he was treated with intravenous immunoglobulin and high-dose oral aspirin. His clinical condition improved and he became afebrile the following morning. An echocardiogram at this stage showed no aneurysms of the coronary arteries, which are the most serious complication associated with delayed diagnosis and treatment. On the 15th day of the illness there was peeling of the fingers and toes (Fig. 15.18b).
+  * <img src="./imgs/ped_sam_090421_PzmA9sNMRG.png" alt="PzmA9sNMRG" style="zoom:50%;" />
 
 
 
@@ -1489,6 +1496,18 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * säsongsvariation
   * fler fall av kawasaki under infektionssäsong [det som att det är under vinter]
 * **Vaskulit, kranskärlen**: Vaskulit som drabbar kranskärlen
+  * drabbas inom första 6 veckorna. 
+  * !! komplikationer: **[kranskärls?]aneurysm som man kan se med EKO**
+  * **ärrbildning och stenotisering**: vaskuliten, aneursm leder t att man får stenostisering
+  * **Infarkter**: myokardiella infarkter kan man få av detta. 
+* **Ålder:** 6månader - 4åå, 
+* **Peak** första levnadsåret
+
+
+
+***Epidmiologi***
+
+* Mortalitet: 1-2%
 
 
 
@@ -1505,17 +1524,32 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+***Utredning och handläggning***
+
+* Diagnostiskt så är man finns det inget direkt test, det är kliniskt baserat. 
+* **Labb**: höga inflammationsprov (CRP, SR, högt LPK). TPK stiger 2a veckan på sjd. 
+* **Radiologiskt**:
+  * **Ekokardiografi**: för att diffa kranskärlspåverkan; 
+* **EKG**: för att diffa kranskärlspåverkan
+
+
+
 ***Behandling***
 
-* **IvIG**: 
+* **IvIG**: Snabb insättning leder t att man kan minska risken för att utveckla kranskärlspåverkan, med aneurysmbildningen. 
   * före dag 10 av febern
   * en dos åp 2g/kg, infusion 8-12h. 
   * forskning visar att 12h är bäst. 
 * **ASA**: ges i antitrombotisk dos, 2-5mg/kg/d, i 6-8v
+  * minska risken för att bilda tromber hos patienten. 
+  * Tills febern går över (dock att man ger det i 6-8v tid)
 * **Steroider** [INTE förstahandsval, man ska hoppa på IvIG]: har ingen plats i behandlingen
   * inte helt klarlagd funktion
   * ffa hos riskgrupper: Steroider kan användas som tillägg IvIG att minska hjärtkomplikationer,
     * slutsats: att man inte bör ge denna i behandlingsstart, utan använd IvIG
+* // Illustrated paed:
+  * Giant coronary artery aneurysm: Warfarin behandling för att minska risken + nära uppföljning
+  * Persisterande feber + inflammation: steroider, infliximab (monoklonal antikropp, TNF-alfa), eller ciklosporiner 
 
 
 
@@ -1672,6 +1706,14 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * omfattande hudförändringar, erytrodermi, eksem som inte svarar på behandling
     * spädbarn som inte växer som förväntat
     * Känd primär immunbrist sjd i familj
+* Alice 18 månader, 
+  * tidigare frisk, kommer in till barnakuten med sin 6:e förkylning mellan januari och juni. Hon har nästäppa, hosta och ibland lite feber. Hon får i sig hyfsat med mat och dryck. Vikt och längdutveckling normal. Hon behöver ofta vara hemma från förskolan. Föräldrarna är bekymrade över att hon har immunbrist och vill att du utreder henne. Vilket av nedanstående är det mest korrekta svaret att säga till föräldrarna? (1 p) 
+  * Det är normalt men för säkerhetskull tar du några prover för att utesluta immunbrist. 
+  * rätt: Du ger lugnande besked då det är normalt att ha frekventa förkylningar i denna ålder. 
+  * Du tar några prover nu men skickar en remiss till specialist för en uppföljning. 
+  * Du är bekymrad och påbörjar en utredning. 
+  * Du är orolig och remitterar till specialist. 
+  * // man kan ha 12 ÖLI per år som barn. ett varje månad ungefär
 
 
 
@@ -1749,7 +1791,14 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * 5 -7 dagar 
   * rätt: 9 – 12 dagar 
   * 2 veckor 
-  * 3 veckor 
+  * 3 veckor
+* Mässling var en fruktad sjukdom med hög mortalitet innan införandet av allmänna vaccinationsprogram. Idag finns det utbrott av mässling i flera europeiska länder då fler väljer att inte vaccinera sina barn. Vad är den mest fruktade komplikationen av denna sjukdom? (1 p) 
+  * Dövhet 
+  * rätt: Encefalit 
+  * Kramper 
+  * Meningit 
+  * Utvecklingsstörning
+  * // man kan även få dövhet men ej lika fruktat
 
 
 
@@ -2204,6 +2253,14 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Undersökning fr topp t tå
   * prover: koagulationsprover, utesluta trombocytopeni, blodstatus. [leverstatus, njurprover]
   * Orosanmälan till socialtjänsten [ingen polisanmälan?]
+*  **Föräldrar som kommer till akutmottagningen med Elsa 8 månader. Föräldrarna förklarar att Elsa har ramlat från skötbordet och har varit slö sedan dess. I status hittar du en slö flicka som gnyr och som har blåmärken på rygg, armar och ben. Hon verkar ha ont när du undersöker höger arm. På frågan om alla blåmärken svarar föräldrarna att hon hade ramlat tidigare i veckan från en soffa och nu skötbordet. Du gör ett noggrant status i vilket du kan notera blåmärken av olika åldrar. Du försöker få ihop statusfynden med anamnesen och känner en oro för omsorgssvikt.** **Hur handlägger du Elsa?** 
+  * Nämn 5 åtgärder du behöver göra inom de närmsta timmarna
+    * Misstanke grov misshandel av barn: SOL anmälan
+    * kontakte med bakjour
+    * Akut remiss helkroppsfotografering och dokumentation
+    * Helkroppsrtg, ev DT
+    * Noggrant beskriva fynden i journal
+    * inläggning
 
 ### Hemolys
 
@@ -2823,15 +2880,54 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ### Invagination
 
+
+
+***Presentation***
+
+* **Du träffar Albin, 9 månader, som söker med sina föräldrar på barnakuten. Albin har tidigare varit frisk, men har för någon vecka sedan haft en gastroenterit. Familjen söker då Albin blivit sämre senaste dygnet. Han verkar ha ont i magen och har vid flera tillfällen blivit alldeles blek, kräkts och varit otröstlig. Däremellan har han varit ungefär som han brukar.** 
+  * Flera orsaker som kan förklara Albins besvär, ange en viktig potentiell farlig orsak som måste utesltuas
+    * Invagination (ileus osså)
+  * Vilket av de beskrivna symptomen ovan talar primärt för den diagnosen
+    * Intervallsmärta: att pat blivit blek + kräkts intermittent + otröstlig, sedan hämtat sig
+  * Radiologisk undersökning i första hand för att bekräfta diagnosen
+    * UL-buk: diagnosticera invaginationen (enl sarah)
+    * BÖS för att diagnosticra fri gas och tecken ileus
+  * OM din misstanke bekräftas, vad blir din åtgärd
+    * Reponering: Kolonröntgen + kontrast; att man använder trycket inifrån tarm för att reponera invaginationen
+    * Stabilisering patienten: vätskemässigt
+    * Smärtlindring
+    * V-sond
+    * 
+* **Eliza är 4 månader gammal** 
+  1. och fick rotavirus-vaccin förra veckan. 
+  2. Hon har varit gnällig i en timme. 
+  3. Föräldrarna uppfattar det som buksmärta.
+  4. Smärtorna kommer i intervaller, däremellan är hon helt stilla. 
+  5. Kräkts flera gånger. 
+
+
+
+
+
 ***Etiologi och patofysiologi***
 
-* Intussuception beskrivar invagination av **proximal** tarm ***in i*** ett distalt segment. 
-* ***Vanligast locale:*** ileum och caecum, vid ileocaecal valve
-* ***Seriös komplikation***: tension och konstriktion av mesenteriet,
+* **Intussuception**: beskrivar invagination av **proximal** tarm ***in i*** ett distalt segment. 
+* **Vanligast locale:** ileum och caecum, vid ileocaecal valve
+* **Seriös komplikation**: tension och konstriktion av mesenteriet,
   * resulterar i venös obstruktion
   * orsakar engorgement + blödning fr mukosa 
   * vätskeförlust
   * senare tarmperforation. peritonit, buk nekros. 
+* **vad gäller invagination:** i höger fossa kan man känna resistens, tecken ileocaekal stopp. 
+  - ileokolisk invagination, att det är ileum som matats in i kolon,
+  - varpå man ser denna bild. 
+  - invaginationen kan vandra igenom hela kolon. 
+  - de flesta invaginationerna är man diagnosticerar med RTG är i högerkolon eller transversum., men kan gå hela vägen
+* **Ledande punkt**:
+  * Svullna lymfkörtlar (körtelbuk?)
+  * Meckels divertikel
+
+<img src="./lectures/ped_lec/imgs/barnkir_sem_3QqTYAhVfn.png" alt="3QqTYAhVfn" style="zoom:50%;" />
 
 
 
@@ -2842,40 +2938,74 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-
-
 ***Kliniska kännetecken***
 
-* paroxysmal, svår kolisk smärta, med pallor (blekhet)
+* **Intervallsmärta**: Typiskt för diagnosen; paroxysmal, svår kolisk smärta, med pallor (blekhet)
   * under episoder av smärta blir pat blekt
   * speciellt runt munnen och drar upp benen
   * recovery mellan smärtepisoderna förekommer
 * **Kan vägra att äta,** 
 * **kan kräkas**: gallkräkning kan förekomma
-* **Palpation**: korvformad massa i palperas i buken
-* ***avföring***: redcurrant jelly avföring, utgörs av blodstänkt mucus,
+* !!! **Palpation**: korvformad massa i palperas i buken
+* **avföring**: redcurrant jelly avföring, utgörs av blodstänkt mucus,
   * kan ses efter rektal undersökning
 * **abdominell distension + chock**
 
 
 
-***Handläggning***
+***Fr seminarium***
 
-* ***Prompt diagnosis***
-* ***Vätskersättning:*** prompt resuscitation med vätska. 
-* ***Reduktion av invaginationen***: detta måste ske asap
+* ***intervallsmärta***: typiskt 
+* **åldern**: 3mån-2år
+* **rotavirusvaccin**: det är inte många invaginationer som man kan skylla på vacciantion, så det är lite oklart. 
+  - det är mga som kmr t akuten med buksmärta + rotavaccin står i liggaren, som man utreder för invagination i så fall
+* ***Kräkningar kan förekomma***: osepcifika kräkningar osså (behöver ta lite tid för att barnet får stopp tillräckligt mkt för att man får ileus kräkningarna ya3ni)
+* ***Avföringen:*** 
+  - Blod eller blodtillblandat slem i avföringen förekommer, men är ofta ett mycket sent tecken - uppkommer när det blivit ischemi. '
+  - slemmigt geleaktig avföring: det ska ha hunnit utvecklas en ischemi
+  - I detta fallet så pass tidigt förlopp att avföringen är okej på morgonen
+  - men 12-14 timmar senare att avföringen: blodig, slemmig
+* Det lömska med invagination är att symtombilden kan avvika från denna typiska beskrivning.”). 
+* !! Vanligare efter **rotavirusvaccinering** [fr seminariet]
+* intervaller blir slöa och tappar i intervaller
+* **virusanamnes**: viros som kan ge invagination
+* tidig. anamnes vad gäller invagination: invaginiationerna kan recidivera och komma tillbaka. 
+
+
+
+***Differentialdiagnoser***
+
+* Appendicit
+* Ileus
+* Buksmärta: Tonsillit, otit, pneumoni, uvi, HSP (förskolebarn företrädesvis), 
+* Spädbarnskolik
+* Inklämt ljumskbråck
+* Celiaki
+* Förstoppning
+
+
+
+***Utredning och handläggning***
+
+* **Prompt diagnosis**
+* **Radiologiskt**: UL-buk + BÖS. 
+* **Utreda ledande punkt**: 
+  * **Indikation**:
+    * svårt få loss, misslyckad reponering
+    * recidiverande
+    * atypisk ålder
+  * **Laparoskopsikt**: känner igenom hela tarm, hos äldre barn
 
 
 
 ***Behandling***
 
+* **Vätskersättning:** prompt resuscitation med vätska. 
+* **Reduktion av invaginationen**: detta måste ske asap
+
 * **Reduktion**
   * **Rectal air insufflation**: om inte peritonit förekommer
   * **Kirurgi**: indicierat om air insufflation eller om peritonit
-
-
-
-
 
 ### Kräkningar
 
@@ -3062,8 +3192,14 @@ En kort lista över kliniska manifestationer av CF:
   * HJärtsvikt: Vä-hö shunt -> ökad pulmonell kärlresistens -> högre arbetsmotstånd Hö hjärta -> sviktande funktion och hö-svikt
   * Cyanos: VSD acyanotiskt: relateras vä-hö shunt, varpå saturerat blod -> systemkretsloppet trots shunt (till skillnad fr hö-vä shunt: desat blod blandas -> systemkretslopp -> cyanos)
   * !!! Blåsljud: beroende på storlek
-
-
+* En 2 månader gammal fullgången flicka 
+  * söker akut med sina föräldrar för att hon inte orkar amma. Hon har ingen ÖLI eller feber. I status: Afebril. Kapilläråterfyllnad 2 s. Hjärta: frekvens 170, starka toner. Inget fremissement, inget säkert blåsljud. Femoralispulsar palperas. Lungor: inga biljud, takypné, andningsfrekvens 56/min. Övrigt status ua. Buk: Mjuk, oöm. Palperar leverkanten 1 cm nedom arcus. Vilket tillstånd/sjukdom är det mest sannolika? (1 p) 
+  * AML (Akut myeloisk leukemi) 
+  * ASD (förmaksseptumdefekt) 
+  * Coarctatio aortae 
+  * Pneumoni 
+  * rätt: VSD (Kammarseptumdefekt) 
+  * // enl sarah, leukemi går ej med leverförstoring, ASD oftast inga symptom, coarctio för ha påverkade femoralispulsar,
 
 
 
@@ -3374,6 +3510,19 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Turner's syndrom
+
+***Presentation***
+
+* Du undersöker en nyfödd flicka på BB och noterar att barnet har kuddiga händer och fötter samt lite bred nacke och brett mellan mamillern* Symtomen vid den diagnos du funderar på kan vara diskreta och därför är det ofta svårt att ställa diagnos tidigt och knappt hälften får diagnosen vid födsel* Du skickar prov för kromosomanalys för att säkerställa din misstank* Vilket av följande alternativ har med störst sannolikhet koppling till den diagnos du misstänke* (1 p) 
+  * Är fertila 
+  * Låga värden Tillväxthormon 
+  * Normal tillväxt 
+  * rätt: Utebliven pubertet 
+  * Ventrikel septum defekt 
+
+
+
 
 
 ## Metabolism
@@ -3451,6 +3600,13 @@ En kort lista över kliniska manifestationer av CF:
     * Fokalitet, asymmetriskt samt ej tonisk-klonisk som feberkramper tenderar att vara (är?)
     * Tidsspannet, feberkramper upplöses relativt korta tidsperioder (några minuter)
     * Typisk ålder för feberkramp 6mån-4.5åå
+* Kalle, 8 år 
+  * som kommer med mamma. Han var på morgonen svårväckt i 10 minuter före frukosten och kissade i sängen vilket han annars inte brukar göra. Några minuter innan mamma skulle väcka honom hörde hon märkliga ljud inifrån Kalles rum. Mamma känner inte igen något av hans nämnda beteende sedan tidigare. Han har lite förkylning sedan ett par dagar och när mamman kollade tempen har han 38 grader. Han är en i övrigt frisk kille som är duktig på fotboll. Kalles status är genomgående helt normalt. Med bakgrund av anamnes och status, vad blir ditt viktigaste steg i utredningen för att eventuellt bekräfta diagnosen? (1 p) 
+  * DT skalle 
+  * EKG 
+  * Njurfunktionsprover 
+  * rätt: Sömn EEG 
+  * Urinprov och odling 
 
 
 
@@ -3625,6 +3781,17 @@ En kort lista över kliniska manifestationer av CF:
     * R: 0
   * **Pojken hämtar sig fort och andas utan andningsstöd efter 15 minuter. Han bedöms dock ha haft en asfyxi och du förbereder transport för neonatalvård på Huddinge sjukhus.** 
     * är barnet prematurt: nej, den är född v37+2
+* **En liten gosse föddes i v 27+5 med akut snitt. Det var en traumatisk förlossning för föräldrarna och barnet. APGAR-poängen var 3-5-7. Gossen lades in på neonatologiavdelningen med CPAP på grund av andningsstörning. Det visar sig att mamman hade feber och fick antibiotika efter att gossen föddes.** 
+  * Vilken tid, ålder, samt vilka parametrar bedömer man i APGAR i bedömningen
+    * 1min, 5min, 10min
+    * Appearance, Pulse, Grimace, Activity, Respiration
+  * Hur definieras prematuritet, denna föddes v28+1
+    * före v37+0
+    * Extrem prematuritet för denna unge
+  * Gossen blir slö o grå i färgen d3. misstänker infektino, vilken vanligaste agens i den här åldern
+    * GBS,
+    * E coli
+    * S aurues
 
 
 
@@ -3763,6 +3930,13 @@ En kort lista över kliniska manifestationer av CF:
   * ***Lungor***: normalfynd, BT 90/60mm Hg(normalvärde). 
   * Du misstänker en specifik sjukdom, den mest troliga,och vill lägga in Mustafaför utredningochta prover för att komma vidare i diagnostiken. 
   * **Prover som man vill ta:**
+* Nefros är en av de vanligaste njursjukdomar efter UVI hos barn. Nedan följer flera symtom och/eller associerade fynd. Ringa in det som är felaktigt. (1 p) 
+  * rätt: Högt Kreatinin  [att det inte finns högt krea vid nefros]
+  * Massiv ödem 
+  * Proteinuri 
+  * Risk för trombos 
+  * Förhöjda blodfetter 
+  * // Förklaring, förlorar koagulationsfaktorer och andra proteiner som leder t att levern börjar öka sin produktion då ökar äöven prod vlodfetter. När man förlorar protein å drar det sig med vatten ut -> ödem och proteinuri
 
 
 
@@ -4380,6 +4554,15 @@ Ataxic cerebral palsy is due to [...] damage.
   * ORS 500 ml på 2 timmar följt av välling underhåll 50 ml per timme 
   * ORS 500 ml på 4 timmar följt av välling underhåll 100 ml per timme + förluster med ORS 
   * ORS 200 ml på 2 timmar följt av välling underhåll 50 ml per timme 
+* Elsa 1 år, 
+  * tidigare frisk, har haft frekventa diarréer i 3 dagar nu. Hon kräktes de första två dagarna men ej idag. Hon har ett äldre syskon hemma med maginfluensa. Hon kommer till dig på barnakuten tillsammans med sina föräldrar pga trötthet och ovilja att dricka. Hennes blöjor är lättare än vanligt. Du vill rehydrera enteralt i första hand och ber en sjuksköterska sätta en nasogastrisk sond. Du har tagit en blodgas som visar normala elektrolyter. Hon är normalstor för åldern. (1 p) 
+  * Vad, hur mycket och hur länge ger du? 
+  * Ringer Acetat, 1000 ml på 24 timmar 
+  * Ringer Acetat, 500 ml på 4 timmar 
+  * Sondmat, 600 ml på 4 timmar 
+  * Vätskeersättning, 1000L på 24 timmar 
+  * rätt: Vätskeersättning 500 ml på 4 timmar [ORS via sond alltså]
+  * // De frågar om rehydrering vilket innebär RA/ORS. Rehydrering innebär också en tid på 4 timmar. 5% av flickans kroppsvikt. Man kan tänka sig att hon väger kanske ca 10 kg. 
 
 
 
@@ -4572,6 +4755,13 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
     * Flyttar föremål mellan händer
     * vänder om fr mage t rygg
     * skyddsrefelxeR: tar emot sig med handen om försöker tippa
+* Kasper är 9 månader gammal. 
+  * Han har just börjat krypa, men har ännu inte börjat resa sig upp mot möbler. De senaste veckorna blir han ledsen när han träffar främlingar och han vill bara vara med sina föräldrar. Är det något i anamnesen du blir bekymrad över? (1 p) 
+  * Ja, Kasper borde ha börjat resa sig mot möbler vid denna ålder 
+  * Rätt: Nej, Kasper har en helt normal utveckling 
+  * Ja, Kasper har både en sen motorisk utveckling och verkar ha en tillbakagång i sin utveckling när han nu blivit rädd för främlingar 
+  * Ja, det är onormalt att Kasper inte börjat krypa förrän vid 9 månaders ålder 
+  * Nej dock borde Kasper känna mer trygghet och kunna träffa främlingar utan att bli ledsen 
 
 
 
@@ -4808,7 +4998,77 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
 
 
 
+### Föda, nutrition och vikt
 
+***Presentation***
+
+*  **Modersmjölksersättningar produceras för att likna bröstmjölken så mycket som möjligt. Föräldrarna vill veta vad skillnaden är mellan modersmjölkersättning och komjölk? Vilket av följande påståenden om modersmjölksersättning stämmer inte? (1 p)** 
+  * De är komjölksbaserade 
+  * Kolhydraten är laktos 
+  * rätt: Proteinnivån är densamma som i komjölk [i.e. att det är ersättning har olika proteinnivåer jfr bröstmjölk]
+  * De är järnberikade 
+  * Har tillsats av mineraler och vitaminer 
+
+
+
+#### Bröstmjölk och amning
+
+* Optimal sammansättning
+* reducerar infektionsrisk
+* förstoppar inte
+* mer hygieniskt
+* ekonomiskt
+* tillgängligt
+* anknytning
+
+***Rekommendera: upp t 6mån ålder***
+
+
+
+#### Daglig energibehov
+
+* **1mån 120kcal/kg/d**
+* **1år 100kcal/kg/d**
+* **3år 85kcal/kg/d**
+* **pubertet 65kcal/kg/d**
+* **vuxen 30kcal/kg/d**
+
+#### Energiekvivalenter
+
+* 1kcal = 5.18kJ
+* 1kJ = 0.24kcal
+* 1g fett = 9kcal
+* 1g protein = 4kcal
+* 1g kolhydrat = 4kcal
+
+
+
+#### Innehåll
+
+Saker att undvika
+
+* Saltmat ska man inte
+* Jordnötter för att det finns saker de kan sätta sig i halsen
+
+Det man bör ge
+
+* i princip alla födoämnen förutom d ovan. 
+
+
+
+#### Viktutveckling
+
+* ***Formeln***
+  * 2-7 år: $2\times\text{ålder} + 8$
+  * Yngre än 2åå
+* **1-3mån = 5kg**
+* **1år = 10kg**
+* **3år = 15kg**
+* **5år = 20kg**
+* **7år = 25kg**
+* **9år = 30kg**
+* **12år = 40kg**
+* **14år = 50kg**
 
 
 
@@ -4952,8 +5212,6 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
 ***Kurva 0-2åå***
 
 * Fortsättning intrauterin tillväxt
-
-3
 
 
 

@@ -1,4 +1,5 @@
-# Barnkirurgi
+## Barnkirurgi
+
 Instruktioner: Fundera på lämpliga frågor till föräldrarna, möjliga differentialdiagnoser, vad du bör undersöka och hur du kommer vidare i diagnostik och behandling. Tänk på hur barnets ålder påverkar både troliga diagnoser och symptom. 
 
 Barnkirurgiska fall: Fall 8-10 är stöd för er inläsning, genomgång av dessa fall finns som filmer i Canvas och kommer ej tas upp på seminariet.

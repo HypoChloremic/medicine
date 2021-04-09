@@ -4667,7 +4667,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * !! ?? **Elin söker dig på MVC, TODO**; detta fallet att det står proteinuri på ett konstigt sätt. 
   * i graviditetesvecka 20. hon är frisk och födde barn för tre år sedna i vecka 39. barnet vägde 2.3kg.
   * Blodtryck idag 130/80 mmhg, urinsticka visar 0/ spår för proteinuri. hon har just varit på rutinultraljud och allt var bra där. hon mår bra och arbetar som vanligt och det går bra. 
-  * Finns skäl med ledning av anamnesen att ställa ytterligare frågor eller att vidta någon mer åtgärd under graviditeten?
+  * Finns skäl med ledning av anamnesen att ställa ytterligare frågor eller att vidta någon mer åtgärd under graviditeten? svaret fr abe verkar va fel
     * tidigare IUGR och +1 isch på stickan nu kan föranleda att patienten behöver tätare kontroller
     * penetrera anamnes: HELLP anamnes, diarre, HV, kiss, ögonflimmer
     * misstanke preeklampsi: proteinuri + tidg. IUGR. 

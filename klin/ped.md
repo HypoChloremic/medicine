@@ -822,7 +822,31 @@ Enligt ABCDE
 
 ***Etiologi och patofysiologi***
 
-<img src="./lectures/ped_lec/imgs/diab_hemat_sem_dFkFyH4QnG.png" alt="dFkFyH4QnG" style="zoom:50%;">
+
+
+
+
+***Etiologic och patofysiologi***
+
+* Type 1. Most childhood diabetes
+  * Destruction of pancreatic β-cells by an autoimmune process
+* Type 2. Insulin resistance followed later by β-cell failure
+    * Usually older children, obesity-related, positive family history, not as prone to ketosis, more common in some ethnic groups (e.g. Black and Asian children)
+* Other types
+    * Maturity onset diabetes of the young
+    * various types caused by genetic defects in β-cell function. Strong family history.
+    * Drugs, e.g. corticosteroids
+    * Pancreatic insufficiency, e.g. cystic fibrosis, iron overload in thalassaemia
+    * Endocrine disorders, e.g. Cushing syndrome
+    * Genetic/chromosomal syndromes, e.g. Down and Turner
+    * Neonatal diabetes: transient and permanent secondary to defective B cell function.
+    * Gestational diabete
+
+
+
+#### DM1
+
+<img src="./lectures/ped_lec/imgs/diab_hemat_sem_dFkFyH4QnG.png" alt="dFkFyH4QnG" style="zoom: 25%;">
 
 
 
@@ -2611,6 +2635,12 @@ Enligt ABCDE
   * Vilka två diagnoser måste du tänka på i första hand?
     * Leukemi
     * Osteomyelit?
+* Vanligaste debutsymptom eller statusfynd t akut leukemi, ange 4symptom / statusfynd
+  * Feber
+  * Skelettsmärta
+  * Trötthet
+  * petekier
+  * // blekhet? 
 
 
 
@@ -2654,6 +2684,14 @@ Enligt ABCDE
   * I status finner du en mycket blek och passiv gosse.
   * CRP< 10. 
   * Hb 63g/L
+* !!! **Lisa 5 år söker akut på Alva barnmottagning för gulhet och blekhet sedan 4 dagar efter en virussjukdom. Ingen känd tidigare anemi. Mamma hade anemi som barn och blev splenektomerad vid 5 års ålder, men hon vet ej diagnosen. Lisas blodprover visar: Hb 87 g/l, Bilirubin okonjugerat 67 (högt), retikulocyter 250 (mkt högt) MCV 83 (normalt). Diagnos?** 
+  * Hereditär sfärocyots
+* !!! Ahmed 3åå fr syrien. kmr nyligen. har sedn 1åå fått blodtransfusioner pga anemi. senaste transfusion 3 mån sedan. Labb Hb 57g/L, MCV 58, ferritin 1600 (mkt högt), röd blodbild visar hypokromasi, mikrocytos, anisocytos, poikilocytos, samt targetceller. Total-bili 87 (högt)
+  * Thalassemia major
+* **Chang, 4 årig pojke från Kina. Hade uttalad gulsot redan under andra levnadsdygnet och fick upprepade ljusbehandlingar. Ingen känd immunisering. Därefter väsentligen frisk. Nu akut blekhet och mörk urin. Okänd anledning. Status: blek och ikterisk i hud och sklerae. Ingen mjältförstoring. Hb 66 g/l. MCV normalt, ferritin normalt. Bilirubin okonjugerat 123 (mkt högt). Misstänkt diagnos?** 
+  * G6PD brist
+* !!! **5 årig flicka med trötthet och feber sedan 1 v utan fokala symtom. Hb 88 g/l, Tpk 66, Lpk 44,7. Diagnos? 1p.** 
+  * akut leukemi
 
 
 
@@ -3447,7 +3485,24 @@ Enligt ABCDE
 
 
 
+### Allmänt
 
+***Presentation***
+
+* **Ett 2-årig pojke, Yusef, kommer till akuten pga skrikighet i 15 minuter långa episoder sedan 8 timmar tillbaka. Dessemellan är han besvärsfri. Vid 5 dygns ålder blev han opererad för duodenalatresi men är i övrigt frisk. Han har ingen feber eller andra infektionssymtom. Han har kräkts 3 gånger och han har inte haft någon avföring. Du misstänker att pojken har ileus. Du tänker igenom vad orsakerna kan vara.** 
+  * !! ?? Ange 3 saker du måste undersöka i status för att försöka få klarhet i orsaken
+    * Ljumskarna
+    * Bukstatus
+    * pung: pungbråck
+  * ange 3 orsaker t ileus hos ett barn
+    * invagination
+    * volvulus
+    * inklämt ljumskbråck
+  * Finner inget säkert i status som förklarr ileusbilden. Du beställer en radiologisk undersökning för att i 1a hand få klarhet i ileusfrågeställningen. VIlken
+    * BÖS
+  * Undersökningen bekräftar din misstanke om ileus. Ange 2 fnyd som undersöknigen kan visa
+    * Vidgade tarmslyngor
+    * Gasvätskenivåer?... Detta kanske bara på DT.
 
 ### Invagination
 
@@ -3754,7 +3809,7 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Presentation***
 
-* Svara rätt eller fel
+* **Svara rätt eller fel**
   * alla nyfödda kontrolleras femoralis för VSD och eller coarctio aortae
     * FALSKT
     * VSD: kan man inte känna av i femoralispulsarna
@@ -3776,7 +3831,7 @@ En kort lista över kliniska manifestationer av CF:
   * HJärtsvikt: Vä-hö shunt -> ökad pulmonell kärlresistens -> högre arbetsmotstånd Hö hjärta -> sviktande funktion och hö-svikt
   * Cyanos: VSD acyanotiskt: relateras vä-hö shunt, varpå saturerat blod -> systemkretsloppet trots shunt (till skillnad fr hö-vä shunt: desat blod blandas -> systemkretslopp -> cyanos)
   * !!! Blåsljud: beroende på storlek
-* En 2 månader gammal fullgången flicka 
+* **En 2 månader gammal fullgången flicka** 
   * söker akut med sina föräldrar för att hon inte orkar amma. Hon har ingen ÖLI eller feber. I status: Afebril. Kapilläråterfyllnad 2 s. Hjärta: frekvens 170, starka toner. Inget fremissement, inget säkert blåsljud. Femoralispulsar palperas. Lungor: inga biljud, takypné, andningsfrekvens 56/min. Övrigt status ua. Buk: Mjuk, oöm. Palperar leverkanten 1 cm nedom arcus. Vilket tillstånd/sjukdom är det mest sannolika? (1 p) 
   * AML (Akut myeloisk leukemi) 
   * ASD (förmaksseptumdefekt) 
@@ -3799,6 +3854,16 @@ En kort lista över kliniska manifestationer av CF:
     * Svettning amning
     * går ej upp i vikt
     * takypne
+* **13. Hjärtvitier i barnaåren kan leda till bl a hjärtsvikt och/eller cyanos.** 
+  * **a) Ange minst 4 typiska symtom vid hjärtsvikt hos barn och ange två vitier som kan leda till hjärtsvikt. 3p** 
+    * Svettning vid amning
+    * ökad AF
+    * blekhet
+    * uppfödningsproblem
+    * Leda t hjärtsvikt: VSD, PDA
+  * **Ibland uppstår cyanos plötsligt en stund eller timmar dagar efter partus. Ange 2 vitier som kan osrsaka cyanos, o vilket lkm du behandlar de akut**
+    * Ductusberoende hjärtfel: coarctio aortae, pulmonalisatresi, TGA, Fallots
+    * Prostaglandin (hålla ductus arteriosus öppet)
 
 
 
@@ -4357,6 +4422,15 @@ En kort lista över kliniska manifestationer av CF:
   * Njurfunktionsprover 
   * rätt: Sömn EEG 
   * Urinprov och odling 
+* ?? !! **Till akuten inkommer en 9 årig flicka som på morgonen varit svårväckt varför man kommer in med egen bil. På morgonen hörde mamman konstiga ljud från flickan i hennes (dvs flickans) sovrum. Hon har kissat på sig men är annars torr om nätterna, sedan många år tillbaka. Hon är i övrigt frisk. I status på akuten 25 minuter senare är hon fortfarande lite trött. Ingen feber ingen nackstyvhet. I neurologstatus eller övrigt status finner du inget specifikt. I herediteten framkommer att pappan hade någon form av epilepsi som barn men den gick över. Du misstänker en specifik sjukdom.** 
+  * Bening barnepilepsi
+  * Hur ställs diagnosen
+    * Sömn EEG
+  * Vad visar undersökningen? Specificera så gott du kan
+    * Sidoskiftande
+    * spike and sharpwaves med hög amplitud
+    * normal bakgrundsaktivitet
+    * central o mitt-temporalt samtidigt
 
 
 
@@ -4399,6 +4473,12 @@ En kort lista över kliniska manifestationer av CF:
     * Abducenspares
   * Vilken åtgärd vidtar du på akuetn
     * Skicka t akuten omgående,.
+* ange 4 symptom / statusfynd hjärntumör bakre skallgrop
+  * Ögonsumptom
+  * Huvudvärk
+  * kräkkningar
+  * ataxi
+  * (trötthet?)
 
 
 
@@ -5166,6 +5246,9 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Presentation***
 
+* Ange 1 symptom / statusfynd Wilms tumör
+  * Förstorad buk
+
 
 
 ***Etiologi och patofysiologi***
@@ -5396,6 +5479,22 @@ Intagningsorsak: 12 årig pojke med hyperglukemi Ärftlighet Morfar samt morbror
 
 12åå pojke, tidg frisk, morbror DM2, söker pga trötthet, ökat vätskeintag, viktnedgång senaste 2v. Status överlag oanmärkningsvärt. Labbmässigt glukosuri, ketonuri, kompenserad metabol acidos, med B-glukos 38.3, blodketoner 4.2. Arbetsidagnos nydebuterad DM1 med svår hyperglykemi, och antydan början på DKA. Akut inläggning, rekommenderar inläggning BIVA för rehydrering och glukos/keton korrektion. Infarter på akuten, rehydrering RA/NaCl minst 1h INNAN insulinbehandling. Kaliumtillägg när kalium <3.5. Monitorering blodgas varje timme initialt. Kontakt barnendokrinolog, BIVA. Snabb avstämning flöde eller barnjour innan. 
 
+
+
+#### Hyperglykemi 2
+
+Intagningsorsak 10 årig flicka med Hyperglukemi Ärftlighet: Farmor med tyreoideasjukdom. Ingen känd hereditet för Diabetes Mellitus eller celiaki vad föräldrarna vet. Mor adopterad. Socialt: Bor varannan vecka hos mamma och pappa. Har en lillasyster och en storebror. Tid/nuv.sjukdomar: Tidigare frisk.Överkänslighet: Ingen känd överkänslighet Epidemiologi: Ont i halsen och lite hängig för cirka fem veckor sedan. Aktuellt: Sedan 5 dagar tillbaka har det varit en påtaglig viktnedgång och flickan varit slöare och mer orkeslös under helgen. Sökte därför vårdcentral idag och blev inremitterad vidare till akutmottagningen. Hon har druckit mer vätska senaste 3-4 veckorna och även kissat mycket mer. Besvärats av magsmärta senaste veckorna. Eventuellt en diskret huvudvärk under helgen. Negerar huvudvärk idag. Inga kräkningar. Status Allmäntillstånd: Gott. Något trött. Fin perifer cirkulation. Inga hudturgor. Vikt: 33,9 kg Längd: 151 cm Saturation: 97 % Pulsfrekvens: 110 slag/min Kroppstemperatur: 37,6 °C Munhåla och svalg: utan anmärkning Hjärta: Auskulteras med normal andningskorrelerad rytm. Inga hörbara bi- eller blåsljud. Lungor: Normala andningsljud. Inga hörbara rassel eller ronki. Buk: Mjuk och oöm. Ingen palperbar organomegali. Neurologiskt status: Pupiller reagerar på direkt och indirekt ljus. Grovkraft och sensorik i extremiteter u.a. Provtagning: Blodgas visar pH 7,39, base excess -4 och HCO3 21. Natrium 135 och kalium 4,5. Glukos 29,0 mmol/L. 
+
+
+
+***Svar***
+
+10åå flicka, tidg frisk, ingen känd hereditet DM, moder adopterad, söker pga suspekt debut DM1 sedan 5d.  Epidemiologiskt ont i halsen + hängig 5v sedan. Aktuellt druckit mer vätska senaste 3-4v, kissat mer, sedan 5d påtaglig viktnedgång. Statusmässig  AT något trött, i övrigt anmärkningslöst. Provtagning visar kraftig hyperglykemi. Misstänker nydebuterad DM1, oklar provokation. Differentialdiagnostiskt andra endokrina orsaker e.g. cushing, vaspopressin brist etc osannolika mtp typisk anamnes och status. Inläggning. tillägg U-sticka. Infarter på akuten. rehydrering RA/NaCl minst 1h INNAN insulinbehandling. Kaliumtillägg när kalium <3.5. Monitorering blodgas varje timme initialt. Kontakt barnendokrinolog, BIVA. Snabb avstämning flöde eller barnjour innan. 
+
+
+
+
+
 #### Kawasaki
 
 2 år gammal pojke på barnakuten Kontaktorsak: Feber. Remiss från Fittja vårdcentral Socialt: Barn 3 av 3 i hel familj. Går i förskola. Tidigare sjukdomar: Förkylningsastma, tar Airomir och Flutide regelbundet via Optichamber under vinterhalvåret Aktuellt: Feber och dålig aptit sedan snart 6 dagar. Varit påtagligt gnällig det senaste dygnet. Ögonen irriterade och röda. Ingen hosta eller andra symptom som föräldrarna känner igen som astma. Remitterad från vårdcentralen p g a oklar feber och högt CRP (110). Endast druckit 1 dl Festis sedan i morse. Ej kissat idag. Normal avföring i går. Status: AT: Kl 20.30. Påtagligt irritabel, svårtröstad. Normalt andningsmönster. Kap refill 2,5 sek. Temp 39,6. Saturation 99% på luft. Vikt: 14,1 kg. Vägde 14,8 kg för en månad sedan. MoS: Tydligt rodnad tunga. Torra slemhinnor, ilsket röda och spruckna läppar. Förstorade tonsiller bilat, rodnade. Inga beläggningar. Lymfkörtlar: Bilateralt förstorade ömmande körtlar i båda käkvinklarna, ca 2 cm. Ögon: Uttalad bilat konjunktivit med ökad kärlinjektion. Hjärta. RR, HF 110-130 ppm. Inga säkra biljud, svårbedömt p g a skrik. Lungor: Sidlika andningsljud. Inga ronki, inga krepitationer. Buk: Svårbedömt då gossen spänner sig. Ingen tydlig ömhet eller organförstoring. Neurologi: Normal sidlik tonus. Ingen nackstelhet. Hud: Makulöst utslag över större delen av bålen. Händer och fingrar inspekteras utan anmärkning. Lab: Måttlig grad av leukocytos, i övrigt normalt blodstatus. CRP 125. Blank urinsticka. Skriv din PBD på de anvisade raderna 
@@ -5435,6 +5534,16 @@ Kontaktorsak: 3 månaders pojke som kommer till akuten pga andningsbesvär och h
 
 
 // Barn som är yngre än sex månader har inte fullt skydd av vaccinet. För dem kan kikhostan bli allvarlig och ibland livshotande. Extra utsatta är barn yngre än tre månader som ännu inte har fått sin första dos vaccin.
+
+
+
+#### Pertussis
+
+Intagningsorsak 2 månaders pojke som inkommer med hosta Socialt: Sammanhållen familj. Syskon 5 och 7 år gamla. Grav./nyföddhetsperiod: Normal förlossning vecka 39+6. Inga komplikationer under graviditet, förlossning eller efterförlopp. Överkänslighet: Ingen känd Epidemiologi: Modern som har astma har haft snuva och hostat intensivt under 3-4 veckors tid, både dag och natt, men har ej haft feber. Äldre systrar och far båda friska. Aktuellt: Debut av förkylningssymtom med hosta för en dryg vecka sedan. Sökt på vårdcentralen initialt där bedömningen var övre luftvägssymtom. Har gradvis försämrats. Alltmer kraftfulla hostattacker där pojken tappar andan och närmast blir blå i ansiktet under några sekunder. Särskilt besvärligt nattetid. Har då haft svårt att få i sig bröstmjölk men har kunnat ammas ok dagtid. Har kissat och bajsat utan problem. Status Allmäntillstånd: afebril, fin mellan hostattackerna. Hostar till kraftigt i samband med att undertecknad kommer in i rummet, har dessförinnan haft en ordentlig hostattack då han blivit blå ånyo, enligt moder och mormor som befinner sig i rummet. Efter hostattacken fin hudfärg och alert i kontakten. Vikt: 4,95 kg, AF: 46 andetag/min, Sat: 94 % O2 på luft, Puls: 139 slag/min Ytliga lymfkörtlar: Inga uppenbart förstorade i hals-/nackregion, supra- eller infraklavikulärt. Hjärta: Normal rytm. Inga biljud kan auskulteras. Lungor: Väsentligen normala andningsljud bilateralt. Inga biljud. Buk: Viss ökad bukandning noteras men inga indragningar subkostalt. Mjuk och oöm vid palpation. Neurologiskt status: Likstora pupiller. Symmetriskt rörelsemönster. Gripreflexer och Moro ua. Perifer cirkulation: Normal kapillär återfyllnad. Yttre genitalia: Testiklar palperas nedvandrade i skrotum. Inspektion utan anmärkning. Hud: Hudkostymen inspekteras i stort utan anmärkning. 
+
+
+
+2mån pojke, PN v39+6, tidg frisk, söker pga hostattacker + apne tills blå sedan 1 vecka. Epidemiologist mamma med snuva + infen feber + intensiv hosta sedan 3-4v, dag o natt. Aktuellt pojke gradvis insjuknat fr ÖLI symptom t att nu ha intensiva hostattacker med apne o pat blir blå i några sekunder, särskilt nattetid. Spontan återhämtning efter hostattackerna. Status 46 AF, sat 94%, lungor ua, viss bukandning, inga indragningar. Misstänker pertussisinfektion med typiska anamnes. Differentialdiagnostiskt virusorsak t hostattacker e.g. adenovirus, men kan ej utesluta pertussis som bör behandlas. Vidtar hygienåtgärder, med separat rum och kohort besök. Sätter in erytromycin för att minska smittsamhet och potentiellt vidare förlopp. Syrgas på grimma. Bedöma kapref. Försök ORS po + amning. 
 
 
 

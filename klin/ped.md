@@ -152,7 +152,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Presentation***
 
-* **Olle 7 
+* **Olle 7**
   * **månader har en akuttid bokad till dig på barnmottagningen för allergiutredning. I remissen från BVC står följande: ”Gosse med eksem över armar och ben sedan en tid tillbaka. Allergi?” Du suckar ljudlöst över den undermåliga remissen, och väljer att komplettera anamnesen innan du börjar undersöka pojken.** **a) Ange 2 frågor som du önskar svar på och som har relevans för frågeställningen. (1 p)** 
     * Hereditet
     * Födoanamnes; vad har patienten ätit
@@ -173,6 +173,21 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
       * Äggproteinallergi
       * under 1åå är det ofta mjölk, ägg, om utbbredda eksem.
       * över 1åå är det ofta inte födoämnen som orsakar
+* **Astrid**
+  * **Astrid, 11 månader kommer med modern till barnmottagningen på grund av buksmärtor och lösa avföringar. Hon har haft säkert 6-7 luftvägsinfektioner och bedömts obstruktiv men har ej haft några säkra pneumonier men väl 4 otiter. Hon är gnällig och missnöjd. Hon äter normalkost för åldern. För in följande vikt- och längdvärden i tillväxtkurvan på nästföljande sida: Födelse: 3,5 kg, 51 cm. 1 månad: 4,8 kg, 54 cm. 2 månader: 5,5 kg, 58 cm. 3 månader: 6,2 kg, 62 cm. 5 månader: 7,5 kg, 66 cm. 7 månader: 7,7 kg, 70 cm. 9 månader: 7,9 kg, 72 cm. 11 månader: 8,1 kg, 74 cm. I status kan du se att hon är mager.** 
+  * TIllväxtkurvan finns under komjölksallergi
+  * Tolka kort tillväxtkurvan
+    * Initial kanalföljare, +1SD 2må-3mån
+    * Avplanad viktkurva vid 5månaders ålder: i samband antagligen med att man buter föda
+  * Ange 2 diagnoser som är de mest sannolika
+    * Födoämnesallergi
+    * Celiaki
+  * Hur bekräftas respektive diagnos
+    * Födoämnesallergi: elimination och provokation
+    * Celiaki: Transglutaminas ak
+  * Beskriv kort behandling för en a v sjukadomarna
+    * Celiaki: glutenfri kost
+    * Födoämnesallergi: elimination
 
 
 
@@ -259,11 +274,25 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
             * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
             * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
         * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
-* 4 år gammal flicka
+* **4 år gammal flicka**
     *  som söker för andra gången med andningsbesvär i samband med en förkylning, i övrigt frisk. Hon har 37,8 i temp, har indragningar, ökad andningsfrekvens och en saturation på 95%. Hon hostar mycket ffa nattetid nu när hon är förkyld och har då svårt att sova. Vid lungauskultation noteras ronki basalt bilateralt. 2 p
     * Diagnos: förkylningstma, men hon har diagnosen astma per definition, då över 2å + förkyld med obstruktivitet
     * agens: virus, ofta rhinovirus
     * Behandling: ventoline, inhalation, NaCl om slem, syras under 92%.
+* **Hur definieras begreppet ¨astma¨ hos ett barn som är < 2år** 
+    * Första obstruktiva episoden i samband med förkylning 
+    * Första obstruktiva episoden utan förkylning samt att barnet har eksem och/eller astma 
+    * Första obstruktiva episoden som utlöses av ett allergen 
+    * rätt: ≥3 obstruktiva episoder, eller första obstruktiva episoden om barnet har eksem eller födoämnesallergi 
+    * Tredje obstruktiva episoden utan förkylning 
+* **Gustaf, 8 år, kommer till barnmottagningen på grund av att han inte orkar lika mycket som de jämnåriga klasskamraterna, speciellt i gymnastiken och fotbollen. Han måste stanna och vila när de andra kompisarna bara fortsätter att springa. Han har tidigare varit väsentligen frisk men hade komjölksproteinallergi och eksem som spädbarn. Han växer normalt och har inga skolsvårigheter. I status på mottagningen finner du inget avvikande. Du misstänker en diagnos och vill beställa en undersökning för att säkerställa den.** 
+    * Vilken sjukdom
+        * Astma
+    * Vilken undersökning vill du beställa
+        * Spirometri
+    * Undersökningen bekräftar din hypotes
+    * Hur behandlar du då tillståndet
+        * Initialt SABA, kortverkande B2-agonist vid behov
 
 
 
@@ -430,6 +459,8 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
       * En obstruktiv episod om över 2åå
     * Hösnuva: ofta senare i åldrana, men kan debutera tidigt
 
+### Celiaki
+
 
 
 ### Komjölksallergi
@@ -440,7 +471,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * kommer med modern till barnmottagningen på grund av buksmärtor och lösa avföringar. Hon har haft säkert 6-7 luftvägsinfektioner och bedömts obstruktiv men har ej haft några säkra pneumoniermen väl 4 otiter. Hon är gnällig och missnöjd. Hon äter normalkostför åldern.
   * För in följande vikt-och längdvärden i tillväxtkurvan på nästföljande sida:Födelse: 3,5 kg, 51 cm. 1 månad: 4,8 kg, 54 cm. 2 månader: 5,5 kg, 58 cm. 3 månader: 6,2 kg, 62 cm. 5 månader: 7,5 kg, 66 cm.7 månader: 7,7 kg, 70 cm. 9 månader: 7,9 kg, 72 cm. 11 månader: 8,1 kg, 74 cm. I status kan du se att hon är mager.
   * ***Bild nedan***
-  * <img src="./imgs/ped_samman_mDLOZlPDla.png" alt="mDLOZlPDla" style="zoom:50%;" />
+  * <img src="./imgs/ped_samman_mDLOZlPDla.png" alt="mDLOZlPDla" style="zoom:67%;" />
   * **Du träffar 4 månader gamla Hussein på BUMM. Han har utbredda torra eksem över kinderna och armarnas sträcksidor samt över låren. Medföljande mamma berättar att gossen på sistone varit mer missnöjd och kräkts oftare. Gossen har sedan en månad tillbaka ersatt amning med Baby Semp 1. Han har fallit av 0,5 SD på viktkurvan sedan föregående mätning för en månad sedan. Läkartiden har bokats efter att en remiss skickats från BVC för en vecka sedan.** 
     * VIken diagnos förklarar Hysseins symptom, utöver eksem bör remittenten har nämnt som mest sannolik diagnos
       * Mjölkproteinsallergi (komjölksallergi?)
@@ -753,6 +784,12 @@ Enligt ABCDE
   * Jerry läggs in på IVA för vätske- och insulinbehandling. IVA-jouren, som har begränsad barnvana, undrar hur man beräknar volymen Ringeracetat till en vätskebolus och ett rehydreringsdropp (4 timmar) till Jerry som väger 25 kg.
     * 5% av kroppsvikten över 4h: 25/20 = 12.5/10 = 1.25L
     * Vätskebolus: 20mL/kg  => 25*20mL = 500mL
+* En lördagskväll kommer en 16 årig flicka in till akuten. Hon har sedan tidigare känd diabetes mellitus och tar insulin. Hon visar sig ha diabetisk ketoacidos (DKA). Du vet ju att DKA är en allvarlig komplikation som kan tillstöta vid diabetesdebuten men också senare hos en individ med juvenil diabetes. Vad är vanligaste orsaken till DKA hos en ungdom? 
+  * Alkoholintag 
+  * rätt: Insulinbrist 
+  * Insulinöverskott 
+  * Intag av för lite kolhydrater 
+  * Intag av för mkt kolhydrater 
 
 
 
@@ -1608,12 +1645,6 @@ Enligt ABCDE
 
 
 
-### Cystit
-
-
-
-
-
 ### Febrerna TODO
 
 
@@ -2127,19 +2158,22 @@ Enligt ABCDE
 * !! **Enl illustrated paed**: 
   * !! No evidence for reduc-ing severity or illness duration has been shown fromuse of mist, nebulized hypertonic saline, antibiotics, corticosteroids, or nebulized bronchodilators, such as salbutamol or upratropium
   * Fluids may need via NG-sond, or intravenouslt.
-  * Assisted ventilation: CPAP, or else mechanical ventilation is req ni a small percentage
-* !!! Enl PM
-  * **Näshygien**: rensugning näsa, ev mun o svalg. NaCl samt evt Nezeril
+  * **Assisted ventilation**: CPAP, or else mechanical ventilation is req ni a small percentage
+* !!! **Enl PM**
+  * **Näshygien**: rensugning näsa, ev mun o svalg. ISOTON NaCl samt evt Nezeril
+    * **VARNING**: Försiktig och upprepad rengöring av näskaviteten rekommenderas, 
+    * **Associerate längre vårdtid om**:  djupare sugning av luftvägarna har visats vara associerat med längre vårdtid och därför inte rekommenderas (Rekommendationsgrad B).
+    * Hyperton NaCl är har ingen evidens. 
   * **Vätska**: 
-    * rehydrering + näringstillförsel; 
-    * ofta NG-sond. 
-    * Vätskelista, 
-    * !!! vikt dagligen. 
-    * !!! följa elektlyter: om iv vätska ges ska elektrolyter följas vid start och dagligen
+    * **rehydrering + näringstillförsel**; 
+    * **ofta NG-sond**. 
+    * **Vätskelista**, 
+    * !!! **vikt dagligen**. 
+    * !!! **följa elektlyter**: om iv vätska ges ska elektrolyter följas vid start och dagligen
   * **Inhalationsbehandling**:
     * **NaCl-inhalationer**: var 3e timme. oftast räcker med detta
-    * !! ?? **Maxim** på akuten, Ailos på avdelning
-    * **Adrenalin**: ***ev inhalation*** , 1mg/mL, vb, samråd PAL
+    * !! ?? **Maxim** på akuten, Ailos på avdelning; att för de under 3-4mån finns ingen effekt med salbutamol + steroider
+    * !! **Adrenalin**: ***ev inhalation*** , 1mg/mL, vb, samråd PAL, Detta verkar vara indicerat enl Hildebrand; rek fr LKM verket 2017. Tydlig plats, 
     * **Syrgas**: om saturation under 90%.
       * grimma om behov under 2-3L
       * annars mask
@@ -2153,6 +2187,9 @@ Enligt ABCDE
       * virusutlöst otit: obs 50% av dessa har virusutlöst otit
 * ***hand dekontamination (desinfektion)***: för att förhindra spridning av smittan
 * undvik tobakrök exponering
+* **Profylaxbehandling**
+  * immunsupprimerade eller neuromusk sjd, prematurt födda. 
+  * Monoklonala antikroppar, SYNAGIS
 
 
 
@@ -2234,20 +2271,13 @@ Enligt ABCDE
     * bensylpenicillin iv.
     * eller cefotax
 
-#### RSV 
+### Nefrologiskt Urologiskt
 
-***Behandling***
-
-* 
-* ***Profylaktisk behandling***
-  * immunsupprimerade eller neuromusk sjd, prematurt födda. 
-  * Monoklonala antikroppar, SYNAGIS
+#### Cystit
 
 
 
-
-
-### Pyelonefrit
+#### Pyelonefrit
 
 ***Presentation***
 
@@ -2266,11 +2296,20 @@ Enligt ABCDE
 
 
 
+### Virusinfektioner
+
+#### Rubella
+
+***Presentation***
 
 
 
+***Etiologi och patofysiologi***
 
-### Rubella
+* RNA-virus
+* Toga-virus
+
+
 
 ***Kliniska kännetecken***
 
@@ -2279,9 +2318,15 @@ Enligt ABCDE
 
 
 
-### Mässling
+***Utredning och handläggning***
 
 
+
+***Behandling***
+
+
+
+#### Mässling
 
 ***Presentation***
 
@@ -2410,17 +2455,16 @@ Enligt ABCDE
 
 
 
-
-
-
-
-
-
-
-
-### Varicella (Vattkoppor)
+#### Varicella (Vattkoppor)
 
 ***Presentation***
+
+* Vattkoppor är en sjukdom som de allra flesta barn drabbas av i Sverige. Ett påstående om vattkoppor nedan är sant? 
+  * Bältros utlöses av exponering för en individ/barn som har vattkoppor 
+  * En vanlig komplikation utgörs av ledvärk. 
+  * Inkubationstiden är ca 9 - 11 dagar 
+  * Utslaget är makulopapulöst 
+  * rätt: Utslaget är ffa lokaliserat till hud och slemhinnor 
 
 
 
@@ -2434,7 +2478,7 @@ Enligt ABCDE
 ***Kliniska kännetecken***
 
 * **intensiva pruritiska erythematösa makula** utveckals akut efter 7-21 dagars inkubation
-  * detta är ej makulopapulöst! notera detta för att makulopapulöst är mer som mässling verkare som. 
+  * !!! detta är ej makulopapulöst! notera detta för att makulopapulöst är mer som mässling verkare som. 
 * **makula utvecklar centrala vesiklar** inom 1-2 dagar. 
 * **klassiska lesionen** beskrivs som "dew frop on a rose petal" eller en vesikel i röd bakgrund
 * **"crops of lesions"** utvecklas under 2-5 dagar. Hundratals vesiklar förekomma, som kommer att **skorpa över**
@@ -2503,7 +2547,6 @@ Enligt ABCDE
 
 * 3 månader
   * ***TEDAP***
-  * 
 
 
 
@@ -4085,11 +4128,47 @@ En kort lista över kliniska manifestationer av CF:
 
 ## Klinisk Genetik
 
+
+
+### Allmänt
+
+***Presentation***
+
+* På BB undersöker du en nyfödd, fullgången pojke. Barnmorskan har uttryckt Mb Down misstankar kring pojken innan ni går in till honom. När du undersöker pojken finner du bl a nedanstående avvikelser. Vilken av dem ingår inte i de s.k. Hall’s kriterier? 
+  * Epikantusveck 
+  * rätt: Sen mekoniumavgång 
+  * Muskelslapphet 
+  * Lågt sittande öron 
+  * Överrörliga leder 
+
+
+
 ### Downs syndrom
 
 ***Kliniska kännetecekn***
 
 * Duodenal atresi: associeras med klinisk genetik,
+* Halls kriterier:
+  * För tidigt född och/eller underviktig
+  * Muskelslapphet (hypotoni) (80%)
+  * Dåligt utvecklad Mororeflex  (85%)
+  * Överrörliga leder (80%)
+  * Platt ansikte (90%)
+  * Platt bakhuvud
+  * Rikligt med nackskinn (80%)
+  * Veck i inre ögonvrån (epikantusveck)
+  * Snedställda ögonspringor
+  * Små, vita prickar på regnbågshinnan (Bruschfields prickar)
+  * Lågt sittande ytteröron med få veck
+  * Tungan hålls utanför munnen
+  * Högt gomtak
+  * Snörvlande andning
+  * Korta, breda, mjuka händer med korta, överrörliga fingrar
+  * Fyrfingerfåran sträcker sig över hela handflatan
+  * Kort lillfinger, krökt inåt och med kort mellanben (klinodyktali)
+  * Stort avstånd mellan stortån och andra tån (“sandalgap”)
+  * Avvikande form på höftleden (ses bara på röntgen)
+  * Tandavvikelser (när barnet blir äldre)
 
 
 
@@ -4153,6 +4232,25 @@ En kort lista över kliniska manifestationer av CF:
 
 
 ### Neonatal screeningprogram
+
+
+
+***Presentation***
+
+* **Du är ny underläkare på en barnklinik och går BB rond. En mamma till ett 1 dygn gammalt fullgånget, hittills friskt barn meddelar att hon ogärna vill ta det s.k. PKU provet. Hon har många funderingar. Hon ställer flera frågor som du skall svara övertygande på för att hon skall ta provet på sitt barn.** **Vad svarar du henne på de två första frågorna?** 
+  * Vad är det för typ av sjukdomar man undersöker? Ange minst 2 grupper
+    * Metabola sjukdomar
+    * Endokrina sjukdomar
+  * Varför kan man inte vänta t sjukdomssymptomen dyker upp och diagnosticera och åtgärda dem då
+    * Man vill inte vänta då de kan göra permanenta organskador. Tidig upptäckt ger bättre prognos
+  * Ange dessutom 2 kriterier för att en sjd ska få vara del av screeningprogrammet, förutom svaret i fråga b
+    * Behandlingsbar
+    * Testet ska vara sensitivit: ska fånga mmånga, cutoff så man fångar alla, acceptabelt med många falskpositiva
+    * Ska finnas behandling
+    * Beredskap för uppföljning av prov och omhändertagande
+    * Kontinuerlig process. måste se t att inte får för många falskt positiva
+
+
 
 
 
@@ -4404,6 +4502,18 @@ En kort lista över kliniska manifestationer av CF:
   * Gallvägsatresi
   * Diafragmabråck
   * Esofagusatresi (tracheoesofageal fistel)
+* Vilket av följande fynd är normalt hos ett friskt, fullgånget barn som är tre dagar gammalt? 
+
+  * Andningsfrekvens 80/min 
+  * Hb 110 g/l 
+  * rätt: Hjärtfrekvens 120/min 
+  * Leverkanten palpabel 5 cm nedom arcus 
+  * pH i artärblod 7,17 
+  * // kommentarer
+    * 2 tvärfingrar är okej för leverkant. 
+    * AF 0-1 mån 30-60, 1-12 mån 30-40 
+    * Hb ska vara högre hos de här små. 
+    * pH ska ej vara sådär surt. 
 
 
 
@@ -4644,13 +4754,23 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Presentation***
 
-* Plötslig spädbarnsdöd (SIDS) drabbar sedan 90-talet allt färre barn, de senaste åren ca 20-30 fall årligen i Sverige. Den minskade incidensen bedöms bero ändrade råd som ges på BB och BVC. Vilka är de aktuella råden? 
+* **Plötslig spädbarnsdöd (SIDS) drabbar sedan 90-talet allt färre barn, de senaste åren ca 20-30 fall årligen i Sverige. Den minskade incidensen bedöms bero ändrade råd som ges på BB och BVC. Vilka är de aktuella råden?** 
+
   * Magläge då barnet sover. Undvika rökexponering. Undvika hög temperatur i sovrummet. b) Magläge då barnet sover. Ammande mödrar bör undvika snus. Avstå matning 1 h före sömn. 
   * rätt: Ryggläge då barnet sover. Undvika rökning i hemmet. Barnet bör sova i egen säng. 
   * Ryggläge då barnet sover. Apnélarm om barnet är fött före v 34. Avstå matning 1 h före sömn. 
   * Ryggläge då barnet sover, magläge då barnet är vaket. Ammande mödrar bör undvika snus. 
 
+* !! **Det finns många riskfaktorer som ökar risken för ett spädbarn att dö i plötslig spädbarnsdöd.** 
 
+  * Vilken av dessa kända riskfaktorer anses vara den allvarligaste, dvs den som orsakar flest dödsfall? 
+    * Att barnet sover i samma säng som föräldrarna 
+    * För mycket kläder på ett barn 
+    * Låg socioekonomisk standard 
+    * rätt: Magläge 
+    * Rökning hos modern 
+
+  
 
 ## Nefrologi och urologi
 
@@ -4742,6 +4862,19 @@ En kort lista över kliniska manifestationer av CF:
     * u-sticka + S-alb?
   * Om hypotes stämmer, hur behandlar primärt
     * Steroidbehandling (prednisolon?)
+* **Mustafa 7 år, sedan tidigare astma, inkommer till akuten pga av att han av föräldrarna uppfattas som svullen sedan ett par dagar i ansikte/ögon och på fötterna. I status kan du se diskret svullnad bilateralt, symmetriskt enligt ovan med i övrigt intakt hud. AT gott, afebril. Vitalparametrar ua för åldern. Hjärta: normalfynd, Lungor: normalfynd, BT 90/60mm Hg (normalvärde). Du misstänker en specifik sjukdom, den mest troliga, och vill lägga in Mustafa för utredning och ta prover för att komma vidare i diagnostiken.** 
+  * Angre tre viktiga prover du beställer för att säkra diagnosen
+    * U-sticka
+    * kreatinin
+    * alb/krea-kbot
+    * // man kan ta S-alb
+  * I ordinationen t avdelningen beställer du också minst 3 dagliga kontroller (dvs ej laboratorieprover)
+    * Vätskemätning, urinmätning
+    * blodtryck
+    * vikt
+    * (bukomfång, puls, AF)
+  * Provsvaren bekräftar din diagnosmisstanke, och du ska nu ordinera medicin. Vad ordinerar du för typ av medicin
+    * Steroider: prednisolon
 
 
 
@@ -5400,6 +5533,13 @@ Ataxic cerebral palsy is due to [...] damage.
   * vilken behandling bör hon erbjudas
     * kortisoninjektion
     * om polyartrit -> po
+* Du vikarierar som underläkare på en BUMM då en 4 årig tid frisk flicka kommer till din mottagning med diskret hälta vä sida sedan några veckor. Hon har inte haft någon feber. I status noterar du ett antytt svullet knä som är lätt värmeökat på vä sida. Du noterar också att höger talokruralled (fotled) också är antytt svullen. I båda lederna noterar du också skyddsreflexer när du flekterar och extenderar dem. Du misstänker en specifik sjukdom och önskar därmed ta prover för att komma diagnosen lite närmare. Vilka prover beställer du? 
+  * Ange det svar som stämmer bäst. 
+  * Blodstatus med B-celler, S-Borrelia ak, rheumafaktor 
+  * Blodstatus med B-celler, SR, CRP, Anti-CCP ak 
+  * Rätt: Blodstatus med B-celler, SR, CRP, S-Borrelia-ak, ANA 
+  * SR, CRP, S-Borrelia-ak, ANA 
+  * SR, CRP, Reuma-faktor, Anti-CCP ak, ANA 
 
 
 
@@ -5721,6 +5861,12 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
   * rätt: Thyroideahormoner, insulin, kortisol och nutrition 
   * Östradiol, testosteron, GH och kortisol 
   * // GH-hormon relevant efter 8mån ålder
+* Ange den mest kvalificerade utveckling ett barn skall ha uppnått vid en 10 månaders kontroll på BVC avseende grovmotorik, finmotorik och social förmåga (mao, det vi kollar på en BVC undersökning) 
+  * rätt: Står med stöd, pincettgrepp, leker tittut och vinkar adjö 
+  * Vänder runt, tvärhandsgrepp, säger dada, baba 
+  * Går utan stöd, pincettgrepp, tittar efter tappad leksak 
+  * Reser sig mot stol eller soffa, staplar 2 -3 klossar, säger 8 – 10 enkla ord 
+  * Går med stöd, petar näsan, sjunger nationalsången 
 
 
 
@@ -6153,7 +6299,21 @@ Det man bör ge
 
 ***Presentation***
 
-* **Tillväxtkurvan är ett av barnläkarens viktigaste verktyg. Matcha tillväxtkurvorna (siffran på kurvan skrivs på linjen) med nedanstående tillstånd och motivera kort ditt svar. Ett tillstånd per tillväxtkurva.** **a) Tillväxthormonbrist _________** **b) Turners syndrom _________** **c) Celiaki _________** **d) Sen pubertet _________** **Kurvorna bifogade som bilaga. 4 p** 
+* Tillväxtkurvan är ett av barnläkarens viktigaste verktyg. Matcha tillväxtkurvorna (siffran på kurvan skrivs på linn) med nedanstående tillstånd och motivera kort ditt svar. Ett tillstånd per tillväxtkurva.
+  * Tillväxthormonbrist _________
+  * Turners syndrom _________
+  * Celiaki _________
+  * Sen pubertet _________
+
+
+
+***Systematisk tolkning tillväxtkurvor***
+
+* **Grundförutsättning**: fullständigt kurva med korrekta mätuppgifter
+* **Tillväxthastighet:** normal för ålder? kanalföljare
+* **Relation mellan längd och vikt**: vad faller först?
+* **Tillväxt jmf med SD**: Hur växer barnet jfr med normalkurvan, dvs andra barn i samma ålder
+* **Tillväxt jmf med target height**: Hur växer barnet utifrån de genetiska förutsättningarna? stor eller liten diskrepans mellan föräldralängderna
 
 
 
@@ -6220,13 +6380,6 @@ Det man bör ge
 * Har man väldigt olika långa i SD föräldrars längder skiljer sig kommer att få barn som varierar mycket i längd-
 
 
-
-***Systematisk tolkning tillväxtkurvor***
-
-* Grundförutsättning
-  * fullständigt kurva med korrekta mätuppgifter
-* ***Tillväxthastighet:*** normal för ålder? kanalföljare
-* ***Relation mellan längdo ch vikt*** vad faller först
 
 
 

@@ -40,7 +40,7 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 
 ***gällande celiaki***
 
-* ! ***Transgluitaminaser är det pvåerkat***, 89: ***om det är över 10ggr behöver inte ta biopsi för diagnos, varpå man i detta fallet är därför gränse >70 för att ställa diagnos direkt. ***
+* ! **Transglutaminas är det påverkat**, 89: **om det är över 10ggr behöver inte ta biopsi för diagnos, varpå man i detta fallet är därför gränse >70 för att ställa diagnos direkt.**
   * ***Man söver alla barn som ska gastroskoperas***
   * ***Tidigare kunde man göra kapselbiopsier, att man sväljer kapsel, men idag är det alltid gastroskopi för att ta tunntarmsbiopsi. ***
   * ***Man letar efter villusatrofi: att man har trubbiga villi istället för långa fina. ***
@@ -85,21 +85,21 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 * ***Hypothyroidism***: om detta visar sig vara 
   * **Kongenital:** Upptäcks via neonatal screening där förhöjt TSH upptäcks. De sällsynta fallen av central hypotyreos beroende på hypofysär svikt (lågt TSH med lågt fT4) fångas därför inte i screeningen.
   * **Förvärvad:** Dålig längdtillväxt tillsammans med lätt viktökning, försenad pubertet. ”Vuxensymtom” på hypotyreos som trötthet, frusenhet, förstoppning, torr hud, bradykardi och håravfall är ofta mindre uttalade hos barn och kan bli tydliga först retrospektivt efter substitution med sköldkörtelhormon
-* ***Endokrinologiskt***: verkar som att tillväxthormon bidrar mkt t tillväxten fr 2åå-puberteten. Initialt är det mkt födan som bidrar (tillsammans självklart )
+* ***Endokrinologiskt***: verkar som att tillväxthormon bidrar mkt t tillväxten fr 2åå-puberteten. Initialt är det mkt födan som bidrar (tillsammans självklart 
 * ***Gällande kurvorna***: om pat är under 3SD BMI ska han läggas in. 
 
-// ***Gällande diabetes hos barn: enl sem ledare att den debuterar akut.***
+// **Gällande diabetes hos barn: enl sem ledare att den debuterar akut.**
 
  **Vilka diagnoser har en ökad risk för att utveckal celiaki: **
 
-* ***de med andra autoimmuna sjukdomar, diabates etc.*** 
-* ***Barn med diabetes screenas med transglutaminas antikroppar redan fr början***
+* **de med andra autoimmuna sjukdomar, diabates etc.** 
+* **Barn med diabetes screenas med transglutaminas antikroppar redan fr början**
 
-***Finns ingen regelrätt screening för syskon vid celiaki. Men så fort syskon får symptm säg förstoppning så utreder relativt direkt***
+**Finns ingen regelrätt screening för syskon vid celiaki. Men så fort syskon får symptm säg förstoppning så utreder relativt direkt**
 
-***Riskökning: cancer i tunntarm, mensrubbning, depression, malabsorption***
+**Riskökning: cancer i tunntarm, mensrubbning, depression, malabsorption**
 
-***Transglutaminas antikroppar sjunker så fort man börjar äta bra glutenfritt***
+**Transglutaminas antikroppar sjunker så fort man börjar äta bra glutenfritt**
 
 ### Fall 2
 
@@ -2963,9 +2963,57 @@ Anafylaxigrader
 
 
 
+**Flicka med förkylningsastma, i övrigt fullt frisk. Sökt barnakuten för 4 veckor sedan p g a kräkningar och lös avföring. Provtagning påvisat rotavirus i faeces. Ingen uppföljning. Man söker nu ånyo då diarréerna kvarstår och flickan blivit alltmer trött.**	 **Uppgivna föräldrar. När du undersöker barnet ser du en trött och mager flicka med något torra läppar, i övrigt inga avvikelser.**
+
+<img src="../../imgs/ped_sam_100421_XbPldikVP9.png" alt="XbPldikVP9" style="zoom:50%;" />
 
 
 
+Tillväxtbedömning:
+***Tillväxthastighet. ”Kanalföljare”?***
+* Längd: Följer ej helt sin kanal; följer initialt +2 SD, nu +1 SD. 
+* Vikt: först +1SD sedan -1SD senare. 
+* exakt på 6 månader så efter det försämras längden. 
+* SIKSAK längden på kurvan är pga att hon ev. ej gillat att ligga i mätbordet. 
+
+***Relation mellan längd och vikt. Vad faller av först?***
+* Vikten faller först, vid ca 6 mån ålder.
+* Kraftig viktnedgång vid 17 mån.
+* Längden: Han menar att längdtillväxten är väldigt fin. att det är felvariation på mätbordet. 
+* Vikten: tunn bebis, men kanske ändå ganska frisk, enl kalle. 
+
+***Tillväxt jämfört med SD***
+* Senaste längden är +1 SD, vikten är nästan -3 SD. så hon tappa -3SD. 
+
+***Tillväxt jmf med target height***
+* Kan bli sin target height (mamma och pappa ca medel (+-0 SD)).
+* Längden är nu knappt +1SD. Vikten dock avvikande. 
+* Kalle: man hittar sin längdkurva vid 2 års. Så det är acceptabelt att TH inte följs perfa fram tills dess, alternativt att man varierar. 
+		
+
+***Kompletterande anamnes/status?***
+* Buksmärtor? 
+* Duration av besvären?
+* Avföring - konsistens, frekvens, slem/blodtillblanning?
+* Kräks hon fortfarande? Hur mkt? hur ser ut?
+* Epidemiologi? Feber? Infektionstecken?
+* Besvären har relation till vissa födoämnen/matintag?
+* Vad får barnet i sig- hur mkt, vad, ngt nytillkommet i kosten?
+* Social anamnes hur funkar i hemmet?
+		
+
+***Trolig diagnos/diff.diagnoser?***
+* Dehydrering, postinfektiöst, celiaki, psykosocialt/omsorgssvikt/undernäring, födoämnesintolerans/allerg, postinfektiös kolit,
+* Celiaki ses i denna ålder: Mindre sannolikt triggats av viral gastroenterit.
+* läggs in, förutom transglutaminasnatikroppar ska ni kolla på: Blodgas- elektorlytstatus . blodstatus. IGF-1 här tillför ingenting. Thyrodieakontroll har ingen relevans heller . man tar ej på dessa barn.  hon las in fick sond , o fick skickas hem sedan. Man misstänkte postinfektiös , djup inflammation som tog tid att läka ut pga rotaviruset. Omsorgssvikt är en bra diff. 
+
+***Utredning/handläggning?***
+
+* Blodgas, blodstatus, elstatus, leverstatus, TSH, T4, IGF-1, TGA vid misstanke om celiaki, ev fecesodling/PCR. 
+* IGF1 tillför ingenting, Thyroidea har ingen relevans heller. Tror ej att det är en hypothyreos utifrån anamnesen.
+* Kan överväga allergitestning
+* Behandling i form av rehydrering, matning med sond (mer specifik behandling beror på vad som kommer fram i proverna). 
+* Man ska tänka tanken omsorgssvikt också. 
 
 # Neurologi fallet
 

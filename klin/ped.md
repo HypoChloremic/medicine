@@ -560,6 +560,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Ber en sköterska larma narkosen. Ventilerar med neopuffen ca 20-30 inblåsningar per minut. Ber ssk sätta en pvk och ordinerar bolusvätska Ringeracetat 160 ml. Kontrollerar andning, puls och kap.refill omgående efter insatta åtgärder. 
   * rätt: Ber en sköterska larma narkosen. Ger gossen 5 inblåsningar följt av HLR 15:2. Förbereder för intraosseös infart och ordinerar bolusvätska Ringeracetat 160 ml och Adrenalin 0,1 mg/ml 0,8 ml 
   * Ventilerar med neopuffen ca 20-30 inblåsningar per minut. Ber ssk sätta en pvk och ordinerar bolusvätska Ringeracetat 160 ml. Kontrollerar en blodgas. Larmar narkosen om insatta åtgärder ej förbättrar patientens mående. 
+* För att optimera förutsättningarna för att framgångsrikt omhänderta ett barn som får hjärtlungräddning är det viktigt att känna till såväl kompressionsteknik som A-HLR-algoritm. Vilket alternativ är korrekt vid HLR på ett 9 månader gammalt barn med verifierad asystoli? 
+  * rätt: Kompressionsdjup 4 cm. Kompressionstakt 100-120/min. Iv adrenalin så snart infart finns. 
+  * Kompressionsdjup 4 cm. Kompressionstakt 90-110/min. Iv adrenalin (dos 1) efter 4:a minuters HLR. 
+  * Kompressionsdjup 4 cm. Kompressionstakt 100-120/min. Iv adrenalin efter andra rytmanalysen 
+  * Kompressionsdjup 6 cm. Kompressionstakt 90-110/min. Rytmanalys i samband med iv adrenalin varannan minut. 
+  * Kompressionsdjup 6 cm. Kompressionstakt 100-120/min. Rytmanalys i samband med iv adrenalin var 4:e minut 
 
 
 
@@ -722,13 +728,13 @@ Enligt ABCDE
 
 
 
-## Endokrin
+## Endokrinologi
 
 ### Diabetes
 
 ***Etiologi och patofysiologi***
 
-<img src="./lectures/imgs/diab_hemat_sem_dFkFyH4QnG.png" alt="dFkFyH4QnG" style="zoom:50%;">
+<img src="./lectures/ped_lec/imgs/diab_hemat_sem_dFkFyH4QnG.png" alt="dFkFyH4QnG" style="zoom:50%;">
 
 
 
@@ -778,7 +784,37 @@ Enligt ABCDE
 
 
 
+### Thyroidea
 
+***Presentation***
+
+* **Amira är en 12 år gammal tjej med förstorad sköldkörtel som har remitterats till dig på barnmottagningen p g a misstänkt hypothyreos. Remittenten har beställt blodprover, men svaren har ännu inte kommit.** 
+  * 4 provre för diagnosen relevanta prover, utgår du fr att remittenten beställt
+    * TSH, fT4, TPO, sen T3 enl Sarah
+    * // TRAK?
+  * Ange två anamnestiska uppgifter du vill ha svar på som stöd för diagnosmisstanken. 
+
+
+
+***Fysiologiskt***
+
+<img src="./imgs/ped_sam_100421_HuC5V8J2Ny.png" alt="HuC5V8J2Ny" style="zoom:50%;" />
+
+
+
+#### Hypothyroidism
+
+***Etiologi och patofysiologi***
+
+* Autimmun-thyroidit: oftast hos barn att hypothyroidism orsakas av detta. 
+* Tillväxtsvikt: growth failure, vanligtvis med excess viktuppgång
+
+
+
+***Kliniska kännetecken***
+
+* Kotrvuxenhet: om man inte har ntoterat hypothyroidismen tidigt. 
+* Catch-up growth när behandlas: ofta men ofta med sanbb entry in i pubertet, om kan påverka final height. 
 
 
 
@@ -1578,49 +1614,9 @@ Enligt ABCDE
 
 
 
-### Early onset infection
-
-***Etiologi och patofysiologi*** (Ill paed, s187)
-
-* **Ökad risk för early onset infection**
-  * Prolongerad ruptur amnion
-  * PROM (prematur ruptur av membranen)
-  * pågående korionamnionit: e.g. kännetecknas av att mammab är febril  UNDER förlossning
-* Agens
-  * GBS: uppåtstigande infektion via förlossningskanal, in i fostervätska, lunga på fostret och ungen
-  * Gramnegativa bakterier: uppåtstigande infektion via förlossningskanal, in i fostervätska, lunga på fostret och ungen
-  * Listeria Monocytogenes: Över placenta
-  * Virala agens förekommer?: tenderar över placenta?
+### Cystit
 
 
-
-***Kliniska kännetecken***
-
-* Neonatal sepsis
-  * **Respiratorisk distress**: 
-  * Temperatur instabilitet
-  * Hypothermi
-  * Apne
-  * bradykardi
-  * Abdominell distension
-  * ikterus
-  * neutropeni
-  * hypoglykemi
-  * hyperglukemi
-  * chock
-  * irritabilitet
-  * kramper
-  * letargi, stuporös. ..
-* Meningit
-  * Utbuktande fontaneller, eller spänd fontaneller
-  * Head retraction: Opisthotonos
-
-
-
-***Utredning och handläggning***
-
-* Labb
-  * CRP: tar 12-24h för att stiga, kommer att akut inte påvisa ngt
 
 
 
@@ -2003,6 +1999,10 @@ Enligt ABCDE
     * eller cefotax
 
 
+
+
+
+### Pyelonefrit
 
 
 
@@ -2506,6 +2506,12 @@ Enligt ABCDE
   * och en ganska trulig tonåring. Hennes mamma har nu tvingat iväg henne till VC där du vikar före AT. Stefania har fått ”konstiga prickar” på underbenen och magen sen några dagar tillbaka. Hon är annars fullt frisk, förutom en rejäl förkylning för några veckor sedan.
 * s421 i Lassauer har ett fall.
   * Sian, aged 5 years, developed bruising and a skin rash over 24 hours. She had had an upper respiratory tract infection the previous week. On examination she appeared well but had a purpuric skin rash with some bruises on the trunk and legs (Fig. 23.17). There were three blood blisters on her tongue and buccal mucosa, but no fundal haemorrhages, lymphadenopathy, or hepatosplenomegaly. Urine was normal on dipsticks testing. A full blood count showed Hb 115 g/L with normal indices, WBC and differential normal, platelet count 17 × 10 9 /L. The platelets on the blood film were large; the film was otherwise normal. A diagnosis of ITP was made and she was discharged home. Her parents were counselled and given emergency contact names and telephone numbers. They were also given litera- ture on the condition and advised that she should avoid contact sports but should continue to attend school. Over the next 2 weeks she continued to develop bruising and purpura but was asymptomatic. By the third week, she had no new bruises, and her platelet count was 25 × 10 9 /L; the blood count and film showed no new abnormalities. The following week, the platelet count was 74 × 10 9 /L and a week later it was 200 × 10 9 /L. She was discharged from follow-up.
+* Vilket av nedanstående påståenden om ITP hos barn är sant? 
+  * Benmärgsundersökning genomförs rutinmässigt vid ITP för att utesluta leukemi 
+  * ITP blödningar hos barn brukar ff a drabba leder och muskler 
+  * Kronisk ITP drabbar ff a de barn som har ITP debut < 3 års ålder 
+  * Nyupptäckt ITP skall alltid behandlas med intravenöst immunglobulin om trombocyttalet är <30 x 109 /l (ref 150 – 400 x 109 /l) 
+  * rätt: Trombocyttransfusion bör undvikas till barn med ITP 
 
 
 
@@ -3377,21 +3383,6 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### Fostercirkulationen
-
-
-
-***Presentationen***
-
-* Under grav shuntas fostrets blod vi ductus venosus, ductus arteriosus samt via foramen ovale
-  * Sant
-
-
-
-
-
-<img src="./imgs/ped_sam_090421_wlgF6f51Fq.png" alt="wlgF6f51Fq" style="zoom:50%;" />
-
 
 
 ### Hjärtstopp
@@ -3791,6 +3782,20 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Synkope
+
+***Presentation***
+
+* Evelina 12år gammal
+  * rätt: har just inkommit till akuten där du tjänstgör som barnjour. Hon har svimmat i skolan för en knapp timme sedan. Vilka frågor rörande svimningen som talar för en kardiell synkope ställer du till flickan och medföljande pappa? 
+  * Skedde svimningen i samband med fysisk aktivitet? Finns hereditet för plötslig död? Känsla av oregelbunden rytm före svimningen? 
+  * Skedde svimningen i samband med fysisk aktivitet? Koppling till rädsla? (T ex i samband med vaccination i skolan.) Var svimningen brutal? (T ex fall utan att ta emot med händerna) c) Skedde svimningen i samband med fysisk aktivitet? Känsla av oregelbunden rytm före? Ätit och druckit sparsamt senaste dygnet? 
+  * Skedde svimningen i samband med stor stress? Koppling till rädsla? (T ex i samband med vaccination i skolan.) Finns hereditet för svimning? 
+  * Skedde svimningen i samband med stor stress? I samband med uppresning från sittande till stående? Finns hereditet för plötslig död? 
+  * Skedde svimningen i samband med stor stress? Hereditet för plötslig död? I samband med uppresning från sittande till stående? 
+
+
+
 ## Klinisk Genetik
 
 ### Downs syndrom
@@ -3859,6 +3864,14 @@ En kort lista över kliniska manifestationer av CF:
 * Koagulation
 
 
+
+### Neonatal screeningprogram
+
+
+
+***Utredning***
+
+* 
 
 
 
@@ -4098,6 +4111,8 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Amning
+
 ### APGAR
 
 ***Presentation***
@@ -4129,12 +4144,71 @@ En kort lista över kliniska manifestationer av CF:
     * GBS,
     * E coli
     * S aurues [enl Sarah; skulle pers lägga Listeria enl Illustrated]
+* Virginia Apgar var en amerikansk narkosläkare som på 50-talet introducerade den sk Apgarpoängen. Poängsystemet används för att bedöma nyfödda barns initiala mående. Vid vilka tidpunkter görs kontrollerna? Och vad kontrolleras? 
+  * Vid 1, 3 och 5 minuter. Andning, hjärtfrekvens, färg, retbarhet och tonus 
+  * rätt: Vid 1, 5 och 10 minuter. Andning, hjärtfrekvens, färg, retbarhet och tonus 
+  * Vid 1, 5, 10 och 15 minuter. Andning, hjärtfrekvens, saturation, retbarhet och reflexer 
+  * Vid 1, 5, 7 och 10 minuter. Andning, hjärtfrekvens, saturation, retbarhet och reflexer 
+  * Vid 1, 5 och 10 minuter. Andning, hjärtfrekvens, saturation, retbarhet och reflexer 
 
 
 
 #### CTG - kardiotorakografi
 
 * aka cardiothoracography
+
+
+
+### Asfyxi
+
+
+
+
+
+### Early onset infection
+
+***Etiologi och patofysiologi*** (Ill paed, s187)
+
+* **Ökad risk för early onset infection**
+  * Prolongerad ruptur amnion
+  * PROM (prematur ruptur av membranen)
+  * pågående korionamnionit: e.g. kännetecknas av att mammab är febril  UNDER förlossning
+* Agens
+  * GBS: uppåtstigande infektion via förlossningskanal, in i fostervätska, lunga på fostret och ungen
+  * Gramnegativa bakterier: uppåtstigande infektion via förlossningskanal, in i fostervätska, lunga på fostret och ungen
+  * Listeria Monocytogenes: Över placenta
+  * Virala agens förekommer?: tenderar över placenta?
+
+
+
+***Kliniska kännetecken***
+
+* Neonatal sepsis
+  * **Respiratorisk distress**: 
+  * Temperatur instabilitet
+  * Hypothermi
+  * Apne
+  * bradykardi
+  * Abdominell distension
+  * ikterus
+  * neutropeni
+  * hypoglykemi
+  * hyperglukemi
+  * chock
+  * irritabilitet
+  * kramper
+  * letargi, stuporös. ..
+* Meningit
+  * Utbuktande fontaneller, eller spänd fontaneller
+  * Head retraction: Opisthotonos
+* !!! **Omfalit**
+
+
+
+***Utredning och handläggning***
+
+* Labb
+  * CRP: tar 12-24h för att stiga, kommer att akut inte påvisa ngt
 
 
 
@@ -4172,6 +4246,33 @@ En kort lista över kliniska manifestationer av CF:
 ***Utredning och handläggning***
 
 ***Behandling***
+
+
+
+### Fostercirkulationen
+
+
+
+***Presentationen***
+
+* Under grav shuntas fostrets blod vi ductus venosus, ductus arteriosus samt via foramen ovale
+  * Sant
+
+
+
+
+
+<img src="./imgs/ped_sam_090421_wlgF6f51Fq.png" alt="wlgF6f51Fq" style="zoom:50%;" />
+
+
+
+***Fysiologiska omställnnigen fr foster t nyfödd***
+
+
+
+### Förlossningstrauma
+
+
 
 
 
@@ -4213,6 +4314,16 @@ En kort lista över kliniska manifestationer av CF:
   * PAS: Pulmonary adaptation syndrom; fostervatten kvar i lungorna, "wet lungs"
   * RDS: respiratory distress syndrome; surfaktant brist, lungomognad
 
+
+
+#### RDS
+
+#### PAS
+
+
+
+
+
 ### Prematura
 
 ***Presentation***
@@ -4225,6 +4336,18 @@ En kort lista över kliniska manifestationer av CF:
   * ska ej överdoseras, då det kan vara toxiskt
   * kroppen har inte heller ngt sätt att göra sig av med järn
   * för mkt järn kan påverka tillvät, leda t ökad risk för infektioner, samt skada hjärnan
+
+
+
+### Plötslig spädbarnsdöd: SIDS
+
+***Presentation***
+
+* Plötslig spädbarnsdöd (SIDS) drabbar sedan 90-talet allt färre barn, de senaste åren ca 20-30 fall årligen i Sverige. Den minskade incidensen bedöms bero ändrade råd som ges på BB och BVC. Vilka är de aktuella råden? 
+  * Magläge då barnet sover. Undvika rökexponering. Undvika hög temperatur i sovrummet. b) Magläge då barnet sover. Ammande mödrar bör undvika snus. Avstå matning 1 h före sömn. 
+  * rätt: Ryggläge då barnet sover. Undvika rökning i hemmet. Barnet bör sova i egen säng. 
+  * Ryggläge då barnet sover. Apnélarm om barnet är fött före v 34. Avstå matning 1 h före sömn. 
+  * Ryggläge då barnet sover, magläge då barnet är vaket. Ammande mödrar bör undvika snus. 
 
 
 
@@ -4242,6 +4365,12 @@ En kort lista över kliniska manifestationer av CF:
   * rätt; Kreatinin 
   * ALAT 
   * S - Ibuprofen 
+
+
+
+### Enures
+
+
 
 
 
@@ -4269,7 +4398,7 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-
+### Hypertoni
 
 
 
@@ -5121,7 +5250,7 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 
 ### Barnets tillväxt
 
-#### Drivfaktorer under tillväxt
+#### Drivfaktorer
 
 * ***Fetalt***: 30% av adult längd
   * **uterin miljö**: är drivande för den längden
@@ -5177,7 +5306,7 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 #### !!! Endokrinologiskt
 
 * **fosterfasen**: Insulin kortison.  
-* **spädbarnsfas**: IGF-1, tyrodieahormon, insulin, kortison. 
+* **spädbarnsfas**: IGF-1, thyroideahormon, insulin, kortison. 
 * **barndomsfas**: tillväxthormon ( from 1,5åå), senare androgener (. From 7åå).  
 * **Pubertetsfas**: könshormoner.
 * I enlighet med olika åldrar
@@ -5211,6 +5340,13 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 * **Ismael sitter i sin mammas knä när han undersöks på BVC. Han sitter fint med stöd, men kan inte sitta utan stöd. Han håller en skramla i handen med grabbgrepp och flyttar den från hand till hand. På undersökningsbordet rullar han lätt över från mage till ryggläge.** 
   * Sannolik ålder barnet = 6mån
   * Vad bör barnet kunna språkmässigt = joller, enstavigt joller
+* !!! Barnets tillväxt påverkas av flertal faktorer inklusive nivåer av olika hormoner. Under det första sex månaderna är det ff a ett av följande alternativ som är mest betydelsefullt för optimal tillväxt. Vilket? 
+  * GH, thyroideahormoner, LH och FSH 
+  * GH, thyroideahormoner, insulin och nutrition 
+  * Thyroideahormoner, LH, FSH och nutrition 
+  * rätt: Thyroideahormoner, insulin, kortisol och nutrition 
+  * Östradiol, testosteron, GH och kortisol 
+  * // GH-hormon relevant efter 8mån ålder
 
 
 

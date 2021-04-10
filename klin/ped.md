@@ -5286,7 +5286,7 @@ Kontaktorsak: 3 månaders pojke som kommer till akuten pga andningsbesvär och h
 
 ***Svar***
 
-* 2mån pojke, akut sectio v38 pga utebliven variabilitet CTG, välmående postnat, söker för livlöshetsattack i hemmet. tidigare upprepade besök pga konstaeterad kolik, senast 4d sedan, pappa hotfull vid det besöket. Orosanmälan. Under kvällen tröstlös, och enl moder fallit fr skötbord 5-tiden, varpå slutat andas + livlös 2-3min. Spontan återhämtning. HLR ej utförd. Status på akuten ngt blek, gråt på smärtstimuli, och noteras ha nedsatt tonus armar + ben. Hematom vä thorax, över vä lår, bula hö panna. Påtagligt smärtpåverkad. Kan ej utesluta skador pga våld. Potentiellt hjätstopp med nuläget oklar genes. Inläggning för vidare utredning av skadorna och hjärtstopp. Helkroppsrtg. Dokumentation skadorna, akut remiss fotodokumentation. prover koagstatus.  DIrekt kontakt bakjour för vidare handläggning. Orosanmälan. 
+* 2mån pojke, akut sectio v38 pga utebliven variabilitet CTG, välmående postnat, söker för livlöshetsattack i hemmet. tidigare upprepade besök pga konstaeterad kolik, senast 4d sedan, pappa hotfull vid det besöket. Orosanmälan. Under kvällen tröstlös, och enl moder fallit fr skötbord 5-tiden, varpå slutat andas + livlös 2-3min. Spontan återhämtning. HLR ej utförd. Status på akuten ngt blek, gråt på smärtstimuli, och noteras ha nedsatt tonus armar + ben. Hematom vä thorax, över vä lår, bula hö panna. Påtagligt smärtpåverkad. Kan ej utesluta skador pga våld. Potentiellt hjätstopp med nuläget oklar genes. Inläggning för vidare utredning av skadorna och hjärtstopp. Helkroppsrtg. Dokumentation skadorna, akut remiss fotodokumentation. prover koagstatus.  DIrekt kontakt bakjour för vidare handläggning ang trauma + slapphet + . Orosanmälan. 
 
 
 

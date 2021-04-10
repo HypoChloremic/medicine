@@ -463,6 +463,33 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+***Etiologi och patofysiologi***
+
+* Glutenintolerans
+* transglutaminasantikroppar
+* transglutaminas
+
+
+
+***Differentialdiagnoser***
+
+* Komjölksallergi
+* Inflammatorisk tarmsjukdom
+* Funktionella magbesvär, tarmbesvär
+* Hypothyreos, hyperthyreos
+* Cystisk fibros
+* Funktionell kortvuxenhet
+* Leversjukdom
+
+
+
+***Utredning och handläggning***
+
+* **Labb**
+  * **Transglutaminasantikroppar, S-TGA**: detta verkar vara essentiell del av utredningen
+    * **Ålder**: verkar inte påverka sensitiviteten? ta reda på detta TODO
+    * 
+
 ### Komjölksallergi
 
 ***Presentation***

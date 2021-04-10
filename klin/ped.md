@@ -5276,6 +5276,32 @@ Kontaktorsak: 3 månaders pojke som kommer till akuten pga andningsbesvär och h
 
 // Barn som är yngre än sex månader har inte fullt skydd av vaccinet. För dem kan kikhostan bli allvarlig och ibland livshotande. Extra utsatta är barn yngre än tre månader som ännu inte har fått sin första dos vaccin.
 
+
+
+#### Trauma
+
+2 månader gammal pojke på barnakuten Kontaktorsak: Livlöshetsattack i hemmet. Inkommer till akuten på larm med ambulans tillsammans med modern. Socialt: Första gemensamma barnet. Äldre halvsyskon 7,5 år Graviditets- och nyföddhetsförlopp: Okomplicerad graviditet. Akut sectio v 38 p g a utebliven variabilitet på CTG. Välmående postnatalt Tidigare sjukdomar: Upprepade besök på barnakuten på grund av skrikighet. Konstaterad kolik. I samband med senaste besöket för 4 dagar sedan betedde sig fadern hotfullt mot en undersköterska. Orosanmälan skickad. Aktuellt: Fortsatt svåra koliksmärtor sedan föregående besök. Enligt modern ätit bra, flaskmatas. Normal avföring. Under kvällen och natten varit mkt missnöjd, ”omöjlig att trösta”. Modern uppger att gossen fallit från skötbordet i samband med blöjbyte vid 5-tiden. Slutade därefter plötsligt andas och var helt livlös. Hämtade sig spontant efter 2-3 minuter (enligt uppgift fr modern). HLR ej utfört. Fadern larmade ambulans som kom till bostaden efter ca 10 minuter. Då ambulansen kom till platsen andades pojken normalt, men var medvetandesänkt och lite blek. Stabil under transporten, erhållit syrgas på mask. Status: AT: Kl 5.40. Något blek, reagerar med gråt på smärtstimuli. Normalt andningsmönster. Ingen feber. Kap refill 1 s. Saturation 100% på luft. Öron: Ua, inget blod i hörselgången Hjärta. RR, normofrekvent. Inga blåsljud. Lungor: Rena andningsljud Buk: Mjuk, ingen organförstoring Neurologi: Trött. Generellt nedsatt tonus i armar och ben. Fontanell ua. Pupillreaktion normal bilat. Hud: Hematom vänster thorax/nedom vä arcus (7x8 cm) och över vänster lår (4x4 cm). Påtagligt smärtpåverkad över hematom på låret. Bula 2x2 cm hö sida panna. Övrig hudkostym ua. 
+
+
+
+***Svar***
+
+* 2mån pojke, akut sectio v38 pga utebliven variabilitet CTG, välmående postnat, söker för livlöshetsattack i hemmet. tidigare upprepade besök pga konstaeterad kolik, senast 4d sedan, pappa hotfull vid det besöket. Orosanmälan. Under kvällen tröstlös, och enl moder fallit fr skötbord 5-tiden, varpå slutat andas + livlös 2-3min. Spontan återhämtning. HLR ej utförd. Status på akuten ngt blek, gråt på smärtstimuli, och noteras ha nedsatt tonus armar + ben. Hematom vä thorax, över vä lår, bula hö panna. Påtagligt smärtpåverkad. Kan ej utesluta skador pga våld. Potentiellt hjätstopp med nuläget oklar genes. Inläggning för vidare utredning av skadorna och hjärtstopp. Helkroppsrtg. Dokumentation skadorna, akut remiss fotodokumentation. prover koagstatus.  DIrekt kontakt bakjour för vidare handläggning. Orosanmälan. 
+
+
+
+#### Turners
+
+13 år gammal flicka på barnläkarmottagning Kontaktorsak: Dålig tillväxt. Remiss från Alby vårdcentral Socialt: Barn 3 av 3 i hel familj. Går i 7:e klass. Flyttat från Malmö till Stockholm i höstas. Tidigare sjukdomar: Utretts på barnmottagning i Malmö vid tre tillfällen p g a dålig tillväxt sedan 6 åå. Enligt modern inga avvikande laboratoriefynd. Oklart vad som kontrollerats. Tillväxt: Enligt tillväxtkurvor från BVC och skolan har hon fallit av långsamt på längdkurvan från -1 till -2 SD från 2 års ålder till idag. Vikten har följt -1,5 SD de senaste åren. Target height +1 SD. Aktuellt: Välmående, men ledsen över att hon inte längre platsar i fotbollslaget pga att hon enligt tränaren är för liten. Har alltid haft lite svårt i skolan, har extraresurs två gånger i veckan. Inga buksmärtor, god aptit. Inga tecken till infektion. Modern menarche vid 13 åå. Status: AT: Välmående, pigg och glad Lymfkörtlar: Ua på sedvanliga stationer Hjärta. RR, normofrekvent. Lungor: Sidlika andningsljud. Inga biljud. Buk: Mjuk och oöm. Ingen organförstoring. Pubertet: Ingen brösttillväxt eller andra tecken till begynnande pubertet. Övrigt: Bred nacke. Ökat avstånd mellan mamillerna. Lab: Enligt remissen: Blodstatus inklusive diff och ferritin ua. Thyroideaprover ua. (Prover tagna 3 dagar före aktuellt besök.) 
+
+
+
+***Svar***
+
+13åå flicka, utredd 3 tillfällen dålig tillväxt sedan 6åå, söker pga dålig tillväxt. Target Height +1SD, enl kurvor fallit av längdkurva -1SD t -2SD fr 2åå t idag; vikt följt -1.5SD seanste åren. Aktuellt välmående, ledsen för att inte platsar i fotbollslag pga för liten, alltid haft svårt i skolan, har extraresurs. Modern menarche 13åå. Ännu ingen menarche. Status inga tecken begynnande pubertet, bred nacke, ökat avstånd mellan mamiller, blodstatus + diff + ferritin ua + thyroideaprover ua. Misstänker genetiskt syndrom, ffa kromsom X0 (Turners). DIff hyperprolaktinemi och hypofysiär insufficiens, men Thyroidea status ua och typisk anamnes. Skickar prov för kromosomanalys, FSH, LH, prolaktin TSH, fT4. 
+
+
+
 ## Professionell Utveckling
 
 ### Anamnes

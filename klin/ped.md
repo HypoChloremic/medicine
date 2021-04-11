@@ -850,6 +850,37 @@ Enligt ABCDE
 
 
 
+***Klniska kännetecken***
+
+* Early
+  * !!! Most common – the ‘classical triad’:
+    * excessive drinking (polydipsia)
+    * polyuria
+    * weight loss
+  * Less common:
+  * enuresis (secondary)
+  * skin sepsis 
+  * candida and other infections
+* Late – diabetic ketoacidosis
+    * Smell of acetone on breath
+    * Vomiting
+    * Dehydration
+    * Abdominal pain
+    * Hyperventilation due to acidosis (Kussmaul
+    * breathing)
+    * Hypovolaemic shock
+    * Drowsiness
+    * Coma and death
+
+
+
+***Differentialdiagnoser***
+
+* Hyperventilering: farligt att missta DKA med detta
+  * Pneumoni + appendicit + förstoppning
+
+
+
 #### Diabetes-ketoacidos: DKA
 
 ***Presentation***
@@ -5780,6 +5811,11 @@ Ataxic cerebral palsy is due to [...] damage.
   * 10% glukos, Na 80-120, K 40, 1500ml + förluster 
   * 10% glukos, Na 80-120, K 20, 2800ml + förluster 
   * Ringeracetat, 2800ml + förluster 
+* Klara 1 år tidigare frisk har haft kraftiga kräkningar de 3 senaste dagarna, ca 3-4 per dag, och ca 10 stora diarréer dagligen. Hon vägde 11,9 kg innan hon blev sjuk och väger nu vid akutbesöket 10,6kg. Hon är trött och irritabel. Kapilläråterfyllnad är 3,5s. Femoralis pulsar är svåra att känna. Blodgasen visar pH 7,31, BE -11, Na 160 mmol/L, K 4 mmol/L. Med denna sjukdomsbild – hur vill du vätskebehandla patienten? 
+  * Bolus, uppvätskning 5% av kroppsvikten , basalbehovet under 36 timmar 
+  * Bolus, uppvätskning 5% av kroppsvikten, basalbehovet under 36 timmar + 10% av kroppsvikten + ersättning av förluster 
+  * Uppvätskning 5% av kroppsvikten , basalbehovet under 24 timmar+ ersättning av förluster Bolus, uppvätskning 5% av kroppsvikten , basalbehovet under 24 timmar 
+  * Uppvätskning 5% av kroppsvikten , basalbehovet under 36 timmar + ersättning av förluster 
 
 
 
@@ -5790,6 +5826,68 @@ Ataxic cerebral palsy is due to [...] damage.
   * ECV volymen är större än ICV volymen 
 * Över 1.5månader
   * ICV volymen nu större än ECV volymen, som kommer att förbli resten av livet. 
+
+
+
+### Behandling
+
+<img src="./imgs/ped_sam_110421_ZRcK0EON3j.png" alt="ZRcK0EON3j" style="zoom:50%;" />
+
+***Bolusbehandling***
+
+* Indikation: vid cirkulatoriskt påverkad patient
+* 20mL/kg RA iv
+* 10mL/kg RA iv för yngre än 44v
+
+
+
+***Vätskedeficit***
+
+* Klinisk bedömning
+* Baserat på vikt
+* Basert på antalet diarrer / kräkningar
+* För att estimera hur mkt man förlorat, varpå är i behov av att återställa
+
+
+
+***Rehdyrering***
+
+* ***Uppvätskning, rehydrering, ersätta***: Detta innebär att man ersätter förlorad volym vätska
+  * ORS (oral rehydration solution, aka vätske ersättning, aka VES): 
+  * 5% av kroppsvikten över 4 timmar. 
+  * sedan reevaluering av vätskestatus
+
+
+
+***Underhållsbehandling***: 
+
+* Enl LMV
+  * Målet med behandlingen: "Täcker normal perspiratio och diures"
+  * Alltså, är underhållsbehandlingen till för att ungen står kvar på +-0
+* ***Peroral form (välling?)***: Då är patienten tillräckligt adekvat för att ta drycken sj, eller att det sker via sond
+  * 0-6mån: 150mL/kg/d
+  * 6-12mån: 125mL/kg/d
+  * \>12mån: 100mL/kg/d
+  * Då är det i form av näringsdrycker, välling etc, som barnet kan ta vid given ålder
+* ***Intravenös form***: att pat har en infart som man kan vätska upp med
+  * Plasmalyte glukos, 5% glukos, 140mM Na, 20mM Kalium
+  * 0-10kg: 100mL/kg/d
+  * 10-20kg: 1000mL + 50mL per kg över 10kg
+  * \> 20kg: 1000mL + 20mL per kg över 20kg
+
+
+
+***Förluster***
+
+* !!! Ska ersättas! Hur ersättnignen ska gå till är jag osäker på, men en ersättning ska ske. 
+  * !!! 1 diarre = 1% av kroppsvolymen
+  * Kräkningar
+
+
+
+
+
+
 
 ### Vätsketillstånd
 
@@ -5823,24 +5921,6 @@ Ataxic cerebral palsy is due to [...] damage.
 * Slemhinnor
 * Urinproduktion
 
-***Behandling***
-
-* ***Uppvätskning, rehydrering, ersätta***: Detta innebär att man ersätter förlorad volym vätska
-  * ORS (oral rehydration solution, aka vätske ersättning, aka VES): 
-  * 5% av kroppsvikten över 4 timmar. 
-  * sedan reevaluering av vätskestatus
-* ***Underhållsbehandling***: 
-  * ***Peroral form (välling?)***: Då är patienten tillräckligt adekvat för att ta drycken sj, eller att det sker via sond
-    * 0-6mån: 150mL/kg/d
-    * 6-12mån: 125mL/kg/d
-    * \>12mån: 100mL/kg/d
-    * Då är det i form av näringsdrycker, välling etc, som barnet kan ta vid given ålder
-  * ***Intravenös form***: att pat har en infart som man kan vätska upp med
-    * Plasmalyte glukos, 5% glukos, 140mM Na, 20mM Kalium
-    * 0-10kg: 100mL/kg/d
-    * 10-20kg: 1000mL + 50mL per kg över 10kg
-    * \> 20kg: 1000mL + 20mL per kg över 20kg
-
 
 
 #### Hyperton dehydrering
@@ -5868,6 +5948,12 @@ Ataxic cerebral palsy is due to [...] damage.
 * ***osmotiska partiklar***: bildas i kroppen, varför vattenflöden mellan ICV o ECV upphör
 * ***Resuktat***: förlust kroppsvatten, o ett hyperosmolärt tillstånd både extracellulärt och intracellulärt
 
+
+
+
+
+
+
 ### fall - vätskebehov
 
 #### Alex 9kg  
@@ -5893,6 +5979,39 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 * Bolus Ringeracetat iv 200 ml följt av Ringeracetat iv 5% av vikten på 4 timmar
   * efter dett ska han ha plasmalyteglukos i underhållsbehandling
   * 1000mL plasmalyte 5% glukos, över 24 timmar, in accord med att det är 100mL/kg mellan 0-10kg
+
+
+
+#### Läkemedelsverket
+
+##### !!! Fall 1
+
+***Barn 2 år vikt 14 kg gastroenterit***
+* Senaste 2 dygnen 3-4 kräkningar och under dagen 10 voluminösa diarréer.
+  * Bedöms som 10 % dehydrerad 
+  * utifrån uppmätt viktnedgång, torra blöjor under dagen och kliniska tecken som torra slemhinnor, långsam
+* kapillär återfyllnad och takykardi. Rycker ut sond.
+* P-Na 137 mmol/l
+* Beräknat behov av basal underhållsvätska:
+  * 100 × 10 + 4 × 50 = 1 200 ml/dygn
+* Beräknat deficit:
+  * 0,1 × 14 = 1 400 ml
+* Planerad vätska att ge: 
+  * 1 200 + 1 400 = 2 600 ml
+* Snabb rehydrering: 
+  * 5 % av kroppsvikt 14 kg på 4h = 700 ml på 4 h
+* Val av vätska:
+  * Infusionsvätska utan glukos med natrium 130–154 mmol/l exempelvis Ringeracetat.
+* Efter den snabba rehydreringen på 4 timmar. P-Na 139 mmol/l.
+* Pågående förluster (kräkning och diarré) under dessa 4 timmar = 200 ml.
+* Fortsatt behandling; underhåll + deficit + ersättning förluster:
+  * Underhåll: 1 200 ml/dygn = 50 ml/timme
+  * Deficit: 1 400 – 700 = 700 att ges på 20 timmar = 35 ml/timme
+* Pågående förluster: kräkningar + diarré = 200 ml/4 timmar ersätts nästa 4 timmar = 50 ml/timme
+* Val av vätska:
+  * Underhåll: 50 ml/timme ~10 % glukos med Na 130–154 mmol/l.
+  * Deficit + pågående förluster: 35 + 50 ml/timme ersätts med balanserad vätska utan glukos med natrium 130–154 mmol/l.
+* Kontroll förluster, vätskebalans och P-elektrolyter efter 4 timmar om kräkning/diarré fortsätter.
 
 
 

@@ -3179,7 +3179,7 @@ cerivicit
     * direkt effekt på hypothalamys och hypofysen leder t ökad utsöndring av LH, flera LH receptorer uttrycks i ovarier i tecac eller, ond cirkel startar
     * dominerande orsaken hyperandrogenism är ovariell hypersekretion androgener
     * .... lägg in läs på TODO
-  * Kriterier frör diagnosen: 2 av 3: hyperandrogenism, menstruationsrubbning (oligomenorre, amenorre), polycystiska ovarier / volym över 1...cm3
+  * Kriterier för diagnosen: 2 av 3: hyperandrogenism, menstruationsrubbning (oligomenorre, amenorre), polycystiska ovarier / volym över 1...cm3
 
 
 
@@ -5829,9 +5829,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * **endometriosteam konsulteras före evt ovarialendometriom avlägsnas**
     * op o fynd måste beskrivas ordentligt 
     * fotodokumentation
-* Sedvanlig anamnes: att man hoppar på medicinsk behandling (enl Klaström gyn läl handledare)
+* **Sedvanlig anamnes**: att man hoppar på medicinsk behandling (enl Klaström gyn läl handledare)
 * om medicinsk behandling inte funkar, fortsatt endometriosmisstanke: laparoskopi
-* NOTERA: att diagnostik med ultraljud och MR har blivit så pass bra att man kan *diffa* endometrios, så man behöver ej hoppa på laparoskopin
+* **NOTERA**: att diagnostik med ultraljud och MR har blivit så pass bra att man kan *diffa* endometrios, så man behöver ej hoppa på laparoskopin
 
 
 
@@ -10902,7 +10902,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * kontroller bmi
   * !! ofta gynekologisk undersökning: kan senareläggas och utebliven gyn udnderssök utgör inget hinder för förskrivning t unga kvinnor
   * Kontroll därefter: 1-2åå intervall. 
-* Uppföljning: fokusera på oro, biverkningar, 
+* **Uppföljning**: fokusera på oro, biverkningar, 
 * **Förstahandsval**: 
   * när man önskar kombad hormonell antikoncept rekommenderas vid förstagångsförskrivning monofasiskt preparat med
     *  levonorgestrel, 
@@ -10982,13 +10982,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Preventivmedel
 
-***Presenttaion***
+***Presentation***
 
 * hormonspiral och p-stav, varför skyddar mot X-grav
-  * hormonspiral: endometriet tynt, cervixsekret hårt ogenomträngligt, hämmar spermiemobilitet,  verkar lokalt i livmodern, blöder mindre
-  * p-stav: medelpotent getagen, tunt endometrium, tätare cervixsekret, väldigt bra ovulationshämning; gm ovulationshämning komplett att man hindrar X-grav fullkomligt, för att det är ej möjligt. 
-
-
+  * **hormonspiral**: endometriet tynt, cervixsekret hårt ogenomträngligt, hämmar spermiemobilitet,  verkar lokalt i livmodern, blöder mindre
+  * **p-stav**: medelpotent getagen, tunt endometrium, tätare cervixsekret, väldigt bra ovulationshämning; gm ovulationshämning komplett att man hindrar X-grav fullkomligt, för att det är ej möjligt. 
 
 
 
@@ -11341,8 +11339,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Etiologi och patofysiologi***
 
 * mycket högre koncentrationer hormon: detta jfr med p-ringen denna får lägre men också jämnare, se ovan
-* Mycket jämNare koncentrationer hormon (östrogen som man presenterade i en studie på ppt)
-* jämfört med p-piller: med piller får man mycket kraftigare uppgångar och nedgångar
+* mycket jämnare koncentrationer hormon (östrogen som man presenterade i en studie på ppt)
+* **jämfört med p-piller**: med piller får man mycket kraftigare uppgångar och nedgångar
 * uppnår steady state
 
 
@@ -11364,9 +11362,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 #### akut p-piller
 
-#### Mini-piller
+#### mini-piller
 
-#### Barriärmetoder
+#### barriärmetoder
 
 
 
@@ -11403,7 +11401,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * för att gestagena tar bort ovulation ägglossning
       * och hormonspiralen agerar lokalt, och hon troligen har kvar sin ägglossning och ett bra blödningsmönster med hormonspiralen
     * annars kopparspiral
-* Frida 
+* ***Frida*** 
   * som har regelbunda blödningar är 36 år och ska resa till Kreta under sin semester och undrar om du kan hjälpa henne med att skjuta upp sin mens då hon inte vill blöda när hon ska bada.
   * Fr Kry
     * Med en tillfällig behandling kan du flytta fram mensen genom att förlänga din menstruationscykel. 

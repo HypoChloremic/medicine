@@ -188,6 +188,22 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Beskriv kort behandling för en a v sjukadomarna
     * Celiaki: glutenfri kost
     * Födoämnesallergi: elimination
+* **Mustafa, 18 månader gammal, inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft.** 
+  * **a) Hur vill du initialt behandla Mustafa på akuten? (2p)**
+      * Inhalationer beta 2 tex ventoline. Upprepa flera gånger och sedan kan man testa atrovent och sedan fortsätta med ventoline åter. 
+      * Syrgas  
+      * Efter sex timmars behandling på akuten blir han närmast helt symptomfri. Syresättningen har stigit till 99%. Modern önskar åka hem till övriga familjemedlemmar. 
+  * **b) Vilken behandling förskriver du? (1p)** 
+      * beta 2 agonist att ta vid behov när ungen är förkyld. 
+  * **c) Hur skall den ges? (1p)** 
+      * Via optichamber 
+      * Modern konstaterar uppgivet innan hon lämnar akuten: ”Det var ju oturligt att Mustafa skulle få astma när ingen annan i familjen har astma eller allergier!” 
+  * **d) Vad säger du till modern? Motivera ditt svar kort! (1p)**
+      * Mustafa har inte astma. 
+      * För astmadiagnos: 
+      * 3 st obstruktiva episoder innan 2 års ålder (tror dock nya definitionen är 3 år). 
+      * 1:a obstruktiva episoden och anamnes på hereditet, födämnesallergi, atopiskt eksem.
+      * 1:a obstruktiva episoden efter 2 års ålder
 
 
 
@@ -227,6 +243,24 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Kopplar inh ventoline + syrgas 
   * Tippa sängen 
   * Vätskebolus 20 ml/kg så fort PVK sitte
+* **Lisa, en 8 årig flicka med astma, hösnuva och känd jordnötsallergi inkommer till akuten efter att ha ätit en liten bit choklad på rasten i skolan. Hon får svårt att andas. Skolsköterskan är snabbt på plats och ger Epipen 0,3 mg intramuskulärt. Ambulans tillkallas och hon inkommer till dig på barnakuten. Hon har 89% i O2 saturation och får syrgas i ambulansen. I Status: afebril, ångestfylld men svarar på tilltal med viss latens. Har tungt att andas med press på expiriet, bukandning, indragningar interkostalt och i jugulum. Är blek och kallsvettig. Kapillär återfyllnad 3 – 4 sek.** 
+  * Vad misstänker du primärt för diagnosen
+    * Anafylaxi
+  * Ange i kotfattad puntkform, minst 6 punkter, dina akuta åtvgärder i lämplig ordning
+    * Kontakta narkos
+    * Handläggning enl ABCDE
+    * Upprepa Adrenalindos
+    * Inhalationer mot obstruktivitet: Ventoline
+    * Syrgas
+    * Tippa sängen
+    * Om PVK inet finns sätt en så fort som möjligt
+    * Bolus RA 20mL/kg, asaå
+* En 7 årig flicka söker pga av en allergisk reaktion efter intag av jordnötter. Hon har urtikaria över större delen av hudkostymen. Vilken kombination av symptom – utöver urtikarian - gör att hon inte uppfyller kriterierna för anafylaxi? 
+  * Andningsbesvär med ronki, svullna läppar och konjunktivit med klåda 
+  * Nysningar, ökande buksmärta och heshet 
+  * Upprepade kräkningar, heshet och klåda i halsen 
+  * Rätt: Svullen tunga, en kräkning och klåda i munnen 
+  * Hjärtklappning, diarré och sväljningsbesvär 
 
 
 
@@ -450,6 +484,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 <img src="./imgs/ped_sum_VaEvlMb9IA.png" alt="VaEvlMb9IA" style="zoom:50%;" />
 
+| <img src="./imgs/ped_sam_110421_gcy6VqAoXG.png" alt="gcy6VqAoXG" style="zoom: 80%;" /> | <img src="./imgs/ped_sam_110421_iQj5b5OOYo.png" alt="iQj5b5OOYo" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
 
 
 ### Atopi
@@ -466,6 +506,20 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Hösnuva: ofta senare i åldrana, men kan debutera tidigt
 
 ### Celiaki
+
+
+
+***Presentation***
+
+* !!! **Matilda 11 år söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat 2kg i vikt senaste tre månaderna, information om längdutvecklingen är i stort sett oförändrad. Hon känner sig orolig och har svårt att koncentrera sig. Av och till har hon ont i magen. Har lite sämre aptit sista halvåret. Inga kräkningar. Har ibland lösa avföringar. Förnekar utlandsresor senaste året. Nämn två kliniskt mycket relevanta differentialdiagnoser samt för var och en av dessa ett prov eller en undersökning som hjälper dig närmare just den diagnosen. 2p** 
+  * Celiaki: transglutaminasantikroppar
+  * !!! HYperthyroidism: TSH
+* **En 13-årig flicka söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat tre kilo i vikt sedan hon senast vägde sig för några månader sedan men man kan ej se att hon fallit av på längskurvan. Hon känner sig orolig och har svårt att koncentrera sig. Av och till haft ont i magen. Sämre aptit det senaste halvåret. Förnekar kräkningar. Har ibland lösa avföringar. Nämn tre kliniskt relevanta differentialdiagnoser samt för var och en ett prov eller en undersökning som skulle kunna stöda just den misstanken. (3p)** 
+  * IBD: F-kalprotektin
+  * Gluteintolerans: transglutaminasantikroppar
+  * Hyperthyreos: TSH
+
+
 
 
 
@@ -645,13 +699,13 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Fortsätter HLR 15:2. Avvaktar defibrillering och adrenalin i väntan på nästa rytmanalys om 2 minuter. 
   * rätt: Fortsätter HLR 15:2. Defibrillerar 4 J/kg så snart plattorna är på plats och förbereder adrenalin som skall ges efter 3:e defibrilleringen. 
   * Fortsätter HLR 15:2. Defibrillerar 4 J/kg så snart plattorna är på plats och ger omgående adrenalin i den infart som sättes. 
-* Zaid 6 månader inkommer på larm p g a medvetslöshet. Han har haft en svår gastroenterit med frekventa voluminösa diarréer sedan 4 dagar. Han skickades hem från akuten föregående dygn med sedvanliga råd avseende behandling med vätskeersättning i hemmet, vägde då 8 kg. Du anländer som barnjour till akutrummet 3 min efter att ambulansen lämnat över barnet. På barnbordet ser du en blek gosse som inte andas. På monitorn noterar du att hjärtfrekvensen är 55 slag/min. Saturationen går ej att avläsa, sannolikt p g a perifer kyla. Ansvarig sjuksköterska berättar att kap refill är 5 sekunder. Du gör omedelbart följande: 
+* **Zaid 6 månader inkommer på larm p g a medvetslöshet. Han har haft en svår gastroenterit med frekventa voluminösa diarréer sedan 4 dagar. Han skickades hem från akuten föregående dygn med sedvanliga råd avseende behandling med vätskeersättning i hemmet, vägde då 8 kg. Du anländer som barnjour till akutrummet 3 min efter att ambulansen lämnat över barnet. På barnbordet ser du en blek gosse som inte andas. På monitorn noterar du att hjärtfrekvensen är 55 slag/min. Saturationen går ej att avläsa, sannolikt p g a perifer kyla. Ansvarig sjuksköterska berättar att kap refill är 5 sekunder. Du gör omedelbart följande:** 
   * Ger gossen 5 inblåsningar följt av HLR 15:2. Ber ssk sätta en pvk och ordinerar bolusvätska Ringeracetat 160 ml och Adrenalin 0,1 mg/ml 0,8 ml. Larmar narkosen om insatta åtgärder ej förbättrar patientens mående. 
   * Ber en sköterska larma narkosen. Ger gossen 5 inblåsningar följt av HLR 15:2. Förbereder för intravenös infart och ordinerar bolusvätska Ringeracetat 160 ml och Adrenalin 1 mg/ml 0,8 ml 
   * Ber en sköterska larma narkosen. Ventilerar med neopuffen ca 20-30 inblåsningar per minut. Ber ssk sätta en pvk och ordinerar bolusvätska Ringeracetat 160 ml. Kontrollerar andning, puls och kap.refill omgående efter insatta åtgärder. 
   * rätt: Ber en sköterska larma narkosen. Ger gossen 5 inblåsningar följt av HLR 15:2. Förbereder för intraosseös infart och ordinerar bolusvätska Ringeracetat 160 ml och Adrenalin 0,1 mg/ml 0,8 ml 
   * Ventilerar med neopuffen ca 20-30 inblåsningar per minut. Ber ssk sätta en pvk och ordinerar bolusvätska Ringeracetat 160 ml. Kontrollerar en blodgas. Larmar narkosen om insatta åtgärder ej förbättrar patientens mående. 
-* För att optimera förutsättningarna för att framgångsrikt omhänderta ett barn som får hjärtlungräddning är det viktigt att känna till såväl kompressionsteknik som A-HLR-algoritm. Vilket alternativ är korrekt vid HLR på ett 9 månader gammalt barn med verifierad asystoli? 
+* **För att optimera förutsättningarna för att framgångsrikt omhänderta ett barn som får hjärtlungräddning är det viktigt att känna till såväl kompressionsteknik som A-HLR-algoritm. Vilket alternativ är korrekt vid HLR på ett 9 månader gammalt barn med verifierad asystoli?** 
   * rätt: Kompressionsdjup 4 cm. Kompressionstakt 100-120/min. Iv adrenalin så snart infart finns. 
   * Kompressionsdjup 4 cm. Kompressionstakt 90-110/min. Iv adrenalin (dos 1) efter 4:a minuters HLR. 
   * Kompressionsdjup 4 cm. Kompressionstakt 100-120/min. Iv adrenalin efter andra rytmanalysen 
@@ -665,6 +719,27 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Rätt: Larmar narkos. Ger 5 långsamma inblåsningar med neopuff (CPAP). Känner efter pulsar. Om ingen palpabel puls påbörjas HLR med inblåsningar och kompressioner enligt algoritm. 
     * Larmar narkos. Kopplar syrgas på mask. Sätter en intraosseös infart för administrering av adrenalin. 
     * Larmar narkos. Defibrillerar omgående 4 J/kg. Ger därefter adrenalin iv så snart infart etablerats. 
+* **Under pågående HLR på ett barn bör man som teamledare eftersträva att ”korrigera reversibla orsaker” till hjärtstoppet. Vilken kombination av tillstånd stämmer bäst överens med ”checklistan” man hittar på A-HLR algoritmen?** 
+  * rätt: Hypoxi, hyperkalemi, hypotermi, hjärttamponad 
+  * Hypervolemi, hypokalemi, hypoglykemi, tryckpneumotorax 
+  * Hypoxi, hypoglykemi, hypernatremi, tromboembolism 
+  * Hypovolemi, hyperglykemi, hypotoni, hjärttamponad 
+  * Hypoxi, hypovolemi, hypertoni, intoxikation 
+* !!! **Kl 03.30 väcks du i egenskap av barnjour av larmsignalen på joursökaren. Du rusar till akutrummet dit den tidigare friska 6 veckor gamla flickan Nadine är på väg efter en kort livlöshetsattack i hemmet. Det framkommer att flickan haft rikliga diarréer sedan 2-3 dagar tillbaka, initialt även upprepade kräkningar. Hon var på akuten under gårdagen tillsammans med sina föräldrar, men bedömdes då inte vara i behov av inneliggande vård. Man bokade ett återbesök till dagens datum för klinisk kontroll inklusive viktmätning. Kort efter ankomst till akutrummet blir Nadine ånyo livlös och slutar att andas. Monitorn visar asystoli. Den erfarna barnsjuksköterskan har just fått in en perifer venkateter i höger hand.** 
+  * **a) Beskriv i punktform hur du i ett fullt utrustat akutrum utför hjärtlungräddningen på flickan under de första minuterna. (3p)** 
+    * Initial Hantering enl ABCDE, där vi på A försöker fastställa om det är luftvägsstopp och ngt man kan åtgärda. 
+    * Vid konstaterat andningsstopp entrara A-HLR algoritmen
+    * larma narkos
+    * ge 5 inblåsningar med neopuff + 15:2 kompressioner
+    * infart på plats + monitor visar asystoli = adrenalin 0.01mg/kg 0.1mg/kL iv asap, och var 4e minut därefter
+    * Kopplar defibrillator
+    * Fortsätter 15:2 i 2 minuter
+    * Reanalys. 
+    * Försöker under HLR algoritm konstatera orsak till hjärtstopp enl 5H 4T
+  * Flickan återfår medvetande o normal rytm, tack vara insatser efter 10min. Hon läggs in på BIVA för fortsatt observation coh vätskebehandling
+  * Du känner t flera orsaker t att barn kan drabbas av hjärtstopp. Ange 2 rimliga förklaringar t hjärtstoppet i Nadines fall
+    * Hypovolemi
+    * Hypokalemi (/hyperkalemi?)
 
 
 
@@ -844,7 +919,7 @@ Enligt ABCDE
   * Jerry läggs in på IVA för vätske- och insulinbehandling. IVA-jouren, som har begränsad barnvana, undrar hur man beräknar volymen Ringeracetat till en vätskebolus och ett rehydreringsdropp (4 timmar) till Jerry som väger 25 kg.
     * 5% av kroppsvikten över 4h: 25/20 = 12.5/10 = 1.25L
     * Vätskebolus: 20mL/kg  => 25*20mL = 500mL
-* En lördagskväll kommer en 16 årig flicka in till akuten. Hon har sedan tidigare känd diabetes mellitus och tar insulin. Hon visar sig ha diabetisk ketoacidos (DKA). Du vet ju att DKA är en allvarlig komplikation som kan tillstöta vid diabetesdebuten men också senare hos en individ med juvenil diabetes. Vad är vanligaste orsaken till DKA hos en ungdom? 
+* **En lördagskväll kommer en 16 årig flicka in till akuten. Hon har sedan tidigare känd diabetes mellitus och tar insulin. Hon visar sig ha diabetisk ketoacidos (DKA). Du vet ju att DKA är en allvarlig komplikation som kan tillstöta vid diabetesdebuten men också senare hos en individ med juvenil diabetes. Vad är vanligaste orsaken till DKA hos en ungdom?** 
   * Alkoholintag 
   * rätt: Insulinbrist 
   * Insulinöverskott 
@@ -856,8 +931,16 @@ Enligt ABCDE
     * inadekvat respirtoriskt kompenserad
     * hyperglykemi
     * Sannolikt diabetesketoacidos
-  * Hur kmr sannolikt kaliumvärdet förändras när du påbörjar iv insulinbehandling
+  * **Hur kmr sannolikt kaliumvärdet förändras när du påbörjar iv insulinbehandling**
     * Kalium lär sjunka
+  * **Vilken allvarlig komplikation och livshotande, måste du ha i bakhuve då du börjar behandla ett barn, med diabetes mellitus och ketoacidos**
+    * HJärnöde,
+    * Hypokalemi
+  * **Ange också två undersökningar du ska följa samt 2 labbprover som är viktiga att följa för att undvika den livshotande kompliaktionen**
+    * EKG
+    * Neuroundersökning GCS
+    * Blodgas 
+    * P-glukos: följa hur snabbt denna sjunker
 
 
 
@@ -1531,6 +1614,13 @@ Enligt ABCDE
 * Tilda en 5 veckors gammal flicka kommer till barnläkarmottagningen på läkarundersökning, eftersom hon fortfarande är ikterisk. Flickans födelsevikt var 3450 g och hon väger nu 3690 g. Hon ammas helt och mor tycker hon verkar äta bra. På BB noterades måttlig ikterus med bilirubin 180, konjugerad 15. Gulsoten kvarstår. I status  finner Du en pigg flicka som är ikterisk i färgen, sclerae också lite gula. Status i övrigt är u.a. Vilka diagnoser bör övervägas och nämn två viktiga prover som bör tas. Du skall motivera varför just dessa prover ordineras. 2p 
   * Gallvägsatresi, bröstmjölksinducerad ikterus. 
   * Total bilirubin + konjugerat bilirubin. Man utreder om det föreligger en ökad konsumtion/nedbrytning tex hemolys eller om det föreligger en stasbild tex gallvägsatresi med ökad konjugerat.   
+* **Du får som vikarierande underläkare gå BB rond och ett av barnen du undersöker är ett dygn gammalt och är redan ikteriskt. Det är mammans första barn. Barnet är fullgånget, väger 3300 g och hade Apgarpoäng 9 respektive 10 vid 1 och 5 minuter. Du beställer prover och funderar över vad som kan orsaka tidig ikterus.** **Ange två orsaker till tidig ikterus (2p)** 
+  * ABO-immunisering
+  * Rh-immunisering
+  * !! G6PD
+  * !! Sfärocytos
+  * !! Pyruvat kinas brist
+  * // Sarah nämner fysiologisk ikterus (men väl inte inom ett dygn)
 
 
 
@@ -1599,31 +1689,33 @@ Enligt ABCDE
 
 ##### Ikterus inom 24h
 
-* HEMOLYS: vanligtvis orsakat av hemolys
-* Rh-immunisering: identifieras oftat antenatalt, monitoreras och behandlas om behvös. 
+* **HEMOLYS**: vanligtvis orsakat av hemolys
+* **Rh-immunisering**: identifieras oftat antenatalt, monitoreras och behandlas om behvös. 
   * Svårt åpverkad unge föds med hydrops, hepatomegali, splenomegali, snabbt ut vecklande ikterus
   * antikroppar bildas mot Rh-antigen (rehsus), RhD, Rh-kell, Rh-Duffy
   * Finns fler antikroppar som bilads, men sällan att dessa leder t hemolys
-* ABO-inkompatibilitet, ABO-immunisering
-  * VAnligare
-  * !!! IgM-antikroppar: flesta antikroppar är IgM antikroppar SOM EJ PASSERAR PLACENTA
-  * IgG-antikroppar: vissa kvinnor kan bilda dessa, som immuniserar mot just A, så anti-A-hemolysiner, eller anti-B-hemolysiner, som kan vara IgG
+* **ABO-inkompatibilitet, ABO-immunisering**
+  * Vanligare
+  * !!! **IgM-antikroppar**: flesta antikroppar är IgM antikroppar SOM EJ PASSERAR PLACENTA
+  * **IgG-antikroppar**: vissa kvinnor kan bilda dessa, som immuniserar mot just A, så anti-A-hemolysiner, eller anti-B-hemolysiner, som kan vara IgG
     * Dessa kan passera placenata. 
-  * ikterus: ger ikterus, men mindre allvarlig jfr Rh-immunisering
+  * **ikterus**: ger ikterus, men mindre allvarlig jfr Rh-immunisering
   * Hb nivån vanligvis normal, eller ltiet reducrat, till skillnad fr Rh-immunisering där den kan vara starkt påverkad
   * Direkt-antikropps tst (Coombs test (BAS=) eller ere DAT), demonstrerar antikroppar på ytan = positiv
   * ikterus peakar 12h-72h
 
+
+
 ##### Ikterus inom 2d-2v
 
-* Fysiologisk ikterus
-* Bröstmjölksinducerad ikterus
-* Dehydrering
-* Infektion
-* Andra orsaker: 
+* **Fysiologisk ikterus**
+* **Bröstmjölksinducerad ikterus**
+* **Dehydrering**
+* **Infektion**
+* **Andra orsaker:** 
   * vanligtvis att hemolys presenterar inom 1d fr födel, kan ske inom 1v
   * hematom (bruising) och polycytemi exacerberar ikterus
-  * Crigler-najjar syndrom: glucuronyl transferas bristande eller frånvarande, kan resultera i hög nivåer okonjugerat bilirubin
+  * **Crigler-najjar syndrom**: glucuronyl transferas bristande eller frånvarande, kan resultera i hög nivåer okonjugerat bilirubin
 
 
 
@@ -1708,9 +1800,16 @@ Enligt ABCDE
 
 ***Presentation***
 
-* Fästingburna infektioner hos barn är vanligt under sommar och höstmånaderna i Sverige. Vilket påstående om denna typ av infektioner är mest korrekt?
+* **Fästingburna infektioner hos barn är vanligt under sommar och höstmånaderna i Sverige. Vilket påstående om denna typ av infektioner är mest korrekt?**
   * Perifer facialispares är ett vanligt symptom på neuroborrelios hos barn och fyndet bör föranledda lumbalpunktion för att verifiera diagnosen.
   * Fel alternativ inkluderade: 
+* **Du arbetar som jour en septemberkväll och träffar då Erik 9 år, som söker på grund av huvudvärk. Hans mamma berättar att han klagat över huvudvärk i en veckas tid men att han gått i skolan fram till för 2 dagar sedan. Han har haft lite lätt tempstegring kring 38 – 38,5 C. I status noterar du att Erik har lite svårt att stänga vänstra ögat och att vänstra mungipan hänger ned lite då du försöker få honom att skratta. I övrigt inget avvikande i status. Blodprov visar CRP 16, Leukocyter 7,0 x 10 /l (referens 4 - 9 x 10 /l) med normal diff, trombocyter 260 x 10 /l (ref 150 – 400 10 /l), Hb 118 g/l.** 
+  * **Vilken diagnos är mest vanlig och sannolik med ovanstående beskrivning och vilken fråga är viktigt för att komplettera anamnesen**
+    * Borrelia, fästingbett, erythema migrans
+  * **Med vilket specifikt prov ska du säkerställa diagnos**
+    * LP
+  * **Hur vill du behandla Erik om din misstanke bekräftas med provtagning**
+    * Doxycyklin
 
 
 
@@ -2039,6 +2138,13 @@ Enligt ABCDE
     * Leder
   * Nämn ett viktigt prov som du måste komplettera med
     * kreatinin
+* **Karin 9 år söker med föräldrarna akut på grund av buksmärtor som hon har haft av och till sedan något dygn. Inga kräkningar eller diarreer. Sedan något dygn utslag. I status: Ganska opåverkad men anger buksmärta vid förfrågan. Afebril. Hud: röda utslag 0,3 – 2 cm i diameter på skinkorna och nedre delen av benen bilateralt. Går inte att trycka bort. Hon är lite öm i fotlederna vid flektion och du finner svullnad kring fotlederna och även på fotryggarna bilateralt. Buk: Ingen defense, generellt lite öm men ingen fokal ömhet. Hjärta lungor fys ua.** 
+  * Troligaste diagnos
+    * IgA vaskulit
+  * Ange en vanlig komplikation som kan bli allvarlig, vilken
+    * Njursvikt
+  * Vilket enkelt prov följs därför under en längre tid
+    * U-sticka
 
 
 
@@ -2167,7 +2273,7 @@ Enligt ABCDE
 
 ***Presentation***
 
-* En pappa kommer med sin 20 månader gamla flicka Ingrid som har täta recidiverande luftvägsinfektioner. Pappans arbetssituation har blivit ansträngd då arbetsgivaren är oroad av hans täta frånvaro från arbetet, nu sammanlagt nästan 10 veckor det senaste halvåret. Ingrid har fått antibiotika för otit vid ett tillfälle och för pneumoni vid ett tillfälle. I övrigt har hon tillfrisknat spontant i det som du bedömer som täta recidiverande övre luftvägsinfektioner av virustyp. Pappa misstänker att det är något fel på immunsystemet. Du är inte lika övertygad. 
+* **En pappa kommer med sin 20 månader gamla flicka Ingrid som har täta recidiverande luftvägsinfektioner. Pappans arbetssituation har blivit ansträngd då arbetsgivaren är oroad av hans täta frånvaro från arbetet, nu sammanlagt nästan 10 veckor det senaste halvåret. Ingrid har fått antibiotika för otit vid ett tillfälle och för pneumoni vid ett tillfälle. I övrigt har hon tillfrisknat spontant i det som du bedömer som täta recidiverande övre luftvägsinfektioner av virustyp. Pappa misstänker att det är något fel på immunsystemet. Du är inte lika övertygad.** 
   * Ange 4 anamnestiska uppgifter som kan föranleda utredning för immunbrist hos barn (4p)** 
     * 2 ab krävande pneumonier på året
     * över >=4 ab krävande otiter
@@ -2182,7 +2288,7 @@ Enligt ABCDE
     * omfattande hudförändringar, erytrodermi, eksem som inte svarar på behandling
     * spädbarn som inte växer som förväntat
     * Känd primär immunbrist sjd i familj
-* Alice 18 månader, 
+* **Alice 18 månader,** 
   * tidigare frisk, kommer in till barnakuten med sin 6:e förkylning mellan januari och juni. Hon har nästäppa, hosta och ibland lite feber. Hon får i sig hyfsat med mat och dryck. Vikt och längdutveckling normal. Hon behöver ofta vara hemma från förskolan. Föräldrarna är bekymrade över att hon har immunbrist och vill att du utreder henne. Vilket av nedanstående är det mest korrekta svaret att säga till föräldrarna? (1 p) 
   * Det är normalt men för säkerhetskull tar du några prover för att utesluta immunbrist. 
   * rätt: Du ger lugnande besked då det är normalt att ha frekventa förkylningar i denna ålder. 
@@ -2190,6 +2296,12 @@ Enligt ABCDE
   * Du är bekymrad och påbörjar en utredning. 
   * Du är orolig och remitterar till specialist. 
   * // man kan ha 12 ÖLI per år som barn. ett varje månad ungefär
+* **En vanlig frågeställning hos föräldrar är att det är något fel på deras barns immunförsvar på grund av att barnet har så många infektioner under småbarnsperioden. Vilket av nedanstående alternativ anger tre korrekta varningstecken på immunbrist?** 
+  * \> 4 otiter per år, autoimmunitet, allergisk astma
+  * Infektioner på ovanliga lokalisationer, IBD, ovanliga smittämnen 
+  * Upprepade djupa infektioner tex meningit, ovanliga smittämnen, långvariga övre luftvägssymtom 
+  * rätt: Infektioner som inte läker på förväntat sätt under antibiotikabehandling, infektioner på ovanliga lokalisationer, upprepade djupa infektioner tex sepsis 
+  * Infektioner som inte läker på förväntat sätt under antibiotikabehandling, >10 luftvägsinfektioner av virustyp per år, svårbehandlade eksem 
 
 
 
@@ -2493,6 +2605,20 @@ Enligt ABCDE
     * blodstatus, dff
     * saturation 96%
     * CRP<5
+* Ella 2 månader observeras inneliggande på avdelning med ännu oklar diagnos för att hon inte orkar amma och hostar emellanåt. Det larmar på rummet då hon har en apné. Hon har ingen feber, inget tydligt slem men är trött, blek och får attacker med hosta. Hennes mamma har haft en långdragen hosta i nu 3 veckor men har ej feber. Du kör A-E på rummet och får igång spontan andning efter ett par minuter. Du har en stark misstanke om vad det kan vara för bakomliggande sjukdom. Vilka prover tar du för att komma närmare diagnosen? 
+    * Luftvägsviruspanel PCR. vita blodkroppar inklusive diff 
+    * RS-virus snabbtest, blodstatus 
+    * Adenovirus PCR, CRP 
+    * rätt: Pertussis PCR, vita blodkroppar inklusive diff 
+    * RS-virus ELISA, blodstatus 
+
+
+
+
+
+
+
+
 
 #### Pneumoni
 
@@ -2546,6 +2672,18 @@ Enligt ABCDE
 ### Nefrologiskt Urologiskt
 
 #### Cystit
+
+
+
+#### HUS Hemolytiskt uremiskt syndrom
+
+***Presentation***
+
+* **På akuten träffar du Vadim, en pojke som fyller 2 år i januari och som just kommit hem efter ett besök hos farföräldrarna på landsbygden utanför Minsk i Belarus. Han har haft diarréer sedan 3 dagar tillbaka. Aptiten är mycket dålig och han dricker sparsamt. I morse hade han två blodtillblandade diarréer varför Vadim och hans pappa nu söker akut. Du minns en njursjukdom som drabbar barn och som brukar föregås av blodiga avföringar.** 
+  * Vilken
+    * HUS
+  * Ange 2 relevanta blodnalyser du vill beställa för att få stöd för din diagnosmisstanke
+    * Blodstatus, elstatus
 
 
 
@@ -2771,6 +2909,11 @@ Enligt ABCDE
   * Inkubationstiden är ca 9 - 11 dagar 
   * Utslaget är makulopapulöst 
   * rätt: Utslaget är ffa lokaliserat till hud och slemhinnor 
+* **Ali, 3 år söker barnakuten på grund av utslag. Han insjuknade för sex dagar sedan med lätta övre luftvägssymtom och fick dagen därpå små blekröda knottror som började på bålen och i ansiktet som sedan har spridit sig till armar och ben. Pappa tycker att det verkar klia en hel del. Vid undersökning ser du spridda utslag över hela kroppen som omfattar makulae, palpler, vesikler och krustor. I munnen ser du också enstaka blåsor. Ali har varit subfebril i fyra-fem dagar, men mår i övrigt relativt bra.** 
+  * Mest trolig diagnos
+    * Vattkoppor, varicella zoster
+  * Inkubationstid
+    * 14-16d
 
 
 
@@ -2778,6 +2921,12 @@ Enligt ABCDE
 
 * incidens har sjunkit pga barndomsimmunisering (vaccin?) i många delstater i USA.
 * Hos icke-immunicerade kan man få vattkoppor närsom (ungdom som vuxen)
+
+
+
+***Etiologi och patofysiologi***
+
+* Inkbuationstid: 
 
 
 
@@ -2833,7 +2982,16 @@ Enligt ABCDE
 
 
 
+#### TBE
 
+***Presentation***
+
+* Fästingburna infektioner hos barn är vanligt under sommar och höstmånaderna i Sverige. Vilket påstående om denna typ av infektioner är mest korrekt? 
+    * TBE verifieras i rutinfallet med antikroppsbestämning i blod. Vaccin mot TBE ingår sedan 2019 i det allmänna svenska vaccinationsprogrammet 
+    * Perifer facialispares är ett vanligt symptom på neuroborrelios hos barn och fyndet bör föranledda lumbalpunktion för att verifiera diagnosen. 
+    * TBE förekommer mycket sällan före 15 års ålder. TBE kan ge bestående neurologiska symptom. 
+    * För att diagnostisera kutan borrelia tas borreliaserologi. Kutan borrelia behandlas med penicillin 
+    * Barn med neuroborrelios behandlas med ceftriaxon alternativt doxycyklin beroende på barnets ålder. På marknaden finns ett vaccin mot borrelia som inte ingår i det allmänna svenska vaccinationsprogrammet 
 
 
 
@@ -2970,6 +3128,19 @@ Enligt ABCDE
   * Hb 85 g/l, retikulocyter låga, ferritin högt, MCV högt, MCHC högt 
   * Hb 85 g/l, retikulocyter höga, ferritin lågt, MCV lågt, MCHC lågt 
   * Hb 105 g/l, retikulocyter låga, ferritin lågt, MCV lågt, MCHC högt 
+* **Lisa 10 månader har sedan någon vecka blivit tröttare och inte orkat vara aktiv som vanligt. Hon ammas fortfarande fullt och får ingen annan mat. Mamman pumpar för att pappa ska kunna ge henne bröstmjölk i nappflaska. BVC sköterskan har gett råd till föräldrarna angående Lisas kost. Du träffar en blek och trött flicka utan tecken till infektion. Hon har lätt takykardi 130/min men ingen lever- eller mjältförstoring. Inga blåsljud vid hjärtauskultation. I övrigt inget avvikande i status.**
+  * Ange den troligsateo rsaken t flickan blekhet och trötthet
+    * Anemi
+  * Ange tre labbprover som kan bekräfta din misstanke
+    * Hb
+    * MCV
+    * Ferritin (framför järn)
+* Vilka grupper av barn har ökad risk för att utveckla järnbristanemi? Ange de två som är korrekta. 
+  * barn med IBD, elitidrottare 
+  * veganer, sen pubertet 
+  * vegetarianer, Henoch-Schönleins purpura 
+  * prematurfödda barn, ITP 
+  * Rätt: menstruerande flickor, barn som dricker stora mängder mjölk 
 
 
 
@@ -3117,32 +3288,6 @@ Enligt ABCDE
 
 
 
-
-
-### Hematom
-
-***Presentation***
-
-* **6. En 5 årig flicka inkommer till akuten en söndagskväll kl 21 tillsammans med hennes mor. Föräldrarna som är skilda befinner sig i en vårdnadstvist om flickan. Mamma berättar att flickan har blåmärken på kroppen efter att hon vistats hos sin pappa i helgen. Flickan själv vill inte berätta vad som har hänt. I status kan du se att det finns blåmärken av ganska färsk art på bål och armar men även på underben. Även något blåmärke på kinden. Ange 6 olika åtgärder eller ställningstaganden som är obligatoriska i denna situation (3p)** 
-  * Akut remiss fotografi blåmärken
-  * Dokumentera dessa nogrant i journal
-  * Kontakta senior kollega eller bakjour
-  * Ögonbottenspegling
-  * Inläggning för vidare utredning
-  * Status inkl ortopediskt sådant
-  * Konsultera senio kollega gällande helkroppsrtg
-  * Undersökning fr topp t tå
-  * prover: koagulationsprover, utesluta trombocytopeni, blodstatus. [leverstatus, njurprover]
-  * Orosanmälan till socialtjänsten [ingen polisanmälan?]
-*  **Föräldrar som kommer till akutmottagningen med Elsa 8 månader. Föräldrarna förklarar att Elsa har ramlat från skötbordet och har varit slö sedan dess. I status hittar du en slö flicka som gnyr och som har blåmärken på rygg, armar och ben. Hon verkar ha ont när du undersöker höger arm. På frågan om alla blåmärken svarar föräldrarna att hon hade ramlat tidigare i veckan från en soffa och nu skötbordet. Du gör ett noggrant status i vilket du kan notera blåmärken av olika åldrar. Du försöker få ihop statusfynden med anamnesen och känner en oro för omsorgssvikt.** **Hur handlägger du Elsa?** 
-  * Nämn 5 åtgärder du behöver göra inom de närmsta timmarna
-    * Misstanke grov misshandel av barn: SOL anmälan
-    * kontakte med bakjour
-    * Akut remiss helkroppsfotografering och dokumentation
-    * Helkroppsrtg, ev DT
-    * Noggrant beskriva fynden i journal
-    * inläggning
-
 ### Hemolys
 
 ***Etiologi och patofysiologi***
@@ -3247,11 +3392,14 @@ Enligt ABCDE
 * // **trombocytkoncentrat**: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
 * ***Behandlingstrappa:*** Föreläsare nämnde behandlingstrappa som missades?
 
+### Leukemi
 
+***Presentation***
 
-
-
-
+* **Leukemi, ange vanliga debytsymptom (ej labbprover)**
+  * Feber
+  * Petekier
+  * Ledsmärta / skelettsmärta
 
 ### Lymfom
 
@@ -3272,8 +3420,6 @@ Enligt ABCDE
 * **Labb**: 
   * **Blodstatus + diff:** essentiell del i utredningen
   * **leverstatus + njurstatus:** evaluera status av viktiga organ, då möjligt med härdar i respektive organ eller att njurarna tar skada av tumörsjukdomen. 
-
-
 
 ### Petekier
 
@@ -3595,6 +3741,17 @@ Enligt ABCDE
 
 ### Thalassemia
 
+***Presentation***
+
+* !!! Thalassemia major och sicklecellanemi är två av världens vanligaste ärftliga sjukdomar. Nedan anges (först) ett typiskt fynd för obehandlad thalassemi därefter ett typiskt fynd vid sicklecellanemi. 
+  * rätt: Extramedullär blodbildning respektive skelettsmärtor 
+  * Aplasi av benmärg respektive daktylit (svullnad av ett finger) 
+  * Hjärtinsufficiens respektive njurinsufficiens 
+  * Polyendokrin sjukdom respektive glomerulonefrit 
+  * Neutropeni respektive trombocytopeni 
+
+
+
 
 
 ***Etiologi och patofysiologi***
@@ -3610,7 +3767,7 @@ Enligt ABCDE
 
 ***Kliniska känntecken***
 
-* **Extramedullär hematopoes**: detta förhindras av regelbundna transfusioner. I frånvaro av blodtansfusoner utvecklar man hepatosplenomegali (hepatomegali, splenomegali) och benmärgsexpansion.
+* !!! **Extramedullär hematopoes**: detta förhindras av regelbundna transfusioner. I frånvaro av blodtansfusoner utvecklar man hepatosplenomegali (hepatomegali, splenomegali) och benmärgsexpansion.
   * benmärgsexpansionen leder till klassiska ansikten med maxillär övertillväxt och skull-bossing (ovanligt i UK och I-länder)
 * **pallor**
 * **Ikterus**
@@ -3967,7 +4124,15 @@ Enligt ABCDE
 
 
 
+***Etiologi och patofysiologi***
 
+
+
+***Utrednign och handläggnign***
+
+* UL: förtjockad pylorusmuskel
+
+***Behandling***
 
 ## Kardi och pulm
 
@@ -4156,6 +4321,13 @@ En kort lista över kliniska manifestationer av CF:
       * Svettning vid amning, uppfödningssvårigheter, takypné 
   * vilket tillstånd beror symptomen på? (Ange tillståndet med ett ord!) 1p
       * Hjärtsvikt  
+* **På BB undersöker du ett barn som precis har undersökts i pox-screeningen och befunnits ha ett patologiskt prov. Du kan se att barnet har antydd läppcyanos. Innan du gör ett fullständigt hjärtstatus tänker du igenom vilka vitier som kan uppvisa cyanos i denna ålder.** 
+  * Ange 2 sådana vitier
+    * Fallots tetrad
+    * TGA
+  * Nämn en farmakologisk behandling som kan vara aktuell vid cyanos hos ett nyfött barn sekundärt t hjärtvitium
+    * prostaglandin
+    * För att hålla ductus arteriosus öppet då detta är ductusberoende hjärtfel
 
 
 
@@ -4405,6 +4577,20 @@ En kort lista över kliniska manifestationer av CF:
 * Kirurgiskt: 
 
 
+
+### Hjärtaktivitet
+
+#### Supraventrikulär takykardi: SVT
+
+***Presentation***
+
+* **Du vikarierar som underläkare på en barnakut i norra Sverige. Rut 7 månader söker med sin mamma p g a en kort episod av övergående missnöje för en timme sedan. I samband med det noterade modern, då hon la handen över flickans bröstkorg, att hjärtat ”slog otroligt fort”. En ny episod startade strax innan EKG-registreringen nedan gjordes. När du auskulterar hjärtat har du svårt att avgöra frekvensen, EKG-remsan visar 260 slag per minut.** 
+  * <img src="./imgs/ped_sam_110421_zbGHrLZQGR.png" alt="zbGHrLZQGR" style="zoom:50%;" />
+  * Vad har Rut drabbats av 
+    * Supraventrikulär takykardi
+  * Vilka 2 behandlingsalternativ bör övervägas
+    * Farmakologisk: Adenosin (im?)
+    * Konservativ: Valsalvamanöver, karotismassage
 
 ### Obstruktiv bronkit
 
@@ -4694,6 +4880,39 @@ En kort lista över kliniska manifestationer av CF:
       * barn >3mån ges steroider + cefotaxim
     * Vad måste du utesluta och hur gör du det: meningit + LP
     * Vila två agens är mest sannolika: Pneumokocker + meningokocker
+* **Du är vikarierande underläkare på en barnakutmottagning. Ett 8 månaders barn inkommer till akuten då barnet har 39 graders feber och har haft en kramp. Hur var det nu med feberkramp tänker du innan du träffar barnet? Ange 4 kriterier för att en kramp skall kallas feberkramp. (2p, ½ p för varje rätt svar)** 
+
+  * Symmetrisk, generell, tonisk klonisk kramp 
+  * Tid: inte mer än 10 min. 
+  * 0,5 till 4 års ålder 
+  * feber >38,5
+  * Ingen postiktalitet 
+
+
+
+***Diagnos***
+
+* Feber över 38.5
+* Ingen postiktalitet
+* 0.5-4åå 
+* Tid: inte mer än 10min
+* Symmetrisk, generell, tonisk klonisk klonisk kramp
+
+
+
+***Etiologi och patofysiologi***
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utredning och handläggning***
+
+
+
+***Behandling***
 
 
 
@@ -4723,6 +4942,12 @@ En kort lista över kliniska manifestationer av CF:
     * spike and sharpwaves med hög amplitud
     * normal bakgrundsaktivitet
     * central o mitt-temporalt samtidigt
+* Benign barnepilepsi - eller Rolandisk epilepsi - är en vanlig epilepsiform med god prognos. Vilken beskrivning stämmer bäst överens med diagnosen? 
+  * rätt: Drabbar barn från 3-13 års ålder, anfall ofta nattetid, typiska centrotemporala spikes och sharp-waves på EEG 
+  * Drabbar barn från 5-10 år ålder, anfall ofta dagtid, höga spikes på EEG 
+  * Drabbar barn från 6 månader till 5 års ålder, tonisk-kloniska anfall ofta med blickdeviation, EEG som regel utan avvikelser 
+  * Drabbar barn från 1-3 års ålder, anfall ofta dagtid, absensanfall dominerar, fokala avvikelser på EEG 
+  * Drabbar barn från 8-15 års ålder, ofta symmetriska tonisk-kloniska anfall, sharp-waves på EEG 
 
 
 
@@ -4748,6 +4973,12 @@ En kort lista över kliniska manifestationer av CF:
   * drug withdrawal
   * cerebral dysgenesis
   * benign familial neonatal seizures
+
+
+
+#### Benign barnepilepsi: Rolandisk
+
+
 
 
 
@@ -4923,6 +5154,15 @@ En kort lista över kliniska manifestationer av CF:
     * AF 0-1 mån 30-60, 1-12 mån 30-40 
     * Hb ska vara högre hos de här små. 
     * pH ska ej vara sådär surt. 
+* Gustav, 2 dagar gammal, och hans föräldrar väntar på första läkarundersökningen. Han är första barnet och föräldrarna är oroliga. De har många frågor när du som BB läkare kommer. Vilka allvarliga tillstånd syftar BBundersökningen bland annat till att utesluta 
+  * Retinoblastom, immunbrist, gomspalt 
+  * Kefalhematom, kongenital katarakt, hypothyreos 
+  * rätt: Coarctatio aorta, höftledsluxation, retinoblastom 
+  * Ryggmärgsbråck, ikterus, metabola sjukdomar 
+  * Kongenital katarakt, ÖLI, ryggmärgsbråck 
+* Spädbarnsstatus på BB undersöker ögonen hos barnet med oftalmoskop. ange 2 sjd som ska uteslutas gm denna undersökning
+  * Kongenital katarakt
+  * Retinoblastom
 
 
 
@@ -5185,6 +5425,7 @@ En kort lista över kliniska manifestationer av CF:
     * rätt: Magläge 
     * Rökning hos modern 
 
+* **Du har BVC mottagning. En mamma till ett barn som kommer till dig på ett första besök berättar att en av hennes grannar förlorade ett barn för två år sedan i plötslig spädbarnsdöd. Hon undrar vad hon kan göra för att minimera riskerna att hennes barn skall drabbas. Ange 4 faktorer som gör att risken minskar. Du skall också ange den största riskfaktorn först för att få full poäng (2 p)** 
 
 
 
@@ -5227,6 +5468,13 @@ En kort lista över kliniska manifestationer av CF:
       * testistorsion
     * Typisk symptom för diagnosen föranleder vårdkontakt
       * plötslig svår testissmärta
+* !!! **På barnavdelningen där du vikarierar har det just lagts in en 4 månader gammal kille som heter Frans. Enligt rapporten från kollegan på akuten misstänks** **a)…... Urinstickan visade 3+ leukocyter. CRP 74. Kreatininvärdet är normalt. Urin- och blododlingar är skickade. Den intravenösa antibiotika kollegan har valt att behandla med är b)….. Ett akut ultraljud njurvägar är beställt med frågeställning:** **c)………? När svaret kommer bekräftas misstanken med samma typ av avvikelse på båda njurarna. Du misstänker att gossen har en** **d)….. och kontaktar tjänstgörande barnurolog för hjälp med fortsatt handläggning. Följande dag har Frans fått en avlastande suprapubisk kateter. Urinodlingssvaret visar** **e)…. vilket är den vanligaste urinvägspatogenen. Du bestämmer dig för att kartlägga eventuell parenkymskada på njurarna och beställer därför en** **f)………** 
+  * a. Pyelonefrit (0,5 p) 
+  * b. Cefotaxim (0,5 p) 
+  * c. Hydronefros/anatomiska avvikelser (0,5 p) 
+  * d. Uretra valvel (0,5 p) 
+  * e. e-coli (0,5 p) 
+  * f. DMSA (0,5 p) 
 
 
 
@@ -5302,6 +5550,12 @@ En kort lista över kliniska manifestationer av CF:
     * (bukomfång, puls, AF)
   * Provsvaren bekräftar din diagnosmisstanke, och du ska nu ordinera medicin. Vad ordinerar du för typ av medicin
     * Steroider: prednisolon
+* **Barn med nefrotiskt syndrom har en massiv förlust av protein via urinen p g a dysfunktion av podocyterna i njurarnas glomeruli. Som en konsekvens av proteinläckaget söker dessa barn ofta vård med anledning av ödem. För att verifiera diagnosen - samt utesluta andra orsaker till proteinläckage - ingår som rutin kontroll av bla:** 
+  * Urinsticka, s-kreatinin, s-albumin, njurbiopsi 
+  * Urinsticka, albumin/kreatininkvot i urin, s-kreatinin, njurbiopsi 
+  * rätt: Urinsticka, albumin/kreatininkvot i urin, s-kreatinin, s-albumin 
+  * Urinsticka, s-kreatinin, s-triglycerider, CT urinvägar 
+  * Urinsticka, albumin/kreatininkvot i blod, s-kreatinin, ultraljud urinvägar 
 
 
 
@@ -5400,6 +5654,11 @@ En kort lista över kliniska manifestationer av CF:
     * svalgodling
   * mot bakgrund pojkens huvudvärk, får du inte glömma en mycket vikti undersökning, vilken
     * Blodtryck
+* **Vadim läggs in på vårdavdelning för vidare utredning samt vätske- och nutritionsbehandling. En vetgirig undersköterska som läser termin 3 på läkarprogrammet frågar dig hur man skiljer ett barn med nefrotiskt syndrom från ett barn med nefrit. Du väljer att förklara genom att:** 
+  * Ange 2 labbfynd + 1 statusfynd som i typfallet skiljer tillstånden åt
+    * Nefrit hypertoni, nefros  generella ödem (pitting?)
+    * S-albumin påverkat vid nefros
+    * U-sticka hematuri nefrit
 
 
 
@@ -5742,6 +6001,12 @@ Kontaktorsak: 4-år gammal flicka kommer till akutmottagningen pga utslag och nu
 
 
 
+#### Bronkiolit 2
+
+Kontaktorsak: 4 månader gammal flicka inkommer med båda föräldrarna till akuten på grund av andningsbesvär. Soc: Fullständig familj. 2/2 barn fullständig familj. Storebror 4 år gammal går på förskola. Akt grav: Född fullgången FV 3330 g. FL 50 cm. Fulla apgarpoäng. Gått upp fint i vikt o längd. Tid sjkd: Maginfluensa för en månad sedan. Inlagd med peroral rehydrering pga viktnedgång ca 5%. Epidemiologi: Storebror varit förkyld i 4 dagar och varit hemma från förskola. Han har ingen feber. Aktuellt: Insjuknade med lätt snuva i förrgår kväll. Haft lätt tempstegring 38,3. Tilltagande snörvlig. Har jobbigt med andningen. En hel del slem från mun o näsa. Slemmig hosta. Tröttare än vanligt, ammar mkt korta perioder och verkar tagen. Blöjorna inte så tunga som vanligt. Har haft ett kortare andningsuppehåll kanske 10 sekunder, men hämtade sig snabbt. Status: AT: Temp 38,2. Andningsfrekvens 58. Indragningar interkostalt och näsvingespel. Bukandning. O2 saturation 87%. Bubbligt sekret från näsa o mun. Distansrhonki. Mos: Lite torra läppar. Bubbligt sekret, annars oretat. Ytl Lgll: ua på rutinstationer Hud: ua Öron: retningsfria. Pulm: Rikligt slembiljud bilat: hårda krepiterande biljud. Buk: mjuk ua. Neuro: Normal motorik och reflexer för åldern
+
+
+
 #### Feberkramp
 
 Johan 1,5 år söker på barnakuten Anamnes Kontaktorsak: Misstänkt kramp Socialt 1:a barnet. Bor hos mamma. Träffar pappa emellanåt. Tidigare sjd: Tidigare frisk Aktuellt: Igår så gick Johan på dagis under dagen och var pigg som vanligt. På kvällen kändes han lite varm. Inga ÖLI tecken. Kom över och sov i mammas säng och på natten satte han sig upp och pratade, somnade om. Efter en stund vaknade mamman av att han lät konstigt då han andades, tog upp honom. Han tittade upp med uppspärrade ögon och kändes spänd och hade symmetriska ryckningar. Duration cirka ngn minut. Var lite trött i anslutning till episoden men kunde titta och prata. Överkänslighet: Ingen känd. Status Allmäntillstånd: Rosig om kinderna. I övr god kontakt. Rätt pigg. Kroppstemperatur: 39,7 °C Munhåla och svalg: Rodnat svalg, inga beläggningar. Öron: Trumhinnorna bilateralt ua. Ytliga lymfkörtlar: Små adeniter palpabla på halsen. Hjärta: Normal rytm, inga blåsljud. Perifera pulsar: Femoralispulsar palperas ua bilateralt. Lungor: Normala andningsljud bilat, inga biljud. Buk: Mjuk, oöm. Inga palpabla patologiska resistenser. Hud: Inga utslag Neuro: God kontakt. Symmetriska rörelser och normal tonus. Normal gång. PBD Skriv på nästa sida 
@@ -5832,6 +6097,38 @@ Intagningsorsak 10 årig flicka med Hyperglukemi Ärftlighet: Farmor med tyreoid
 
 
 
+
+
+#### ITP
+
+Kontaktorsak: 19 månaders pojke som kommer tillsammans med föräldrar till barnakuten pga blåmärken Hereditet: Friska föräldrar utan blodsjukdomar eller blödningssjukdomar Socialt: 2a barnet, samboende föräldrar. Har börjat på förskola för två månader sedan. 
+
+Tidigare sjukdomar: Lätt obstruktivitet i samband med förkylningar, bedömt som astma 
+
+Aktuellt: För två dygn sedan noterade förskolepersonalen att pojken hade mycket blåmärken på ben, bål samt armar. Föräldrarna har noterat detta och dessutom därefter noterat små punktformiga röda utslag på bålen och även i ansiktet. Blödde imorse lite från mun och även näsa. Inget blod i avföringen igår. Fick MPR vaccin för tre veckor sedan och hade lätt tempstegring 38 grader i 2 dygn några dagar efter vaccinet. I övrigt välmående utan feber, smärtor eller GI symtom. 
+
+Status: Allmäntillstånd: Alert, opåverkad, Kapillär återfyllnad 2 sek 
+
+Mun och svalg: Ett 5 x 5 mm hematom på insidan av vä kind. I övrigt ua Ytl lymfkörtlar: ua på rutinstationer 
+
+Öron: normalfynd, inget blod bakom trumhinnan 
+
+Hjärta: Normal rytm, inga hörbara blåsljud. Frekvens 120/min Lungor: Vesikulärt andningsljud, inga biljud, saturation: 100%, 30 andetag/min 
+
+Buk: Palp mjuk, oöm, inga patologiska resistenser. Ingen mjältförstoring 
+
+Neuro: normala reflexer och normal motorik för åldern 
+
+Hud: på bålen små punktformiga blödningar millimeterstora petechier, flera blå märken max 4x4 cm eller echymoser lokaliserade på ben bilateralt, bål och armar. Även i ansiktet diskreta petechier samt ett blåmärke i pannan Lab: U-sticka leuk 0, röda 2+, ketoner 0, glukos 0. CRP <1. Hb 109 g/l (ref 100 – 150 g/l), Lpk 8,3 x 109 /l (ref 6,0 – 16 x 109 /l) , B-celler (diff) normal fördelning. Tpk 7 x 109 /l (ref 150 - 400 x 109 /l) 
+
+
+
+***Svar***
+
+19mån pojke, tidigare bedömts ha förkylningsastma, ingen hereditet blödnignssjukdomar, söker med suspekt ITP. Sedan 2d mkt blåmärken ben, bål, samt armar, därefter små punktformiga röda utslag bålen, ansikte.  Blödde imorse fr mun + näsa. Inget blod i avföring. Status hematom insida vä kind, petekier och echymoser. Provmässigt TPK 7x10^9. Misstanke ITP. Diff psudotrombocytopeni + HSP, men osannolik pga tydlig anamnes + status. Inläggningsfall. Insättning IvIG + steroider + trombocyttransfusion mtp pågående blödnignar i munhåla och näsa. Konsult barnhematolog och rapportering till flöde om handläggning.
+
+ 
+
 #### Meningit
 
 Kontaktorsak 7 månader gammal pojke kommer till akutmottagningen pga feber och slöhet. Socialt: Barn 3/3, sammanboende föräldrar. Kommer med båda föräldrarna. Graviditet och nyföddhetsperiod: Normal graviditet. PN. Född i v 38+5. FV 3450g. Komplikationsfritt neonatalt. Tidigare o nuvarande sjukdomar: Tidigare frisk. Hereditet: Pappan pollenallergi. Aktuellt: Har mått bra tills igår när han började äta sämre. Har ingen förkylning. Febern runt 39-40C. Syskonen förkylda med feber. Blöjan var inte lika tung som vanligt på morgonen. Är inte lika aktiv med rörelser och jollrande. Trött, sover mest. Status Allmäntillstånd: Temp 40,2 C. Slö. Kapillär återfyllnad 3,5 sekunder. Saturation: 91%. Inga indragningar. Gråblek. Vikt: 7,5 kg Munhåla och svalg: Retningsfritt. Öron: Inspekteras rodnade men ej buktande bilateralt. Ytliga lymfkörtlar: Inga lymfkörtlar cervikalt. Hjärta: RR, takykard 170. Lungor: Normala andningsljud, möjligtvis lite svaga då han inte orkar ta ordentliga andetag. Buk: Mjuk och oöm. Inga organförstoringar. Hud: Inga exantem. Neuro: Försiktiga symmetriska rörelser. Slapp. Ger ingen kontakt. Fontanell lätt spänd. Ej nackstyv. 
@@ -5874,6 +6171,20 @@ Intagningsorsak 2 månaders pojke som inkommer med hosta Socialt: Sammanhållen 
 
 
 
+
+
+#### Scarlatina, scharlakansfeber
+
+Kontaktorsak: 8 åriga Benjamin kommer till akutmottagningen tillsammans med mamma pga feber och utslag. Socialt: Barn 1/1, separerade föräldrar. Tidigare sjukdomar: Tidigare frisk förutom ÖLI. Epidemiologi: Ingen Aktuellt: Hängig sedan 4 dagar, feber sedan en vecka, har haft upp mot >39 grader de senaste dagarna. Under natten fått utslag över kroppen. Exantemen kliar ej. Har ont i halsen. Vill inte äta och dricker skralt. Status Allmäntillstånd:Temp 40,1 °C. Trött, men vaken. Medverkar vid undersökningen. Kapillär återfyllnad 2 sekunder. Saturation: 96 % Vikt: 29 kg Munhåla och svalg: Rodnade tonsiller med beläggningar Öron: Inspekteras oretat bil. Ytliga lymfkörtlar: Förstorade och ömma körtlar palperas cervikalt bilateralt. Hjärta: RR, takykard 125. Svagt systoliskt blåsljud, harmoniskt. Lungor: Normala andningsljud bil, inga ronki eller rassel. Buk: Mjuk och oöm. Inga organförstoringar. Hud: Lätt upphöjda röda små millimeter stora exanthem som började i armhålor och ljumskar och har spridit sig på kroppen. Är blek precis runt munnen. Är borttryckbara. Känns som sandpapper vid palpation. Ögon: Ingen konjunktivit. Lab: CRP 90. 
+
+
+
+***Svar***
+
+8åå pojke, tidg. frisk utöver ÖLI, söker med feber sedan 1 vecka. Ingen epidemiologi eller känd hereditet. Aktuellt, haft över 39 grader senaste dagar. ont hals. Inatt ej klianede exantem över kropp. Status på akuten rodnade tonsiller med belägg + ömma cervikala körtlar bilat + svagt systoliskt blåsljud + millimeter stora exanthem, började armhålor/ljumskar, sedan spridit sig + blek runt mun + sandpapper textur vid palp. CRP 90. Arbetsdiagnos scharlakansfeber med typsik anamnes och status. Diff rubella, morbilli, mononukleos, men dessa lägre sannolikhet. GAS-snabbtest. Antipyretika NSAID + paracet. Kåvepenin po 10d. Åter söka utebliven förbättring, eller försämring. 
+
+
+
 #### Trauma
 
 2 månader gammal pojke på barnakuten Kontaktorsak: Livlöshetsattack i hemmet. Inkommer till akuten på larm med ambulans tillsammans med modern. Socialt: Första gemensamma barnet. Äldre halvsyskon 7,5 år Graviditets- och nyföddhetsförlopp: Okomplicerad graviditet. Akut sectio v 38 p g a utebliven variabilitet på CTG. Välmående postnatalt Tidigare sjukdomar: Upprepade besök på barnakuten på grund av skrikighet. Konstaterad kolik. I samband med senaste besöket för 4 dagar sedan betedde sig fadern hotfullt mot en undersköterska. Orosanmälan skickad. Aktuellt: Fortsatt svåra koliksmärtor sedan föregående besök. Enligt modern ätit bra, flaskmatas. Normal avföring. Under kvällen och natten varit mkt missnöjd, ”omöjlig att trösta”. Modern uppger att gossen fallit från skötbordet i samband med blöjbyte vid 5-tiden. Slutade därefter plötsligt andas och var helt livlös. Hämtade sig spontant efter 2-3 minuter (enligt uppgift fr modern). HLR ej utfört. Fadern larmade ambulans som kom till bostaden efter ca 10 minuter. Då ambulansen kom till platsen andades pojken normalt, men var medvetandesänkt och lite blek. Stabil under transporten, erhållit syrgas på mask. Status: AT: Kl 5.40. Något blek, reagerar med gråt på smärtstimuli. Normalt andningsmönster. Ingen feber. Kap refill 1 s. Saturation 100% på luft. Öron: Ua, inget blod i hörselgången Hjärta. RR, normofrekvent. Inga blåsljud. Lungor: Rena andningsljud Buk: Mjuk, ingen organförstoring Neurologi: Trött. Generellt nedsatt tonus i armar och ben. Fontanell ua. Pupillreaktion normal bilat. Hud: Hematom vänster thorax/nedom vä arcus (7x8 cm) och över vänster lår (4x4 cm). Påtagligt smärtpåverkad över hematom på låret. Bula 2x2 cm hö sida panna. Övrig hudkostym ua. 
@@ -5898,6 +6209,22 @@ Intagningsorsak 2 månaders pojke som inkommer med hosta Socialt: Sammanhållen 
 
 
 
+
+
+#### Vätskeproblem
+
+Elsa 13 månader inkommer till barnakuten pga kräkningar och diarré. Ärftlighet: Ingen känd Socialt: 4-årig storebror. Kommer med mor och far. Tidigare/Nuvarande sjukdomar: Frisk Aktuellt: Flicka som började kräkas för 4 dagar sedan, kräkts 4 ggr men har sedan dess inte kräkts. Därefter tillkomst av diarréer, ungefär 6-8 ggr/dag. Rätt stora och vattentunna. Trött och hängig. Inte velat äta, framför allt inte velat dricka någonting. Idag endast fått i sig 2 dl. Oklart om hon har kissat idag. I vanliga fall är hon en pigg och glad flicka. Senaste kända vikten var 10500 g och dagens vikt är 9400 g. Mamman har fått i henne lite vätskeersättning på akuten. Status Allmäntillstånd: Slö, orkar inte titta upp. Irritabel. Ingen feber. Kapilläråterfyllnad 3,5 s. Munhåla och svalg: Oretat. Lätt torra slemhinnor. Öron: Inspekteras utan anmärkning bilateralt. Ytliga lymfkörtlar: Inga förstorade på rutinstationer Hjärta: Regelbunden rytm, tachykardi, inga hörbara bi- eller blåsljud. Lungor: Lugn andning, rena andningsljud bilateralt. Buk: Generellt öm. Inga palpabla patologiska resistenser. Lab CRP 20, syra-bas pH 7,31, BE -14, natrium 147, kalium 3.9, glukos 4,7. 
+
+
+
+***Svar***
+
+13mån flicka, tidg frisk, söker pga kräkningar + diarrer sedan 4d. Epidemiologiskt har en 4åå storebror. Kräktes 4d sedan 4ggr, sedan inget. Därefter tillkomst stora vattentunna diarrer, 6-8/d. Senast kända vikt 10.5kg , på akuten 9.4kg. Otillräckligt vätskeintag idag + ingen miktion. Status slö, orkar ej titta upp, kap ref 3.5s, torra slemihinnor, takykard, rena andningsljud. CRP 20, kompenserad metabol acidos. Suspekt gatroenterit, med signifikant vätskeförlust, sannolik deficit 10%. Diff rotavirus infek, ell bakteriell genes (shigella, salmonella?). Inlägges för nutrition och rehydrering. Infart på akuten mtp kräkningar. 20mL/kg RA bolus. Rehydrering 5% kroppsvikt RA över 4h. Underhåll plasmalyte 1000mL 24h + resterande 5% vätskedeficit. PCR viruspanel, F-odling, S-osmol, p-krea. Inläggning BAVA. PEWS x8. Följa blodgas för vätskebalans. 
+
+
+
+
+
 ## Professionell Utveckling
 
 ### Anamnes
@@ -5912,6 +6239,19 @@ Intagningsorsak 2 månaders pojke som inkommer med hosta Socialt: Sammanhållen 
   * Tar anamnes enligt HEADS för att få en psykosocial bakgrund 
   * rätt: Informerar om tystnadsplikten och frågar Gustav om du och han kan prata i enrum 
   * Informerar om hur viktigt det är att Gustav berättar allt som kan vara väsentligt för att förstå hans besvär. 
+* Du ser i tidboken att du ska träffa Max, 15 år, för första gången. Han har akut intermittent porfyri och denna gång kommer han ensam till mottagningen. Du berättar om den villkorade tystnadsplikten och frågar om det är ok att du ställer några frågor för att lära känna honom, utöver det du läst i journalen. Din tanke är att ta en ungdomsmedicinsk anamnes enligt internationell standard, så du planerar att fråga om: Välj ett alternativ: 
+  * Skola, arbete, koncentrationsförmåga, suicidtankar, sex 
+  * Hem, skola, pubertet, suicidtankar, tidigare sjukdom 
+  * Hem, sömn, ärftlighet, droger, sex 
+  * Hem, skola, fritid, droger, sex 
+  * Hem, sömn, pubertet, sex, fritid 
+  * // HEADS. Home, education, activity, drugs, sex
+* Minderåriga har rätt till information och delaktighet i vård och beslut. Vilket juridiskt stöd har du för att erbjuda ungdomar enskilt samtal samt sekretess gentemot vårdnadshavaren? 
+  * Offentlighets-och sekretesslagen, Socialtjänstlagen och Journallagen 
+  * Föräldrar kan enligt prejudicerande fall avsäga sig rätten till information 
+  * rätt: Hälso-och sjukvårdslagen, Offentlighets-och sekretesslagen, Föräldrabalken, Patientsäkerhetslagen 
+  * Indirekt lagstöd genom att journal på nätet bara kan läsas av vårdnadshavare fram till 13-årsdagen
+  * Det saknas juridiskt stöd, det finns endast rådgivande riktlinjer 
 
 
 
@@ -5923,9 +6263,41 @@ Intagningsorsak 2 månaders pojke som inkommer med hosta Socialt: Sammanhållen 
 
 
 
+### Misshandel
+
+***Presentation***
+
+* **6. En 5 årig flicka inkommer till akuten en söndagskväll kl 21 tillsammans med hennes mor. Föräldrarna som är skilda befinner sig i en vårdnadstvist om flickan. Mamma berättar att flickan har blåmärken på kroppen efter att hon vistats hos sin pappa i helgen. Flickan själv vill inte berätta vad som har hänt. I status kan du se att det finns blåmärken av ganska färsk art på bål och armar men även på underben. Även något blåmärke på kinden. Ange 6 olika åtgärder eller ställningstaganden som är obligatoriska i denna situation (3p)** 
+  * Akut remiss fotografi blåmärken
+  * Dokumentera dessa nogrant i journal
+  * Kontakta senior kollega eller bakjour
+  * Ögonbottenspegling
+  * Inläggning för vidare utredning
+  * Status inkl ortopediskt sådant
+  * Konsultera senio kollega gällande helkroppsrtg
+  * Undersökning fr topp t tå
+  * prover: koagulationsprover, utesluta trombocytopeni, blodstatus. [leverstatus, njurprover]
+  * Orosanmälan till socialtjänsten [ingen polisanmälan?]
+* **Föräldrar som kommer till akutmottagningen med Elsa 8 månader. Föräldrarna förklarar att Elsa har ramlat från skötbordet och har varit slö sedan dess. I status hittar du en slö flicka som gnyr och som har blåmärken på rygg, armar och ben. Hon verkar ha ont när du undersöker höger arm. På frågan om alla blåmärken svarar föräldrarna att hon hade ramlat tidigare i veckan från en soffa och nu skötbordet. Du gör ett noggrant status i vilket du kan notera blåmärken av olika åldrar. Du försöker få ihop statusfynden med anamnesen och känner en oro för omsorgssvikt.** **Hur handlägger du Elsa?** 
+  * Nämn 5 åtgärder du behöver göra inom de närmsta timmarna
+    * Misstanke grov misshandel av barn: SOL anmälan
+    * kontakte med bakjour
+    * Akut remiss helkroppsfotografering och dokumentation
+    * Helkroppsrtg, ev DT
+    * Noggrant beskriva fynden i journal
+    * inläggning'
+* **Barn som i samband med statusundersökning – oavsett orsak till läkarbesöket - uppvisar flertal blåmärken, eller enstaka blåmärken på avvikande lokalisationer (se röda markeringar på bilderna nedan), bör göra att läkare överväger barnmisshandel som möjlig orsak – i synnerhet om blod- och koagulationsstatus är utan anmärkning. Ange i punktform (4 st) hur du – i samråd med din bakjour – handlägger ett fall där du misstänker att ett barn kan ha blivit utsatt för fysisk misshandel.** 
+  * Inläggning
+  * Helkroppsrtg
+  * Fotografering, dokumentration av skador på kroppen
+  * Ögonbottenspegling (oftalmoskop)
+  * Övriga punkter: Koagulationsprover, orosanmälan
 
 
 
+
+
+<img src="./imgs/ped_sam_110421_eIDbVPeaFz.png" alt="eIDbVPeaFz" style="zoom:50%;" />
 
 
 
@@ -6016,6 +6388,18 @@ Ataxic cerebral palsy is due to [...] damage.
   * Utgjutning hö höft på ultraljud, svullen fotled vä, ANA positiv 
   * rätt: Svullet vä knä och svullen hö handled, ANA positiv 
   * Svullna mcp (metacarpopfalangeal) och pip (proximala interfalangeal) leder symmetriskt, svullet knä vänster, ANA negativ 
+* Det finns flera saker som karaktäriserar den typiska barnreumatiska sjukdomen, och som skiljer den från vuxenreumatisk sjukdom. Vilka symptom och lab är typiska för den vanligaste formen av barnreumatisk sjukdom? 
+  * Oligoatrit, anti-CCP ak, uveit 
+  * rätt: Oligoartrit, ANA pos, uveit 
+  * Polyartrit, rheumafaktor pos, små leder 
+  * Polyartrit, ANA pos, stora leder 
+  * Polyartrit, psoriasis, anti-CCP ak 
+* Du sitter på en barnläkarmottagning och Anna 4 år kommer till din mottagning. Hon har haft ett svullet höger knä och en svullen vänster fotled i många veckor. Hon är stel på morgonen och det tar ett par timmar innan hon har normal gång. Hon har en mormor som har ledgångsreumatism i övrigt inga reumatiska sjukdomar i närmaste släkten. Anna blev fästingbiten i somras men fick ingen ring runt bettet. I status kan du konfirmera anamnesen. Övrigt ledstatus är utan anmärkning Du misstänker en diagnos och beställer prover. Vilket alternativ stämmer bäst med din bedömning och plan: 
+  * Psoriasisartrit. Blodstatus, CRP och SR, Borreliaserologi 
+  * Rät: Juvenil idiopatisk artrit. Borreliaserologi, Blodstatus, CRP och SR, ANA 
+  * Reumatoid artrit. Blodstatus, CRP och SR, Borreliaserologi, Reumafaktor och anti-CCP Juvenil idiopatisk artrit. Borreliaserologi, blodstatus, CRP och SR, Reumafaktor och anti-CCP 
+  * Borreliaartrit. Blodstatus, CRP och SR, Borreliaserologi, ANA, Reumafaktor och anti-CCP 
+
 
 
 
@@ -6076,11 +6460,29 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ### Allmänt
 
+## Toxikologi
 
+### Alkoholintox
 
+### Paracetamolintoxikation
 
+***Presentation***
 
-
+* **Malin, 18 månader inkommer med sin mormor till barnakuten där du är jour. Mormor hittade Malin för ca en halvtimme sedan sittandes på golvet i badrummet lekande med en öppnad burk tabletter paracetamol. Du undersöker Malin som är glad och opåverkad. Mormor har ingen aning om hur många tabletter som fanns i burken, och det går inte att utesluta att Malin fått i sig tabletter.** 
+  * Vilka blir dina ordinationer gällande provtagning
+    * Blodgas
+    * Blodstatus
+    * kreatinin
+    * leverprover
+    * p-paracetamol
+  * Vilken behandling görs akut
+    * Aktivt kol
+  * Vilken antidot kan komma att bli aktuell, o varför viktigt att påbörja i tid
+    * Acetylcystein
+    * Skydda levern
+  * När du tittar i jopurnal ser att hon var inne med vätskande brännskada armen, efter att hon fått te över sig då ingen vakade över henne
+  * vilken ytterligare åtgärd behöver du nu vidta
+    * Orosanmälan
 
 
 
@@ -6104,7 +6506,7 @@ Ataxic cerebral palsy is due to [...] damage.
   * ORS 500 ml på 2 timmar följt av välling underhåll 50 ml per timme 
   * ORS 500 ml på 4 timmar följt av välling underhåll 100 ml per timme + förluster med ORS 
   * ORS 200 ml på 2 timmar följt av välling underhåll 50 ml per timme 
-* Elsa 1 år, 
+* **Elsa 1 år,** 
   * tidigare frisk, har haft frekventa diarréer i 3 dagar nu. Hon kräktes de första två dagarna men ej idag. Hon har ett äldre syskon hemma med maginfluensa. Hon kommer till dig på barnakuten tillsammans med sina föräldrar pga trötthet och ovilja att dricka. Hennes blöjor är lättare än vanligt. Du vill rehydrera enteralt i första hand och ber en sjuksköterska sätta en nasogastrisk sond. Du har tagit en blodgas som visar normala elektrolyter. Hon är normalstor för åldern. (1 p) 
   * Vad, hur mycket och hur länge ger du? 
   * Ringer Acetat, 1000 ml på 24 timmar 
@@ -6113,25 +6515,30 @@ Ataxic cerebral palsy is due to [...] damage.
   * Vätskeersättning, 1000L på 24 timmar 
   * rätt: Vätskeersättning 500 ml på 4 timmar [ORS via sond alltså]
   * // De frågar om rehydrering vilket innebär RA/ORS. Rehydrering innebär också en tid på 4 timmar. 5% av flickans kroppsvikt. Man kan tänka sig att hon väger kanske ca 10 kg. 
-* Noel, 11 månader, 
+* **Noel, 11 månader,** 
   * kommer med sin far till akuten pga gastroenterit sedan 2 dagar. Han behåller inget, kräks och har vattniga diarréer. Det är svårt att få i honom vätska. Han är slö och har torra slemhinnor, tachykard och har gått ner ca 1 kg i vikt. Han väger nu 10 kg. Blodgasen visar S-Na 156 mmol/l. Du ger en uppvätskning och därefter underhållsbehandling. Vilket av nedanstående stämmer som underhållsbehandling under 36 timmar? 
   * 5% glukos, Na 80-120, K 20, 2800ml + förluster 
   * rätt: 5% glukos, Na 40, K 20, 1500ml + förluster 
   * 10% glukos, Na 80-120, K 40, 1500ml + förluster 
   * 10% glukos, Na 80-120, K 20, 2800ml + förluster 
   * Ringeracetat, 2800ml + förluster 
-* Klara 1 år tidigare frisk har haft kraftiga kräkningar de 3 senaste dagarna, ca 3-4 per dag, och ca 10 stora diarréer dagligen. Hon vägde 11,9 kg innan hon blev sjuk och väger nu vid akutbesöket 10,6kg. Hon är trött och irritabel. Kapilläråterfyllnad är 3,5s. Femoralis pulsar är svåra att känna. Blodgasen visar pH 7,31, BE -11, Na 160 mmol/L, K 4 mmol/L. Med denna sjukdomsbild – hur vill du vätskebehandla patienten? 
+* **Klara 1 år tidigare frisk har haft kraftiga kräkningar de 3 senaste dagarna, ca 3-4 per dag, och ca 10 stora diarréer dagligen. Hon vägde 11,9 kg innan hon blev sjuk och väger nu vid akutbesöket 10,6kg. Hon är trött och irritabel. Kapilläråterfyllnad är 3,5s. Femoralis pulsar är svåra att känna. Blodgasen visar pH 7,31, BE -11, Na 160 mmol/L, K 4 mmol/L. Med denna sjukdomsbild – hur vill du vätskebehandla patienten?** 
   * Bolus, uppvätskning 5% av kroppsvikten , basalbehovet under 36 timmar 
   * Bolus, uppvätskning 5% av kroppsvikten, basalbehovet under 36 timmar + 10% av kroppsvikten + ersättning av förluster 
   * Uppvätskning 5% av kroppsvikten , basalbehovet under 24 timmar+ ersättning av förluster Bolus, uppvätskning 5% av kroppsvikten , basalbehovet under 24 timmar 
   * Uppvätskning 5% av kroppsvikten , basalbehovet under 36 timmar + ersättning av förluster 
-* Samira är 7 månader gammal. Hon är sedan gårdagen inlagd p g a gastroenterit. Hon har både en nasogastrisk sond och en perifer venkateter. Hon har efter initial 5% uppvätskning erhållit underhållsvätska via sonden. De senaste timmarna har hon haft ett flertal voluminösa vattentunna diarréer men inga kräkningar det senaste dygnet. När du undersöker flickan ser du att hennes läppar är lite torra, men i övrigt är hon relativt pigg. Hon har just kissat en mindre volym mörkgul urin i samband med blöjbyte. Kapillär återfyllnad är 2 sekunder. Pulsen är normal för åldern. Hon har gått ner ytterligare sedan vikten igår efter uppvätskningen och väger nu 8,0 kg. Aktuell blodgas visar korrigerad metabol acidos och normala elektrolyter. Du vill nu ordinera vätska. 
+* **Samira är 7 månader gammal. Hon är sedan gårdagen inlagd p g a gastroenterit. Hon har både en nasogastrisk sond och en perifer venkateter. Hon har efter initial 5% uppvätskning erhållit underhållsvätska via sonden. De senaste timmarna har hon haft ett flertal voluminösa vattentunna diarréer men inga kräkningar det senaste dygnet. När du undersöker flickan ser du att hennes läppar är lite torra, men i övrigt är hon relativt pigg. Hon har just kissat en mindre volym mörkgul urin i samband med blöjbyte. Kapillär återfyllnad är 2 sekunder. Pulsen är normal för åldern. Hon har gått ner ytterligare sedan vikten igår efter uppvätskningen och väger nu 8,0 kg. Aktuell blodgas visar korrigerad metabol acidos och normala elektrolyter. Du vill nu ordinera vätska.** 
   * Intravenös Ringeracetat 800 ml på 4 timmar följt av underhållsbehandling med välling via sonden. 
   * Underhållsdropp med Plasmalyte Glukos eller isoton 5% glukos med elektrolyter, 800 ml på 24 h. 
   * Intravenös bolusvätska med Ringeracetat 160 ml följt av rehydrering med Ringeracetat 400 ml på 4 timmar. 
   * Avvaktar rehydrering då flickan just kissat. 
   * Ordinerar underhållsdropp med glukoslösning intravenöst. 
   * Rehydrering via sond med ORS/vätskeersättning 400 ml på 4 timmar följt av underhållsbehandling med välling måltidsvis via sonden alternativt via nappflaska. 
+* **Små barn är känsligare för dehydrering jämfört med vuxna för att de har en ökad vattenmängd, högre vattenomsättning och omogna njurar. Ali 1 år är tidigare frisk, kommer in till akuten med sin pappa för att han är trött och har diarréer. Han vägde för en vecka sedan på BVC 10,0 kg. Idag väger han 9,5 kg. Föräldrarna har försökt med vätskeersättning hemma utan bra resultat. I status: afebril, lite hängig, men ej slö, Vill ej dricka från flaska. Kapillär återfyllnad 2 sekunder. Hur vill du rehydrera Ali?** 
+  * Uppvätskning med Ringeracetat 500 ml, underhållsbeh med glukos 10% + elektrolyter 
+  * Uppvätskning med Ringeracetat 250 ml, underhållsbeh med glukos 10% iv med elektrolyter Bolus Ringeracetat, Uppvätskning med vätskeersättning i sond, fortsatt underhåll i sond tills han orkar äta själv 
+  * Bolus Ringeracetat, uppvätskning med Ringeracetat, underhållsbeh med glukos 5% iv med elektrolyter 
+  * Rätt: Uppvätskning 500 ml vätskeersättning i sond, fortsatt underhåll i sond tills han orkar äta själv 
 
 
 
@@ -6438,6 +6845,12 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
   * Går utan stöd, pincettgrepp, tittar efter tappad leksak 
   * Reser sig mot stol eller soffa, staplar 2 -3 klossar, säger 8 – 10 enkla ord 
   * Går med stöd, petar näsan, sjunger nationalsången 
+* Nutrition är en avgörande faktor för ett barns tillväxt. Vilket alternativ stämmer bäst överens med vilka hormoner som driver tillväxten vid 4 mån ålder? 
+  * Tillväxthormoner och kortisol 
+  * rätt: Thyroideahormoner och kortisol 
+  * Thyroideahormoner och androgener 
+  * Thyroideahormoner och tillväxthormon 
+  * Tillväxthormoner och LH/FSH 
 
 
 

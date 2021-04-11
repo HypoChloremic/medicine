@@ -1643,7 +1643,7 @@ inget specifikt säkerställande prov
 * 1 ml/kg/minut under 20-30 minuter Ringer Acetat®
 * •Motsvarande 20 -30 ml/kg–Dvs 2 -3% av kroppsvikten
 * •Kan behöva höjas till sammanlagt 4% av kroppsvikten!
-* •Evföregås av albumin infusion
+* •Ev föregås av albumin infusion
 * •Om misstanke DIC eller koagulationspåverkan ge  ̈färskfrusen AB-plasma ̈10 ml/kg
 
 ##### Antibiotika

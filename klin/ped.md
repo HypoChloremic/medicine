@@ -3400,6 +3400,25 @@ Enligt ABCDE
   * Feber
   * Petekier
   * Ledsmärta / skelettsmärta
+* **3 åriga Vera har remitterats från Närakuten p g a svängande subfebrilitet ca 37,8-38,3 i temp och blekhet sedan 2 veckor tillbaka. Hon har inte haft hög feber. CRP 26. Hon har även varit trött, klagat över smärta i kroppen och fått enstaka centimeterstora blåmärken på armar och ben.** 
+  * VIlken diagnos bör primärt uteslutas
+    * leukemi
+  * VIlka blodprover beställder du akut för att få stöd i din diagnosmisstanke
+    * Blodstatus + diff
+  * vad visar de i typfallet, förklara kort
+    * Trombocytopeni
+    * anemi
+    * leukocyutos eller leukopeni
+    * benmörgshömning med ökad proliferation i en cellinje
+  * Hur bekräftas diagnosmisstanken
+    * Benmärgsprov
+  * Du minns en annan diagnos som förkommer i hennes ålder, som kan ge spridda blåmärken och petekier, över hudkostymen, men där barnen som drabbas brukar ha ett gott allmäntillstånd
+  * vilken diagnos
+    * ITP
+  * Hur ställer diagnos
+    * Blodstatus med trombocyter
+  * Vilken mekanism bakom sjd bild
+    * Antikroppsbildning mot trombocyterna
 
 ### Lymfom
 
@@ -6096,6 +6115,26 @@ Intagningsorsak 10 årig flicka med Hyperglukemi Ärftlighet: Farmor med tyreoid
 2åå gosse, söker med misstänkt Kawasaki. Förkylningsastma som beh med Airomir + flutide regelbundet under vinter. Nu Feber + dålig aptit senaste 6 dagarna. Högt CRP (110). Viktnedgång senaste dagarna sannolikt pga dehydrering och dålig nutrition, påtagligt  gnällig senaste dygn.  På akuten status uppfyller kriterier för kawasaki (vg se status). Cirkualtoriskt stabil (god CRF), inga tecken chock, meningit. Differentialdiagnostiskt osannolikt mononukleos, läkemedelsreaktion (steven johnson), eller sepsis. Ska efterfråga vaccinationsstatus. Planeras inläggning för rehydrering och nutrition. PVK  för uppvätskning och nutrition mtp MoS status. Ställningstagande inför IvIg efter diskussion med Flöde. PEWS x6. 
 
 
+
+#### IBD
+
+15 år gammal tjej på barnakuten Kontaktorsak: Buksmärtor och viktnedgång. Remiss från VC för utredning. Hereditet: Mamma med Levaxinbehandlad hypothyreos Epidemiologi: Ingen utlandsresa. Ingen sjuk i omgivningen. Tidigare sjukdomar: Sökt vård p g a buksmärtor på vårdcentralen för 6 mån sedan. Ingen utredning gjord. I övrigt frisk. Aktuellt: Varierande grad av buksmärtor den senaste månaden. Frekventa mjuka och lösa avföringar, motsvarande Bristol 4-5. Vid något tillfälle noterat blodstrimmor i avföringen. Inga kräkningar. Ingen feber. Ätit sämre, har gått ner 4 kg i vikt sedan debut. Orkar inte gå i skolan. Är rädd för att behöva tömma tarmen på skoltoaletten. Status: AT: Påtagligt trött, lite blek. Respiratoriskt och cirkulatoriskt stabil. Ingen feber. Cor: Ua. Inga biljud. Normofrekvent. Lungor: Ua Buk: Något uppblåst, ömmar lätt i samtliga kvadranter. Tarmljud ua. Lab: Blodstatus med Hb 90, MCV och ferritin lågt. Leverstatus med lätt stegrade transaminaser. Albumin något sänkt. SR 35. CRP 27. 
+
+
+
+diff: kan ej utesltua celiaki, gastroenterit, 
+
+
+
+#### Ikterus
+
+2 veckor gammal gosse på barnakuten Kontaktorsak: Ikterus och viktnedgång. Remitterad från BVC. Graviditet och nyföddhetsperiod: Normal graviditet och okomplicerad partus v 37+2. Moderns första barn. Tidigare sjukdomar: Frisk Aktuellt: Ammat allt sämre de senaste dagarna. Verkat lite trött. Modern osäker på hur mycket mjölk hon har i brösten. Vill inte tillmata för att riskera att amningen inte ska fungera på sikt. Ingen feber eller andra tecken till infektion. Inga kräkningar. Normal gulfärgad avföring. BVC-sköterskan noterat att gossen är gul i ögonvitorna. Status: AT: Initialt lite trött, men relativt pigg då han vaknar till i samband med undersökningen. Ikterisk hud. Normalt andningsmönster. Kap refill 2,5 sek. Temp 37,1. Saturation 99%. Cor: Normala hjärtoner. HF 130/min. Lungor: Rena andningsljud bilat Buk: Mjuk. Ingen organförstoring Neurologi: Normal fontanelltension. Tonus väsentligen ua. Vikt: 4,0 kg. Födelsevikt: 4,5 kg. Lab: Normalt blodstatus. CRP 5. Total bilirubin stegrat, 362. Övre acceptabel gräns: 350. Konjugerat bilirubin utan anmärkning. 
+
+
+
+***Svar***
+
+Notera att övre normala gräns är precis nära vårt värde här. Är möjligt tt bilirubin värdet inte är alltför högt att misstänka kernikterus. 
 
 
 

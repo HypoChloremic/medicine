@@ -518,6 +518,16 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * IBD: F-kalprotektin
   * Gluteintolerans: transglutaminasantikroppar
   * Hyperthyreos: TSH
+* **Fråga 16 Lisa 10 år gammal kommer till barnläkarmottagningen med sina föräldrar då hon klagar över buksmärtor. Smärtan är lokaliserad kring naveln och kommer och går. Hon är tidigare frisk. Ingen feber. Smärtan upprepar sig ett par gånger om dagen men det kan gå dagar emellan och detta har pågått i ca 3-4 månader. Hon har formad avföring varannan dag utan blod och slem. Du finner inget avvikande i status. Blodstatus och infektionsprover är normala, U-sticka är negativ. Aptiten varierar. På viktkurvan har hon fallit av 0,5 SD sedan senaste mätningen. Nämn 3 möjliga differentialdiagnoser baserad på ovanstående anamnes och ge exempel på en analys du saknar. 2,5p** 
+  * Celiaki
+  * (Födoämnesallergi..)
+  * Ångestrelaterat?
+* 8mån pojke? (generellt under 2åå)
+  * Utspänd buk
+  * diarre
+  * bristande tillväxt
+  * käknignar
+  * 
 
 
 
@@ -568,6 +578,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Hur vill du behandla Yasmins eksem
     * Mjokgörande
     * ? Kortisonsalva (Grupp 1)
+* Sebastian 3 år har besvär med eksem och utreds för födelseämnesallergi. Majoriteten av alla akuta allergiska födoämnesreaktioner beror på några få födoämnen. Vilka är de vanligaste födoämnesallergierna för spädbarn respektive förskolebarn? 
+  * Spädbarn; mjölk och ägg. Förskolebarn fisk och jordnötter. 
+  * rätt: Spädbarn: mjölk och ägg. Förskolebarn: nötter och jordnötter. 
+  * Spädbarn: mjölk och fisk. Förskolebarn: ägg och soja. 
+  * Spädbarn: soja och fisk. Förskolebarn: soja och nötter. 
+  * Spädbarn: jordnötter och fisk. Förskolebarn: nötter och jordnötter. 
 
 ### Komjölksallergi
 
@@ -1499,6 +1515,27 @@ Enligt ABCDE
 
 
 
+### Funktionell Dyspepsi
+
+***Presentation***
+
+* ***9åå gammal flicka kommer till barnmottagningen med remiss fr allmänläkare***
+  * ***besöksorsak***: bybesök, remiss fr VC, frågeställning funktionella buksmärtor
+  * ***Socialt***: åtföljs av pappa, familj fr irak, flickan är 2/3 barn i sammanhåööen familj. spelar i ett fotbollslag 2ggr/v
+  * ***ärftlighet***: båda föräldrar har ahft magsår påvisat med gastroskopi för flera år sedan. efter beh besvärsfri, inga autoimmuna sjd
+  * ***tidigare sjd***: tidig väs fridk
+  * ***aktuellt***: 
+    * återkommande buksmrätor halvår, Har under den senaste tiden klagat på ont i magen ett par gånger i veckan. Mår vid dessa tillfällen oftast illa och hon har kräktsnågon gång. Upplever att besvären förvärras efter matintag och aptiten är sparsam. 
+    * Inga nattliga uppvaknanden pga smärta. Skolfrånvaro p.g.a.buksmärtorna ungefär två dagar per månad. Har under det senaste halvåret haft omväxlande hård och lös avföring(Bristol 2–6), frekvens 0–3gånger/dag.Inget blod i avföringen. Föräldrarna oroar sig för att flickan kan ha magsår
+  * ***Status***: 
+    * AT: Ledsen, men opåverkat.
+    * MoS: u.a.
+    * Ytliga lymfkörtlar: Flera mm-stora körtlar i hals-och nackregionen.  
+    * Hjärta: u.a.Lungor: u.a.Buk: Normalt utseende. Mjuk och oöm. Ingen uppenbar lever-eller mjältförstoring. Inga resistenser.Längd: 133cmVikt: 26kg
+  * Differentialdiagnoser?
+    * IBS
+    * Funktionell dyspepsi
+
 
 
 ### Funktionell förstoppning
@@ -1506,6 +1543,16 @@ Enligt ABCDE
 ***Diagnos***
 
 * Förstoppning utan känd orsak
+* ***Diagnos***
+  * **Diagnoskriterier (enligt de pediatriska Rom III-kriterierna, 2006) i frånvaro av organisk orsak:** 
+    * ***< 4 år: 2 eller fler kriterier i en månad*** 
+    * ***> 4 år: 2 eller fler kriterier i 2 månader***  
+      -  ≤ 2 avföringar per vecka  
+      -  Aktivt uppskjutande av tarmtömningen, ”håller tillbaka” 
+      -  Avföringsinkontinens en gång/vecka  
+      -  Smärta och/eller hård avföring vid tarmtömningen  
+      -  Palpabel avföring i ändtarmen  
+      -  Voluminösa tarmtömningar (risk för stopp i toaletten)
 
 ### Förstoppning
 
@@ -1537,7 +1584,7 @@ Enligt ABCDE
 
 
 
-### Gluteinitolerans
+### Glutenintolerans
 
 ***Presentation***
 
@@ -2074,6 +2121,13 @@ Enligt ABCDE
 
 * Kontaktorsak8åriga Benjaminkommer till akutmottagningentillsammans med mammapgafeber och utslag.SocialtBarn 1/1, separerade föräldrar.Tidigare sjukdomarTidigare frisk förutomÖLI.EpidemiologiIngenAktuelltHängig sedan 4 dagar, feber sedan en vecka, har haft upp mot >39 graderde senaste dagarna. Under natten fått utslag över kroppen.Exantemenkliar ej.Har ont i halsen.Vill inteäta och drickerskralt.StatusAllmäntillstånd:Temp 40,1 °C.Trött, men vaken.Medverkarvid undersökningen. Kapillär återfyllnad 2 sekunder. Saturation: 96 %Vikt: 29kgMunhåla och svalg:Rodnade tonsillermedbeläggningarÖron: Inspekterasoretatbil.Ytliga lymfkörtlar:Förstorade och ömma körtlar palperascervikaltbilateralt.Hjärta:RR,takykard125. Svagt systoliskt blåsljud, harmoniskt.Lungor:Normala andningsljud bil, ingaronkieller rassel.Buk:Mjuk och oöm. Inga organförstoringar.Hud:Lätt upphöjdaröda småmillimeter storaexanthemsom började i armhålor och ljumskar och har spridit sig på kroppen. Är blek precis runt munnen. Är borttryckbara.Känns som sandpapper vid palpation.Ögon:Ingen konjunktivit.Lab:CRP 90.
   * Sannolik diagnos: scharlakansfeber
+* På vårdcentralen undersöker du Ali 6 år som insjuknade för 2 dagar sedan med feber, 39,5C. Han är trött och tagen, vägrade äta och har knappt druckit något det senaste dygnet. För ett par timmar sedan har det tillkommit ett rött knottrigt utslag i axillerna och ljumskarna som börjar sprida sig. Utslagen är små röda och upphöjda som bleknar vid tryck. Han har lätt förstorade lymfkörtlar på halsen och rodnade tonsiller. Lillebror som är 4 år är med på besöket och pappa berättar att även han har börjat äta sämre och även fått feber under dagen. 
+  * Vilken diagnos är mest sannolik och hur bekräftar du den? 1p 
+      * Scharlakansfeber. Är egentligen en klinisk diagnos men man kan ta Strep A test. 
+  * Med vilket läkemedel behandlar du Ali? 1p 
+      * Kåvepenin
+  * Hur gör du med brodern? 1p 
+      * Behandlar honom också 
 
 
 
@@ -2577,6 +2631,22 @@ Enligt ABCDE
 
 
 
+#### Mykoplasma pneumona
+
+***Presentation***
+
+* **Olle 15 år kommer till husläkarmottagningen då han har haft ca 38,5C feber i och torr hosta sedan 8 dagar. Storebror och mamman har varit sjuka under en längre tid med liknande symtom men har blivit bättre nu utan behandling. Efter kontakt med KRY förskrevs Kåvepenin för 3 dagar sedan men Olle har inte förbättrats sedan dess. I status noteras rassel basalt bilateralt, blodstatus och diff ua. CRP 65. Lungrtg visar interstitiella infiltrat ffa basalt bilateralt. Saturation 95%.** 
+  * **a. Vilket agens misstänker du i första hand? 1p**
+    * **Mycoplasma pneumoniae?**
+  * b. Hur bekräftar du diagnosen? 1p** **
+    * **NPH -PCR**
+  * c. Hur behandlar du Olle? 1p
+    * ** Erytromycin/Azitromycin 
+
+
+
+
+
 #### Pertussis
 
 ***Presentation***
@@ -2706,6 +2776,43 @@ Enligt ABCDE
   * rätt?: Hemgång. Ceftibuten (en peroral cefalosporin) per oralt. Telefonuppföljning följande dag för att meddela urinodlingssvar och avsluta/fortsätta antibiotikabehandlingen. 
   * Inläggning. Blåspunktion. Cefotaxim intravenöst. 
   * Inläggning. Meronem intravenöst. Remiss för ultraljud njurvägar. 
+
+
+
+### Omfalit
+
+
+
+***Presentation***
+
+* **En mamma söker dig på barnakuten pga att hennes 10 dagar gammal pojke har en ful navel. Han har kräkts lite sedan igår och har temp 38,8. I status finner du en smetig, illaluktande navel med en rodnad runt på ca 6 cm i diameter.** **
+  * Vilken är diagnosen? Hur handlägger du fallet? 3p** 
+  * Omfalit
+  * Inläggning med odling (blod samt från navel) samt antibiotikabehandling iv. PRovtagning (blodstatus, blodgas). Tvätta rent och fukta naveln med klorhexidin. Vanligaste agens är GBS och stafylokocker. Risk för sepsis. 
+
+
+
+***Etiologi och patofysiologi***
+
+* GBS
+* Stafylokocker
+
+
+
+***Utredning och handläggning***
+
+* Blodstatus + blodgas
+* Blododling
+* Odling fr naveln
+
+
+
+***Behandling***
+
+* Hygien
+  * Tvätta rent
+  * Rengöra + klorhexidin naveln
+* Antibiotika: 
 
 
 
@@ -3990,8 +4097,11 @@ Enligt ABCDE
   * gastroenterit 
   * rätt: invagination 
   * meningit 
-
-
+* Lina, 8 månader gammal, söker barnakuten på kvällen med sin pappa. Han berättar att Lina har sedan morgonen varit skrikig under några minuter och då blivit påverkad och blek. Hon fortsatte med skrikepisoderna under dagen. Emellan dessa skrik episoder är hon i stort sätt som vanligt. Hon har varit lite förkyld, pappan undrar om det kan vara öronen. Hon har ingen feber. Kissar, avföring senast igår kväll. Hon har inte kräkts men verkar må lite illa av och till. Har ätit sämre idag. Nu är hon lugn och medverkar väl vid undersökningen. Du hittar inget anmärkningsvärt i status. 
+  * a. Vad är den troligaste orsaken till hennes besvär? 1p 
+      * Invagination
+  * b. Nämn en lämplig initial undersökning som kan bekräfta diagnosen. 1p 
+      * UL buk. 
 
 
 
@@ -4610,6 +4720,12 @@ En kort lista över kliniska manifestationer av CF:
   * Vilka 2 behandlingsalternativ bör övervägas
     * Farmakologisk: Adenosin (im?)
     * Konservativ: Valsalvamanöver, karotismassage
+* Andningskorrelerad sinusarytmi är vanligt hos friska barn, hjärtrytmen accelererar vid inspiration och blir långsammare vid expiration. Något som däremot är både ovanligt och potentiellt farligt är paroxysmal supraventrikulär takykardi (SVT). Vilket alternativ stämmer bäst på småbarn om SVT avseende hjärtfrekvens, initial behandling, vanligaste orsaken och dess klassiska EKG-bild när patienten inte har pågående SVT? 
+  * 220-300 slag/min, i.v. adenosin, AV-block, p-vågor utan relation till QRS-komplex 
+  * 350-400 slag/min, elkonvertering, okänd genes, lång QTc-tid 
+  * 150-200 slag/min, vagal stimulering, WPW-syndrom, Sinusrytm med deltavåg 
+  * Rätt..: 220-300 slag/min, vagal stimulering, WPW-syndrom, Sinusrytm med deltavåg 
+  * 150-200 slag/min, i.v. adenosin, okänd genes, Sinusrytm med deltavåg 
 
 ### Obstruktiv bronkit
 
@@ -5025,6 +5141,9 @@ En kort lista över kliniska manifestationer av CF:
   * Hjärntumlr
   * kontakt barnneurolog + radiologisk undersökning (MR hjärtna)
   * fullständigt kliniskt status
+* Gustav 14 år kommer till dig pga huvudvärk som kommer nästan dagligen de senaste 2 månaderna. Du är orolig för att missa hjärntumör. Nämn 2 anamnestiska uppgifter och 2 statusfynd du behöver som stöd för din diagnosmisstanke. 2p 
+  * Morgonhuvudvärk? Kräkningar?
+  * Abducenspares, ataxi
 
 
 
@@ -7144,6 +7263,19 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
   * ungefärliga mL per d, hur mga mål per d
     * Ska äta var 4e timme-3e timme
     * 150mL/kg/d => 600mL/d
+*  **Elsa 8 månader är med sin mamma på BVC för viktkontroll. Hon följer sin viktkurva och även utvecklingen. Mamman undrar lite om vad Elsa kan äta och om det finns något som hon måste undvika i Elsas kost.** 
+   * Vilket påstående stämmer bäst med de svenska näringsrekommendationerna för barn < 1 år? Barn yngre än 1 år skall inte äta: 
+   * Grönsaker, jordnötssmör, ägg, fisk. 
+   * Grönsaker, sirap, jordnötssmör, glutenfritt. 
+   * Socker, jordnötssmör, peppar, kött 
+   * Rätt: Hela nötter, honung, opastöriserad mjölk, extra salt. 
+   * Saft, sirap, fisk, ägg 
+
+
+
+#### Introduktion födoämnen
+
+* Honung: efter 1åå
 
 
 

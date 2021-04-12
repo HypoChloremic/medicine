@@ -1249,19 +1249,21 @@ cerivicit
       * Avgörande för rekommendationen är att det inte finns något vetenskapligt stöd för att cellprov för HPV är en mer effektiv testmetod än cellprov för cytologi i denna åldersgrupp. Dessutom är andelen kvinnor i åldern 23–29 år som bär på HPV mycket hög.
       * Risk överdiagnostik om man testar HPV för 23-29, vilket ger onödig mkt vård. 
       * HPV under 30år är oftsat **självläkande**, behöver inte negativ konekvens. 
-  * **HPV-screeningen**
+  * **HPV-screeningen**: Går ut på att man tar cellprov för HPV analys. Visar analysen HPV högrisk el liknande gör man ett ***REFLEXTEST***, alltså att labbet direkt automatiskt testar om proverna för cytologi för att se om det är cellförändringar. Detta behöver alltså patienten söka igen för. 
     * 32år-64år
     * 32år-50år: var tredje år
     * 50-64år: var sjunde år
     * 41åå: cytologi + HPV (ett extra test specifikt)
     * **Motiveringen**: 
       * Avgörande för rekommendationen är att HPV-test har en ökad cancerförebyggande effekt (jämfört med primär cytologisk analys), 
-      * !! **under förutsättning att positiva HPV-test följs upp med en cytologisk analys av eventuella cellförändringar.**
       * Enligt Socialstyrelsens rekommendation bör även de kvinnor som kallas vid cirka 41 år primärt analyseras för både HPV och cytologi. Detta för att säkerställa att samtliga cellförändringar upptäcks, även i de få fall som kan uppstå utan en aktiv HPV-infektion
   * Syfte cellprovtagning: upptäcka tidg förändringar för att kunna behandla de i tid innan evt cancer 
 * **Utredning på mottagning**
-  * **Kolposkopi**: är visuell inspektion cervix med special low-magnification microscope, in search for abnormaliteter aiming to identify och ta sample fr atypiska site for biopsi
-  * **Riktade biopsier**
+  * **Kolposkopi + riktade biopsier**: 
+    * Indikerat om screeningen (aka GSK) identifierat cellförändringar etc. 
+    * är visuell inspektion cervix med special low-magnification microscope, 20cm avstånd, när man ahr vidgat med plastspekulum 
+    * Acetoacetat (ättiksyra) + jod: jodnegativa områden tyder på cellförändringar. 
+    * in search for abnormaliteter aiming to identify och ta sample fr atypiska site for biopsi
   * **Bedömning**: vad som orsakar cellatypin; hur evt behandling ska ske; ger allmänt lugnande info
 
 
@@ -2191,7 +2193,7 @@ cerivicit
   * proper sens o ch spec
   * **Ultraljud + CA125**: har tillsammans inte lyckats öka överlevnaden i screeningform
 * **Undersökningsmetoder och poängsättning**
-  * <img src="./imgs/gyn_sam_300321_4Gil8MCGe8.png" alt="4Gil8MCGe8" style="zoom:50%;" />
+  * <img src="./imgs/gyn_sam_300321_4Gil8MCGe8.png" alt="4Gil8MCGe8" style="zoom: 25%;" />
   * RMI: UL + CA125
     * under 200 man behandlar på vanlig enhjet
     * över 200 man skickar till en cancerenhet för handläggning och behandling
@@ -2209,8 +2211,10 @@ cerivicit
 
 ***Behandling***
 
-* Hysterektomi
+* Kirurgi:
+  * SOE: detta verkar vara indikerat när man har Ovarialcancer
   * HNPCC-Lynch syndrome: De med familjär cancer syndrom bör genomgå hysterektomi?
+    * Hysterektomi
 
 
 
@@ -2218,9 +2222,63 @@ cerivicit
 
 ### Vulvacancer
 
+***Presentation***
+
+* 60åå kvinna
+  * Screeningprogram för cellprover, noterat förändringar vulvärt
+  * leukoplakiska förändringar nästan
+  * px visade VIN3
+  * föranledde resektion labia minora
+
+
+
+***Etiologi och patofysiologi***
+
+* VIN, vulvär-intraepitelial neoplasi: precancerösa lesioner. risk övergg cancer 3-4%. Latens 15-30år. 
+
+* HPV: högrisk HPV verkar ha en hand här också, med att den kan påverka epitelet t att förändras.
+* Lichen sclerosus: är en **annan orsak**. Ovanligare jfr HPV. 
+
+
+
+***Indelningar***
+
+* HPV-Associerad dysplasi; verkar som att man börjar gå ifrån CIN beteckningen, att man använder HSIL och LSIL framför CIN. 
+  * HSIL: highgrade inraepithelial lesion; tidigare uVIN, VIN2-3
+  * LSIL: low grade intraepithelial lesion; tidigare VIN1
+* Icke-HPV associerad dysplasi
+  * dVIN: differentierad VIN, relaterad t hudsjukdom
+
+
+
+***Kliniska kännetecken***
+
+* Långvarig klåda: att patienten under en tid gått med klåda (och sveda?). 
+
+
+
 ***Utredning och handläggnign***
 
-* PAD + kolposkopi + acetoacetat test
+* Kolposkopi + px: 
+  * att man kan kolposkopera denna också, 
+  * samt göra acetoacetat + jod för att hitta celler man bör plocka. 
+* VIN1: kontrolleras kolposkopi + px
+* VIN2: kontrolleras kolposkopi + px
+* VIN3: grava cellförändringar (CIS?)
+
+
+
+***Behandling***
+
+* **HSIL (alltså VIN3)**: Problemet är att man bänämner VIN2-3 HSIL.. ??
+  * **resektion** (problematiskt, för att man kan behöva lägga lambå), laserbehandling (epiteliala delen som man bränner bort). 
+  * **Laserbehandling**: risk för recidiv. ska ej göras behårade områden, där folliklar når ner t 3mm djup. 
+  * **Topikal behandling**: 
+    * imikvimod 5%, immunmodulerande.
+    * 5-fluorouracil (FU): topikal kräm. varierande respons för HSIL. tolereras sämre då lokala bieffekter inflammation, ödem, sårigheter
+  * **Fotodynamisk behandling**: PDT enstaka styduer
+* **Lichen sclerosus**: om lichen slerosus föreligger, man skiljer denna fr HPV orsakade (och HSIL, LSIL indelningen?)
+  * behandling kvarvarande lichen sclerosus i efterloppet
 
 
 

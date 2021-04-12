@@ -19,11 +19,15 @@
   * ***Lungor***: Normala andningsljud.Buk: buken palperas helt mjuk och utan några avvikelser.
   * ***PR***: vid inspektion ses liten analflik
 
+
+
 ***Bedömning o åtgärd***: 
 
 Enl status och anamnes ter det som att patienten inte är förstoppad just nu, utan att movicol behandlingen fungerat väl. 
 
 Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart)
+
+
 
 ***Differentialdiagnoser***
 
@@ -31,12 +35,16 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 * Komjölksallergi
 * Hypothyroidism
 
+
+
 ***Åtgärd***
 
 * Längd + vikt + tillväxtkurva (se till att man får mätvärdena fr skolan också)
 * ***Blodprover***: TSH, T4/T3 (TRAK, TPO?), blodstatsus (Hb, erytrocytindex), Ak-transglutaminas, elstatus, (CRP), B-glukos, (Vitamin panel inkl B12), (albumin för näringsstatus)
   * ***Menar att man ska ta IgA-transglut och Immunglob total...***
   * ***Det var normalt TSH, levrprover normala***
+
+
 
 ***gällande celiaki***
 
@@ -51,7 +59,7 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
     * selektiv IgA brist
     * glutenfri eller delvis glutenfri kost vid provtagning
     * immunsuppressiv beh
-  * ***SER MAN ETT BARN MED GLTUENFRIKOST, SKA MAN SÄGA T FÖRÄLDRARNA ATT LÄGGA TILLBAKA GLUTEN I KOSTEN. DE SKA FORTSÄTTA MED GLUTEN TILLS DE ÄR PÅ BARNGASTROENHET.***
+  * ***SER MAN ETT BARN MED GLUTENFRIKOST, SKA MAN SÄGA T FÖRÄLDRARNA ATT LÄGGA TILLBAKA GLUTEN I KOSTEN. DE SKA FORTSÄTTA MED GLUTEN TILLS DE ÄR PÅ BARNGASTROENHET.***
 * ***Vanligaste symptomet för celiaki hos barn***
   * ***är förstoppning***: notera att på 80 talket att man såg bilder med utptuande mage o diarrer, men dessa ser man inte längre
   * men bilderna som man såg på 80-talet ser man inte längre för att man kommer tidigare med föräldrarna till klinikerna. 
@@ -104,10 +112,12 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 ### Fall 2
 
 * ***2mån pojke, planerad ktrl BVC***
-* ***Socialt***: Första barnet till friska föräldrar som båda är födda i Turkiet men uppväxta i Sverige
-* ***Graviditet/nyföddhetsperiod:*** Komplikationsfri grav., vaginalförlossning i v 39. Födelsevikt 3,9 kg, födelselängd 50 cm. Barnet fick någon typ av vaccination på förlossningen enligt föräldrarna.
-* ***Aktuellt:*** Barnet ammas helt, aktuell vikt 5,3. Kommer för 2 månaders-kontroll. Enligt den erfarna BVC-sköterskan har barnet sett väldigt fint ut hela tiden. Det har funnits ”lite gulsot” och hon har föreslagit att man ska låta barnet vara exponerat för dagsljus viafönstret. Barnet kräks ibland men har normal avföring enligt föräldrarna
-* ***Status:*** AT: Pigg kille som ger blickkontakt och ler. Fint hull. Rör sig symmetriskt. Gula ögonvitor.Hjärta: u.a.Lungor: u.a. Buk: svårpalpabel, men man anar en resistens med nedre kanten 3-4 cm nedom höger arcus.
+  * ***Socialt***: Första barnet till friska föräldrar som båda är födda i Turkiet men uppväxta i Sverige
+  * ***Graviditet/nyföddhetsperiod:*** Komplikationsfri grav., vaginalförlossning i v 39. Födelsevikt 3,9 kg, födelselängd 50 cm. Barnet fick någon typ av vaccination på förlossningen enligt föräldrarna.
+  * ***Aktuellt:*** Barnet ammas helt, aktuell vikt 5,3. Kommer för 2 månaders-kontroll. Enligt den erfarna BVC-sköterskan har barnet sett väldigt fint ut hela tiden. Det har funnits ”lite gulsot” och hon har föreslagit att man ska låta barnet vara exponerat för dagsljus viafönstret. Barnet kräks ibland men har normal avföring enligt föräldrarna
+  * ***Status:*** AT: Pigg kille som ger blickkontakt och ler. Fint hull. Rör sig symmetriskt. Gula ögonvitor.Hjärta: u.a.Lungor: u.a. Buk: svårpalpabel, men man anar en resistens med nedre kanten 3-4 cm nedom höger arcus.
+
+
 
 ***Bedömning och åtgärd***
 
@@ -129,6 +139,8 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
   * palmar erythema
   * clubbing (fingrar?)
   * förlust fett depåer sekundärt till malnutrition
+
+
 
 ***Orsaker t ikterus***
 
@@ -170,6 +182,8 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 * ***biliär atresi är den vanligaste orsaken för levertransplantation***
 * ***ökad success ju tidigare man gör, tidigare än 2 månader ska man göra***
 
+
+
 ***Differentialdiagnoser***
 
 * De största orsakerna enl frekvens
@@ -178,6 +192,8 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
   * alfa1-antitrypsin brist
   * Alagille
   * hypothyreos
+
+
 
 ***Bedömning åtgärd***
 
@@ -244,18 +260,18 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 ### Fall 3 - Funktionellt dyspepsi
 
 * ***9åå gammal flicka kommer till barnmottagningen med remiss fr allmänläkare***
-* ***besöksorsak***: bybesök, remiss fr VC, frågeställning funktionella buksmärtor
-* ***Socialt***: åtföljs av pappa, familj fr irak, flickan är 2/3 barn i sammanhåööen familj. spelar i ett fotbollslag 2ggr/v
-* ***ärftlighet***: båda föräldrar har ahft magsår påvisat med gastroskopi för flera år sedan. efter beh besvärsfri, inga autoimmuna sjd
-* ***tidigare sjd***: tidig väs fridk
-* ***aktuellt***: 
-  * återkommande buksmrätor halvår, Har under den senaste tiden klagat på ont i magen ett par gånger i veckan. Mår vid dessa tillfällen oftast illa och hon har kräktsnågon gång. Upplever att besvären förvärras efter matintag och aptiten är sparsam. 
-  * Inga nattliga uppvaknanden pga smärta. Skolfrånvaro p.g.a.buksmärtorna ungefär två dagar per månad. Har under det senaste halvåret haft omväxlande hård och lös avföring(Bristol 2–6), frekvens 0–3gånger/dag.Inget blod i avföringen. Föräldrarna oroar sig för att flickan kan ha magsår
-* ***Status***: 
-  * AT: Ledsen, men opåverkat.
-  * MoS: u.a.
-  * Ytliga lymfkörtlar: Flera mm-stora körtlar i hals-och nackregionen.  
-  * Hjärta: u.a.Lungor: u.a.Buk: Normalt utseende. Mjuk och oöm. Ingen uppenbar lever-eller mjältförstoring. Inga resistenser.Längd: 133cmVikt: 26kg 
+  * ***besöksorsak***: bybesök, remiss fr VC, frågeställning funktionella buksmärtor
+  * ***Socialt***: åtföljs av pappa, familj fr irak, flickan är 2/3 barn i sammanhåööen familj. spelar i ett fotbollslag 2ggr/v
+  * ***ärftlighet***: båda föräldrar har ahft magsår påvisat med gastroskopi för flera år sedan. efter beh besvärsfri, inga autoimmuna sjd
+  * ***tidigare sjd***: tidig väs fridk
+  * ***aktuellt***: 
+    * återkommande buksmrätor halvår, Har under den senaste tiden klagat på ont i magen ett par gånger i veckan. Mår vid dessa tillfällen oftast illa och hon har kräktsnågon gång. Upplever att besvären förvärras efter matintag och aptiten är sparsam. 
+    * Inga nattliga uppvaknanden pga smärta. Skolfrånvaro p.g.a.buksmärtorna ungefär två dagar per månad. Har under det senaste halvåret haft omväxlande hård och lös avföring(Bristol 2–6), frekvens 0–3gånger/dag.Inget blod i avföringen. Föräldrarna oroar sig för att flickan kan ha magsår
+  * ***Status***: 
+    * AT: Ledsen, men opåverkat.
+    * MoS: u.a.
+    * Ytliga lymfkörtlar: Flera mm-stora körtlar i hals-och nackregionen.  
+    * Hjärta: u.a.Lungor: u.a.Buk: Normalt utseende. Mjuk och oöm. Ingen uppenbar lever-eller mjältförstoring. Inga resistenser.Längd: 133cmVikt: 26kg 
 
 <img src="./imgs/ped_sem_YVwOWgt85M.png" alt="YVwOWgt85M" style="zoom:67%;" />
 
@@ -296,11 +312,12 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 * ***Gällande kurvorna***: om pat är under 3SD BMI ska han läggas in. 
 * ***BÖS***: evt? för att diffa obstipation. 
 
+
+
 ***Gällande förstoppning***
 
 * ***Symptom***
-
-  * Förändrad avföring
+* Förändrad avföring
   * Vid långvariga besvär kan barnet besväras av diffus eller  intermittent buksmärta, avföringsläckage, diarré (vid fekalom, s k  förstoppningsdiarre) samt enures, vilket gör symtomatologin bred och  anamnesen svårtolkad. 
   * Ofta gles och hård avföring, vilket  kan leda till smärtsam eller besvärande tarmtömning. En ond cirkel  uppstår ofta då barnet försöker hålla sig.  
   * Förstoppning  kan även föreligga hos barn som ofta går på toaletten och där det endast kommer lite avföring. En avföringsklump (fekalom) kan stoppa upp  passagen och rektum felaktigt fungera som reservoar och tänjas ut,  vilket kan leda till nedsatt eller upphörd tömningsreflex.  
@@ -309,10 +326,9 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
   * Klart ljusrött blod kan finnas i eller utanpå avföringen på grund av ytliga  fissurer. Blod i avföringen kan även ses vid komjölksproteinallergi och  celiaki.  
   * Enkopres (avföringsläckage). OBS! Detta sker  ofrivilligt. Vanligen i 3-6 års ålder. Palpera buken som ofta avslöjar  en överfylld tarm. 
   * Inkontinens och plötsliga trängningar eller [urinvägsinfektioner](https://www.internetmedicin.se/page.aspx?id=141).
-
+  
 * ***Diagnos***
-
-  * **Diagnoskriterier (enligt de pediatriska Rom III-kriterierna, 2006) i frånvaro av organisk orsak:** 
+* **Diagnoskriterier (enligt de pediatriska Rom III-kriterierna, 2006) i frånvaro av organisk orsak:** 
   * ***< 4 år: 2 eller fler kriterier i en månad*** 
   * ***> 4 år: 2 eller fler kriterier i 2 månader***  
     -  ≤ 2 avföringar per vecka  
@@ -332,8 +348,8 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
     *  Obekväm miljö på toaletter i förskola/skola eller stress och press vid potträning 
     *  Smärtsam eller obehaglig avföring vid exempelvis blöjdermatit, [stjärtfluss](https://www.internetmedicin.se/page.aspx?id=6786) och [analfissur](https://www.internetmedicin.se/page.aspx?id=1250)
     *  Akut uttorkning p g a feber eller vistelse i varmt klimat med otillräckligt vätskeinta
-
-  * ***Utredning***
+  
+* ***Utredning***
     * **Anamnes** 
       - **Symtomdebut**. Förändringar i  diet? Introduktion av nya födoämnen? Allmänna matvanor? Symtomens  relation till måltid. Vid tidig symtomdebut (< 6 mån ålder) bör man  fråga om tid för mekoniumavgång. Mekoniumavgång inom 24 timmars  utesluter i princip underliggande Mb Hirschsprung.  
       - **Allmänsymtom**. Karaktär av eventuella buksmärtor. Illamående och minskad aptit  vanligt. Feber och trötthet kan tyda på infektion eller systemisk  sjukdom. Kräkningar kan förekomma vid överskott/passagehinder. Fråga  därför efter blod eller galla i kräkningarna. 
@@ -361,6 +377,8 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 14. amyloidos
 15. Giardia intestinalis
 16. Tryponosoma trophyrema whipplei
+
+
 
 ***Diarre utredning (tenta)***
 
@@ -412,7 +430,7 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 * växlande hård o lös avföring
 * verkar ha blivit värre nu
 * besvär vid matintag
-* 6 månaders anamnes hos vuxna, men för barn är det 2 MÅNADER för rom kriterierna.
+* 6 månaders anamnes hos vuxna, men för barn är det 2 MÅNADER för ROM kriterierna.
 * // fråga efter om förbättras efter defekation
 * // Rom kriterierna finns för barn också vad gäller IBS. 
 
@@ -436,7 +454,9 @@ Således har vi en patiente med tillväxtavplaning och viktavstagnation. (oklart
 
 * Blodstatus, Hb, MCV, transgltaminas, CRP, SR, leverprover, f-calprotectin pga avföringsbesvären,  
 * tar inte F-Hb åp barn, att barn har blod i avföring beror inte på cancer. ingår därför inte i utrednignen här i detta fallet. 
-* ***Två anledningar att kontrollera helicovacter på barn***: järnbrist anemi behandlingsrefraktär men återkommer hela tiden, eller att ngn förälder har en helicbacter associerad cancer i ventrikeln (i detta fallet har föräldrarna bara haft magsår inte cancer. )
+* ***Två anledningar att kontrollera helicovacter på barn***: 
+  * järnbrist anemi behandlingsrefraktär men återkommer hela tiden, 
+  * eller att ngn förälder har en helicbacter associerad cancer i ventrikeln (i detta fallet har föräldrarna bara haft magsår inte cancer. )
 
 ***Sammanfattat***: vi kan ställa diagnos på symptomkritereir efter intervju, om det är funktionella besvär om funktionell dyspepsi eller IBS. 
 
@@ -839,7 +859,7 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
     * riktigt små barn är adrenalin mkt bättre
     * adrenalinet piskar på hjärtat o höjer BT, så man ska vara varsam
     * man ska inte ge om det inte föreligger additiv effekt
-  * **antikolinergika**: ipratropiumbromid
+  * **antikolinergika**: ipratropiumbromid (atrovent)
     * sällan man börjar med
     * har bra additiv synergistisk effekt.  effekt till beta2 agonist
     * kan ge bara 4 ggr per dygn

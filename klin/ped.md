@@ -2199,6 +2199,15 @@ Enligt ABCDE
     * Njursvikt
   * Vilket enkelt prov följs därför under en längre tid
     * U-sticka
+* Oskar 5 år tidigare frisk söker barnakuten pga svullen höger fotled sedan 3 dagar tillbaka. Han har smärta vid belastning. Du noterar ett flertal blåröda icke borttryckbara förändringar över fotryggar och underben. Han är palpationsöm över fotleden med inskränkt flexion och extension. Han har ingen feber. 
+  * a. Med ovanstående anamnes och status bör du misstänka en diagnos. Vilken? 1p 
+      * HenochSchönlein (IgA vaskulit)
+  * b. Du behöver kontrollera 2 prover, motivera kort? 2p 
+      * Kreatinin (man kan få njurpåverkan) 
+      * U-sticka 
+  * c. Proverna bekräftar din primära diagnos misstanke och Oskar gick hem med planerad uppföljning på BUMM. Han söker nu igen 2 dagar senare på barnakuten pga att han har fått tilltagande buksmärtor. Nämn en bilddiagnostisk undersökning – inklusive frågeställning - du beställer och en farmakologisk behandling som bör övervägas. 1,5p 
+      * UL - buk   
+      * Steroider 
 
 
 
@@ -2241,14 +2250,42 @@ Enligt ABCDE
 * artriten kan komma före purpura med flera veckor
 * **gör ordentligt ont**
 * **overgående**
-* **Hud:** 100% har; purpura; ödem
-* **Leder:** upp t 82%; ledsvullnad och ledvärk
-* **Mage och tarm**: 50-72%;  buksmärta, gastrointestinal blödning, invagination
-* **Njure**: föregår sällan purpura; mikroskopisk hematuri vanligast; makroskopisk hematuri; nefrit; nefros; njursvikt
-* **Urinvägar och kön**: upp t 27% av pojkar, inflammation av testikeln svllnad av skorutm
-* **CNS**: 2%; huvudvärk, kramper, blödninga, cerebral vaskulit
-* **Lungor**: under 1%; interstitiell lunginflammation
-* **Buk**: buksmärtor, kräkningar, blöning, perforation, invagination, pankreatit
+* **Hud:*** 100% har;
+  * purpura;
+  * ödem
+* **Leder:*** upp t 82%;
+    * ledsvullnad och ledvärk
+* !!! **Mage och tarm**:
+    * 50-72%;
+    *  buksmärta,
+    * gastrointestinal blödning,
+    * !!! invagination
+* **Njure**:
+    * föregår sällan purpura;
+    * mikroskopisk hematuri vanligast;
+    * makroskopisk hematuri;
+    * nefrit;
+    * nefros;
+    * njursvikt
+* **Urinvägar och kön**:
+    * upp t 27% av pojkar,
+    * inflammation av testikeln svllnad av skorutm
+* **CNS**:
+    * 2%;
+    * huvudvärk,
+    * kramper,
+    * blödninga,
+    * cerebral vaskulit
+* **Lungor**:
+    * under 1%;
+    * interstitiell lunginflammation
+* **Buk**:
+    * buksmärtor,
+    * kräkningar,
+    * blöning,
+    * perforation,
+    * invagination,
+    * pankreatit
 
 
 
@@ -3248,6 +3285,13 @@ Enligt ABCDE
   * vegetarianer, Henoch-Schönleins purpura 
   * prematurfödda barn, ITP 
   * Rätt: menstruerande flickor, barn som dricker stora mängder mjölk 
+* !!! Nils är född fullgången, okomplicerad förlossning med Apgar 9, 9, 10. Hb vid födseln uppmättes til**l 180g/L. Vid 9 veckors ålder sjönk Hb till 100g/L** och vid 2 års ålder var Hb 135g/L. Han har mått bra hela tiden. 
+  * a. Vilken typ av hemoglobin har man vid födelsen och varför? 2p 
+      * Fetalt hemoglobin. Fetalt hemoglobin har en högre affinitet för syre. 
+  * b. Varför sjunker Hb så dramatiskt under de 2 första levnadsmånaderna? 1p 
+      * Byte från fetalt Hb till adult. Nedbrytning. 
+  * c. Ange den vanligaste orsaken till anemi efter nyföddhetstiden i Sverige.1p 
+      * Brist på intag av vanlig mat då bröstmjölk inte innehåller något järn. Järnbristanemi. 
 
 
 
@@ -4312,6 +4356,11 @@ Enligt ABCDE
       * ev F-elastas
     * ytterligare anamnes relevant fråga: hereditet? 
       * !! friska sjuka syskon
+* !!! Du träffar Olle 18 månader på BVC som sedan 6 månader har haft slem i avföringen och som av och till har diarré. Han har flackat av något i sin vikt- och längdkurva trots att hans aptit är väsentligen ua. Han har även haft återkommande obstruktiva bronkiter som har komplicerats av långdragna bronkopneumonier. 
+  * a. Mot bakgrund av anamnesen vilken allvarlig diagnos bör uteslutas? 1p 
+      * Cystisk fibros 
+  * b. Du remitterar Olle till barnakuten för att snabbare kunna utreda honom. Vilken undersökning kommer att beställas initialt för att så snabbt som möjligt säkerställa denna diagnos? 1p 
+      * Svettest
 
 
 
@@ -5478,7 +5527,15 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Neo-HLR
 
+***Presentation***
+
+* **Ett nyfött barn har vid 1 minuts ålder följande fynd: Puls 80/min; slapp, blek och cyanotisk. Grimaserar men skriker inte när du suger i svalget. Oregelbunden ytlig andning ca 20/min.** 
+  * **a. Vilken Apgar har barnet vid 1 min ålder? 1p***
+    * *3 p**b. 
+  * Vad är din omedelbara åtgärd? 1p
+    * Ventilera på mask (neopuff). 
 
 ### Resistens
 
@@ -6299,7 +6356,9 @@ Kontaktorsak 7 månader gammal pojke kommer till akutmottagningen pga feber och 
 
 
 
+#### Misshandel
 
+Pojke 3år Kontaktorsak: Kommer in med ambulans pga huvudtrauma. Båda föräldrarna är med på besöket. Socialt: Enda barnet till sammanboende föräldrar. Går inte på förskola. Tidigare/nuvarande sjukdomar: Har sökt 2 gånger tidigare det senaste 6 månaderna för fallskador men har kunnat skickas hem utan vidare åtgärd. Anamnes: Mamman berättar att hon bar ner pojken för trapporna, tappade balansen och han föll ur hennes grepp. Han slog sig i huvudet, var kortvarigt avsvimmad. Han har ätit och druckit ua. Enligt uppgift var han välmående innan falltraumat. Han fördes till barnakuten i ambulans, stabila vitalparametrar under transporten. Status: AT: Vaken, orolig. GCS 15. Temp 37,2. Ingen ansträngd andning. M o S: Retningsfritt. Ytliga lymfkörtlar: Inga palpabla på halsen. Hjärta: RR. Inga hörbara blåsljud. Lungor: Normala andn ljud. Inga biljud. Buk: Mjuk, oöm. Inga palp pat res. Neuro: Pupiller reagerar ua för ljus. Normal tonus. Symmetriska rörelser i armar och ben. Hud: Bula och sår ca 3cm i diameter över tinningen där han slog sig idag, ömmar vid palp. På överarmar och lår bilateralt noteras några hematom, några blåa och några gulaktiga. Föräldrarna kommenterar att han har lätt att få blåmärken. Lab: CRP <5; Blodstatus och diff ua. 
 
 #### Pertussis TODO
 
@@ -6329,7 +6388,9 @@ Intagningsorsak 2 månaders pojke som inkommer med hosta Socialt: Sammanhållen 
 
 
 
+#### Pyelonefrit
 
+Ali 4 månader Kontaktorsak: Feber Grav/nyföddhetsperiod: Född i v 39 + 4, normal förlossning och okomplicerat förlopp. Socialt: 4/4 barn. Sammanboende förälder. Ursprungligen från Syrien. Svensktalande. Tidigare och nuvarande sjukdomar: Frisk Anamnes: Feber sedan drygt ett dygn, idag 39,5C. Inga ÖLI symtom. Har kräkts vid ett tillfälle under morgonen. Har inte orkat amma lika bra men kissar hyfsat. Lite tröttare, sover mer men när vaken ger kontakt och försiktig svarsleende. Avföring ua. Inga utslag. Vägde 4750g förra veckan. Status: AT: Lite slö. Ger god kontakt. Andningsfrekvens 44 per minut, inga indragningar. Temp 39,7C. Vikt: 4800g M o S : Oretad Lymfkörtlar: Inga palpabla cervikalt Hjärta: RR, inga hörbara blåsljud. Femoralis pulsar: Palp ua. Lungor: Normala andn ljud. Buk: Mjuk, oöm. Inga palpabla pat res. Hud: Inga utslag eller petekier. Neuro: Fontanell palp normal. Normala gripreflexer. Lite slappare tonus. Lab: CRP 160. U-sticka Röda 0, vita +++, protein 1+, glukos 0, ketoner ++ 
 
 #### Scarlatina, scharlakansfeber
 
@@ -6364,8 +6425,6 @@ Kontaktorsak: 8 åriga Benjamin kommer till akutmottagningen tillsammans med mam
 ***Svar***
 
 13åå flicka, utredd 3 tillfällen dålig tillväxt sedan 6åå, söker pga dålig tillväxt. Target Height +1SD, enl kurvor fallit av längdkurva -1SD t -2SD fr 2åå t idag; vikt följt -1.5SD seanste åren. Aktuellt välmående, ledsen för att inte platsar i fotbollslag pga för liten, alltid haft svårt i skolan, har extraresurs. Modern menarche 13åå. Ännu ingen menarche. Status inga tecken begynnande pubertet, bred nacke, ökat avstånd mellan mamiller, blodstatus + diff + ferritin ua + thyroideaprover ua. Misstänker genetiskt syndrom, ffa kromsom X0 (Turners). DIff hyperprolaktinemi och hypofysiär insufficiens, men Thyroidea status ua och typisk anamnes. Skickar prov för kromosomanalys, FSH, LH, prolaktin TSH, fT4. 
-
-
 
 
 

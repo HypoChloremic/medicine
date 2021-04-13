@@ -614,6 +614,64 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ## Akut pediatrik
 
+### Allmänt
+
+***Presentation***
+
+* !!! Peter, 7 år, 
+
+  * inkommer med ambulans till akutmottagningen en kväll när du är primärjour. Ambulanspersonalen rapporterar att han är tidigare frisk, men idag klagat över ont i magen, kräkts några gånger och på kvällen plötsligt blivit alltmer trött och slö. De berättar att Peter var allmänpåverkad och hade ansträngd andning när de kom fram, varför han har fått syrgas i ambulansen.
+
+  * Tre möjliga diffar?
+
+    * !!! DKA
+
+  * Peter är blek och trött, men feberfri. Han orkar knappt svara på frågor och protesterar inte vid nålsättning. Undersökning av Peter visar att han har fri luftväg med andningsfrekvens 60/min och saturation 100 %. Den centrala kapillära återfyllnaden är 3 sek. Läppar och munslemhinnor är torra. Pupillreflexerna är normala, buken är mjuk och utan organförstoringar. Det finns inga yttre tecken på trauma. Extremitetsreflexerna är normala.
+
+  * Prover du tar nu?
+
+    * P-glukos, Hb, LPK, TPK, CRP, Na, K, kreatinin, syra/basstatus (kapillärt eller arteriellt), leverstatus, S-osmolalitet, B-ketoner, urinsticka m tox-screening
+
+  * Provsvar
+
+    * Hb 163 g/L Na 130 mmol/L ALAT 0,53 µkat/L
+    * LPK 17,7x109/L K 3,3 mmol/L ASAT 0,46 µkat/L
+    * TPK 360x109/L kreatinin 63 µmol/L
+    * CRP 1 mg/ml
+    * p-glukos 32,1 mmol/L Kapillär syra/bas: Urinsticka:
+    * S-osmolalitet 326 mosmol/kg pH 6,98 glukos 4+
+    * B-ketoner 5,3 mmol/L BE -27,4 mmol/L ketoner 4+
+    * HCO3 2 mmol/L erytrocyter 0
+    * pCO2 1,3 kPa albumin 1+
+    * tox-screening u a
+
+  * Diagnos: DKA
+
+  * Förklara pato svaren, vad är orsaken t avvikelserna
+
+    * Insulinbristen leder till stegringen av p-glukos.
+    * Stegrat p-glukos ger glukosuri, osmotisk diures och sekundär dehydrering, vilket förklarar att Hb och krea är stegrat.
+    * Insulinbristen leder till energibrist intracellulärt och därför bildas ketoner.
+    * Den ohämmade bildningen av ketonkroppar vid insulinbrist är skadlig och ger upphov till den metabola acidosen.
+    * Patienten försöker kompensera den metabola acidosen genom ökad respiration, vilket ger sänkt pCO2.
+    * LPK och TPK är lätt förhöjda pga stress.
+    * Natrium är falskt för lågt, korrigerat natrium behöver beräknas.
+    * Kalium är lätt sänkt, men kaliumbristen är större än vad det ser ut som, eftersom kalium lämnat det intracellulära rummet för att kompensera för acidosen.
+
+  * Åtgärd nu, principen handläggningen under första dygnet, fortstat provtagning + behandling
+
+    * Lägg in patienten på IVA (kontakta bakjouren)
+    * Bolusdos vätska intravenöst om pre-/chock.
+    * Rehydrera 1 timme innan start av insulininfusion.
+    * Långsamrehydrering över 2 dygn.
+    * Timdiures följs, ev sätts kateter
+    * Extra kalium ges direkt och helst separat via sprutpump på IVA
+    * Regelbunden bedömning av neurologstatus med beredskap för mannitolinfusion vid tecken på hjärnödem
+    * Regelbunden kontroll av p-glukos, s-osmolaritet, elektrolyter och syra/bas.
+    * Sträva efter långsam korrektion m h a insulininfusion 0,05-0,1 E/kg/h
+
+    ​	
+
 ### Hjärtstopp
 
 ***Etiologi och patofysiologi***
@@ -1593,6 +1651,16 @@ Enligt ABCDE
   * VIlket prov: transglutaminas antikroppar
   * Gltuenprovet ua. 
 
+
+
+### IBD
+
+***Presentation***
+
+
+
+* 
+
 ### Ikterus hos barn
 
 ***Presentation***
@@ -1729,6 +1797,44 @@ Enligt ABCDE
 
 * Ökad RBC nedbrytning: Increased bilirubin load on hepatocyte due to breakdown RBC after bitrh
 * Hepatisk enzym försenade: delayed acitivity of the hepatic enzyme glucuronyl transferase
+
+
+
+#### Prolongerad itkerus
+
+***Allmänt***
+
+* Ikterus är vanligt förekommande hos friska nyfödda barn upp till 2 veckors ålder. 
+* Kvarvarande ( prolongerad ) ikterus hos barn äldre än 2 veckor skall föranleda prompt utredning för att utesluta **<u>kolestas</u>**. 
+* Senast vid 3 veckors ålder är det viktigt att initiera blodprovstagning för bestäming av nivåerna av både totalt och konjugerat bilirubin.
+
+
+
+***Utredning och handläggning***
+
+* Hos ikteriska barn med avfärgad avföring skall gallstas ( kolestas) misstänkas. 
+* Därför viktigt att själv inspektera färgen på barnets avföring. 
+* Om klinisk misstanke på kolestas bör omgående handläggning ske enl. nedan. 
+* OM barnet för övrigt gott AT o normal vikt utveckling räcker kontroll av både totalt och konjugerat bilirubin. 
+* Om de visar sig vara gallstas ( kolestas) 
+  * Konjugerat >20 % 
+  * man skickar till barnakuten för att därifrån ta kontakt emd barnhepatolog. 
+  * Vidgade prover med PKINR , ASAT, ALAT, ALP, GT, H , LPK TK: PKINR tas med kapillärör. 
+
+
+
+***Behandling***
+
+* BEHANDLING MED P.O konakion ska ges till ALLA med påvisad KOLESTAS, och fortgå så länge kolestasen kvarstår. 
+* MINST en dos iv konakion ska snarast ges till alla med samtiidg kolestas och PKINR på 1,5 eller högre. 
+
+En vanlig orsak till prolongerad ikterus är bröstmjölksinducerad ikterus. 
+Det man är rädd för är gallvägsatresi. 
+Utreds med ultraljud och scintigrafi av gallvägarna? Lite osäker. 
+Gallvägsatresi: KASAJ , konstgjord gallgång genom att ta upp tarmen o lyfta den mot ileus. Operationen ska göras före 2 månaders ålder. De klarar sig upp till vuxenålder, regelbundna kontroller, hos en del funkar de inte , man får leversvikt o blir transplanterad. Om man tror att KASAJ operationen så är de ändå alltid bättre att bli transplanterad längre fram
+35% blir levertransplanterade.
+
+Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hepatit. Dem jag är säker på om de är kolestas bild så kan man lägga som diff: Hepatit och Gallvägsatresi. Om det inte är ngt farligt de frågar om så svarar man bröstmjölksinducerad ikterus!. 
 
 
 
@@ -1998,6 +2104,30 @@ Enligt ABCDE
 
 #### Allmänt
 
+***Presentation***
+
+* Algot 9 månader
+  *  kommer till barnakuten med sina föräldrar på lördagsnatten. Han är tidigare frisk, men har haft hög feber sedan två dagar. Föräldrarna har gett honom mixtur Alvedon enligt rekommendation på flaskan varvid febern gått ned tillfälligt men sedan stigit igen upp mot 40°C. Algot beter sig åldersadekvat och är opåverkad. Han har ätit lite sämre senaste dygnet, men trots att han druckit bra har han kissat lite sparsammare än annars. Ingen annan i omgivningen är sjuk. 
+  * Vilken status / parametrar
+    * Fr huvud t tå: AT, inspektion, lyssna hjärta, lungor, temp, känna topp t tå, reflexer. MoS. (kolla in i öron)
+    * Svar: AT, MoS, öron (titta in verkare som), lymfkörtlar lgll, cor, pulm, buk, hud, skalle, nerv
+  * När du undersökt Algot och ska gå ut ur rummet får Algot en generaliserad kramp utan asymmetri. Den är kortvarig och bryts spontant efter mindre än en minut. Algot är snabbt återställd till sitt tidigare relativt goda allmäntillstånd. Föräldrarna är väldigt oroliga och sköterskan likaså – vilka är dina akuta åtgärder? (2 p) 
+    * Ny klinisk bedömning inkl neurologstatus (fokalitet?) 
+    * Provtagning (P-glukos, CRP, ev neutrofila) 
+    * Ger barnet febernedsättande Alvedon 15 mg/kg eller Ipren 7 mg/kg 
+    * Observation av barnet på akutmottagning/vårdavdelning
+  * Du gör en ny klinisk bedömning inklusive neurologistatus som är helt normalt. Algot får mer febernedsättande. CRP och P-glukos är normala.
+  * Vilka diagnoser har du att jobba med och vad talar för eller emot dem
+    * viros uns feberkramp: hög feber, typisk feberkramp, CRP negativ; mot spänd fntanell
+    * serös meningit: för hög feber, CRP negativ, spänd fontanell; mot ej irritiabel, ej nackstel
+    * bakteriell meningit: för spänd fontanell, mot opåverkat barn, ej nackstel, ej CRP negativ . .. , inget avvikande neuro förutom spänd fontanell 
+  * Dagen därpå Algot nästan feberfri, men vid ronden noteras finprickigt exantem på bålen. Algot är pigg och status är ua förutom utslaget på bålen och att fontanellen fortfarande är spänd-  den kliniska bilden för dig. 
+    * Tredagars feber (exanthema subitum eller roseola infantinum)
+  * Vilket agens
+    * HHV6: typisk klinisk med hög feber, i 3d, därefter finprickigt exantem. ofta opåverkat barn, men kan spänd toppig främre fontanell. HHV6 neurotropt virus, kan orsaka feberkreamp
+
+
+
 
 
 <img src="./imgs/ped_sam_090421_hqUYQ7QMRV.png" alt="hqUYQ7QMRV" style="zoom:50%;" />
@@ -2170,6 +2300,42 @@ Enligt ABCDE
 * Förhöjda inf-parametrar. 
 * PCV. 
 * Utslagen känns mer än de syns
+
+
+
+
+
+#### Tredagarsfeber
+
+***Presentation***
+
+* Algot 9 månader
+  *  kommer till barnakuten med sina föräldrar på lördagsnatten. Han är tidigare frisk, men har haft hög feber sedan två dagar. Föräldrarna har gett honom mixtur Alvedon enligt rekommendation på flaskan varvid febern gått ned tillfälligt men sedan stigit igen upp mot 40°C. Algot beter sig åldersadekvat och är opåverkad. Han har ätit lite sämre senaste dygnet, men trots att han druckit bra har han kissat lite sparsammare än annars. Ingen annan i omgivningen är sjuk. 
+  * Vilken status / parametrar
+    * Fr huvud t tå: AT, inspektion, lyssna hjärta, lungor, temp, känna topp t tå, reflexer. MoS. (kolla in i öron)
+    * Svar: AT, MoS, öron (titta in verkare som), lymfkörtlar lgll, cor, pulm, buk, hud, skalle, nerv
+  * När du undersökt Algot och ska gå ut ur rummet får Algot en generaliserad kramp utan asymmetri. Den är kortvarig och bryts spontant efter mindre än en minut. Algot är snabbt återställd till sitt tidigare relativt goda allmäntillstånd. Föräldrarna är väldigt oroliga och sköterskan likaså – vilka är dina akuta åtgärder? (2 p) 
+    * Ny klinisk bedömning inkl neurologstatus (fokalitet?) 
+    * Provtagning (P-glukos, CRP, ev neutrofila) 
+    * Ger barnet febernedsättande Alvedon 15 mg/kg eller Ipren 7 mg/kg 
+    * Observation av barnet på akutmottagning/vårdavdelning
+  * Du gör en ny klinisk bedömning inklusive neurologistatus som är helt normalt. Algot får mer febernedsättande. CRP och P-glukos är normala.
+  * Vilka diagnoser har du att jobba med och vad talar för eller emot dem
+    * viros uns feberkramp: hög feber, typisk feberkramp, CRP negativ; mot spänd fntanell
+    * serös meningit: för hög feber, CRP negativ, spänd fontanell; mot ej irritiabel, ej nackstel
+    * bakteriell meningit: för spänd fontanell, mot opåverkat barn, ej nackstel, ej CRP negativ . .. , inget avvikande neuro förutom spänd fontanell 
+  * Dagen därpå Algot nästan feberfri, men vid ronden noteras finprickigt exantem på bålen. Algot är pigg och status är ua förutom utslaget på bålen och att fontanellen fortfarande är spänd-  den kliniska bilden för dig. 
+    * Tredagars feber (exanthema subitum eller roseola infantinum)
+  * Vilket agens
+    * HHV6: typisk klinisk med hög feber, i 3d, därefter finprickigt exantem. ofta opåverkat barn, men kan spänd toppig främre fontanell. HHV6 neurotropt virus, kan orsaka feberkreamp
+
+
+
+***Allmänt***
+
+* Erythema subitum
+
+
 
 ### Henoch-schönlein - IgA-vaskulit
 
@@ -3189,6 +3355,12 @@ Enligt ABCDE
   * lätt förhöjd AF
   * Saturation 99%
   * CRP 46
+* Barn 18 månader 
+  * söker med temp 39 grader, CRP 25 och otitstatus bilateralt. Äter sämre men orkar leka lite grand. Vad gör du?
+      * Avvaktar behandling men följer upp per telefon om 2 dagar
+      * Avslutar kontakten utan behandling
+      * Rätt: Insätter behandling med PcV [även om kåvepenin inte smakar gott...?]
+      * Insätter behandling med amoxicillin/klavulansyra
 
 ## Hematologi
 
@@ -4361,6 +4533,11 @@ Enligt ABCDE
       * Cystisk fibros 
   * b. Du remitterar Olle till barnakuten för att snabbare kunna utreda honom. Vilken undersökning kommer att beställas initialt för att så snabbt som möjligt säkerställa denna diagnos? 1p 
       * Svettest
+* Försämrad lungfunktion på grund av kronisk lunginfektion är i slutänden den största dödsorsaken hos patienter med cystisk fibros och därför är antibiotikabehandling en av grundpelarna i modern behandling av cystisk fibros. Vilken bakterie är det särskilt viktigt att ha antibiotikatäckning för när man behandlar patienter med exacerbationer av lunginfektion vid cystisk fibros?
+  * rätt: Staffyloccocus Aureus
+  * Moraxella Catharalis
+  * Pseudomonas aeuriginosa
+  * Mykobacterium Abscessus
 
 
 
@@ -4724,6 +4901,12 @@ En kort lista över kliniska manifestationer av CF:
 ***Presentation***
 
 * A 10-year-old girl is seen for a routine health maintenance evaluation. Five years ago, she underwent surgical repair of coarctation of the aorta. On examination, the blood pressure in her right arm is 173/81 mm Hg, and her oxygen saturation is 97% in room air. Auscultation reveals a systolic ejection murmur audible throughout the precordium. The patient is otherwise asymptomatic. Which of the following would be the most appropriate next step in management?
+* Fem dagar gammal gosse
+  * togs till barnakuten med ambulans 20 minuter efter det att han plötsligt insjuknande med snabbandning, irritabilitet och svettningar. Han föddes i fullgången tid vaginalt utan komplikationer. Temperaturen vid ankomst var 37,0°C, pulsen var 200 / min och andningen 50 / min. Vid fysisk undersökning, auskulterades på bröstet ett grad 2/6 systolisk blåsljud som hördes bäst med PM sin 2-5 och strålade till vänster interskapulärt område. Palpation i buken visar förstoring av levern. Femorala pulser är svaga bilateralt – svårt att palpera enligt undersökaren. Inga andra avvikelser noteras.
+      * Rätt: Koarktation av aorta
+      * Diafragma bråck
+      * Grupp B streptokock sepsis
+      * Fallots tetrad
 
 
 
@@ -5751,6 +5934,12 @@ En kort lista över kliniska manifestationer av CF:
   * rätt: Urinsticka, albumin/kreatininkvot i urin, s-kreatinin, s-albumin 
   * Urinsticka, s-kreatinin, s-triglycerider, CT urinvägar 
   * Urinsticka, albumin/kreatininkvot i blod, s-kreatinin, ultraljud urinvägar 
+* Idiopatiskt nefrotiskt syndrom hos barn drabbar 2 - 3 barn per 100 000 och år. Vid detta tillstånd har barnet stora proteinförluster i urinen och till följd av detta hypoalbuminemi. Kliniskt presenterar det sig genom att barnet får perifera ödem, ofta runt ögonen, fötterna och hos pojkar i pungen. De kan också beskriva att det skummar i toaletten då de kissar. Pga hypoalbuminemi kan akuta komplikationer så som tex hypovolemi, hypervolemi med lungödem samt tromboser uppstå. Detta tillstånd behandlads initialt med kortison i höga doser.
+  * Ibland kan man även gå vidare med en njurbiopsi. När är detta indicerat?
+      * Om U-alb/krea på > 1000 vid debut
+      * Om trombosprofylax måste sättas in
+      * Om hypertoni vid debut
+      * Om hypovolemi vid debut
 
 
 
@@ -6469,6 +6658,10 @@ Elsa 13 månader inkommer till barnakuten pga kräkningar och diarré. Ärftligh
   * rätt: Hälso-och sjukvårdslagen, Offentlighets-och sekretesslagen, Föräldrabalken, Patientsäkerhetslagen 
   * Indirekt lagstöd genom att journal på nätet bara kan läsas av vårdnadshavare fram till 13-årsdagen
   * Det saknas juridiskt stöd, det finns endast rådgivande riktlinjer 
+* Caroline 16 år har remitterats till din barnmottagning från vårdcentral pga uttalad trötthet och andra diffusa symtom sedan 4 månader. Hon orkar inte gå till skolan, klagar på ospecifika ledbesvär och varierande avföringar. På vårdcentralen har provtagning visat:
+  * berätta hur du gör för att besök bäst ur "ungdomsmedicinskt perspektiv". Hur göra gällande anamnes o undersökning
+    * HEADSS
+  * Du tar in Caroline och hennes pappa, men riktar dina frågor till Caroline. Hon redogör tydligt för sina besvär. Du förstår att hon är en stressad och ambitiös gymnasietjej. Hon bor med sina föräldrar och en äldre bror. När hon berättar att hon är för trött för att komma upp på morgonen samt hennes oro för de många toabesöken i skolan kommer tårarna. När du ska undersöka Caroline ber du pappan att gå ut. Du informerar henne om tystnadsplikten och frågar om hemförhållanden, skola, fritid, intag av droger och sexuellt umgänge. Du frågar om hon har några ytterligare frågor som hon önskar ta upp när pappan inte är med på rummet.
 
 
 
@@ -7329,6 +7522,13 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
    * Socker, jordnötssmör, peppar, kött 
    * Rätt: Hela nötter, honung, opastöriserad mjölk, extra salt. 
    * Saft, sirap, fisk, ägg 
+*  !!! **Sune, 6 veckor** 
+   * kommer till BVC. Barnet kräks fler gånger per dag, vanligast efter måltider och har några lösa avföringar. Mamman har inte sett något blod i vare sig kräkningar eller avföring. Gossen föddes fullgången, födelsevikt 3,2 kg (-1 SD). Det var svårt för mamman att amma varför barnet fått bröstmjölksersättning sedan 5 veckor tillbaka. Mamman ger 175-200 ml var 3:e timme, ca 8 mål per dygn. Ibland har han svårt att ta hela matmängden. Sover bra men mor väcker barnet för att äta på natten. Status: Gott allmäntillstånd, pigg och ger fin kontakt. Ingen feber. Vikt 5,65 kg (+1,8 SD). Cor: RR, 125/min, 0 biljud. Pulm: Normala andningsljud bilat. Buk: Litet utputande. Aktiva tarmljud. Bajsar vid palpation. Ingen ömhet. Yttre genitalia: Descenderade testes bilat. Inga bråck. Inga eksem.
+   * Vilken är den troligaste förklaringen och bästa åtgärden för Sunes besvär?
+   * Misstänkt komjölksallergi, byt till komjölksfri ersättning (så kallat hydrolysat)
+   * Misstänkt pylorusstenos, remittera barnet för passageröntgen
+   * Misstänkt gastroenterit, ta prov för bakterier och virus från avföring och kräkningar
+   * rätt: Misstänkt övermatning, ge råd om matmängder och matningsfrekvens
 
 
 

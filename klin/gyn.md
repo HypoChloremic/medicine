@@ -28,6 +28,25 @@
       * Svar: CRP, HB, Buk-översikt/DT-buk 
   * Vilken diangos viktigast att utesluta?
       * svar: tarmskada i samband med op. 
+* **Doris 21åå, initialt salpingit/PID**
+  *  Hon söker på grund av låg buksmärta som förvärrats gradvis de sista fyra dagarna, mest ont gör det på höger sida. Smärtan sitter i kontinuerligt. Hon är frisk sedan tidigare. Hon har inga problem att kissa och hade normal avföring senast i förrgår. Hon har aldrig varit gravid och står på Desogestrel som hon tycker fungerar bra. Hennes blödningar är lite oregelbundna och hon kan inte säkert säga när hon senast hade mens. Doris har precis kommit hem från Åre där hon jobbat under hela skidsäsongen. Hon är sexuellt aktiv men har ingen fast partner. Du börjar fundera på salpingit/pelvic inflammatory disease (PID) som orsak till buksmärtan men har även ett antal andra differentialdiagnoser ”i huvudet”. 
+  * 4 diffar buksmärta
+    * X-grav
+    * ovarialcysta
+    * endometrios
+    * !!! appendicit
+    * IBS
+    * funktionell smärta
+  * Vid din undersökning noterar du att Doris är till synes opåverkad. Hon har kroppstemperatur på 37,4 grader, buken är mjuk och ömmar diffust i hela nedre delen. Vid spekulumundersökning ses ingen anmärkningsvärd fluor, både cervix och uterus är ömma vid palpation. Du kan inte känna någon resistens över adnexa. Vaginalt ultraljud är ua frånsett ömhet vid tryck med ultraljudsproben. CRP är 45. Du känner dig nu övertygad om att Doris har en salpingit/PID. 
+    * Vilka prover har du tagit och vilken behandling ordinerar du
+      * !!! **grav-test**!
+      * **klamydia/gc provtagning**
+      * !!! **antibiotikabehandling som täcker klamydia + anaerober** i första skede: doxycyklin + metronidazol
+    * Vid positivt infektionsprover kan ytterligare åtgärder krävs, vilkam och vilken information ska doris få
+      * Korrekt behandling för klamydia/gc
+      * kostnadsfri behandling
+      * Smittspårning
+      * vid gc ska patienten
 
 ### Diagnoser
 
@@ -366,7 +385,7 @@ cerivicit
       * Haft kopparpsiral för lång tid vilket ger ökad risk för bakterieltillväxt. Misstänkt abscess pga kuddigheten över vänster sida uterus. Feber, smärta. 
       * Divertikulit: feber smärta, ont i nedre delen av buken med PM vänster fossa talande för diveritkulit.
   * **Hur får du korrket diagnos?**
-      * abdominellt UL, alternativt DT. 
+      * ?? abdominellt UL, alternativt DT. 
   * **Handläggning?**
       * Rundodla, antibiotikaa iv ( tydlig infektionsmisstanke med hög feber, CRP stegring på 120. Ta bort spiral suttit för länge risk för bakterietillväxt. 
       * Inläggning, smärtlindra, ABD UL alternativt CT. Laparaskopi vid terapisvikt.
@@ -375,23 +394,55 @@ cerivicit
 
 ***Etiologi och patofysiologi***
 
-* **icke-utläkt PID**
+* **icke-utläkt PID (salpingit)**
   * vanligaste orsak
   * finns kvar som en kronisk PID
+  * inflammationen finns kvar kroniskt. 
+  * involverar så såminonm tuba, ovarium
+  * om ngt infektiöst agens etableras -> abscess. 
 * **äggledare**: blir vätskefulld o avstängd (säcktuba), (i samband med icke-utläkt PID?)
 * **Spiralrelaterade**: att pat kommer in med en för länge satt spiral, eller kommer in med en spiral. 
   * kopparspiraler satta 5år innan byte
   * hormonspiraler 3år eller 5år
+  * kan grogrund för bakterier som ger abscess
 
 
 
 ***Epidemiologi***
 
+* Många är i menopaus + gammal spiral
+
+
+
 ***Kliniska kännetecken***
+
+* **Tyngdkänsla nedre buk**
+* **Smärtor nedre buk: ofta lågt sittande**
+* **Evt tryckkänsla mot tarm + kanske diarre**
+* **obligat**: sjukdomskänsla + förhöjd temperatur (feber?)
+
+
 
 ***Utredning och handläggning***
 
+* **Gynekologisk undersökning**
+  * purulent fluor
+  * ruckömhet samt ömhet över adnexa och bäckenperitonit
+  * resistens, kan palperas: bakom och vid sidan uterus
+* **Vaginalt ultraljud**
+  * Över tuba
+  * varierande ekogenicitet
+  * ofta en del fri vätska
+* **Labb**
+  * stegrad LPK + CRP
+
+
+
 ***Behandling***
+
+* Inläggning: bör läggas in för ab iv behandling
+* Antibiotikabehandling: intravenös antibiotikabehandling. 
+* UL-tömning, efter 1d behandling, försöka
 
 
 
@@ -1878,7 +1929,7 @@ cerivicit
   * Vilka olika beh alternativ finns vid symptomgivande myom ange 2 farmakologisk + 2 icke farmakologiska
     * Hormonspiral, GnRH analog
     * hysterektomi, UL-ledd embolisering av arteria uterina, enukleation
-* **Petra är en 36-årig , 
+* **Petra är en 36-årig**
   * **0-gravida som söker för rikliga mensutrationer som ökat på senaste år. Status vid den senaste gynekologiska undersökningen för tre år sedan var normalt. Hon har nu Hb 95g/l. Uterus palperas förstorad myomatös med missätnkt myom i fundus. Fritt åt sidorna.****Vaginaltultrlajud visar ett myom i Fundus samt ett på 4cm som buktar in kaviteten. Hon undrar hur vanligt det är med myom och om myom av denna typ och storlek kan förklara de rikliga blödningarna.Vad svarar du?**
     * VAnlig myom
     * mellan 35-49åå 60% har myom
@@ -1929,7 +1980,7 @@ cerivicit
 
 
 
-<img src="./imgs/gyn_sam_240321_FPZF0N4CXJ.png" alt="FPZF0N4CXJ" style="zoom:50%;" />
+<img src="./imgs/gyn_sam_240321_FPZF0N4CXJ.png" alt="FPZF0N4CXJ" style="zoom: 25%;" />
 
 
 
@@ -1940,6 +1991,7 @@ cerivicit
 * **LIvstidsrisk**
   * **Afrikanska kvinnor**: 80% 
   * **Caucasian**: 70% 
+* Vanliga, enstaka / multipla
 
 
 
@@ -1953,9 +2005,15 @@ cerivicit
 * **några mm t mkt stora**
 * **oftast asymptomatiska** 
 * **tendens växa grav** -> kan ge smärta ffa tidig grav
-* **UL rundad struktur**, vaerierad ekogenictet, kan förkalkat skal, ofta skugga bakom
-* infertilitet kan pga mekanisk orsak, att implantation försvåras
-* upptäcks som bifynd, kan ge kroniska o akuta symptom som kräver beh
+* **UL, ultraljud**
+  * **rundad struktur**, 
+  * vaerierad ekogenictet, 
+  * kan förkalkat skal, 
+  * ofta skugga bakom
+  * infertilitet kan pga mekanisk orsak, 
+  * att implantation försvåras
+  * upptäcks som bifynd, 
+  * kan ge kroniska o akuta symptom som kräver beh
 * **akut buksmärta**: nekros i myom
 * **enl blueprints**
   * **FIBROIDS Mnemonic**
@@ -1995,9 +2053,15 @@ cerivicit
 
 ***Utredning och handläggning***
 
-* Anamnes
-* Status: Gyn-status, bimanuell palpation (palpera resistens)
-* FYnd ökar malignitetsmisstanke
+* **Anamnes**
+* **Status**: Gyn-status, bimanuell palpation (palpera resistens)
+* **Ultraljud**
+  * **Storlek**
+  * **läge**
+  * **position**
+  * **relation endometriet**: relateras till blödningsbenägenhet
+  * **relation t serosan**: också relaterat t minskad blödnignsbenägenhet...
+* **Fynd ökar malignitetsmisstanke**
   * Resistens: adherent, ej utgår fr uterus
   * UL: cystisk förändring m flera rum, solida partier
   * Prover: anemi. förhöjt Ca-125. Ev CEA och F-Hb
@@ -2524,6 +2588,31 @@ cerivicit
 
 ### Hormonaxlarna och relationer
 
+
+
+#### Androgenism
+
+***Allmänt***
+
+* Flera tillstånd: om är associerade med ökad androgenism
+* **Virilism**: utveckling manliga sekundära könskarakteristika. mörk röst, klitoris hypertrofi
+* **Hirsutism**: hårutväxt kännetecknar 
+
+
+
+***Etiologi och patofysiologi***
+
+* FSH är involverat i uppdrivning av östrogenproduktione
+* LH leder till att man ökar androgenproduktionen.
+
+
+
+
+
+<img src="./imgs/sam_130421_jgsEfd53dm.png" alt="jgsEfd53dm" style="zoom:50%;" />
+
+
+
 #### Thyroida, prolaktin och gonaderna
 
 ***TRH***
@@ -2579,7 +2668,22 @@ cerivicit
 
 ***FSH - Follicle stimulating hormone***
 
-* 
+* STIMULERAR FSH ökning
+  * Brist östrogen..
+* INHIBERAR FSH
+  * östrogen
+  * prolaktin
+
+
+
+***LH - Luteiniserande hormon***
+
+* STIMULERAR LH
+  * östrogen
+* INHIBERAR LH
+  * progesteron (enl abbe)
+
+
 
 
 
@@ -2625,7 +2729,19 @@ cerivicit
 * Rädsla för cancer
 * obs viktökning ej biv av HRT (stark evidens)
 
-### Hyperprolaktinemi
+### Prolaktinemi
+
+#### Amningsrelaterad amenorre
+
+***Etiologi och patofysiologi***
+
+* **Prolaktin sänker GnRH**: prolaktin agerar direkt hypothalamalt för att sänka gonadotropinerna GnRH. Detta leder till att man minskar FSH (och LH?) varpå man inte ovulerar. 
+* **Ingen menstruation**: man kan uppgå till 6 månader utan mens
+* **Ovulationshämmande, dock dåligt som preventivmedel**: även om man inte ovulerar pga prolaktinnivån, där man alltså bör vara infertil, så är det ett dåligt preventivmedel. 
+
+
+
+#### Hyperprolaktinemi
 
 
 
@@ -2633,7 +2749,8 @@ cerivicit
 
 * **S-prolaktin**: över 567mIE/L, minst 2 tillfällen
   * **3 timmar efter uppvaknande** o under **avstressade förhållanden**, då man annars kan få falskt förhöjda värden
-* pulsatila GnRH inösöndirng fr hypothalamus hämmas
+* !!! **GnRH hämmas: pulsatila GnRH inösöndirng fr hypothalamus hämmas**
+  * Samma mekanism som driver att man blir inte ovulerar när man har detta. 
 
 
 
@@ -6798,7 +6915,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### PID - Pelvic inflammatory disorder
+### PID aka salpingit
+
+***Allmänt***
+
+* aka Salpingit, Pelvic inflammatory disorder
 
 ***Etiologi och patofysiologi***
 
@@ -6857,6 +6978,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Salpingit
+
+***Indelning***
+
+* Typ1: STD-relaterad, könssjukdomar
+* Typ2: akut övre luftvägspatogen
+* Typ3: TOA 
+
 
 
 ### Smittskyddslagen
@@ -6914,6 +7043,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * Den som vet eller har anledning att misstänka att han eller hon bär på en smittsam sjukdom är skyldig att vidta de åtgärder som krävs för att skydda andra mot smittrisk.
 * Den som vet att han eller hon bär på en allmänfarlig sjukdom är skyldig att lämna information om smittan till andra människor som han eller hon kommer i sådan kontakt med att beaktansvärd risk för smittoöverföring kan uppkomma.
+
+
+
+***Sammanfattning***
+
+* 
 
 
 
@@ -7513,6 +7648,27 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Behandling***
 
 - Kolporafi: vaginal wall repair, intended för cystocele och rektocele
+
+
+
+### Uterusmissbildning
+
+***Indelningar***
+
+
+
+***Utredning och handläggning***
+
+* Hydrosonografi
+* 3D ultraljud: att man mycket bättre visualiserar uterus. 
+
+
+
+| <img src="./imgs/sam_130421_cAE44U8nOv.png" alt="cAE44U8nOv" style="zoom:50%;" /> | <img src="./imgs/sam_130421_prN2TGXe63.png" alt="prN2TGXe63" style="zoom:50%;" /> | <img src="./imgs/sam_130421_7bpp3LSwOx.png" alt="7bpp3LSwOx" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
+
+
 
 
 
@@ -8144,6 +8300,22 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * individuell basis inga kontraindikationer_: trombos, grav angina, leversjd, tidg bröstca,
     * tidig 5graviditeter och ingen trombos, graviditet är väldigt tromotiskt
     * icke hög ökning o pat nytta av att stå på HRT stär över riskerna
+* 60åå kvinna
+  * Söker för slemhninetorhet och skörhet i underlivet, vill ha östrogen vagitorier
+  * Tidigare ER-positiv behandlad bröstcancer
+  * Handläggning:
+    * Kan reka Hyaluronsyra för slemhinnefuktande. 
+    * Alternativt Efter konsultation med onkolog, Blisel som är lågdos östrogen vagitorer. 
+
+
+
+***Etiologi och patofysiologi***
+
+* **FSH, LH HÖGA, menopausalt**
+* **östrogen, progesteron**: dessa bör vara låga
+* **Ger man östrogen vagitorier**:
+  * **INITIALT sjunker FSH**: slemhinnan är ju tunn och torr, och den därför är mer genomsläpplig. Östrogen permeerar igenom slemhinnan och kan därför hamna systemiskt
+  * **SENARE ökar FSH**: detta för att slemhinnan åter börjar fuktas bättre, den blir mindre skör (möjligt) för att östrogen främjar (mitos? fuktning?)
 
 
 
@@ -9679,11 +9851,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Riskfaktorer***
 
-* ålder
-* BMI: längre tid till aktiv fas om högt
-* stressad
-* förstföderska
-* avvikande bjudning
+* **ålder**
+* **BMI**: längre tid till aktiv fas om högt
+* **stressad**
+* **förstföderska**
+* **avvikande bjudning**
 
 
 
@@ -10399,6 +10571,182 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **anatomisk utredning**: UL, hysterosalpingografi, ev laparoskopi
 * **hormonutredning** (thyroideahormoner, androgener, progesteron, under lutealfas, LH, FSH)
 * **immunologisk utredning HLA**
+
+
+
+\### Mola hydratidosa
+
+***Etiologi och patofysiologi***
+
+- ***Gestationell trofoblasttumör***: GTD-trophoblastic disease. 
+
+- Prolifererande placentavävnad (trofoblaster?)
+
+- Patologiska graviditeter
+
+- - NOTERA: man ska skilja på GTN och en komplett/partiell mola, 
+
+- ***Maligna formerna***: gestational trophoblastic neoplasia, GTN, 
+
+- - Invasiv mola: ENDAST uppstå efter en tidigare molagraviditete
+
+  - vilken grav som helst
+
+  - - korionkarcinom
+    - placental site trophoblastic tumor
+    - epitheloid trophoblastic tumor
+
+- ***Komplett mola***
+
+- - Genetiskt diploid
+  - bester ENBART av paternella kromosomer
+  - Avsaknad foster, 
+  - ökad tillväxt placenta: omvandlad med hydropa korionvilli
+  - Makroskopiskt: multipla blåsbildningar ses. 
+  - Diagnostiska svårigheter: kompletter immunhistokemi för p57, protein som enbart uttrycks i maternellt genom, således utfaller negativt i mola 
+
+- ***Partiell Mola***
+
+- - Genetiskt triploid
+  - ***överskott*** paternellt genom
+  - placenta kan ha ***områden med normala korionvilli***
+  - omväxlande med områden hydropt uppdrivna villi
+  - Fostervävnad finns
+  - Makroskopiskt är blådbildningen mindre uttalad och kan vara svår att se
+  - Immunhistokemi p57 positiv
+
+- Utveckling GTN (malign utveckling)
+
+- - högre, komplett mola jfr partiell. 
+  - Diagnos:: utebliven hCG-regression -> internationellt vedertagen kriteriediagnos .
+
+<img src="./imgs/sam_130421_J6fpYikcT4.png" alt="J6fpYikcT4" style="zoom:50%;" />
+
+<img src="./imgs/sam_130421_ztn9zI2xvL.png" alt="ztn9zI2xvL" style="zoom:50%;" />
+
+
+
+***Indelning***
+
+- Premalign
+- komplett mola hydratidosa
+- partiell mola hydratidosa
+
+***Diagnos***
+
+- Kriteriediagnos: sällan har en histologisk diagnos av subtyp
+
+***Kliniska kännetecken***
+
+- Mildare symptom jfr tidigare förståelse av mola
+
+- Många asymptimatiska vid diagnos
+
+- Vaginal blödning
+
+- Mer allvarligare tecken
+
+- - !!! Kraftigt illamående (diffades med hyperemesis gravidarum eller graviditetsillamående)
+  - !!! stor uterus för gravlängd
+  - theca-luteincystor
+  - thyreotoxikos
+  - tidig debut preeklampsi
+  - riklig blödning
+
+
+
+***Handläggning och utredning***
+
+- **p57**: detta protein produceras enbart av maternell DNA
+
+- - Komplett mola: negativ
+  - Partiell mola: positiv
+
+- **UL, ultraljud**
+
+- - **Snöstormsmönster**
+  - **komplett mola**: avsaknad foster
+  - **partiell mola**: gränsdragning mot missed abortion (uteblivet missfall?)
+
+- **S-hCG, utgångsvärde**
+
+- **rtg-pulm**: övervägas vid kraftigt förhöjda hCG-nivåer, kliniskt stark misstanke om molargrav. 
+
+- !!! ***Uppföljning***
+
+  - **Komplett mola**
+
+  - - S-hCG varannan vecka t negativt vid 2 tillfällen
+    - Därefter, varje månad tom 6månader, efter första negativa värde. 
+    - Kontrollerna avslutas då
+    - åb med information + gyn undersökning efter 4v samt vid avslutande av hCG kontroller
+
+  - **Partiell mola**
+
+  - - s-hCG varannan vecka tills negativt, 2 tillfällen
+
+    - kontrollerna avslutas
+
+    - åb med info + gyn undersökning efter 4v, samt vid avslutande hCG-kontroller
+
+    - !!! antikonception rek. under kontrollperiod
+
+    - platå, stigande värden, kontrollera Beta-hCG varje vecka. 
+
+    - ny grav tillåts omedelbart efter kontrollperiod.l 
+
+    - Ny grav
+
+    - - Rek tidigt UL
+      - utesluta ny molargrav
+      - kontroll hCG 6v postpartum
+      - risken utv ny mola, för den som tidigare haft en är ca 1% 
+      - och för den som haft 2 molor drygt 10%
+      - efter 3 molor, chansen för normal grav = liten. 
+
+  - GTN
+
+  - - hCG varannan vecka, tom 6månader efter beh avslut
+
+    - månatligen tom 1år
+
+    - var tredje månad tom 5år-
+
+    - åb (1,3), 6, 12 mpån efter behavslut, därefter årligen. 
+
+    - ny grav: tillåts 1år efter behandlingsavslut. 
+
+    - - Tidigt UL rek. + kontroll hCG 6v postpartum
+
+
+
+***Behandling och handläggning***
+
+- Vakumexeres + eftgerföljande UL-kontroll. 
+
+- - inducera cervixmognad cv med prostaglandin
+
+- partiell mola, >v12: 
+
+- - tvåstegsavbrytande (medicinsk abort inneliggande), enl PM
+  - efterföljande vakuumexeres (VE, exeres) av placenta alt rester. 
+
+- !!! beredskap blodtransfusion vb
+
+- Preparat t PAD, frågeställning suntyp mola. 
+
+- Om theca-luteincystor: exspektans; försvinner med sjunkande hCG nivåer. 
+
+- - tappa cystvätska: vid symptomgivande storlek, kan göraö
+
+- vid GTN, (avplanad eller stigande hCG)
+
+- - cytostatikabehandling, i nästan alla fall
+  - prognosen utmärkt, vid malign trofoblastsjd
+
+- - - 
+
+
 
 ### Termer och definitioner
 
@@ -11880,10 +12228,179 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### !!! Ultraljudsundersökning
+
+#### Basal
+
+***Allmänt***
+
+* Gynekologiskt ultraljudsundersökning
+
+
+
+***Förutsättninga***
+
+* Genomfört gynekologiskt status
+* tömd urinblåsa
+* Vaginalt/abdominellt UL: kan göra abdominellt på gravida iom att ovarierna är upptryckta. 
+
+
+
+***Indikationer***
+
+* Smärta och blödning i tidig graviditet
+* Olaga blödning/postmenopausal blödning
+* Palpabel/misstänkt resistens i bäckenet
+* Utredning av akut/kronisk smärta
+* Mätning av residualurin
+* Infertilitetsutredning
+* Upprepade missfall
+* Utredning av misstänkt uterusmissbildning
+* Spiralläge
+* Bedömning av djup endometrios
+* Bedömning av tumörutbredning av gynekologisk cancer 
+* Misstänkt cancerrecidiv
+
+
+
+***Hur undersökningen går till***
+
+* Identifiera uterus, leta efter ett längssnittför att bedöma tjocklek slemhinnnan. 
+* Polyper? 
+* Myom? 
+* Spiral?
+* Vaginalt:
+  * För in probförsiktigt
+  * Identifiera uterus, leta efter ett längssnittför att bedöma tjocklek slemhinnnan. Titta igenom uterus i tvärsnitt (probroteras 90 grader)
+  * Identifiera ovarier, bedöm i längssnittoch tvärsnitt. Cystor? Annat avvikande?
+
+
+
+!!! ***Endometrieslemhinnan***
+
+* **Proliferationsfas**: 6-10mm + låg ekogenicitet; det är mer svartare på bilden. 
+* **Vid ovulation**: treskiktat endometrium
+* **Sekretionsfas**: 7-16mm + mer hyperekogent
+* **Postmenopausalt**: <5mm
+
+
+
+***Postmenopausal blödning***
+
+* Om över 5mm, eller omätbart: ökad risk för endometriecancer
+  * !!! utredning hydrosonografi
+  * provtagning endometriet: endorette, aspirationsbiopsier
+
+| <img src="./imgs/sam_130421_03bcbMEi7y.png" alt="03bcbMEi7y" style="zoom: 33%;" /> | <img src="./imgs/sam_130421_Z1xeXlodlY.png" alt="Z1xeXlodlY" style="zoom:50%;" />postmenopaus |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
+#### Hydrosonografi
+
+***Indikationer***
+
+* När det är svårt skilja benignt fr malignt endometrium
+  * Då kan hydrosonografi komplettera vanlig undersökning. 
+
+
+
+***Metod***
+
+* Kateter in i corpuskavitet
+* Instillerar koksaltlösning + samtidigt UL
+
+
+
+***Identifierar***
+
+* Corpuspolyper
+* Synekier
+* Uterusmissbildningar
+* INtrakavitär myom
+* Submuköas myom
+
+
+
+***Corpuspolyp***
+
+* Skulle ha sett ut som ett normalt förtjockat endometrum utan koksaltlösningen. 
+
+<img src="./imgs/sam_130421_AqmlXk95C7.png" alt="AqmlXk95C7" style="zoom: 25%;" />
+
+
+
+***Endometriehyperplasi***
+
+* <img src="./imgs/sam_130421_YThAUr0x2q.png" alt="YThAUr0x2q" style="zoom: 25%;" />
+
+
+
+#### Spiral
+
+
+
+**Undersökningsmässigt**
+
+* **Kopparspiral, hyperekogen**: att den lyser upp på ultraljudet.
+* **Hormonspiral, ekoskugga bakom spiral**: ändar som vita prickar
+* !!! **Spiral fri bukhåla**: diagnosticeras med röntgenundersökning. 
+
+
+
+| <img src="./imgs/sam_130421_I4AVTbmrhB.png" alt="I4AVTbmrhB" style="zoom:50%;" /> | <img src="./imgs/sam_130421_5z2J0U0FiG.png" alt="5z2J0U0FiG" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
+#### Myom
+
+| <img src="./imgs/sam_130421_0COte3wdxd.png" alt="0COte3wdxd" style="zoom:50%;" /> | <img src="./imgs/sam_130421_ocFWr9zcqh.png" alt="ocFWr9zcqh" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| Man ser myomet, med solfjädersutformningen på ultraljud.     |                                                              |      |
+
+
+
+#### Uterusmussbildningar
+
+***Indelningar***
+
+* **Uterus didelphys**, två separata horn, två separata uterus
+* **Bicornis, två horn**: att det är två horn i uterus. 
+* **Unicornis, ett horn**: en
+
+<img src="./imgs/sam_130421_cAE44U8nOv.png" alt="cAE44U8nOv" style="zoom:50%;" />
+
+
+
+
+
+#### Tubor
+
+***Utredning***
+
+* **Ultraljud**: normalt ser man inte tubor vid undersöknign. 
+* **Hydrosalpinx** (tubor fyllda med vätska)
+* **TOA**: 
+* **Tubarcancer**
+* **X-grav, ektopisk graviditete**
+
+
+
+
+
+| <img src="./imgs/sam_130421_p3GLyGhtHY.png" alt="p3GLyGhtHY" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
 ### Wet smear
 
 * man tar lite flytning fr vagina, sätter objektglas, tittar i mikroskop
-* väldigt enkelt. använder inte lika mkt mikroskop, 
+* väldigt enkelt. använder inte lika mikroskop, 
 * antingen NaCl eller KOH för att plocka fram olika celler att titta på 
 * vill ställad iagnos
 * KOH dödar bakterier, lättare se jästsvamper

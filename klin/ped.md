@@ -2926,7 +2926,8 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 **Utredning och handläggning**
 
-* 
+* 6åå-5åå: st användbara kriteriet för att bedöma pneunmni
+  * 
 
 
 
@@ -4495,17 +4496,25 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-### Respiratorisk svikt
+### Cyanos
 
 ***Etiologi och patofysiologi***
 
-* Flera orsaker förekommer som skulle ge respiratorisk svikt
-* alveolär hypoventilation
-* diffusion påverkan
-* ***intrapulmonell shunting***: 
-* ventilation-perfusion mismatch
-
-
+* !!! **Neonatal cyanos**
+  * Fostervatten kvar i lungorna, mekonium
+  * Foster-shuntar inte stängda ännu
+  * Fostercirkulation ofullständigt ersatt där ungen med egen andning syresätter sitt blod
+  * cyanosen övergående hos friskt barn, menkvarstående behöver förstås
+* **Perifer cyanos**
+  * ökat vävnadsupptag syre
+  * ökad A-V differens (AV-diff, arterovenös diff): fr 40% t 60%
+  * !!! **Orsaker ökat syrgasupptag, perifert**
+    * **perifer vasokonstriktion**: blodet flyter långsamt gm kapillärbädden, och ökar därför syrgasupptaget
+    * **RBC aggregerar, förlångsammar passage drf**: ökar syrgas-extraktion t vävnaden
+    * **DÄRFÖR, på venisdan ökar desat-Hb (deoxyHemoglon, deoxyHb)**: som ger cyanos
+* **Central cyanos**
+  * Kardiellt orsakad
+    * Hjärtförtstoring: ebstein (EBV?), PA med IVS
 
 
 
@@ -4610,11 +4619,14 @@ En kort lista över kliniska manifestationer av CF:
 
 <img src="./imgs/wet_flag.png" alt="wetflag" style="zoom:50%;" />
 
-### Hjärtdefekter
+### Hjärtfel
+
+#### Allmänt
 
 ***Presentation***
 
 * **Svara rätt eller fel**
+  
   * alla nyfödda kontrolleras femoralis för VSD och eller coarctio aortae
     * FALSKT
     * VSD: kan man inte känna av i femoralispulsarna
@@ -4632,10 +4644,12 @@ En kort lista över kliniska manifestationer av CF:
     * SANT
   * Hjärtsvikt sekundär t VSD brukar i de flesta fall presentera kliniskt under barnets första levnadsvecka
     * FALSKT
+  
 * !!! **Hjärtfel hos barn kan ge symtom i form av hjärtsvikt, cyanos och blåsljud. En stor VSD brukar ge symtom och därmed diagnostiseras vid ca 1 – 3 månaders ålder. Förklara mycket kort i telegramform för varje symtom, dvs de tre symtomen, varför det föreligger eller varför det ej föreligger vid den angivna vanliga diagnosåldern. Uppsatser ger avdrag. (3 p)**
   * HJärtsvikt: Vä-hö shunt -> ökad pulmonell kärlresistens -> högre arbetsmotstånd Hö hjärta -> sviktande funktion och hö-svikt
   * Cyanos: VSD acyanotiskt: relateras vä-hö shunt, varpå saturerat blod -> systemkretsloppet trots shunt (till skillnad fr hö-vä shunt: desat blod blandas -> systemkretslopp -> cyanos)
   * !!! Blåsljud: beroende på storlek
+  
 * **En 2 månader gammal fullgången flicka** 
   * söker akut med sina föräldrar för att hon inte orkar amma. Hon har ingen ÖLI eller feber. I status: Afebril. Kapilläråterfyllnad 2 s. Hjärta: frekvens 170, starka toner. Inget fremissement, inget säkert blåsljud. Femoralispulsar palperas. Lungor: inga biljud, takypné, andningsfrekvens 56/min. Övrigt status ua. Buk: Mjuk, oöm. Palperar leverkanten 1 cm nedom arcus. Vilket tillstånd/sjukdom är det mest sannolika? (1 p) 
   * AML (Akut myeloisk leukemi) 
@@ -4644,21 +4658,24 @@ En kort lista över kliniska manifestationer av CF:
   * Pneumoni 
   * rätt: VSD (Kammarseptumdefekt) 
   * // enl sarah, leukemi går ej med leverförstoring, ASD oftast inga symptom, coarctio för ha påverkade femoralispulsar,
+  
 * **En mamma kommer till dig som barnläkare på BVC med lille Pelle för 2-månaderskontroll. I status hör du ett tydligt systoliskt, högfrekvent blåsljud över I3 – I4 sin, som man inte noterade på BB.** **Mamma undrar varför man inte hörde detta vid undersökningen efter förlossningen?** **I status eller anamnes talar ingenting för inkompensation.** **Hur förklarar man detta? (1p)**
   * VSD, vä-hö shunt. Blåsljudet högre potentiellt för att den håller på att sluta sig varpå högre frekventa blåsljud
   * **om misstanke bekräftats, varför skulle ett pox prov inte ha bidragit t misstanken**
     * VSD är inte ett ductusberoende hjärtfel, så en pox utesluter inte VSD
+  
 * **Några minuter senare kommer barnmorskan ut från förlossningsrummet med en nyfödd flicka som glädjande nog börjar skrika så snart hon läggs på neobordet. Du konstaterar bl a att hjärtat har en normal hjärtfrekvens för åldern och du hör inga blåsljud. Femoralispulsarna palperas utan anmärkning. Flickans pappa ansluter kort därefter. Han är mycket orolig för att barnet ska ha ett hjärtfel. Han önskar svar på följande frågor.** 
-  * Hur går POX undersökningen t, o vilken typ av hjätrfel kan man upptäcka
+  * **Hur går POX undersökningen t, o vilken typ av hjätrfel kan man upptäcka**
     * Sätter en POX hö arm och ngn av fotterna
     * upptäcka ductusberoende hjärtfel (coarctio aortae?);
       * Ductus arteriosus sluter ofta spontant under första levnadsdygnet. 
       * om barnläkarundersök kombas med pulsoximetri (POX), dvs saturation i höger hand (preductalt) och en fot (postductalt) kan över 80% av barn med ductusberoende hjärtfel upptäckas före hemgång. 
-    * !!! Utesluter dock inte allvarligt hjärtfel: SÄRSKILT BARN MED COARCTIO AORTA KAN HA NORMAL POX-screening
+    * !!! **Utesluter dock inte allvarligt hjärtfel**: SÄRSKILT BARN MED COARCTIO AORTA KAN HA NORMAL POX-screening
   * !! SYmptom tecken hjärtsvikt hos flicka den närmsta tiden. Ange 2
     * Svettning amning
     * går ej upp i vikt
     * takypne
+  
 * **13. Hjärtvitier i barnaåren kan leda till bl a hjärtsvikt och/eller cyanos.** 
   * **a) Ange minst 4 typiska symtom vid hjärtsvikt hos barn och ange två vitier som kan leda till hjärtsvikt. 3p** 
     * Svettning vid amning
@@ -4669,13 +4686,17 @@ En kort lista över kliniska manifestationer av CF:
   * **Ibland uppstår cyanos plötsligt en stund eller timmar dagar efter partus. Ange 2 vitier som kan osrsaka cyanos, o vilket lkm du behandlar de akut**
     * Ductusberoende hjärtfel: coarctio aortae, pulmonalisatresi, TGA, Fallots
     * Prostaglandin (hålla ductus arteriosus öppet)
+  
 * Vid en stor ventrikelseptumdefekt (VSD) hörs initialt ofta inget blåsljud, och dessa barn kan därför passera den neonatala kontrollen på BB utan åtgärd. Emellertid utvecklar dessa barn förr eller senare symptom som föräldrarna söker för, t.ex. på akutmottagningen. 
   * ungefär vid vilken ålder brukar symptomen komma? 1p 
       * 2 mån 
   * ange 3 symptom/tecken i status observeras i det typiska fallet? 1p 
-      * Svettning vid amning, uppfödningssvårigheter, takypné 
+      * Svettning vid amning, 
+      * uppfödningssvårigheter, 
+      * takypné 
   * vilket tillstånd beror symptomen på? (Ange tillståndet med ett ord!) 1p
       * Hjärtsvikt  
+  
 * **På BB undersöker du ett barn som precis har undersökts i pox-screeningen och befunnits ha ett patologiskt prov. Du kan se att barnet har antydd läppcyanos. Innan du gör ett fullständigt hjärtstatus tänker du igenom vilka vitier som kan uppvisa cyanos i denna ålder.** 
   * Ange 2 sådana vitier
     * Fallots tetrad
@@ -4683,14 +4704,375 @@ En kort lista över kliniska manifestationer av CF:
   * Nämn en farmakologisk behandling som kan vara aktuell vid cyanos hos ett nyfött barn sekundärt t hjärtvitium
     * prostaglandin
     * För att hålla ductus arteriosus öppet då detta är ductusberoende hjärtfel
+  
+* **!!! flicka efter vecka 41+2 i en normal förlossning.** 
 
+  * Flickan skrek direkt och verkar vital men hon är fortfarande inte rosig i färgen, 15 minuter efter födelsen. Barnmorskan vill att du kommer och tittar på flickan. Du stegar iväg från den fullsatta akutmottagningen till förlossningen. På vägen funderar du över hur påverkad flickan är och om det var nödvändigt att bli störd… 
+  * !!! Vad tittar du i status när du kommer fram
+    * ABCDE!
+  * Hur vill du förtydliga anamnesen
+    * Fråga barnmorska: helt normal förlossning ,CTG-påverkan innan födsel. laktat. syrbas. vikt. modern frisk. medicinering. tecken infek hos moder under grav o förlossning. första barn. tidigare barn friska
+  * När du kommer till förlossningen är flickan med sina föräldrar på förlossningsrummet. Hon har fri luftväg och andas med en frekvens av 70 andetag/minut. Andningen i övrigt ser inte ansträngd ut, hon har inga indragningar eller näsvingespel. När du lyssnar på hjärtat hör du ett blåsljud grad 3/6 över hela prekordiet och du kan känna lätt ökade prekordiella pulsationer. Hjärtfrekvensen ligger på 160. Du känner ingen leverförstoring. Flickan har lätt nedsatt tonus, men normala neonatalreflexer. Skallen är något toppig, men främre fontanellen känns normal. 
+  * Barnmorskan berättar att modern, en 35-årig omföderska, är frisk förutom att hon tidigare medicinerat med Sertralin p g a depression. Förlossningen har varit normal utan påverkat CTG. Föräldrarna berättar att graviditeten varit normal frånsett en del foglossningsbesvär. Mamman har inte haft några infektionstecken under graviditet eller förlossning. De har en frisk 3-årig pojke hemma. 
+  * Du ber barnmorskan kontrollera en saturation som visar sig ligga på 50 %. Syra/basstatus från navelsträngen är normalt.
+  * **Flesta kliniker gör POX-screening barn mer än 6h gamla. hur o varför**
+    * Man mäter saturation i höger hand och fot. Om POX vid den första mätningen är <90 % bör barnläkare kontaktas för bedömning. Om saturationen i både hand och fot är under 95 % eller om skillnaden mellan hand och fot är ≥4% enheter bör POX kontrolleras om efter någon timme och vid fortsatt avvikelse ska barnläkare kontaktas. Mätningen görs för att upptäcka barn med allvarliga hjärtfel tidigt (inte alltid så lätt att se cyanos på nyfödda) och man mäter i höger hand och fot för att kunna värdera saturation före och efter avgången av ductus arteriosus.
+  * **vad lider flickan av**
+    * Man mäter saturation i höger hand och fot. Om POX vid den första mätningen är <90 % bör barnläkare kontaktas för bedömning. Om saturationen i både hand och fot är under 95 % eller om skillnaden mellan hand och fot är ≥4% enheter bör POX kontrolleras om efter någon timme och vid fortsatt avvikelse ska barnläkare kontaktas. Mätningen görs för att upptäcka barn med allvarliga hjärtfel tidigt (inte alltid så lätt att se cyanos på nyfödda) och man mäter i höger hand och fot för att kunna värdera saturation före och efter avgången av ductus arteriosus.
+  * Du tar flickan omgående till förlossningens akutbord och larmar sjuksköterska från neonatalavdelningen för assistans. Väl där startar du neopuffen och använder den som CPAP. Flickan kopplas upp med kontinuerligt EKG samt saturationsmätning i höger hand och fot. Du ökar syrgasen stegvis upp till 95 % men saturationen visar 50 % oavsett hur mycket syrgas du ger.
+    * Hur tänkeru kring diagnosen. Vad är nästa steg i handläggningen o vidare i utredningen
+      * !!! cyanotiskt hjärtfel!!
+      * bakjour + narkos beojour behöver kontaktas för åtfärder
+      * föras t neonatalavdelning för vidare utredning
+      * behöver navelven och artärkateter för läkemdel och monitorereas bättre
+      * evt intuberas för att få optimal andning som möjligt
+      * om möjligt UL hjärta asap
+      * rtg pulm bör överväga
+  * Du tar in flickan till neonatalavdelningen och kontaktar samtidigt bakjouren. Eftersom vederbörande finns i hemmet kontaktar du också narkosjouren, som kommer och bistår dig i att assistera flickans ventilation. Efter lite resonemang intuberas hon och du sätter navelven- och artärkatetrar för att kunna monitorera flickan bättre och ge henne läkemedel. Hon får också en ventrikelsond. Din bakjour tar kontakt med sin barnkardiologkollega, som kommer in för vidare utredning med ultraljud hjärta.
+  * medfödda hjärtfel kan patofysiologiskt delas in i cyanotiska, acyanotiska, obstrktiva. Nämn de 8 vanligaste hjärtfelen + dela in dem
+    * Acyanotiska: VSD, ASD, PDA
+    * Obstruktiva: pulmonalisstenos, aortasteons
+    * Cyanotiska: TGA, Fallots tetrad (inte triad?)
+  * UL visar TGA. ingen ASD, eller VSD
+  * **Förklara hur flickan trots allt får syresatt blod**
+    * !!! **Öppetstående ductus arteriosus**: detta kan väl omöjligen vara den enda förklaringen?
+  * **vilken medicin bör sättas in asap. Varför. 2 biverkningar med denna medicin**
+    * Prostaglandininfusion: hindra ductus att slutas
+    * Vanligaste biverkan: 
+      * apne (därför intuberade), 
+      * feber, 
+      * hypotension, 
+      * flush
 
+  
 
 
 
 ***Allmänt***
 
 <img src="./imgs/ped_sam_090421_bzG283kKZk.png" alt="bzG283kKZk" style="zoom:50%;" />
+
+
+
+
+
+
+
+#### Atrial septal defect (ASD)
+
+* Defect in the septum that divides right and left atria; most common type is ostium
+  secundum (90% of cases).
+* Ostium primum type is associated with Down syndrom
+* Results in left-to-right shunt and split S2 on auscultation (increased blood in right
+  heart delays closure of pulmonary valve)
+* Paradoxical emboli are an important complication
+
+
+
+
+
+#### Coarction of the aorta
+
+***Presentation***
+
+* A 10-year-old girl is seen for a routine health maintenance evaluation. Five years ago, she underwent surgical repair of coarctation of the aorta. On examination, the blood pressure in her right arm is 173/81 mm Hg, and her oxygen saturation is 97% in room air. Auscultation reveals a systolic ejection murmur audible throughout the precordium. The patient is otherwise asymptomatic. Which of the following would be the most appropriate next step in management?
+* Fem dagar gammal gosse
+  * togs till barnakuten med ambulans 20 minuter efter det att han plötsligt insjuknande med snabbandning, irritabilitet och svettningar. Han föddes i fullgången tid vaginalt utan komplikationer. Temperaturen vid ankomst var 37,0°C, pulsen var 200 / min och andningen 50 / min. Vid fysisk undersökning, auskulterades på bröstet ett grad 2/6 systolisk blåsljud som hördes bäst med PM sin 2-5 och strålade till vänster interskapulärt område. Palpation i buken visar förstoring av levern. Femorala pulser är svaga bilateralt – svårt att palpera enligt undersökaren. Inga andra avvikelser noteras.
+    * Rätt: Koarktation av aorta
+    * Diafragma bråck
+    * Grupp B streptokock sepsis
+    * Fallots tetrad
+
+
+
+***Etiologi och patofysiologi***
+
+* Narrowing of the aorta; classically divided into infantile and adult forms
+* Infantile form is associated with a PDA: notera att den därför är ett ductusberoende hjärtfel. Verkar ej vara förenligt med liv?
+  * coarctation lies after (distal to) the aortic arch, but before (proximal to) the PD
+  * presents as lower extremity cyanosis in infants, often at birth
+* Associated with Turner syndrome
+* Adult form is not associated with a PDA; coarctation lies after (distal to) the aortic
+  arc Presents as hypertension in the upper extremities and hypotension with weak
+  pulses in the lower extremities; classically discovered in adulthood
+* Collateral circulation develops across the intercostal arteries; engorged arteries
+  cause 'notching' of ribs on x-ray (Fi* 8.11 B).
+* Associated with bicuspid aortic valve
+
+
+
+***Handläggning***
+
+* Auskultation alla extremiteter
+  * Restenosis is a known complication from repair of coarctation of the aorta, and these clinical features are consistent with restenosis. Patients with coarctation of the aorta classically present with hypertension in the right arm, and commonly in the left arm, and reduced blood pressures in the lower extremities. Therefore, the most appropriate initial step in this patient would be to obtain blood pressures in all four extremities. Balloon angioplasty with or without endovascular stenting is the treatment of choice for restenosis, rather than surgical repair, after the patient undergoes a complete evaluation. Confirmation of a bicuspid aortic valve is important because it may accompany coarctation in up to half of patients; however, it is not the most appropriate initial step in this patient’s management. The oxygen saturation is normal in room air and therefore does not require reassessment in 100% oxygen. Given the significantly elevated blood pressure, it is not appropriate to wait 6 months for reevaluation.
+
+
+
+***Behandling***
+
+* Kirurgiskt: 
+
+
+
+
+
+<img src="./imgs/sam_140421_hECEnODUco.png" alt="hECEnODUco" style="zoom:50%;" />
+
+
+
+#### !!! Ductusberoende hjärtfel
+
+***Indelning***
+
+* två grupper ductusberoende hjärtfel
+* de med för lite cirkulation t lungor
+  * Sjukdomarna
+    * Tricuspodalisatres
+    * Pulmonalisatresi
+    * TGA: denna sjd är att man har två parallella kretslopp
+  * Har i princip alltid dålig saturation,
+  * Brukar upptäckas alltid på POX-screening. 
+  * blodflödet t lungor  är beroende öppetstående ductus
+* **systemcirkulationen beroende aven öppen ductus**
+  * Sjukdomarna
+    * Hypoplastisk vänsterkammarsyndrom (HLHS
+    * Coarctio aortae
+    * kritisk aortastenos
+  * Dessa fall, HÖ-VÄ shunt VIA DUCTUS är nödvändig. 
+
+
+
+**Basal fysiologi**
+
+* Ductus arteriosus kopplar ARTERIA pulmonalis (alltså den fr högerhjärtat) till aorta
+* Notera the linking point: att ductus arteriosus kopplas ganska så SENT i arcus aortae
+* Preductala avgreningar: a braciocephalica, carotis communis sn, a sublavia sn
+  * Alltså är både höger och vänster armen preductala
+* 
+
+
+
+***Etiologi och patofysiologi***
+
+* **För lite lungcirkulation**: tricuspidalisatresi, pulmonalisatresi, TGA..
+  * **POX-screeningen**: habituellt sänkt saturation när man kommer ut 
+* **Beroende ductus för systemcirkulationen**
+  * **POX-screeningen, kommer ej upptäcka dessa**: Initialt bra Saturation + inga blåsljud + okej femoralispulsar 
+  * När ductus stänger sig: då kommer ungen att påvisa allvarliga symptom. 
+
+
+
+
+
+
+
+#### Patent ductus arteriosus (PDA)
+
+
+
+***Etiologi och patofysiologi***
+
+* **Failure of ductus arteriosus to close;** 
+* associated with **congenital rubella**
+* ***VÄ-HÖ shunt***: between the aorta and the pulmonary artery
+* **Normalt sett, fostercirkulationen**
+  * ductus arteriosus normally shunts blood from the pulmonary artery to the aorta, 
+  * ***bypassing the lung***
+* Asymptomatic at birth with continuous 'machine-like' murmur; 
+* may lead to Eisenmenger syndrome, resulting in lower extremitets cyanosis
+
+
+
+***Behandling***
+
+* ***PGE*** indomethacin, which decreases PGE, resulting in PDA closure
+* (PGE maintains patency of the ductus arteriosus).
+
+
+
+#### Tetralogy of fallot (Fallots TETRad)
+
+***Presentation***
+
+* A 20-month-old boy 
+  * with tetralogy of Fallot is admitted for evaluation of cyanosis that is increasing in frequency. As you conclude your history and physical examination, you witness an episode of cyanosis when the patient’s brother makes him cry. As the crying increases, the patient becomes more and more cyanotic. On examination, his cardiac murmur is now much softer than before he began crying. What is the next most appropriate step in management?
+
+  * Characterized by pulmonary artery arising from the left ventricle and aorta arising from the right ventricle
+  * Associated with maternal diabetes
+  * Presents with early cyanosis; pulmonary and systemic circuits do not mi Creation of shunt (allowing blood to mix) after birth is required for surival
+  * PGE can be administered to maintain a PDA until definitive surgical repair is performe Results in hypertrophy of the right ventricle and atrophy of the left ventricle
+
+
+
+***Etiologi och patofysiologi***
+
+* Characterized by 
+  * (1) stenosis of the right ventricular outflow tract, 
+  * (2) right ventricular hypertrophy, 
+  * (3) VSD, and 
+  * (4) an aorta that overrides the VSD
+* Right-to-left shunt leads to early cyanosis; 
+  * degree of stenosis determines the extent of shunting and cyanosi 
+  * !!! Patients learn to squat in response to a cyanotic spell; 
+    * increased arterial resistance decreases shunting and allows more blood to reach the lung* ~
+* 'Boot-shaped' heart on x-ray (Fi* 8.10)
+
+
+
+***Kliniska kännetecken***
+
+* Tetralogy of Fallot (hypercyanotic or “tet”) spells are defined as paroxysmal episodes of 
+  * hyperpnea, 
+  * irritability, and 
+  * prolonged crying that 
+  * result in increasing cyanosis 
+  * and decreasing intensity of the heart murmur. 
+* **Gråta**: This condition is often triggered by crying. 
+
+
+
+***Behandling***
+
+* ***Knee-chest position***
+  * Initial management is to increase systemic vascular resistance by placing the patient in a knee-chest position. 
+  * !!! **increased arterial resistance decreases shunting and allows more blood to reach the lung* ~**
+* **Other therapeutic modalities include the administration of** 
+  * morphine sulfate, 
+  * sodium bicarbonate, 
+  * Intravenous fluids 
+  * the use of oxygen. 
+  * Mechanical ventilation in combination with general anesthesia may be effective but would only be used when other management options fail to reverse the cyanosis. 
+  * Dopamine and epinephrine are contraindicated because they may worsen the spell. 
+* A cardiology consultation may be useful, but the acuity of the patient’s clinical presentation requires immediate intervention
+
+
+
+<img src="./imgs/sam_140421_XUjaUdsseY.png" alt="XUjaUdsseY" style="zoom:50%;" />
+
+
+
+
+
+
+
+
+
+
+
+#### TGA
+
+***Presentation***
+
+* **!!! flicka efter vecka 41+2 i en normal förlossning.** 
+  * Flickan skrek direkt och verkar vital men hon är fortfarande inte rosig i färgen, 15 minuter efter födelsen. Barnmorskan vill att du kommer och tittar på flickan. Du stegar iväg från den fullsatta akutmottagningen till förlossningen. På vägen funderar du över hur påverkad flickan är och om det var nödvändigt att bli störd… 
+  * !!! Vad tittar du i status när du kommer fram
+    * ABCDE!
+  * Hur vill du förtydliga anamnesen
+    * Fråga barnmorska: helt normal förlossning ,CTG-påverkan innan födsel. laktat. syrbas. vikt. modern frisk. medicinering. tecken infek hos moder under grav o förlossning. första barn. tidigare barn friska
+  * När du kommer till förlossningen är flickan med sina föräldrar på förlossningsrummet. Hon har fri luftväg och andas med en frekvens av 70 andetag/minut. Andningen i övrigt ser inte ansträngd ut, hon har inga indragningar eller näsvingespel. När du lyssnar på hjärtat hör du ett blåsljud grad 3/6 över hela prekordiet och du kan känna lätt ökade prekordiella pulsationer. Hjärtfrekvensen ligger på 160. Du känner ingen leverförstoring. Flickan har lätt nedsatt tonus, men normala neonatalreflexer. Skallen är något toppig, men främre fontanellen känns normal. 
+  * Barnmorskan berättar att modern, en 35-årig omföderska, är frisk förutom att hon tidigare medicinerat med Sertralin p g a depression. Förlossningen har varit normal utan påverkat CTG. Föräldrarna berättar att graviditeten varit normal frånsett en del foglossningsbesvär. Mamman har inte haft några infektionstecken under graviditet eller förlossning. De har en frisk 3-årig pojke hemma. 
+  * Du ber barnmorskan kontrollera en saturation som visar sig ligga på 50 %. Syra/basstatus från navelsträngen är normalt.
+  * **Flesta kliniker gör POX-screening barn mer än 6h gamla. hur o varför**
+    * Man mäter saturation i höger hand och fot. Om POX vid den första mätningen är <90 % bör barnläkare kontaktas för bedömning. Om saturationen i både hand och fot är under 95 % eller om skillnaden mellan hand och fot är ≥4% enheter bör POX kontrolleras om efter någon timme och vid fortsatt avvikelse ska barnläkare kontaktas. Mätningen görs för att upptäcka barn med allvarliga hjärtfel tidigt (inte alltid så lätt att se cyanos på nyfödda) och man mäter i höger hand och fot för att kunna värdera saturation före och efter avgången av ductus arteriosus.
+  * **vad lider flickan av**
+    * Man mäter saturation i höger hand och fot. Om POX vid den första mätningen är <90 % bör barnläkare kontaktas för bedömning. Om saturationen i både hand och fot är under 95 % eller om skillnaden mellan hand och fot är ≥4% enheter bör POX kontrolleras om efter någon timme och vid fortsatt avvikelse ska barnläkare kontaktas. Mätningen görs för att upptäcka barn med allvarliga hjärtfel tidigt (inte alltid så lätt att se cyanos på nyfödda) och man mäter i höger hand och fot för att kunna värdera saturation före och efter avgången av ductus arteriosus.
+  * Du tar flickan omgående till förlossningens akutbord och larmar sjuksköterska från neonatalavdelningen för assistans. Väl där startar du neopuffen och använder den som CPAP. Flickan kopplas upp med kontinuerligt EKG samt saturationsmätning i höger hand och fot. Du ökar syrgasen stegvis upp till 95 % men saturationen visar 50 % oavsett hur mycket syrgas du ger.
+    * Hur tänkeru kring diagnosen. Vad är nästa steg i handläggningen o vidare i utredningen
+      * !!! cyanotiskt hjärtfel!!
+      * bakjour + narkos beojour behöver kontaktas för åtfärder
+      * föras t neonatalavdelning för vidare utredning
+      * behöver navelven och artärkateter för läkemdel och monitorereas bättre
+      * evt intuberas för att få optimal andning som möjligt
+      * om möjligt UL hjärta asap
+      * rtg pulm bör överväga
+  * Du tar in flickan till neonatalavdelningen och kontaktar samtidigt bakjouren. Eftersom vederbörande finns i hemmet kontaktar du också narkosjouren, som kommer och bistår dig i att assistera flickans ventilation. Efter lite resonemang intuberas hon och du sätter navelven- och artärkatetrar för att kunna monitorera flickan bättre och ge henne läkemedel. Hon får också en ventrikelsond. Din bakjour tar kontakt med sin barnkardiologkollega, som kommer in för vidare utredning med ultraljud hjärta.
+  * medfödda hjärtfel kan patofysiologiskt delas in i cyanotiska, acyanotiska, obstrktiva. Nämn de 8 vanligaste hjärtfelen + dela in dem
+    * Acyanotiska: VSD, ASD, PDA
+    * Obstruktiva: pulmonalisstenos, aortasteons
+    * Cyanotiska: TGA, Fallots tetrad (inte triad?)
+  * UL visar TGA. ingen ASD, eller VSD
+  * **Förklara hur flickan trots allt får syresatt blod**
+    * !!! **Öppetstående ductus arteriosus**: detta kan väl omöjligen vara den enda förklaringen?
+  * **vilken medicin bör sättas in asap. Varför. 2 biverkningar med denna medicin**
+    * Prostaglandininfusion: hindra ductus att slutas
+    * Vanligaste biverkan: 
+      * apne (därför intuberade), 
+      * feber, 
+      * hypotension, 
+      * flush
+
+
+
+***Allmänt***
+
+* Transposition of the great vessels
+
+
+
+***Etiologi och patofysiologi***
+
+* Parallella blodkretslopp. 
+* Systemcirkulationen: Man ser att vena cava och aorta är direkt kopplade med varandra i högerhjärtat
+* **Lungcirkulationen, lungkretsloppet**: också isolerade, med att arteria pulmonalis och vena pulmonalis är båda kopplade i vänsterhjärta
+* **Ductus arteriosus, shuntar blod**: Det är via  
+
+
+
+<img src="./imgs/sam_140421_30zmBk3Isl.png" alt="30zmBk3Isl" style="zoom: 80%;" />
+
+
+
+#### Truncus arteriosus
+
+***Presentation***
+
+* You are called to the newborn nursery to evaluate a 2-hour-old newborn who has suddenly become cyanotic. The oxygen saturation on room air is 69%, and the patient is tachycardic and tachypneic. Oxygen is administered without improvement in the patient’s oxygen saturation. On examination, you hear a loud S 2 and no murmur. A chest radiograph shows increased pulmonary vascular markings, a narrow mediastinum, and a small heart. Which of the following would be the next step in management?
+
+
+
+***Kliniska känntecken***
+
+* ***Diffa mot ductus arteriosus***
+* Characterized by a single large vessel arising from both ventricles
+* Truncus fails to divide
+* Presents with early cyanosis; deoxygenated blood from right ventricle mixes with
+  oxygenated blood from left ventricle before pulmonary a nd aortic circulations
+  separat
+
+
+
+***Behandling***
+
+* Akut
+  * Infusion prostaglandin E (PGE): 
+    * detta för att vid transposition of the great vessels är de stora kärlen pulmonalis och aorta, i parallel och inte i serie, vilket innebär att d et är ductus arteriosus som måste hållas öppet för att shunta blod
+    * för att hålla den öppen ger vid dräför prostaglandin E (PGE)
+
+
+
+#### Tricuspid atresi
+
+***Presentation***
+
+* You are called to the nursery to evaluate a male newborn with cyanosis. On auscultation, you hear a single S 2 but no murmur. Pulse oximetry shows an oxygen saturation of 72% in room air. An electrocardiogram reveals left axis deviation and left ventricular hypertrophy. What is his likely diagnosis?
+
+* Tricuspid valve orifice fails to develop; right ventricle is hypoplasti* * Often associated with ASD, resulting in a right-to-left shunt; presents with early
+  cyanosi
+
+
+
+***Etiologi och patofysiologi***
+
+* Pathophysiology. Whether a VSD is also present plays a significant role in determining
+  the clinical presentation.
+  a. If no VSD is present and the ventricular septum is intact, pulmonary atresia is also
+  present. For blood to flow to the lungs in this situation, a PDA must be present. As
+  the PDA constricts after birth, visible cyanosis develops.
+  b. If a VSD is present, blood flow from the left ventricle through the VSD and into the
+  pulmonary artery (left-to-right shunt) may be adequate, facilitating acceptable
+  systemic oxygen saturations (Figure 8-8).
+
+
 
 
 
@@ -4782,163 +5164,6 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-
-
-#### Atrial septal defect (ASD)
-
-* Defect in the septum that divides right and left atria; most common type is ostium
-  secundum (90% of cases).
-* Ostium primum type is associated with Down syndrom
-* Results in left-to-right shunt and split S2 on auscultation (increased blood in right
-  heart delays closure of pulmonary valve)
-* Paradoxical emboli are an important complication
-
-
-
-#### Patent ductus arteriosus (PDA)
-
-* Failure of ductus arteriosus to close; associated with congenital rubella
-* ***left-to-right shunt***: between the aorta and the pulmonary artery
-* During development, the ductus arteriosus normally shunts blood from the
-  pulmonary artery to the aorta, bypassing the lung
-* Asymptomatic at birth with continuous 'machine-like' murmur; may lead to
-  Eisenmenger syndrome, resulting in lower extremitets cyanosis
-* ***Behandling:*** indomethacin, which decreases PGE, resulting in PDA closure
-* (PGE maintains patency of the ductus arteriosus).
-
-
-
-#### Tetralogy of fallot
-
-***Presentation***
-
-* A 20-month-old boy 
-  * with tetralogy of Fallot is admitted for evaluation of cyanosis that is increasing in frequency. As you conclude your history and physical examination, you witness an episode of cyanosis when the patient’s brother makes him cry. As the crying increases, the patient becomes more and more cyanotic. On examination, his cardiac murmur is now much softer than before he began crying. What is the next most appropriate step in management?
-
-  * Characterized by pulmonary artery arising from the left ventricle and aorta arising from the right ventricle
-  * Associated with maternal diabetes
-  * Presents with early cyanosis; pulmonary and systemic circuits do not mi Creation of shunt (allowing blood to mix) after birth is required for surival
-  * PGE can be administered to maintain a PDA until definitive surgical repair is performe Results in hypertrophy of the right ventricle and atrophy of the left ventricle
-
-
-
-***Behandling***
-
-* ***Knee-chest position***
-  * Tetralogy of Fallot (hypercyanotic or “tet”) spells are defined as paroxysmal episodes of hyperpnea, irritability, and prolonged crying that result in increasing cyanosis and decreasing intensity of the heart murmur. This condition is often triggered by crying. Initial management is to increase systemic vascular resistance by placing the patient in a knee-chest position. Other therapeutic modalities include the administration of morphine sulfate, sodium bicarbonate, and intravenous fluids and the use of oxygen. Mechanical ventilation in combination with general anesthesia may be effective but would only be used when other management options fail to reverse the cyanosis. Dopamine and epinephrine are contraindicated because they may worsen the spell. A cardiology consultation may be useful, but the acuity of the patient’s clinical presentation requires immediate intervention
-
-
-
-***Etiologi och patofysiologi***
-
-* Characterized by (1) stenosis of the right ventricular outflow tract, (2) right
-  ventricular hypertrophy, (3) VSD, and (4) an aorta that overrides the VSD
-* Right-to-left shunt leads to early cyanosis; degree of stenosis determines the extent of
-  shunting and cyanosi Patients learn to squat in response to a cyanotic spell; increased arterial resistance
-  decreases shunting and allows more blood to reach the lung* ~
-* 'Boot-shaped' heart on x-ray (Fi* 8.10)
-
-
-
-#### Transposition of the great vessels
-
-
-
-#### Truncus arteriosus
-
-***Presentation***
-
-* You are called to the newborn nursery to evaluate a 2-hour-old newborn who has suddenly become cyanotic. The oxygen saturation on room air is 69%, and the patient is tachycardic and tachypneic. Oxygen is administered without improvement in the patient’s oxygen saturation. On examination, you hear a loud S 2 and no murmur. A chest radiograph shows increased pulmonary vascular markings, a narrow mediastinum, and a small heart. Which of the following would be the next step in management?
-
-
-
-***Kliniska känntecken***
-
-* ***Diffa mot ductus arteriosus***
-* Characterized by a single large vessel arising from both ventricles
-* Truncus fails to divide
-* Presents with early cyanosis; deoxygenated blood from right ventricle mixes with
-  oxygenated blood from left ventricle before pulmonary a nd aortic circulations
-  separat
-
-
-
-***Behandling***
-
-* Akut
-  * Infusion prostaglandin E (PGE): 
-    * detta för att vid transposition of the great vessels är de stora kärlen pulmonalis och aorta, i parallel och inte i serie, vilket innebär att d et är ductus arteriosus som måste hållas öppet för att shunta blod
-    * för att hålla den öppen ger vid dräför prostaglandin E (PGE)
-
-
-
-#### Tricuspid atresi
-
-***Presentation***
-
-* You are called to the nursery to evaluate a male newborn with cyanosis. On auscultation, you hear a single S 2 but no murmur. Pulse oximetry shows an oxygen saturation of 72% in room air. An electrocardiogram reveals left axis deviation and left ventricular hypertrophy. What is his likely diagnosis?
-
-* Tricuspid valve orifice fails to develop; right ventricle is hypoplasti* * Often associated with ASD, resulting in a right-to-left shunt; presents with early
-  cyanosi
-
-
-
-***Etiologi och patofysiologi***
-
-* Pathophysiology. Whether a VSD is also present plays a significant role in determining
-  the clinical presentation.
-  a. If no VSD is present and the ventricular septum is intact, pulmonary atresia is also
-  present. For blood to flow to the lungs in this situation, a PDA must be present. As
-  the PDA constricts after birth, visible cyanosis develops.
-  b. If a VSD is present, blood flow from the left ventricle through the VSD and into the
-  pulmonary artery (left-to-right shunt) may be adequate, facilitating acceptable
-  systemic oxygen saturations (Figure 8-8).
-
-
-
-#### Coarction of the aorta
-
-***Presentation***
-
-* A 10-year-old girl is seen for a routine health maintenance evaluation. Five years ago, she underwent surgical repair of coarctation of the aorta. On examination, the blood pressure in her right arm is 173/81 mm Hg, and her oxygen saturation is 97% in room air. Auscultation reveals a systolic ejection murmur audible throughout the precordium. The patient is otherwise asymptomatic. Which of the following would be the most appropriate next step in management?
-* Fem dagar gammal gosse
-  * togs till barnakuten med ambulans 20 minuter efter det att han plötsligt insjuknande med snabbandning, irritabilitet och svettningar. Han föddes i fullgången tid vaginalt utan komplikationer. Temperaturen vid ankomst var 37,0°C, pulsen var 200 / min och andningen 50 / min. Vid fysisk undersökning, auskulterades på bröstet ett grad 2/6 systolisk blåsljud som hördes bäst med PM sin 2-5 och strålade till vänster interskapulärt område. Palpation i buken visar förstoring av levern. Femorala pulser är svaga bilateralt – svårt att palpera enligt undersökaren. Inga andra avvikelser noteras.
-      * Rätt: Koarktation av aorta
-      * Diafragma bråck
-      * Grupp B streptokock sepsis
-      * Fallots tetrad
-
-
-
-***Etiologi och patofysiologi***
-
-* Narrowing of the aorta; classically divided into infantile and adult forms
-* Infantile form is associated with a PDA; 
-  * coarctation lies after (distal to) the aortic arch, but before (proximal to) the PD
-  * presents as lower extremity cyanosis in infants, often at birth
-* Associated with Turner syndrome
-* Adult form is not associated with a PDA; coarctation lies after (distal to) the aortic
-  arc Presents as hypertension in the upper extremities and hypotension with weak
-  pulses in the lower extremities; classically discovered in adulthood
-* Collateral circulation develops across the intercostal arteries; engorged arteries
-  cause 'notching' of ribs on x-ray (Fi* 8.11 B).
-* Associated with bicuspid aortic valve
-
-
-
-***Handläggning***
-
-* Auskultation alla extremiteter
-  * Restenosis is a known complication from repair of coarctation of the aorta, and these clinical features are consistent with restenosis. Patients with coarctation of the aorta classically present with hypertension in the right arm, and commonly in the left arm, and reduced blood pressures in the lower extremities. Therefore, the most appropriate initial step in this patient would be to obtain blood pressures in all four extremities. Balloon angioplasty with or without endovascular stenting is the treatment of choice for restenosis, rather than surgical repair, after the patient undergoes a complete evaluation. Confirmation of a bicuspid aortic valve is important because it may accompany coarctation in up to half of patients; however, it is not the most appropriate initial step in this patient’s management. The oxygen saturation is normal in room air and therefore does not require reassessment in 100% oxygen. Given the significantly elevated blood pressure, it is not appropriate to wait 6 months for reevaluation.
-
-
-
-***Behandling***
-
-* Kirurgiskt: 
-
-
-
 ### Hjärtaktivitet
 
 #### Supraventrikulär takykardi: SVT
@@ -4958,6 +5183,29 @@ En kort lista över kliniska manifestationer av CF:
   * 150-200 slag/min, vagal stimulering, WPW-syndrom, Sinusrytm med deltavåg 
   * Rätt..: 220-300 slag/min, vagal stimulering, WPW-syndrom, Sinusrytm med deltavåg 
   * 150-200 slag/min, i.v. adenosin, okänd genes, Sinusrytm med deltavåg 
+
+
+
+### Hjärtshuntar
+
+#### HÖ-VÄ shuntar
+
+***Etiologi och patofysiologi***
+
+* TGA
+* Fallots triad, tetralogy of fallot
+
+
+
+***Utredning och handläggning***
+
+* POX-screening: bör utfalla positiva på POX-screeningen
+
+
+
+
+
+
 
 ### Obstruktiv bronkit
 
@@ -4992,6 +5240,27 @@ En kort lista över kliniska manifestationer av CF:
 ***Kliniska kännetecken***
 
 * This patient’s clinical presentation is most consistent with pericarditis. The likely cause of his pericarditis is postpericardiotomy syndrome, given the recent closure of his ventricular septal defect before the onset of his symptoms. Postpericardiotomy syndrome is believed to be an autoimmune response to a concomitant viral infection and is associated with opening of the pericardium during cardiac surgery. Pulsus paradoxus, or a greater-than-10 mm Hg drop in systolic blood pressure on deep inspiration, is found in patients with pericarditis. Splinter hemorrhages are noted in patients with endocarditis, which is also associated with fever. Supraventricular tachycardia, which would present as a rapid heart rate with absent P waves on electrocardiogram, may cause chest pain, but the pain would not change with position and fever would be absent. Prolonged QT syndrome is most often associated with syncope and sudden cardiac arrest. Costochondritis is a common cause of chest pain, but fever is not associated with this diagnosis.
+
+
+
+### Pox-screening
+
+***Presentation***
+
+* De flesta kliniker i landet för POX-screening av nyfödda barn som är mer än 6h. Hur går det till och varför gör man det
+  * Man mäter saturation i höger hand och fot. 
+  * Om POX vid den första mätningen är <90 % bör barnläkare kontaktas för bedömning. 
+  * Om saturationen i både hand och fot är under 95 % eller om skillnaden mellan hand och fot är ≥4% enheter bör POX kontrolleras om efter någon timme och 
+  * vid fortsatt avvikelse ska barnläkare kontaktas. 
+  * Mätningen görs för att upptäcka barn med allvarliga hjärtfel tidigt (inte alltid så lätt att se cyanos på nyfödda) och 
+  * man mäter i höger hand och fot för att kunna värdera saturation **före och efter avgången av ductus arteriosus**
+
+
+
+***Fysiologi bakom detta***
+
+* Evaluera hjärtfel som visar desaturationer: hö-vä shunt
+* 
 
 ### Misc
 
@@ -5046,6 +5315,16 @@ En kort lista över kliniska manifestationer av CF:
 * **syrgas**: detta verkar vara ett bot för dessa neo barn, iom att det sker en vasodilatation och sänker den pulmonella resistensen, varpå det blir enklare för ungen att cirkulera blod.  
 
 
+
+### Respiratorisk svikt
+
+***Etiologi och patofysiologi***
+
+* Flera orsaker förekommer som skulle ge respiratorisk svikt
+* alveolär hypoventilation
+* diffusion påverkan
+* ***intrapulmonell shunting***: 
+* ventilation-perfusion mismatch
 
 
 

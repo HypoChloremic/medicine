@@ -2272,6 +2272,8 @@ https://ki.padlet.org/eleonortiblad/u416n0zrxqgqihih
 
 * infektion, polyhydramnios (missbildning, diabetes hos mamman), flerbörd, cervixinsufficiens (öppnar sig för tidigt), invasiva ingrepp (fosterterapi) 
 
+
+
 **Konsekvenser**: 
 \- Om mycket tidigt tex före v.24 → artrogypos (behöver vatten för att kunna röra på sig) → felställningar). Utveckling av lungorna (risk för lunghypoplasi med kronisk lungsjukdom). Mgsulfat (om risk för förlossnign 32+0) minska risk cp skada och död. 
 Infektion: intrapartal feber ökar risk för asfyxi och neurologiska sequele hos barnet. 
@@ -2281,14 +2283,16 @@ Intrapartal feber ska behandlas med AB (pip-tass eller cinacef flagyl + paraceta
 
 
 
-Generellt prematurbörd bedömning. 
+**Generellt prematurbörd bedömning.** 
 
 - obstretrisk anamnes (var de prematur födda?)
 - Interkurrenta sjukdomar (inflammatoriska, crohns, flerbörd) 
 - Missbildningar/sjudkom hos foster tex. polyhydramnios) pga foster ej kan svälja undan fostervatten. 
 - Cervixmätning (kan man göra vid prematura sammandragningar). 
 
-Vad kna man göra prenatalt?
+
+
+**Vad kna man göra prenatalt?**
 
 - betametason (lungmognad). Före 34+0. 
 - Magnesiumsulfat till 32+0

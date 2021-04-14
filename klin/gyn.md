@@ -5416,6 +5416,31 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+
+
+#### Feber
+
+***Etiologi***
+
+* Trombos
+* UVI
+* Sårinfektion
+* Endometrit
+* GAS sepsis
+* mjölkstockning
+* mastit, bakteriell
+* bröstabscess
+* BESLUTA
+  * Bröst
+  * Endometrit
+  * Sepsis
+  * Lunginflam: immobilisering
+  * UVI
+  * Trombos
+  * Abscess
+
+
+
 ### Reumatoid artrit
 
 
@@ -6496,13 +6521,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Grå-vit vattning discharge** (grågul nämns osså)
 * **illaluktande flytning**
 * **3 av 4 amsels kriterier**
-  * tunn 
-  * honogen ofta bubblig flytning
+  * Förekomst clue cells wet smear: i yutstryk ses stora mängder bakterier på ytan
+  * Positivt KOH (sniff-test): tillsats KOH ökar pH och den karaktäristiska fiskdoften framträder
+  * Homogen, grågul, ofta skummig fluor ()
+  * pH över 4.5 i slidsekret
 * **Clue cells**: dessa är bakterier som adhererar till slemhinne celler, som man i sin tur kan se när man mikroskoperar skrap fr dessa patienter (eller flytningar?)
-
-
-
-<img src="./imgs/gyn_sam_260321_rrahjtv3Lo.png" alt="rrahjtv3Lo" style="zoom:50%;" />
 
 
 
@@ -6510,17 +6533,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * **positivt snifftest**: snifftestar med KOH (kaliumhydroxid) för att prodcuera illaluktande doft
 * **pH över 4.5**
-* **clueceller i wet smeat, få laktobaciller**
+* **clueceller i wet smear, få laktobaciller**
   * NaCl för att man vill se bakterier, noterar att KOH är till för att döda bakterier och leta svamp. 
 
 
 
 ***Behandling***
 
-* Dalacinkräm / vag, 
-* donaxul
-* zidovalgel
-* flagyl
+* **Förstahand**
+  * **lokalt metronidazole**: zidoval, vaginalgel, 5d
+  * **alt Klindamycin** (Dalacin) vagitorier i 3d. 
+* **Flagyl**: 
+* **donaxul**
+* **zidovalgel**
+* **flagyl**
 
 
 
@@ -6528,6 +6554,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * Prematurbörd
 * **!!! Endometrit**
+
+
+
+// screen innan abort är BV och klamydia (NAT-prov skickar man iväg för att bekräfta)
+
+
+
+<img src="./imgs/gyn_sam_260321_rrahjtv3Lo.png" alt="rrahjtv3Lo" style="zoom:50%;" />
 
 
 
@@ -6558,6 +6592,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+***Allmänt***
+
+* Candida kolpit?
+
+
+
 ***Etiologi och patofysiologi***
 
 * **Östrogenberoende**: candida behöver östrogen för att bibehållas, används för proliferation?
@@ -6575,9 +6615,21 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+<img src="./imgs/sam_140421_XqAEEqRLhI.png" alt="XqAEEqRLhI" style="zoom:50%;" />
+
+
+
 ***Behandling***
 
-* **Gravid**: nystatin vaginal tabletter
+* **Första hand, receptfritt medel**
+  * Ekonazol, aka pevaryl
+  * klotrimazol, aka canesten
+  * vagitorier och ev kräm
+  * 1-3d
+* **Andra hand**
+  * Flukonazol aka Diflucan, 150mg x1
+* Kroniskt recidiverande
+* **Gravid**: nystatin (antibiotikum mot svampinfektioner) vaginal tabletter
 * **Självbehandling enbart 1gg**: pat ska enbart självbehandla 1gg, för att lkm är kraftiga, så behöver söka specialist om det inte går bort. 
 
 
@@ -6969,7 +7021,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### puerperiet: feber
+### Puerperiet: feber
 
 ***Presentation***
 
@@ -8473,6 +8525,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Amningsproblem
+
+***Handläggning***
+
+* Sugreflex
+* Gomspalt, palpation vid BB, hårda gommen
+* Bröstvårtans integritet
+  * Insjunken eller ej
+  * lång spene är bättre
+* Tuttskydd enl Sara, amningshjälp
+* amningsvårtsskydd, bröstkupor
+* pumpmaskin
+
 ### Bristningar
 
 ***Presentation***
@@ -8551,14 +8616,45 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
   - nedsatt, upphävd variabilitet eller misstanke därom
 
-  - - takykardi, decelerationer kräver i sig inte inre registrering om signalkvalite är god
+    - takykardi, decelerationer kräver i sig inte inre registrering om signalkvalite är god
 
   - övervägs inför under aktiv krystning vid otillfredställande signal kontakt för att undvika onödigt forcerande av framfödandet pga osäkerhet kring fosterhjärtfrekvens
 
 - **intermittent CTG 2-3h intervall**
 
-- - förlängd latensfas
+  - förlängd latensfas
   - längre intervall nattetid om pat sover
+
+
+
+
+
+***Variabilitet***
+
+* Notera att man ska mäta detta över en minutsspann
+* Man ska titta på amplitudvariationen
+* Man ska alltså inte mäta fr den djupaste dalen variabilitetn till den högsta punkten över minut. 
+
+
+
+**Accelerationer**
+
+* 15slag över 15s
+* **Frånvarande accelerationer**: antingen att ungen sover eller hypoxi...
+
+
+
+***Decelerationer***
+
+* **Variabla decelerationer**: delas in okomplicerade och komplicerade
+  * **Form: dessa brukar** se erratic ut
+  * **Okomplicerade**: under 60s
+  * **Komplicerade**: över 60s
+  * **När de inträffar, abrupta, ingen relation t värkar**: verkar inträffa mellan värkar enl Abbe, att de är abrupta
+* **Uniforma decelerationer**: delas in tidiga och sena
+  * **Ser ut som bulle**
+  * **TIdig uniform, benignt..**: att toppen på värken sammanfaller med botten på värken
+  * **Sen uniform, patologiskt**: att toppen på värken INTE sammanfaller med botten värken, den kommer efter. 
 
 
 
@@ -8581,15 +8677,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 - **Variabilitet**
 
-  - **Normalt**: 5-25npm
+  - **Normalt**: 5-25/minut. Ntera att en ruta är en minut. 
   - **avvikande**
   - **Patologiskt**: under 5bpm över 60min3; över 25bpm över 30min; sinusoidalt över 30min
 
 - **Decelerationer**
 
   - **Normalt**: Inga repetitiva, repetitiva variabla okomplicerade / uniforma tidiga; 
-  - **avvikande**: repetitiva variabla komplicerade med normal basalfrekvens och normal variabilitet
-  - **Patologiskt**: repetitiva uniforma sena över 30min vid takykardi el nedsatt variab över 20min; rep variabla komplicerade vid takykardi nedsatt variabilittet över 20min; rep förlängda över 3min; en förlängd över 5min
+  - **avvikande**: 
+    - repetitiva variabla komplicerade med normal basalfrekvens och normal variabilitet
+  - **Patologiskt**: 
+    - repetitiva uniforma sena över 30min vid takykardi el nedsatt variab över 20min; 
+    - rep variabla komplicerade vid takykardi nedsatt variabilittet över 20min; 
+    - rep förlängda över 3min; 
+    - en förlängd över 5min
 
 - **Tolkning**
 
@@ -9392,6 +9493,21 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Bishiop 3-5p:** PE2 vaginalt /  ballongbeh
 * **Bishop 4-5p**: ballongbehandling
 * **Bishop 6-10p**: oxytocin / amniotomi
+
+
+
+***Ballongkateter, BARD***
+
+* Öppen över 0.5cm
+* Kontraindikationer: 
+
+
+
+***Amniotomi och oxytocin***
+
+* Mogen cervix kan man använda detta
+* Att den är öppen visst antal cm
+* samt att cervix är mjuk
 
 
 
@@ -12054,6 +12170,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Gradering***
 
 * **under eller = 5p**: omoget cervixstatus
+* Riktningen på cervix: 
+  * Portio pekar mot sakrum, rektum = sakralriktad 
+  * Portio mellantingat mellan dessa två. 
+  * Portio pekar mot mig,att den tittar ut ur vagina = centralriktad
+    * Ungen kan inte komma ut i sakral riktning, den måste komma ut ur vagina
 
 | cervixscore   | aka moddad Bishop enl Westin |               |                     |
 | ------------- | ---------------------------- | ------------- | ------------------- |
@@ -12394,6 +12515,22 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 | <img src="./imgs/sam_130421_p3GLyGhtHY.png" alt="p3GLyGhtHY" style="zoom:50%;" /> |      |      |
 | ------------------------------------------------------------ | ---- | ---- |
 |                                                              |      |      |
+
+
+
+### Fosterljud
+
+#### Doppler
+
+
+
+#### Trattlyssna
+
+***Metod***
+
+* Primärt Leopolds undersökning + identifiera ryggen + lyssna med trtten
+* Man kan höra hjärtljud i vänster fossa, förutsatt att ryggen är dör
+* fr.o.m. v24
 
 
 

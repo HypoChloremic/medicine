@@ -4498,6 +4498,10 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ### Cyanos
 
+
+
+#### Neonatal cyanos
+
 ***Etiologi och patofysiologi***
 
 * !!! **Neonatal cyanos**
@@ -4505,16 +4509,98 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Foster-shuntar inte stängda ännu
   * Fostercirkulation ofullständigt ersatt där ungen med egen andning syresätter sitt blod
   * cyanosen övergående hos friskt barn, menkvarstående behöver förstås
-* **Perifer cyanos**
-  * ökat vävnadsupptag syre
-  * ökad A-V differens (AV-diff, arterovenös diff): fr 40% t 60%
-  * !!! **Orsaker ökat syrgasupptag, perifert**
-    * **perifer vasokonstriktion**: blodet flyter långsamt gm kapillärbädden, och ökar därför syrgasupptaget
-    * **RBC aggregerar, förlångsammar passage drf**: ökar syrgas-extraktion t vävnaden
-    * **DÄRFÖR, på venisdan ökar desat-Hb (deoxyHemoglon, deoxyHb)**: som ger cyanos
-* **Central cyanos**
-  * Kardiellt orsakad
-    * Hjärtförtstoring: ebstein (EBV?), PA med IVS
+
+
+
+***Utredning***
+
+* Klinisk undersökning: ABCDE i enl med d där fallet
+* POX-mätning: hö arm + ben
+* blodgas
+* Hb
+* EKG
+* RTG
+  * Kärlvidd: vida lungkärl ev ödem med shunt-viti; smala lungkärl vid cyanotiska; TAPVD stas lungvenös avflödesproblem
+  * HJärtförstoring: ebstein, PA, IVS
+  * HJärtform: fallot har träsko; TGA egg on string, smalt mediastinum
+* !! hyperoxitest: gör man med NEOPUFFEN!
+* EKO
+
+
+
+***DIffa hjätra vs lungorna***
+
+|                             | Hjärta         | Luftvägar                 |
+| --------------------------- | -------------- | ------------------------- |
+| Andningsfrekvens            | Kan vara ökad  | Snabb                     |
+| Hjärtfrekvens               | Ökad           | Snabb                     |
+| Gruntning                   | INTE           | Finns                     |
+| Blåsljud                    | Inte sällan    | Ofta inga, men förekommer |
+| svarar syrgas, hyperoxitest | !! Inte mycket | Tydligt svar              |
+
+
+
+
+
+#### Perifer cyanos
+
+***Etiologi***
+
+* !! **ökat vävnadsupptag syre**: alltså vid perifer cyanos att vävnaden har mer tid att ta upp syre, därför cyanos, till skillnad fr central cyanos där det är halten deoxyHb, som ökar i ARTÄRblod (alltså att den är deoxygenerad redan fr början).
+* ökad A-V differens (AV-diff, arterovenös diff): fr 40% t 60%
+* !!! **Orsaker ökat syrgasupptag, perifert**
+  * **perifer vasokonstriktion**: blodet flyter långsamt gm kapillärbädden, och ökar därför syrgasupptaget
+  * **RBC aggregerar, förlångsammar passage drf**: ökar syrgas-extraktion t vävnaden
+  * **DÄRFÖR, på venisdan ökar desat-Hb (deoxyHemoglon, deoxyHb)**: som ger cyanos
+* **Generellt därför**: hjärtfel INTE trolig orsak perifer vasokonstriktion
+  * kyla
+  * polycytemi
+  * hypovolemi
+  * sepsis
+  * lågt cardiac output
+
+
+
+***Kliniska kännetecken***
+
+* Symptom perifer cyanos
+  * Cyanotiska kalla händer + fötter
+  * Circumoral cyanos: runt munnen cyanos
+  * Periorbital cyanos
+
+
+
+#### Central cyanos
+
+
+
+***Etiologi***
+
+* Beroende av det ABSOLUTA VÄRDET deoxygenerat hemoglobin, deoxyHb
+  * Överstiger deoxyHb 30g/L, FÅR MAN CYANOs
+* Vid olika värden Hb, e.g. anemi, polycythemi:
+  * Därför kommer saturationsvärdet för central cyanos att uppkomma förändras, beroende på vilket värde Hb vi har i systemet
+  * Svår anemi: behöver 65% saturation för central cyanos att uppkomma
+  * Polycythemia: 87.5% för central cyanos att uppkomma
+
+* Kardiellt orsakad
+  * Hjärtförtstoring: ebstein (EBV?), PA med IVS
+
+
+
+
+
+***Kliniska kännetecken***
+
+* Cyanos rikligt genomblödda vävnad, ffa
+  * munslemhinna
+  * Läppar
+  * Nagelbäddar
+* Händer + fötter blå MEN varma + torra
+
+
+
+<img src="./imgs/sam_140421_CB4fZHYZ69.png" alt="CB4fZHYZ69" style="zoom:50%;" />
 
 
 

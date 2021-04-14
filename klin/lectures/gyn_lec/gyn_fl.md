@@ -797,7 +797,7 @@
 
 
 
-<img src="./imgs/gyn_lec_ctThQxbyP0.png" alt="ctThQxbyP0" style="zoom: 67%;" />
+<img src="./imgs/gyn_lec_ctThQxbyP0.png" alt="ctThQxbyP0" style="zoom: 80%;" />
 
 
 

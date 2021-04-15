@@ -3488,9 +3488,14 @@ cerivicit
 
 * **livsstilsintervention + antidiabetikum (metformin)**: för diabetes, obesitas
   * minskar insulinresistens, minskad insulinsekretioin varpå viktnedgång, ökad SHBG och minskad tesosteronhalt. 
-* **menstruationsstörning**: p-piller (yasmin, diane (anti-androgena?)), cykliskt gestagen
+* **Menstruationsstörning**: 
+  * p-piller (!! **yasmin**, diane (anti-androgena?)), 
+  * cykliskt gestagen: noretisteron
 * **hirustism**: p-piller; epilering; antiandrogener; spironolakton; androcur (cyproteron); casodex (bikalutamid)
-* **graviditetsönskan**: ovulationsstimulering; ivf; gonadotropinstimulering
+* **graviditetsönskan**: 
+  * **ovulationsstimulering**; att man ovulationsstimulerar och därefter har sex. 
+  * ivf; 
+  * gonadotropinstimulering
 * **Effekt av kombinerad hormonbehandling**
   * **Starkt östrogenpåslag**: 
     * **förstapassagemekanism, Östrogen**: via förstapassage hepatiskt driver östrogen upp SHBG produktionen. 
@@ -5929,6 +5934,18 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * ytlig, brännande smärta, endast vid beröring/försök t penetration
   * rodnad o palpationsömhet i bakre vestibulum
 
+
+
+### Endometrit
+
+***Presentation***
+
+* 36åå kvinna
+  * 4 gravida 3para, söker akut pga vaginal blödning sedan en månad. Till bakgrund har patienten haft uteblivet missfall v6, därefter medicinsk abort + exeres, för 1 månad sedan, därefter gått med vaginal blödning. Söker akut med frossa, huvudvärk, känsla feber, och nedre buksmärtor. Status, uterint innehåll på 15mm, antagliga grav. rester. Spiral dras, illaluktande, skickas på odling. Vaginal odling. Urinodling. (blododling?). CRP 20. Kap Hb 80. Således inkomplett exeres, med kvaravarande grav. rester, därför långdragen blödning och nu suspekt endometrit. Diff skadad blödande endometrieslemhinna, eller blödning UNS, dock osannolika detta stadium.  Inlägges antibiotika behandling. Cytotec (misoprostol) för att driva ut resterande rester. D2 UL visar fortf rester, och pat fortfarande påverkad. Snar exeres. Därefter signifikant förbättrad patient t allmäntillstånd. Får gå hem med flagyl + spectramox [Kloxa?? checka ant]
+  * 
+
+
+
 ### Endometrios
 
 ***Presentation***
@@ -7985,9 +8002,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Metoder***
 
 * **Allmänt**
-  * Make-insemination
-  * Make-insemination + hormonell stimulering
-  * IVF
+  * **Make-insemination**
+  * **Make-insemination + hormonell stimulering**
+  * **IVF**
 * **Stimulering och punktion**
   * **Hormonstimuleringsmodell**: 
     * GnRH-agonist  eller GnRH-antagonist 
@@ -8088,7 +8105,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * katetrar för IUI finns också
   * Oklart om patienterna sj kan göra detta.
 * **Insemination + hormonstimulering**
-  * stimulering gonadotropiner
+  * stimulering gonadotropiner: [add later: FSH + LH antagonister?]
   * med eller utan GnRH-analoger
 * **IVF**
 

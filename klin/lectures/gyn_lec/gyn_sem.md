@@ -2934,7 +2934,9 @@ enl läk
 
 
 
-![image-20210415133405159](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415133405159.png)
+
+
+![l00kEvOP4g](./imgs/gyn_sam_150421_l00kEvOP4g.png)
 
 
 
@@ -2977,7 +2979,9 @@ enl läk
 
 
 
-![image-20210415133620362](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415133620362.png)
+
+
+![b20HqhMOdE](./imgs/gyn_sam_150421_b20HqhMOdE.png)
 
 
 
@@ -3036,7 +3040,9 @@ enl läk
 
 
 
-![image-20210415134226885](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415134226885.png)
+
+
+![UlcwaxRkMw](./imgs/gyn_sam_150421_UlcwaxRkMw.png)
 
 
 
@@ -3134,11 +3140,11 @@ enl läk
 
 
 
-![image-20210415135742910](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415135742910.png)
+![GFWkLKaqTf](./imgs/gyn_sam_150421_GFWkLKaqTf.png)
 
 
 
-![image-20210415135849038](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415135849038.png)
+![INb9sRzHgk](./imgs/gyn_sam_150421_INb9sRzHgk.png)
 
 
 
@@ -3174,7 +3180,9 @@ enl läk
   * !!! TSH är lågt pga hCG: att det är okej. inte oroliga för att vi har tagit TRAK som är negativt, så vi behöver ej vara oroliga
   * pyrodixin kan hjälpa, vitamin B6. 
 
-![image-20210415140424264](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415140424264.png)
+
+
+![B3oku5rxMp](./imgs/gyn_sam_150421_B3oku5rxMp.png)
 
 
 
@@ -3217,7 +3225,11 @@ Seuxal anamnes:
 **Klamydia = doxycyklin + smittspårning, smittskyddsanmälan. 200mg dag 1, sedan 100mg i 8 dagar. Partnerbehandling. 
 Cellprov = kolposkopi, riktade biopsier. Om hög risk → konisering. 
 
-![image-20210415142016016](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415142016016.png)
+
+
+
+
+![mNH6VuCaGt](./imgs/gyn_sam_150421_mNH6VuCaGt.png)
 
 
 
@@ -3248,13 +3260,13 @@ Enl läk
 
 
 
-![image-20210415142405284](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415142405284.png)
+
+
+![2iogtZBwlT](./imgs/gyn_sam_150421_2iogtZBwlT.png)
 
 
 
-![image-20210415142606113](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415142606113.png)
-
-
+![LP4HNxA6QW](./imgs/gyn_sam_150421_LP4HNxA6QW.png)
 
 
 
@@ -3268,15 +3280,17 @@ HR-HPV är högrisk HPV.
 
 
 
-![image-20210415143412418](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415143412418.png)
+
+
+![4EIy6vdl80](./imgs/gyn_sam_150421_4EIy6vdl80.png)
 
 
 
-![image-20210415143438190](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415143438190.png)
+![QrKDhS0DSq](./imgs/gyn_sam_150421_QrKDhS0DSq.png)
 
 
 
-![image-20210415143924547](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415143924547.png)
+![cclnmVoBvg](./imgs/gyn_sam_150421_cclnmVoBvg.png)
 
 cancercentrum.se
 
@@ -3354,11 +3368,17 @@ enl läk
   * pojkar och flickor sedan i höstas
   * alla i årskurs fem. 
 
-![image-20210415144224278](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415144224278.png)
 
-![image-20210415144521590](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415144521590.png)
 
-![image-20210415144734713](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415144734713.png)
+
+
+![3Ly66FoYtX](./imgs/gyn_sam_150421_3Ly66FoYtX.png)
+
+
+
+![U0ZLK4yfFn](./imgs/gyn_sam_150421_U0ZLK4yfFn.png)
+
+![WMLNvb8q15](./imgs/gyn_sam_150421_WMLNvb8q15.png)
 
 
 
@@ -3405,9 +3425,17 @@ Infektionsprov på båda hep B, C och HIV. Om IVF ska göras så ska man ta HTLV
 
 
 
-![image-20210415145853574](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415145853574.png)
 
-![image-20210415150003727](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415150003727.png)
+
+
+
+![OV5JOcONii](./imgs/gyn_sam_150421_OV5JOcONii.png)
+
+
+
+
+
+![EMGIIdqFwF](./imgs/gyn_sam_150421_EMGIIdqFwF.png)
 
 
 
@@ -3461,9 +3489,9 @@ enl läk
 
 
 
-![image-20210415150229305](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415150229305.png)
 
 
+![uAeKtDyPEf](./imgs/gyn_sam_150421_uAeKtDyPEf.png)
 
 
 
@@ -3634,11 +3662,13 @@ enl läk
 
 
 
-![image-20210415151310977](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415151310977.png)
+
+
+![9O4k7KR6w6](./imgs/gyn_sam_150421_9O4k7KR6w6.png)
 
 
 
-![image-20210415151713113](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415151713113.png)
+![3mlJ8dcCwo](./imgs/gyn_sam_150421_3mlJ8dcCwo.png)
 
  # Flytningar
 

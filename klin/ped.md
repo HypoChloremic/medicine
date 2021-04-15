@@ -504,6 +504,90 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
       * flera obstruktiva episoder under 2åå
       * En obstruktiv episod om över 2åå
     * Hösnuva: ofta senare i åldrana, men kan debutera tidigt
+* 9mån gammal gosse
+  * sedan 3-4 veckor utslag kinder o sträcksida av armar o ben
+  * sover dåligt, verkar irriterad
+  * får vällig o även grönsakspureer
+  * modern ekseom som barn
+  * Kinderna, hakan, ffa vä uppe pannan: makulöst fjällande utslag
+  * armarna: liknande utslag, men lite tunnare utsidan båda armarna
+
+
+
+
+
+***Kliniska kännetecken***
+
+* Atopiska marschen
+  * 
+
+
+
+### Atopisk dermatit
+
+***Presentation***
+
+* 9mån gammal gosse
+  * sedan 3-4 veckor utslag kinder o sträcksida av armar o ben
+  * sover dåligt, verkar irriterad
+  * får vällig o även grönsakspureer
+  * modern ekseom som barn
+  * Kinderna, hakan, ffa vä uppe pannan: makulöst fjällande utslag
+  * armarna: liknande utslag, men lite tunnare utsidan båda armarna
+  * <img src="./lectures/ped_lec/imgs/ped_fl_kKjyaCCsH0.png" alt="kKjyaCCsH0" style="zoom:25%;" />
+
+***Allmänt***
+
+* analogt med böjveckseksem
+
+
+
+***Kliniska kännetecken***
+
+* Torr hud: ökad benägenhet för att utveckla torr hud
+* Kliande röda utslag
+* Specifika platser
+  * Små barn: 
+    * kinder, 
+    * nålen, 
+    * utsida armar, 
+    * utsida ben
+  * Större barn
+    * Böjveckslokalisation
+    * vanligt med ansikte, bål och armar
+* **Kliar**
+* **Stör nattsömnen**: utbrett och besvärligt
+
+
+
+
+
+***Utredning och handläggning***
+
+* Klinisk diagnos
+* 
+
+
+
+
+
+***Behandling***
+
+* **Steroid krämer, kortisonkrämer**
+  * **Grupp1**: 2ggr/d, 1-3v; därefter 2ggr/v
+    * upprepas vid uppblossning
+    * sluta rött + sluta klia, tar 1-2v (ibland 3v) med beh.
+    * när bra, glesa ut, minska kröm
+  * **Grupp2, tom grupp3**: om utbrett eksem, eksem inte svara beh
+    * Under kortare period
+    * även små barn
+    * grupp3: 1ggr/dag
+* **Mjukgörande, minskar risk för dermatiten**: minskar sannolikheten för barnet utveckla atopisk dermatit.
+  * Det är alltså protektivt att mjukgöra barn som har en atopisk dermattit
+
+
+
+
 
 ### Celiaki
 

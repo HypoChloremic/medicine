@@ -3445,7 +3445,7 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
   * ingen känd hudsjd i släkten, men modern haft klåda under graviditeten och är helt slut
   * Ser små papulösa utlsag, ibland konfluerar i små plack: det är krustor och lite sår, små papler hela kroppen
 
-<img src="./imgs/ped_fl_PD8THjoXrJ.png" alt="PD8THjoXrJ" style="zoom:50%;" />
+<img src="./imgs/ped_fl_PD8THjoXrJ.png" alt="PD8THjoXrJ" style="zoom: 25%;" />
 
 
 

@@ -2128,9 +2128,9 @@ https://ki.padlet.org/eleonortiblad/u416n0zrxqgqihih
 * född med infektion + sepsis: risk hjärnskada, intrapatal asfyxi etc, 
 * veta om starta igg tidigt: mäta cervixlängden. om normallång talar starkt emmot att föda för tidigt. 
 * till v32 fulla veckor indikerat för magnesiumsulfat: inte över 34
-* ab: erytromuycin behandlas,
-* intrapatalt: får bensylpc för att prematura barn ökad risk för gbs sepsis
-* om utvecklar infektiosntecen: gger piptaz + flagyl för att behandla infektionen (intrapatalt. )
+* **ab: erytromuycin behandlas,**
+* **intrapatalt: får bensylpc för att prematura barn ökad risk för gbs sepsis**
+* **om utvecklar infektiosntecen: gger piptaz + flagyl för att behandla infektionen (intrapatalt. )**
 * När man bestämmeri nduktionsmetod tar man med i beräkning om fött vaginalt tidigare elelr ej (kan kejsarsnittad, drf uterus ruptur etc); eller förstföderska öppen ngn cervix öppen 1 cm att d fortfarande tar lite tid, men för omföderska att man kan lägga in en ballongkateter om 1cm öppen o d går bra. 
 * BARD: öppen för cervix, ska vara 0.5cm. kan ej vara helt stängd annars inte kan plla in en kateter. man ska kunna få in ett finger in i cervix o palpera hinnblåsa eller skalle på fostret.
   * om det inte går ger man AUGUSTA istället för att mogna cervix mer .
@@ -2296,7 +2296,7 @@ Intrapartal feber ska behandlas med AB (pip-tass eller cinacef flagyl + paraceta
 
 - betametason (lungmognad). Före 34+0. 
 - Magnesiumsulfat till 32+0
-- Antibiotika bensyl Pc under förlossningen. Erymax inför förlossningen om prematur vattenavgång. Om feber under förlossningen så pip tass
+- Antibiotika bensyl Pc under förlossningen. Erymax inför förlossningen om prematur vattenavgång. Om feber under förlossningen så piptaz
 
 ### Fall 2 - Preeklampsi
 

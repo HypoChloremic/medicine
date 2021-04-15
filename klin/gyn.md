@@ -8584,50 +8584,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Indikationer***
-
-- **överväg kontinuerlig mätning**
-- förlängd latens
-  - tillväxthämning
-  - prematuritet
-  - blödning som ej är teckningsblödning
-  - tjockt mekonium
-  - fetal malposition: vidöppen hjässbjudning, pannbjudning, ansiktsbjudning, säte
-  - patologisk fostervattenmängd
-  - tidigare sectio
-  - allvarlig grundsjd hos kvinna: diabtes, obesitas, SLE, mm
-  - annan högriskgraviditet: preekmalpsi, immunisering, hepatos, infektion mm
-  - abnormt värkarbete
-  - flerbörd
-  - feber
-  
-- **Fr intermittent till kontinuerlig mätning**
-  - tillkomst mekoniumfärgat fostervatten (amniotisk vätska)
-  - oxytocinstim (induktion, värksvaghet)
-  - aktiv krystning över 30min 
-  - avvikelser auskultation av fosterhjärtljudsfrekvens
-  - tidigare sectio-förlösta kvinnor i aktiv förlossning
-
-- **övergång fr yttre t inre CTG-registrering**
-
-- - signalstörning
-
-  - dålig kontakt
-
-  - frekventa avbrott registrering
-
-  - nedsatt, upphävd variabilitet eller misstanke därom
-
-    - takykardi, decelerationer kräver i sig inte inre registrering om signalkvalite är god
-
-  - övervägs inför under aktiv krystning vid otillfredställande signal kontakt för att undvika onödigt forcerande av framfödandet pga osäkerhet kring fosterhjärtfrekvens
-
-- **intermittent CTG 2-3h intervall**
-
-  - förlängd latensfas
-  - längre intervall nattetid om pat sover
-
-
+#### Allmänt
 
 
 
@@ -8707,6 +8664,112 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+#### Indelning CTG
+
+***Presentation***
+
+* kvinna, gravid v35
+  * kommer in för CTG visar uniforma tidigia decelerationer
+
+
+
+***Normalt***
+
+* Basal HF: 110-150
+* variabilitet: 5-25s/min
+* accelerationer: minst 2 under 20min period per timme
+* decelerationer: 
+  * avsaknad: uniforma sena, variabla komplicerade decelerationer
+  * kan accepteras under ***AKTIVA DEL***: uniforma tidiga decel, variabla okomplicerade (under 30s)
+
+
+
+***Avvikande***
+
+* Basal HF: 100-110, 150-170
+* accelerationer, avsaknade
+* decelerationer: variabla okomplicerade 30-60s; variabla okomplicerade amplitud över 60slag
+* **Åtgärd**
+  * en avvikande parameter + inte klinisk tecken komplikation
+    * noggrann observation: kontinuerlig övervakning med CTG eller CTG + EKG
+    * åtgärda bakomliggande sannolik orsak
+  * oligohydramnios + okomplicerade variabla decelerationer
+    * amnioninfusion
+  * överstimulering oxytocin: minska dropptakt
+  * feber: antibiotika + antipyretika
+
+
+
+***Patologiskt***
+
+* basal HF: över 170, under 100
+* variabilitete under 5 slag/min + utan accelerationer över 60min
+* variabla komplicerade decelerationer över 60s
+* uniforma sena decelerationer
+* kombinerade decelerationer
+* sinusoid kurva
+
+
+
+***Preterminalt***
+
+* så gott som eller helt upphävd variablitet med utan decelerationer
+* 
+
+
+
+
+
+#### Kontinuerlig mätning
+
+***Indikationer***
+
+- **överväg kontinuerlig mätning**
+- förlängd latens
+  - tillväxthämning
+  - prematuritet
+  - blödning som ej är teckningsblödning
+  - tjockt mekonium
+  - fetal malposition: vidöppen hjässbjudning, pannbjudning, ansiktsbjudning, säte
+  - patologisk fostervattenmängd
+  - tidigare sectio
+  - allvarlig grundsjd hos kvinna: diabtes, obesitas, SLE, mm
+  - annan högriskgraviditet: preekmalpsi, immunisering, hepatos, infektion mm
+  - abnormt värkarbete
+  - flerbörd
+  - feber
+
+- **Fr intermittent till kontinuerlig mätning**
+  - tillkomst mekoniumfärgat fostervatten (amniotisk vätska)
+  - oxytocinstim (induktion, värksvaghet)
+  - aktiv krystning över 30min 
+  - avvikelser auskultation av fosterhjärtljudsfrekvens
+  - tidigare sectio-förlösta kvinnor i aktiv förlossning
+
+- **övergång fr yttre t inre CTG-registrering**
+
+  - signalstörning
+  - dålig kontakt
+
+  - frekventa avbrott registrering
+
+  - nedsatt, upphävd variabilitet eller misstanke därom
+
+    - takykardi, decelerationer kräver i sig inte inre registrering om signalkvalite är god
+
+  - övervägs inför under aktiv krystning vid otillfredställande signal kontakt för att undvika onödigt forcerande av framfödandet pga osäkerhet kring fosterhjärtfrekvens
+
+- **intermittent CTG 2-3h intervall**
+
+  - förlängd latensfas
+  - längre intervall nattetid om pat sover
+
+
+
+
+
+
+
 #### Sovande barn
 
 ***Presentation***
@@ -8731,7 +8794,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-#### ***Latensfas***
+#### Latensfas
 
 * **!!! <u>Före aktiv förlossning</u>**
 * **Värkarna har börjat, men**
@@ -8746,7 +8809,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-#### ***Aktiv förlossning***
+#### Aktiv förlossning
 
 * normal förlossning: dilat livmoderhals, fostret huve trägnger ned.
 * normal hastighet öppning under aktiv fas = 1cm/h
@@ -8759,7 +8822,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-#### ***Öppningsskedet - Stage 1***
+#### Öppningsskedet - Stage 1
 
 * **Cervixdilatation**, i cm
 * **Regelbundna värkar** 2-5/10min, duration 30-90sek
@@ -8768,7 +8831,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-#### ***Vattenavgång***
+#### Vattenavgång
 
 * **Hinnbristning med vattenavgång**: aktiv process
 * **Degeneration hinnor**: området inre modermunnen
@@ -8792,7 +8855,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-#### ***Utdrivningsskedet - Stage 2***
+#### Utdrivningsskedet - Stage 2
 
 * **Fullvidgad cervix (retraherad) t barnet är fött:** inga palpabla kanter av cervix
 * **Två faser**
@@ -8805,7 +8868,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-#### ***Efterbördesskedet - Stage 3***
+#### Efterbördesskedet - Stage 3
 
 * Fr barnets födelse t placenta kommit ut
 * ca 8-10min
@@ -8813,7 +8876,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-#### ***Puerperium***
+#### Puerperium
 
 * **tidsintervall**: 2h t 6-8v efter födsel
 * **kliniska kännetecken**: avslag, eftervärkar, urinbesvär, smärtor, amning, känslomässiga reaktiober
@@ -8854,6 +8917,29 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * Ökar signifikant, om efterbördesskede (placenta kvar) >18min
 * 6x ökad risk blödning om kvar efter 30min
 * 
+
+
+
+### Feber under förlossning
+
+***Presentation***
+
+* kvinna v38, latensfas
+  * Drabbas av akut frossa + 38.3 grader feber
+  * Vad tänker man:
+    * Diff förlossningsrelaterad feber, med förlossningsarbete
+  * åtgärd
+    * antipyretika + vätska
+  * Detta fungerade ej, hur går man vidare
+    * CTG (kontinuerlig under febertillståndet); fastställa om fostrets basala HF är förhöjt eller ej
+    * Föreligger fortfarande misstanke om infektion: piptaz, eller bensyl?
+
+
+
+***Etiologi och patofysiologi***
+
+* Förlossningsarbete: kan leda till att mamman drabbas av feber
+* Infektion, uppåtstigande?: här 
 
 
 
@@ -9595,55 +9681,207 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### PROM
+
+***Presentation***
+
+* kvinna v38
+  * får pat gå hem återkomma 24-48h om fostervatten klart, okomplicerad simplexgrav, normalt CTG, fosterhuvud rörligt, inget värkarbete
+  * Svar
+    * Nej
+    * Hon måste stanna för att säkerställa att fosterhuvud ställer in sig inför förlossningen
+    * inlagd får patienten gå runt. 
+    * följer temp + CTG x2
+    * palperar leopold och checkar om huvudet ställt in sig. 
+
+
+
+***Allmänt***
+
+* Prematur vattenavgång i fullgången tid
+
+
+
+***Etiologi och patofysiologi***
+
+* **vattenavgång innan värkar eller start förlossningsarbete**
+* **infektionsrisk**: 
+  * signifikant för att det föreligger potentiellt högre infektionsrisk hos dessa
+  * föranleder antibiotikaprofylaxbehandling om vattenavgången gått för länge
+  * bakterier kan uppåtstiga via vätskan, har direkt väg till fostrets lungor och vidare
+  * " The study also provides the important basic epidemiological information that colonisation prevalence is similar across the country, that males are more often colonised at birth, and that the sensitivity of the culture may be attenuated by prolonged duration of sample transport for more than 1 day."
+* Kolonsering bakterier proportionellt med ROM tiden (rupture of membranes): detta gäller alltså både pprom och prom
+  * **Detta gäller för GBS också**: intressant här är att man inte behandlar GBS under en graviditet om det e.g. är en abu (upptäckt vid urinodling) (även om abu är man räd)
+
+
+
+***Handläggning och utredning***
+
+* **Kontroller**: 
+  * PM: CTG + BT + temp
+  * spekulumundersökning (för verifiera), CTG, tempkontroll, (pot UL?)
+* **Diagnos**: 
+  * synligt fostervatten rinner, I guess nedför benet, elle att bindan är full
+  * Speukulumundersökning: vatten bakre fornix, 
+* **Fastställa fosterläge + ffd inställning bäckeningången**: detta determinerar om pat får gå hem eller ej
+  * är ffd huvud rörligt vid ovan bäckeningång, får pat ej gå hem innan detta fastställts
+* **!! Om pat har värkar, inre undersök + palpation**: determinera cervixmognad
+* **Kan gå hem, tillbaka om 24-48h för induktion**: samma tidsmarginal, även om vaginalt undersökt
+  * okomplicerad simplexgrav (inte tvillingar) 
+  * klart fostervatten
+  * fosterhuvud välinställt i bäckeningång
+  * normalt CTG
+  * utan etablerat värkarbete
+* **Stannar för observation, planering, av förlossning**
+  * Ffd huvud rörligt i/ovan bäcken
+  * avvikande bjudning
+  * känd GBS risk
+  * mekoniumfärgat fostervatten
+* **induktion inom 24h**
+  * GBS
+  * mekoniumfärgat fostervatten
+* **individuell bedömning**
+  * maternell sjukdom
+  * komplicerad graviditet
+  * avvikande CTG
+* **om kvinnan inte vill exspektera, erbjud tid inom 24h**
+* **Inlagd med prom + rörligt huvud**
+  * **övervak: temp + CTGx2 (el mer)**
+  * **behöver ej sängliggande**
+  * **behöver inte avlyssna fosterljud rutinmässigt, förutom CTG**
+  * **kan gå hem om**: om fosterhuvudet ställer in sig efter inläggning kan kvinnan få gå hem och få tid för induktion, om hon önskar.
+
+
+
+**Behandling**
+
+* **UNDER aktiv förlossning, till födsel ska man ge antibiotika (profylaktiskt syfte)**
+  * **intrapartal bensylpcg**: förutsatt prom över 18h till förlossningsarbete, ger man under aktiv fas bensylpcg
+  * **intrapartal klinda, om pc-allergi**: 
+* **Blir det chorionamnionit, under förlossning**
+  * Byte till piptaz iv
+
 ### pPROM
 
 
 
 ***Presentation***
 
-- kvinna 32åå, v36+2, 3 grav, 2 para
-
-- - misstänkt vattenavgång v 29+3-> PPROM
-
-  - - inlägges för övervak, infektionsprover, 
-
+- **kvinna 32åå, v36+2, 3 grav, 2 para**
+  - misstänkt vattenavgång v 29+3-> PPROM
+  - inlägges för övervak, infektionsprover, 
     - Temp, blodstatus, CRP, odlingar enligt PM. Erymax 250mgx4. Betapred. CTG x2
-
-    - Tar urinodling, klamydia odling, vaginal odling, blodstatus, crp samt BAS.Urinsticka: pro 1+, nitrit neg, leuk+2.
-
+  - Tar urinodling, klamydia odling, vaginal odling, blodstatus, crp samt BAS.Urinsticka: pro 1+, nitrit neg, leuk+2.
     - får betapred dos 1
-
-    - dagen efter får betapred dos2
-
+  - dagen efter får betapred dos2
     - sammanfatt den vårdperioden: Inlägges i graviditetsvecka 29+2 enl UL för observation p.g.a. misstänkt prem vattenavgång som inte verifierades. Trots det fick 2 doser b-pred 31/01 och 01/02 och står på antibiotika Erythromax 250mg x4.
-
-      Efterförlopp:Under vårdtid stabil, opåverkat AT och Cx status, ej vag. blödning, ej vattenavgång, infektionsparametrar ua, CTG reaktivt, ej smdr.
-
-      Undersökning innan hemgång visade (TA-Ulj) normal mängd av fostervatten, ffd hvd och synliga FR. TV-Ulj: Cx sluten och mäter 37mm.
-
-      Planering: Åb vb. Per os antibiotika i 5 dagar. Imorgon har planerad tid hos bm
-
-      får diagnos förväarkar utan cervixpåverkan
-
+  - Efterförlopp:Under vårdtid stabil, opåverkat AT och Cx status, ej vag. blödning, ej vattenavgång, infektionsparametrar ua, CTG reaktivt, ej smdr.
+    - Undersökning innan hemgång visade (TA-Ulj) normal mängd av fostervatten, ffd hvd och synliga FR. TV-Ulj: Cx sluten och mäter 37mm.
+  - Planering: Åb vb. Per os antibiotika i 5 dagar. Imorgon har planerad tid hos bm
+    - får diagnos förväarkar utan cervixpåverkan
   - söker igen misstänkt vattenavgg v36
-
   - tidg: preeklampsi första barnet, grav hypertoni andra
-
   - insatt trandate v35 för högt BT.
-
   - har sammandragningar, 1-2/10mi
-
   - status: omoget cervix, BT 150, normalt CTG
-
   - får PUP, klåda under natten
-
   - hemgg: ska igångsättas v36+6
+
+
 
 ***Allmänt***
 
 - Blir ej heller fullgångna, utan man inducerar innan v37
 
+
+
+***Handläggning och utredning***
+
+* **Kontroller**: 
+  * temp, BT
+  * Hb, CRP
+  * Urinodling, allmänodling, klamydia PCR
+  * vaginalodling (GBS)
+  * CTG fr v23+0
+  * bedömning ffd (föregående fosterdel)
+  * !! palpation, endast om stark misstanke förlossningsstart
+* **INTE INDUKTION direkt**: senaste induktionsdag är v37+0. Alltså om pat inte får spontant värkarbete tills dess så inducerar man så sent som v37, inte innan. 
+  * detta för att man vill att ungen ska vara kvar så länge som möjligt intrauterint
+* **Steroidbehandling**
+* **Antibiotikabehandling**: erymax 10d, sedan intrapartal bensyl, om korionamnionit byter till piptaz
+
+
+
+***Behandling***
+
+* **Betapred im 3mL (12mg)**: få in två doser separerade 24h, förlossning på 72h timmen om det går. 
+  * Samma dos upprepas efter 24h
+  * Risk snar förlossning, dos2 efter 12h
+  * steroider för lungmognad, 
+  * **v22+0**: övervägs fr v22+0, 
+  * **v23+0**: rek fr v23+0 
+  * **tom v33+6**, 
+*  **Rescuedos betapred**: 
+  * 12mg engångsdos, aktuellt om mer än 1v gått efte initialdos, föreligger stark misstanke förlossning.
+  * ges endast 1gg under graviditeten
+* **Erytromycin, erymax, 250mgx4 10d**
+  * v22+0 t 32+6
+* **intrapartal antibiotika, ALLA ska få:** 
+  * **inf bensylPC 3gx4, under aktiv förlossning**
+  * **pc allergi**: klindamycin 600mgx3
+  * **symptom, tecken chorionamnioinit: piptaz**
+    * **efter odling**: urin, vaginalt, (evt blod)
+    * **kvinnan bör i regel förlösas**
+
+
+
 ### Prematuritet, IUGR, SGA
+
+
+
+#### !!! Hotande förtidsbörd
+
+
+
+***Definition***
+
+* **hotande förtidsbörd, hotande prematurbörd**
+* **gäller under v34**
+  * värkarbete + cervixpåverkan: IMM öppen över 1cm, förkortad 50%, cervixkanalen under 25mm
+  * pprom, eller
+  * uttalad cervixpåverkan: e.g. buktande hinnblåsa, avsaknad värkar
+
+
+
+***Kliniska kännetecken***
+
+* Tryckkänsla: antar "tryckkänsla nedåt"
+* Värkar, sammandragningar: smärtsamma, regelbundna, försvinner ej i vila
+* !!! blödning
+* riklig slemmig flytning
+
+
+
+***Handläggning***
+
+* **Vårdnivå**
+  * **v22-27+6**: högspec
+    * remitteras t karolinska
+    * **steroidinduktion + andra åtgärder**: påbörjas samråd obstetrikjour
+  * **v28-31+6**: ska ha perinatalvård
+    * klinik med perinatalvård (neo)
+* **Provtagning, undersökning, inläggning**
+  * **CTG**: fr v23; auskultation... kortare graviditetslängd
+  * **UL-abdominellt**: bjudning, fostervatten
+  * **Viktskattning (tillväxtmätning)**: inom 1-2d om över 24v.
+    * före 24v: om barnet förväntat stort kan man göra, men beräkning exakt vikt görs ej
+  * **temp, BT**
+  * **urinodling**
+  * **Hb**
+  * **pprom**: Hb, CRP, LPK, vaginalodling, PCR klamydia i urin
+  * spekulumundersökning
+  * palpation cervix
+  * 
 
 
 
@@ -9745,6 +9983,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * **MgSO4** **6g ges som en engångsdos under 20 minuter** (30 minuter om vikt under 60 kg) och kan ges med hjälp av infusionspump för att underlätta administrationen av läkemedlet.
   * I samband med infusionen får de flesta patienter en brännande känsla över halsen. Detta är inte farligt och är snabbt övergående (några minuter) och patienter som är informerade om detta tolererar det väl. **Läkemedelsanvisning, se nedan**
   * // Kom ihåg att infusion magnesium är till för behandla eklampsi sekundär eller primär profylkaktiskt för eklampsi, kramper. 
+* Antibiotika
 
 
 

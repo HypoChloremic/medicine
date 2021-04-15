@@ -530,9 +530,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * 9mån gammal gosse
   * sedan 3-4 veckor utslag kinder o sträcksida av armar o ben
   * sover dåligt, verkar irriterad
-  * får vällig o även grönsakspureer
-  * modern ekseom som barn
-  * Kinderna, hakan, ffa vä uppe pannan: makulöst fjällande utslag
+  * får välling o även grönsakspureer
+  * modern eksem som barn
+  * Kinderna, hakan, ffa vä uppe pannan: **makulöst fjällande utslag**
   * armarna: liknande utslag, men lite tunnare utsidan båda armarna
   * <img src="./lectures/ped_lec/imgs/ped_fl_kKjyaCCsH0.png" alt="kKjyaCCsH0" style="zoom:25%;" />
 
@@ -549,7 +549,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * Specifika platser
   * Små barn: 
     * kinder, 
-    * nålen, 
+    * bålen, 
     * utsida armar, 
     * utsida ben
   * Större barn
@@ -1006,6 +1006,42 @@ Enligt ABCDE
 
 ## Dermatolog
 
+
+
+### Bullös Impetigo
+
+
+
+***Presentation***
+
+* 6åå flicka
+  * sedan 3d ömmande utslag över höft lår ryygg,i ngen feber
+  * inkommer akut
+  * sårbildning över höft, började prickar så papler, sedan ytlgia små sår, sedan blivit upprulllad kant
+
+<img src="./lectures/ped_lec/imgs/ped_fl_FBD4hhK75m.png" alt="FBD4hhK75m" style="zoom:20%;" />
+
+
+
+***Etiologi och Patofysiologi***
+
+* blåsbildande staf infek i huden
+  * För att det är så utligt i epidermis är ***blåstaket*** tunit, består av få cellager och går lätt sönder
+  * ***Upprullad kant:*** detta förklaras av att det blåsorna snabbt brister och epidermis rullas upp
+  * ***Inte säkert att familjen uppfattata tat det ens varit en blåsa innan det blivit ett sår***
+* ***Staphylococcus aureus, staffar***
+  * bildar ett ***enterotoxin*** som ger ***subcorneal blåsbildning***
+
+
+
+***Behandling***
+
+* **kloxacillin el klindamycin** po: ab som tar staffar
+* **viktigt med lokalbehandling samtidigt**: mjukgörande kräm som rensar bort blåsrester, tvättar rent, använder ***separata handdukar i hemmet***: 
+* **stanna hemma**: så länge man har såt, inte gå t skolan el förskolan
+
+
+
 ### Erythema migrans
 
 
@@ -1057,6 +1093,287 @@ Enligt ABCDE
 * **Amoxicillin** kan vara ett alternativ till barn som inte tål smaken av vanligt PcV. 
 * **Gravida dubbel dos Fenoximetylpenicillin** (Kåvepenin) vid hudmanifestationer och intravenöst ceftriaxon) 
   * Rocephalin vid andra manifestationer för att minska risken för infektion av foster.
+
+
+
+
+
+### Infantil hemangiom
+
+
+
+***Presentation***
+
+* 5mån gammal flicka
+  * vid födsel viss rodnad medialt övanför höger öga,
+  * vid 3 veckor begynnande tillväxt o nu ses en 2 cm stor upphöjt blåröd förändring
+
+
+
+***Etiologi och Patofysiologi***
+
+* ***Proliferativ Kärltumör***: består av kapillärer, 
+* tillväxer o tjockar på sig första levnadsmåpnaderna,
+* tillväxer upp t ett år, därefter ***långsam***  tillbakabildning
+* 50% regress vid 5åå
+* 7-9åå försvunnit alla kärl
+
+
+
+***Handläggning***
+
+* ***Kräver behandling om hot mot vitala organ, eller svår smärta eller blödning***
+* ***Om står vid vitala organ***, ska man behandla: 
+  * e.g. för nära ögat att synfältet täckt, att synkrotex inte utv
+  * sitter läppen äta andas
+  * inuti luftrör
+  * eller många i levern: behöver behandla
+
+
+
+**Behandling**
+
+* ***propranolol***: mkt god effekt som denna ger detta. visade sig att den växte tillvaka om när man hade hjärtsjuk spädbarn med detta
+  * god barn beh, få risker o biverningar
+  * enbart om vitala funktioner påverkade, inte kosmetiskt
+
+
+
+***Fall där man gav beh***
+
+* Skymmer synfältet, tumören inne och inbyggt
+
+
+
+### Kongenitalt melanocytärt nevus
+
+
+
+***Presentation***
+
+* 14åå pojke
+  * sedan födsel brun fläck vänster glute som växt med honom
+  * söker nu pga oro, modern har nyligen diagnosticerats med hudcancer
+
+
+
+***Kliniska kännetecken***
+
+* Kongenitalt: medfött, melanocytärt involverar melanocyter, nevus att det är en leverfläck
+
+
+
+***Etiologi och Patofysiologi***
+
+* **mindre 1.5cm**: Inte stor risk för malignitet som man tidigare ansåg, ffa inte små förändringar
+* **stora märken större 20cm diamter**: större risk för malignitet
+* **risken däremellan är inte fastställd.**
+* **över 10cm i diameter, ska man vara mer aktiv för att följa**
+
+
+
+***Handläggning***
+
+* Dokumentera i journalen
+* ta en bild
+* be pat att säga till om han märker ngt avvikande med märket över tid, om den förändras etc.
+
+
+
+<img src="./lectures/ped_lec/imgs/ped_fl_BiZZUMFw6z.png" alt="BiZZUMFw6z" style="zoom: 25%;" />
+
+### Mastocytom
+
+***Presentation***
+
+* 2åå flicka
+  * frisk inga mediciner
+  * sedan 6 månader drygt ett utslag påryggen
+  * tidigare ibland blåsbildning, nu ibland klåda o irritation
+  * välavgränsat märke
+  * fjällningen inte typiskt: fast knöl med lite plack som är lite kullrigt
+
+
+
+***Etiologi och Patofysiologi***
+
+* ***Ett kutant infiltrat***: det blir infiltrerat av mastceller som lägger sig kutant. 
+  * Inte ett födelsemärke, som inte är ett infiltrat 
+  * med infiltrat innebär att det är celler som migrerat till området
+* Frisättning av histamin vid skrav ger kvaddelbildning
+
+
+
+***Diagnos***
+
+* vanligt hudinfiltrat hos barn: 0.5%	
+* ***Dariers tecken:*** skrapa leder till frisättning histamin, o ger kvaddelbildning och diagnosen
+
+
+
+***Behandling***
+
+* Spontan regress
+
+
+
+
+
+### Psoriasis
+
+***Presentation***
+
+* 7åå flick
+  * strep tonsillit sedan en månad, halsont feber
+  * pos strep a fr svalg
+  * pc-behandlad
+  * nu sedan 2 veckor utslag som sprider sig ansikte, armar, händer
+  * klåda
+  * små plack ordentlig fjällning, armar o ben
+  * diagnos **gutat psoriasis**
+
+
+
+***Etiologi och Patofysiologi***
+
+* Har man psoriasis i släkten är det sannolikt att barnen har det också,  därför viktigt med diagnostiken. 
+
+
+
+***Kliniska kännetecken***
+
+* ***Gutat psoriasis***
+  * ofta associerad med strep infektioner
+  * inga andra sjukdomar som har en sådan här tudlöig silvriga plack på detta sättet 
+  * silvrig fjällning
+
+***Diagnos***
+
+* Ställs på klinisk bedömning hos barnet
+
+
+
+***Handläggning***
+
+* Man ska leta efter streptokockerna och se till att de är behandlade
+* om ingen streptokock vid besök, ska man odla och leta
+  * odla för A,C,G
+  * till skillnad fr snabbtest som enbart typ A
+  * behandlas med penicillin även om utan besvär
+
+***Behandling***
+
+* Om man är säker med diagnosen, ska man starta behandling
+* ***Grupp I kortikosteroider ansikte***
+* **Grupp III kortikosteroider kroppen**
+* **Ser till att strep infektionen är behandlad:**
+* ***Hittar strep***: behandla med penicillin även om inga besvär
+* alternativt
+  * tacrolimus: protopic t hudveck o ansikte, 
+  * tjärpreparat, cacipatriol
+* ***Remiss hudläkare***: fastställa diagnosen
+
+| <img src="./lectures/ped_lec/imgs/ped_fl_ZhcmWfDVzX.png" alt="ZhcmWfDVzX" style="zoom:33%;" /> | <img src="./lectures/ped_lec/imgs/ped_fl_Y9l3BMe9pb.png" alt="Y9l3BMe9pb" style="zoom:33%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
+### Skabb
+
+***Presentation***
+
+* 4mån pojke
+  * sedan 3-4 veckor ökande utslag som **börjat på buken**, spritt sig över hela kroppen
+  * sover dåligt, skriker mkt
+  * ingen känd hudsjd i släkten, men modern haft klåda under graviditeten och är helt slut
+  * Ser små papulösa utlsag, ibland konfluerar i små plack: det är krustor och lite sår, små papler hela kroppen
+
+
+
+***Etiologi och Patofysiologi***
+
+* Inkubationstiden 6-8 veckor: föräldrar bär infestationen och barnet får 4-8 veckor efter förlossningen detta
+* sällan att skabbdjuren sitter i ansiktet, utan det är snarare att det är en immunologisk reaktion. 
+
+
+
+***Kliniska kännetecken***
+
+* ***Tänk ALLTID skabb:*** vid kliande hudutslag, det ska vara en bra diff vid e..g atopiskt eksem som nu inte svarar på behandling etc. 
+
+
+
+***Behandling***
+
+* **Tenutex (disulfram + bensylbenoat)** insörjes på hela kroppen o huvud (nacke o skalp): ej ansikte
+* Tvättas av efter 24 timmar
+* Slla i familjen behandlas samtidigt
+* klåda o utslag avtar inom 3 veckor, ej direkt!
+* ***Differentialdiagnos:***  är en viktig diff t atopiskt eksem o andra ***kliande tillstånd***
+* ***När man väl behandlat***: att det kan fortfarande vara kliande för att tenutex är lite irriterande
+
+
+
+
+
+
+
+### Virusexantem
+
+***Presentation***
+
+* 3åå pojke
+  * för 3v sedan hosta, snuva o feber
+  * nu sedan 1 v, lätt kliande utslag, armar, ben o kinder
+  * mår bra,
+  * ingen feber
+  * blir fler o fler, börjar se dramatiskt ut
+  * också en massa papler som kan konfluera, är utspridda över hela kinder, näsa, armar o ben, bålen
+
+
+
+
+
+***Etiologi och Patofysiologi***
+
+* Ospecifikt hudmönster som uppstår efter virusreaktioner
+* reaktionj på infektioner: ofta ÖLI
+* ***Efter vaccination***: hepatit B
+
+
+
+***Kliniska kännetecken***
+
+* symmetriska
+* ser dramatiska ut
+* sitter gärna på kinder, sträcksidor
+* men barnet mår bra: barn som springer runt i rummet, piggt, 
+  * man kan ha is i magen, 
+  * säga att det är ett virusexantem 
+
+
+
+***Handläggning***
+
+* **har man ett piggt barn, och man litar på sin kliniska blick**: ha is i magen o säg att det är ett virusexantem
+  * det är virusutlöst, är inte farligt
+  * kan börja se värre ut inom de kommande dagarna
+* ***Rädd att det är ngt allvarligt***: ta ett CRP, blodstatus för att bekräfta att barnet mår bra, slå i en bok om d ngt man behöver vara orolig för, 
+  * be återkomma om barnet mot förmodan börjar må dåligt på ngt sätt
+
+
+
+***Behandling***
+
+* **Ingen behandling för exantemet**, spontan regress, ej smittsamt
+* Klåda, grupp2 steroider: grupp II kortisonkräm steroider lokalt om klåda
+* kan sitta i upp t 8 veckor
+* inget man kan göra som läkare eller i familjen för att få den att läka ut, men man kan behandla klådan vid besvär, den kmr inte ta bort utslaget
+
+| <img src="./lectures/ped_lec/imgs/ped_fl_RpOaBgDvA0.png" alt="RpOaBgDvA0" style="zoom:25%;" /> | <img src="./lectures/ped_lec/imgs/ped_fl_FG3D8mahcU.png" alt="FG3D8mahcU" style="zoom:33%;" /> | <img src="./lectures/ped_lec/imgs/ped_fl_4nonpEPggw.png" alt="4nonpEPggw" style="zoom:25%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
 
 
 

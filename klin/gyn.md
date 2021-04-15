@@ -3355,6 +3355,12 @@ cerivicit
     * dominerande orsaken hyperandrogenism är ovariell hypersekretion androgener
     * .... lägg in läs på TODO
   * Kriterier för diagnosen: 2 av 3: hyperandrogenism, menstruationsrubbning (oligomenorre, amenorre), polycystiska ovarier / volym över 1...cm3
+* Goa 22åå
+  * Har gått upp i vikt senaste året
+  * Nu haft sekundär amenorre, androgenism tecken i form av hirsutism och virilism
+  * vad är orsaken till detta:
+    * PCOS
+    * ärftligt komponent + övervikt trigger
 
 
 
@@ -3374,23 +3380,39 @@ cerivicit
   * **prevalens** 20% unga kvinnor
 * **Ovarium**: 
   * **ena änden**: stort antal antralfolliklar + stor volym 
-  * **andra änden**, motsatsen: oligofollukulär ovarie + lågt antal antralfolliklar + liten ovarialvolym
+  * **andra änden, motsatsen**: oligofollukulär ovarie + lågt antal antralfolliklar + liten ovarialvolym
   * mellan dessa extremer är det normala multifollikulär ovariet. 
-* **Ärftligt tillstånd**: beroednde på livsstilsfaktor
-* **Viktuppgång ofta utlösane**: pat presenterar med amenorre, oligomenorre, hirsutism o acne efter viktuppgång, misstänk PCOS?
+* **Ärftligt tillstånd**: beroende på livsstilsfaktor
+* **Viktuppgång ofta utlösande**: pat presenterar med amenorre, oligomenorre, hirsutism o acne efter viktuppgång, misstänk PCOS?
 * **Patogenes enl FL**
   * Flera vägar in i PCOS
-  * **Anovulationen leder till PCOS**: att det är anovulationen i sig som leder till ansamlingen (antral?)folliklar, utan ovulation
+  * **Anovulationen leder till PCOS**: 
+    * anovulationen i sig som leder till ansamlingen (antral?)folliklar, utan ovulation
+    * !!! **anvoluation -> ökade androgenproducerande folliklar**: de ansamlas, detta är orsaken till att man just noterar antalet folliklar
   * **Genetisk predisposition**: ökad androgenicitet (testosteronnivåer höga, SHBG låga), som ger anovulation
   * **Höga insulinnivåer, insulinresistens**: relaterat med mkt, e.g. övervikt. Kan direkt påverka ovarierna, varpå ökad androgrenicitet, och anovulation
-    * minskad SHBG rel med insulinresistens osså, varpå samma effekt. 
+    * **minskad SHBG rel med insulinresistens** osså, varpå samma effekt. 
     * **Minskad SHBG syntes levern**: Höga insulinnivåer och resistens leder till att man får minskad SHBG produktion.
+* !!! **Patogenes enl Hedvig, o seminarium**: nog den bättre förklaringen
+  * **Pat med mer fettväv + insulinresistens**: högre perifer kapacitet för konvertering androgener till östrogen + minskad SHBG produktion, som i sin tur innebär att man har mer aktivt testosteron (hirsutism + virilisering, fler manliga könskarekteristika) och östrogen
+  * **Androgener konverteras till östrogen i fettväv, som INTE kan kontrolleras av hypofysen**: den östrogen som konverteras mha aromatas i fettväv, kontrolleras ainte av hypofysens pulsatila GnRH frisättning och cyklicitet, varpå vi redan nu avviker menstruationscykelns hormonkoncentrationer och standardisering. 
+  * **Östrogenet inhiberar FSH**: östrogenet som konverterats i fettväv, sänker FSH, negativ feedback
+  * **Östrogenet ökar LH**: östrogenet som konverterats i fettväv, driver upp LH, positiv feedback
+  * **omvänd FSH/LH kvot**: att LH är högre än FSH.
+  * **Ökad ovariell androgenproduktion i theca celler**: ökad LH driver på theca celler att producera androgener (testo), men som inte konverteras av folliklarna för att de inte är stimmade av FSH, utan den konverteras i fettväv
+  * **Folliklarna vidareutvecklas inte, de avstannar**: folliklarna för att utebliven FSH, kan inte vidareutvecklas och erhålla dominant follikel
+  * **Anovulation, då INGEN DOMINANT FOLLIKEL**: detta förklarar anovulationen också, då vi inte har en dominant follikel som kan ovulera
+  * **Rinse and repeat**
+
+
+
+| <img src="./imgs/gyn_sam_270321_nqmJcvwmhy.png" alt="nqmJcvwmhy" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_140321_w5xaC0D2zy.png" alt="w5xaC0D2zy" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
 
 
 
-
-<img src="./imgs/gyn_sam_270321_nqmJcvwmhy.png" alt="nqmJcvwmhy" style="zoom:50%;" />
 
 
 
@@ -3425,7 +3447,7 @@ cerivicit
 
 
 
-<img src="./imgs/gyn_sam_140321_w5xaC0D2zy.png" alt="w5xaC0D2zy" style="zoom:50%;" />
+
 
 
 
@@ -3470,9 +3492,15 @@ cerivicit
 * **hirustism**: p-piller; epilering; antiandrogener; spironolakton; androcur (cyproteron); casodex (bikalutamid)
 * **graviditetsönskan**: ovulationsstimulering; ivf; gonadotropinstimulering
 * **Effekt av kombinerad hormonbehandling**
-  * **Starkt östrogenpåslag**: Påverkar SHBG produktionen på ett positvit sätt, att man driver upp leversytnesen av SHBG, som i sin tur minskar testosteron koncentrationerna i plasma
-  * **Antiandrogena gestagener**: kompetetiv antagonsisering, blockering, av androgen vid målorganet. Sänkning
-  * Exampel: Diane, innehåller Cyproteron (anti-androgent gestagen) + Etinylestradiol
+  * **Starkt östrogenpåslag**: 
+    * **förstapassagemekanism, Östrogen**: via förstapassage hepatiskt driver östrogen upp SHBG produktionen. 
+    * Påverkar SHBG produktionen på ett positivt sätt, att man driver upp leversytnesen av SHBG, som i sin tur minskar testosteron koncentrationerna i plasma
+  * **Androgen driver ned LH sekretion**: progesteron driver ned LH påslaget
+    * LH driver testosteronproduktionen ovariellt (i theca cellerna); det är testo fr theca celler via LH som skickas t granulosa via FSH för att konverteras till östrogen
+    * Minskar därför androgenprod ovariellt
+  * **Antiandrogena gestagener, ej effekt enl hedvig**: kompetetiv antagonsisering, blockering, av androgen vid målorganet. Sänkning
+    * DETTA HAR INTE EFFEKT enl Hedvig. Det är itne antiandrogenet som har den huvudsakliga effekten utan det är östrogenet
+  * **Exampel**: Diane, innehåller Cyproteron (anti-androgent gestagen) + Etinylestradiol
     * Cyprotoeron: antiandrogen, effekt. Kompetetiv blockering av androgen targets i perifera målorgan + antigonadotrop, så minskar central stimulering av androgenproduktionen. 
     * Etinylestradiol (östrogen): ökar SHBG syntesen i levern verkare som
 
@@ -4848,20 +4876,22 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
   * Fyra möjliga orsaker till den stora blödningen
   * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
+  
 * **Pat 35åå**
   * preeklampsi
   * nu ihållande bradykardi på CTG 
   * ska misstänka placenta ablatio 
+  
 * **pat 35åå** 
   * tidigare snittad
   * nu ihållande bradykardi på CTG 
   * ska misstänka uterus ruptur
-* **samma cushing pat tillägg** 
-  * tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
+  
 * **35åå, 5grav 0 para**
+
 * - 2 missfall, 2 abort
   -  Noteras kontroll v24 att BT högt
-  - RUL ser ej ngt avvikande, men åter UL bokas in
+  - RUL ser ej ngt avvikande, men åter UL bokas in [oklart om avplanad SF-mått]
   - Nya UL v24 el nåt noteras IUGR, att den är hämmad, -27% el nåt
   - åb v24+3 högre BT 150/90
   - åb v24+4 samma högt BT 145/90
@@ -4873,6 +4903,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   - skrivs ut v28: informerar pat om tecken på preeklampsi att det krisar etc för att söka akut e.g. påverkade fosterrörelser avviker, flimrar ljus ögon, skakig, huvudvärk, 
   - Läkemedel trandate: 300mgx3 vid utskrivning
   - Enl handl: dessa med preeklampsi samt IUGR inte förväntat att de blir fullgångna, utan amna snittar tidigt ändå, att det behövs. Man har täta kontroller och följer  CTG e
+  
 * !! ?? **Elin söker dig på MVC, TODO**; detta fallet att det står proteinuri på ett konstigt sätt. 
   * i graviditetesvecka 20. hon är frisk och födde barn för tre år sedna i vecka 39. barnet vägde 2.3kg.
   * Blodtryck idag 130/80 mmhg, urinsticka visar 0/ spår för proteinuri. hon har just varit på rutinultraljud och allt var bra där. hon mår bra och arbetar som vanligt och det går bra. 
@@ -4883,6 +4914,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * remiss spec-MVC: föreligger 2 riskfaktorer, att trombyl behöver läggas in
     * tätare BT + u-sticka kontroller resten av grav t v36: 
     * tillväxt-UL + flöde UL v24 
+  
 * !!!**Pia, preeklampsi + kejsarsnitt postop handlägg**
   * genomgick Kejsarsnitt operation igår på grund av en svår preeklampsi grav vecka 34.
   * målblodtryck hos pat med svår preeklampsi i sluteta v graviditet: 
@@ -4894,6 +4926,40 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * !! NSAID kan g e BT stegring o vid svår hypertoni postpartum bör dessa prep undvikas. paracetamol kan ge leverpåverkan + njurar, bör undvikas vid lever o njurpåverkan
   * Ngt lkm som bör sättas in början nästa grav, mtp preeklampsi denna grav: 
     * trombyk (riskreduktion för preeklampsi igen)
+  
+* 40åå kvinna, v30
+
+* - Tidg o nuv sjd: cushing som upptäcktes med tidigare förlossning (då prematur v36..., snitt, 10 år tidigare)
+
+  - Kommer in avdelning
+
+  - Dag1: UL-flöden visade påverkade flöden (visar redistribution), BT högt (höjer trandate?), påverkade leverenzymer, CTG normalt. pat får Betapred dos 1 d1 (ska få 2 doser, förutsätter en d1 och en d2) 
+
+  - - HELLP
+
+  - Dag2: BT högt, CTG visar nu komplicerade decelerationer (ingen korttidsvariabilitet)... 
+
+  - - neurostatus: visar morgonrond helt opåverkat AT, glad o pigg, men lite lättutlöst reflex, fotklonus hö fot, ser lite svullen ut
+
+    - man kopplar bort CTG 30 min (den har pågått sedan morgonen, kl är nu 10) sen checkar CTG efter 30min. 
+
+    - ang kompl decel: är det lägesberoende frågar ÖL, att man ber patienten använda olika positioner. 
+
+    - handl signerar som patologisk CTG, sen annan signerar som avvikande, nu ÖL kommenterar
+
+    - !! ÖL kommenterar att det är CTG man ska gå på vad gäller akut snitt
+
+    - - saken är att ser helt normalt ut mellan decel, och läkarna blir fundersamma vad gäller om akut snitt eller ej. 
+      - betapred som kan tidigareläggas för att normalt sett inför prematur förlossning, att man ger 2 doser 1dos 1dag sen 2a dos 2a dagen. innan förlossningen, det ska vara 24h emellan. Neo säger att man ej tidigarelägger att det inte har ngn effekt, men att obstetr tidigarelägger.
+      - I detta fall tidigareläades inte dosen, kl är nu 10:20
+
+    - att man ska tidigarelägga flöden
+
+    - vänta på proverna: om dessa ser bra ut att man kontaktar CFM. 
+
+    - tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
+
+  - Sammanfatt: preeklapmsi påverkade levervärden misstänkt HELLP, påverkade flöden
 
 ***Allmänt***
 * aka havandeskapsförgiftning
@@ -9843,6 +9909,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+***Presentation***
+
+* kvinna v29
+  * inkommer med tryckkänsla nedåt, smärtsamma värkar, noterat att det evt blött nedför bindan
+  * Vilka undersökningar och kontroller gör du:
+    * **snabbt och basalt**: BT, kap-CRP, kap-Hb, u-sticka 
+    * **Spekulumundersökning**: determinera om pprom eller ej; föreligger pprom, avvaktar vaginal undersökning för cervixmognad om det ter sig att patienten inte har påbörjad förlossning (efter förlossningsstart)
+    * abdominellt UL. 
+    * CTG!!
+    * !!urinodling: 
+
+
+
 ***Definition***
 
 * **hotande förtidsbörd, hotande prematurbörd**
@@ -9873,15 +9952,51 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Provtagning, undersökning, inläggning**
   * **CTG**: fr v23; auskultation... kortare graviditetslängd
   * **UL-abdominellt**: bjudning, fostervatten
+  * **transvagina-UL av cervixlängd**: 
+    * över v34, palpation bättre information
   * **Viktskattning (tillväxtmätning)**: inom 1-2d om över 24v.
     * före 24v: om barnet förväntat stort kan man göra, men beräkning exakt vikt görs ej
   * **temp, BT**
   * **urinodling**
   * **Hb**
   * **pprom**: Hb, CRP, LPK, vaginalodling, PCR klamydia i urin
-  * spekulumundersökning
-  * palpation cervix
-  * 
+  * **spekulumundersökning**
+  * **palpation cervix**
+    * om pprom, palpera endast om stark misstanke förlossningsstart
+
+
+
+***Behandling***
+
+* **Initiala åtgärder v22-33+6**
+  * **antibiotikaprofy**: pprom erytromycin v22-32+6 10d
+    * KONTRAINDICERAT om hela hinnr; avvakta antibiotikan vid tveksamhet
+  * **steroidinduktion**
+    * Bäst effekt ses om förlossning 24 tim – 7 dagar från första dosen men effekt ses redan efter 2-3 timmar från första injektionen
+    * ”rescue-kur”:  förnyat hot snar förlossning om det gått mer än 14 dagar från föregående Betapredkur och kan övervägas redan efter 7 dagar om första behandlingen givits i extremt tidig graviditet.
+    * // v22
+  * **Tocolys**
+    * **Indikationer**: 
+      * **steroider**: möjliggöra effekt för steroiderna (avslutas 24h efter sista betapred)
+      * **transport**: möjliggöra transport t annat sjukhus
+    * **Kontraindikationer**
+      * **Korionamnionit, chorionamnionit**: oavsett graviditetslängd
+      * **Blödning**: misstanke placentaavlossning
+    * **LKM**: 
+      * Bricanyl 0.25mg: subcut, iv, snabb kortvarig effekt, upprepas efter 30min kan. kan infunderras, vanlgiare dock med biverk, ökad risk lungödem, ffa flerbörd o preeklampsi. 
+        * kontraindik: svårt hjärtkärlsjd, hjärtarrytmi, obehandlar hyperthyreos
+      * Tractocile
+        * 1a hands behandling
+        * infusion
+        * efter initial högdobehandling, oxytocinreceptorerna är mättade, vid terapisvikt på underhåll är inte meningsfullt återgå högdos
+      * adalat
+        * kontraindikation: hjärtsjd, pga vasodilat, BT sänkande effekt. ingen evidens som underhållsbeh
+    * **Neuroprotektion magnesiumsulfat**
+      * !! **minskar risk CP, död för tidig förlossning**
+      * **1-24h före förlossning**
+      * **alla före v32:** undantag de som får magnesium infusion pga preeklampsi
+      * **vaginal förlossning**: pat aktivit värkarbete, för att man ska ge magnesiumsulfat, dvs cervixtapp öppen 3cm el mer, buktande hinnblåsa, vattenavgg, sammandrag ärar, progress att förlossning med stor sannolikhet sker inom 24h
+      * **kejsarsnitt optimalt ge magnesium ca 5h fr operation.** 
 
 
 
@@ -9954,9 +10069,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Epidemiologi***
 
-* Mortalitet: risken relateras med vilken tid och grad av prematuritet
-  * v23 gestation: 50% mortalitet
-  * v34 gestation: lite mindre mortalitet jfr med fullgångna barn
+* **Mortalitet**: risken relateras med vilken tid och grad av prematuritet
+  * **v23 gestation**: 50% mortalitet
+  * **v34 gestation**: lite mindre mortalitet jfr med fullgångna barn
 
 
 

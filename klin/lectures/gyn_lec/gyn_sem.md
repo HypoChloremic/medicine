@@ -2869,8 +2869,8 @@ OSCE är stationer från listan.
 
 **Status: tachypné (25 andetag/min), tachykardi (125 sl/min), antydd halsvenstas.** 
 
-**Vilka ytterligare frågor ställer du?** **
-**Blödning vaginalt? 
+**Vilka ytterligare frågor ställer du?** 
+Blödning vaginalt? 
 Flygresor? 
 Stillasittande?
 Feber?
@@ -2883,12 +2883,25 @@ Tid nuv sjd.
 Tobak/Alk
 Hur var tidigare graviditet? 
 
-**
-****Hur vill du utreda patienten och varför? Motivera.** **
-**AT, Saturation, EKG (bröstsmärta). Ömhet bakre kärlsträng, Blodprover CRP, blodstatus, koagulation, blodgas. BT, temp. Troponin. 
 
+
+enl läk
+
+* Gynnamnes: blöder vaginalt eller ngt annat åp det sätte
+* infektionstecken, feber, hosta
+* lungemboli grejer: om det är att hon har rest scener, koagulationsgrejor med hereditet, om hon är mer benägen
+* koagulopati
+* Hereditet: ingen kännedom om sina päron, döda,
+* symptomdebut, nör: började 1v sedan
+* Tid sjd: malaria, annars frisk, äter inga mediciner. 
+
+
+
+**Hur vill du utreda patienten och varför? Motivera.** 
+**AT, Saturation, EKG (bröstsmärta). Ömhet bakre kärlsträng undersöka vaden, Blodprover CRP, blodstatus, koagulation, blodgas. BT, temp. Troponin. 
 
 Att ta en d-dimer i det här fallet är ingen idé pga graviditet så kan den vara hög ändå. 
+
 CT-thorax eller lungscint. Här måste man fundera på lungemboli då gravida har en ökad risk för tromboser.
 
 - Under graviditeten så ökar koagulationsfaktorerna som är trombogena och minskning av fibrinolytiska faktorerna. 
@@ -2897,21 +2910,74 @@ CT-thorax eller lungscint. Här måste man fundera på lungemboli då gravida ha
 - Anatomiska förändringar 
 
 
-CT thorax är bättre, nackdel är att det kan orsaka hypertyreos hos mamma och hypo hos fostret. OBS! TÄnk på förändrad cirkulation hos gravida vilket innebär att man måste köra bilderna lite annorlunda. 
+CT thorax med kontrast är bättre, nackdel är att det kan orsaka hypertyreos hos mamma och hypo hos fostret. OBS! Tänk på förändrad cirkulation hos gravida vilket innebär att man måste köra bilderna lite annorlunda. 
 
 
 
 Wells kan inte användas då det inte är utvärderat på gravida. 
-Om cirkulatoriskt påverkad patient kan man börja med att göra HjärtEKO för att titta efter högerkammarbelastning och indikation för trombolys. Indikationen är den samma som för icke-gravida. 
+Om cirkulatoriskt påverkad patient kan man börja med att göra HjärtEKO för att titta efter högerkammarbelastning [bedside hjärteko om man hinner] och indikation för trombolys. Indikationen är den samma som för icke-gravida. 
 
 Man måste även fundera på aortadissektion hos en gravid som plötsligt får central bröstsmärta, dock har den här haft sina symtom i 1 vecka. **
-**Pneumoni, Hjärtinfarkt, Panikångest, tyreotoxikos, rytmrubbningar, hjärtsvikt. 
+
+
+
+enl läk
+
+* ABCDE
+* EKG, troponin, 
+* misstanke lungemboli: DT-lungartärer
+  * spelare ngn roll att hon är gravid, svaret är nej. Det spelar ingen roll för att hon är gravid
+  * Lungscint är förstahandsval, för att ingen kontrast... 
+    * lungscint är förstahand beroende på när åp dygnet
+    * lungscint är bättre än DT.
+  * Men DT-thorax i första 
+
+
+
+![image-20210415133405159](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415133405159.png)
+
+
+
+***Differentialdiagnos***
+
+* Pneumoni, 
+* Hjärtinfarkt, 
+* Panikångest, 
+* tyreotoxikos, 
+* rytmrubbningar, 
+* hjärtsvikt. 
+
+
+
+***Det man gör efter att man upptäcker lungembolin***
+
+* Trombolys eller LMWH. 
 
 
 
 **Utredning visar utbredd lungemboli bilateralt. Vilka prover tar du? Hur behandlar du patienten och hur länge? Vad finns det för risker för patienten i samband med förlossningen? Vad ger du för råd inför framtiden?** 
 
-Koagulationslabb innan man sätter in blodförtunnande. TPK, Apt-tid, PK osv. Sedan måste man utreda bakomliggande orsak till att hon fick trombosen. 
+* Koagulationslabb innan man sätter in blodförtunnande. 
+* TPK, Apt-tid, PK osv. 
+* Sedan måste man utreda bakomliggande orsak till att hon fick trombosen. 
+
+
+
+enl läk
+
+* prover man tar innan behandling..
+  * koagulationsprover: PKINR, APTT, TPK, blodstatus, Hb
+  * Ingen ide att göra dessa prover efter att man sätter in högdosfragmin på patienten
+* Högdosfragmin 
+* Man ska vet att man ska ta koagulationsstatus innan man sätter in fragmin sätts in. 
+* // fråga om hur man diffar en instabil lungemboli (menas cirkualtoriskt instabil)
+* Ska läggas in på HIA, INTE på gyn. Hon är en internmedicin patient, inte en gyn patient.
+* Gyn följer henne under grav, men när hon kommer in är det inte de som behandlar. 
+* Hade det varit en DVT: så utreder man de själva, åp gyn...
+
+
+
+![image-20210415133620362](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415133620362.png)
 
 
 
@@ -2950,7 +3016,35 @@ Vid ny graviditet så ska hon ha trombosprofylax. Antikonception, inte något me
 
 
 
+
+
+enl läk
+
+* vid förlossning: 
+  * blödning kan man hantera på förlossning
+  * utan det är EDAn som är problemet, att man vill ha ett tomt intervall fragmin då man sätter in fragmin. 
+  * Man har fragmin under partus, man försöker minska dosen under aktivt värkarbete
+  * man försöker göra en plan då man tror att hon ska komma igång
+* Råd efter flrlossningen
+  * Inför nästa grav TIDIG KONTAKT FÖR INSÄTTNING TROMBOSPROFYLAX
+    * Fragmin igen alltså. 
+  * Gäller även om grav ska avbrytas. 
+  * bör inte bli opanerat gravid, man vill veta när hon blir gravid, samma sak gäller IVF
+  * SKA EJ HA KOMBINERADE PREVENTIVMEDEL.
+  * Stödstrmp 
+* Titta läkartidningen för trombosprofulax under graviditet. 
+
+
+
+![image-20210415134226885](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415134226885.png)
+
+
+
 ### Fall 2 
+
+
+
+
 
 **Katarina 30 år, tidigare frisk. 1-grav, hittills normal graviditet. Har tid för inskrivning hos mödravården i nästa vecka. Hon söker nu dig på gynakuten. Aktuellt: Idag gravid i vecka 8+3. Hon söker pga hjärtklappning, illamående och kräkningar. Hon har svårt att behålla maten och har gått ner ett kg under graviditeten. Status AT: opåverkat.** 
 
@@ -2968,15 +3062,17 @@ Mola hydatidosa (ej troligt dock). Genetiskt avvikande graviditet med ett övers
 
 Duplex
 
-**
-****Vilka undersökningar vill du göra och vilka prover vill du ta? Motivera.** **
-**BT, puls och urinsticka. Gynekologisk undersökning och UL?
+**Vilka undersökningar vill du göra och vilka prover vill du ta? Motivera.**
 
-Urinprov (kan visa på tex, UVI/pyelonefrit som kan ge illamående kräkning samt hjärtklappning + ketoner om ketoacidos). 
-Elstatus: dehydrering, kräkningar 
-Blodstatus: tecken på dehydrering, LPK stegring vid infektion. 
-
-Thyroideastatus: TSH, T4 och TRAK. Intensivt graviditetsillamående. 
+* BT, 
+* puls och 
+* urinsticka. 
+* Gynekologisk undersökning och UL?
+* Urinprov 
+  * (kan visa på tex, UVI/pyelonefrit som kan ge illamående kräkning samt hjärtklappning + ketoner om ketoacidos). 
+    Elstatus: dehydrering, kräkningar 
+* Blodstatus: tecken på dehydrering, LPK stegring vid infektion. 
+* Thyroideastatus: TSH, T4 och TRAK. Intensivt graviditetsillamående. 
 
 
 
@@ -2987,9 +3083,100 @@ Graviditetsinducerad hypertyreos. Normalt TRAK, låga TSH, höga T4. Varför hä
 Behandling: 
 
 - Behövs det rehydreringsbehandling?
-- B vitamininjektioner. 
+- **B-vitamininjektioner**:  Wernicke behandling, att man sätter in B1, för att viss risk för wenicke. 
 - Kaliumsubstitution. EKG under ish 2,8. 
 - postafen är receptfritt, lergigan är det vanligaste, primperan, omeprazol (gastrit, esofagit), b-vit på recept. 
+
+
+
+***Undersökningar man gör på denna patient***
+
+* Urinsticka
+* Krea
+* Kap-Hb
+* Kap-CRP
+* Leverprover
+* TSH, T4
+* Blodstatus
+* Elektrolyter
+
+
+
+***Antiemetika***
+
+* Lergigan
+* primperanm
+* omeprazol
+* INTE ondasetron: ökar risken för missbildning, ge inte den
+* Enl livsmedelsverket
+  * (konservativ behandling med att man ska äta på morgonen, mat med ingen doft, )
+  * Meklozin (postafen)
+  * Otillräcklig effekt prometazin + koffein + efedrin (lergigan comp), i andra hand för graviditetsillamående. 
+
+
+
+// Gällande risken för spina bifida att man ger folsyra tidigt i graviditeten. 
+
+
+
+enl läk
+
+* differentialdiagnoser
+  * hyperemesis gravidarum
+  * graviditetsillmaående
+  * leverpåverkan
+  * hyperthyreos
+  * gastroenterit
+* Mer på gnakuten man kan göra utöver prover
+  * Ultraljud för fostret
+  * letar efter mola hydatidosa
+  * !!! OCH DUPLEX SOM MAN KAN MÅ ILLA AV
+
+
+
+![image-20210415135742910](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415135742910.png)
+
+
+
+![image-20210415135849038](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415135849038.png)
+
+
+
+* TSH ska vara mindre än 0.5
+
+
+
+***Behandling av hennes illamående***
+
+* enl läk
+  * Väldigt mkt vätska initialt, för att de är uttorkade
+  * !!! att man ger Tiamin innan man ger glukos, B-vitamin (neurobion)
+  * Ngn antihistamin
+  * Primperan som man ger IV
+  * man ger ej ondasetron så mkt som man kan för att kan vara missbildande. 
+  * Patienten hade lågt K, så man kan ge kaliumtillägg
+  * Ge henne att äta på gynakuten
+    * Saft, lite socker i
+    * Chips och salta kex
+    * allt som man kan äta långsamt och kex
+  * Hemgång? Förutsatt att hon mår tillräckligt bra på akuten
+  * Råd innan hemgång. 
+    * förstahand ger Lergigan comp på dagarna
+    * Andra lergigan till natten
+    * Tips om mat: små portioner, kall mat, utan kryddor, torr, äta frekvent, 
+      * när vakna ta lergigan, sen lite kex, sen sove, sen upp o frukost
+      * sen äter mediciner trots att hon mår illa
+      * Ond spiral av att man inte äter mer illamåpende inte äter mer illamående etc. 
+  * Vad man gör med de svårare hyperemesis gravidarum
+    * inläggningsfall
+    * ett gäng med ASIH, och får TPN via ASIH, men få fall. 
+    * att grav illamående slutar v12, 80-90% borta vid v20. 
+  * !!! TSH är lågt pga hCG: att det är okej. inte oroliga för att vi har tagit TRAK som är negativt, så vi behöver ej vara oroliga
+  * pyrodixin kan hjälpa, vitamin B6. 
+
+![image-20210415140424264](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415140424264.png)
+
+
 
 ### Fall 3 
 
@@ -3000,35 +3187,106 @@ Behandling:
 Preventivmedel 
 Tid. nuv. sjud
 
-Smärta
-Tidigare gynanamnes 
+* !! Smärta
+* Tidigare gynanamnes 
 
-Seuxal anamnes: Fast partner? Man eller kvinna? 
-Senaste cellprovstagningen, vaccinerad? 
-SM? RB? Riklig eller lite?
+Seuxal anamnes: 
 
-Läkemedel 
+* Fast partner? 
+* Man eller kvinna? 
+* Senaste cellprovstagningen, vaccinerad? 
+* !!! SM? sista mens!! 
+* RB? 
+* Riklig eller lite?
+* Läkemedel som gör att hon blöder. 
+* Flytningar: rikliga, illaluktande, noterat ngt avvikande. 
 
 
 
 **Vilka diagnoser tänker du på i första hand?****
-**Cervicit **(**Klamydia), mykoplasma, gonorré, Cervix förändring, utesluta graviditet (cervix blir mer lättblödande, kan vara missfall, X-grav)
 
-**
-****Vad gör du för utredning?****
+*Cervicit* (**Klamydia), mykoplasma, gonorré, Cervix förändring, utesluta graviditet (cervix blir mer lättblödande, kan vara missfall, X-grav)
+
+**Vad gör du för utredning?**
+
 **Cellprovtagning, vaginalprov (Klamydia och gonorré)  **
 **Gyn undersökning, UL, bimanuell palpation. 
 
-**
-****Hur behandlar du respektive differentialdiagnos?** **
+**Hur behandlar du respektive differentialdiagnos?** **
+
 **Klamydia = doxycyklin + smittspårning, smittskyddsanmälan. 200mg dag 1, sedan 100mg i 8 dagar. Partnerbehandling. 
 Cellprov = kolposkopi, riktade biopsier. Om hög risk → konisering. 
+
+![image-20210415142016016](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415142016016.png)
+
+
+
+// HPV-testet testar vara högrisk HPV. 
+
+
+
+Enl läk
+
+* Blöder vid samlag
+  * Torra slemhinnor
+  * STD, STI
+  * Graviditet, utesluta detta, att man tar ett grvtest: dock även om gravtet positiv så behöver man utesluta detta. 
+  * ektopi lättblödande vid p-piller behandling
+  * polyper: kan behandlas med ägletång och vrider ett antal varv tills lossnar. Semikirurgiskt på gynakuten. 
+    * förutsätter att polyupen hänger ut ur cervix. man känner inte av polypen
+    * man skickar den till PAD om man tagit polyp. man skickar allt för säkerhetsskull. 
+    * ibland att man tar bort den kirurgiskt, för att sitter högt upp eller för att den har en så pass bred bas att mna drar den. 
+  * om det är en ektopi:
+    * det är okej
+    * man kan pensla med albotyl, minska blödning, nästa gg hon har sex
+    * räcker med en gång att man penslar. 
+  * För klamydia: att man remitterar till kurator som hanterar alla smittsydd. 
+  * Gällande smittskydd att man fortsätter leta och behandla. 
+    * man testar + behandlar partnern
+    * om man haft sex med många, så testar man bara och behandlar utefter
+    * förutsätter att man är positiv idenna kedja, så fortsätter smittksyddet tills det löper ut verkare som. 
+
+
+
+![image-20210415142405284](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415142405284.png)
+
+
+
+![image-20210415142606113](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415142606113.png)
+
+
 
 
 
 ### Fall 4 
 
 **Mia är 27 år och du får svar HR-HPV och LSIL både i cellprovet och i biopsi.** 
+
+
+
+HR-HPV är högrisk HPV. 
+
+
+
+![image-20210415143412418](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415143412418.png)
+
+
+
+![image-20210415143438190](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415143438190.png)
+
+
+
+![image-20210415143924547](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415143924547.png)
+
+cancercentrum.se
+
+
+
+
+
+
+
+
 
 **Hur hanterar du det?** 
 
@@ -3078,38 +3336,78 @@ HPV-vaccin erbjuds alla barn i årskurs 5 inom det allmänna vaccinationsprogram
 
 Det 4-valenta HPV-vaccinet ingår i högkostnadsskyddet för kvinnor till och med 26 års ålder. Äldre kvinnor, pojkar födda före 2009 och män får själva bekosta vaccinationen. Det 9-valenta HPV-vaccinet ingår inte i högkostnadsskyddet.![img](https://lh5.googleusercontent.com/w6egWw7viGiPE5cRFPDgIU9tYQf_pwWK8kIhQZ3klwLZ5FOUU_Yf_zmH7vAltlQO9qAWEzsxN5wYtoKjGJS_ktqpmmeVmWp1ChV6ef5JCd_kOSVf9CnmHK6WgS2Qyn5cvpOwf89R)
 
+
+
+enl läk
+
+* om man ser HSIL
+* fortfarande HSIL 
+* Risker konisering
+  * Ökar risken prematurbörd: det är efter hur mga konmiseringar, beroende åp hur
+  * det är hur mkt man tagit åp koniseringen som spelar roll
+* Vaccineringen: man kan ge henne vaccin upp till 45åå
+  * vi vet inte om vaccineringen hjälper till, man vet inte om det är farligt
+* hur effektiva är vaccineringen: 
+  * gerdasil minskar risken med70% med den gamla, nya 90%
+  * vad gäller HSIL: 
+* Vem man vaccinerar
+  * pojkar och flickor sedan i höstas
+  * alla i årskurs fem. 
+
+![image-20210415144224278](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415144224278.png)
+
+![image-20210415144521590](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415144521590.png)
+
+![image-20210415144734713](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415144734713.png)
+
+
+
 ### Fall 5 
 
 **Eva 32 år söker tillsammans med Adam 33 år på mottagningen då de försökt få barn under 2 års tid utan att lyckas. Eva är frisk och äter inga mediciner. I en tidigare relation har hon gjort en abort. Adam är också frisk och äter inga mediciner.** 
 
 **Vad behöver du veta mer i anamnesen?** 
 
-Tidigare fertilitet, graviditetsutfall och födda barn i nuvarande och tidigare relationer samt tidigare och aktuella medicinska och psykiska sjukdomstillstånd. 
-Tidigare lm: cytostaitka, strålbehnalding. NSAID påverkar ovulaitonen och cimetidin, sulfasalazin och androgener kan försämra spermakvalitet. 
-Tidiagare infektioner, operationer i bukhåla, eller genitala delar/ljumsbråck. 
-Bruk av alkohol, tobak och kaffe pga dessa påverkar fertiliteten. Annat missbruk, narkotika, anabola steroider. 
-Sexualanamnes med samlagsfrekvens (vet de när de ska ha samlag) erektionssötninrgar eller samlagssmärta. 
-
-
-
-Blödning: SM, RM, mensvärk, hur länge är mensen, hur mycket blöder hon?
-Dysmenorré, smärta vid samlag. Senaste cellprov, provtagning. ¨
+* Tidigare fertilitet, graviditetsutfall och födda barn i nuvarande och tidigare relationer samt tidigare och aktuella medicinska och psykiska sjukdomstillstånd. 
+* Tidigare lm: cytostatika, strålbehandling. 
+* NSAID påverkar ovulationen och cimetidin, sulfasalazin och androgener kan försämra spermakvalitet. 
+* Tidiagare infektioner, operationer i bukhåla, eller genitala delar/ljumsbråck. 
+* Bruk av alkohol, tobak och kaffe pga dessa påverkar fertiliteten. Annat missbruk, narkotika, anabola steroider. 
+* Sexualanamnes med samlagsfrekvens (vet de när de ska ha samlag) erektionssötninrgar eller samlagssmärta. 
+* Blödning: SM, RM, mensvärk, hur länge är mensen, hur mycket blöder hon?
+* Dysmenorré, smärta vid samlag. 
+* Senaste cellprov, provtagning. ¨
 
 
 
 **Hur utreder du?** 
 
-Kvinnan: längd, vikt, BMI, PCOS tecken (akne, ökad behåring, onormal fettfördelning), gynundersökning + UL (endometriets tjocklek, folliklar, ovariernas storlek, corpus luteum i relation till cykelfas). Äggledare, cystor i ovarierna? Antikroppar för klamydia om misstänkt tubarskada. Bör också tas inför eventuell hydrosalpingosonografi för att man inte vill skjuta upp i tuban. 
-Tyreoideaprover. 
-Hormonanalys om indikation föreligger. AMH. 
-FSH, LH, prolaktin om man misstänker PCOS. Testosteron och SHBG. 
+Kvinnan: 
+
+* längd, 
+* vikt, 
+* BMI, 
+* PCOS tecken (akne, ökad behåring, onormal fettfördelning), 
+* gynundersökning + UL 
+  * (endometriets tjocklek, folliklar, ovariernas storlek, corpus luteum i relation till cykelfas). 
+  * Äggledare, cystor i ovarierna? Antikroppar för klamydia om misstänkt tubarskada. Bör också tas inför eventuell hydrosalpingosonografi för att man inte vill skjuta upp i tuban. 
+    Tyreoideaprover. 
+    Hormonanalys om indikation föreligger. AMH. 
+    FSH, LH, prolaktin om man misstänker PCOS. Testosteron och SHBG. 
 
 Infektionsprov på båda hep B, C och HIV. Om IVF ska göras så ska man ta HTLVI, II och syfilis. 
 
-**
-****Hur utreder du Adam?** **
-**Spermaprov, om normalt ingen vidare utredning. 
-Om inte normalt 
+**Hur utreder du Adam?** 
+
+* Spermaprov, 
+* om normalt ingen vidare utredning. 
+* Om inte normalt 
+
+
+
+![image-20210415145853574](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415145853574.png)
+
+![image-20210415150003727](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415150003727.png)
 
 
 
@@ -3119,16 +3417,53 @@ PCOS
 
 
 
-**Vilka andra risker kan detta tillstånd medföra för EVA?** **
-**Insulinresistens och hyperinsulinemi är vanliga hos kvinnor med PCOS redan vid måttlig övervikt associerad till mängden bukfetma. Diabetes typ 2. Ökad obstetriska risker, PE, GDA, prematur förlossning. Postmenopausalt ökad förekomst av bukfetma, diabetes typ 2 och metabola syndromet. 3 gånger ökad risk för endometriecancer pga kronisk östrogen stimulering vid anovulation. men inte universellt drag. 
+**Vilka andra risker kan detta tillstånd medföra för EVA?** 
+
+* Insulinresistens och hyperinsulinemi är vanliga hos kvinnor med PCOS redan vid måttlig övervikt associerad till mängden bukfetma. 
+* Diabetes typ 2.
+* Ökad obstetriska risker, PE, GDA, prematur förlossning. 
+* Postmenopausalt ökad förekomst av bukfetma, diabetes typ 2 och metabola syndromet. 
+* 3 gånger ökad risk för endometriecancer pga kronisk östrogen stimulering vid anovulation. 
+* men inte universellt drag. 
 
 
 
 **Du förklarar för Eva att detta troligen är orsaken till varför hon har svårt att bli gravid. Hon undrar nu förstås hur hon kan få hjälp att bli gravid.** 
 
-Om hon är obese → Livsstilsintervention + antidiabetikum för insulinresistens och obesitas. 
+* Om hon är obes → Livsstilsintervention + antidiabetikum för insulinresistens och obesitas.
+* !!! Antingen genom stimulering av ägglossning och sedan ha samlag då ägglossning sker. 
+* Andra alternativet är IVF. 
 
-Antingen genom stimulering av ägglossning och sedan ha samlag då ägglossning sker. Andra alternativet är IVF. 
+
+
+![image-20210415145652717](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415145652717.png)
+
+
+
+enl läk
+
+* prover 
+  * FSH, LH
+  * SHBG, TESOSTERON
+  * Screening prover, även om regelbunden mens, som kan underlätta graviditet
+    * AMH: för o veta om vi kan stimulera, uppfattning om äggreserv
+    * TSH, T4: att man mäter dessa. 
+      * TSH kan påverka möjligheten att bli gravid. 
+* Vi vill veta om hon är immun mot rubella, annars ger vi vaccin mot rubella, INNAN VI GER IVF
+* proverna titta i anteckningarn. 
+* Riskerna när man har PCOS
+  * OHSS
+  * metabolt syndrom liknande problem
+  * endometriecancer: anovulationsgrejen
+    * om man inte har ovulation ska mna ta provera 4ggr om året för att blöda om året!!!
+* FSH i PCOS kommer inte bli tillräckligt hög för follikelutvcekling, kommer aldrig få FSH toppen med PCOS. det är att LH/FSH kvoten är högre. att LH är högre än FSH. 
+* /// Vi har ingen dominant follkel vid PCOS, därför kommer LH ökningen inte leda till 
+
+
+
+![image-20210415150229305](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415150229305.png)
+
+
 
 
 
@@ -3136,9 +3471,10 @@ Antingen genom stimulering av ägglossning och sedan ha samlag då ägglossning 
 
 **Klara 40 år söker gynmottagningen pga klåda och rikliga flytningar sedan några dagar. Klara är frisk. 3 grav, 3 para, PN x3. Hon är gift med en man. Har en hormonspiral. Haft mycket besvär med klåda och flytningar i perioder.** 
 
-**Vad mer vill du veta?** **
-**tid/nuv sjud. 
-SM, Rb? Hur mycket blöder hon? Samband med menstruation? Östrogen ökad pH
+**Vad mer vill du veta?** 
+
+* tid/nuv sjud. 
+  SM, Rb? Hur mycket blöder hon? Samband med menstruation? Östrogen ökad pH
 
 Har du fast partner?
 Senaste cellprovet?
@@ -3161,11 +3497,11 @@ Hygienvanor
 
 
 
-**Differential diagnos?** **
+**Differential diagnos?** 
 
-****
 
-**[**Bakteriell vaginos****
+
+**[**Bakteriell vaginos
 **](https://www.internetmedicin.se/page.aspx?id=3371)illaluktande flytningar. Flytningarna kan vara tunna och färgen kan vara mellan grå och gul. Flytningarna brukar inte bli rikligare än vanligt.
 
 Det luktar ofta starkare precis efter att du har haft mens och efter vaginala samlag utan kondom. Det gör att du kan uppleva att symtomen kan försvinna för att sedan komma tillbaka.
@@ -3181,27 +3517,28 @@ Ibland kan det även svida och [klia runt slidmynningen](https://www.1177.se/Sto
 Kvinnor kan få svår klåda i underlivet och blygdläpparna kan dra ihop sig och krympa. Män kan få sveda och irritation på ollonet och förhuden. Förhuden kan också dra ihop sig och krympa. Vid lichen sclerosus kan det vara svårt att ha sex, eftersom det kliar och stramar i underlivet. Det kan kännas bättre att använda glidmedel.
 Behandling: Kortisonsalva i nedtrappning. 
 
-**
-****Lichen simplex**
+
+
+**Lichen simplex**
 \- Ofta efter en skada i huden, t.ex. rivsår, insektsbett eller skavsår. Klåda ger rivning som ger ännu mer klåda. Ond cirkel. Lichenifierat (förtjockat), välavgränsat, ibland fjällande lätt rodnat eksemplack på fotrygg, anklar, skenben, underarm, nacke, vulva, skrotum eller perineum.
 
 Behandling: Kortisonsalva i nedtrappning. 
 
  
 
-**K**[**ondylom****
-**](https://www.internetmedicin.se/page.aspx?id=684)Ger vårtor 
-
-**
-****Hur ställer du diagnos?** **
-**På anamnes, 
-flytning, 
-Undersökning där man kan se en kesoliknande flytning, sprickbildning. 
-wet smear där man kan se svamphyfer med kaliumhydroxid. 
+[Kondylom](https://www.internetmedicin.se/page.aspx?id=684)Ger vårtor 
 
 
+**Hur ställer du diagnos?** **
 
-**Behandling och allmänna råd?****
+* På anamnes, 
+* flytning, 
+* Undersökning där man kan se en kesoliknande flytning, sprickbildning. 
+* wet smear där man kan se svamphyfer med kaliumhydroxid. 
+
+
+
+**Behandling och allmänna råd?**
 **Man kan börja med lokalbehandling (kräm samt vagitorier 1-3 dagar). Om inte hjälper så kan man ta po. fluconazol. Resistensbestämning om det inte funkar med behandling. Hygienråd. Så att huden och slemhinnorna håller sig fuktig och inte torr. Inte tvål i någon form, oljebaserad rengöringsmedel, insmörjning med krämer eller salvor. Olja innan man tvättar sig med vatten. 
 
 Tabletter om man har långvariga besvär. 
@@ -3250,10 +3587,11 @@ Hos postmenopausala kvinnor är det i princip aldrig svamp.
 **Bakteriell vaginos (BV)****
 **laktobacillerna blir undanträngda av anaerober som frisätter illaluktande doft (aminer). 
 Diagnoskriterier
-\1. clue cells i wet smear 
-\2. positivt kaliumhydroxid (snifftest)
-\3. skummig fluor, grå-gul 
-\4. pH >4,5 
+
+1. clue cells i wet smear 
+2. positivt kaliumhydroxid (snifftest)
+3. skummig fluor, grå-gul 
+4. pH >4,5 
 
 Behandling: 
 metronidazol eller alt. klindamycin vagitorier 
@@ -3264,7 +3602,43 @@ PO klindamycin eller metronidazol
 
 
 
+enl läk
 
+* Lactacyd får man inte tvätta i underlivet: för att det retar slemhinnorna, det är alltså tvål, man ska inte tvätta i underlivet, för att den är självrengörande
+
+* man ska rekommendera patienten att inte tvätta i underlivet. 
+
+* Differentialdiagnoser
+
+  * bakteriell vaginos: 
+  * lichen simplex, sclerosus: sprickopr
+
+  * eksem: sprickor
+
+* Gynekologisk undersökning + wet smear
+
+* ser massa hufer
+
+* behandlar henne med svamp
+
+  * först frågar vi om hon behandlat tidigare själv, 
+  * hon säger att hon har behandlat sj mi underlivt
+  * därför gör vi preoral behandling.  
+  * Risken med upprepade svampbehandlingar utan effekt: det stör i slemhinnorna, man kan få en vestibulit. Att det är många patienter med upprepade svampinfektionre som behandlats pevaryl, och därför vestibulit som man söker för. 
+
+* Använd inte trosskydd för att det kan bli för torrt och irriterande. 
+
+* **postmenopausalt**: lichen, exem, eller cancer
+
+
+
+
+
+![image-20210415151310977](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415151310977.png)
+
+
+
+![image-20210415151713113](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20210415151713113.png)
 
  # Flytningar
 

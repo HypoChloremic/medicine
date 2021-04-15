@@ -6636,6 +6636,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Cervix, cervicit
 
+
+
 ***Etiologi och patofysiologi***
 
 * Bakteriella infektioner

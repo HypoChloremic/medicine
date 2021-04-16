@@ -3316,7 +3316,7 @@ gnfcs: gross motor function classification system, grad 1-5, som är väldigt l�
 
 
 
-### Fall 5 fokal ep
+### Fall 5: Fokal ep
 
 7-årig pojke som kommer in till akuten. Familjen var på väg hem från skidsemester i fjällen, och pojken sov troligen, när föräldrarna hörde konstiga ljud från baksätet, det började rycka runt höger mungipa, saliven rann, sedan började pojken rycka i hela kroppen. Spikes i Rolandiska området på båda sidorna.
 
@@ -3391,7 +3391,7 @@ Detta är ett gammalt PM för pågående epileptiskt anfall. Det kommer alldeles
 
 
 
-### Fall 6: 
+### Fall 6: Absensepilepsi: 
 
 **Lisa är en 6-årig pigg och glad flicka som går i 6-årsverksamhet, allt fungerar bra med kompisar, Lisa kan sitta stilla under samlingarna. Men Lisa liksom tittar bort och försvinner sekundsnabbt ibland, om hon pratar kan hon tystna mitt i en mening. Såväl föräldrarna som Lisas fröken i förskolan har märkt detta. Du är läkare på en Barnläkarmottagning. Spike’n’Wave typisk för absensepilepsi.** 
 
@@ -3441,7 +3441,7 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
 
 
 
-### Fall 7
+### Fall 7: infantila spasmer
 
 * Du är BVC-läkare och SSK har bokat in ett extrabesök. Ulla 6 mån som sedan ungefär 10 dagar drar ihop sig i attacker som upprepas flera gånger efter varandra och sedan är det paus ett par timmar. Ulla blir ledsen och gråter. Hon har stannat upp i sin utveckling. 
 * Det såg ut som att barnet fick moro-reflexer men läkar förklara att det är infantila spasmer, där hon blir ledsen efter dem. 
@@ -3522,7 +3522,7 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
 
 
 
-### Fall 8
+### Fall 8: hjärntumör
 
 5-årig gosse som sedan 2-3 mån har återkommande HV. Kan vakna mitt i natten och skrika pga HV. Har ibland kräkts och somnat efteråt. Pigg då han vaknar efter ett par timmar. Söker akut söndag kväll. Du är primärjour på barnmedicin på ett universitetssjukhus, där avdelningen är fullbelagd. 
 
@@ -3585,20 +3585,20 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
 
 
 
-### Fall 9
+### Fall 9 - makrocefali
 
-![1bvQeXzw4G](./imgs/ped_neuro_sem_1bvQeXzw4G.png)
+<img src="./imgs/ped_neuro_sem_1bvQeXzw4G.png" alt="1bvQeXzw4G" style="zoom:33%;" />
 
 
 
 * ser att huvudomfånget vuxit väldigt mkt och after 3 förbättras den, så man har förbättrat detta
 * Detta är makrocefali för att över +3sd: kan vara hydrocefalus som är vanligast etiologiskt
 
-![4twbCwn8Us](./imgs/ped_neuro_sem_4twbCwn8Us.png)
+<img src="./imgs/ped_neuro_sem_4twbCwn8Us.png" alt="4twbCwn8Us" style="zoom:50%;" />
 
 
 
-![i29YoiW2id](./imgs/ped_neuro_sem_i29YoiW2id.png)
+<img src="./imgs/ped_neuro_sem_i29YoiW2id.png" alt="i29YoiW2id" style="zoom:25%;" />
 
 # ***Referenser***
 

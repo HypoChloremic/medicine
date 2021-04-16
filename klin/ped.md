@@ -6284,7 +6284,7 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### hjärntumör
+### Hjärntumör
 
 ***Presentation***
 
@@ -6315,6 +6315,164 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+
+### Huvudvärk
+
+#### Migrän
+
+***Presentation***
+
+* **Emma 7 år är remitterad till dig på BUMM pga episoder med huvudvärk. Du har misstanke om att Emma lider av migrän. Barn kan ha migrän både med eller utan aura som dock är ovanligt hos barn. Durationen är oftast kortare hos barn än hos vuxna men ett anfall kan vara mellan 1-72 timmar. Vilket av följande påståenden om migrän hos barn stämmer bäst? Välj ett alternativ:** 
+  * paracetamol + NSAID: förstahands anfallskuperande behandling
+
+
+
+***Epidemiologi***
+
+* Ettårsprevalens: 2-13%
+* barn tonåringar, minst 1gg p vecka 5%
+
+
+
+***Kliniska kännetecken***
+
+* **kan debutera tidigt barnaåren**: 20% före 10åå
+* **första levnadsåren**
+  * **korta anfall**
+    * skrik
+    * blekhet
+    * kräkningar 
+    * (HV framkommer av naturlika skäl INTE anamnestiskt förrän 4åå)
+* **Anfallsduration**
+  * 2-8h: vanligast
+  * 12h: obehandlat, kan uppgå hit
+* **Smärta**: SVÅR, jfr med spänningsHV som är lindrig-måttlig
+* **Locale**: bifrontal, bitemporal
+* **Utöver huvudet**: smärtor mage, buksmärtor, kräkningar
+* **Migrän utan aura**
+  * utlösande faktorer som exponering för TV- eller datormonitorer, sömnbrist, och emotionella reaktioner.
+* **Bukmigrän**: förekommer osså, före vanlig migrän; återkommande buksärtor, önska ligga mörkt tyst nrum, runt navel, diffus, vasomotoriskt symptom ansiktsrodnad följt blekhet, matleda, kräkningar 50%, känslighet ljus ljud, yrsel,
+* **Sammanfattning**
+  * kortare anfallsduration jfr vuxna
+  * yngre rapporterar sällan aura
+  * ofta bilateral HV
+  * svårt beskriva dunkande pulserande smärta
+  * större påverkan magtarmkanalen: buksmärta, kräkningar
+  * ökad känslighet ljus och ljud: information fr föräldrarna
+
+
+
+***Migrän med aura***
+
+* Aura före HV fasen
+* aura 10-30min, sällan 60mmin
+* försvinner ofta innan HV
+* formen aura: 
+  * flimmerksotom, i.e. synpåverkan. 
+    * upplevs båda ögon, samma synfältshalva. 
+    * pat kan ej se normalt
+  * Känselrubbningar
+    * endast ena kroppshalva
+    * känslestörningar som domningar, krypningar, stickningar i ena handen (tumgrepp), mun, tunga samma sida (kiro-orala parestesi)
+    * börjar fingrar, sprider underarm, loppet minuter, därefter ansikte
+  * talrubbningar: mindre vanligt
+  * förvrängd kroppsuppfattning: kroppsform ändras
+
+
+
+***Differentialdiagnoser***
+
+* **Tandställning, bettställning, gnisslar tänder**: smärtor tuggmuskulatur
+* **Utesluta orsaker återkommande HV**: intrakraniell tryckstekgring pga blödning el tumör
+* **Hjärntumör**: HV värre morgonen, förvärras vid hosta, böjer sig, kryster
+* **Spänningshuvudvärk**
+* **Synstörning**: myopi eller striabism
+* **CNS infektion, inflammation**: e.g. neuroborrelios, TBE, meningit
+* **CNS tryck**: stroke (blödning), tumör,
+* **TMD**: temporomandibulär dysfunktion
+
+
+
+***Utredning och handläggning***
+
+* Remiss akutmottagningen
+  * allmänpåverkan
+  * ayrasymptom >1h
+  * migränanfall >72h trots behandling: status migränosus
+  * neuro fokalitet
+* Elektiv handläggning
+  * optiker
+  * tandläkare: bettdysfunktion
+  * fysioterapi: muskelspänningar
+
+
+
+***Behandling***
+
+* **Kontraindikationer**: ALDRIG kombinerade p-piller till dessa patienter
+* **Konservativt:**
+  * god effekt bra sömnvanor
+  * oregelbunden matvanor, sömnvanor?
+  * krav fr skola o föräldrar höga
+  * mobbning, insufficient socialt familjeliv, incest
+  * Kan skicka pp KBT...
+* **Farmakologiskt**: föra dagbok om symptom följa effekt
+  * **anfallskupering / anfallsbehandling**
+    * ASA, paracetamol, eller NSAID.
+    * ASA ej vid samtidig feber och infektion
+    * **triptaner, nästa steg, från 12åå**: sumatriptan
+  * **förebyggande, profylax**
+    * När frekvens påtaglig
+    * **Propranolol po**: kontraindik för låg puls; ej prestationsbarn för konditionsnedsättande: dag eftermiddag för undvika mardrömmar
+    * **kalciumblock, flunarizin**
+    * **amitriptylin**
+    * **antiepileptika**: valproat, topiramat
+  * **tillägg antiemetika**
+    * metoklopramid: utlösa extrapuramidal sidoeffekt som akut dystoni, akatisi. vanligaste biverkan trötthet
+
+
+
+#### Spänningshuvudvärk
+
+
+
+***Allmänt***
+
+* HST: spänningshuvudvärk
+
+
+
+***Epidemiologi***
+
+* Prevalens: mellan 12-72%
+* vanligast förekmmande hvudvärk hos barn + tonåringar + vuxna
+* 1% daglig kronisk spänningshuvudvärk, barn + tonåringar
+
+
+
+***Kliniska kännetecken***
+
+* Börjar tryck ovanpå skallen
+* eller band runt huvud
+* därefter går över i lätt värk
+* senare skede öka intensitet
+* kan störa skolarbete
+
+
+
+***Diagnos***
+
+* För spänningshuvudvärk
+* när uteslutit migrän eller annan bakomliggande orsak (central genes?)
+
+
+
+***Behandling***
+
+* besvärande HST
+  * ibuprofen
+  * eller paracetamol
+* 
 
 ### Utebliven neuro progress
 

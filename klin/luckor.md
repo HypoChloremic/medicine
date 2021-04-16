@@ -18,3 +18,6 @@ beroende på hur akut detta är
 
 
 * saturation efter födsel: när kan man uppnå 90%, tidmässigt efter födsel.
+* kompressionerna enl abe var att man gav de 120 vid 15:2, vid neoHLR låtere som att man gör 90 kompressione per min, och 30 inblåsningar.
+* Det stämmer med 100-120 kompressioner per minut. det är intressant att detta inte gller för neobarn
+* Hur räknar man PEWS för varje timme. Verkar som att man skulle kontrollera ungen PEWSX12 alltså varannan timme. Eller är PEWS var 12e timme,. 

@@ -3604,13 +3604,11 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
 
 
 
-![fFW1HC0ebz](./imgs/pedsem_fFW1HC0ebz.png)
+<img src="./imgs/pedsem_fFW1HC0ebz.png" alt="fFW1HC0ebz" style="zoom: 50%;" />
 
 
 
-
-
-# Neonat föreläsning
+# Neonat seminarium
 
 ***Neonatal perioden***
 
@@ -3633,10 +3631,6 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
 * 115-200k barn föds om året i Sverige. 
 
 
-
-
-
-# Neonat seminarium
 
 ## Fall 1
 
@@ -3706,7 +3700,7 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
 
 #### Vid 4 timmars ålder ses liksidiga ryckningar i armar och ben. Barnet blir samtidigt cyanotiskt.
 
-***INdikationer för kylbehandling***
+***Indikationer för kylbehandling***
 
 * A-kriterium krävs
   * APGAR <= 5 vid 10 min

@@ -205,7 +205,20 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
       * 1:a obstruktiva episoden och anamnes på hereditet, födämnesallergi, atopiskt eksem.
       * 1:a obstruktiva episoden efter 2 års ålder
 
+### Akuta allergiska reaktioner
 
+***Etiologi och patofysiologi***
+
+
+
+***Kliniska kännetecken***
+
+* Urtikaria
+* Klåda
+* Konjunktivit
+* (rhinit)
+* En kräkning? möjligt diffa här med anafylaxi
+* ödem ansikte
 
 ### Anafylaxi
 
@@ -273,8 +286,8 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 ***Kliniska kännetecken***
 
 * ***Hud***: Urtikaria, quinckeödem, klåda, flush, blekhet.
-*  GI: Kräkning, illamående, sväljningssvårigheter, diarré.
-*  Luftvägar: Svullnad i övre luftvägar, astma, hosta, heshet, nästäppa, rinnsnuva.
+*  **GI**: Kräkning, illamående, sväljningssvårigheter, diarré.
+*  **Luftvägar**: Svullnad i övre luftvägar, astma, hosta, heshet, nästäppa, rinnsnuva.
   *  Cirkulation: Kardiovaskulär chock, takykardi, svag puls, blodtrycksfall. 
 
 
@@ -518,8 +531,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Kliniska kännetecken***
 
-* Atopiska marschen
-  * 
+* **Atopiska marschen**
+  * Atopiskt eksem: första levnadsåret
+  * födoämnesallergi: efter atopiskt eksem, 2-9mån; när man börjar introducera födor; 
+    * samtidigt kan komjölksallergi yttra sig tidigare, för att går gm mammans bröstmjölk
+  * astma: allergisk eller icke-allergisk; vissa blir friska, andra fortsatt sjunka (t  vuxen ålder?)
+  * hösnuva
 
 
 
@@ -669,6 +686,27 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Spädbarn: soja och fisk. Förskolebarn: soja och nötter. 
   * Spädbarn: jordnötter och fisk. Förskolebarn: nötter och jordnötter. 
 
+
+
+
+
+***Etiologi och patofysiologi***
+
+* Spädbarn: mjölk, ägg
+* förskolebarn: nötter, jordnötter
+* över 90% barn
+  * Mjölk, ägg, nötter, jordnötter, soja, vete
+* Kan förvärra: 
+  * atopisk dermatit (atopiskt eksem?): förutsatt barnet har atopi och den atopiska marschen
+
+
+
+***Behandling***
+
+* Elimination fr kost
+
+
+
 ### Komjölksallergi
 
 ***Presentation***
@@ -691,6 +729,14 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+
+### Urtikaria, rhinokonjunktivit
+
+
+
+***Kliniska kännetecken***
+
+* 
 
 
 
@@ -1025,7 +1071,7 @@ Enligt ABCDE
 
 ***Etiologi och Patofysiologi***
 
-* blåsbildande staf infek i huden
+* **blåsbildande staf infek i huden**
   * För att det är så utligt i epidermis är ***blåstaket*** tunit, består av få cellager och går lätt sönder
   * ***Upprullad kant:*** detta förklaras av att det blåsorna snabbt brister och epidermis rullas upp
   * ***Inte säkert att familjen uppfattata tat det ens varit en blåsa innan det blivit ett sår***
@@ -1038,7 +1084,7 @@ Enligt ABCDE
 
 * **kloxacillin el klindamycin** po: ab som tar staffar
 * **viktigt med lokalbehandling samtidigt**: mjukgörande kräm som rensar bort blåsrester, tvättar rent, använder ***separata handdukar i hemmet***: 
-* **stanna hemma**: så länge man har såt, inte gå t skolan el förskolan
+* **stanna hemma**: så länge man har sår, inte gå t skolan el förskolan
 
 
 
@@ -1083,7 +1129,7 @@ Enligt ABCDE
 * ***Singelerytem utan feber (vuxna)***: Fenoximetylpenicillin, Kåvepenin) 1 g x 3 i 10 dagar. 
   * Barn 25 mg/kg x 3. Rodnaden brukar blekna efter 4-5 dagar och därefter successivt försvinna men kan finnas diskret kvar efter behandlingsavslut, vilket inte innebär att infektionen finns kvar. 
 * ***Multipla erytem eller feber***  
-  * **doxycyklin** 200 mg x 1 i 10 dagar. 
+  * **doxycyklin** 200 mg x 1 i 10 dagar; möjligt att den missfärgar tänder
   * **Barn < 8 år amoxicillin** (Amimox) 15 mg/kg x 3 i 14 dagar.
   * **Barn > 8 år doxycyklin** 4 mg/kg x 1 i 14 dagar. 
 * ***Pc-allergi*** - doxycyklin 200 mg x 1 i 10 dagar. 
@@ -1096,7 +1142,19 @@ Enligt ABCDE
 
 
 
+### Exantem
 
+***Definition***
+
+* Betyder hudutslag
+
+
+
+***Lista sjukdomar som kan ge exantem hos barn***
+
+* Erythema subitum (tredagars feber)
+* Erythema infectiosum (femdagars feber)
+* Dukes sjukdom
 
 ### Infantil hemangiom
 
@@ -1550,15 +1608,19 @@ Enligt ABCDE
 
 ***Etiologi och patofysiologi***
 
-* Autimmun-thyroidit: oftast hos barn att hypothyroidism orsakas av detta. 
-* Tillväxtsvikt: growth failure, vanligtvis med excess viktuppgång
+* **Autimmun-thyroidit**: oftast hos barn att hypothyroidism orsakas av detta. 
+* **Tillväxtsvikt**: growth failure, vanligtvis med excess viktuppgång
 
 
 
 ***Kliniska kännetecken***
 
-* Kotrvuxenhet: om man inte har ntoterat hypothyroidismen tidigt. 
-* Catch-up growth när behandlas: ofta men ofta med sanbb entry in i pubertet, om kan påverka final height. 
+* **Kotrvuxenhet**: om man inte har ntoterat hypothyroidismen tidigt. 
+* **Catch-up growth när behandlas**: ofta men ofta med sanbb entry in i pubertet, om kan påverka final height. 
+
+
+
+
 
 
 
@@ -2706,7 +2768,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-#### Tredagarsfeber
+#### Tredagarsfeber; subitum
 
 ***Presentation***
 
@@ -2722,9 +2784,9 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
     * Observation av barnet på akutmottagning/vårdavdelning
   * Du gör en ny klinisk bedömning inklusive neurologistatus som är helt normalt. Algot får mer febernedsättande. CRP och P-glukos är normala.
   * Vilka diagnoser har du att jobba med och vad talar för eller emot dem
-    * viros uns feberkramp: hög feber, typisk feberkramp, CRP negativ; mot spänd fntanell
-    * serös meningit: för hög feber, CRP negativ, spänd fontanell; mot ej irritiabel, ej nackstel
-    * bakteriell meningit: för spänd fontanell, mot opåverkat barn, ej nackstel, ej CRP negativ . .. , inget avvikande neuro förutom spänd fontanell 
+    * **viros uns feberkramp**: hög feber, typisk feberkramp, CRP negativ; mot spänd fntanell
+    * **serös meningit**: för hög feber, CRP negativ, spänd fontanell; mot ej irritiabel, ej nackstel
+    * **bakteriell meningit**: för spänd fontanell, mot opåverkat barn, ej nackstel, ej CRP negativ . .. , inget avvikande neuro förutom spänd fontanell 
   * Dagen därpå Algot nästan feberfri, men vid ronden noteras finprickigt exantem på bålen. Algot är pigg och status är ua förutom utslaget på bålen och att fontanellen fortfarande är spänd-  den kliniska bilden för dig. 
     * Tredagars feber (exanthema subitum eller roseola infantinum)
   * Vilket agens
@@ -2735,6 +2797,21 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 ***Allmänt***
 
 * Erythema subitum
+
+
+
+***Kliniska kännetecken***
+
+* Feber
+* Allmänt opåverkade: detta är karakteristiskt för dessa patienter
+
+
+
+#### Femdagarsfeber; infectiosum
+
+***Allmänt***
+
+* Erythema infectiosum = femdagarsfeber
 
 
 
@@ -3734,7 +3811,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 | Rotavirus                          | Dos 1               | Dos 2 | Dos 3* |        |        |       |                |           |             |
 | Difteri                            |                     | Dos 1 | Dos 2  | Dos 3  |        | Dos 4 |                |           | Dos 5       |
 | Stelkramp                          |                     | Dos 1 | Dos 2  | Dos 3  |        | Dos 4 |                |           | Dos 5       |
-| Kikhosta                           |                     | Dos 1 | Dos 2  | Dos 3  |        | Dos 4 |                |           | Dos 5       |
+| Kikhosta, pertussis                |                     | Dos 1 | Dos 2  | Dos 3  |        | Dos 4 |                |           | Dos 5       |
 | Polio                              |                     | Dos 1 | Dos 2  | Dos 3  |        | Dos 4 |                |           |             |
 | Hib (Haemophilus influenzae typ b) |                     | Dos 1 | Dos 2  | Dos 3  |        |       |                |           |             |
 | Pneumokocker                       |                     | Dos 1 | Dos 2  | Dos 3  |        |       |                |           |             |
@@ -3763,6 +3840,18 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
       * Avslutar kontakten utan behandling
       * Rätt: Insätter behandling med PcV [även om kåvepenin inte smakar gott...?]
       * Insätter behandling med amoxicillin/klavulansyra
+
+
+
+
+
+#### Epiglottit
+
+***Presentation***
+
+* 
+
+
 
 ## Hematologi
 
@@ -4115,7 +4204,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * e.g. 1.5åå + näsblödningar + benäget att slå sig = behandling med gammaglobuliner.'
   * e.g. 14åå patient + som inte jätte aktiv = prednisolonkur istället
 * // **trombocytkoncentrat**: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
-* ***Behandlingstrappa:*** Föreläsare nämnde behandlingstrappa som missades?
+* !!! ***Behandlingstrappa:*** Föreläsare nämnde behandlingstrappa som missades?
 
 ### Leukemi
 
@@ -4910,22 +4999,39 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Foster-shuntar inte stängda ännu
   * Fostercirkulation ofullständigt ersatt där ungen med egen andning syresätter sitt blod
   * cyanosen övergående hos friskt barn, menkvarstående behöver förstås
+* **Faktorer, försvårar cyanos upptäckt**
+  * **Hb konc**: lägre Hb konc, anemi, kräver extra lågt SaO2 för cyanos
+  * **Mörk hudfärg**
+  * **OHDC, yttre faktorer, vänsterförskjuter Hbs dissociationskurva** (OHDC; oxygen hemoglobin dissociation curve)
+    * **Fetalt Hb, HbF**: vänsterförskjuten dissociatiosnkurva; givet po2 ökar sao2 jfr HbA
+    * **Hyperventilation**: respiratorisk alkalos -> fönsterförskjuten OHDC
+    * **Kyla**
 
 
 
 ***Utredning***
 
-* Klinisk undersökning: ABCDE i enl med d där fallet
-* POX-mätning: hö arm + ben
-* blodgas
-* Hb
-* EKG
-* RTG
-  * Kärlvidd: vida lungkärl ev ödem med shunt-viti; smala lungkärl vid cyanotiska; TAPVD stas lungvenös avflödesproblem
-  * HJärtförstoring: ebstein, PA, IVS
-  * HJärtform: fallot har träsko; TGA egg on string, smalt mediastinum
-* !! hyperoxitest: gör man med NEOPUFFEN!
-* EKO
+* **Klinisk undersökning**: ABCDE i enl med d där fallet
+
+* **POX-mätning**: hö arm + ben
+
+* **blodgas**
+
+* **Hb**
+
+* **EKG**
+
+* **RTG**
+  
+  * **Kärlvidd**: vida lungkärl ev ödem med shunt-viti; smala lungkärl vid cyanotiska; TAPVD stas lungvenös avflödesproblem
+  * **HJärtförstoring**: ebstein, PA, IVS
+  * **HJärtform**: fallot har träsko; TGA egg on string, smalt mediastinum
+  
+* **EKO**
+
+* !! **Hyperoxitest**: gör man med NEOPUFFEN
+
+  
 
 
 
@@ -4977,15 +5083,38 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Etiologi***
 
-* Beroende av det ABSOLUTA VÄRDET deoxygenerat hemoglobin, deoxyHb
+* **Beroende av det ABSOLUTA VÄRDET deoxygenerat hemoglobin, deoxyHb**
   * Överstiger deoxyHb 30g/L, FÅR MAN CYANOs
-* Vid olika värden Hb, e.g. anemi, polycythemi:
+* **Vid olika värden Hb, e.g. anemi, polycythemi**:
   * Därför kommer saturationsvärdet för central cyanos att uppkomma förändras, beroende på vilket värde Hb vi har i systemet
-  * Svår anemi: behöver 65% saturation för central cyanos att uppkomma
-  * Polycythemia: 87.5% för central cyanos att uppkomma
-
-* Kardiellt orsakad
-  * Hjärtförtstoring: ebstein (EBV?), PA med IVS
+  * **Svår anemi**: behöver 65% saturation för central cyanos att uppkomma
+  * **Polycythemia**: 87.5% för central cyanos att uppkomma
+* **Kardiellt orsakad**
+  * **Hjärtförtstoring**: ebstein (EBV?), PA med IVS
+* ***Icke-kardiell orsaker, central cyanos***
+  * Lungsjukdomar vanligaste orsak central cyanos, under neonatalperiod
+  * lungartärblod passerar ***ICKE-VENTILERADE alveoler***: alltså otillräcklig hypoxisk vasokonstriktion, att det finns områden som INTE ventileras alveolärt, och TROTS DET så passerar blod som inte satureras. 
+  * uppstår **HÖ-VÄ shunt pulmonellt**: att man shuntar blod snabbt fr högercirkulationen till vänstercirkulationen, utan att man får ngn oxygenering
+  * ***Hypoventilation***
+    * **Övre medfödda luftvägshinder**: koanalatresi, mikrognati, laryngomalaci, trakeolomalaci
+    * **Strukturella lungmissbildningar + diafragmabråck med lunghypoplasi**
+    * **Sjukdomar påverkar andningsmuskulaturen**: neurologiskt, muskulärt
+  * ***Ventilation-perfusion mismatch***
+    * **perfusion av icke-ventilerade alveoler**
+    * **sekundär pulmonär hypertension** ingår ofta och bidrar t den centrala cyanosen
+      * pneumoni
+      * RDS
+      * PFC: persisterande fetal circulation
+      * Pneumothorax
+      * Mekoniumaspiration
+  * ***CNS dysfunktion + andningsdepression***
+    * Läkemedel
+    * post-asfyxi
+    * Central apne
+  * **Neuromuskulär sjd**
+    * Spinal muskel atrofi
+    * myastenia gravis
+  * **Polycythemi**: uttalad cyanotiska, men NORMAL sao2, för att man räknar med det absoluta värdet desatHb, deoxyHb
 
 
 
@@ -4998,10 +5127,37 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Läppar
   * Nagelbäddar
 * Händer + fötter blå MEN varma + torra
+* **Cyanos UTAN andninsgbesvär**: TGA, DDPC (duct-dependent pulmonary circulation; vilket TGA är)
+* **Cyanos MED andninsgbesvär**: TAPVD (total anomalous pulmonary venous obstruction), obstruktivitet
+* **Chock, färgskillnad**: DDSC (Ductus dependend System Circulation)
 
-
+ 
 
 <img src="./imgs/sam_140421_CB4fZHYZ69.png" alt="CB4fZHYZ69" style="zoom:50%;" />
+
+
+
+
+
+#### Hypertoxitest
+
+***Metod***
+
+* **CCHd**: critical congenital heart defect
+* **CHD**: critical heart defect
+* !! **Inget svar hyperoxitest**= föreligger CCHD; att det är CCHD som leder till att extra oxygenering inte tillför extra saturation till cirkulationen
+* **Svar hyperoxitest**: ej CCHD, söka extrakardiell orsaker
+* **Någorlunda svar**: CHD med antegrad lungcirkulation; PPHT (pulmonary arterial hypertension)
+
+
+
+| <img src="./imgs/sam_160421_RwTx53QCBX.png" alt="RwTx53QCBX" style="zoom:50%;" /> | <img src="./imgs/sam_160421_2Zfj9wH6gu.png" alt="2Zfj9wH6gu" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
+
 
 
 
@@ -5311,20 +5467,26 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Indelning***
 
-* två grupper ductusberoende hjärtfel
-* de med för lite cirkulation t lungor
-  * Sjukdomarna
-    * Tricuspodalisatres
-    * Pulmonalisatresi
+* **två grupper ductusberoende hjärtfel**
+* **DDPC, Ductus Dependent Pulmonary Circulation**: de med för lite cirkulation t lungor
+  * **Sjukdomarna**
     * TGA: denna sjd är att man har två parallella kretslopp
+    * Fallots tetrad, svåra form
+    * Svår Ebsteins anomali
+    * Tricuspidalis insuff
+    * Tricuspodalisatres
+    * Pulmonalisatresi: med utan VSD
+    * Pulmonalisstenos
   * Har i princip alltid dålig saturation,
   * Brukar upptäckas alltid på POX-screening. 
   * blodflödet t lungor  är beroende öppetstående ductus
-* **systemcirkulationen beroende aven öppen ductus**
-  * Sjukdomarna
-    * Hypoplastisk vänsterkammarsyndrom (HLHS
+* **DDSC, ductus dependent system circulation**: systemcirkulationen beroende aven öppen ductus
+  * **Sjukdomarna**
     * Coarctio aortae
+    * Hypoplastisk vänsterkammarsyndrom (HLHS)
     * kritisk aortastenos
+    * avbrytande arcus aortae
+    * (TGA osså)
   * Dessa fall, HÖ-VÄ shunt VIA DUCTUS är nödvändig. 
 
 
@@ -6111,17 +6273,24 @@ En kort lista över kliniska manifestationer av CF:
 
 #### Benign barnepilepsi: Rolandisk
 
+***Presentation***
+
+* Benign barnepilepsi - eller Rolandisk epilepsi - är en vanlig epilepsiform med god prognos. Vilken beskrivning stämmer bäst överens med diagnosen?
+  * Drabbar barn från 3-13 års ålder, anfall ofta nattetid, typiska centro temporala spikes och sharp-waves på EEG
 
 
 
 
-### Tumör
+
+
+
+### hjärntumör
 
 ***Presentation***
 
 * ***Sture, 7 år***
   * har sedan två månader börjat bli gnällig och missnöjd. Vid några tillfällen har han vaknat och klagat över huvudvärk. Vid flera tillfällen de senaste veckorna kräkts på morgonen. Han berättar också att han ser dubbelt, och i status misstänker du abduscenspares. Vilken sjukdom misstänker Du i första hand?
-* **7-årig pojke, Ahmed,
+* **7-årig pojke, Ahmed,**
   * **som kommer för att han sedan 3 veckor haft huvudvärk, särskilt på morgonen. Modern tycker att det blivit värre och värre. Två gånger senaste veckan har han också kräkts på morgonen. I status noterar du att hö öga inte följer med ut till hö när du kollar hans ögonmotorik. Han har också svårt att utföra finger – näs test.** 
   * **Vilken förklaring till symtomen bör du i första hand misstänka? (1p)** 
   * Hjärntumör
@@ -6142,15 +6311,6 @@ En kort lista över kliniska manifestationer av CF:
 * Gustav 14 år kommer till dig pga huvudvärk som kommer nästan dagligen de senaste 2 månaderna. Du är orolig för att missa hjärntumör. Nämn 2 anamnestiska uppgifter och 2 statusfynd du behöver som stöd för din diagnosmisstanke. 2p 
   * Morgonhuvudvärk? Kräkningar?
   * Abducenspares, ataxi
-
-
-
-### Rolandisk epilepsi
-
-***Presentation***
-
-* Benign barnepilepsi - eller Rolandisk epilepsi - är en vanlig epilepsiform med god prognos. Vilken beskrivning stämmer bäst överens med diagnosen?
-  * Drabbar barn från 3-13 års ålder, anfall ofta nattetid, typiska centro temporala spikes och sharp-waves på EEG
 
 
 
@@ -6360,7 +6520,9 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+***Kliniska kännetecken***
 
+* Nedkylning
 
 ### Early onset infection
 
@@ -6482,7 +6644,7 @@ En kort lista över kliniska manifestationer av CF:
 
 #### Klavikelfraktur
 
-#### plexusskador
+#### Plexusskador
 
 
 
@@ -6548,6 +6710,16 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+#### MAS
+
+
+
+
+
+#### NAS
+
+
+
 
 
 #### PAS
@@ -6556,7 +6728,13 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### Prematura
+
+
+### Tid intrauterint
+
+
+
+#### Prematura
 
 ***Presentation***
 
@@ -6568,6 +6746,37 @@ En kort lista över kliniska manifestationer av CF:
   * ska ej överdoseras, då det kan vara toxiskt
   * kroppen har inte heller ngt sätt att göra sig av med järn
   * för mkt järn kan påverka tillvät, leda t ökad risk för infektioner, samt skada hjärnan
+
+
+
+***Risker med att vara prematur***
+
+* Prematura:  
+  * BPD: bronkopulmonell dysplasi
+  * RDS, 
+  * PAS, 
+  * försenad språk och motorisk utveckling. 
+  * Intelektuell funktionsnedsättning. 
+  * Neuropsykiatriska diagnoser, 
+  * Järnbrist. 
+  * nedkylning, 
+  * hypoglykemi, 
+  * andningsstörning, 
+  * ikterus, 
+  * ankytningsproblem,
+  * matningssvårigheter 
+
+
+
+#### Överburenhet
+
+***Risker med överburenhet***
+
+* Intrauterin fosterdöd, 
+* metabola syndrom, 
+* andningsstörning, 
+* hypoglykemi, 
+* matningssvårgheter
 
 
 
@@ -7004,7 +7213,7 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Etiologi och patofysiologi***
 
-* Renal tumör
+* Malign renal tumör
 * 5% av patienterna har bilateral sjukdom
 * en av de vanligaste renala tumörerna hos barn
 
@@ -7014,6 +7223,7 @@ En kort lista över kliniska manifestationer av CF:
 
 * Ofta: presenterar med stor abdominell massa
 * ofta hittas incidentalt i annars friska barn.
+* ålder: 2-4åå, medel 3.5åå
 
 
 

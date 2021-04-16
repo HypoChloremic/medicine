@@ -5167,6 +5167,8 @@ PHYSICAL EXAMINATION
 * neutrofiler under 0.5 x 10^9 / L = svår neutropeni
 * risk allvarlig bakteriell eller annan infektion
 
+
+
 ***Handläggning***
 
 * Odla: blod, ev urin ev npph
@@ -5175,6 +5177,8 @@ PHYSICAL EXAMINATION
 * Tiden!
 * Gr- savar, staffar, mfl
 * Ev invasiv svamp jästsvamp, aspergillus: särskilt vid lång neutropeni
+
+
 
 ## CNS - hotande inklämning, tvärsnittslesion
 

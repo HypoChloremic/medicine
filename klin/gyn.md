@@ -9928,14 +9928,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Presentation***
 
-* kvinna v29
+* **kvinna v29**
   * inkommer med tryckkänsla nedåt, smärtsamma värkar, noterat att det evt blött nedför bindan
   * Vilka undersökningar och kontroller gör du:
     * **snabbt och basalt**: BT, kap-CRP, kap-Hb, u-sticka 
     * **Spekulumundersökning**: determinera om pprom eller ej; föreligger pprom, avvaktar vaginal undersökning för cervixmognad om det ter sig att patienten inte har påbörjad förlossning (efter förlossningsstart)
     * abdominellt UL. 
-    * CTG!!
-    * !!urinodling: 
+    * !! CTG
+    * !! urinodling: 
 
 
 
@@ -10000,13 +10000,13 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * **Korionamnionit, chorionamnionit**: oavsett graviditetslängd
       * **Blödning**: misstanke placentaavlossning
     * **LKM**: 
-      * Bricanyl 0.25mg: subcut, iv, snabb kortvarig effekt, upprepas efter 30min kan. kan infunderras, vanlgiare dock med biverk, ökad risk lungödem, ffa flerbörd o preeklampsi. 
+      * **Bricanyl** 0.25mg: subcut, iv, snabb kortvarig effekt, upprepas efter 30min kan. kan infunderras, vanlgiare dock med biverk, ökad risk lungödem, ffa flerbörd o preeklampsi. 
         * kontraindik: svårt hjärtkärlsjd, hjärtarrytmi, obehandlar hyperthyreos
-      * Tractocile
+      * **Tractocile**
         * 1a hands behandling
         * infusion
         * efter initial högdobehandling, oxytocinreceptorerna är mättade, vid terapisvikt på underhåll är inte meningsfullt återgå högdos
-      * adalat
+      * **Adalat**
         * kontraindikation: hjärtsjd, pga vasodilat, BT sänkande effekt. ingen evidens som underhållsbeh
     * **Neuroprotektion magnesiumsulfat**
       * !! **minskar risk CP, död för tidig förlossning**

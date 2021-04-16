@@ -6472,7 +6472,19 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### Förlossningstrauma
+### Förlossningstrauma: TODO
+
+
+
+#### Kefalhematom
+
+#### Subgalealt hematom
+
+#### Klavikelfraktur
+
+#### plexusskador
+
+
 
 
 
@@ -6485,6 +6497,12 @@ En kort lista över kliniska manifestationer av CF:
     * *3 p**b. 
   * Vad är din omedelbara åtgärd? 1p
     * Ventilera på mask (neopuff). 
+
+
+
+<img src="./imgs/sam_160421_EMy1aNJrZs.png" alt="EMy1aNJrZs" style="zoom:50%;" />
+
+
 
 ### Resistens
 
@@ -6527,6 +6545,10 @@ En kort lista över kliniska manifestationer av CF:
 
 
 #### RDS
+
+
+
+
 
 #### PAS
 
@@ -6577,7 +6599,7 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Presentation***
 
-* Mödrr med diabetes föder inte sälln stora barn (LGA) upp måt 4.5-5kg
+* MAmma med diabetes föder inte sälln stora barn (LGA) upp måt 4.5-5kg
   * drbbas oftast av enkomplikation nyföddhetsperioden  med kliniska symptom. VIlken störning och hur fastställs med enkelt prov
     * hypoglykemi
     * Glukos
@@ -7112,7 +7134,15 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Mall för PBD
 
-***Exempel 1***
+#### Pointers
+
+* Kort sammanfattning och bedömning av rel statusfynd
+* Diagnostiska överväganden
+* Vårdplanering
+
+
+
+#### Otit
 
 * 2.5 åå gammal pojke, tidigare recidiverade otiter och förkylningsastma, som söker för 1a ggs kramp. Har feber sedan 2dygn, idag snabbt stigande t 40.5. Storebror sjuk nyligen med influensasymptom. Fyller kriterier för feberkramp. I status noteras AMO, sannolik orsak t feber. CRP förhöjt. Har även virusbild dock låg misstanke om influensa då AT väs ua. Skickas hem med recept på amimox. informerar föräldrar om försämring eller uteblibven förbättring får de söka vård igen. VIktigt att han dricker ordentligt och kissar. 
 
@@ -7124,6 +7154,94 @@ Ett PBD, eller ¨bedömning åtgärd¨ skall innehålla:
 Mycket kort sammanfattning av patienten, bland annat kön och ålder, orsak till besöket, eventuella tidigare sjukdomar av betydelse för den aktuella konsultationen. Därefter diagnostiska överväganden inklusive de betydelsefulla fynd samt undersökningar och lab som konsultationen medför. Därefter åtgärder
 
 
+
+#### Svält bröst ÖLI
+
+Fall 1: 5 dagar gammal flickaKontaktorsak: Slöhet och färgskiftning. Inkommer med ambulansGraviditetsperiod: Norm grav och PN v 39+2. FV 3,4 kg. Utskriven från BB vid 2 d ålder. Remitterad till barnkardiolog för kontroll av ett systoliskt blåsljud, grad 1-2Aktuellt:Helammats sedan hemkomst fr BB. Lite nästäppt de senaste två dagarna, ammat sämre. Tröttare det senaste dygnet, fått väckas till amning. Har känts lite kall vid två tillfällen. Hade tidigt i morse en färgskiftning då han blev grå under ca 20 sek. Oklart om han andades. Hämtade sig efter stimulering. Trött, men respiratoriskt och cirkulatorisktstabil under transporten.
+
+Status(kl9.45)AT: Sover initialt, relativt pigg då han vaknar. Lite snorig, i övrnormalt andningsmönster. AF 55. Saturation 98%. Kap refill 2 sekMoS: Ngt torra slemhinnorHjärta: RR, HF 140/min. Inga blåsljudLungor: Rena andningsljud bilateraltBuk: Mjuk, normalkonfigurerad. Ingen organförstoringNeurologi: Sidliktonus. Fontanell uaHud: Inspekteras uaVikt: 3,1 kg (FV 3,4 kg)Kemlab: Blodstatus ink diffua. CRP 4. Blank u-sticka
+
+
+
+kalles svar
+
+Fall 1: 5 dagar gammal flicka
+
+1. Kort sammanfattning inkluderande bedömning av kända fakta runtpatienten
+   1. 5 dagar gammal fullgången gosse med käntkardielltblåsljud som inkommer pg a slöhet och övergående färgskiftning i hemmet. Ammat sämre de senaste 2dagarna, viktnedgång ca 10%. Nästäppa. Väs gott AT, normalainfektionsprover.
+2. *Diagnostiska övervägande*
+   1. Ter sig primärt som viral ÖLI med sekundär svält vid bröstet. Uppseglande sepsis alt kardiellgenes kan dock ej uteslutas.
+3. Vårdplanering
+   1. Inlägges BAVA för fortsatt observation. Följer CRP, närmast om 6 h. Avvaktar iv ab. Nutrition med via NG-sond, räknas på 100 ml/kg/dygn. Får amma fritt. Kontrollsaturation, AF och temp x 8. Daglig vikt. Planerat hjärteko kl 14 efter diskussion med hjärtkonsult Ergander. Ny bedömning av internjour vid ev försämring/stigande CRP under em/kväll.
+
+
+
+
+
+#### Nydebut diabets
+
+4.5åå pojke
+
+Kontaktorsak: Högt blodsocker. Remitterad från Huddinge VC. Tidigare sjukdomar:Frisk Aktuellt:Ökad törst och ökade urinmängder sedan 1 v tillbaka. Kissat på sig natten till idag. Varit trött på förskolan. Ingen feber. Har evgått ner i vikt, men barnet har inte vägts det senaste halvåretKontroll blodsocker på VC med glukos 18,5
+
+Status(kl11.30)AT: Relativt gott, men ser lite trött ut. Flämtande andning, AF 50. Saturation 99%. Kap refill 1 sek. Ingen feberMoS: Torra slemhinnorHjärta: RR, HF 110/min. Inga blåsljudLungor: Rena andningsljud bilateraltBuk: Mjuk, oömKemlab: Blodstatus ua. CRP 4Blodgasmed pH 7.27, pCO2 3.34, BE -12, glukos 23.1. Natrium 136, Kalium 4.8.Klorider 105U-sticka med 3+ glukos och 2+ketoner
+
+
+
+ali
+
+4.5åå pojke, tidg frisk, inremitterad akut pga högt blodsocker. Sedan 1v, ökad törst + ökad urinmängd, evt viktnedgång. På akuten torra slemhinnor, blodgas metabol acidos + inkomplett resp kompensation. Glukos 23.1.  U-sticka 3+ glukos, 2+ ketoner. Infektionsparameterar ua. Ter sig som primärt insjuknande i DM1 med uppseglande ketoacidos. Inlägges IVA för acidoskorrigering + insulinbehandling. Får infarter. Vätskebehandling, provtagning, och kontroller enl DM ketoacidos PM. Kontakt DM-konsult. 
+
+
+
+kalle
+
+1. Kort sammanfattning inkluderande bedömning av kända fakta runt patienten 
+   1. 4½ år gammal tidigare frisk pojke som remitterats till barnakuten p g a hyperglykemi och symptom förenliga med DM. Bortsett från takypné, relativt gott AT på akuten
+2. Diagnostiska övervägande
+   1. Provtagning bekräftar diabetes med ketoacidos. 
+3. Vårdplanering
+   1. Inlägges IVA för acidoskorrigeringoch initiering av insulinbehandling samt iv vätsketerapi och provtagning samt kontroller enligt DM ketoacidosPM. DM-konsult kommer till IVA under em.Kan sannolikt överflyttas till barnavdelning för fortsatt insulinbehandling under morgondagen
+
+
+
+
+
+####  !!! Virusutlöst obstruktivitet
+
+1.5åå flicka
+
+Kontaktorsak: AndningsbesvärTidigare sjukdomar:Förkylningsastma och äggallergiAktuella mediciner:Airomiroch Flutidevia OptichamberenlinhalationsschemaAktuellt:Förkyld sedan 2-3 dagar. Tilltagande andningsbesvär under natten. Har inhalerat enlordination utan nämnvärd effekt. Feber under morgonen. Ätit och druckit mkt sparsamt, ej kissat sedan igår kväll
+
+Status (kl12.15) AT: Trött. Snabbandad, AF 60-70. Inter-och subkostalaindragningar. Bukandning. Saturation 91%. Kap refill 1,5 sek. Temp 38,7.MoS: Torra slemhinnorHjärta: RR, HF 110/min. Inga blåsljudLungor: Expiratoriska ronki över båda lungfälten. Inga kreptiationer Buk: Mjuk, oömKemlab: Blodstatus ua. CRP 17 Blodgasmed pH 7.36, pCO2 4,2, BE -5, glukos 5,8. Natrium 139, Kalium 4.1
+
+
+
+ali:
+
+1.5åå flicka, tidg förkylningsastma beh med airomir + flutide, söker med andningsbesvär, feber och obstruktivitet. Förkyld sedan 2-3d. Utebliven effekt av Inhalationer. Trött. Status obstruktiv bild. Sat 91%. CRP 17. Blodgas ingen alkalos/acidos, normalt kalium. mat + dryck sparsamt, Ingen miktion sedan igår kväll.  
+
+BIld förenlig med akut episod förkylningsastma. Diff bronkiolit med obstruktivitet, osannolik då inga slembiljud vid auskultation, och tidigare liknande episoder. Behandlas på akuten enl astma PM, initialt airomir optichamber repetera var 20minut efter auskultation och bedömning progress. Betapred vid utebliven effekt. ipratropium därefter.  INLÄGGNING BAVA. syrgas på mask för sat >92%. NG-sond för rehydrering och underhåll. Initialt 5% kroppsvikt OSRS över 4h. Avstämning med internjour.  
+
+
+
+!!! Kalle
+
+
+
+1. Kort sammanfattning inkluderande bedömning av kända fakta runt patienten 
+   1. 1½ år gammal flicka med förkylningsastma och äggallergi som inkommer med uttalad obstruktivitetoch desaturation (91%) samt feber
+2. Diagnostiska övervägande
+   1. Ter sig primärt som virusutlöst obstruktivitet. Inga hållpunkter för bakteriell genes
+3. Vårdplanering
+   1. Planeras för inläggning BAVA efter initial inhalationsbehandling på akuten. 
+   2. Ordinerar inhalation salbutamol x 8 och antikolinergika x4
+   3. Får även en stötdos Betapred. 
+   4. Syrgas på grimma för saturation>92% 
+   5. Uppvätskning och nutrition via sond, initialt ORS 5% av vikten på 4 h
+   6. Ny bedömning av internjour om 4 h, tidigare vid evförsämring. 
+   7. Följer CRP, avvaktar antibiotika
+   8. PEWS initialt x 12
 
 ### Tentfalll
 

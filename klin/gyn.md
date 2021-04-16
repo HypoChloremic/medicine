@@ -9987,7 +9987,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * **Initiala åtgärder v22-33+6**
   * **antibiotikaprofy**: pprom erytromycin v22-32+6 10d
-    * KONTRAINDICERAT om hela hinnr; avvakta antibiotikan vid tveksamhet
+    * KONTRAINDICERAT om hela hinnor; avvakta antibiotikan vid tveksamhet
   * **steroidinduktion**
     * Bäst effekt ses om förlossning 24 tim – 7 dagar från första dosen men effekt ses redan efter 2-3 timmar från första injektionen
     * ”rescue-kur”:  förnyat hot snar förlossning om det gått mer än 14 dagar från föregående Betapredkur och kan övervägas redan efter 7 dagar om första behandlingen givits i extremt tidig graviditet.
@@ -10000,14 +10000,13 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * **Korionamnionit, chorionamnionit**: oavsett graviditetslängd
       * **Blödning**: misstanke placentaavlossning
     * **LKM**: 
-      * **Bricanyl** 0.25mg: subcut, iv, snabb kortvarig effekt, upprepas efter 30min kan. kan infunderras, vanlgiare dock med biverk, ökad risk lungödem, ffa flerbörd o preeklampsi. 
-        * kontraindik: svårt hjärtkärlsjd, hjärtarrytmi, obehandlar hyperthyreos
       * **Tractocile**
         * 1a hands behandling
         * infusion
         * efter initial högdobehandling, oxytocinreceptorerna är mättade, vid terapisvikt på underhåll är inte meningsfullt återgå högdos
-      * **Adalat**
-        * kontraindikation: hjärtsjd, pga vasodilat, BT sänkande effekt. ingen evidens som underhållsbeh
+      * **Bricanyl** 0.25mg: subcut, iv, snabb kortvarig effekt, upprepas efter 30min kan. kan infunderras, vanlgiare dock med biverk, ökad risk lungödem, ffa flerbörd o preeklampsi. 
+        * kontraindik: svårt hjärtkärlsjd, hjärtarrytmi, obehandlar hyperthyreos
+      * **Adalat**: kontraindikation: hjärtsjd, pga vasodilat, BT sänkande effekt. ingen evidens som underhållsbeh
     * **Neuroprotektion magnesiumsulfat**
       * !! **minskar risk CP, död för tidig förlossning**
       * **1-24h före förlossning**
@@ -10116,6 +10115,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * I samband med infusionen får de flesta patienter en brännande känsla över halsen. Detta är inte farligt och är snabbt övergående (några minuter) och patienter som är informerade om detta tolererar det väl. **Läkemedelsanvisning, se nedan**
   * // Kom ihåg att infusion magnesium är till för behandla eklampsi sekundär eller primär profylkaktiskt för eklampsi, kramper. 
 * Antibiotika
+
+
+
+
+
+#### IUGR
+
+
+
+
+
+#### SGA
+
+
 
 
 

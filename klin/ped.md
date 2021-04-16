@@ -2116,13 +2116,86 @@ Enligt ABCDE
 
 
 
+### Hepatit
+
+***Presentation***
+
+* Caroline 16 år har remitterats till din barnmottagning från vårdcentral pga uttalad trötthet och andra diffusa symtom sedan 4 månader. Hon orkar inte gå till skolan, klagar på ospecifika ledbesvär och varierande avföringar. På vårdcentralen har provtagning visat: Hb 122 g/L CRP <5 mg/ml Krea 48 µmol/L LPK 7,2x109/L SR 26 mm ALAT 1,46 µkat/L TPK 548x109/L albumin 40 g/L Carolines pappa är med vid besöket.
+  * besök ungdomsmedicinskt perspektiv. hur gör du anamnes och undersökning
+    * HEADS
+    * Vid status kan be pappa gå ut, för att det är så man gör med barn (som att det är det mest uppenbara). Därefter ställa frågor enl HEADS
+  * Pappan är väldigt orolig för Caroline. Han har inte fått svar på de blodprover man tagit och undrar om det finns några avvikelser eller ledtrådar till vad Caroline lider av i dessa. Hur svarar du så att både Caroline och pappan förstår? 
+  * Efter undersökningen pratar du med Caroline och pappan. Du sammanfattar anamnesen för att kontrollera att du förstått rätt. Ingen annan i familjen har eller har haft liknande symtom. Caroline har gått ner ca 2-3 kg, hon är fullt puberterad och har regelbundna menstruationer (menarche vid 14 års ålder). Hon har aldrig haft ledbesvär, men upplever viss ledstelhet framför allt på morgonen. Hon är mest besvärad av tröttheten och att hon behöver bajsa så ofta. Hon måste gå på toa upp till 5 gånger per dag och beskriver så täta trängningar på morgonen att hon ibland missar skolbussen. Caroline negerar nattliga toalettbesök, men säger att hon tror att hon vid enstaka tillfällen sett lite blod på pappret. Förutom en generell ömhet i buken fann du inga avvikelser i status, inkl ledstatus, perianal inspektion och rektal palpation. Då tarm- och ledsymtomen är mest framträdande planerar du kontroll av blod- och avföringsprov för att utesluta inflammation i tarmen och reumatiska sjukdomar
+  * Du kommer överens om en uppföljande telefonkontakt om två veckor. Vad ger du för allmänna instruktioner till Caroline och hennes pappa i väntan på provsvar? Ska man tänka på något särskilt och hur ska man göra med skolan? (2 p)
+    * Skola så lång utsträcknign som möjligt
+    * Fortsatt observation av avföringsvanor: dagbok buksmärta, avföringsvanor
+    * Information sällan allvarlig sjd, orsaka symptom hon har
+    * söka vård akut om feber, blödnign aändtarm, svåra buksmärtor
+  * Vid telefonuppföljningen får du veta att man följt dina råd och pratat med Carolines mentor som bl a hjälpt till att förklara för lärarna att Caroline ibland kan komma lite senare till skolan och ordnat så att hon kan använda skolsköterskans toalett som ligger mera avskilt. Det har underlättat för Caroline, men i övrigt mår hon väsentligen oförändrat. Du berättar att värdena försämrats något. Det finns tecken på oklar inflammation i kroppen då SR ökat till 35 mm, albumin sjunkit till 30 g/L samt tecken på fortsatt leverpåverkan med ALAT 1,6 µkat/L och ASAT 1,2 µkat/L. I proteinfraktionen ser man att IgG är 16,6 g/L. Du har dessutom fått svar på att f-calprotectin ligger på 1450 mg/kg. ANA är svagt positiv och avföringsodlingarna är negativa.
+  * Vilka 2 diffar mest sannolika, hur säkerställer man de
+    * IBD: gastroskopi, koloskopi, med biopsi
+    * Autoimmun hepatit, lätt förhöjda levertransaminaser och IgG: autoimmuna antikroppar och leverbiopsi
+  * Du informerar om att avföringsprovet tyder på inflammation i tarmen, mest sannolikt IBD, och för fortsatt utredning planeras både gastro- och koloskopi i narkos. De förhöjda levervärdena tillsammans med ett påtagligt förhöjt IgG talar för autoimmun hepatit, vilket bör kartläggas med ytterligare autoimmuna antikroppar (glatt muskel) samt leverbiopsi.
+  * **Fick diagnos autoimmun hepatit + ulcerös kolit**
+
+
+
+
+
 ### IBD
 
 ***Presentation***
 
+* Caroline 16 år har remitterats till din barnmottagning från vårdcentral pga uttalad trötthet och andra diffusa symtom sedan 4 månader. Hon orkar inte gå till skolan, klagar på ospecifika ledbesvär och varierande avföringar. På vårdcentralen har provtagning visat: Hb 122 g/L CRP <5 mg/ml Krea 48 µmol/L LPK 7,2x109/L SR 26 mm ALAT 1,46 µkat/L TPK 548x109/L albumin 40 g/L Carolines pappa är med vid besöket.
+  * besök ungdomsmedicinskt perspektiv. hur gör du anamnes och undersökning
+    * HEADS
+    * Vid status kan be pappa gå ut, för att det är så man gör med barn (som att det är det mest uppenbara). Därefter ställa frågor enl HEADS
+  * Pappan är väldigt orolig för Caroline. Han har inte fått svar på de blodprover man tagit och undrar om det finns några avvikelser eller ledtrådar till vad Caroline lider av i dessa. Hur svarar du så att både Caroline och pappan förstår? 
+  * Efter undersökningen pratar du med Caroline och pappan. Du sammanfattar anamnesen för att kontrollera att du förstått rätt. Ingen annan i familjen har eller har haft liknande symtom. Caroline har gått ner ca 2-3 kg, hon är fullt puberterad och har regelbundna menstruationer (menarche vid 14 års ålder). Hon har aldrig haft ledbesvär, men upplever viss ledstelhet framför allt på morgonen. Hon är mest besvärad av tröttheten och att hon behöver bajsa så ofta. Hon måste gå på toa upp till 5 gånger per dag och beskriver så täta trängningar på morgonen att hon ibland missar skolbussen. Caroline negerar nattliga toalettbesök, men säger att hon tror att hon vid enstaka tillfällen sett lite blod på pappret. Förutom en generell ömhet i buken fann du inga avvikelser i status, inkl ledstatus, perianal inspektion och rektal palpation. Då tarm- och ledsymtomen är mest framträdande planerar du kontroll av blod- och avföringsprov för att utesluta inflammation i tarmen och reumatiska sjukdomar
+  * Du kommer överens om en uppföljande telefonkontakt om två veckor. Vad ger du för allmänna instruktioner till Caroline och hennes pappa i väntan på provsvar? Ska man tänka på något särskilt och hur ska man göra med skolan? (2 p)
+    * Skola så lång utsträcknign som möjligt
+    * Fortsatt observation av avföringsvanor: dagbok buksmärta, avföringsvanor
+    * Information sällan allvarlig sjd, orsaka symptom hon har
+    * söka vård akut om feber, blödnign aändtarm, svåra buksmärtor
+  * Vid telefonuppföljningen får du veta att man följt dina råd och pratat med Carolines mentor som bl a hjälpt till att förklara för lärarna att Caroline ibland kan komma lite senare till skolan och ordnat så att hon kan använda skolsköterskans toalett som ligger mera avskilt. Det har underlättat för Caroline, men i övrigt mår hon väsentligen oförändrat. Du berättar att värdena försämrats något. Det finns tecken på oklar inflammation i kroppen då SR ökat till 35 mm, albumin sjunkit till 30 g/L samt tecken på fortsatt leverpåverkan med ALAT 1,6 µkat/L och ASAT 1,2 µkat/L. I proteinfraktionen ser man att IgG är 16,6 g/L. Du har dessutom fått svar på att f-calprotectin ligger på 1450 mg/kg. ANA är svagt positiv och avföringsodlingarna är negativa.
+  * Vilka 2 diffar mest sannolika, hur säkerställer man de
+    * IBD: gastroskopi, koloskopi, med biopsi
+    * Autoimmun hepatit, lätt förhöjda levertransaminaser och IgG: autoimmuna antikroppar och leverbiopsi
+  * Du informerar om att avföringsprovet tyder på inflammation i tarmen, mest sannolikt IBD, och för fortsatt utredning planeras både gastro- och koloskopi i narkos. De förhöjda levervärdena tillsammans med ett påtagligt förhöjt IgG talar för autoimmun hepatit, vilket bör kartläggas med ytterligare autoimmuna antikroppar (glatt muskel) samt leverbiopsi.
+  * **Fick diagnos autoimmun hepatit + ulcerös kolit**
+  * Primära behandlingen måttlig ulcerös kolit
+    * 5-asa
+  * förklara kronisk sjd kan tänkas påverka hennes liv de närmsta åren
+    * leva nästan som vanlig. äta lkm som förebygger skov. regelbundna kontroller med förnyad endoskopi och upprepade leverbiopsier
+  * Initialt blir bättre. efter 2 mån skov blodiga diarrer. 
+  * Vilket preparat använder du som behandling nu. Ge förslag pp dosering
+    * kortison
 
 
-* 
+
+***Etiologi och patofysiologi***
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utredning och handläggning***
+
+* Prover man tar
+  * Hormonell status: TSH, T4/T3
+  * Leverstatus: ALAT, ASAT, PKINR, albumin, 
+  * CRP, Hb, u-sticka
+  * blodstatus
+
+
+
+***Behandling***
+
+
+
+
 
 ### Ikterus hos barn
 
@@ -2211,6 +2284,16 @@ Enligt ABCDE
 
 
 #### Konjugerade orsaker
+
+##### BIliär atresi
+
+##### Cystisk fibros
+
+
+
+##### Koledukal cysta
+
+##### metabola, medfödd
 
 ##### Neonatal hepatit
 
@@ -2804,6 +2887,10 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 * Feber
 * Allmänt opåverkade: detta är karakteristiskt för dessa patienter
+
+
+
+<img src="./imgs/sam_160421_eLIJg1aJYe.png" alt="eLIJg1aJYe" style="zoom:50%;" />
 
 
 
@@ -6151,67 +6238,138 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### Feberkramp
+### Cerebral pares
 
 ***Presentation***
 
-* En 7 år gammal pojke kommer in till akutrummet på barnakuten pga generaliserade symmetriska kramper. Han har haft 40C feber i ca 3 dagar. Ingen annan är sjuk i familjen. När du träffar honom har han slutat krampa. Han är medvetandepåverkad men väckbar vid smärtstimuli. I status noterar du att han har takypné, takykardi, saturation 91 %, kapilläråterfyllnad 4s och nackstyvhet.'
-  * **Initiala handläggning punktform, kronologiskt**
-    * **Ringer efter narkos + senio kollega**
-    * **Handläggning enl ABCDE**
-      * A: stabilisera luftvägarna, kontrollera fri och att pat kan hålla de fria, åtgärda därefter; inspiratoriska eller expiratoriska stridor
-      * B: Lyssna lungor, saturation, andningsrörelser, (CRP?); antydningar obstruktivitet, indragningar, asymmetrier
-        * Koppla syrgas främst om ingen obstruktivitet föreligger. Föreligger obstruktivitet adminstrering ventoline.
-      * C: Capillart refill time, pulsar, EKG, hjärt auskultatuin, blodtryck
-        * PVK insättning samband med detta, prover. Blodgas, blodstatus, med diff, kapillärt-CRP
-        * PKINR, APT, blododling, KAD sättnnig + U-sticka, NPH
-        * Bolus RA 20mL/kg, så fort som ärlet tillåter, utvärdera kaprefil.l. 
-        * nackstyvhet + kramp, samt sänkt edvetande koppling antibiotika på meningitmisstanke: Cefotaxim + aciklovir + steroider
-      * D: AVPU, postiktal, sker det ng förändring; glukosmätning
-      * E: hudkostym: septiska embolier, petekier, blåm,ärken, varm, kall
-    * **LP undersökning**
-    * **Antibiotika**:
-      * barn <3måpn ges ampicillin + cefotaxim
-      * barn >3mån ges steroider + cefotaxim
-    * Vad måste du utesluta och hur gör du det: meningit + LP
-    * Vila två agens är mest sannolika: Pneumokocker + meningokocker
-* **Du är vikarierande underläkare på en barnakutmottagning. Ett 8 månaders barn inkommer till akuten då barnet har 39 graders feber och har haft en kramp. Hur var det nu med feberkramp tänker du innan du träffar barnet? Ange 4 kriterier för att en kramp skall kallas feberkramp. (2p, ½ p för varje rätt svar)** 
+* **2 år gammal pojke**
 
-  * Symmetrisk, generell, tonisk klonisk kramp 
-  * Tid: inte mer än 10 min. 
-  * 0,5 till 4 års ålder 
-  * feber >38,5
-  * Ingen postiktalitet 
+  * I remissen står det bla:
+  * PN v 40, grav ua, ammat helt, ger god kontakt, men avvikande motorik
+
+  * I status noteras att han griper föremål helst med hö hand. Kan gripa med vä, men flyttar direkt över till hö 
+  * Står gärna direkt på tå på väsida, men kan komma ner på hela foten
+  * Tonus något högre och livligare reflexer på väsida jmf hö
+  * Du beställer en MR-hjärna
+  * MR-hjärna vid 2 åå: 
+    * Höger sidoventrikel är lätt förstorad 
+    * och i anslutning till periventrikulärasubstansen ett litet område avvikande signal tydande på lättare PVL (periventrikulärleukomalaci)
+
+* **Kristina 6 mån** 
+
+  * Kommer för uppföljning efter neovård. Kristina är född v34, han hade en lättare asfyxi, hade en misstänkt men aldrig odlingsverifierad sepsis. Du finner en flicka som kan lyfta huvudet kort i bukläge. Hon kan inte vända runt. I axillarhäng spänner benen och korsar nästan.
+  * Vilka milstolpar ska en 6 månaders baby uppnått?
+    * vända runt, dra upp mot sittande, sitta med stöd, flytta föremål mellan händerna, titta efter tappad leksak, nyanserat joller
+  * Hur ser det ut för Kristina: ligger efter i utvecklingen, 
+  * Vad gör du nu: barnneurolog direkt, fysioterapeut bedömning.
+    * ligg lågt utredning, för att hon är prematur.
+    * gölj upp om 2-3mån
+    * MR vid 2åå.
+    * vid CP-skador: undersök alltid syn + hörsel
+  * Åb vid 3åå. Kristina går nu på tå, korsar benen, har svårt att stå på hälarna. Dålig viktuppgång. Har svårt svälja annat än blandad mat. 
+  * Diagnos?
+    * Bilateral spastisk cerebral pares. BUlbära symptom. Hjärnstam. CN
+  * Etiologi
+    * pematuritet med ev sepsis; asfyxi; hypoxi; inf; blödning; bilat CP
+  * Uppföljning
+    * habilitering inkopplas. uppföljning 1gg p år. spasticitetsreducerande medicin.
 
 
 
-***Diagnos***
+***Indelningar***
 
-* Feber över 38.5
-* Ingen postiktalitet
-* 0.5-4åå 
-* Tid: inte mer än 10min
-* Symmetrisk, generell, tonisk klonisk klonisk kramp
+* **Spastisk**: drabbat motorkortex
+  * **Unilateral spastisk pares**: en drabbad sida
+  * **Bilateral spastisk pares**
+  * tetraplegi
+  * paraplegi
+  * hemiplegi
+* **Dyskinetisk**: drabbar basala ganglierna; hela kroppen involveras
+  * Athetoid
+  * Dytonisk
+* **Ataxi**: drannat cerebellärt, bakre skallgrop; hela kroppen involveras
+  * Ataktisk:
 
 
 
 ***Etiologi och patofysiologi***
 
+* **Prenatala orsaker**: oftast är det orsakat prenatalt. antar att det har att göra med asfyxi
+* **Asfyxi**
+* **Perinatal infektion**
+* **Missbildningar**
+* **Urogenital infektion, hos mamma**: 
+* **Infektion**
+* **Sepsis**
+* **Kernicterus**: Dyskinetisk CP
+
+
+
+***Epidemigologi***
+
+* Spastisk: 80% av all CP
+  * kallas idag unialateral, bilateral, tetraplegisk
+  * tetr
+
 
 
 ***Kliniska kännetecken***
 
+* Spasticitet
+* Bulbära symptom
+* Tetraplegisk: 
+  * 100% ngn form intellektuell funktionsnedsättning
+  * svaga i muskulaturen i båen
+  * framåtlutade, 
+  * kan inte hålla huvudet uppe
+  * behöver strap huvudet för att hålla huvudet uppe
+* "right hemiplegia cerebral palsy" film, youtube.
+* Gross motor classification system
 
 
-***Utredning och handläggning***
+
+
+
+***Differentialdiagnoser***
+
+* Stroke: neonatalt drabbas. speciellt prematura. komplicerad eförlossningar. vaskulär malformation
+* Neurometabol sjd: progredierande funktionsnedsättning
+
+
+
+***Diagnos***
+
+* Klinisk diagnos: cerebral pares, CP, 
+* inte radiologisk diagnos: möjligt att man inte har radiologiska förändringar som förklarar syndromet 
+
+
+
+***Handläggning och utredning***
+
+* **Uppföljning**: barnneurolog för att sätta diagnosen, 
+* **CPUP**: CP-uppföljningsprogram. 
+* **Habilitering**: hjälpmedel. många olika professioner samlade.
+* **Hörselutredning**: föreligger CP-skada är att man ska utreda hörselskadan
+* **Synutredning**: föreligger CP-skada är att man också ska utreda synutredning
+
+
 
 
 
 ***Behandling***
 
+* Spasmicitetsreduktion
+  * Baklofen: spasmolytikum, spinal angreppspunkt, kemisk analog, hämmande neurotransmittorn GABA. 
+
+
+
+<img src="./lectures/ped_lec/imgs/ped_sem_neuro_EmxfjrGhPO.png" alt="EmxfjrGhPO" style="zoom: 33%;" />
+
 
 
 ### Kramper
+
+##### Allmänt
 
 ***Presentation***
 
@@ -6271,6 +6429,14 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+#### Absensepilepsi
+
+***Presentation***
+
+
+
+
+
 #### Benign barnepilepsi: Rolandisk
 
 ***Presentation***
@@ -6279,6 +6445,148 @@ En kort lista över kliniska manifestationer av CF:
   * Drabbar barn från 3-13 års ålder, anfall ofta nattetid, typiska centro temporala spikes och sharp-waves på EEG
 
 
+
+#### Feberkramp
+
+***Presentation***
+
+* En 7 år gammal pojke kommer in till akutrummet på barnakuten pga generaliserade symmetriska kramper. Han har haft 40C feber i ca 3 dagar. Ingen annan är sjuk i familjen. När du träffar honom har han slutat krampa. Han är medvetandepåverkad men väckbar vid smärtstimuli. I status noterar du att han har takypné, takykardi, saturation 91 %, kapilläråterfyllnad 4s och nackstyvhet.'
+  * **Initiala handläggning punktform, kronologiskt**
+    * **Ringer efter narkos + senio kollega**
+    * **Handläggning enl ABCDE**
+      * A: stabilisera luftvägarna, kontrollera fri och att pat kan hålla de fria, åtgärda därefter; inspiratoriska eller expiratoriska stridor
+      * B: Lyssna lungor, saturation, andningsrörelser, (CRP?); antydningar obstruktivitet, indragningar, asymmetrier
+        * Koppla syrgas främst om ingen obstruktivitet föreligger. Föreligger obstruktivitet adminstrering ventoline.
+      * C: Capillart refill time, pulsar, EKG, hjärt auskultatuin, blodtryck
+        * PVK insättning samband med detta, prover. Blodgas, blodstatus, med diff, kapillärt-CRP
+        * PKINR, APT, blododling, KAD sättnnig + U-sticka, NPH
+        * Bolus RA 20mL/kg, så fort som ärlet tillåter, utvärdera kaprefil.l. 
+        * nackstyvhet + kramp, samt sänkt edvetande koppling antibiotika på meningitmisstanke: Cefotaxim + aciklovir + steroider
+      * D: AVPU, postiktal, sker det ng förändring; glukosmätning
+      * E: hudkostym: septiska embolier, petekier, blåm,ärken, varm, kall
+    * **LP undersökning**
+    * **Antibiotika**:
+      * barn <3måpn ges ampicillin + cefotaxim
+      * barn >3mån ges steroider + cefotaxim
+    * Vad måste du utesluta och hur gör du det: meningit + LP
+    * Vila två agens är mest sannolika: Pneumokocker + meningokocker
+* **Du är vikarierande underläkare på en barnakutmottagning. Ett 8 månaders barn inkommer till akuten då barnet har 39 graders feber och har haft en kramp. Hur var det nu med feberkramp tänker du innan du träffar barnet? Ange 4 kriterier för att en kramp skall kallas feberkramp. (2p, ½ p för varje rätt svar)** 
+
+  * Symmetrisk, generell, tonisk klonisk kramp 
+  * Tid: inte mer än 10 min. 
+  * 0,5 till 4 års ålder 
+  * feber >38,5
+  * Ingen postiktalitet 
+* Algot 9 månader kommer till barnakuten med sina föräldrar på lördagsnatten. Han är tidigare frisk, men har haft hög feber sedan två dagar. Föräldrarna har gett honom mixtur Alvedon enligt rekommendation på flaskan varvid febern gått ned tillfälligt men sedan stigit igen upp mot 40°C. Algot beter sig åldersadekvat och är opåverkad. Han har ätit lite sämre senaste dygnet, men trots att han druckit bra har han kissat lite sparsammare än annars. Ingen annan i omgivningen är sjuk.  När du undersökt Algot och ska gå ut ur rummet får Algot en generaliserad kramp utan asymmetri. Den är kortvarig och bryts spontant efter mindre än en minut. Algot är snabbt återställd till sitt tidigare relativt goda allmäntillstånd.
+  * akuta åtgärdeR?
+    * Ny klinisk bedömning: neurostatus (fokalitet?)
+    * Provtagning: P-glukos, CRP, ev neutrofila
+    * Febernedsättande: alvedeon eller ipren
+    * Fortsatt observation vårdmottagningen
+  * Du gör en ny klinisk bedömning inklusive neurologistatus som är helt normalt. Algot får mer febernedsättande. CRP och P-glukos är normala. 
+    * 
+
+***Diagnos***
+
+* Feber över 38.5
+* Ingen postiktalitet
+* 0.5-4åå 
+* Tid: inte mer än 10min
+* Symmetrisk, generell, tonisk klonisk klonisk kramp
+
+
+
+***Etiologi och patofysiologi***
+
+
+
+***Epidemiologi***
+
+* Inte vanligast i spädbarnsåldern
+
+
+
+***Kliniska kännetecken***
+
+* Symmetrisk, tonisk klonisk kramp
+* Patient med hög feber
+* ingen postiktalitet
+
+
+
+***Utredning och handläggning***
+
+* Prover: Hb, CRP.
+
+
+
+***Behandling***
+
+* Akut anfallskupering: 
+  * midazolam iv: finns infart, ge midazolam
+  * diazepam rektalt: Ingen infart ger midazolam rektalt
+  * 
+
+
+
+### West syndrome TODO
+
+***Presentation***
+
+* **Lisa 3 mån kommer till barnakutmott via remiss från BVC. Fadern har noterat att Lisa sedan någon vecka rycker till flera gånger per dag. Plötsligt stirrar flickan till, rycker till med huvudet och rycker därefter med både armar och ben uppåt. Hon förlorar inte medvetandet i samband med episoderna. Hon kan ännu inte lyfta huvudet bra i bukläge och ger ännu inget riktigt bra svarsleende. I övrigt tycker du att status är normalt. Hon har följt sin vikt och längd kurva på BVC. Då du utför status ser du några liknande episoder som beskrivs ovan.** 
+  * Vad rör sig sannolikt om för tillstånd
+    * West syndrome
+  * Vad bör du göra med flickan
+    * ge pyrodoxinhydroklorid på akuten
+  * Vilken undersökning akut, och frågeställnnig
+    * sömn EEG, frågeställning hypsarrytmi, omgående MR, inled behandling omgående
+* Du är BVC-läkare och SSK har bokat in ett extrabesök. Ulla 6 mån som sedan ungefär 10 dagar drar ihop sig i attacker som upprepas flera gånger efter varandra och sedan är det paus ett par timmar. Ulla blir ledsen och gråter. Hon har stannat upp i sin utveckling. 
+  * Det såg ut som att barnet fick moro-reflexer men läkar förklara att det är infantila spasmer, där hon blir ledsen efter dem. 
+  * Diffar: infantila spasmer + West syndrom (symptomtriad som inkluderar spasmer)
+  * Handläggning akut
+    * Skicka till akuten? 
+    * Ganska omgående EEG, MR och inledning av beh. 
+    * Ska göras inom ett par dagar. 
+    * ska direkt skickas till akuten, för att man ska utreda det akut. 
+    * EEG: akut ska göras, 
+    * MR: 2-4 veckor, 1 månad, för att humm vad det beror på
+    * neurometabol skreening, genetisk utredning. 
+    * EEG ska visa hyxarrytmi: ser ut som kaos och jättehöga amplituder. 200-300mikro Volt, vanligtvis runt 50 mikrovolt. 
+    * West syndrom: EEG karak i.e. hyxmönster + avstannad utveckling + infantila spasmer = West syndro
+* **Sara 3 månader gammal söker akut med sina föräldrar pga gnällighet och ryckningar. Ryckningarna utgörs av först en nickning i huvudet följt av en flektionsrörelse i armar och ben utan medvetandeförlust. Du noterar att Sara har avstannat i utvecklingen. Du behöver skicka en akut remiss för EEG för att få rätt diagnos.** 
+  * **Vad förväntar du att få för svar från EEG undersökningen? Det är en mycket karaktäristisk bild vid detta tillstånd. (1 p)** 
+  * Wetst syndrome
+  * EEG visar Hypsarrytmi, tecken till infantila spasmer. 
+* **EEG-registreringen nedan visar sk hypsarytmi. Hypsarytmi är vanligt förekommande vid en svår typ av epilepsi som kan drabba barn.** **a) Vilken? (0,5 p)** 
+  * Vilken: West syndrom eller infatila spasmer
+  * i vilken ålder brukar denna epilepsi debutera
+    * 2-23månader, typiskt första levanadsåret (4-7mån)
+  * Beskriv typiskt anfall kan se ut shos barn med denna epilepsiform
+    * kort tonisk framåtböjning i nacke, midja, extremiteter
+    * slår ihop armarna, liknande mororreflex
+    * börjar ofta gråta efteråt
+  * <img src="./imgs/ped_sam_100421_dodeLiHaup.png" alt="dodeLiHaup" style="zoom:50%;" />
+* Alice 5 månader är på extra inbokad besök på BVC pga att föräldrarna har noterat att hon vid flera tillfällen under senaste tiden har nickat till med huvudet under matning och att det har upprepats flera gånger i följd. Vid några tillfällen har hon även slagit uppåt med armar och ben i samband med nickning. Vilken är den mest sannolika diagnosen, vilken undersökning bör göras och vad visar den? 
+  * Trauma, CT-hjärna, blödning 
+  * Benign barnepilepsi, EEG, hypsarytmi 
+  * Encefalit, LP, höga mono 
+  * Epilepsi, EEG, EP-aktivitet 
+  * rätt: Infantil spasm, EEG, hypsarytmi 
+
+***Diagnos***
+
+* Tre diagnoskriterier
+  * Hyxmönster + avstannad utveckling + infantila spasmer
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
 
 
 
@@ -6474,6 +6782,121 @@ En kort lista över kliniska manifestationer av CF:
   * eller paracetamol
 * 
 
+
+
+
+
+### Hydrocefalus
+
+***Presentation***
+
+
+
+***Etiologi och patofysiologi***
+
+* CSF relaterat
+
+  * påverkad CSF flöde
+  * ökad produktion
+  * flödeshinder
+  * minskad absorption
+
+* Indelningsmässigt
+
+  * Kommunicerande hydrocefalus
+    * ökad produktion
+    * minskad abdorption
+    * alla problem början eller slutet av pathway. Allt däremellan funkar föra tt icke-obstruktiv
+  * Icke-kommunicerande hydrocefalus
+    * obstrkton
+    * buildup CSF proximalt
+    * etiologiskt: blödningar, ..
+
+* Kongenitala orsaker
+
+* Acquired orsaker: 
+
+  * intraventrikulär blödning: VANLIGAST PREMATURA
+  * bakteriell meningit
+  * CSF-producerande hjärntumörer
+
+* Andra orsaker.. (mer makrocefali relaterat?)
+
+  * Hjärnblödning
+  * Missbildning
+  * Intrauterin infektion
+  * Tumörer
+  * Trauma
+
+  
+
+***Indelningar***
+
+* Kommunicerande, icke-obstrktiv, 
+* Icke-kommunicerande, obstruktiv
+* Hydrocefalus ex vacuo
+
+
+
+***Kliniska kännetecken***
+
+* ökande huvudomfång
+* Öppna suturer föreligger
+  * stora anterior och posterior fontaller
+  * split suturer
+  * setting-sun eues: toniskt att ögon tittar nedåt. tredje ventrikeln förstorad tryckr på hjärnstammen
+* Äldre barn
+  * Huvudvärk
+  * kräkningar
+  * illamående
+  * papillödem
+  * brisk tendon reflux, DTR: downward plantar respose
+
+
+
+***Utredning och handläggning***
+
+* Akut Ultraljud: Ökande huvudomfång, och spädbarn
+* DT-skalle: äldre ungar, akut
+
+
+
+***Behandling***
+
+* Shuntbehandling
+  * Ventrikuloperitoneal shunt: komplikationer infektion och shunt obstruktion
+* äldre barn
+  * acetazolamid: minskar ICP
+
+| <img src="./lectures/ped_lec/imgs/ped_neuro_sem_1bvQeXzw4G.png" alt="1bvQeXzw4G" style="zoom: 50%;" /> | <img src="./lectures/ped_lec/imgs/ped_neuro_sem_4twbCwn8Us.png" alt="4twbCwn8Us" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/ped_neuro_sem_i29YoiW2id.png" alt="i29YoiW2id" style="zoom:25%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
+
+
+
+### Stroke
+
+***Etiologi och patofysiologi***
+
+* Prenatala orsaker
+* Vaskulär malformation
+* Prematur börd
+* Komplicerade förlossningar
+
+
+
+***Kliniska kännetecken***
+
+* Akuta sequele: detta diffas mot cerebral pares där det är mer progressiva besvär som patienten kan drabbas av. 
+* Neonata strokes, noteras senare
+
+
+
+***Differentialdiagnoser***
+
+* Cerebral pares
+* Neurometabola sjukdomar
+
 ### Utebliven neuro progress
 
 ***Presentation***
@@ -6515,67 +6938,6 @@ En kort lista över kliniska manifestationer av CF:
       * flickor med Rett får svårt koordinera sina rörelser
       * slutar använda händerp å ett meningsfullt sätt o slutar leka o tala
     * // degen muskelsjd?
-
-
-
-### West syndrome TODO
-
-***Presentation***
-
-* **Lisa 3 mån kommer till barnakutmott via remiss från BVC. Fadern har noterat att Lisa sedan någon vecka rycker till flera gånger per dag. Plötsligt stirrar flickan till, rycker till med huvudet och rycker därefter med både armar och ben uppåt. Hon förlorar inte medvetandet i samband med episoderna. Hon kan ännu inte lyfta huvudet bra i bukläge och ger ännu inget riktigt bra svarsleende. I övrigt tycker du att status är normalt. Hon har följt sin vikt och längd kurva på BVC. Då du utför status ser du några liknande episoder som beskrivs ovan.** 
-  * Vad rör sig sannolikt om för tillstånd
-    * West syndrome
-  * Vad bör du göra med flickan
-    * ge pyrodoxinhydroklorid på akuten
-  * Vilken undersökning akut, och frågeställnnig
-    * sömn EEG, frågeställning hypsarrytmi, omgående MR, inled behandling omgående
-* Du är BVC-läkare och SSK har bokat in ett extrabesök. Ulla 6 mån som sedan ungefär 10 dagar drar ihop sig i attacker som upprepas flera gånger efter varandra och sedan är det paus ett par timmar. Ulla blir ledsen och gråter. Hon har stannat upp i sin utveckling. 
-  * Det såg ut som att barnet fick moro-reflexer men läkar förklara att det är infantila spasmer, där hon blir ledsen efter dem. 
-  * Diffar: infantila spasmer + West syndrom (symptomtriad som inkluderar spasmer)
-  * Handläggning akut
-    * Skicka till akuten? 
-    * Ganska omgående EEG, MR och inledning av beh. 
-    * Ska göras inom ett par dagar. 
-    * ska direkt skickas till akuten, för att man ska utreda det akut. 
-    * EEG: akut ska göras, 
-    * MR: 2-4 veckor, 1 månad, för att humm vad det beror på
-    * neurometabol skreening, genetisk utredning. 
-    * EEG ska visa hyxarrytmi: ser ut som kaos och jättehöga amplituder. 200-300mikro Volt, vanligtvis runt 50 mikrovolt. 
-    * West syndrom: EEG karak i.e. hyxmönster + avstannad utveckling + infantila spasmer = West syndro
-* **Sara 3 månader gammal söker akut med sina föräldrar pga gnällighet och ryckningar. Ryckningarna utgörs av först en nickning i huvudet följt av en flektionsrörelse i armar och ben utan medvetandeförlust. Du noterar att Sara har avstannat i utvecklingen. Du behöver skicka en akut remiss för EEG för att få rätt diagnos.** 
-  * **Vad förväntar du att få för svar från EEG undersökningen? Det är en mycket karaktäristisk bild vid detta tillstånd. (1 p)** 
-  * Wetst syndrome
-  * EEG visar Hypsarrytmi, tecken till infantila spasmer. 
-* **EEG-registreringen nedan visar sk hypsarytmi. Hypsarytmi är vanligt förekommande vid en svår typ av epilepsi som kan drabba barn.** **a) Vilken? (0,5 p)** 
-  * Vilken: West syndrom eller infatila spasmer
-  * i vilken ålder brukar denna epilepsi debutera
-    * 2-23månader, typiskt första levanadsåret (4-7mån)
-  * Beskriv typiskt anfall kan se ut shos barn med denna epilepsiform
-    * kort tonisk framåtböjning i nacke, midja, extremiteter
-    * slår ihop armarna, liknande mororreflex
-    * börjar ofta gråta efteråt
-  * <img src="./imgs/ped_sam_100421_dodeLiHaup.png" alt="dodeLiHaup" style="zoom:50%;" />
-* Alice 5 månader är på extra inbokad besök på BVC pga att föräldrarna har noterat att hon vid flera tillfällen under senaste tiden har nickat till med huvudet under matning och att det har upprepats flera gånger i följd. Vid några tillfällen har hon även slagit uppåt med armar och ben i samband med nickning. Vilken är den mest sannolika diagnosen, vilken undersökning bör göras och vad visar den? 
-  * Trauma, CT-hjärna, blödning 
-  * Benign barnepilepsi, EEG, hypsarytmi 
-  * Encefalit, LP, höga mono 
-  * Epilepsi, EEG, EP-aktivitet 
-  * rätt: Infantil spasm, EEG, hypsarytmi 
-
-***Diagnos***
-
-* Tre diagnoskriterier
-  * Hyxmönster + avstannad utveckling + infantila spasmer
-
-***Etiologi och patofysiologi***
-
-***Epidemiologi***
-
-***Kliniska kännetecken***
-
-***Utredning och handläggning***
-
-***Behandling***
 
 
 
@@ -6803,6 +7165,18 @@ En kort lista över kliniska manifestationer av CF:
 #### Klavikelfraktur
 
 #### Plexusskador
+
+
+
+### HIE: hypoxisk ischemisk encef
+
+***Allmänt***
+
+* Hypoxisk ischemisk encefalopati
+
+
+
+***Etiologi och patofysiologi***
 
 
 

@@ -3191,17 +3191,19 @@ Downs syndrom (aka trisomi 21).
 * Står gärna direkt på tå på väsida, men kan komma ner på hela foten
 * Tonus något högre och livligare reflexer på väsida jmf hö
 * Du beställer en MR-hjärna
-* MR-hjärna vid 2 åå:Höger sidoventrikel är lätt förstorad och i anslutning till periventrikulärasubstansen finns ett litet område med avvikande signal tydande på lättare PVL (periventrikulärleukomalaci)
+* MR-hjärna vid 2 åå: Höger sidoventrikel är lätt förstorad och i anslutning till periventrikulärasubstansen finns ett litet område med avvikande signal tydande på lättare PVL (periventrikulärleukomalaci)
 
 
 
-![ccfvLc2zgP](./imgs/ped_sem_neuro_ccfvLc2zgP.png)
+<img src="./imgs/ped_sem_neuro_ccfvLc2zgP.png" alt="ccfvLc2zgP" style="zoom:33%;" />
 
 
 
 ***Diagnos?*** 
 
 * Unilateral spastisk cerebral pares: man säger unilateral för att det enbart är en sida som är påverkat hos ungen. 
+
+
 
 Oftast prenatal orsak. Man väljer hand först när man är 3-4 år. En hjärnskada som uppstår under grav, under förlossning eller upp till 2 år postnatalt. 
 
@@ -3215,16 +3217,27 @@ Oftast prenatal orsak. Man väljer hand först när man är 3-4 år. En hjärnsk
   * men kan vara så att neonatalt stroke, att man märker av symptomen senare. 
 * **neurometabola sjukdomar:** man fortsättning att barnet tappar färdigheter, kan ge progredierande funktionsnedsättning. 
 
+
+
 ***Etiologi?*** 
 
 Asfyxi, perinatal stroke, perinatal inf, missbildningar, urogenital inf hos mamman? 
+
+
 
 ***Uppföljning?*** 
 
 * ***uppföljning***: på barnneurologen, alltså vidare fr barnmottagningen. 
   * första besöket tittar att diagnosen är rätt
   * CP är ingen radiologisk diagnos, utan man kan ställa den på kliniska fynd. Radiologin är att det ska stämma in med kliniken. Ibland att det ser väldigt fint ut i hjärnan att barnet ändå uppvisar spasticitet, därför ska man sortera bort alla andra tänkbara differentialdiagnoser. 
-* ***CPUP*** – uppföljningsprogram (står för CP-uppföljningsprogram). US och beh av rörelseorgan. Öka kunskap om CP. Bättre kommunikation mellan olika yrkesgrupper. Uppföljning från spädbarnsålder till vuxen ålder. Utred: MR, man ska helst vänta med MR till 2åå då myeliniseringen avslutats = bättre bild. Skadan är redan skedd och är statisk.
+* ***CPUP*** 
+  * uppföljningsprogram (står för CP-uppföljningsprogram). 
+  * US och beh av rörelseorgan. 
+  * Öka kunskap om CP.
+  * Bättre kommunikation mellan olika yrkesgrupper. 
+  * Uppföljning från spädbarnsålder till vuxen ålder. 
+  * Utred: MR, man ska helst vänta med MR till 2åå då myeliniseringen avslutats = bättre bild. 
+  * Skadan är redan skedd och är statisk.
 * ***habilitering***: att mna skickas till habilitering, där kan de hjälpa til lmed hjälpmedel 
 
 
@@ -3233,7 +3246,9 @@ Asfyxi, perinatal stroke, perinatal inf, missbildningar, urogenital inf hos mamm
 
 * **PN** = partus normalis, i.e. att det är en vaginal förlossning
 * **PVL** = periventrikulärleukomalaci
-* det man kan göra på neurologne: ge behandling för spasticitet. de med svårare spasticitet kan behöva baklofen (spasmicitetsreducering), kan behöva hjälp med ... då svårt äta och dricka med åkomman. 
+* det man kan göra på neurologne: 
+  * ge behandling för spasticitet. 
+  * de med svårare spasticitet kan behöva baklofen (spasmicitetsreducering), kan behöva hjälp med ... då svårt äta och dricka med åkomman. 
 * En instans som man alltid remitterar till för att få hjälpmedel e.g. sittstolar, skenor för fotleden, där finns logoped är habilitering?
 
 
@@ -3249,6 +3264,8 @@ Asfyxi, perinatal stroke, perinatal inf, missbildningar, urogenital inf hos mamm
 * flytta föremål mellan händerna, 
 * titta efter tappad leksak, 
 * nyanserat joller.  
+
+
 
 Hur ser det ut för Kristina?
 
@@ -3273,17 +3290,21 @@ Hur ser det ut för Kristina?
 
 * Bilateral spastisk cerebral pares. Bulbära symtom, hjärnstam och CN.  
 
+
+
 ***Etiologi?***
 
 * **född prematurt med evt sepsis:** kan ha varit född med en lättare asfyxi. HIE för asfyxi, att det kannat vara perinatal del i det hela.
   * kan fråga sig varför föddes prematurt, att de som har dålig fostertillävxt o dåligt intrauterint att de vill ut tidigare. 
   * möjligt att man ser PVL skadan åp denna patienten, att kortikospinala banorna ligger skadan, men det inte alltid man ser det på MR. 
   * asfyxi pre- eller perinatalt är möjligt
-* Asfyxi
-* hypoxi. 
-* Inf?
-* Blödning?
-* Bilat CP: Oftast prematurer, hjärnskada i samband med födseln. ½ av alla med CP-skada har också mental retardation. 
+* **Asfyxi**
+* **hypoxi.** 
+* **Inf?**
+* **Blödning?**
+* **Bilat CP**: Oftast prematurer, hjärnskada i samband med födseln. ½ av alla med CP-skada har också mental retardation. 
+
+
 
 ***Uppföljning?***
 
@@ -3293,14 +3314,14 @@ Hur ser det ut för Kristina?
 * **följs upp 1gg per år**, upp tills att de börjar skolan
 * **kan spasticitetsreducerande medicin**: att man försöker hämma spinalt den ökade tonusen.
 * **enl morgan**
-  * Kompl: Höftledslux, kontrakturer, uppfödningssvårigheter, skolios. Viktigt kolla viktkurvan. 
-  * Vid CP: Dålig viktuppgång pga sväljningssvårigheter + det går åt mer energi till rörelser (pga spasticitet). Lm mot spasticitet: Baklofen, stesolid, botulinumtoxin i enstaka muskler
+  * **Kompl**: Höftledslux, kontrakturer, uppfödningssvårigheter, skolios. Viktigt kolla viktkurvan. 
+  * **Vid CP**: Dålig viktuppgång pga sväljningssvårigheter + det går åt mer energi till rörelser (pga spasticitet). Lm mot spasticitet: Baklofen, stesolid, botulinumtoxin i enstaka muskler
 
 
 
 ***Allmänt***
 
-![EmxfjrGhPO](./imgs/ped_sem_neuro_EmxfjrGhPO.png)
+<img src="./imgs/ped_sem_neuro_EmxfjrGhPO.png" alt="EmxfjrGhPO" style="zoom:33%;" />
 
 * **spastisk är 80% av alla CP**; idag kallas för unilateral, bilateral och tetraplegisk. 
   * Tetraplegisk: spastisk CP blir svaga i muskulaturen i bålen. Dessa barnen ofta framåtlutade och kan inte åhlla huvet uppe, behöver strap för att hålla huvet uppe

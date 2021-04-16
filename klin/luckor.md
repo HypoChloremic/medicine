@@ -21,3 +21,40 @@ beroende på hur akut detta är
 * kompressionerna enl abe var att man gav de 120 vid 15:2, vid neoHLR låtere som att man gör 90 kompressione per min, och 30 inblåsningar.
 * Det stämmer med 100-120 kompressioner per minut. det är intressant att detta inte gller för neobarn
 * Hur räknar man PEWS för varje timme. Verkar som att man skulle kontrollera ungen PEWSX12 alltså varannan timme. Eller är PEWS var 12e timme,. 
+
+
+* obesitas är ISO-BMI grejer
+
+* obstipation akuten: klyx sen omvärder bukstatus, sen movicol 3-6mån, livsstilsråd fiberrikt, mer fysiskt aktiva
+
+* Laktosintolerans'
+
+* akut handläggning på IBD
+
+* spädbarnskolik
+
+* Hepatit och pankreatit akut bild provtagnin
+
+* ITP behandlingstrappa
+
+* Helicobacter och järnbristanemi
+
+* Neutropeni + neutropen feber
+
+* Exanthem vid barnsjukdomarna: tredagar, femdagar, kawasaki, 
+
+* Milier: den som såg ut som mollusker
+
+* Erythema toxicum
+
+* Rubella och graviditet
+
+* HERPES
+
+* Tuberkulos, malaria, dengue, tularemi, rabies, covid-19
+
+!! * MIgrän med aura är en ABSOLUT kontraindikation för att behandlas med kombinerade preparat
+
+* REiterate gejer hotande förtidsbörd och pprom behandlingar. pprom man behandlar med steroider, erymax och under förlossnsing bensylpc iv. Man ger neuroprotektiva doser magnesiumsulfat också under förlossningen. MEd hotande förtidsbörd har man olika tecken som inkluderar pprom, tryckkänsla (nedåt), värkar som också finns i vila. Handläggningsmässigt för en hotande förtidsbörd är att man ebroende på graviditetsvecka väljer olika vårdnivåer och olika kompetensområden som behövs för att omhänderta och handlägga kvinnan och barnet efter förlossningen, med exempelvis beredda neonatologer etc. Tocolytica i form av bricanyl och ett annat preparat som man kunde använda (kommer ej på just nu.. )
+
+* Antalet ggr per dag som en unge ska äta, beroende på ålder

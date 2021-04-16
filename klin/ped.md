@@ -6367,9 +6367,21 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Degenerativa sjukdomar
+
+#### Allmänt
+
+#### Krabbes
+
+***Etiologi och patofysiologi***
+
+
+
+
+
 ### Kramper
 
-##### Allmänt
+#### Allmänt
 
 ***Presentation***
 
@@ -6435,14 +6447,128 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+***Allmänt***
+
+* SKILJ med juvenil absensepilepsi
+
+
+
+***Etiologi***
+
+* Framprovokation
+  * hyperventilation 2-3min
+
+
+
+***Kliniska kännetecken***
+
+* 4-12åå
+* multipla korta anfall (under 30s)
+* med utan ansiktsautomatismer
+* multipla absenser -> koncentrationsproblem, beteendeproblem
+
+
+
+***Utredning***
+
+* EEG
+  * generaliserad
+  * synkron 3hz spike wive
+  * bakgrunsaktivitet normal
+
+
+
+***Behandling***
+
+* Etosuximid
+
+
+
+#### Juvenil absensepilepsi
+
+***Kliniska kännetecken***
+
+* Ålder 5-20åå
+* korta absenser (under 30s)
+* med utan 
+  * ansiktsautoamtism
+  * generalserade tonisk-kloniska anfall,
+  * myoklona anfall
+  * absensstatus
+* barnets utv normal
+
+
+
+***Utredning och handläggning***
+
+* EEG
+  * episoder generaliserad 
+  * 3-4hz
+  * poly-spike-wave aktivitet
+  * bakgrundsaktivitet nromal
+
+
+
+***Behandling***
+
+* Förstahandsval valproat: teratogen, ges ej t flickor kvinnor efter pubertet. 
+  * hormonella bieffekter prepubertalt
+* Lamotrigin: flickor prepubertalt, kvinnor fertil ålder (postpubertalt)
+
 
 
 #### Benign barnepilepsi: Rolandisk
 
 ***Presentation***
 
-* Benign barnepilepsi - eller Rolandisk epilepsi - är en vanlig epilepsiform med god prognos. Vilken beskrivning stämmer bäst överens med diagnosen?
-  * Drabbar barn från 3-13 års ålder, anfall ofta nattetid, typiska centro temporala spikes och sharp-waves på EEG
+* Benign barnepilepsi - eller Rolandisk epilepsi - 
+  * är en vanlig epilepsiform med god prognos. Vilken beskrivning stämmer bäst överens med diagnosen?
+    * Drabbar barn från 3-13 års ålder, 
+    * anfall ofta nattetid, 
+    * typiska centro temporala spikes och 
+    * sharp-waves på EEG
+
+
+
+***Etiologi***
+
+
+
+***Kliniska kännetecken***
+
+* 3-13åå
+* nattligt
+* fokala anfall
+* ökad: salivering, gurglande ljud, 
+* parestesier
+* kloniska rykningar: munnen, ena ansiktshalvan
+* medvetande bevarat
+* generalisering, ovanligt
+
+
+
+***Utredning och handläggning***
+
+* EEG
+  * Sidoskiftande spikes and sharp-waves
+  * hög amplitud
+  * centralt, midtemporalt, samtidigt
+  * ffa under sömn
+  * bakgrundaktivitet normal
+
+
+
+***Behandling***
+
+* Lättbehandlad
+* Profylaktisk medicin;: 
+  * oxkarbezepin
+
+
+
+***Prognos***
+
+* God prognos: både med och utan profylaktisk medicin
 
 
 
@@ -6527,9 +6653,7 @@ En kort lista över kliniska manifestationer av CF:
   * diazepam rektalt: Ingen infart ger midazolam rektalt
   * 
 
-
-
-### West syndrome TODO
+#### West syndrome TODO
 
 ***Presentation***
 
@@ -6573,22 +6697,97 @@ En kort lista över kliniska manifestationer av CF:
   * Epilepsi, EEG, EP-aktivitet 
   * rätt: Infantil spasm, EEG, hypsarytmi 
 
+
+
 ***Diagnos***
 
 * Tre diagnoskriterier
-  * Hyxmönster + avstannad utveckling + infantila spasmer
+  * Hyxmönster + 
+  * !!! avstannad utveckling + 
+  * infantila spasmer
+
+
 
 ***Etiologi och patofysiologi***
+
+* Pyridoxin, b6, brist
+* TUberös skleros: vissa har detta
+  * genetisk sjd
+  * tumörliknande förändringar hjärnan
+  * kan ge upphov West syndrom
 
 ***Epidemiologi***
 
 ***Kliniska kännetecken***
 
+* 2-24månader
+* böjspasmer
+  * sekundlånga
+  * toniska
+  * midja, nacke, extremiteter
+* kommer kluster om 10-30
+* flera ggr per dygn
+* gråter efter
+* utveckling avstannar plötsligt: mental utv, social interaktionsförmåga
+  * avst
+
+
+
+***Differentaldiagnoser***
+
+* Tuberös skleros
+
+
+
 ***Utredning och handläggning***
+
+* AKUTEN direkt
+* omgående EEG, MR, inledning behandling
+* EEG: endast stöd i diagnos, annars kliniskt..
+  * kaotisk bild
+  * multifokal ögvolt spikes och slwo waves
+  * abnormt långsam bakgrundsaktivitet
+  * hypsarrytmi
+* MR: inte rutin vid åldersberoende genetisk epilepsi. rek framför DT. 
+  * oftast indicerat barn under 2åå
+  * enl seminarium
+    * 2-4v
+    * diffa tuberös skleros exmepelvis
+* Labb
+  * blodstatus
+  * urinstatus
+  * likvoranalys...
+  * utred B6 (pyridoxin) brist
+* Status
+  * Hudstatus: tuberös skleros, som går med West
+    * woods ljus, 
+    * ash-leaves med depigmentering
+    * makulöst inget upphöjt
+    * hudplansnivå
+  * remiss till hud för att titta pp huden och diffa tuberös skleros
+* Neurometabol screening
+* genetisk utredning
+
+
 
 ***Behandling***
 
+* Pyridoxinhydroklorid iv, under EEG övervak helst
+  * upprepas 1gg om utebliven effekt
+  * om EEG normalisering + anfallsfriht: fortsatt pyridoxinhydroklorid po 3dos.
+* överväg pyridoxal-5-fosfat
+* Föreligger tuberös skleros: 
+  * vigabatrin sabrilex po
+  * vid effekt o EEG, rek 6månader beh tid, lägsta effektiva dos.
+  * synacthen dpeot: om utebliben effekt
+* Okänd orsak:
+  * synacthen deptot im, varannan dag, 2v
+  * därefter uttrappning 2-4v
+  * otillräcklig effekt: vigabatrin
+  * alternativ synacthen är prednisolon. 
+  * 
 
+<img src="./imgs/sam_160421_fvPPMlHghv.png" alt="fvPPMlHghv" style="zoom:50%;" />
 
 
 
@@ -6793,6 +6992,8 @@ En kort lista över kliniska manifestationer av CF:
 
 
 ***Etiologi och patofysiologi***
+
+* SUTUTRER: kan ta upp t 2år för att fusera
 
 * CSF relaterat
 

@@ -1383,11 +1383,27 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+***Klassifikation***
+
+* Idiopatisk, spontan 50-60%
+* Fysikalisk urtikaria, 30-40%:
+  * kolinerg utlöst
+  * värme utlöt
+  * fysisk ansträng, emotionell stress, varmt bad, temperatur
+  * fördröjt utlöst (duration ofta i 24h)
+  * köld
+  * ovanlitg: vibrationer, solljus
+* Dermografism
+* Allergisk eller icke allergisk
+
+
+
 ***Utredning***
 
 * Anamnes
 * pricktest
 * recidivierande svårt angiödem, misstänk: HAE, C1-INH
+* Kronisk urtikraria om kvarstår över 6v: utredning enl PM, remiss BUMM
 
 
 
@@ -1733,6 +1749,32 @@ Enligt ABCDE
 
 
 
+### Blöjdermatit
+
+***Epidemiologi***
+
+* Vanligt
+
+
+
+***Kännetecken***
+
+* Rodnade hud
+* vätskande hud
+* blöjregionen
+
+
+
+***Behandling***
+
+* LUFTA
+* skyddande salva: inotyol el silion
+* om svampmisstanke: cortimykkräm
+* Om bakteriell misstanke: heracillin, cefdroxil
+  * bakterieodling innan
+
+
+
 ### Bullös Impetigo
 
 
@@ -1821,6 +1863,41 @@ Enligt ABCDE
 
 
 
+### Erythema toxicum
+
+***Etiologi***
+
+* Ofarligt
+* Ej infekterde!
+
+
+
+
+
+***Epidemiologi***
+
+* 50% alla nyfödda
+
+
+
+***Kännetecken***
+
+* 2-10mm rodnader
+* centralt i en del 1-2mm stora vätskeyllda knottror
+* KAn flytta på sig
+
+
+
+***Differentialdiagnos***
+
+* Herpesblåsor
+
+
+
+<img src="./imgs/sam_170421_O2yGsLfWWL.png" alt="O2yGsLfWWL" style="zoom:50%;" />
+
+
+
 ### Exantem
 
 ***Definition***
@@ -1894,13 +1971,13 @@ Enligt ABCDE
 
 
 
-***Kliniska kännetecken***
+***Etiologi***
 
 * Kongenitalt: medfött, melanocytärt involverar melanocyter, nevus att det är en leverfläck
 
 
 
-***Etiologi och Patofysiologi***
+***Kännetecken***
 
 * **mindre 1.5cm**: Inte stor risk för malignitet som man tidigare ansåg, ffa inte små förändringar
 * **stora märken större 20cm diamter**: större risk för malignitet
@@ -1914,6 +1991,8 @@ Enligt ABCDE
 * Dokumentera i journalen
 * ta en bild
 * be pat att säga till om han märker ngt avvikande med märket över tid, om den förändras etc.
+* Försvinner 4-7åå
+* misstolkas som hematom, barnmisshandel
 
 
 
@@ -1953,6 +2032,33 @@ Enligt ABCDE
 * Spontan regress
 
 
+
+
+
+### Milier
+
+
+
+***Etiologi***
+
+* Tillfälligt stopp talgkörtlar
+
+
+
+***Kännetecken***
+
+* Ofarligt
+* försvinner inom ngra veckor
+
+
+
+***Behandling***
+
+* INTE KLÄMMA
+
+
+
+<img src="./imgs/sam_170421_BKj0JuoaHG.png" alt="BKj0JuoaHG" style="zoom:50%;" />
 
 
 
@@ -2672,6 +2778,23 @@ Enligt ABCDE
 
 
 ### Blod kräk bajs
+
+
+
+***Etiologi***
+
+* Spädbarn, blodig avföring
+  * Nedsvalt blod
+  * analfissur
+  * komjölkproteinallergi
+  * invagination
+  * meckels divertikel
+  * infektion
+  * blödningsrubbning
+  * IBD
+  * NEC
+
+
 
 ***Utredning och handläggning. enl FL***
 
@@ -3710,6 +3833,21 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+### Kräkningar
+
+***Differentialdiagnoser***
+
+* Överskottskräkningar
+* Infektion
+* Pylorusstenos
+* Ileus
+* Leversjd
+* Gallvägssjd
+* Komjölkproteinallergi
+* GER
+
+
+
 ### Lever
 
 ***Take-home***
@@ -3868,13 +4006,13 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * dyrt med speciallivsmedel, så efter 1 månad att man provocerar för att säkerställa
 * Amning: oklart om moderns diet påverkar. 
   * mängd komjölksprotein övergår bröstmjölk handlar om MIKROGRAM PER LITER
+* probiotika, sempers magdroppar.. enl FL...
 * GE inte
   * Dimetikon: placeboeffekt
   * Dicylkloverinklorid: möjglen effekt, inget reg lkm, bör undvikas pga allvarliga biverkningar
   * akupunktur
   * kirpraktin
   * vaggning ingen påvisad effekt
-  * 
 
 
 
@@ -4121,6 +4259,25 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 <img src="./imgs/ped_sam_090421_hqUYQ7QMRV.png" alt="hqUYQ7QMRV" style="zoom:50%;" />
 
 
+
+#### Höstblåsor, Hand-foot-Mouthdisease
+
+***Presentation***
+
+* Elin 3åå: temp 38.5. Blåsor händer, fötter, i o kring munnen. Vill inte äta, oroliga. 
+
+
+
+***Kännetecken***
+
+* Feber
+* Blåsor
+
+
+
+
+
+<img src="./imgs/sam_170421_6NtKnVZL8Z.png" alt="6NtKnVZL8Z" style="zoom:50%;" />
 
 #### Kawasaki
 
@@ -5054,6 +5211,38 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ### Virusinfektioner
 
+#### Herpesinfektion
+
+
+
+
+
+***Etiologi***
+
+* Mkt hög smittsamhet vid förlossning + primär genital herpesinfektion hos mor
+
+
+
+***Kännetecken***
+
+* Blåsor
+* Locales: e.g. hjässan, pannan
+
+
+
+***Utredning och handläggnign***
+
+* Snabb handläggning
+* Remittera in AKUT: om <3mån + nya blåsor
+
+
+
+***Behandling***
+
+* Aciklovir, frikostigt
+
+<img src="./imgs/sam_170421_NEwLWEp4Zu.png" alt="NEwLWEp4Zu" style="zoom:50%;" />
+
 #### Rubella
 
 ***Presentation***
@@ -5232,6 +5421,8 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
     * Vattkoppor, varicella zoster
   * Inkubationstid
     * 14-16d
+* Oscar, 2åå
+  * feber 38.3 sedan 4d. Hudutslag med både små prickar, blåsor och mer intorkade krustor. kliar.
 
 
 
@@ -5244,7 +5435,9 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Etiologi och patofysiologi***
 
-* Inkbuationstid: 
+* Inkbuationstid: 14-16d
+* Smittar ca 2-3d, innan blåsor bryter fram t att kopporna torkat
+* Luftburen: enl abe
 
 
 
@@ -5260,12 +5453,6 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-<img src="./imgs/gyn_sam_210321_a7DwiHXnQ9.png" alt="a7DwiHXnQ9" style="zoom:50%;" />
-
-
-
-
-
 ***Komplikationer***
 
 * **sekundär bakteriell infektion**: staffar, GAS, eller andra. kan leda t komplikationer som toxisk chock syndrmo eller nekrotiserande fasciit. 
@@ -5278,6 +5465,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 * **Encefalit** är ovanligare, men mer allvarligt. 
 * Vuxna kan få **arteritförändringar i CNS-kärl** i samband med vattkoppor med stroke som följd. 
 * **Perinatal varicella** är allvarlig om modern insjuknar under tiden 5 dagar före till 2 dagar efter förlossning. Om modern insjuknar tidigare u
+* **Cerebellit**: 1:2k barn; ataxi, bredspårig gång, nystagmus. debut inom ca 2v. läker på 2v.
 
 
 
@@ -5292,11 +5480,17 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-<img src="./imgs/ped_sum_VSDw7mUru0.png" alt="VSDw7mUru0" style="zoom:50%;" />
+| <img src="./imgs/ped_sum_VSDw7mUru0.png" alt="VSDw7mUru0" style="zoom:50%;" /> | <img src="./imgs/ped_sum_G9CuAqFwci.png" alt="G9CuAqFwci" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_210321_a7DwiHXnQ9.png" alt="a7DwiHXnQ9" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/sam_170421_8wbhMumlsl.png" alt="8wbhMumlsl" style="zoom:50%;" /> |                                                              |                                                              |
 
 
 
-<img src="./imgs/ped_sum_G9CuAqFwci.png" alt="G9CuAqFwci" style="zoom:50%;" />
+
+
+
+
+
 
 
 
@@ -5782,6 +5976,16 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 * **Labb**: 
   * **Blodstatus + diff:** essentiell del i utredningen
   * **leverstatus + njurstatus:** evaluera status av viktiga organ, då möjligt med härdar i respektive organ eller att njurarna tar skada av tumörsjukdomen. 
+
+
+
+### Neutropen feber
+
+
+
+
+
+
 
 ### Petekier
 
@@ -7670,6 +7874,26 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Skrikighet
+
+***Differentialdiagnoser***
+
+* infektion
+  * otit
+  * UVI
+  * meningit
+* Kirurgiskt
+  * Invagination
+  * malrotation
+  * testistorsion
+  * inklämt bråck
+* Vanligt + ofarligt
+  * kolik
+  * förstoppning
+  * hungrig, mätt
+
+
+
 ## Neurologi
 
 ### Ataxia telangectesia
@@ -8878,7 +9102,39 @@ En kort lista över kliniska manifestationer av CF:
 
 #### Kefalhematom
 
+***Etiologi***
+
+* Self-limiting
+* UNDER PERIOSTIET på skallbenet: detta föranleder respekten för Suturgränserna
+
+
+
+***Kännetecken***
+
+* Respekterar suturgränserna: 
+
+
+
+| <img src="./imgs/sam_170421_wUjy0degqz.png" alt="wUjy0degqz" style="zoom:50%;" /> | <img src="./imgs/sam_170421_wjXoavKju5.png" alt="wjXoavKju5" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
+
+
 #### Subgalealt hematom
+
+
+
+***Kännetecken***
+
+* Ingen respekt suturgränser
+* kan ge ANEMI + CHOCK!! 
+
+<img src="./imgs/sam_170421_Ml0IteezSK.png" alt="Ml0IteezSK" style="zoom:50%;" />
+
+
 
 #### Klavikelfraktur
 
@@ -8898,7 +9154,21 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Mekonium
 
+***Etiologi***
+
+* Innehåller gallfärgämnen,
+* därav färgen
+* sterilt
+
+
+
+***Kännetecken***
+
+* Första avföringen (Beck)
+* ska ske inom 24-48h
+* normal senapsgul avförings efter 2-4d
 
 ### Neo-HLR
 
@@ -9062,6 +9332,24 @@ En kort lista över kliniska manifestationer av CF:
   * drbbas oftast av enkomplikation nyföddhetsperioden  med kliniska symptom. VIlken störning och hur fastställs med enkelt prov
     * hypoglykemi
     * Glukos
+
+
+
+### Urat i blöja
+
+***Kännetecken***
+
+* ser rött ut i blöjan
+* Det är URAT KRISTALLER
+* Tegelröd utfällning
+* ses vid några miktionstillfällen i samband med diuresen kmr igg, 
+* samt vid vätskebrist
+
+
+
+***Utredning***
+
+* U-sticka: erytrocyter är negativa
 
 
 
@@ -10409,6 +10697,10 @@ Ataxic cerebral palsy is due to [...] damage.
 * Na ≥ 150 mmol/L. 
 * Svår hypernatremi: ≥ 170 mmol/l
 
+
+
+
+
 ***Typfallet uppkommer***
 
 * ej färdigutvecklad  njurfunktion –d v s patienter  <1 år
@@ -10429,25 +10721,37 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
+***Behandling***
+
+
+
+<img src="./imgs/sam_170421_j6nnkch9Eb.png" alt="j6nnkch9Eb" style="zoom:50%;"/>
 
 
 
 
-### fall - vätskebehov
+
+#### Hypoton dehydrering
+
+
+
+
+
+### Fall - vätskebehov
 
 #### Alex 9kg  
 
-* ***Undet det akuta skedet***: Ringer-Acetat, iv bolus, 180mL (20mL/kg)
-* Under de nämaste timmarna: Ringer-acetat iv, 450mL/4h
-* Under det kommand dygnet: plasmalyte glukos, iv, 100mL x 9 = 900mL/24h
+* **Undet det akuta skedet**: Ringer-Acetat, iv bolus, 180mL (20mL/kg)
+* **Under de nämaste timmarna**: Ringer-acetat iv, 450mL/4h
+* **Under det kommand dygnet**: Plasmalyte glukos, iv, 100mL x 9 = 900mL/24h
 
 
 
 #### Miriam 5kg
 
-* Undet det akuta skedet: behöver ingen bolus...
-* Under de nämaste timmarna: sond ORS, 250mL/4h
-* Under det kommand dygnet: sond, bröstmjölk, ersättning: 150mL x 5 = 750mL/24h
+* **Undet det akuta skedet**: behöver ingen bolus...
+* **Under de nämaste timmarna**: sond ORS, 250mL/4h
+* **Under det kommand dygnet**: sond, bröstmjölk, ersättning: 150mL x 5 = 750mL/24h
 
 
 

@@ -58,3 +58,7 @@ beroende på hur akut detta är
 * REiterate gejer hotande förtidsbörd och pprom behandlingar. pprom man behandlar med steroider, erymax och under förlossnsing bensylpc iv. Man ger neuroprotektiva doser magnesiumsulfat också under förlossningen. MEd hotande förtidsbörd har man olika tecken som inkluderar pprom, tryckkänsla (nedåt), värkar som också finns i vila. Handläggningsmässigt för en hotande förtidsbörd är att man ebroende på graviditetsvecka väljer olika vårdnivåer och olika kompetensområden som behövs för att omhänderta och handlägga kvinnan och barnet efter förlossningen, med exempelvis beredda neonatologer etc. Tocolytica i form av bricanyl och ett annat preparat som man kunde använda (kommer ej på just nu.. )
 
 * Antalet ggr per dag som en unge ska äta, beroende på ålder
+
+* FÖreläsningar adnra säten som abbe nämnde osm täckte oliaka skit
+
+* HbF och RBC nedbrytning trigger av lägre syretryck, varpå man 

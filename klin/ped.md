@@ -204,6 +204,76 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
       * 3 st obstruktiva episoder innan 2 års ålder (tror dock nya definitionen är 3 år). 
       * 1:a obstruktiva episoden och anamnes på hereditet, födämnesallergi, atopiskt eksem.
       * 1:a obstruktiva episoden efter 2 års ålder
+      * blfallergilung.se/riktlinjer
+
+
+
+***Allmänt***
+
+* Astmatiska besvär
+  * Under 3åå: obstrktiv bronktiv; DOCK man kallar det astma om barnet haft besvär 3e ggen eller associerad med allergi
+  * Fr 3åå: astma, förkulningsastma, ansträningsastma, allergisk astma
+
+
+
+***Etiologi***
+
+* Allergisk överkänslighet
+  * Icke IgE-medierad
+  * IgE-medierad
+    * Icke-atopisk
+      * Bi, geting
+      * Läkemedel: penicillin, muskelrelaxantia
+      * Annat
+    * Atopisk
+* Progressivt högre IgE-koncentration, försvårande symptom: över tid att IgE koncentrationer ökar, detta relateras med progressivt svårare symptom
+* Mastcellsaktivering, och degranulering: Astam, snva, urtikaria
+
+
+
+***Epidemiologi***
+
+* 30-40% ngn form av allergi
+* Hösnyva: 40% får astma
+* Astma: 25% medelsvår, 10% svår
+* Eksem: 25% komb med födoämnesallergi
+* Födoämnesallergi
+
+
+
+***Utredning***
+
+* Pricktest
+* Blodtester
+  * Immunocap: IgE spec analus
+  * Phadiatrop
+  * CD-sens
+  * ISAC
+
+
+
+***Behandling***
+
+* Tabletter
+  * Antihistmain: H1
+  * Antileukotrien: CysLT1
+  * Kortison: predni
+* Nässpray
+  * Antihistamin
+  * Lodual: mastcellsstabilisering
+  * Nedokromil
+  * Kortison
+* Ögoondroppar
+  * mastcellsstabiliserande
+  * antihistamin
+
+
+
+| <img src="./imgs/sam_170421_b0KpNjL4XW.png" alt="b0KpNjL4XW" style="zoom:50%;" /> | <img src="./imgs/sam_170421_Zhq3q5UYa1.png" alt="Zhq3q5UYa1" style="zoom:50%;" /> | <img src="./imgs/sam_170421_kWl15jYnyf.png" alt="kWl15jYnyf" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/sam_170421_m9npn0xNtE.png" alt="m9npn0xNtE" style="zoom:50%;" /> |                                                              |                                                              |
+
+
 
 ### Akuta allergiska reaktioner
 
@@ -300,6 +370,10 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ### Astma 
 
+
+
+#### Allmänt
+
 ***Presentation***
 
 * ***8 månaders flicka*** 
@@ -307,13 +381,16 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Hon är rosslig och hostig, har jobbigt att andas och föräldrarna har noterat att det stundom piper ur luftvägarna när hon andas. 
     * Hennes temp är 39.4. 1.
     * **Diffar**: pneumoni, bronkioloit, krupp, förkylningsastma, infektionsastma
+    
 * ***4 år gammal flicka*** 
     * som söker för andra gången med andningsbesvär i samband med en förkylning, i övrigt frisk. 
     * Hon har 37.8 i temp, har indragningar, ökad  andningsfrekvens och en saturation på 95%. 
     * Hon hostar mycket ffa nattetid nu när hon är förkyld och har då svårt att sova. 
     * Vid lungauskultation noteras ronki basalt bilateralt.
     * ***svar: förkylningsastma, rhinovirus, ventoline och syrgas.***
-* Mustafa, 18 månader gammal, 
+    
+* **Mustafa, 18 månader gammal,** 
+    
     * inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft
         * ***Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva 	episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)***
         * ***Initial behandling på akuten:*** 
@@ -327,17 +404,20 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
             * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
             * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
         * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
+    
 * **4 år gammal flicka**
     *  som söker för andra gången med andningsbesvär i samband med en förkylning, i övrigt frisk. Hon har 37,8 i temp, har indragningar, ökad andningsfrekvens och en saturation på 95%. Hon hostar mycket ffa nattetid nu när hon är förkyld och har då svårt att sova. Vid lungauskultation noteras ronki basalt bilateralt. 2 p
     * Diagnos: förkylningstma, men hon har diagnosen astma per definition, då över 2å + förkyld med obstruktivitet
     * agens: virus, ofta rhinovirus
     * Behandling: ventoline, inhalation, NaCl om slem, syras under 92%.
+    
 * **Hur definieras begreppet ¨astma¨ hos ett barn som är < 2år** 
     * Första obstruktiva episoden i samband med förkylning 
     * Första obstruktiva episoden utan förkylning samt att barnet har eksem och/eller astma 
     * Första obstruktiva episoden som utlöses av ett allergen 
     * rätt: ≥3 obstruktiva episoder, eller första obstruktiva episoden om barnet har eksem eller födoämnesallergi 
     * Tredje obstruktiva episoden utan förkylning 
+    
 * **Gustaf, 8 år, kommer till barnmottagningen på grund av att han inte orkar lika mycket som de jämnåriga klasskamraterna, speciellt i gymnastiken och fotbollen. Han måste stanna och vila när de andra kompisarna bara fortsätter att springa. Han har tidigare varit väsentligen frisk men hade komjölksproteinallergi och eksem som spädbarn. Han växer normalt och har inga skolsvårigheter. I status på mottagningen finner du inget avvikande. Du misstänker en diagnos och vill beställa en undersökning för att säkerställa den.** 
     * Vilken sjukdom
         * Astma
@@ -346,51 +426,96 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Undersökningen bekräftar din hypotes
     * Hur behandlar du då tillståndet
         * Initialt SABA, kortverkande B2-agonist vid behov
-
-
-
-***Epidemiologi***
-
-* **Ålder**: svårt att diagnosticera yngre än 3år. 
-* Hälften av alla barn har pipande andning första 3 åren av sina liv.
-
-
-
-***Etiologi patofysiologi***
-
-* ***barn med PBD bronchopulmonell dysplasi,***: att man har fått syragas upp t 36v har högre benägenhet för obstruktivitet och problem med luftvägsinfektioner med obstruktivitet under denna period.
-* ***Allergi***, viktig komponent astma
-* ***IgE-antikroppar, aeroallergener***: påverkade barn har ofta IgE-antikroppar mot aeoroallergener
-* ***Aeroallergener***: house-dust mite, trä, gräs, weed pollens; mögel; animal dander (shedding fr animals) 
-* ***Tre olika former av ronki***
-  * ***Viral episodisk ronki***: ronki endast som svar till virala infektioner
-  * ***“Multiple trigger ronki”:*** som svar på multipla triggers, som är sannolikt att bli astma
-* astma
-
-
-
-***Genetik,***
+    
+    
 
 
 
 ***Diagnos***
 
-* ***Astma diagnos 3 punkter***:  
-  * ***Efter 3 obstruktiva episoder < 2åå***:
-    * så kallas de för astma 
-    * annars är de ***akut bronkit***  
-  * ***1a obstruktiva episoden och andra tecken på allergi  <2åå (oberoende på ålder hade jag skivit fr seminarium)***: 
-    * som eksem eller födoämnesallergi 
-    * så säger vi att barnet har astma 
-  * ***1a obstruktiva episoden i samband med förkylning > 2 åå (förra riktlinjen är 2 år)*** 
-    * så säger vi att barnet har astma !
-    * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen av denna
-* **barn under 3år har så pass reaktiva luftvägar att de får obstruktiva besvär** 
+* Baserat på sjukhistoria
+  * ***Astma diagnos 3 punkter***:  
+    * ***Efter 3 obstruktiva episoder < 2åå***:
+      * så kallas de för astma 
+      * annars är de ***akut bronkit***  
+    * ***1a obstruktiva episoden och andra tecken på allergi  <2åå (oberoende på ålder hade jag skivit fr seminarium)***: 
+      * som eksem eller födoämnesallergi 
+      * så säger vi att barnet har astma 
+    * ***1a obstruktiva episoden i samband med förkylning > 2 åå (förra riktlinjen är 2 år)*** 
+      * så säger vi att barnet har astma !
+      * I detta fallet är barnet snart 2åå, varpå han ej får diagnosen av denna
+* Hos barn äldre 5-6åå, bekräfta diagnos med objektiva fynd
+  * **Spirometri**
+    * **Reversiblel bronkobstruktion** + ökning FEV1>12% av predicerat värde
+    * **Steroidbehandling**: 
+      * ökning FEV1 >12%, antingen efter 1-2mån med ICS, 
+      * eller 2-3v steroid po, predni; nedtrappas om >2v beh tid
+    * **Provokationstest**
+      * Oklara fall
+      * Bronkiell hyperreaktivitet
+      * Ansträngningsprovokation
+      * Torrluftsprovokation
+      * histamin
+      * metakolin
+      * mannitol
+  * **PEF-variabilitet**: >13% medelvärde, för en vecka av högsta lägta medelvärde per dag
 * **<u>Socialstyrelsen och PM</u>**
   * Enstaka episoder av infektionsutlöst obstruktivitet hos barn under två års ålder är mycket vanligt och definieras som obstruktiv bronkit. 
     * **Under 2år**: för att tillståndet ska definieras som infektionsastma hos barn under 2 år ska de ha haft minst tre återkommande episoder. 
     * **undantag om allergi etc:** Undantag gäller för barn med samtidigt konstaterad IgE-allergi, atopiskt eksem eller astma hos föräldrar/syskon – då definieras det som infektionsastma redan vid deras första obstruktiva attack. 
   * **Över 2 år, 1 episod**: Hos alla barn äldre än två år räcker det med en infektionsutlöst episod för att ställa diagnos infektionsastma.
+
+
+
+***Etiologi patofysiologi***
+
+* ***Indelning***
+  * **Allergisk astma**: positivt pricktest, specifik IgE (RAST); Eosinofiler eller 0-eosinofiler (att det är mer neutrofiler...)
+    * Pollen
+    * pälsdjur
+    * kvalster
+    * mögel
+  * **icke-allergisk astma**: Neg pricktest, blodprov; NEITROFILER
+    * !!! Infektioner: viralt utlösta, förkylningsastma exempelvis (aka viral wheeze eller bronchiolitis)
+    * Kall luft
+    * ansträngning
+    * luftburna partiklar
+    * rök, gas, dofter
+* **barn med PBD bronchopulmonell dysplasi,**: att man har fått syragas upp t 36v har högre benägenhet för obstruktivitet och problem med luftvägsinfektioner med obstruktivitet under denna period.
+* **IgE-antikroppar, aeroallergener**: påverkade barn har ofta IgE-antikroppar mot aeoroallergener
+* **Aeroallergener**: house-dust mite, trä, gräs, weed pollens; mögel; animal dander (shedding fr animals) 
+
+
+
+***Ronki***
+
+* **Tre olika former av ronki**
+  * **Viral episodisk ronki**: ronki endast som svar till virala infektioner
+  * **“Multiple trigger ronki”:** som svar på multipla triggers, som är sannolikt att bli astma
+
+
+
+***Epidemiologi***
+
+* Transient early Ronki
+* Icke-atopiska ronki
+* IgE-associerade ronki / astma
+* småbarn: 20% väser ngn gg
+* över 50% besvärsfria förskoleålder
+* 75% besvärsfria skolålder
+
+
+
+***Riskfaktorer***
+
+* Nedsatt lungfunktione
+  * BPD: bronkopulmonell dysplasi
+  * !! Prematuritet
+  * Besvärliga NLI som liten: nedre luftvägsinfektioner som liten
+  * rökexponering, som liten
+  * allergisk sensitisering
+
+
 
 
 
@@ -411,30 +536,43 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * intervall symptom, symptom mellan akuta exacerbationer
 * atopi i familjen eller att barnet har det
 * astma terapi, positiv terapt
-* ***Atopiska marschen***: atopiskt eksem, komjölksallergi, astma, sedan hösnuva
+* ***Atopiska marschen***: 
+  * atopiskt eksem, 
+  * komjölksallergi, 
+  * astma, 
+  * sedan hösnuva
 
 
 
 ***Differentialdiagnoser,***
 
-* ***Pneumoni***: samma andningsbesvär som i det första patientfallet, men att det finns en infektionshärd i lungorna.
-* ***Bronkiolit***: RS-fall, RS-bronkioliter. Tes sig också sig på detta sättet, låter annorlunda vid auskultation, inte så hög feber, yngre patienter...
-* ***Krupp***
-* ***Cystisk fibros, bronchiectasi***: finger clubbing, våt hosta, sputum produktion, dålig tillväxt, 
+* **Pneumoni**: samma andningsbesvär som i det första patientfallet, men att det finns en infektionshärd i lungorna.
+* **Bronkiolit**: RS-fall, RS-bronkioliter. Tes sig också sig på detta sättet, låter annorlunda vid auskultation, inte så hög feber, yngre patienter...
+* **Krupp**
+* !!! **Cystisk fibros, bronchiectasi**: finger clubbing, våt hosta, sputum produktion, dålig tillväxt, 
+* **Främmande kropp**
+* **Stämbandsdysfunktion**
+* **Sensorisk hyperrekativitet**
+* **Hjärtfel**
+* **Kärlring, andra kärlanomalier**: komprimerar trakea eller bronker
+* **Malaci**
+* **Stenos**
+* **missbildningar** trakea, bronker
+* **Kroniska infektioner**: CF, ciliedefekt, immunbrist
+* **Postinfektions lungskada**: obliterativ bronkit, fokalt emfysem som resttillstånd
+* **BPD**: bronkopulmonell dysplasi
 
 
-
-***Naturalförlopp,***
 
 
 
 ***Utredningsgång***
 
+* **Lyft på tröjan för att titta på andningsmönster**
 * ***Polikliniskt***
   * PEF
   * Spirometri
   * ansträngnings-spirometri
-
 * ***Anamnes***
   * tIdigare andningsbesvär, hereditet, atopisk eksem, födoämnesallerig, 
   * ***prematuritet? Neonatalperiod?:*** större benägenhet av denna andningsbesvär vid infektioner med obstuktivitet, med indragningar och pip i bröstet.
@@ -444,10 +582,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * påverkas sport och generell aktivitet
   * hur svåra är intervall symptomen mellan exacerbationer
   * hur mkt skola har man skippat pga astma. 
-* ***Undersökningar***
-
-  * Akut undersökning
-  * Andningsfrekvens, bukandning, näsvingspel, 
+  * Hosta på nätterna: starkt tecken för obstruktivitet
+* ***Status***
+* Andningsfrekvens, bukandning, näsvingspel, 
   * Interkostala indragningar: lågt sittande hinder
   * Jugulära indragningar: högt sittande hinder. 
   * Sibilanta ronki: klassiskt på utandningen
@@ -455,8 +592,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Titta övre luftvägarna också 
   * Hosta: torr, blöt rossling, skällande
   * Torr hosta: obstruktiva barn har som regel torr hosta.
-  * Hosta på nätterna: starkt tecken för obstruktivitet
-  * Kroppsållning:, hyperinflaterad
+  * Kroppshållning:, hyperinflaterad
   * Saturation
   * Feber
   * Tecken obstrktivitet: 
@@ -465,6 +601,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Trötta patienter
   * Dehydrerade patienter
   * Saturation som sjunker
+  * **BImanuell kompression**: att man på de mindre barnen auskulturerar och på utandningen trycker för att få ut mer luft och lyssna.
 * ***Radiologi:***     
 * ***Röntgen***: föreligger det hyperinflation, fråga efter hyperinflation*
 * ***Spirometri***
@@ -474,34 +611,61 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Behandling***
 
+* Spacer: måste användas på de mindre barnen, för att man ska kunna andas in korrekt. Detta har aman optichamber smo e vanlig
 * ***Akut skede***
   * **Inhalation beta2-agonister**: Detta för barn ***över 6 månader***, för att dilatera bronkerna. 
     * Ventoline, aka eller salbutamol
     * Ventoline är bronkvidgande och astmamedicine
     * adrenalin är slemhinneavsvällande, och man generellt ska tänka att barn 0-6 månader har framförallt har problem med slemhinnesvullnad.
     * barn över 6 månadero ch garanterat över 1år har den astmatiska komponenten.
-  * ***Börja med atrovent***
+  * !!! ***Börja med Antikolinergikum***: Detta är en akut behandlign
+    * Atrovent
     * det är ipratropium
     * antikolinergika
+  * // **Leukotrienantagonister till de yngsta barnen**:
+    * på de yngsta är det INTE eosinofil inflammation som dominerar
+    * Neutrofil inflammation dominerar hos de yngsta
+    * därför hjälper leukotrienantagonister
   * ***Steroider:*** nästa steg för att jobba mot inflammationen
     * ***kan ta det peroralt, betapred tabletter lösa upp i vatten och mata med en spruta***
   * ***NaCl inhalation***: ofta inhalera koksalt för att lätta upp slemmet
   * ***Uppvätskning***
   * ***Magnesiumsulfat iv (?):*** oftast att detta sker på ivA? 
+* **Underhållsbehandlingar**
+  * Inhalationssteroider / LTA
+  * Långverkande beta2 / LTA
+  * biologiska lkm: anti-IgE, anti-IL5, anti-IL4/13
+* !! Angående steroider: nedreglerar EOSINOFIL INFLAMMATION men kan INTE NEDREGLERA NEOTRIFL + NEITROFILASSOCIERADE CYTOKINER
 
 
 
-<img src="./imgs/ped_sum_rZbcGneAUQ.png" alt="rZbcGneAUQ" style="zoom:50%;" />
 
 
 
-<img src="./imgs/ped_sum_VaEvlMb9IA.png" alt="VaEvlMb9IA" style="zoom:50%;" />
-
-| <img src="./imgs/ped_sam_110421_gcy6VqAoXG.png" alt="gcy6VqAoXG" style="zoom: 80%;" /> | <img src="./imgs/ped_sam_110421_iQj5b5OOYo.png" alt="iQj5b5OOYo" style="zoom:50%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
 
 
+
+| <img src="./imgs/ped_sam_110421_gcy6VqAoXG.png" alt="gcy6VqAoXG" style="zoom: 50%;" /> | <img src="./imgs/ped_sam_110421_iQj5b5OOYo.png" alt="iQj5b5OOYo" style="zoom:50%;" /> | <img src="./imgs/sam_170421_H869eIhENv.png" alt="H869eIhENv" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/ped_sum_rZbcGneAUQ.png" alt="rZbcGneAUQ" style="zoom:50%;" /> | <img src="./imgs/ped_sum_VaEvlMb9IA.png" alt="VaEvlMb9IA" style="zoom:50%;" /> | <img src="./imgs/sam_170421_qweFCqkLzA.png" alt="qweFCqkLzA" style="zoom:50%;" /> |
+
+
+
+#### Spirometri
+
+***Metodik***
+
+* Reversibilitetstest
+  * Beta2-agonist
+  * Steroid
+* PEF-variabilitet
+* Provokationstest
+  * Metakolin
+  * Mannitol
+
+
+
+***Astmadiagnos***
 
 
 
@@ -539,6 +703,10 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * hösnuva
 
 
+
+
+
+<img src="./imgs/sam_170421_FbZulbS70a.png" alt="FbZulbS70a" style="zoom:50%;" />
 
 ### Atopisk dermatit
 
@@ -615,7 +783,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * !!! **Matilda 11 år söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat 2kg i vikt senaste tre månaderna, information om längdutvecklingen är i stort sett oförändrad. Hon känner sig orolig och har svårt att koncentrera sig. Av och till har hon ont i magen. Har lite sämre aptit sista halvåret. Inga kräkningar. Har ibland lösa avföringar. Förnekar utlandsresor senaste året. Nämn två kliniskt mycket relevanta differentialdiagnoser samt för var och en av dessa ett prov eller en undersökning som hjälper dig närmare just den diagnosen. 2p** 
   * Celiaki: transglutaminasantikroppar
   * !!! HYperthyroidism: TSH
-* **En 13-årig flicka söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat tre kilo i vikt sedan hon senast vägde sig för några månader sedan men man kan ej se att hon fallit av på längskurvan. Hon känner sig orolig och har svårt att koncentrera sig. Av och till haft ont i magen. Sämre aptit det senaste halvåret. Förnekar kräkningar. Har ibland lösa avföringar. Nämn tre kliniskt relevanta differentialdiagnoser samt för var och en ett prov eller en undersökning som skulle kunna stöda just den misstanken. (3p)** 
+* !!! **En 13-årig flicka söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat tre kilo i vikt sedan hon senast vägde sig för några månader sedan men man kan ej se att hon fallit av på längskurvan. Hon känner sig orolig och har svårt att koncentrera sig. Av och till haft ont i magen. Sämre aptit det senaste halvåret. Förnekar kräkningar. Har ibland lösa avföringar. Nämn tre kliniskt relevanta differentialdiagnoser samt för var och en ett prov eller en undersökning som skulle kunna stöda just den misstanken. (3p)** 
   * IBD: F-kalprotektin
   * Gluteintolerans: transglutaminasantikroppar
   * Hyperthyreos: TSH
@@ -628,7 +796,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * diarre
   * bristande tillväxt
   * käknignar
-  * 
 
 
 
@@ -690,20 +857,92 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-***Etiologi och patofysiologi***
+***Allergener***
 
-* Spädbarn: mjölk, ägg
-* förskolebarn: nötter, jordnötter
+* Patientgrupp
+  * Spädbarn (/småbarn enl SÖS FL): 
+    * mjölk, 
+    * ägg
+  * Förskolebarn: 
+    * nötter, 
+    * jordnötter
+  * Tonåringar
+    * Nötter
+    * Jordnötter
+    * Parabjörkallergi OAS (oral allergi syndrom)
+  * Vuxna: 
+    * jordnötter,
+    * trädnötter,
+    * fisk,
+    * skaldjur,
+    * biogena aminer
+* Biogena aminer
+  * livsmedel
+  * lagrade produkter
+  * höga bioamin nivåe
+    * histamin
+    * tyuramint
+    * tryptamin
+    * Setotonin
+    * fenyletylamin
+    * inlagd sill, tomater, jorgubbar, skaldjur, västerbottenost, makrill, torkad skinka, salami, tonfisk
 * över 90% barn
-  * Mjölk, ägg, nötter, jordnötter, soja, vete
-* Kan förvärra: 
-  * atopisk dermatit (atopiskt eksem?): förutsatt barnet har atopi och den atopiska marschen
+  * Mjölk, 
+  * ägg, 
+  * nötter, 
+  * jordnötter, 
+  * parabjörkallergi
+  * (soja, vete; inte dessa enl SÖS FL, men abbe)
+
+
+
+***Etiologi***
+
+* Kan förvärra atopisk dermatit (atopiskt eksem?): förutsatt barnet har atopi och den atopiska marschen
+* **Immunologisk reaktion**
+  * igE medierat, e.g. anafylaxi
+    * nöter
+    * pollenrelaterad oral allergi syndrom, OAS
+  * Icke IgE-medierat
+    * Celiaki
+* **Icke-immunologiska reaktioner**
+  * Enzymatisk
+    * laktosintolerans
+    * biogena aminer
+    * colon irritable
+    * IBS
+* !! **Korsallergisk reaktion, i.e. OAS**:  att man kliar runt munnen etc, kan besvärligt, men inte farligt
+
+
+
+***EPidemiologi***
+
+* Läkt ut äggallergi, mjölkallergi
+  * 75% av 3åå har läkt ut
+* Äldre barn med nötallergi (trädnötter), jordnötallergi, blir SÄLLAN av med sin allergi
+
+
+
+***Utredning och handläggning***
+
+* Komponentdiagnostik: 
+  * Identifiera vilket allergen i exempelvis jordnöt man är allergisk mot. araH allergenet, som det finns olika former av. en form finns i björk och förklarar korsallergiska besvär
+  * araH-8 som dominerar = inte att man är jordnötsallergisk utan att man är allergisk mot björk som syns i testet, vs en unge som har en massa komponenter den är allergisk mot. Dock att man kan ha små mängder ARAH2 etc, som man kan reagera kraftfullt mot i de små mängderna
+  * Finns osså analys för: hasselnöt, soja, latex, mjölk, ägg, bi, geting, mfl
 
 
 
 ***Behandling***
 
 * Elimination fr kost
+
+
+
+
+
+| <img src="./imgs/sam_170421_qYK1wsFdQe.png" alt="qYK1wsFdQe" style="zoom: 33%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -725,20 +964,149 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * ange 2 typer hudpreparat du ordinerar för att behandla eksemet
       * Mjukgörande
       * Kortisongrupp 1
+  * 4mån flicka
+    * Gnällig, förkyuld, kliande blaffor på huden o. ammas väsentlgigen helt inte fått ngt nytt. fick ersättnnig för en timme sedan men ina besvär av detta tidigare
+    * <img src="./imgs/sam_170421_0IrgwNCS1S.png" alt="0IrgwNCS1S" style="zoom: 25%;" />
+    * Orsak
+      * Komjöksallergi: även om tålt det tidigare, tål hon det inte längre, 
+      * Histaminfrisättning av okänd orsak: men för llra flesta barn är det okäönt, förklarar att det är virusinfektion
+    * Behandling
+      * Antihistamin
+    * Bär med att urtikaria kommer och går, med att den flammar upp och lugnar ner sig, flammar upp och lugnar ner sig, att föräldrarna int ska vara oroliga för det
+
+
+
+### Pollenkalender
+
+***Allergener och perioder***
+
+* AL
+* Björk
+* Gräs
+* Gråbo
 
 
 
 
 
-### Urtikaria, rhinokonjunktivit
+
+
+| <img src="./imgs/sam_170421_F9w5JvuOsU.png" alt="F9w5JvuOsU" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+### Rhinokonjunktivit
+
+
+
+
 
 
 
 ***Kliniska kännetecken***
 
-* 
+* Rhinokonjunktivit
+  * Nästäppa
+  * Konjunktivit
+  * stickningar
+  * klåda
+  * trötthet
+  * chimosis: svullnad konjunktiva
 
 
+
+***Utredning***
+
+* Mottagning (allergimottagningen?)
+  * Pricktest
+  * spirometri
+  * anamnes
+
+
+
+***Behandling***
+
+* Rhinokonjunktivit
+  * Allergen sanering om möjligt
+  * peroral antihistamin
+  * nasalsteroid
+  * ögondroppar, kromoner
+  * antileukotriener
+
+
+
+### Urtikaria
+
+***Presentation***
+
+* 4mån flicka
+  * Gnällig, förkyuld, kliande blaffor på huden o. ammas väsentlgigen helt inte fått ngt nytt. fick ersättnnig för en timme sedan men ina besvär av detta tidigare
+  * <img src="./imgs/sam_170421_0IrgwNCS1S.png" alt="0IrgwNCS1S" style="zoom: 25%;" />
+  * Orsak
+    * Komjöksallergi: även om tålt det tidigare, tål hon det inte längre, ELLER så kan det vara virus
+    * Histaminfrisättning av okänd orsak: men för llra flesta barn är det okäönt, förklarar att det är virusinfektion
+  * Behandling
+    * Antihistamin i några dagar, tills att orsaken i detta fall virusinfektionen lägger sig
+  * Bär med att urtikaria kommer och går, med att den flammar upp och lugnar ner sig, flammar upp och lugnar ner sig, att föräldrarna int ska vara oroliga för det
+
+
+
+***Etiologi***
+
+* Histmin frisättning
+* Bradykinin
+
+
+
+
+
+***Kliniska kännetecken***
+
+* Urtikaria
+  * Kortlivade
+  * Begränsad
+  * upphöjd svullnad (makulopapulös?)
+  * omgiven rodnad: cirkumferent erythem
+
+
+
+***Utredning***
+
+* Anamnes
+* pricktest
+* recidivierande svårt angiödem, misstänk: HAE, C1-INH
+
+
+
+
+
+***Behandling***
+
+* Allergensanering
+* Undvika utlösande agens
+* antihistaminer
+* kortison
+* adrenalin
+
+
+
+
+
+|              | Urtikaria                | Angiödem                  |
+| ------------ | ------------------------ | ------------------------- |
+| TIdsförlopp  | Akut, inom minuter       | Subakut, inom timmar      |
+| Symptom      | Klåda, påtagligt erythem | Pirrande, stickande       |
+| Duration     | Max 24h                  | 12-72h                    |
+| Lokalisation | Dermis                   | Djupt dermis och subkutis |
+| Antal        | Multipla, vanligen       | Vanlen en bara            |
+
+
+
+| <img src="./imgs/sam_170421_76bIRmIsNy.png" alt="76bIRmIsNy" style="zoom:50%;" /> | <img src="./imgs/sam_170421_qtNxi4SM4G.png" alt="qtNxi4SM4G" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
 
 
@@ -1375,7 +1743,26 @@ Enligt ABCDE
 
 
 
+### Termer
 
+* Erytem = rodnad
+* Makula = fläck
+* Urtika = kvaddel.
+* Papel = knottra
+* Tumor = knuta
+* Bulla = blåsa
+* Vesikel = liten blåsa
+* Pustel = varblåsa
+* Squama = fjäll
+* Krusta = sårskorpa
+* Exkoriation = rivmärke
+* Ulcus = sår
+* Fissur/ragad = spricka
+* Cicatrix = ärr
+* Skleros = konsistensökning av huden som ser spänd och stel ut, känns hård.
+* Nodulus = knuta, knöl, vanligen dermalt belägna.
+* Erosion = ytlig defekt i epidermis.
+* Exantem = utslag (erythematös?)
 
 ### Virusexantem
 

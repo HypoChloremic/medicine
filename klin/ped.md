@@ -309,6 +309,68 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * En kräkning? möjligt diffa här med anafylaxi
 * ödem ansikte
 
+
+
+### Allergenfamiljer
+
+***Björkallergiker***
+
+* Nötter,
+* äpplen
+* persikor
+* aprikos
+* körsbär
+* mandel
+* päron
+* morötter
+* plommon
+* kiwi
+* potatis (råskalning)
+* selleri
+
+
+
+***Gråboallergiker***
+
+* Selleri
+* morot
+* paprika
+* kamomill
+* persilja
+* anis
+* fml
+
+
+
+***Baljväxter***
+
+* Soja
+* ärtor
+* Jordnötter
+* bönor
+* linser
+* lakrits
+
+
+
+***Banan***
+
+* Avokado
+* nekrarin
+* kastanj
+* kiwi
+* latex
+
+
+
+***Skaldjursallergi***
+
+* Kvalster
+* kackerlacka
+* inskter: att man kan vara allergisk mot detta. 
+
+
+
 ### Anafylaxi
 
 
@@ -1075,13 +1137,120 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 | ------------------------------------------------------------ | ---- | ---- |
 |                                                              |      |      |
 
+### Snuva
+
+
+
+#### Diagnostik
+
+***Utredning och handläggning***
+
+* Sjukhistoria viktigast: Ofta att det inte behövs en utrednign, ofta typisk historia
+* Allergitester
+  * Pricktest: svar på en kvart, pedagoiskt resonemang
+  * Blodprov för IgE antikroppar: mer spec nivå av allergenspec antikroppar, 
+    * Nyttigt för Födoämnesallergi
+    * Bara allergener mot de man har misstanke mot, annars för många och ingen klinisk relevans
+  * Man kan ha allergiantikroppar men har man  ingen besvär DÅ ÄR MAN INTE ALLERGISK mot givet allergen. MÅSTE ha anamnes
+    * Kan ta hjölp av komponentdiagnostik för att få reda på om barnet är ÄKTA allergiker, eller om det är en korsallergi med falsk-pos antikroppar
+  * Komponentdiagnostik
+
+
+
+#### Behandling
+
+***Behandling***
+
+* Nässpray: 
+  * kortisonnässpray, kan börja med denna..
+    * VIKTIGAST i behandlinegn: den kan ha effekt inte bara rhinit, utan konjunktiviten också
+    * börja med denna tidigt innan pollensäsongen börjat, 
+    * varje morgon,
+    * förebyggande behandling
+* Antihistaminer po, vb: när det är extra besvärligt att man tar detta
+  * Ger inte trötthet, det är allergin som gör pat trött
+  * det var de gamla antihistaminerna som gjorde trött
+* Ögondroppar, förebyggande eller vb: om mkt besvär att man tar det profy, annars vb
+* optimalt med OLIKA farm substanser
+  * tar man antihistamin peroralt, ska man INTE ta antihistamin i droppar, utan ta droppar med natriumkromoglikat
+* Allergenimmunterapi: om ovan inte fungerar
+  * subkutan, SCIT: sprutar extrakt e.g. björkpollen, för att bygga tolerans över år. den är krävande för pat o familj. regelbundna sprutor 3-4åå,
+    * björk, gräs, bi, geting, katt, kvalster
+  * Sublingualimmunterapi, SLIT
+    * den tabletten varje dag 3års tid för effekt
+    * slarvar man blir det bara dyrt
+
+
+
+<img src="./imgs/sam_170421_KzYavOKAMi.png" alt="KzYavOKAMi" style="zoom:50%;" />
+
+
+
+​	
+
+#### Hösnuva
+
+***Kliniska kännetecken***
+
+* Trötthet är den mest dominerande symptomet
+* rhinokonjunktivit
+* klåda
+
+
+
+***Pollenkällor***
+
+* Vår: AL
+* Vår: Björk
+* Sommar: Gräs, timotej (flesta är timotej)
+* Sensommar: Gråbo (inte vanligt)
+
+
+
+***Epidemiologi***
+
+* 50% allergiker mot timotej av hösnuva..
+
+
+
+
+
+#### Persisterande allergisk rhinit
+
+***Etiologi***
+
+* Eosinofil inflammation
+* Allergener
+  * Kattallergen: flyktigt allergen, att man kan hitta allergen överallt. 
+  * Hundar: unik allergensammansättning
+  * Kvalster: ska ej finnas i Sthlm, men finns hus felaktigt byggda med för mkt värme o 
+  * Häst: inte vanligt, starkt allergen. kan få allergiska o astmatiska besvär av att gå hästhage. 
+* Sekundär expandering
+* Korsallergi
+  * förekommer mellan pälsdjur
+  * generellt ju fler allergena komponenter man har antikroppar mot
+    * högre risk astma svårare grad
+    * korsallergiskt
+
+
+
+***Epidemiologi***
+
+* 50% av allergiker är allergiska mot katt
+
+
+
+***Behandling***
+
+* Undvika exponering: klasskamrater inte katt knäet innan går t skolan
+
 
 
 ### Rhinokonjunktivit
 
 
 
-
+***Presentation***
 
 
 

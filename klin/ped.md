@@ -6375,7 +6375,82 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Etiologi och patofysiologi***
 
+* hjärnsjukdom, progredierande, degenerativ
+* globoidcellsleukodystrofi (GLD)
+* lysosomal sjukdm: lysosomer hittas inte i RBC
+* mutation GAL: lysosomal enzym galaktocerebrosidas
+  * producerar myelin (oligodendrocyter)
+* Enzymbrist, galaktosylceramid bryts ej ned: ansamlas i stora klotformade (globoida) celler.
+  * GÅr att se med mikroskop
+* myelinförändringarna
+  * bansystem
+  * inre delar storhjärna
+  * runt perifera nerver
+* oligodendrocyter bryts ned
+* schwannska celler påverkas också
+* autosomalt recessiv: dubbel uppsättning ger sjukdomen
 
+
+
+***Former***
+
+* Fyra former
+* spädbarnsformen, klassisk infantil: vanligaste, 85% 
+* småbarnsformen, seninfnatil
+* barnform- o ungdomsform, juvenil
+* vuxenform, adult
+
+
+
+***Kliniska kännetecken***
+
+* Infantil form
+  * 3-6mån
+  * fortskridande
+  * flest fall döden före 2åå
+  * ökande irritabilitet + skrikighet: första symptom
+  * rycker till, vid plötsligt ljus o ljud, börjar skrika
+  * perioder oförklarig feber, utan tecken infek
+  * utvecklings stannar av
+  * sällsynta fall: ökad muskelslapphet hypotonus fr början
+  * inom månader tillkommer ryckningar kroppen, armarna, benen (myklonus)
+  * förlorar allt fler motoriska psykiska funktioner
+  * sista sjukdomstid: inga viljemässigaa rörelser
+  * tidigare ökad stelhet övergår mjukhet
+  * hjärnfunktioner försvinner successivt
+  * inte kontakt barnen: kan ej se, höra, tala, tugga, svälja,
+  * Dödsorsak: oftast infektion
+* Seninfantil form
+  * 6mån-3åå
+  * irritabilitet, 
+  * förlusit motoriska, kognitiva funktioner
+  * stelhet
+  * ataxi (koordinationsstörningar)
+  * tilltagande synnedsätting
+  * kan leva flera år, varierande förlopp
+* Juvenil form
+  * 3åå-8ååå
+  * synförlust en del
+  * tilltagande motorisk försämring
+  * ökad spasticitet
+  * ataxi, ihållane dystoni. 
+
+
+
+***Handläggning och utredning***
+
+* Blodprov
+  * brist GALC-enzym
+* RAdiologiskt
+  * DT, MR,: tidigt ger normal resultat, men senare se cerebral atrofi, bvåde grå o vit substans.
+
+
+
+***Behandling***
+
+* God omvårdnad
+* tidiga habiliteringsinsatser
+* socialt stöd, psykologiskt stöd
 
 
 

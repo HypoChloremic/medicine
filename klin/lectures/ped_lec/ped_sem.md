@@ -3500,13 +3500,13 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
     * om det är infantila spasmer + tuberös skleros = specifik behandling,
     * Woods ljus att man ska använda för att titta på huden. 
     * kan skriva remiss till hud för att be dem titta på d o leta depigmenteringar. 
-* ärftlighet försenad utveckling
+* Ärftlighet försenad utveckling
 
 
 
 **Hur utreder man detta tillstånd?** 
 
-* ska direkt skickas till akuten, för att man ska utreda det akut. 
+* Ska direkt skickas till akuten, för att man ska utreda det akut. 
 * EEG: akut ska göras, 
 * MR: 2-4 veckor, 1 månad, för att humm vad det beror på
 * neurometabol skreening, genetisk utredning. 

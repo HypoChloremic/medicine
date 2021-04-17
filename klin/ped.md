@@ -901,60 +901,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-### Celiaki
-
-
-
-***Presentation***
-
-* !!! **Matilda 11 år söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat 2kg i vikt senaste tre månaderna, information om längdutvecklingen är i stort sett oförändrad. Hon känner sig orolig och har svårt att koncentrera sig. Av och till har hon ont i magen. Har lite sämre aptit sista halvåret. Inga kräkningar. Har ibland lösa avföringar. Förnekar utlandsresor senaste året. Nämn två kliniskt mycket relevanta differentialdiagnoser samt för var och en av dessa ett prov eller en undersökning som hjälper dig närmare just den diagnosen. 2p** 
-  * Celiaki: transglutaminasantikroppar
-  * !!! HYperthyroidism: TSH
-* !!! **En 13-årig flicka söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat tre kilo i vikt sedan hon senast vägde sig för några månader sedan men man kan ej se att hon fallit av på längskurvan. Hon känner sig orolig och har svårt att koncentrera sig. Av och till haft ont i magen. Sämre aptit det senaste halvåret. Förnekar kräkningar. Har ibland lösa avföringar. Nämn tre kliniskt relevanta differentialdiagnoser samt för var och en ett prov eller en undersökning som skulle kunna stöda just den misstanken. (3p)** 
-  * IBD: F-kalprotektin
-  * Gluteintolerans: transglutaminasantikroppar
-  * Hyperthyreos: TSH
-* **Fråga 16 Lisa 10 år gammal kommer till barnläkarmottagningen med sina föräldrar då hon klagar över buksmärtor. Smärtan är lokaliserad kring naveln och kommer och går. Hon är tidigare frisk. Ingen feber. Smärtan upprepar sig ett par gånger om dagen men det kan gå dagar emellan och detta har pågått i ca 3-4 månader. Hon har formad avföring varannan dag utan blod och slem. Du finner inget avvikande i status. Blodstatus och infektionsprover är normala, U-sticka är negativ. Aptiten varierar. På viktkurvan har hon fallit av 0,5 SD sedan senaste mätningen. Nämn 3 möjliga differentialdiagnoser baserad på ovanstående anamnes och ge exempel på en analys du saknar. 2,5p** 
-  * Celiaki
-  * (Födoämnesallergi..)
-  * Ångestrelaterat?
-* 8mån pojke? (generellt under 2åå)
-  * Utspänd buk
-  * diarre
-  * bristande tillväxt
-  * käknignar
-
-
-
-
-
-***Etiologi och patofysiologi***
-
-* Glutenintolerans
-* transglutaminasantikroppar
-* transglutaminas
-
-
-
-***Differentialdiagnoser***
-
-* Komjölksallergi
-* Inflammatorisk tarmsjukdom
-* Funktionella magbesvär, tarmbesvär
-* Hypothyreos, hyperthyreos
-* Cystisk fibros
-* Funktionell kortvuxenhet
-* Leversjukdom
-
-
-
-***Utredning och handläggning***
-
-* **Labb**
-  * **Transglutaminasantikroppar, S-TGA**: detta verkar vara essentiell del av utredningen
-    * **Ålder**: verkar inte påverka sensitiviteten? ta reda på detta TODO
-    * 
-
 
 
 ### Födoämnesallergi
@@ -2583,6 +2529,10 @@ Enligt ABCDE
 
 
 
+### Allmänt
+
+
+
 ***Allmänt***
 
 * Daniel, 15 år, 
@@ -2598,6 +2548,37 @@ Enligt ABCDE
   * Wilms tumör 
 
 
+
+***Källor***
+
+* barnlakarforeningen.se: GERD, Helicobacter, IBD, celiaki
+* viss.nu: funktionell magtarm smärta, funktioenll förstopp
+* internetmedicin.se: invag, akut buk, malroattiion, spädbarnskolik, komjölkproteinallergi, tillväxtavvikelser, utrending
+* PM levercentrum KS huddinge: koelstas hos spädbarn över 3v gamla, över 4v prematura
+
+
+
+
+
+
+
+***Var handläggs vad***
+
+* VC, BUMM ,Barnsjukhyus, universitetsklinik
+  * rediciv o korniska buksmärtor hos barn, diarre, obstipationm, tillståndens orsaker o beh
+  * celiaki
+  * komjölkproteinintolerans
+  * GER GERD
+* Akuten,
+  * invagination
+  * ileus
+  * pylorusstenos
+  * blod i avföring
+* barnsjukhus, universitetsklinik
+  * leversjd hos barn e.g. hepatit, kolestassjukdomar
+  * barn o ungdom mde IBD eller pankreassjukdomar
+* BVC, BUMM
+  * tremånaderskolik
 
 ### Biliär atresi, gallvägsatresi
 
@@ -2615,13 +2596,75 @@ Enligt ABCDE
 
 
 
+
+
+### Celiaki
+
+
+
+***Presentation***
+
+* !!! **Matilda 11 år söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat 2kg i vikt senaste tre månaderna, information om längdutvecklingen är i stort sett oförändrad. Hon känner sig orolig och har svårt att koncentrera sig. Av och till har hon ont i magen. Har lite sämre aptit sista halvåret. Inga kräkningar. Har ibland lösa avföringar. Förnekar utlandsresor senaste året. Nämn två kliniskt mycket relevanta differentialdiagnoser samt för var och en av dessa ett prov eller en undersökning som hjälper dig närmare just den diagnosen. 2p** 
+  * Celiaki: transglutaminasantikroppar
+  * !!! HYperthyroidism: TSH
+* !!! **En 13-årig flicka söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat tre kilo i vikt sedan hon senast vägde sig för några månader sedan men man kan ej se att hon fallit av på längskurvan. Hon känner sig orolig och har svårt att koncentrera sig. Av och till haft ont i magen. Sämre aptit det senaste halvåret. Förnekar kräkningar. Har ibland lösa avföringar. Nämn tre kliniskt relevanta differentialdiagnoser samt för var och en ett prov eller en undersökning som skulle kunna stöda just den misstanken. (3p)** 
+  * IBD: F-kalprotektin
+  * Gluteintolerans: transglutaminasantikroppar
+  * Hyperthyreos: TSH
+* **Fråga 16 Lisa 10 år gammal kommer till barnläkarmottagningen med sina föräldrar då hon klagar över buksmärtor. Smärtan är lokaliserad kring naveln och kommer och går. Hon är tidigare frisk. Ingen feber. Smärtan upprepar sig ett par gånger om dagen men det kan gå dagar emellan och detta har pågått i ca 3-4 månader. Hon har formad avföring varannan dag utan blod och slem. Du finner inget avvikande i status. Blodstatus och infektionsprover är normala, U-sticka är negativ. Aptiten varierar. På viktkurvan har hon fallit av 0,5 SD sedan senaste mätningen. Nämn 3 möjliga differentialdiagnoser baserad på ovanstående anamnes och ge exempel på en analys du saknar. 2,5p** 
+  * Celiaki
+  * (Födoämnesallergi..)
+  * Ångestrelaterat?
+* 8mån pojke? (generellt under 2åå)
+  * Utspänd buk
+  * diarre
+  * bristande tillväxt
+  * käknignar
+* Samirs kusin är 
+  * glutenintolerand, frågar om man kan ta ett glutenprov
+  * VIlket prov: transglutaminas antikroppar
+  * Gltuenprovet ua. 
+
+
+
+
+
+***Etiologi och patofysiologi***
+
+* Glutenintolerans
+* transglutaminasantikroppar
+* transglutaminas
+
+
+
+***Differentialdiagnoser***
+
+* Komjölksallergi
+* Inflammatorisk tarmsjukdom
+* Funktionella magbesvär, tarmbesvär
+* Hypothyreos, hyperthyreos
+* Cystisk fibros
+* Funktionell kortvuxenhet
+* Leversjukdom
+
+
+
+***Utredning och handläggning***
+
+* **Labb**
+  * **Transglutaminasantikroppar, S-TGA**: detta verkar vara essentiell del av utredningen
+    * **Ålder**: verkar inte påverka sensitiviteten? ta reda på detta TODO
+    * 
+
+
+
+
+
 ### Choledocal cyst
 
 ***Utredning***
 
 * Ultraljudsundersökning
-
-
 
 
 
@@ -2670,9 +2713,7 @@ Enligt ABCDE
 
 
 
-<img src="./imgs/ped_sum_6U3Z3xDSgV.png" alt="6U3Z3xDSgV" style="zoom:50%;" />
 
-<img src="./imgs/ped_sum_5bQP7L73DC.png" alt="5bQP7L73DC" style="zoom:50%;" />
 
 ***Utredning och handläggning***
 
@@ -2709,13 +2750,95 @@ Enligt ABCDE
 
 
 
+
+
+| <img src="./imgs/ped_sum_6U3Z3xDSgV.png" alt="6U3Z3xDSgV" style="zoom:50%;" /> | <img src="./imgs/ped_sum_5bQP7L73DC.png" alt="5bQP7L73DC" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
 ### Ej passera avföring
 
 <img src="./imgs/ped_samman_mAMH0d6QoJ.png" alt="mAMH0d6QoJ" style="zoom: 67%;" />
 
+### Funktionella besvär
+
+#### Allmänt
+
+* Titta på Basutredning subtiteln, den går igm detta. 
 
 
-### Funktionell Dyspepsi
+
+### Basal utredning
+
+***Utredning***
+
+* God utredning
+* fullständig anamnes + status
+  * kan landa funktionell diagnos eller psykosomatisk diagnos
+  * !!! mag-dagbok, minimitid: för att få organisation på symptomen
+* Anamnes
+  * Alarmsymptom: organiskt, bajsa nätterna, stark hereditet celiaki el IBD i familj, blod slem, gått ned i vikt
+  * Smärta, andra symptom:
+    * Dominerande symptom? Är det smärta, illamående, prutata, kräkning, uppblåsthet, rädsla bajsa på sig. 
+    * Frekvens, intensitet, duration
+    * SOCRATES
+  * Utlösande lindrande: toalett, måltid, stress
+  * toalettrutiner: hur ofta hur ser ut
+    * dåliga möjligheter att toalett i skolan, att man inte bajsar i skolan, ett jätteproblem
+    * oerhört ont i magen, hade bara ont i magen när hos pojkvän, för att aldrig gick på toan, etc.
+    * Rutiner är viktigt
+  * Nutrition och tillväxt
+    * Äter patienten frukost, lunch, middag, mellanmål, kvällsmål? kan visa sig att göra ont förmiddag men att de inte äter frukost
+    * Normala matmängderi förhållande till tillväxt och eventuell träningsnivå?
+    * Utesluts födoämnen?
+    * Aptit?
+    * Ofrivillig eller snabb viktnedgång?
+    * Avplanande längd-eller viktkurva för växande barn?
+    * Försenad pubertet?
+  * Sömn och ork: god ork i skolan, skolfrånvaro, orkar jämnåriga gympan men inte patienten
+  * Konsekvenser av smärta och/eller associerade symtom: Skolfrånvaro?
+    * Påverkan på skolarbete?
+    * Avstår aktiviteter och kompiskontakt?
+    * Omfattande undvikanden och säkerhetsbeteenden (att tex inte våga åka kommunalt eller vara med kompisar på grund av rädsla att bajsa på sig eller få ont)?
+  * Psykosociala faktorer som kan bidra till symtomen:
+    * Stress i form av familjesituation, skolsituation, mobbning, inlärningssvårigheter, aktiviteter på fritiden, droger etc?
+    * Psykopatologi som kan bidra till symtomen (ångest, depression, fobi etc)?
+* !!! **Basutredning vid RED FLAG-frågor**
+  * FUllständigt status + tillväxtkyurva
+  * Blodstatus, SR/CRP, u-sticka
+  * DE VIKTIGASTE PROVERNA enl studier för att förändra utredningsgången:
+    * IgA-transglutaminas (transgluttar): celiaki
+    * !! F-kalprotektin: 
+      * om långvariga besvär, diarrer, eller andra tecken till IBD
+      * protein produceras av neutrofila granulocyter
+      * mått på hur mga neutrofiler i tjocktarmen
+* !!! **Bra utredning = bra <u>behandling</u> för de flesta**
+  * Två besök hos helst samma läkare
+  * en månads mellanrum
+  * 1: Nogsam anamnes + status: 
+    * **förmedla misstanke funktionell genes,**: uteslutit IBD, celiaki, att man kanske misstänker funktionell buksmärta eller IBS
+    * ordinera basutredning och evt övriga prover + utredningar om spec klinisk misstanke finns
+    * samla utredningen så familj inte får vara med om en lång rad besök, där man inte hittar ngt
+    * Rekommendera båda föräldrar komma på återbesök
+  * 2: genomgång mag-dagbok, toa-dagbok, utlösande faktorer, labbprover, utredninar
+    * om alla prover är UA => avslutas utredningen, att det kan vara FUNKTIONELLT
+    * Diagnos sätts + förklaras
+
+
+
+| <img src="./imgs/sam_170421_CqmW7wZtGu.png" alt="CqmW7wZtGu" style="zoom:30%;" /> | <img src="./imgs/sam_170421_AD0u1Je4DS.png" alt="AD0u1Je4DS" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
+
+
+
+
+#### Funktionell Dyspepsi
 
 ***Presentation***
 
@@ -2738,25 +2861,27 @@ Enligt ABCDE
 
 
 
-### Funktionell förstoppning
+#### IBS
 
-***Diagnos***
+***Etiologi***
 
-* Förstoppning utan känd orsak
-* ***Diagnos***
-  * **Diagnoskriterier (enligt de pediatriska Rom III-kriterierna, 2006) i frånvaro av organisk orsak:** 
-    * ***< 4 år: 2 eller fler kriterier i en månad*** 
-    * ***> 4 år: 2 eller fler kriterier i 2 månader***  
-      -  ≤ 2 avföringar per vecka  
-      -  Aktivt uppskjutande av tarmtömningen, ”håller tillbaka” 
-      -  Avföringsinkontinens en gång/vecka  
-      -  Smärta och/eller hård avföring vid tarmtömningen  
-      -  Palpabel avföring i ändtarmen  
-      -  Voluminösa tarmtömningar (risk för stopp i toaletten)
+* Tarmen är ömmare än andra individer
+
+
+
+| <img src="./imgs/sam_170421_38bVTcyRMS.png" alt="38bVTcyRMS" style="zoom:25%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+
 
 ### Förstoppning
 
 
+
+#### Allmänt
 
 ***Presentation***
 
@@ -2784,14 +2909,120 @@ Enligt ABCDE
 
 
 
-### Glutenintolerans
+#### Funktionell förstoppning
 
-***Presentation***
+***Diagnos***
 
-* Samirs kusin är 
-  * glutenintolerand, frågar om man kan ta ett glutenprov
-  * VIlket prov: transglutaminas antikroppar
-  * Gltuenprovet ua. 
+* Förstoppning utan känd orsak
+* ***Diagnos***
+  * **Diagnoskriterier (enligt de pediatriska Rom III-kriterierna, 2006) i frånvaro av organisk orsak:** 
+    * ***< 4 år: 2 eller fler kriterier i en månad*** 
+    * ***> 4 år: 2 eller fler kriterier i 2 månader***  
+      -  ≤ 2 avföringar per vecka  
+      -  Aktivt uppskjutande av tarmtömningen, ”håller tillbaka” 
+      -  Avföringsinkontinens en gång/vecka  
+      -  Smärta och/eller hård avföring vid tarmtömningen  
+      -  Palpabel avföring i ändtarmen  
+      -  Voluminösa tarmtömningar (risk för stopp i toaletten)
+
+
+
+***Etiologi och patofysiologi***
+
+* Episod med smärtsam defekation pga t.ex 
+  * anal fissur eller 
+  * streptokock-dermatit: stjärt-fluss,
+  * att man blir rädd för att bajsa
+* drf Rädsla för smärtor vid defekation
+* Barnet håller sig-vägrar bajsa
+* **Fekal retention + ökat absorption av vätska i kolon** -> hård avföring
+  * Ju längre avföring i rektum, desto mer resorberas vätska och ju torrare blir den
+* Dilatation av ampullen
+* Förstoppning +  förstoppningsdiarreer
+* Förlust av normal sensibilitet
+* Inkomplett relaxation av inre sfinktern
+* Paradoxal kontraktion av den yttre sfinkte: krampartat stänger
+
+
+
+***Kliniska kännetecekn***
+
+* !!! Symptom förstoppning i över 1-2månader; MAN SKA KUNNA DESSA UTANTILL och fråga föräldrarna, för de vet oftast inte
+  * Bajsasällan (< 3 ggr/v)
+  * Bajsa hårt
+  * Bajsa smärtsamt
+  * Bajsa påsig (läckage)
+  * Inte bajsa fast man är nödig (hålla sig)
+  * !!! Bajsa stora lass
+  * “Förstoppning vid undersökning av läkare”
+* Att man det är avföring i rektum, kommer enbart förbi PRUTTAR och lite vätska:
+  * stenhård + pruttar
+  * För att så pass mkt avföring i rektum, att sfinktern inte håller tätt, varpå man läcker
+  * bajsspår flera ggr i veckorna
+  * DETTA MÅSTE MAN FRÅGA OM 
+  * "Många barn kan ha bajs i underbyxorna eller bajsspår, hur är det för dig?"
+
+
+
+***Epidemiologi***
+
+* Debut funktionell förstoppning
+  * Spädbarn: introduktion modermjölksersättning e.g. välling. 
+  * 2-3åå: pott-träning
+  * 5-7åå: skolstart
+
+
+
+***Utredning och handläggning***
+
+* Mag-dagbok med Bristol chart
+* Per-rectum: föreläsare menar att det inte finns så stort värde vid utredningen
+  * Någon gg under utredningen
+  * Man ska vara klar över vad som ska hittas: tonus, fekalom
+  * men: "No evidence for diagnosis of constipation"
+  * "Om det INTE finns ngt man undrar över, ska man inte peta barnen i rumpan"
+* Labbprover
+  * tTG: transglutaminas
+  * "Riktad misstanke för att ta":
+    * TSH
+    * Ca: kalciumrubbningar
+    * IgE: för olika allergier
+  * INGA rutinprover, enl evidens, när det INTE finns alarmsymptom alltså
+* BÖS: enl föreläsare kan BARA besvara om FEKALOM JA EL NEJ, annars visar den inget utöver det
+  * stark evidens för att BÖS INTE kan användas för att ställa förstoppningsdiagnos
+
+
+
+***Behandlingstrappa***
+
+* 1 (lättare förstopp) För lite råd om toalettträning och kostråd
+  * "En halvtimme feter måltid kommer gastrokoliska reflexen igång": måste ge tarmen en chans att bajsa ett par gånger om dagen därför, där man sätter sig och kniper.
+  * knäna högre än höften, squatting: minskar trycket för olika muskler i rektum
+  * Ofta att man har barn som bajsar på sig i rasten med fläckar, men inte har denna rutin
+* 2 (medelsvår) Osmotiskt aktivt laxeringsmedel
+  * Laktulos
+  * IMportal
+  * mfl
+  * inolaxol
+  * kommer inte gå bra säg t föräldrarn om INTE rätt dos, rätt behandlingslängd
+  * funkar det inte att få i sig detta äckliga att man ringer för att hitta ngt annat man ger ungen
+* 3 (svår) Potent osmotiskt aktivit laxeringsmedel
+  * movicol: men att man kan ge detta tidigare i förloppet verkar det som
+  * mfl
+* 4 (svåra aktua symptom eller fekalom) Starkare behandling akut
+  * Högdos movicol mfl
+  * rektala lavemang: klyx , kan ge på akuten
+  * ev med tarmsond
+* Bedöma behandlingseffekt: utefter bristolskalan, att man ökar eller minskar dosen
+* Behandlingslängd: att många får behandla länge, beroende åp hur länge man ska 
+
+
+
+
+
+| <img src="./imgs/sam_170421_vwAejBDLbb.png" alt="vwAejBDLbb" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 

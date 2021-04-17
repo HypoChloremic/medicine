@@ -216,10 +216,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-***Etiologi***
+***Indelning***
 
-* Internationellt att man pratar om "Hypersensitivity" i.e. överkänslighet
-* Överkänslighet
+* **Överkänslighet**
   * Icke IgE-medierad
     * kontaktallergi: 
       * nickel
@@ -230,7 +229,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
       * Annat
     * Atopisk
   * Celiaki hamnar ngnstans emellan: 
-* Överkänslighet enl klinmed
+* **Överkänslighet enl klinmed**
   * **Immunologisk reaktion**
     * igE medierat, e.g. anafylaxi
       * nöter
@@ -245,8 +244,19 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
       * biogena aminer
       * colon irritable
       * IBS
+
+
+
+***Etiologi***
+
+* Internationellt att man pratar om "Hypersensitivity" i.e. överkänslighet
 * Progressivt högre IgE-koncentration, försvårande symptom: över tid att IgE koncentrationer ökar, detta relateras med progressivt svårare symptom
 * Mastcellsaktivering, och degranulering: Astam, snva, urtikaria
+* ARVET: den enskilt viktigaste faktorn vad gäller allergi
+* Hygienhypotesen
+  * Arvet
+  * Allergi
+  * Miljö
 
 
 
@@ -290,7 +300,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 | <img src="./imgs/sam_170421_b0KpNjL4XW.png" alt="b0KpNjL4XW" style="zoom:50%;" /> | <img src="./imgs/sam_170421_Zhq3q5UYa1.png" alt="Zhq3q5UYa1" style="zoom:50%;" /> | <img src="./imgs/sam_170421_kWl15jYnyf.png" alt="kWl15jYnyf" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./imgs/sam_170421_m9npn0xNtE.png" alt="m9npn0xNtE" style="zoom:50%;" /> | <img src="./imgs/sam_170421_Im2ptn5fCj.png" alt="Im2ptn5fCj" style="zoom:50%;" /> |                                                              |
+| <img src="./imgs/sam_170421_m9npn0xNtE.png" alt="m9npn0xNtE" style="zoom:50%;" /> | <img src="./imgs/sam_170421_Im2ptn5fCj.png" alt="Im2ptn5fCj" style="zoom:50%;" /> | <img src="./imgs/sam_170421_iuF47yXYPI.png" alt="iuF47yXYPI" style="zoom:50%;" /> |
 
 
 
@@ -1137,6 +1147,35 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 | ------------------------------------------------------------ | ---- | ---- |
 |                                                              |      |      |
 
+### Prevention
+
+
+
+***Prevention***
+
+* Rökning
+  * Undvik under grav o spädbarnstid
+  * förebygger luftrörsobstruktiva besvär
+* Amning första månaderna
+  * minskar ngt risken för infektioner,
+  * därmed infektionsutlöst obstrktiv bronkit
+  * // Den verkar inte ha ngn effekt på att minska allergi per se
+* Ersättning fri från komjölksprotein: komjölkshydrolyserat
+  * Om ungen behöver tillägg ersättning + under 4mån gammal + högriskbarn (två i familjehn har besvärlig allergi)
+  * kan minska risken för eksem
+* Exponera tidigt i livet för vissa typer födoämnen,  ge smakportioner
+  * rek fr BVC
+  * bra att låta spädbarn smaka ALL typ av mat under första året
+* God ventilation
+  * bostad,
+  * åtgärda fuktskador, mögelskador
+  * minskar risk luftrörsbesvär
+* pälsdjur
+  * motstridigt om risk eller skydd för allergi astma
+  * ej motiverat att göra sig av med ett djur OM EJ BESVÄR
+
+
+
 ### Snuva
 
 
@@ -1283,6 +1322,10 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * nasalsteroid
   * ögondroppar, kromoner
   * antileukotriener
+
+
+
+
 
 
 

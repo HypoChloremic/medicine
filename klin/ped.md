@@ -218,14 +218,33 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Etiologi***
 
-* Allergisk överkänslighet
+* Internationellt att man pratar om "Hypersensitivity" i.e. överkänslighet
+* Överkänslighet
   * Icke IgE-medierad
+    * kontaktallergi: 
+      * nickel
   * IgE-medierad
     * Icke-atopisk
       * Bi, geting
       * Läkemedel: penicillin, muskelrelaxantia
       * Annat
     * Atopisk
+  * Celiaki hamnar ngnstans emellan: 
+* Överkänslighet enl klinmed
+  * **Immunologisk reaktion**
+    * igE medierat, e.g. anafylaxi
+      * nöter
+      * pollenrelaterad oral allergi syndrom, OAS
+    * Icke IgE-medierat
+      * Celiaki (kanske enzymbrist också av ngt slag)
+    * Kontaktallergi
+      * Nickel
+  * **Icke-immunologiska reaktioner**
+    * Enzymatisk
+      * laktosintolerans
+      * biogena aminer
+      * colon irritable
+      * IBS
 * Progressivt högre IgE-koncentration, försvårande symptom: över tid att IgE koncentrationer ökar, detta relateras med progressivt svårare symptom
 * Mastcellsaktivering, och degranulering: Astam, snva, urtikaria
 
@@ -271,7 +290,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 | <img src="./imgs/sam_170421_b0KpNjL4XW.png" alt="b0KpNjL4XW" style="zoom:50%;" /> | <img src="./imgs/sam_170421_Zhq3q5UYa1.png" alt="Zhq3q5UYa1" style="zoom:50%;" /> | <img src="./imgs/sam_170421_kWl15jYnyf.png" alt="kWl15jYnyf" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./imgs/sam_170421_m9npn0xNtE.png" alt="m9npn0xNtE" style="zoom:50%;" /> |                                                              |                                                              |
+| <img src="./imgs/sam_170421_m9npn0xNtE.png" alt="m9npn0xNtE" style="zoom:50%;" /> | <img src="./imgs/sam_170421_Im2ptn5fCj.png" alt="Im2ptn5fCj" style="zoom:50%;" /> |                                                              |
 
 
 
@@ -719,16 +738,23 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * modern eksem som barn
   * Kinderna, hakan, ffa vä uppe pannan: **makulöst fjällande utslag**
   * armarna: liknande utslag, men lite tunnare utsidan båda armarna
-  * <img src="./lectures/ped_lec/imgs/ped_fl_kKjyaCCsH0.png" alt="kKjyaCCsH0" style="zoom:25%;" />
+  * 
+* Edvin 1åå
+  * alltid haft torr hud. Successiv rodnad, kliande hud ansikte och bål, smo nu vätskar. Inte fått ngn ny sorts mat senaste tiden.
+  * Diangos: Atopisk eksem, atopisk dermatit
+  * 
+  * 
 
 ***Allmänt***
 
 * analogt med böjveckseksem
+* 
 
 
 
 ***Kliniska kännetecken***
 
+* Klådbenägen torr hud med eksen, ofta i böjveck
 * Torr hud: ökad benägenhet för att utveckla torr hud
 * Kliande röda utslag
 * Specifika platser
@@ -745,19 +771,37 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+***Etiologi***
+
+* Att det är HUDEN som är känslig: den har en inneboende svaghet, så den reagerar, blir torr och känslig
+* Kommer att leva med denna huden: lär inte förbättras, utan huden förblir torr...
+* **Stark ärftlig komponent**
+  * 70% eksem, astma, allergi i familjen
+  * 20-70% av eksembarn har IgE
+* !!! **Förklara för familjen att eksemet i sig inte är allergiskt**
+  * Ej allergi i sig, men förvärras av födoämnesallergi, vatten, kyla, svett, stress, infektioner
+  * Att föräldrar kmr o säger att de har plockat bort "d o d o d fr maten men eksemet ger sig inte". 
+  * SVARET ÄR: barnet ÄR FÖTT MED DENNA SORTENS HUD
+  * dvs barnet har torr + känslig hud som reagerar på olika irritanter
+* **ALLTSÅ**: eksemet BEROR INTE på födoämnesallergi, men FÖRVÄRRAS av födoämnesallergi. 
+  * ju mer klåda o ju aktivare eksem, desto mer sannolikt att födan är involverat
+* **Infekterat?**: möjligt att eksemet kan vara infekterat, då viktigt att ebhandla med antibiotika för att få bort den, inte enbart mjukgörande
+
 
 
 ***Utredning och handläggning***
 
 * Klinisk diagnos
-* 
-
-
 
 
 
 ***Behandling***
 
+* **SMÖRJA, väldigt vikigt med insmörjning, att man ska skapa en barriär för huden**
+  * MJugörande
+  * kortison I-IV: grupp1 steroider går att använda runt ansiktet utmärkt och runt ögon
+  * Kalcineurinhämmare
+* **ljusbehandling**
 * **Steroid krämer, kortisonkrämer**
   * **Grupp1**: 2ggr/d, 1-3v; därefter 2ggr/v
     * upprepas vid uppblossning
@@ -769,8 +813,19 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * grupp3: 1ggr/dag
 * **Mjukgörande, minskar risk för dermatiten**: minskar sannolikheten för barnet utveckla atopisk dermatit.
   * Det är alltså protektivt att mjukgöra barn som har en atopisk dermattit
+* **Infekterat?**: ett ilsket eksem där det är möjligt med att den är infekterad, då RÄCKER EJ med smörjning, utan man måste antibiotika
+  * staf
+  * strepto
+* Eksemskola
+* Yrkesrådgivning, så småningom
 
 
+
+
+
+| <img src="./imgs/sam_170421_u7eid0cdqb.png" alt="u7eid0cdqb" style="zoom:50%;" /> | <img src="./imgs/sam_170421_23dhTCG9M1.png" alt="23dhTCG9M1" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/ped_fl_kKjyaCCsH0.png" alt="kKjyaCCsH0" style="zoom:25%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
 
 
 
@@ -995,7 +1050,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * INTE en komjölksallergi: i hårdost mkt lite laktos, varpå om ungen tål detta, innebär att det inte är en komjölksallergi
   * utan det är en laktosintolerans 
 * Progressivt minskande halt laktos-socker
-  * messmör > mjölk > vispgrädde > lågklaktosprod./smör/margarin > hårdost > parmesan: Laktosintolerans
+  * messmör (mkt laktos) > mjölk > vispgrädde > lågklaktosprod./smör/margarin > hårdost > parmesan (ingen laktos alls): Laktosintolerans
+  * Tål barnet inte messmör är det laktosintolerans
+  * Tål barnet messmär är det inte laktosintolerans...
 
 
 

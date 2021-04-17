@@ -2671,6 +2671,23 @@ Enligt ABCDE
 
 
 
+### Blod kräk bajs
+
+***Utredning och handläggning. enl FL***
+
+* **Tonåring + blod avföring**
+  * ffa IBD 
+  * möjligen inflammatorisk polyp
+  * hemorrojder
+  * fissurer
+  * mycket osannolikt cancer
+* **Spädbarn**
+  * sannolikt snabb omsättning bajs, att man får blod strmmor i bajset, inget alarmerande
+  * Allergi som ger kolit: inflammatoriska polyper och liknande
+  * F-hB + koagrubbning, beroende på bilden går man vidare.
+
+
+
 ### Celiaki
 
 
@@ -3313,6 +3330,53 @@ Enligt ABCDE
 
 
 
+### GER och GERD
+
+
+
+***Definition***
+
+* GER: gastroesofageal reflux
+  * passage magsäcksinnehåll upp i matstrupe
+  * normalfysiologiskt fenomen
+  * oftast inga besvär
+  * vissa fall ger: esofagit, lungsjd
+* GERD: gastroesofagealreafluxSJUKDOM, disease
+  * Föutsätter reflux som ger besvärande symptom 
+  * eller påvisbara komplikationer fr esofagus, munhåla, luftvägar
+
+
+
+***Etiologi***
+
+* Erosiv esofagit, strktur: långvarig GER GERD, risk utveckla striktur
+* GERD, störd LES: vanligaste orsaken till GERD är en störd lower esofageal spincter
+* Hiatusbråck, esofagussfintkern permanent el tillfälligt belägen i brösthåla: försämrad backventilfunktion
+  * medfödda permanenta
+  * med övervikt
+  * stiagnede ålder (oftast vuxen ålder)
+  * förvärvade glidbåck av förslappade diafragmala ligament
+  * sårig esofagit assoc alltid t permanent hiatusbråck
+* Spädbarn kräks ofta, dagligen
+  * ökad benägenhet GER
+  * vätskevolymbelastnnig magtarm utsätts för
+  * en del komjölksallergi
+  * sällsyunta fall medfödd el förvärvade anatomiska avvikelser
+* Skolbarn, ungdomar
+  * besävaras inte sällan sura uppstöt, ibland bröstbränna
+  * lindra
+  * erosiv esofagit: mtkt sällan hos barn + ungdomar, föreligger ofta predisponerande tillstånd som neuro handikapp eller medödda missbildnmingar, av matstrupe
+
+
+
+***Utredning och handläggning***
+
+| <img src="./imgs/sam_170421_gMOo4S28MA.png" alt="gMOo4S28MA" style="zoom:50%;" /> | <img src="./imgs/sam_170421_EpEN8aysCl.png" alt="EpEN8aysCl" style="zoom:50%;" /> | <img src="./imgs/sam_170421_yNLnMRvJyq.png" alt="yNLnMRvJyq" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
+
+
+
 ### Hepatit
 
 ***Presentation***
@@ -3392,9 +3456,9 @@ Enligt ABCDE
 
 
 
-
-
 ### Ikterus hos barn
+
+#### Allmänt
 
 ***Presentation***
 
@@ -3472,9 +3536,19 @@ Enligt ABCDE
 
 
 
-
-
 ***Etiologi och patofysiologi***
+
+* **Spädbarnsikterus**
+  * **I mjälten**: Hb konverteras bilirubin (okonjugerat) transporteas tll levern bundet till albumin
+  * i levercellerna konjugeras bilirubiinet 
+  * skickas ut i glallan till tarmen
+  * Levern har en normatl stor reservkapacitet för konjugering + utsöndring bilirubin
+  * **Nyföddhetsperioden**: 
+    * extra mkt nedbrytet Hb: det fetala HbF, att det sker en trigger när ungen kommer ut (relaterat till syretrycket enl FL) att det leder till extra mkt nedbrytning av dessa RBC
+    * omogen lever + 
+    * inte kommit igg med maten: sparsam gallproduktion innan matning kommit igång, att man måste komma igång för att gallan utsöndras och hamnar i avföringen etc, för att driva ut allt detta bilirubinet
+
+
 
 <img src="./imgs/ped_sam_080421_ztzirKiDwX.png" alt="ztzirKiDwX" style="zoom:50%;" />
 
@@ -3543,7 +3617,7 @@ Enligt ABCDE
 
 
 
-#### Prolongerad itkerus
+#### Prolongerad ikterus
 
 ***Allmänt***
 
@@ -3553,8 +3627,29 @@ Enligt ABCDE
 
 
 
+***Definition***
+
+* Kvarstående ikterus >3v, hos <u>friska</u> fullgångna barn
+  * \>4v hos prematura barn
+
+
+
 ***Utredning och handläggning***
 
+* Enl FL
+  * BAJSETS FÄRG: detta är det viktigaste att fråga efter
+  * kolla själv färgen på bajset
+  * Därför att man ABSOLUT INTE får missa en gallvägsatresi (biliär atresi)
+  * Vikt, status
+  * Biokemi
+    * Hb, ASAT, ALAT, GT, bili tot/konj, PKINR
+    * utred om 
+      * ASAT/ALAT över 2
+      * GT över 2.5
+      * konj bili >10%
+      * PKINR >1.4
+      * anemiutredning om Hb <100
+  * Ring alltid leverjouren om man misstänker en gallvägsatresi
 * Hos ikteriska barn med avfärgad avföring skall gallstas ( kolestas) misstänkas. 
 * Därför viktigt att själv inspektera färgen på barnets avföring. 
 * Om klinisk misstanke på kolestas bör omgående handläggning ske enl. nedan. 
@@ -3615,6 +3710,61 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+### Lever
+
+***Take-home***
+
+* patologiska prover: funktiosnprov det viktigaste PKINR
+* inte farligt ge Konakion
+* vid ikterus: bajsets färg + både konj och okonj bilirubin + PKINR
+* släpp inte patologiska leverprover
+* leversjuka kan vara allvarligt: ring leverjouren
+
+#### Leverstatus
+
+* Cellsöndefall: ASAT, ALAT, CK
+* Syntesförmåga: PKINR, Albumin
+* Kolestas: bilirubin (konj, okonj), GT, ALP
+* Hypersplenism: TPK, LPK, Hb (att leversjd leder till omfördelning blod till splen mjälten varpå hypersplenism)
+
+
+
+#### Utredningsgång
+
+!!! ***ASAT, ALAT förhöjt***
+
+* ASAT och ALAT mindre än <2mikroKat/L, utan symptom
+  * skulle ta fullständigt leverstatus Hb, TPK, LPK, GT, bil t/k, CK, INR, alb, 
+  * och ev virusserologier
+  * följ var 3e månad till normalisering
+* Som ovan, med förhöjd ASAST, ALAT, men påverkan längd och eller vikt
+  * Bredda med malabsorption utredning
+    * Celiaki
+    * IBD
+* ASAT och ALAT över 5-6, alltså ordentligt högt; sannolik hepatit exempelvis
+  * som a + utvidgad virusserologier (EBV, CMV, Herpes)
+  * läkemedelsanamnes: läkemedelsinducerad hepatit
+  * !! följa PKINR varannan dag
+  * överväga radiologi: låg tröskel UL
+  * låg tröskel för ringa gastro
+* ASAT och ALAT mittemellan
+  * kronisk leversjd?
+  * Komplett med leverutredning
+
+
+
+***Differentialdiagnoser påverkade leverprover hos barn***
+
+* Fetma: asymptomatisk transaminasstegring vid fetma
+* Virus: HAV, HBV vanligast, men fler virus finns
+* autoimmunt: komplettera med SR, IgG, autoantikroppar
+* Celiaki
+* IBD
+* CF
+* Alfa-1-antitrypsinbrist
+
+
+
 ### Ljumskbråck
 
 ***Presentation***
@@ -3630,6 +3780,101 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
     * Inklämp ljumskbråck indicerar operation de närmsta veckorna
     * Remiss lasarett för omhändertagande
     * information föräldrar om besvär återkommer att söka akut, direktnummer kirurgmottaningen
+
+
+
+### Pankreatit
+
+
+
+***Etiologi***
+
+* Autoimmun pankreatit
+* Traumatisk pankreatit
+* Idiopatisk pankreatit
+
+
+
+***Epidemiologi***
+
+* Förekommer hos barn
+
+
+
+***KLiniska kännetecken***
+
+* Buksmärt
+
+
+
+***Utredning och handläggning***
+
+* Har man ett barn med buksmärta att man kan provta
+  * S-Pankreasamylas
+  * S-lipas
+* UL: kir eller medicinsk pankreatit
+
+
+
+
+
+### Spädbarnskolik
+
+
+
+***Kliniska kännetecken***
+
+* Anfall svårtröstlig skrikande: huvudysmptomet
+* Första levnadsveckorna, börjar symptom ökande:
+* sen eftermidda utöver kvällen fram t midnatt: uttalade symtpom
+* skriker kraftfyllt i perioder
+* spänner bukmuskler
+* drar yp ben
+* oklart om handlar om buksmärta
+* andra perioder är det mer missnöjdhet, gnällighet, svårighet ro
+
+
+
+***Diagnos***
+
+* \>3h skrikande >3d per evecka
+* hos ett i övrigt friskt barn
+* praktiken ställs diagnosen när barnet skriker mer än föräldrarna uppfattar som normalt
+
+
+
+***Utredning***
+
+* KRoppsundersökning
+* viktkurva
+* räcker som utredning
+* avstå provtagning: ter barnet helt friskt + växer bra, 
+* Prognos
+  * alternativnamnet är tremånaderskolik
+  * speglar att skrikighet avtar efter 1-3 månader
+  * dock enstaka barn fortsätter skrikiga även efter 3 månaders ålder
+
+
+
+***Behandling***
+
+* GRundlig anamnes + status
+* föräldrar känner sig trygga: visa förståelse föräldrars frustration + maktlöshet inte trösta barnet. 
+  * förmedla hopp
+* sjukdom uteslutits
+* föräldrar som inte sovit, att man uppmanar dessa att avlasta vänner familj
+* Övergång hypoallergena ersättningar baserade på komjölkshydrosylat: om barnet helt på modermjölksersättning eller delvis
+  * upplevs förbättring att man provocerar med att återintroducera
+  * dyrt med speciallivsmedel, så efter 1 månad att man provocerar för att säkerställa
+* Amning: oklart om moderns diet påverkar. 
+  * mängd komjölksprotein övergår bröstmjölk handlar om MIKROGRAM PER LITER
+* GE inte
+  * Dimetikon: placeboeffekt
+  * Dicylkloverinklorid: möjglen effekt, inget reg lkm, bör undvikas pga allvarliga biverkningar
+  * akupunktur
+  * kirpraktin
+  * vaggning ingen påvisad effekt
+  * 
 
 
 

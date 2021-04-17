@@ -1060,7 +1060,80 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+***Epidemiologi***
+
+* 2-4% av alla barn
+
+
+
+***Kliniska kännetecken***
+
+* Snabballergiska symptom: ofta som spädbarn
+  * IgE-medierade
+  * snart efter intag
+  * rodnad
+  * urtikaria
+  * kräkning
+  * diarre
+  * en del får tom astma
+* Senallergiska symptom: de barngastro ofta träffar
+  * cellmedierad immunitet
+  * timmar-dagar efter intag: undantag FPIES (Food-protein induced enteropathy syndrome; ett akut tillstånd)
+  * magont,
+  * eksem
+  * planande viktkurva
+  * lös avföring
+  * förstoppning
+  * kräkningar
+* !! GI-symptom är oftast inte IgE-medierade..
+
+
+
+***Utredning och handläggning***
+
+* Diagnos ställs genom exklusion: dietistkontakt för att få tips och kunna hålla det strikt
+  * jobbigt
+  * minst 2-4v strikt exklusion
+  * de gastroitnestinala reaktionerna är så pass långsamma att det tar denna tid. 
+
+
+
 ### Laktosintolerans
+
+
+
+***Allmänt***
+
+* är INTE en mjölkallergi
+* det är en enzymbrist, att man har minskad förmåga att spjälka laktos
+* Det är ETT SYMPTOM ingen diagnos
+* äldre barn (dock sällan före puberteten) kan ha förvärvad laktosintolerans
+* ger aldrig allvarliga symptom
+* Symptom försvinner prompt efter kostförändring. 
+* Obs! testa att återinsätta
+
+
+
+***Etiologi och patofysiologi***
+
+* Laktas-brist: många i norden kan spjälka laktos, men migration etc att laktasbristen florerar mer
+* bakteriefloran: den mumsar i sig laktosen, bryter ned till koldioxid och vatten. Också varierar med symptomen
+
+
+
+***Kännetecken***
+
+* ALDRIG allvarliga symptom
+  * har man allvarliga symptom ska man framförallt tänka allvarliga saker innan man säger laktosintolerans.
+
+
+
+***Utredning***
+
+* Laktasgentester har INGEN plats i vården
+* !! tillåt ALDRIG allvarliga symptom klassas som laktosintolerans. Det kan vara sekundär laktosintolerans
+
+
 
 ***Diffa mot komjölksallergi***
 
@@ -2627,15 +2700,78 @@ Enligt ABCDE
 
 
 
+***Allmänt***
+
+* !! Take-home för celiaki enl FL: 
+  * det KAN NÄSTAN ALLTID vara celiaki! (men det är oftast inte)
+  * Är transglutaminas negativt är det (nästan) aldrig celiaki
+  * !! Är transglutaminas positivt ska pat t barngastro och FORTSÄTTA äta gluten tills kommer dit
+    * annars kan man inte lita på blodprover eller biopsier om man inte äter gluten
+
 
 
 ***Etiologi och patofysiologi***
 
-* Glutenintolerans
-* transglutaminasantikroppar
-* transglutaminas
+* Gluten bryts ned till gliadin
+* Gliadin via transcytos tar sig över enterocyten
+* på andra sidan kommer transglutaminas att deminera gliadinet
+* Deminerade gliadinet upptas av antigenpresenterande celler som aktiverar lymfocytdriven immunrespons
+* Histologisk komplikationer
+  * Krypthyperplasi
+  * Villus-atrofi
+* För att få celiaki krävs
+  * rätt HLA (50% av svenskar kan få celiaki)
+  * glutenexponering
+  * ytterligare riskfaktorer, delvis kända
+* Tarmen har en enorm överkapacitet: den yta i tunntarm som vuxen motsvarar en tennisplan. Har man en villusatrofi att den blir en åttondel, en ytminskning. men överkapaciteten betyder att man inte märker så mkt
+  * Intaget som spädbarn DOCK är väldigt nära den maximala kapaciteten för tarmen
+  * Därför är det essentiellt att man diagnosticerar detta fort
+  * samt att symptomen förändras över tid, med att man har mer allvarliga symptom tidigare i livet etc
 
 
+
+***Epidemiologi***
+
+* VÄLDIGT vanlig diagnos
+* en i varje klass som har celiaki bland barn
+
+
+
+***Kliniska kännetecken***
+
+* Spädbarn, yngre barn
+  * Malabsorptions-magar: uppsvullna bukar
+  * Inget hull
+  * tillväxtkurva som visar nedre vikt-SD och längd-SD
+* Gastrointestinala symptom (1/3 har dessa symptom, som är viktigt att beakta, då det finns fler symptom man måste ha i åtanke när man tänker på celiaki)
+  * Diarre
+  * kroniskt svårbehandlad förstoppning
+  * buksmärta
+  * uppblåst buk
+  * illamående
+  * kräkningar
+* Andra symptom: detta är också lika vanligt som gastrointestinala symptom
+  * tillväxtpåverkan
+  * !! sen pubertet
+  * !! utebliven menstruation
+  * bristtillstånd: b12, folsyrra, järn, kalcium, zink
+  * emaljdefekter
+  * kronisk trötthet, 
+  * depression
+  * dermatitits herpetiformis
+  * avvikande leverprover
+  * aftösa sår i munnen
+  * neuropati
+  * artralgi
+* Screening
+  * släktingar: stark hereditet
+  * DOwn, Turner, WIlliams
+  * DM1
+  * Autoimmun thyroidea sjd
+  * Autoimmun hepatit
+  * etc
+
+ 
 
 ***Differentialdiagnoser***
 
@@ -2652,9 +2788,41 @@ Enligt ABCDE
 ***Utredning och handläggning***
 
 * **Labb**
-  * **Transglutaminasantikroppar, S-TGA**: detta verkar vara essentiell del av utredningen
+  * **Transglutaminasantikroppar, IgA-tTG (tissue transglutaminase)**: detta verkar vara essentiell del av utredningen
     * **Ålder**: verkar inte påverka sensitiviteten? ta reda på detta TODO
-    * 
+    * **Om patologiskt**: remiss till barngastro
+  * Inte alla har IgA, utan det förekommer IgG-tTG eller IgG av deaminerat gliadin, ändock är IgA-tTG ett utmärkt prov
+  * HLA-DQ-2/8: krävs för att man ens ska kunna få celiaki. Kan inte användas för att diagnosticera celiaki. Men kan användas för att UTESLUTA celiaki
+* ***Uppföljning***
+  * BUM, 6-12mån efter dx, sedan varje/vartannat år
+  * dietistkontakt
+  * följa tillväxt
+  * tTG tills normalt: sedan vid symptom, pubertet, vuxenöverföring
+  * TSH följs på samma sätt
+
+
+
+***Behandling***
+
+* Strikt glutenfri: Är man glutenintolerant är målet att man inte ska äta ngt gluten, för att den kan trigga inflammation
+  * man tål väldigt lite gluten varje dag
+  * 0.4g vetemjöl = 30mg gluten tål man
+  * !!! man ska alltså ta bort synliga brödsmulor, på den nivån
+  * Studier att ett mariekex i veckan bibehåller inflammationen i tarmen, därför är det viktigt att aim för glutenfrihet
+  * // Ingen panik om man missar att äta gluten. Det är regelmässigt en långsam inflammatorisk reaktion
+  * 
+
+
+
+***Prognos***
+
+* God om man får diagnos i barndomen: att fertiltiet, benskörhet, mortalitet ser bra ut, förutsatt man når det bra.
+
+
+
+| <img src="./imgs/sam_170421_7kdxNBQr9v.png" alt="7kdxNBQr9v" style="zoom:50%;" /> | <img src="./imgs/sam_170421_Wsoxhnyj16.png" alt="Wsoxhnyj16" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
 
 
@@ -2668,7 +2836,7 @@ Enligt ABCDE
 
 
 
-### Diarre 
+### Diarré 
 
 
 
@@ -2695,27 +2863,119 @@ Enligt ABCDE
 * Många faktorer kan generera diarre- 
 * **Malabsorption**
   * inadekvat absorption nutrienter, karakteriseras av diarre, abdominell distenison, försämrad tillväxt
-* ***Virala orsaker***
-  * ***Rotavirus***
+* **Virala orsaker**
+  * **Rotavirus**
     * **Epidem**: världen, rotavirus vanlgiaste agens orsaka t gastroenterit. RNA-virus ses i **vintermånader** sprids enkelt **fekal-oralt**. incidens minskat signifikant hos spädbarn pga **vaccination första 6 månaderna**
-    * ***Kliniska kännetecken***: inkubation 1-3 dagar. kan vara asymptmatiska, eller kräk, diarre, dehydrering. diarre self-limiting, varar 4-7 dagar. Symptom ÖLI kan förekomma
-    * ***Diagnos***: pos ELISA avföring, ingen LPK i avföring
-    * ***Handläggning:*** understödjande behandling, specifikt vätska, tidig matning för att undvika gut atrofi (tarm atrofi?), hydrasec kan man ge. vissa barn kan få **transient laktosintolerans**
-  * ***Norovirus***
-    * ***EPidem***: RNA VIRUS, effektivt spridd fekal-oralt. kontakt med infekterade fomites (any inanimate object som har kontaminerats med infektiös grej)
+    * **Kliniska kännetecken**: inkubation 1-3 dagar. kan vara asymptmatiska, eller kräk, diarre, dehydrering. diarre self-limiting, varar 4-7 dagar. Symptom ÖLI kan förekomma
+    * **Diagnos**: pos ELISA avföring, ingen LPK i avföring
+    * **Handläggning:** understödjande behandling, specifikt vätska, tidig matning för att undvika gut atrofi (tarm atrofi?), hydrasec kan man ge. vissa barn kan få **transient laktosintolerans**
+  * **Norovirus**
+    * **EPidem**: RNA VIRUS, effektivt spridd fekal-oralt. kontakt med infekterade fomites (any inanimate object som har kontaminerats med infektiös grej)
       * utbrott gastroenterit sker i alla åldersgrupper, speciellt avstängda populationer (dagis, skolor, kryssningsskepp)
-    * ***Kliniska kännetecken***: liknar rotavirus. kräkningar är ett prominent symptom. duration är 48-72 timmar, kortare duartion jämfört med andra virala orsaker
-    * ***Diagnos***: bekräftas med ELISA avföring
-    * ***Handläggning***: understödjande behandling, vätskeintag viktigt, elektrolyter
-  * ***Bakteriella orsaker***: se tabellen, men enterotoxigena (ecoli), enteropatogena (epec), shigella sommei, salmonella species, campylobacter
-  * ***Parasit orsaker***
-* ***Hyperton dehydrering***: initialt förlust hypoton vätska via diarre. sedan extravasal vattenförlust med resutlerande hög natriumkonc i ECV
+    * **Kliniska kännetecken**: liknar rotavirus. kräkningar är ett prominent symptom. duration är 48-72 timmar, kortare duartion jämfört med andra virala orsaker
+    * **Diagnos**: bekräftas med ELISA avföring
+    * **Handläggning**: understödjande behandling, vätskeintag viktigt, elektrolyter
+  * **Bakteriella orsaker**: se tabellen, men enterotoxigena (ecoli), enteropatogena (epec), shigella sommei, salmonella species, campylobacter
+  * **Parasit orsaker**
+* **Hyperton dehydrering**: initialt förlust hypoton vätska via diarre. sedan extravasal vattenförlust med resutlerande hög natriumkonc i ECV
+* **Enl FL**
+  * Spädbarn
+    * Födoämnesintag
+    * Funktionellt
+    * CF
+    * Hirschprungssjd
+    * Autoimmun enteropati
+    * CMV-kolit
+    * Schwachmanssyndrom
+    * Immundefekter
+    * Alfa-beta-lipoproteinemi
+    * Lymfangiektasi
+  * Lite äldre spädbarn (>1åå?)
+    * Funktionellt
+    * Toddlers 
+    * Kr förstoppning; mycket vanligt
+    * Celiaki
+    * IBD
+    * CD
+    * pankreasinsuficiens
+    * Kolhudratintolerans
+    * POstinfektiös diarre: e.g. influensa sedan diarre flera veckor eller månader
+    * sekretorisk tumör
+    * infektion
+    * lymfangiektasi
+  * Ungdomar
+    * IBD
+    * Lymfocytär kolit, 
+    * mikroskopisk kolit: ovanligt med denna
+    * Funktionellt
+    * IBS
+    * Celiaki
+    * Laktosintolerans
+    * Postinfektiös diarre
+    * Primär tarmtumör: väldigt ovanligt
+    * addisons
+    * HYperthyroidism
+    * Infektion
+    * Lymfangiektasi
+
+
+
+***Indelning diarrer***
+
+* Osmotisk diarre
+  * Avföringsvolym: moderately increased
+  * Respons till fasta: diarre slutar
+  * Avföringsosmolalitet: normal till ökad
+  * Jon-gap: >=100mOsm/kg
+  * Orsaker
+    * Lymfangiektasi
+    * gallinsuff
+    * pankreasinsuff
+    * alfa-beta-lipoproteinemi
+    * disackarid-intolerans: primär sekundär
+    * celiaki
+* Sekretorisk diarre
+  * Avföringsvolym: väldigt ökad
+  * Respons till fasta: diarre fortsätter
+  * Avföringsosmolalitet: normal
+  * Jon-gap: <100mOsm/kg
 
 
 
 
 
 ***Utredning och handläggning***
+
+* **Tumregel för utredning enl FL**
+  * Under 2v: är det viktiga att förlusterna är mindre än intaget
+    * e.g. att man får pelle med diarré 9 dagar. Då kan det frotfarande vara en fråga om en rörig tarm pga en gastroenterit, då är det viktigt att man får in mer än det man får ut. Alla dessa barn ska man väga, så att om de eventuellt kommer tillbaka till akuten har man ett referensvärde.
+    * CAVE: kan vara läge att odla dessa barnen. 
+      * minsta barnen
+      * resor
+      * blod och feber
+  * över >=2v: UTREDNING
+* Enl FL: De riktigt sjuka, utreder man avseende osmotisk eller sekretorisk diarre
+  * Man läggs in
+  * Stoppa oralt intag i 24h, ge iv underhållsdropp
+  * Osmotisk diarre: om diarre upphör
+    * Lymfangiektasi: proteinbrist, fetmamalabsorption
+    * Fettmalabsorption:
+      * Gallinsufficiens eller pankreasinsufficiens
+      * Alfa-beta-lipoproteinemi
+    * Disackarid-intolerans: olika typer av disackarider, så man testar sig fram
+      * Primär
+      * Sekundär
+  * Sekretorisk diarre: om diarre fortsätter
+    * !! Inflammation
+    * Motilitetsrubbningar
+    * Transport defekt
+      * elektrolyttransportdefekt
+      * Eterocyt sjukdom
+    * !! Immunbrist, infektion, bakterier, parasiter, virus
+
+
+
+***Utredning enl BRS***
 
 * **Anamnes**
   * epidem
@@ -2752,9 +3012,29 @@ Enligt ABCDE
 
 
 
-| <img src="./imgs/ped_sum_6U3Z3xDSgV.png" alt="6U3Z3xDSgV" style="zoom:50%;" /> | <img src="./imgs/ped_sum_5bQP7L73DC.png" alt="5bQP7L73DC" style="zoom:50%;" /> |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-|                                                              |                                                              |      |
+| <img src="./imgs/ped_sum_6U3Z3xDSgV.png" alt="6U3Z3xDSgV" style="zoom:50%;" /> | <img src="./imgs/ped_sum_5bQP7L73DC.png" alt="5bQP7L73DC" style="zoom:50%;" /> | <img src="./imgs/sam_170421_OOQZfRiSbZ.png" alt="OOQZfRiSbZ" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/sam_170421_puTJWM4hpz.png" alt="puTJWM4hpz" style="zoom:50%;" /> |                                                              |                                                              |
+
+
+
+#### Lymfangiektasi
+
+***Etiologi och patofysiologi***
+
+* Utvidgning lymfsystemet i tarm
+* till följd av obstrktion tarmväggen
+* medfött eller förvärvat
+
+
+
+***Kännetecken***
+
+* Diarre
+* hypoproteinemi
+* perifera ödem
+* buködem
+* proteinförlorande tarmsjudkomar
 
 
 
@@ -2768,9 +3048,7 @@ Enligt ABCDE
 
 * Titta på Basutredning subtiteln, den går igm detta. 
 
-
-
-### Basal utredning
+#### Basal utredning
 
 ***Utredning***
 
@@ -2866,6 +3144,15 @@ Enligt ABCDE
 ***Etiologi***
 
 * Tarmen är ömmare än andra individer
+* Tarm dysmotilitet
+* kramp
+* ömtarmade efter måltid
+* glest filter
+* kan inte göra sig av med gas som bildas
+* förstärkta signaler till hjärnan
+* kraftigare rörelsemönster i tarm efter måltdi
+* känsligare för stress
+* Gluten korrelation: finns studier som visar att randomiserade individer som äter gluten får värre symptom jfr glutenfritt, dock att det är nog de komplexa kolhydraterna som följer med när man äter gluten som ger symptomen hos dessa patienter. 
 
 
 
@@ -8810,6 +9097,8 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Utredning och handläggning***
 
+* Labb enl konsensus..:
+  * U-sticka, krea, C3/C4, seorlogi (för antikroppar mot strep/staf)
 * Labb
   * Så snabbt som möjligt	
   * Initialt: 

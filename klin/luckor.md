@@ -62,3 +62,5 @@ beroende på hur akut detta är
 * FÖreläsningar adnra säten som abbe nämnde osm täckte oliaka skit
 
 * HbF och RBC nedbrytning trigger av lägre syretryck, varpå man 
+
+* diagnos postinfek strep: C3 + antikroppar för strep / serologi är bättre än svalgodling

@@ -912,6 +912,11 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * colon irritable
     * IBS
 * !! **Korsallergisk reaktion, i.e. OAS**:  att man kliar runt munnen etc, kan besvärligt, men inte farligt
+  * Att man exempelvis har ARAH8 som är bjrökallergen men som förekommer i jordnöt. eller vice versa? att man får korsallergiska symptom etc. 
+* **Jordnötssensibilisering**
+  * Vanlig
+  * inte alla har besvär: visar sig att det finns olika allergener i jordnöt, beroende åp vilken allergen och vilken grad man är sensibiliserad får man olika svar av patienten. 
+* 
 
 
 
@@ -934,7 +939,13 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Behandling***
 
-* Elimination fr kost
+* **Elimination**: det primära fr kost
+* Adrenalin: ska vara närmast till hands om man har ngt man är kraftigt allergisk emot. 
+* TIlläggg (verkare som)
+  * Antihistaminer
+  * luftrörsvidgande
+  * kortisontabletter
+* SOTI, specific oral tolerance induction, forskas om: att man matar ungen en tesked komjölk varje dag, för att toleransutveckling. så att när den dricker ett glas av sin väns mjölk inte får en anafylaktisk reaktion, utan det blir en mildare reaktion. 
 
 
 
@@ -973,6 +984,18 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Behandling
       * Antihistamin
     * Bär med att urtikaria kommer och går, med att den flammar upp och lugnar ner sig, flammar upp och lugnar ner sig, att föräldrarna int ska vara oroliga för det
+
+
+
+### Laktosintolerans
+
+***Diffa mot komjölksallergi***
+
+* Tål ditt barn hårdost: 
+  * INTE en komjölksallergi: i hårdost mkt lite laktos, varpå om ungen tål detta, innebär att det inte är en komjölksallergi
+  * utan det är en laktosintolerans 
+* Progressivt minskande halt laktos-socker
+  * messmör > mjölk > vispgrädde > lågklaktosprod./smör/margarin > hårdost > parmesan: Laktosintolerans
 
 
 

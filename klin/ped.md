@@ -459,6 +459,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+<img src="./imgs/sam_180421_02assWu2Af.png" alt="02assWu2Af" style="zoom:50%;" />
+
+
+
+
+
 ### Astma 
 
 
@@ -1629,14 +1635,15 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Initial Hantering enl ABCDE, där vi på A försöker fastställa om det är luftvägsstopp och ngt man kan åtgärda. 
     * Vid konstaterat andningsstopp entrara A-HLR algoritmen
     * larma narkos
-    * ge 5 inblåsningar med neopuff + 15:2 kompressioner
-    * infart på plats + monitor visar asystoli = adrenalin 0.01mg/kg 0.1mg/kL iv asap, och var 4e minut därefter
+    * ge 5 inblåsningar med (neopuff) + 15:2 kompressioner
+    * adernalin så fart som möjligt: infart på plats + monitor visar asystoli = adrenalin 0.01mg/kg 0.1mg/kL iv asap, och var 4e minut därefter
     * Kopplar defibrillator
     * Fortsätter 15:2 i 2 minuter
     * Reanalys. 
     * Försöker under HLR algoritm konstatera orsak till hjärtstopp enl 5H 4T
   * Flickan återfår medvetande o normal rytm, tack vara insatser efter 10min. Hon läggs in på BIVA för fortsatt observation coh vätskebehandling
   * Du känner t flera orsaker t att barn kan drabbas av hjärtstopp. Ange 2 rimliga förklaringar t hjärtstoppet i Nadines fall
+    * Hypoxi
     * Hypovolemi
     * Hypokalemi (/hyperkalemi?)
 
@@ -5121,6 +5128,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Vilken
     * HUS
   * Ange 2 relevanta blodnalyser du vill beställa för att få stöd för din diagnosmisstanke
+    * Enl genomgg: Hb, krea, TPK
     * Blodstatus, elstatus
 
 
@@ -7127,6 +7135,12 @@ En kort lista över kliniska manifestationer av CF:
       * hypotension, 
       * flush
 
+* 3mån gosse
+
+  * PN, 3.5kg. god tillväxt initialt. men flackande tillväxt senaste månaden. Familj söker akut pga gosse inet velat äta som vanligt senaste veckan. TRöttare, andas snabbt, är nästäppt förkyld. Hela familjen är förkyld. AT: Takypne´, AF 70/min, subcostala indragningar. Sat 93%. Temp 38.3 Blek. Kap refill 2 sek. ✓Cor: RR, HF 170 spm, pansystoliskt BL PM I3 sin grad 3/6. Ökad prekordiell aktivitet ✓Pulm: Slembiljud bilat ✓Buk: Mjuk, ingen säker leverförstoring ✓Pulsar: Ua i a femoralis
+  * Blodgas: pH 7,32, pCO2 6,7, BE -4, bikarbonat 21, laktat 2 ❑Hb 105, LPK 7, CRP 35 ❑RS snabbtest neg
+    * <img src="./imgs/sam_180421_J6TM1iAKtH.png" alt="J6TM1iAKtH" style="zoom: 25%;" />
+
   
 
 
@@ -7141,16 +7155,73 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-#### Atrial septal defect (ASD)
+#### ASD
 
-* Defect in the septum that divides right and left atria; most common type is ostium
-  secundum (90% of cases).
-* Ostium primum type is associated with Down syndrom
-* Results in left-to-right shunt and split S2 on auscultation (increased blood in right
-  heart delays closure of pulmonary valve)
-* Paradoxical emboli are an important complication
+***Allmänt***
+
+* Atrial septal defect
+* Förmaksseptumdefekt
 
 
+
+***Etiologi***
+
+* **Pathoma**
+  * Defect in the septum that divides right and left atria; most common type is ostium
+    secundum (90% of cases).
+  * Ostium primum type is associated with Down syndrom
+  * Results in left-to-right shunt and split S2 on auscultation (increased blood in right
+    heart delays closure of pulmonary valve)
+  * Paradoxical emboli are an important complication
+* **Anatomiskt**
+  * ASD secundum vanligast: över fossa ovalis; ofta fina kanter möjliggör kateterbunden slutning av defekt vid behov
+  * ovanligare former behöver slutas kirurgiskt
+* **Hemodynamiskt**
+  * VÄ-HÖ shunt, DIASTOLE, med LÅG tryckskillnad
+  * Lågnsam utveckling volymbelastning av högersidiga hjärtrummen
+  * ökat flöde pulmonalisklaffen
+  * ökat lungblodflöde
+
+
+
+***Kännetecken***
+
+* Ingen turbulens i själva ASD
+* med tiden: systoliskt blåsljud PMI2 sin
+* med tiden: konstant splittring S2
+* SÄLLAN KLINISK SVIKT hos barn
+* ofta dikreta symptom, varierande symptomutveckling
+* upptäcks accidentellt: blåsljud, stort hjärta rtg, högersidigt skänkelblock EKG (RBBB)
+* tydliga symptom ofta i tonår, vuxen ålder:
+  * dålig org
+  * anstränigningdyspn
+  * pneumoni
+  * över 30åå risk för pulmonell hypertension + förmaksarrytmier
+
+
+
+***Epidemiologi***
+
+* 50% får diagnosen i vuuxen ålder
+
+
+
+***Handläggning***
+
+
+
+***Behandling***
+
+* Avvakta åtgärd välmående barn till MINST 2månaders ålder
+* kan intervention indicerad: OM tydlig volymbelastning höger kammare sekundärt t stor ASD kvarstår, 
+* Bot: kirurgisk slutning eller devicebehandling
+* prognos god
+
+
+
+| <img src="./imgs/sam_180421_ATAW60HAIT.png" alt="ATAW60HAIT" style="zoom:50%;" /> | <img src="./imgs/sam_180421_oIXQeXPY9B.png" alt="oIXQeXPY9B" style="zoom:50%;" /> | <img src="./imgs/sam_180421_Is7dD6Tu4v.png" alt="Is7dD6Tu4v" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
 
 
 
@@ -7255,20 +7326,54 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-#### Patent ductus arteriosus (PDA)
+#### PDA
+
+
+
+***Allmänt*** 
+
+* Persisterande ductus arteriosus 
 
 
 
 ***Etiologi och patofysiologi***
 
-* **Failure of ductus arteriosus to close;** 
-* associated with **congenital rubella**
-* ***VÄ-HÖ shunt***: between the aorta and the pulmonary artery
-* **Normalt sett, fostercirkulationen**
-  * ductus arteriosus normally shunts blood from the pulmonary artery to the aorta, 
-  * ***bypassing the lung***
-* Asymptomatic at birth with continuous 'machine-like' murmur; 
-* may lead to Eisenmenger syndrome, resulting in lower extremitets cyanosis
+* **Illustrated paed och BRS**
+  * **Failure of ductus arteriosus to close;** 
+  * associated with **congenital rubella**
+  * ***VÄ-HÖ shunt***: between the aorta and the pulmonary artery
+  * **Normalt sett, fostercirkulationen**
+    * ductus arteriosus normally shunts blood from the pulmonary artery to the aorta, 
+    * ***bypassing the lung***
+  * Asymptomatic at birth with continuous 'machine-like' murmur; 
+  * may lead to Eisenmenger syndrome, resulting in lower extremitets cyanosis
+* **Enl FL**
+  * flöde styrs storlek förbindelse + förhållande resistens i lung resp systemcirk
+  * **Fullgången**: spontanslutning
+  * **Prematur**: en annan sak vd gäller slutning!
+
+
+
+***Epidemiologi***
+
+* 10% av alla hjärtfel
+
+
+
+***Kännetecken***
+
+* Liknar VSD symptomatologiskt
+* hjärtsvikt vid ca 2månaders ålder
+* livliga pulsar
+* status
+  * systoliskt (diastoliskt) blåsljud PM I2 sn; 
+  * ofta hörbart ryggen
+
+
+
+***Handläggning***
+
+* Som VSD
 
 
 
@@ -7276,6 +7381,18 @@ En kort lista över kliniska manifestationer av CF:
 
 * ***PGE*** indomethacin, which decreases PGE, resulting in PDA closure
 * (PGE maintains patency of the ductus arteriosus).
+* Bot vid hjärtsvikt
+  * Fullgångna: kateterintervention eller kirurgi
+  * Prematurer neonatalt: ibuprofen, kirurgi, kateterintervention
+* prognos: god
+
+
+
+
+
+| <img src="./imgs/sam_180421_sfwl1180Sv.png" alt="sfwl1180Sv" style="zoom: 25%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -7484,27 +7601,37 @@ En kort lista över kliniska manifestationer av CF:
 * **Results in left-to-right shunt**; 
 * **mängd shunting**: size of defect determines extent of shunting and age at presentation
 * **Eisenmenger**: large defects can lead to Eisenmenger syndrom
-* **Kirurgiskt**: treatment involves surgical closure; 
 * **Small**: 
   * mindre än aortavulv diameter perhaps to 3mm
   * small defects may close spontaneously
   * small defects are often asymptomatic; 
 * **Storleksordnat**: kliniken karak av storleken på VSD
+* **Enl FL**
+  * Flöde i systole avgörs av förbindelsens storlek o tryckförhållanden över förbindelsen
+  * Stort flöde: 
+    * volymbelastning och trycbelastning av lungcirkulationen
+    * Förstoring vä förmak och kammare
+    * tryckbelastning höger kammare
 
 
 
 ***Epidemiologi***
 
 * **Vanliga**
-* 30% av alla med kongenital hjärtsjukdom
+* 30%-25% av alla med kongenital hjärtsjukdom
 * **Ventrikulära septum**: Varhelst på septum, perimembranöst (brevid tricuspidalis) eller muskulärt (helt omgivet av muskel) kan man få en öppning. 
 
 
 
 ***Kliniska kännetecken***
 
-* This patient’s murmur is consistent with a small ventricular septal defect (VSD). With a small VSD, a patient is likely to remain asymptomatic with normal growth and development. Typically, the smaller the VSD, the louder the murmur. Small muscular or membranous VSDs may close on their own without intervention. Small VSDs do not generally result in congestive heart failure or in Eisenmenger syndrome. A patent ductus arteriosus would more commonly present with a machinery-like continuous murmur at the upper left sternal border. Balloon valvuloplasty is not indicated for a VSD
-* This patient’s signs and symptoms are consistent with congestive heart failure (CHF). Forms of congenital heart disease that increase pulmonary blood flow, obstruct outflow, or overload portions of the heart through valvular regurgitation are among the many causes of CHF. Of the choices listed, only a large ventricular septal defect, which has a large left-to-right shunt with increased pulmonary blood blow, would cause CHF in a child of this age. Atrial septal defects, small patent ductus arteriosus defects, and mild to moderate pulmonary stenosis do not typically cause CHF. Critical or severe aortic stenosis may cause CHF, but this usually occurs within 24 hours of birth.
+* **Enl FL**
+  * 2mån: inga till uttalade hjärtsvikt i takt med minskande lungkärlsresistens, dvs vid 2månaders ålder
+  * Status, kräver turbulent flöde: systoliskt blåsljud PM I3 sin
+    * !! LITEN VSD HÖRS TIDIGT
+    * Stor VSD hörs SENARE
+  * EKG: normalt till Vänsterkammarförstoring till biventrikulär hypertrofi
+  * RTG: hjärtförstoring, ökad lungkärlsvidd
 * **Enl Illustrated Paed**
   * **Små VSD**
     * **Asymptomatiskt**
@@ -7523,6 +7650,8 @@ En kort lista över kliniska manifestationer av CF:
       * Soft pansystolisk blåsljud eller inget blåsljud (implying large defect)
       * Apikal mid-diastoliskt blåsljud (fr ökad flöde över mitralis efter att blodet cirkulerat gm lungorna)
       * Loud pulmonary second sound (P2): fr raised pulmonary artery pressure
+  * This patient’s murmur is consistent with a small ventricular septal defect (VSD). With a small VSD, a patient is likely to remain asymptomatic with normal growth and development. Typically, the smaller the VSD, the louder the murmur. Small muscular or membranous VSDs may close on their own without intervention. Small VSDs do not generally result in congestive heart failure or in Eisenmenger syndrome. A patent ductus arteriosus would more commonly present with a machinery-like continuous murmur at the upper left sternal border. Balloon valvuloplasty is not indicated for a VSD
+  * This patient’s signs and symptoms are consistent with congestive heart failure (CHF). Forms of congenital heart disease that increase pulmonary blood flow, obstruct outflow, or overload portions of the heart through valvular regurgitation are among the many causes of CHF. Of the choices listed, only a large ventricular septal defect, which has a large left-to-right shunt with increased pulmonary blood blow, would cause CHF in a child of this age. Atrial septal defects, small patent ductus arteriosus defects, and mild to moderate pulmonary stenosis do not typically cause CHF. Critical or severe aortic stenosis may cause CHF, but this usually occurs within 24 hours of birth.
 
 
 
@@ -7541,13 +7670,29 @@ En kort lista över kliniska manifestationer av CF:
     * pulmonary oedema
   * **EKG**: biventrikulär hypertrofi vid 2mån ålder
   * **EKO**: Demonstrerar the anatomi of the defekt, hemodynamiskt effekt och pulmonary hypertension (pga högt flöde)
-* 
+* **Enl FL**
+  * invänta lungkärlsresistens sjunker under de första 2månaderna
+  * invänta slutningstendens: förbindelsen minskar i storlek över tid! om bukt med hjärtsvikt kan dt löna sig att vänta
+  * behandla hjärtsvikten, i väntan på naturlig slutning, kirurg eller interventionisten
 
 
 
-| <img src="./imgs/ped_sam_090421_NkZ5Nsp8NT.png" alt="NkZ5Nsp8NT" style="zoom:50%;" /> | <img src="./imgs/ped_sam_090421_sU9xaDPiYo.png" alt="sU9xaDPiYo" style="zoom:50%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
+***Behandling***
+
+* Indikation intervention
+  * Operation under första levnadsmånaderna
+    * icke-restriktiv VSD med utan hjärtsvikt
+    * Restriktiv VSD med hjärtsvikt
+  * Restriktiv VSD utan hjärtsvikt: men volymbelastning av vänstersidiga hjärtrummen (Qp/Qs 1.5) efter va 2åå
+  * Bot: kirurgisk slutning, device
+    * risk: AV-block <1%
+    * prgonos god
+
+
+
+| <img src="./imgs/ped_sam_090421_NkZ5Nsp8NT.png" alt="NkZ5Nsp8NT" style="zoom:50%;" /> | <img src="./imgs/ped_sam_090421_sU9xaDPiYo.png" alt="sU9xaDPiYo" style="zoom:50%;" /> | <img src="./imgs/sam_180421_pBk0LGTs18.png" alt="pBk0LGTs18" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/sam_180421_HennWOMgXP.png" alt="HennWOMgXP" style="zoom:50%;" /> |                                                              |                                                              |
 
 
 
@@ -7575,7 +7720,176 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+
+
+***Utredning och handläggning***
+
+* EKG
+
+
+
+***Behandling***
+
+* Vagala manövrer: 
+  * Små barn: ispåse över ansikte 10s
+  * större barn: stimulerak räkreflex, valsalva (krystning), dricka isvatten
+* Adenosin 5mg/mL injektion
+  * avbrytande paroxysmal SVT, innefattande AV-noden
+  * åstadkommande kortvarigt AV-blockad, för diagnostik, påvisande och lokalisering accessorisk retlednignsbana med preexcitation, eller annan icke AV-nodpåverkande takykardi
+  * Kontraindikation
+    * preesciterat förmaksflimmer
+    * antidrom överledning
+    * blockering AV-nod, finns risk snabbt överlett förmaksflimmer direkt via accessorisk bana t kamrarna. Vilekt i sin tur kan leda till allvarlig ventrikulär arrytmi
+  * adenosin blockerar överledning AV-nod, samt perifer vasodilat. kortvarig effekt. halveringstid 10s
+  * Biverkningar: flush, hypotension, bradykardi, huvudvärk, illamående, andnöd, brokospasm
+  * Föreberedelser: ska finnas defib tillgängig, på avdelning eller barnakut. iv-infart ska föreligga. kontinuerlig EKG övervak.
+*  Andrahandsmedicinering
+  * Opåverkad lindrigt påverkad pat: 
+    * över 1åå: betablockad po
+    * under 1åå: betblockad eller digox po
+    * nytt försök adenosin efter tilläggsmedicinering kan prövas efter 30-60s
+  * påverkad patient, tydligt
+    * digoxin ladddos
+    * betblockad iv
+    * adenosin nytt försök
+    * overdrive stimulering via esofagus EKG elektrod: bryter AVRT, förmaksfladder, flimmer, EAT. Inte EAT PJRT JET VT sinustaky
+  * Cirkulatoriskt påverkad patient
+    * !! Elkonvertering: bryter AVRT, förmaksfladder, flimmer, VT, en del EAT. inte autonom EAT, PJRT JET, sinustaky.
+    * amiodaron
+    * flekainid
+* El-konvertering: detta kan man också använda
+
+
+
+### Hjärtsvikt
+
+#### Allmänt
+
+***Etiologi***
+
+* Shuntproblem = vanligaste orsaken till hjärtsvikt hos barn
+* Hjärtsvikt: oförmåga hjätra upprätthålla cirkulation t kroppens organ UTAN potentiellt farliga kompensationsmekanismer används
+* **Shuntrelaterad etiologi**
+  * **Restriktiv förbindelse**
+    * shuntens storlek, eller förbindelsen mella hö o vä cirkulation, är ringa, alltså så pass liten
+    * möjliggör NORMAL TRYCKSKILLNAD 
+      * VSD: mellan vänster hö kammare
+      * PDA: aorta och lungpulsåder
+    * INGEN risk för utveckling av lungkärlsförändrignar (pulmonary vessel changes; pulmonär resistensförändring)
+    * även om shunten består
+  * **Icke-restriktiv förbindelse**
+    * Förbindelsen är så stor
+    * Sker TRYCKUTJÄMNING mellan
+      * VSD: vänster o höger kammare
+      * PDA: aorta och lungpulsåder
+    * Denna UTJÄMNING i tryck leder till att 
+      * lungkärlsbädd utsätts FÖR SYSTEMTRYCK
+      * HÖGT volymflöde till LUNGKÄRLSBÄDD uppstår i takt med att LUNGKÄRLSRESISTENSE minskar (under neonatal perioden)
+      * Risk utveckling irreversibla lungkärlsförändringar: Eisenmenger, med STIGANDE lungkärlsresistens,  om shunten består och inte åtgärdas i tid
+  * **Truncus arteriosus**: länk mellan aorta och pulmonary artery, att proximalt är aorta och arteria pulmonalis helt förenade, men splitas senare
+    * också risk att för mkt blodflöde till lungorna
+* För svagt myokardium
+  * Kardiomyopati
+    * DCM
+  * Myokardit
+  * Kawasakis
+  * 
+
+
+
+***Kännetecken***
+
+* Spädbarn
+  * Tillväxthämning, dålig tillväxt: signifikant mkt energi används av hjärtat för att jobba
+  * Andningssvårigheter: lungödem, varpå bukandning och accessoriska muskler. 
+    * Fremissemang
+  * Takypne
+  * Takykardi
+  * Matningssvårigheter: 
+  * Svettas vid matning: extra arbete att äta
+  * Sover mer, eller har mindre energi: för att hjärtat arbetar så mkt
+  * Liten och wasted utseene
+  * hepatomegali: leverförstard, pga congestion av högerhjärta
+  * puffiness ögoneller fötter när högerhjärtat sviktar
+  * Försenad utveckling: vad gäller de olika milstenarna
+* Äldre barn
+  * Inkapabla till idrott eller aktivitet: andfådda snabbadre, jfr andra barn, behöver vila oftare. 
+  * Andfåddhet: gå upp trappor, gå en promenad
+  * Svimning under ansträngning
+  * dålig aptit
+  * viktförlust, kan ej gå upp i vikt
+  * vätskeretention och viktuppgång: puffy utseende
+  * extra sound när auskulterar: gallop
+  * bröstsmärta
+  * yrsel
+  * synkope
+  * palpitationer
+
+
+
+***Utredning***
+
+* EKO
+* rtg: om hjärta förstorat, eller extra blodflöde lungor
+* Ansträngningstest: progress hjärtsvikt
+* Hjärtkateterisering
+* MR: äldre barn, evaluera funktion
+
+
+
+***Behandling***
+
+* Åldersspecifik
+* Rytmproblem: farmakologiskt
+* VSD: temporärt medikamentellt, för att tillåta hålet att minska i storlek, eller ge barnet tid att växa innan kirurgi
+* Kirurgi: hjärttranspalant, 
+* VAD: ventricular assist devices
+* Läkemedel
+  * DIuretika: eliminera vätska; första lkm t spädbarn och barn
+  * BT-sänkande: ACEh, betablock (propranolol)
+  * Digoxin: för att assistera ventrikulär funktion
+* Extra kalorier, så att de stiger i vikt
+
+#### Eisenmengers syndrom
+
+***Etiologi***
+
+* Irreversibel förhöjning lungkärlsresistens
+* utvecklas pga lungkärlsförändringar
+* om stor shunt förblir obehandlad över tid
+* Leder t att shunten successivt vänder fr VÄ-HÖ till HÖ-VÄ
+* cyanos som följd
+
+
+
+***Kännetecken***
+
+* Cyanos: av omvänd shunt, med HÖ-VÄ shunt
+* Sällan före 2åå
+* Mb Down 6mån
+
+
+
 ### Hjärtshuntar
+
+
+
+#### Allmänt
+
+***Etiologi***
+
+* Se Hjärtsvikt
+
+
+
+#### VÄ-HÖ shuntar
+
+***Etiologi***
+
+* Flöde fr systemcirk till lungcirk
+* !!! föruitästtning tuveckling pulmonell övercirkulation är om FÖRBINDELSEN ÄR TILLRÄCKLIGT STOR
+
+
 
 #### HÖ-VÄ shuntar
 
@@ -7583,6 +7897,9 @@ En kort lista över kliniska manifestationer av CF:
 
 * TGA
 * Fallots triad, tetralogy of fallot
+* Flöde fr lungcirk till systemcirk.
+* förutsättning för utveckling CYANOS om förbindelsen är tillräckligt stor
+* !!! kan ses neonatalt INNAN lungkärlsresistensen sjunkit
 
 
 
@@ -7616,19 +7933,90 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### Perikardit
+### Perimyokardit
 
 
 
 ***Presentation***
 
 * A 7-year-old boy presents with a 3-day history of fever (temperature to 39.7°C [103.5°F]), shortness of breath, and weakness. He also complains of chest pain, which is most intense when he lies down and improves when he sits upright. His past medical history is significant for closure of a ventricular septal defect 2 weeks ago. Which of the following findings is consistent with the most likely diagnosis?
+  * This patient’s clinical presentation is most consistent with pericarditis. The likely cause of his pericarditis is postpericardiotomy syndrome, given the recent closure of his ventricular septal defect before the onset of his symptoms. Postpericardiotomy syndrome is believed to be an autoimmune response to a concomitant viral infection and is associated with opening of the pericardium during cardiac surgery. Pulsus paradoxus, or a greater-than-10 mm Hg drop in systolic blood pressure on deep inspiration, is found in patients with pericarditis. Splinter hemorrhages are noted in patients with endocarditis, which is also associated with fever. Supraventricular tachycardia, which would present as a rapid heart rate with absent P waves on electrocardiogram, may cause chest pain, but the pain would not change with position and fever would be absent. Prolonged QT syndrome is most often associated with syncope and sudden cardiac arrest. Costochondritis is a common cause of chest pain, but fever is not associated with this diagnosis.
 
 
 
-***Kliniska kännetecken***
+***Etiologi***
 
-* This patient’s clinical presentation is most consistent with pericarditis. The likely cause of his pericarditis is postpericardiotomy syndrome, given the recent closure of his ventricular septal defect before the onset of his symptoms. Postpericardiotomy syndrome is believed to be an autoimmune response to a concomitant viral infection and is associated with opening of the pericardium during cardiac surgery. Pulsus paradoxus, or a greater-than-10 mm Hg drop in systolic blood pressure on deep inspiration, is found in patients with pericarditis. Splinter hemorrhages are noted in patients with endocarditis, which is also associated with fever. Supraventricular tachycardia, which would present as a rapid heart rate with absent P waves on electrocardiogram, may cause chest pain, but the pain would not change with position and fever would be absent. Prolonged QT syndrome is most often associated with syncope and sudden cardiac arrest. Costochondritis is a common cause of chest pain, but fever is not associated with this diagnosis.
+* Inflamation
+  * Infektiös
+  * Autoimmun
+  * Toxisk
+* med utan nedsatt funktion
+* Virusorsakad
+  * Enterovirus, coxsackieB3: klassisk, hittas mindre i nyare studier
+  * Adenovirus: gemensam receptor coxsackie, lindrigare förlopp, minskande frekvens
+  * influensa, H1N1
+  * herpesvirus: EBV, CMV, HHV6
+  * parvovirusB19: vanligare, angriper endotel, ST förändringar, återfinns bopsier
+  * HIV
+* Bakteriell
+  * Chagas sjd: T cruzi, betareceptorantikroppar
+  * difteri
+  * borrelia
+* Autoimmun
+  * jättecellsmyokardit: ovanlig hos barn, dålig prognos
+  * hypereosinofilt syndrom
+  * juvenil kronisk artrit
+  * reumatisk feber
+
+
+
+***Kännetecken***
+
+* Hjärtsvikt: fulminant möjligt
+* Bröstsmärtor
+  * EKG: dynamisk ST-höj
+  * hjärtenzymer
+  * ovanligt
+  * god prognos
+* Arrytmier
+  * AV-block III, nytillkommet
+  * VT
+* Plötslig död
+* Subklinisk
+
+
+
+***Utredning***
+
+* Diagnostik
+  * ekg
+  * biomarkörer:
+    * troponin T, troponin I
+    * CKMB
+    * BNP, NT-proBNP
+    * inflammatoriskt: CRP, SR, LPK, ALB
+    * Specifika antikroppar: myosin, Beta-receptorer
+  * virusdiagnostik: luftvägar, urin, faeces, blod
+  * eko
+  * MR-hjärta
+  * hjärtbiopsi
+
+
+
+***Behandling***
+
+* Symptomatiskt: observation, vila, aktivitetsrestriktion, arbetsprov efter 3-6månader
+* pacemaker: temporär el permanent
+* antiarrytmika
+* hjärtsviktsbehandling:  EJ DIGOX
+* iva: inotropi, ECMO
+* Spec beh: IVIG, antiviral terapi, immunsuppression (jättecellsmyokardit, inflam myokard bestående)
+
+| <img src="./imgs/sam_180421_DhQHvxCX1X.png" alt="DhQHvxCX1X" style="zoom:50%;" /> | <img src="./imgs/sam_180421_5iasCKYMbo.png" alt="5iasCKYMbo" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
 
 
 
@@ -7722,12 +8110,142 @@ En kort lista över kliniska manifestationer av CF:
 ***Presentation***
 
 * Evelina 12år gammal
-  * rätt: har just inkommit till akuten där du tjänstgör som barnjour. Hon har svimmat i skolan för en knapp timme sedan. Vilka frågor rörande svimningen som talar för en kardiell synkope ställer du till flickan och medföljande pappa? 
+  * har just inkommit till akuten där du tjänstgör som barnjour. Hon har svimmat i skolan för en knapp timme sedan. Vilka frågor rörande svimningen som talar för en kardiell synkope ställer du till flickan och medföljande pappa? 
   * Skedde svimningen i samband med fysisk aktivitet? Finns hereditet för plötslig död? Känsla av oregelbunden rytm före svimningen? 
-  * Skedde svimningen i samband med fysisk aktivitet? Koppling till rädsla? (T ex i samband med vaccination i skolan.) Var svimningen brutal? (T ex fall utan att ta emot med händerna) c) Skedde svimningen i samband med fysisk aktivitet? Känsla av oregelbunden rytm före? Ätit och druckit sparsamt senaste dygnet? 
+  * Skedde svimningen i samband med fysisk aktivitet? Koppling till rädsla? (T ex i samband med vaccination i skolan.) Var svimningen brutal? (T ex fall utan att ta emot med händerna) 
+  * Skedde svimningen i samband med fysisk aktivitet? Känsla av oregelbunden rytm före? Ätit och druckit sparsamt senaste dygnet? 
   * Skedde svimningen i samband med stor stress? Koppling till rädsla? (T ex i samband med vaccination i skolan.) Finns hereditet för svimning? 
   * Skedde svimningen i samband med stor stress? I samband med uppresning från sittande till stående? Finns hereditet för plötslig död? 
   * Skedde svimningen i samband med stor stress? Hereditet för plötslig död? I samband med uppresning från sittande till stående? 
+
+
+
+***Definition***
+
+* PLötsligt + snabbt övergående förlust medvetande + muskeltonus
+* duration några sekunder
+* orsakas av NEDSATT CEREBRALT BLODFLÖDE
+* föranleder: ingen återupplivning + inga organiska skador
+
+
+
+***Etiologi***
+
+* **Vanligen benignt**
+  * Vasovagal reaktion
+  * ortostatism
+  * andningsuppehåll
+  * men gäller att hitta ökad risk för död
+* **Kardiogen**
+  * Hjärtsvikt
+  * Arrytmirelaterat?
+* **Icke-kardiogen**
+  * !! ortostatism
+  * reflexutlöst
+  * andningsuppehåll
+  * !! ansträningskorrelerad..
+  * Neuropsyk
+  * metabol
+  * intox
+* **Vasovagal reaktion**
+  * vanligen försymptom, presynkope: HV, yrsel, synförändrignar, illamående, blekhet
+  * ofta föregående händelse: lång stillastående (luciatåg, körsång), smärta, oro, sett blod, het fuktig omgivning, litet utrymme dålig lugt, stress eller tuff lång fysisk aktivitet
+  * utlösas av: miktion, hoststöt
+* **Ortostatisk hypotension**
+  * Normala adrenerga vasokonstrik saknas
+  * BT drf går ner + pulshöjning UTEBLIR
+  * mäter BT skillnad >20mmHg mellan liggande + stående efter 3min
+  * kan orsakas av:
+    * blödning
+    * dehydrering
+    * graviditt
+    * lkm
+    * infektion
+* **Svimning spädbarn: vanligen 3-6mån**
+  * aktivitet eller emotion
+  * leder t skrik eller andningsupphåll, stelhet, blekhet,
+  * varar ngn minut, sedan sömn
+  * uteslut: arrytmi, kramp, anemi
+* **Ansträngningsutlöst**
+  * Tävlingssituationer
+  * ungdomen tar ut sig helt: e.g. långdistanslöpning
+  * får BT fall: blod ansamlas benen, dehydrering, hypoglykemi
+* **Neuropsyk**: ångst, hyperventilation, migrän, stryplek
+* **Metabol**: 
+  * hypoglykemi, elektrolytstörningar, anorexi, anafylaxi, hypothyreos
+  * Intox: droger, minskar 
+    * cardiac output: barbiturater, TCA, fenothiazider
+    * cerebral påverkan: kokain, alkohol, marijuana, opiater
+* !! **Kardiogen svimning**
+  * Reducerat cerebralt blodflöde 
+  * pga ineffektiv hjärtfunktion
+  * **Försämrad vänsterkammarfyllnad**
+    * Arrytmi:
+      * !! Takykardi: SVT, Fladder, flimmer, VT
+      * Bradykardi: AV-block, pacemaker, dysfunktion
+    * Pulmonell hypertension
+    * mitralisstenos
+  * **Nedsatt cardiac output**
+    * Aortastenos
+    * pulmonell hypertension
+    * hypertrof kardiomyopati
+  * **Nedsatt hjärtfunktion**
+    * Neuromusk sjd
+    * DCM
+    * myokardit
+    * !! Kawasakis sjd
+    * Abdnormalt mynnande koronarkärl
+  * Arrytmi med bakomliggande elektrofysiologisk störning
+    * LQTS
+    * kort cQT: cQT-tid under 0.3s
+    * WPW
+    * ARVD: arrytmogen högerkammare
+    * Brugada
+    * Katekolaminerg polymorf ventrikeltakykardi
+
+
+
+***Epidemiologi***
+
+* 15% barn mellan 8-18åå har svimmat
+* svimning står för 3% av akutbesöken
+
+
+
+***Kännetecken***
+
+* Ansträngningsutlöst?
+* **kardiogen orsak är allvarlig, ska misstänkas när:**
+  * Svimning liggande eller ansträngning
+  * Samtidig bröstsmärta +- palpitationer
+  * !! Handlöst fall UTAN förkänning
+  * Medfött hjärtfel
+  * Ärftlighet plötslig död före 30åå
+
+
+
+
+
+***Utredning***
+
+* Anamnes
+  * tidpunkt
+  * position före svimning: stående, liggande, et
+  * aktivitet
+  * andar symptom
+  * duration
+  * utseende efter
+  *  tidigare sjd
+  * lkm
+  * familjehistoria: plötslig död före 30åå, vasovagl svimningi  familjen
+  * släkting dött före 30åå: fysisk aktivitet, simnnig, singelolcyka
+* Status
+  * Auskultation
+  * BT, puls liggande och stående efter 3 min: sänkning 20mmHg eller 20slag/min är patologiskt
+  * Neurostatus
+* EKG
+* blodprov: sällan givande, men kan vid nära anslutnngi svimning, B-glul, Hb, elektrolyter, gravtest
+* Remiss: misstänkt hjärtsjd, patologiskt EKG, bröstsmärta eller cyanos vid svim, patologisk neurologi, anamnes talande för kramp, ortostatisk hypotension som ej svarar på vätska, förlängd medvetandeförlust, kramp, migrän, förgift
 
 
 

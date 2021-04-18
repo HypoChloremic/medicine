@@ -4508,6 +4508,70 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+***Etiologi***
+
+* Parvovirus B19
+* !! Sickle cell: aplastisk anemi
+* DNA-virus
+* droppsmitta
+* !! förökas i ertryopetiska celler i benmärgen
+* **Inkubationstid**: 4-14d
+
+
+
+***Epidemiologi***
+
+* vuxen ålder 50-80% immuna
+
+
+
+***Kännetecken***
+
+* Inga symptom 25-40%, den del
+* intialt katarrala symptom
+* följs av feber
+* sjukdomskänsla
+* klåda: ansikte, speciellt under fötterna
+* utslag: under 5-7d, ibland av o till under flera veckor
+  * intensivt röda på kinder
+  * slapped cheek
+  * bålen: fläckiga rodnade,c entral avblekning
+  * medför gilandformat utseende
+* ledvärk: händer, handledeer, knän, fotleder, ofta vuxna, kvarstår några veckro
+
+
+
+
+
+***Komplikationer***
+
+* Anemi: hos immunsupprimerade patienter med blodsjukdomar
+* Spontanabort om gravid: 5-10% risk hos gravida med symptom
+* Hydrops fetalis:, dyndrom med anemi, störd leverfunktion, myokardit, takyukardi, ascites hos foster
+  * Många orsaker
+  * däribland parvovirus B19
+  * risken 1-2%
+  * ignen ökad risk fostermissbildningar
+
+
+
+***Utredning***
+
+* Immunitet: IgG antikroppar
+* screening gravida ej meningsfullt
+  * viktigt ställa diagnos vid misstänkt primärinfektion
+  * drf föranleda fler UL kontroller
+* Hydrops fetalis: aktuellt intrauterin blodtransfusion
+
+
+
+***Behandling***
+
+* Specifik behandling finns inte
+* gammaglobulinbehandling (IvIg?): prövas hos immunsupprimerade
+
+
+
 ### Henoch-schönlein - IgA-vaskulit
 
 
@@ -7720,46 +7784,108 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+***Etiologi***
+
+* **Vanligaste formerna**
+  * **AVRT**: atrioventrikulär reentry takykardi; accessoriska banan separat fr AV-noden
+    * WPW: p
+  * **AVNRT**: atrioventrikulär nodal reentry; accessoriska banan finns i AV-noden
+  * båda dessa utnyttas accessorisk retledningsbana mellan förmak o kammare. 
+* **ofarlig arrytmi oftast**
+* **Nyfödda undantag**:  snabbt kan gå i svikt vid höga frekvenser
+* **Preexcitationssyndrom**: 
+  * förmaksimpuls leds förbi AV-nod
+  * syns deltavåg vid sinusrytm
+  * pågående takykardi: syns delta inte, eftersom överledning antegrad riktning i normala reledning och retrograd via accessorisk bana
+* **PJRT**: permanent junctional reciprocatinc tachycardia
+  * mer svårbehandlat
+  * viktiga utesluta itredning av DCM
+  * botande behandling finns
+* **Förmaksfladder**: ovanligt
+  * förekommer medfött hjärtfel
+  * förmaksfrekvens hög, inte sällan 400/min
+  * direkt relation till grad blockering i AV-nod
+  * adenosin overksamt
+  * elkonvertering akut vid cirkulatorisk påverkan
+  * betablock profylkatiskt
+* **Takykardi med breddökat QRS**
+  * regelbunden rytm + uniform QRS komplex
+  * orsakas barnaår oftast olika preexcitationssyndrom
+* **WPW**
+  * kombination preexcitation under sinus + takyarrytmi. dvs flerta ortodrom taku, antidrom taku, preexciterat FF
+  * ortodrom taky: dolt WPW, enbart retrograd överledning, påverkas av adenosin för att den kan chokeas där, ingen deltavåg
+  * risk plötslig död
+
+
+
+***Epidemiologi***
+
+* vanligaste arrytmiformen hos barn, alltså sinustakykardier..
+* Flesta taky hos barn: accessorisk bana
+* stigande ålder, ökande förekomst AVNRT
+
+
+
+***Differentialdiagnostik***
+
+* Svår
+
+
+
+***Kännetecken***
+
+* 220-300/min frekvens
+
 
 
 ***Utredning och handläggning***
 
 * EKG
+* Tillkalla narkosläare, intravenös infart, övervökning
+* SVT som fortsätter efter 1åå: högre risk för att vara persisterande...
 
 
 
 ***Behandling***
 
-* Vagala manövrer: 
-  * Små barn: ispåse över ansikte 10s
-  * större barn: stimulerak räkreflex, valsalva (krystning), dricka isvatten
-* Adenosin 5mg/mL injektion
-  * avbrytande paroxysmal SVT, innefattande AV-noden
-  * åstadkommande kortvarigt AV-blockad, för diagnostik, påvisande och lokalisering accessorisk retlednignsbana med preexcitation, eller annan icke AV-nodpåverkande takykardi
-  * Kontraindikation
-    * preesciterat förmaksflimmer
-    * antidrom överledning
-    * blockering AV-nod, finns risk snabbt överlett förmaksflimmer direkt via accessorisk bana t kamrarna. Vilekt i sin tur kan leda till allvarlig ventrikulär arrytmi
-  * adenosin blockerar överledning AV-nod, samt perifer vasodilat. kortvarig effekt. halveringstid 10s
-  * Biverkningar: flush, hypotension, bradykardi, huvudvärk, illamående, andnöd, brokospasm
-  * Föreberedelser: ska finnas defib tillgängig, på avdelning eller barnakut. iv-infart ska föreligga. kontinuerlig EKG övervak.
-*  Andrahandsmedicinering
-  * Opåverkad lindrigt påverkad pat: 
-    * över 1åå: betablockad po
-    * under 1åå: betblockad eller digox po
-    * nytt försök adenosin efter tilläggsmedicinering kan prövas efter 30-60s
-  * påverkad patient, tydligt
-    * digoxin ladddos
-    * betblockad iv
-    * adenosin nytt försök
-    * overdrive stimulering via esofagus EKG elektrod: bryter AVRT, förmaksfladder, flimmer, EAT. Inte EAT PJRT JET VT sinustaky
-  * Cirkulatoriskt påverkad patient
-    * !! Elkonvertering: bryter AVRT, förmaksfladder, flimmer, VT, en del EAT. inte autonom EAT, PJRT JET, sinustaky.
-    * amiodaron
-    * flekainid
-* El-konvertering: detta kan man också använda
+* **Profylaktisk behandling**
 
+  * första levnadsår: digoxin eller betablock
+  * Därefter: enbart betablock
+  * 4-5åå: radiofrekvensablation, som botande
 
+* **Akut behandling**
+
+  * **Vagala manövrer:** 
+    * Små barn: ispåse över ansikte 10s
+    * större barn: stimulerak räkreflex, valsalva (krystning), dricka isvatten
+  * Adenosin 5mg/mL injektion
+    * avbrytande paroxysmal SVT, innefattande AV-noden
+    * åstadkommande kortvarigt AV-blockad, för diagnostik, påvisande och lokalisering accessorisk retlednignsbana med preexcitation, eller annan icke AV-nodpåverkande takykardi
+    * Kontraindikation
+      * preesciterat förmaksflimmer
+      * antidrom överledning
+      * blockering AV-nod, finns risk snabbt överlett förmaksflimmer direkt via accessorisk bana t kamrarna. Vilekt i sin tur kan leda till allvarlig ventrikulär arrytmi
+    * adenosin blockerar överledning AV-nod, samt perifer vasodilat. kortvarig effekt. halveringstid 10s
+    * Biverkningar: flush, hypotension, bradykardi, huvudvärk, illamående, andnöd, brokospasm
+    * Föreberedelser: ska finnas defib tillgängig, på avdelning eller barnakut. iv-infart ska föreligga. kontinuerlig EKG övervak.
+  *  Andrahandsmedicinering
+    * Opåverkad lindrigt påverkad pat: 
+      * över 1åå: betablockad po
+      * under 1åå: betblockad eller digox po
+      * nytt försök adenosin efter tilläggsmedicinering kan prövas efter 30-60s
+    * påverkad patient, tydligt
+      * digoxin ladddos
+      * betblockad iv
+      * adenosin nytt försök
+      * overdrive stimulering via esofagus EKG elektrod: bryter AVRT, förmaksfladder, flimmer, EAT. Inte EAT PJRT JET VT sinustaky
+    * Cirkulatoriskt påverkad patient
+      * !! Elkonvertering: bryter AVRT, förmaksfladder, flimmer, VT, en del EAT. inte autonom EAT, PJRT JET, sinustaky.
+      * amiodaron
+      * flekainid
+  * El-konvertering: detta kan man också använda
+
+  
 
 ### Hjärtsvikt
 
@@ -11023,15 +11149,177 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
-## Pulmonologi
 
-
-
-### Allmänt
 
 ## Toxikologi
 
+### Allmänt
+
+***Etiologi***
+
+* Vanligaste toxin exponeringen är hushållsprodukter:
+    * flesta exponeringarna: kosmetika, personal care products
+    * rengöringsmedel
+    * hostmedel eller förkyulningsmedel
+    * vitaminer, inklusive järn
+    * analgetika: paracetamol, NSAID, ASA
+    * växter: 6-7% av alla oralt intagna intoxer...
+    * alkohol: etanol,
+    * hydrocarons: gasoline, paint thinner, furniture polish
+    * kolmonoxid
+    * förskrivna läkemedel
+    
+
+
+
+***Epidemiologi***
+
+* 60% av alla intoxer i barn sker under 6 år
+* 90% av intoxerna är accidentala; majoriteten hemma när vårdnadshavare är distraherad
+* flesta ämnen intas oralt av barnen. men kan inhaleras, spillas på hud eller ögon, eller injiceras intravenöst
+* mortalitet är under 1%
+
+
+
+
+
+***Kännetecken***
+
+* Dofter
+  * Bitter mandel: cyanid
+  * vitlök: arsenik, organofosfater
+  * aceton: salicylater, isopropyl alkogol
+  * wintergreen: metyl salicylater
+  * moth ball: camphor
+* Hud tecken
+    * Cherry red color, cherry röd: kolmonoxid, cyanid
+    * svettig: organofosfater, sympatomimetika (sympathomimetics)
+    * torr hud: antikolinergika
+    * urtikaria: allergisk reaktino
+    * grå cyanos: methemglobinemi
+* ögon
+    * miosis: opiater, phencyclidiner, organofosfater, phenothiazines
+    * mydriasis: amfetaminer, kokain, tricykliska antidepressiva, atropin
+    * nystagmus: dilantin, phencyclidine
+    * retinala blödningar: kolmonoxid, metanol
+* allmäntillstånd
+    * feber: kokain, TCA, phencyclidine, salicylater, thyroxin, antikolinergika, amfetaminer, teofyllin
+
+
+
+***Utredning och handläggning***
+
+* **Tänk på intox**: hos patienter som presenterar med icke-specifia tekcen och symptom
+  * kramper
+  * svår kräkning
+  * diarre
+  * dysrytmi
+  * förändrat sinnestillstånd, mental status
+  * abnormt beteende
+  * chock
+  * trauma
+  * icke-förklarad metabol acidos
+* **Anamnes**: fr vårdnadshavare typiskt sett identifierar intoxer
+    * **info om toxinet**: bör inkludera namnet, toxin koncentration om känt, och hur pat exponerats
+    * potentiell intox-dos räkanas fr worst-case scenario
+    * toxicitet är vanligtvis på basis av dos per kg kroppsvikt
+    * multipla ämnen eller medel hos ungdomar (adolescents)
+    * **Bakgrundsinfo**: plats där upptäckt patienten, växter, vitaminer, herbs, kemikalier hemma, tid som det skett
+    * läkemedel
+* **Status**: bör täcka allt, kan ge tecken på intoxmedel,
+* **Labb**:
+    * **screening**: glukso, u-tox, elektrolyter
+    * blodgas
+    * **anjon-gapet**: [Na - (cl + hco3)]
+    * Akuta intoxprover enligt lokala rutiner (etanol, metanol, paracetamol, aceton m m)
+    * Biologiska alkoholmarkörer vid misstanke om alkoholmissbruk (PEth, CDT)
+    * Drogscreening av narkotika i urinprov (på patienter med KAD)
+    * Riktade toxikologiska prover (urin, serum, ev hår naglar)
+    * Täta kontroller av elektrolytstatus (rutinstatus)
+    * Arteriella blodgaser med syra-basstatus (inklusive laktat, CO-Hb, Met-Hb)
+    * SvO2 och laktat vid misstanke om cyanidförgiftning eller grav hjärtsvikt
+    * B-glukos
+    * Myoglobin i serum (rabdomyolys)
+    * Hjärtenzymmarkörer vid kolmonoxidförgiftning eller EKG-förändringar eller hjärtischemi plus CO-Hb
+    * Spara och frys ett extrarör med venblod (serum) från inkomsten för kompletterande diagnostik i oklara eller mycket allvarliga fall
+
+
+
+***Handläggning***
+
+* Allmänna saker att tänka på
+    * **övervaka**: vakenhet, andning
+    * **understödja**: andning, cirkulation, vb
+    * **behandla**: akut förvirring, motorisk oro på ett lugnt säkert sätt
+    * identifiera tox agens
+    * **aktiv elimination, vid indikation**: ventrikeltömning, medicinskt kol, dialysbehandling. så länge nyttan överväger riskerna
+    * antidotbehandling, vid tydlig indikation
+    * **vårdnivå**: korrket vårdnivå för att korrekt handlägga evt sänkning medvetande etc
+    * uppföljning socialtjänst + psykiatri
+* Akut omhändertagande
+    * **ABCDE**: följ denna algoritm och allt vad det leder till, med syrgas, EKG, saturation, etc
+    * **infarter**: pvk, gärna två infarter
+    * artärnål, när medvetslös, acidos, cirkpåverkan
+    * cvk, nämns internetmed
+
+
+
+***Behandling***
+
+* Ventrikeltömning
+  * manuellt: endast småbarn, initialskedet
+  * ventrikelsköjning, grov sond gm munnen
+* Aktivt kol
+    * manuellt eller pipmugg
+    * deponerat (instillerat) i magen via ventrikelsond upplöst i vatten
+
 ### Alkoholintox
+
+
+
+
+
+### Huggormsbett
+
+
+
+***Etiologi***
+
+* Hemolys
+* DIC
+* ökat PKINR
+
+
+
+***Kännetecken***
+
+* Kraftig reaktion
+* svåra AT symptom
+* ubtredda hemorrhagiska ödem
+* barn riskgrupp: giftmängd t kroppsstorlek
+* allvarliga reaktioner, påminner om anafylaxi
+
+
+
+***Handläggning***
+
+* Övervak på sjukhus
+* Bör ligga ned och vila
+* biten krppsdel stilla, högläge
+* bettställe lämnas ifred
+* peroralt intag UNDVIKs första timmar
+
+
+
+***Behandling***
+
+* Om behandling
+  * adrenalin
+  * betapred
+  * tavegyl
+  * inotropa lm vid otillräcklig effekt
+
+
 
 ### Paracetamolintoxikation
 
@@ -11052,6 +11340,97 @@ Ataxic cerebral palsy is due to [...] damage.
   * När du tittar i jopurnal ser att hon var inne med vätskande brännskada armen, efter att hon fått te över sig då ingen vakade över henne
   * vilken ytterligare åtgärd behöver du nu vidta
     * Orosanmälan
+* Du är akutjour på barnakuten. Anna, 1,5 år inkommer med sin mormor. Hon har hittat Anna sittandes på golvet i badrummet lekande med en öppnad burk kapslar Panodil (paracetamol 500mg). Du undersöker Anna som är glad och opåverkad. Mormor har ingen aning om hur många tabletter som fanns i burken, och det går inte att utesluta att Anna fått isig tabletter.
+  * inläggningsfall, leverprover
+  * antidot: acetylcystein för att undvika leversvikt
+* Du är akutjour på barnakuten en torsdagkväll. Med ambulans kommer en 16-åriga Frida som är ledsen och luktar sprit. Enligt bästa kompisen som har larmat ambulansen har Frida SMS:at tidigare ikväll att hon inte längre vill leva. Frida, som är vaken och svarar på tilltal, berättar att hon för ungefär fyra timmar sedan tagit en massa värktabletter hon köpt på ICA och sköljt ned det med sprit från en dunk som pappa köpt av en kompis. a) När du har förvissat dig om att ABC är ok ordinerar du intoxikationsprover från infarten som ambulansen satt.
+    * Vilka substanser är de viktigaste att fråga efter i det här läget (ange 4 st)? (1p): paracetamol, etanol, metanol, ASA (enl tentadok)
+    * acetylcystein mot värktabletten, motverkar leverskador om ges innan paracetamolet brytits ned...
+    * utöver bakjour, andra kontakter: BUP, Socialtjänsten, föräldrar (enl tentadokument)
+
+
+
+***Kännetecken***
+
+* Tid efter intag
+  * 30min-24h: asymptomatisk, eller kräkningar och diarre
+      * buksmärtor, ibland mer lokaliserat i övre högre kvadranten
+      * illamående, kräk, diarre
+      * takykardi
+      * medvetandepåverkan,
+  * 18-25h:
+      * minskad symptom
+      * ASAT och ALAT höjning
+      * stegring av PKINR
+      * blodlaktatstegring 2-3mM.
+  * 24-72h: gastrointestinala symptom resolve; vid 36timmar lever transaminaser stiger (ASAT,ALAT)
+  * 72-96h: levernekros, hepatisk nekros, ikterus, hypoglykemi, laktacidos, leverencefalopati, koagulopati, eller njursvikt
+  * 4d-2v: resolution av symptom, progressiv leverskada kräver levertransplantation eller död
+
+
+
+***Differentialdiagnoser***
+
+* Gastroenterit
+* gastrit
+* hepatit
+* pankreatit
+* svampförgiftning
+
+
+
+***Handläggning***
+
+* **Anamnes**
+* **Status**
+* **ABCDE**
+* **Labb**
+    * EKG
+    * S-paracetamol
+    * Blodstatus (Hb, LPK, TPK)
+    * Leverstatus (ASAT, ALAT)
+    * Koagulationsstatus (PK-INR, aPTT)
+    * Elektrolytstatus
+    * P-glukos
+    * S-amylas
+    * Venös eller arteriell blodgas (blodlaktat kan vara förhöjt vid allvarlig förgiftning)
+* **Monitorering**
+    * Daglig och v b uppföljning av:
+        * Leverstatus (ASAT + ALAT + PK-INR)
+        * Elektrolytstatus
+        * Syra-bas inklusive blodlaktat (4-5)
+        * Koagulationsstatus
+        * Vätske- och elektrolytbalans
+    * P g a risken för blandintoxikation skall ALLA intoxikationer monitoreras initialt med avseende på vitalparametrarna:
+        * Andning
+        * Cirkulation
+        * Vakenhet
+    * **S-paracetamol mätningar**: Tänk också på att ett normalt eller lätt förhöjt S-paracetamol kan ha varit högt och på väg ner, eller är på väg att stiga.
+
+
+
+***Behandling***
+
+* Acetylcystein iv
+  * Acetylcystein behandling vid icke-depotpreparat när s-paracetamol saknas: Starta behandling, ge först 200 mg/kg kroppsvikt i 500 ml glukos 50 mg/ml eller isoton NaCl under 4 timmar (50 mg/kg/timme) och därefter 6,25 mg/kg/timme under 16 timmar eller längre. Ring GIC om oklarhet, 010 456 67 00.
+  * Acetylcystein vid behandling av icke-depotpreparat ges enligt nedan när svar på s-paracetamol finns: Acetylcystein insätts om s-paracetamol ligger > 1000 mikromol/l vid 4 timmar, 700 mikromol/l vid 6 timmar, 500 mikromol/l vid 8 timmar och 350 mikromol/l vid 10 timmar efter överdosering. Ring GIC vid oklarhet/osäkerhet, 010 456 67 00.
+  * Acetylcystein vid överdosering av depotpreparat: Exempelvis Alvedon 665 mg. Ge 200 mg/kg kroppsvikt i 500 ml isoton glukos eller NaCl-lösning under 4 timmar. Därefter underhållsbehandling med acetylcystein 12,5 mg/kg/timme under minst 20 timmar. 150 mg/kg löses i 500 ml under varje 12 timmars period. Innan acetylcysteinbehandlingen avslutas skall s-paracetamol kontrolleras och inte vara påvisbart.
+* Ventrikeltömning och medicinskt kol
+    * Ventrikeltömning samt medicinskt kol eller enbart medicinskt kol (Kolsuspension 150 mg/ml, 100 ml) kan bli aktuellt.
+    * Kortare tidsintervall = bättre: Dessa åtgärder är dock mer effektiva ju kortare tidsintervall det föreligger mellan tablettintag och inkomst till sjukhus.
+    * relativ kontraindikationer: mot kol är risk för aspiration vid exv kräkning och medvetandepåverkan.
+    * Överväg ventrikelsond vb.
+    * acetylcystein ge ej medicinskt kol: Rekommendationen är dock att antidot alltid bör ges intravenöst.
+* Elektrolytkorrektion, korrektio acidos: Korrektion av elektrolytstörningar och eventuell acidos
+* Undvik hypoglykemi
+* Upprätthåll god diures. Timdiures v b
+* Motverka hypotension
+* Undvik hypoxi
+* Antibiotika vid minsta misstanke om infektion
+
+
+
+
 
 
 

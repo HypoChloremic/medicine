@@ -4067,6 +4067,9 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * E coli
   * // Undrar om det förekommer 
   * Enl Illustrated paed
+    * andra gramnegativa bacilli
+    * pneumokocker
+    * HiB
     * Listeria Monocytogenes
 * **Barn 1mån-5åå**
   * Virus, ex RSV 
@@ -4489,10 +4492,29 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+***Etiologi***
+
+* HHV6, möjligen HHV7
+
+
+
+***Komplikationer***
+
+* Feberkramp: relativt sällsynt
+* Bör läggas in sjukhus för observation, enl IM
+
+
+
 ***Kliniska kännetecken***
 
-* Feber
+* Feber, 3-5d: kring 40grader, under 3-5d
 * Allmänt opåverkade: detta är karakteristiskt för dessa patienter
+* !! Förvånansvärt PIGGA
+* makulopapulöst utslag: skära t rosa, 2-5mm, ungefär på tredje dagen, när feber sjunkit snabbt
+* utslag börjar bålen, sprids armar, ben, nacke, ansikte
+  * kliar inte
+  * inte ömmande
+  * kvarstår timmar upp till 2-3d
 
 
 
@@ -4510,12 +4532,23 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Etiologi***
 
-* Parvovirus B19
-* !! Sickle cell: aplastisk anemi
-* DNA-virus
-* droppsmitta
+* **Parvovirus B19, DNA-virus**
+* !! **Sickle cell**: aplastisk anemi
+* **Droppsmitta**
 * !! förökas i ertryopetiska celler i benmärgen
 * **Inkubationstid**: 4-14d
+
+
+
+***Komplikationer***
+
+* Anemi: hos immunsupprimerade patienter med blodsjukdomar
+* Spontanabort om gravid: 5-10% risk hos gravida med symptom
+* Hydrops fetalis:, dyndrom med anemi, störd leverfunktion, myokardit, takyukardi, ascites hos foster
+  * Många orsaker
+  * däribland parvovirus B19
+  * risken 1-2%
+  * ignen ökad risk fostermissbildningar
 
 
 
@@ -4541,17 +4574,11 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+***Diagnos***
 
-
-***Komplikationer***
-
-* Anemi: hos immunsupprimerade patienter med blodsjukdomar
-* Spontanabort om gravid: 5-10% risk hos gravida med symptom
-* Hydrops fetalis:, dyndrom med anemi, störd leverfunktion, myokardit, takyukardi, ascites hos foster
-  * Många orsaker
-  * däribland parvovirus B19
-  * risken 1-2%
-  * ignen ökad risk fostermissbildningar
+* KLinisk diagnos
+* påbvisning B19-IgM indikerar akut eller nyligen infektion. utveclas inom dagar fr första symptom. kvarstr 2-4månader. IgG dagar efter detekterad IgM, kvarstår livet ut.
+* PCR-analys serum: av värde hos immunsupprimerad, pga bristande antikroppsfunktion har NEGATIV serologi
 
 
 
@@ -4569,6 +4596,16 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 * Specifik behandling finns inte
 * gammaglobulinbehandling (IvIg?): prövas hos immunsupprimerade
+
+
+
+
+
+
+
+| <img src="./imgs/sam_180421_zFLYT81h4q.png" alt="zFLYT81h4q" style="zoom:50%;" /> | <img src="./imgs/sam_180421_nOtbdcw2q0.png" alt="nOtbdcw2q0" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
 
 
@@ -5069,6 +5106,82 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+#### Krupp, pseudokrupp
+
+***Presentation***
+
+
+
+***Etiologi***
+
+* Luftvägsvirus
+  * parainfluensavirus
+  * influensea
+  * RS-
+  * adeno
+  * metapneumovirus
+* slemhinnesvullnad larynx trakea
+* subglottisk förträngning
+
+
+
+***Kännetecken***
+
+* !! **6mån-3åå**
+* äldre barn kan drabbas
+* akut insjuk
+* heshet
+* inspiratorisk stridor
+* skällande hosta
+* indragningar
+* oftast nattligt uppvak
+* ett par timmar efter sänggående
+* ibland föregående ÖLI symptom, 
+* ibland feber
+
+
+
+***Utredning och handläggning***
+
+* Klinisk diagnos
+  * ingen utredning
+  * Undersökning
+    * Vilostridor
+    * jugulära indragningar, interkostala indragningar, indragning under arcus, ångest, lufthunger, 
+    * saturation
+    * sedvanligt status
+  * Allmänpåverkan
+  * uttalad andningsbesvär, sittande position med framskjuten haka
+  * dysfagi
+  * dreglin
+* Andningspåverkat barn: kontakta narkos + ÖNH jour
+
+
+
+***DIfferentialdiagnoser***
+
+* Bakteriell trakeit
+* Epiglottit: ovanligt, bör dock beaktas ffa om ej erhållit Hib-vax
+* främmande kropp
+* retrofaryngeal abscess
+
+
+
+***Behandling***
+
+* Undvik stress
+* föräldrar ta upp barn, krama, lugna. låt det sitta upprätt i föräldrarnas knä
+* syrgas vb
+* kontrollera saturation: över 90%
+* Kall luft hjälper
+* Inhalationsbehandling
+  * Adrenalin
+  * maxin + NaCl: munstycke
+  * Aiolos.: adrenalin..?
+  * 
+
+
+
 #### Mykoplasma pneumona
 
 ***Presentation***
@@ -5122,11 +5235,79 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+***Etiologi***
+
+* **Aerob GNB**
+
+* **Bordetella pertussis**
+
+* **fäster luftvägarnas flimmerhår** (kinocilie)
+
+* **bakteriens endotoxin**: denna orsakar symptomen
+
+* **doppsmitta**: hsotattacker
+
+* **Väldigt smittsamt**: minskar successivt över 6v efter debut
+
+* **allvarligt för spädbarn**: cerebral hypoxi, vid apne attackerna..
+
+* **långvarig immunitet**: efter genomgågnen infektion
+
+* **Inkubationstid**: 1-2v
+
+* 
+
+  
 
 
 
+***Kännetecken***
+
+* Börjar förkylning + hosta
+* endat måttling eller INGEN feber
+* Hosta TILLTAR: kommer i attacker, blir mer intensiv
+* lungor töms luft, när sedan djup indandning hörs klippande kiknande ljud, ger sjd dess namn
+* Hosta nattetid, matintag, SPECIFIKT
+* hostattacker avslutas med kikning
+* barnet blir svullet runt ögon
+* blek
+* subkonjunktival blödning
+* sjukdomen över efter 6-8v, avklingar successivt
 
 
+
+***Komplikationer***
+
+* Pneumoni
+* otit
+* astma förvärras
+* farlig sjd spädbarn: risk cerebral hypoxi, encefalopati, dödsfall
+
+
+
+***Diagnos***
+
+* KLinisk diagnos, räcker i de fleasta fall: om man vet kikhosta förekommit i omgivningen
+* nasofarynxodling på aspirat BÄTTRE än pinne
+* PCR NPH aspirat
+* Lymfocytos, vid leukocytos
+* Serologi: vara av värde vid negativ odling eller PCR, men svår tolka
+
+
+
+***Utredning***
+
+* Diagnosticeras den i grupp barn: räkna med att felra är smittade
+
+
+
+***Behandling***
+
+* Antibiotika: erytromycin 7-10d
+  * första veckan av symptom: kan förbättra symptomen
+  * om kikningarna debuterat: antibiotika är verkningslöst ur behandlings synpunkt
+  * smittsamhet minskar efter 2d behandling
+  * 
 
 #### Pneumoni
 
@@ -5149,20 +5330,61 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
       * bensylpenicillin iv.
       * eller cefotax
 
-***Kliniska kännetecken***
+
+
+***Etiologi***
+
+* Mikroorganismer
+* icke-infek anledningar: aspiration, hypersens, LKM, strålning
+* VIralt
+  * virala patogen, vanligaste orsak NLI barn 1mån-5åå
+  * yngre än 2åå: RSV, rhinovirs
+  * andra virus: influensa, human metapneumovirus, parainfluensa, adeno, entero
+* Bakteriellt
+  * 3v-4åå: pneumokocker vanligaste agens
+  * 5åå o äldre: Mykoplasma pneumonae, klamydia pneumona
+  * förekommer: GAS, staffar (komplikation influensavirussjd)
+* Säsongsbundet: höst vinter
+
+
+
+***Kännetecken***
 
 * Takypne: kan vara det enda tecknet
 * Ytlig andning
 * Auskultation: dov påverkad sida, bronkiell andning, rassel
 * feber
-* ..
+* Andningssvårigheter
+* indragningar interkostalt, jugulum, näsvingespel
+* svårigheter matningt (orkar ej suga, släpper taget för att andas)
+* AF, 
+* saturation
+* Viral pneumoni
+  * börjar ofta ÖLI: nasal congestion, rinorrhe
+  * därefter: feber, hosta, dyspne
+  * takypen, ronki, rassel, respiratorisk distress
+* Bakteriell pneumoni
+  * Rapid osnet,
+  * svårare severity
+  * utan tidigare ÖLI, ofta: feber, hosta, dyspne
+  * status: rassel, takypne, dämpad andninsgsljud, egofoni, tecken respiratorisk distress
 
 
 
 **Utredning och handläggning**
 
 * 6åå-5åå: st användbara kriteriet för att bedöma pneunmni
-  * 
+* **Anamnes**
+* **Status**
+  * Titta på buken, bröstkorgen, när den andas
+  * **auskulterar sist**: gm tröja om den inte vill ta av sig
+  * **Aförhöjd AF**: säkraste tecknet pneumoni små barn. 
+  * **Större barn**: svarar ja åp om det är svårt att andas
+  * **rassel, dämpning**: 
+  * **virus och mykoplasma**: astmapip, ronki, ostktiva ljud, sibilanta ronki, vanliga vid infek med 
+  * **Saturation normalt 95%**: är saturationen under 92% ska barnet till sjukhus och behandlas med syrgas på grimma under transporten om möjligt, och på sjukhus
+* **Lungröntgen, kom ihåf diagnos klinisk!**: gold standard vid pneumom, dock klinisk diagnos gäller, bra om man är osäker
+* **UL-lungor**: upptäcker fler pneumonier än med röntgen
 
 
 
@@ -5170,13 +5392,25 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Behandling***
 
+* **LIndriga pneumonier:** oftast ej AB även om bakteriell. lindrig nnebär sat över 95%, ingen cyanos, ingen andnöd, inga tecken sepsis, eller tecken hjärtkärl lungsjd
 * ***Antibiotika***
-  * PcV förstahandsvalaet: peroral behandling (fenoxymetylpenicillin)
-  * // Amoxicillin: bättre smak, längre resoprtion, men kan selektera fram resistenta bakterier.
-  * Erytromycin: mykoplasma, klamydia, och penicillinallergi
-  * när iv antibiotika: 
-    * bensylpenicillin iv.
-    * eller cefotax
+  * mot förmodat agens
+  * empirisk behandling utifrån ålder
+  * **PcV förstahandsvalet, kåvepenin**: peroral behandling (fenoxymetylpenicillin)
+    * under 5åå: oral lösning 7d
+      * alt amoxi: 5d
+    * barn över 5åå: tablett pcv 7d
+  * // **Amoxicillin**: bättre smak, längre resoprtion, men kan selektera fram resistenta bakterier.
+  * **Erytromycin**: mykoplasma, klamydia, och penicillinallergi
+  * **när iv antibiotika**: 
+    * **barn <3mån**: pneumoni + chock eller dehydrering
+      * **måttlig pneumoni**: pcg 7d
+      * **allvarlig pneumoni**: pcg + genta 7d
+    * **barn >3mån**: pneumoni + chock el dehydrering
+      * **måttlig**, lobär infek: som ovan
+      * **allvarlig**: cefotax 7d
+    * **bensylpenicillin iv.**
+    * **eller cefotax**
 
 ### Nefrologiskt Urologiskt
 
@@ -5325,6 +5559,13 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 * RNA-virus
 * Toga-virus
+* anledning vaccin: SKYDDA OFÖDDA FOSTRET
+  * under graviditet om mamam röda hund
+  * !! leder t kongenitalt rubella syndrom
+  * särskild stor risk första trimestern
+  * jfr 5% vaccinerade gravida så ere nere 5% om ändå får röda hund, trots vaccni
+* Erbjud abort om gravid med röda hund: risk dövhet, blindhet, mikrocefali
+* Risk för: dövhet, blindhet, mikrocefali, hjärtsjokdomar
 
 
 
@@ -5332,6 +5573,8 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 * Blue-berry muffin rash
 * Kongenital katarakt: TORCH infektioner som kan ge e toxoplasmos, syfilis, rubella, CMB
+* beskedlig virusinfektion
+* kan asymptomatisk
 
 
 
@@ -5340,6 +5583,9 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 ***Behandling***
+
+* Beskedliga symptom för den vuxne som drabbas verkar det som
+* profylaktiskt: vaccinet; till för att skydda de gravida verkar det som också
 
 
 
@@ -9000,9 +9246,15 @@ En kort lista över kliniska manifestationer av CF:
     * Ny klinisk bedömning: neurostatus (fokalitet?)
     * Provtagning: P-glukos, CRP, ev neutrofila
     * Febernedsättande: alvedeon eller ipren
-    * Fortsatt observation vårdmottagningen
+    * Fortsatt observation akutmottagningen, vårdavdelningen,
   * Du gör en ny klinisk bedömning inklusive neurologistatus som är helt normalt. Algot får mer febernedsättande. CRP och P-glukos är normala. 
-    * 
+  * Vilka diagnoser har du att jobba med, vad atalar för eller emot
+    * virus uns med feberkramp: för hög feber, typisk feberkrmap, CRP negativ, talare emot spänd fontanell
+    * serös meningit: för hög feber, CRP negativ, spänd fontanell, emot: ej irritabel, ej nackstel
+    * bakteriell meningit: spänd fontanell, mot: opåverkat barn, ej nackstel, ej CRP neg, ignet avvikande neurostatsu, förutom spänd fontanell
+  * Under längre tid har man diskuterat effekten av febernedsättande behandling i samband med feberkramp hos barn. Baserat på ovanstående abstract och din kliniska erfarenhet – vad talar för respektive emot att behandla Algot med febernedsättande läkemedel vid nästa feberepisod? (2 p) Det saknas vetenskapliga belägg för nyttan av febernedsättande behandling vid efterkommande feberepisoder ur avseende att minska risken för ny feberkramp. Däremot kan nyttan i andra avseenden vara god; förbättrat allmäntillstånd, ökat vätskeintag, bättre sömn och kanske även lugnare föräldrar.
+    * allts ingen evidens för att antipyretika har en effekt på att sänka propenistet för att få en feberkramp
+  * Det finns ingen hereditet för krampsjukdom och Algot har inte heller haft någon krampliknande episod tidigare i livet. Du misstänker att Algot har en viros med feberkramp och bestämmer dig för att lägga in Algot för observation under natten med hänsyn till föräldrarnas oro och den sena timmen.
 
 ***Diagnos***
 
@@ -9034,7 +9286,11 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Utredning och handläggning***
 
-* Prover: Hb, CRP.
+* Prover: Hb, CRP, p-glukos, evt neutrofila
+* status: fullständigt status
+  * spänd fontanell, nackstelhet, allmänpåverkan etc.
+* Förstagångskramp, inläggning: inläggning enl IM för observation, men inte abbe
+* Gällande inläggning: att man kan stilla föräldrarnas oro. Man kan eventuellt observera ett antal timmar innan man skickar hem
 
 
 
@@ -9043,7 +9299,7 @@ En kort lista över kliniska manifestationer av CF:
 * Akut anfallskupering: 
   * midazolam iv: finns infart, ge midazolam
   * diazepam rektalt: Ingen infart ger midazolam rektalt
-  * 
+* Däremot kan nyttan i andra avseenden vara god; förbättrat allmäntillstånd, ökat vätskeintag, bättre sömn och kanske även lugnare föräldrar.
 
 #### West syndrome TODO
 

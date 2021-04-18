@@ -8828,6 +8828,21 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+***Etiologi***
+
+* TIdigare kallat aborted crib death eller near-miss SIDS
+* relationen med SIDS har inte klarlagts
+* barn ALTE ökad risk SIDS: dock etiologisk relation verkar ej finnas...
+* störningar kontrollmekanism andning cirkulation
+
+
+
+***Epidemiologi***
+
+* 9.4:1k
+
+
+
 ***DEfinition***
 
 * Plötslig oväntad episod
@@ -8838,6 +8853,51 @@ En kort lista över kliniska manifestationer av CF:
   * kvävning
   * ulkande
   * där barnet tillbaka t lviv efter kraftig omruskning eller konstgjord andning
+
+
+
+***Kännetecken***
+
+* Oftat under sömn
+* kan vaket tillstånd: amning, intag föda
+* ALTE vanligen första levnadsår
+* blekhet
+* cyanos
+* apne
+* hypotoni
+* hypotermi: vissa fall
+* majoirtet återställda, ter sig som vanligt ankomst sjukhus
+
+
+
+***Diagnos***
+
+* Uteslutningsdiagnos
+
+
+
+***Differentialdiagnoser***
+
+* GI-reflux
+* kramp
+* NLI: nedreluftvägsinfektion, pneumoni
+* hjärtrytmrub
+* Sepsis-meningit
+* Hypoglykemi
+* Lipidoxidationsdefekt
+* Elektrolytrubbningar
+* Neurologiska sjukdomar
+* Respiratoriska sjukdomar (andra än nedre luftvägsinfektion)
+
+
+
+***Utredning och handlägg***
+
+* differentialdiagnostiska överväganden som måste beaktas
+* Anamnes
+* Status: puls, hjärtfel auskultation, hudinspek, resporation, buk, 
+
+
 
 
 

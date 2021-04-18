@@ -481,7 +481,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * ***svar: förkylningsastma, rhinovirus, ventoline och syrgas.***
     
 * **Mustafa, 18 månader gammal,** 
-    
+  
     * inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft
         * ***Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva 	episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)***
         * ***Initial behandling på akuten:*** 
@@ -10562,7 +10562,7 @@ Ataxic cerebral palsy is due to [...] damage.
 * **Noel, 11 månader,** 
   * kommer med sin far till akuten pga gastroenterit sedan 2 dagar. Han behåller inget, kräks och har vattniga diarréer. Det är svårt att få i honom vätska. Han är slö och har torra slemhinnor, tachykard och har gått ner ca 1 kg i vikt. Han väger nu 10 kg. Blodgasen visar S-Na 156 mmol/l. Du ger en uppvätskning och därefter underhållsbehandling. Vilket av nedanstående stämmer som underhållsbehandling under 36 timmar? 
   * 5% glukos, Na 80-120, K 20, 2800ml + förluster 
-  * rätt: 5% glukos, Na 40, K 20, 1500ml + förluster 
+  * rätt: 5% glukos, Na 40, K 20, 1500ml + förluster  // detta kan vi ifrågasätta för att det är Na40, för hyperton dehydrering ska man ge Na 120mM..
   * 10% glukos, Na 80-120, K 40, 1500ml + förluster 
   * 10% glukos, Na 80-120, K 20, 2800ml + förluster 
   * Ringeracetat, 2800ml + förluster 

@@ -5543,6 +5543,13 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+| riktad vaccin högriskpatienter | TUberkulos BCG | HBV         |
+| ------------------------------ | -------------- | ----------- |
+| NYfödda                        |                | Högriskbarn |
+| 6 månader                      | Högriskbarn    |             |
+
+* HBV vaccin: erbjuda lla barn i Sverige. Nyfödda barn t mödrar med HBV, vaccineras direkt efter födel
+
 ### ÖNH
 
 #### AOM
@@ -10530,7 +10537,7 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
-## Vätskebalans
+## Vätska och nutrition
 
 ### Allmänt
 
@@ -10583,6 +10590,51 @@ Ataxic cerebral palsy is due to [...] damage.
   * Uppvätskning med Ringeracetat 250 ml, underhållsbeh med glukos 10% iv med elektrolyter Bolus Ringeracetat, Uppvätskning med vätskeersättning i sond, fortsatt underhåll i sond tills han orkar äta själv 
   * Bolus Ringeracetat, uppvätskning med Ringeracetat, underhållsbeh med glukos 5% iv med elektrolyter 
   * Rätt: Uppvätskning 500 ml vätskeersättning i sond, fortsatt underhåll i sond tills han orkar äta själv 
+* Alex 8mån, 9kg  
+  * tidg frisk. Magsjuk hemmet. INkommer akuten med ambulans pga uttalad slöhet på morgonen. insjuknat med feber o kräkningar sedan 2d, senaste dygnet voluminösa diarrrer. Påtagligt tagen vid ankomst. Vägde 9kg på BVC förra veckan, på akuten idag 8.5kg. Takykard. CRT 4sek
+  * **Undet det akuta skedet**: Ringer-Acetat, iv bolus, 180mL (20mL/kg)
+  * **Under de nämaste timmarna**: Ringer-acetat iv, 450mL/4h
+  * **Under det kommand dygnet**: Plasmalyte glukos, iv, 100mL x 9 = 900mL/24h
+
+* Miriam 7v, RS-virus bronkiolit 5kg
+  * PN, fullgången. förkyld snuva sedan 3d. tilltagande andningsbesvär o tröttehet. helamma, men sämre aptit sedan gårdagen. Relativt pigg vid ankomst, men rejält slemmig och snabbandad. vägde 5kg på bvc förra veckan. På akuten 4.8kg. normal HF. CRT 1.5s. Kissat sparsamt. 
+  * **Undet det akuta skedet**: behöver ingen bolus...
+  * **Under de nämaste timmarna**: sond ORS, 250mL/4h
+  * **Under det kommand dygnet**: sond, bröstmjölk, ersättning: 150mL x 5 = 750mL/24h
+
+* Spädbarn gosse
+  * Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cirkulationssvikt är avgörande för valet av behandling. En tidigare frisk ettårig gosse som väger 10 kg har inkommit till barnakuten där du vikarierar med symptom förenliga med en viral gastroenterit. Han har stora förluster och är hängig. Han har en kapillär återfyllnad på 4 sekunder och läpparna är torra
+  * Bolus Ringeracetat iv 200 ml följt av Ringeracetat iv 5% av vikten på 4 timmar
+    * efter dett ska han ha plasmalyteglukos i underhållsbehandling
+    * 1000mL plasmalyte 5% glukos, över 24 timmar, in accord med att det är 100mL/kg mellan 0-10kg
+
+
+
+***Fall läkemedelsverket LMV***
+
+* ***Barn 2 år vikt 14 kg gastroenterit***
+  * Senaste 2 dygnen 3-4 kräkningar och under dagen 10 voluminösa diarréer.
+    * Bedöms som 10 % dehydrerad 
+    * utifrån uppmätt viktnedgång, torra blöjor under dagen och kliniska tecken som torra slemhinnor, långsam
+  * **kapillär återfyllnad och takykardi. Rycker ut sond**.
+  * P-Na 137 mmol/l
+  * **Beräknat behov av basal underhållsvätska**: 100 × 10 + 4 × 50 = 1 200 ml/dygn
+  * **Beräknat deficit**: 0,1 × 14 = 1 400 ml
+  * **Planerad vätska att ge**:  1 200 + 1 400 = 2 600 ml
+  * **Snabb rehydrering**:  5 % av kroppsvikt 14 kg på 4h = 700 ml på 4 h
+    * **Val av vätska**: Infusionsvätska utan glukos med natrium 130–154 mmol/l exempelvis Ringeracetat.
+  * Efter den snabba rehydreringen på 4 timmar. P-Na 139 mmol/l.
+  * **Pågående förluster (kräkning och diarré) under dessa 4 timmar** = 200 ml.
+  * **Fortsatt behandling**; underhåll + deficit + ersättning förluster:
+    * **Underhåll**: 1 200 ml/dygn = 50 ml/timme
+    * **Deficit**: 1 400 – 700 = 700 att ges på 20 timmar = 35 ml/timme
+  * **Pågående förluster**: kräkningar + diarré = 200 ml/4 timmar ersätts nästa 4 timmar = 50 ml/timme
+    * **Val av vätska**:
+      * **Underhåll**: 50 ml/timme ~10 % glukos med Na 130–154 mmol/l.
+      * **Deficit + pågående förluster**: 35 + 50 ml/timme ersätts med balanserad vätska utan glukos med natrium 130–154 mmol/l.
+  * !!! **Kontroll förluster, vätskebalans och P-elektrolyter efter 4 timmar om kräkning/diarré fortsätter.**
+
+
 
 
 
@@ -10594,17 +10646,76 @@ Ataxic cerebral palsy is due to [...] damage.
 * Över 1.5månader
   * ICV volymen nu större än ECV volymen, som kommer att förbli resten av livet. 
 
+### Behov
+
+| <img src="./imgs/sam_180421_RBsrtEJQx4.png" alt="RBsrtEJQx4" style="zoom:50%;" /> | <img src="./imgs/sam_180421_p5kTxI3tJO.png" alt="p5kTxI3tJO" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
+***Plasmalute glukos 5%***
+
+* Na 140mM
+* K 5mM -> K 20mM efter tillsats kalium
+* Cl 98mM
+* glukos 55g/L -> 5.5%
+* Habituellt innehåller för lite Kalium: Na 140mM, K 5mM (så måste tillföra extra för att komma upp 15mM)
+* TIllsats kalium för att komma upp totalt 15mM kalium
+
+
+
+***Ringeracetat***
+
+* Na 130mM
+* K 4mM: bara så lite
+* Cl 110mM
+
+
+
+***Natriumklorid NaCl***
+
+* Na 154mM
+* K 0mM
+* Cl 0mM
+
+
+
+***ORS: vätskeersättning, peroralt***
+
+* Na 75mM: lågt natrum innehåll som är bra att känna till
+* K 20mM
+* Glukos 15g/L
+
 
 
 ### Behandling
 
-<img src="./imgs/ped_sam_110421_ZRcK0EON3j.png" alt="ZRcK0EON3j" style="zoom:50%;" />
+
+
+|               | Peroral, enteral (sond, gastrostomi)                         | Intravenös, intraosseös                                      |
+| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Fördelar**  | Energität vätska mat kan ges vid underhållsbeh<br />Ofta enklare adminstrering<br />Sond el gastrostomi kan användas i hemmet | Snabb adminstrering av volym<br />Cirkulatoriskt instabil el svårt sjuk patient<br />Tarmvila |
+| **Nackdelar** | Bolusvätska kan ej ges<br />RIsk för aspiration: om son ändrar position | Adminstrering av kärlaccess svårt ibland o smärtsamt<br />Risk lokal infektion, blodsmitta<br />RIsk för elektrolytrubbning |
+
+
+
+***Adminstreringsform***
+
+* Sond: nasogastrisk sond; undviks 
+  * undviks till barn >2åå
+  * undviks t frekventa kräknignar
+
+
 
 ***Bolusbehandling***
 
-* Indikation: vid cirkulatoriskt påverkad patient
-* 20mL/kg RA iv
-* 10mL/kg RA iv för yngre än 44v
+* **Indikation**: vid cirkulatoriskt påverkad patient
+* **Äldre än 44v gestationsålder**: 20mL/kg RA iv
+* !! **för yngre än 44v gestationsålder, trauma, eller hjärtsjukdom**: 10mL/kg RA iv 
+* **Så snabbt barnet tål**: 10-15min
+* **upprepas andra dos om första ej tillfredställande**
+* **Albumin 5% eller färskfrusen plasma**: övervägs om tredje bolusdos behövs
 
 
 
@@ -10620,45 +10731,100 @@ Ataxic cerebral palsy is due to [...] damage.
 ***Rehdyrering***
 
 * ***Uppvätskning, rehydrering, ersätta***: Detta innebär att man ersätter förlorad volym vätska
-  * ORS (oral rehydration solution, aka vätske ersättning, aka VES): 
+  * **Adminstrationsform**: ofta peroralt man menar
+  * **Peroralt**: ORS (oral rehydration solution, aka vätske ersättning, aka VES), eller 
+  * **IV**: RA
   * 5% av kroppsvikten över 4 timmar. 
-  * sedan reevaluering av vätskestatus
+  * **sedan reevaluering av vätskestatus**
+  * Finns vätskedeficint KVAR: kan man rehydrera IGEN efter 4h, olart exakt vad Kalle menade att man kan ge halva volmen på 2h...
+    * Detta kanske hänvisar då till "resterande vätskedeficit + förluster" att man ger den i form av RA.
 
 
 
 ***Underhållsbehandling***: 
 
-* Enl LMV
+* **Enl LMV**
   * Målet med behandlingen: "Täcker normal perspiratio och diures"
   * Alltså, är underhållsbehandlingen till för att ungen står kvar på +-0
-* ***Peroral form (välling?)***: Då är patienten tillräckligt adekvat för att ta drycken sj, eller att det sker via sond
+* !!! **<u>NOTERA</u>**: att efter uppvätskningen ska resterande vätska vara välling/glukoslösning/nutritiondryck för att TÄCKA underhåll + resterande vätskedeficint + pågående förluster
+* **Peroral form (välling?)**: Då är patienten tillräckligt adekvat för att ta drycken sj, eller att det sker via sond
   * 0-6mån: 150mL/kg/d
   * 6-12mån: 125mL/kg/d
   * \>12mån: 100mL/kg/d
+  * \>5åå: 80mL/kg/d; konsensus saknas kring maxvolymer. klinisk praxis ges sällan >2000mL/d t flickor 2500mL/d pojkar
   * Då är det i form av näringsdrycker, välling etc, som barnet kan ta vid given ålder
-* ***Intravenös form***: att pat har en infart som man kan vätska upp med
-  * Plasmalyte glukos, 5% glukos, 140mM Na, 20mM Kalium
-  * 0-10kg: 100mL/kg/d
-  * 10-20kg: 1000mL + 50mL per kg över 10kg
-  * \> 20kg: 1000mL + 20mL per kg över 20kg
+  * Sällan sond >2åå
+* **Intravenös form**: att pat har en infart som man kan vätska upp med
+  * **Barn över 1v ålder**: Plasmalyte glukos, 5% glukos, 140mM Na, 20mM Kalium
+  * **Barn under 1v ålder**: 10% glukos
+    * dag 0-3 UTAN Na-tillsats, 
+    * därefter försiktig upptrappning av Na-tillsats
+  * **0-10kg**: 100mL/kg/d
+  * **10-20kg**: 1000mL + 50mL per kg över 10kg
+  * !!! **\>20kg**: 1<u>500</u>mL  + 20mL per kg över 20kg; NOTERA att det är 1500 man börjar med inte 1000
+  * NOTERA: 
+    * flickor unga kvinnaor sällan >2000mL/d
+    * pojkar unga män sällan >2500mL/d
+    * Barn fr 0d-4d: ökande volym fr 50mL/kg/d till 100mL/kg/d
 
 
 
-***Förluster***
+!!! ***Förluster och resterande vätskedeficit***
 
-* !!! Ska ersättas! Hur ersättnignen ska gå till är jag osäker på, men en ersättning ska ske. 
+* !!! **Ska ersättas!** 
+  * !!! isoton vätska, Na 130-154mM, glukosfritt
   * !!! 1 diarre = 1% av kroppsvolymen
   * Kräkningar
 
 
 
+| <img src="./imgs/sam_180421_PtdBZ5rK6h.png" alt="PtdBZ5rK6h" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
+### Handläggning
 
-### Vätsketillstånd
+***Utredning***
+
+* **Vid underhållsbehandling (och uppvätskning):**
+
+  * prov elektrolyter (+ mindre barn glukos): efter 4h, därefter var 6e timme + vb 
+  * VIkt varje dygn, misnt 1gg
+  * Stora förluster små barn: viktkontroll minst 2gg/d
+  * Pågående förluster beräknas: minst 2-3gg/d. tätare vid större förluster
+    * SKA ERSÄTTAS I 1a hand med ISOTON <u>glukosFRIA</u> lsöningar Na 130-154mM. 
+    * !! Alltså förlusterna + resterande vätskedeficit ska ersättas med RA liknande, utan glukos 
+
+* **Vätskebalansräkning**
+
+  * väga blödjor
+
+* **Provtagning**
+
+  * P-Na, P-Ka: 
+    * start underhåll
+    * efter 4-8h start underhåll
+  * därefter kontroll 1gg/d: P-Na, P-Ka, p-Cl
+  * P-glukos: mäts behandlingsstart + vid behov
+
+* **Hypernatremi, hyponatremi**: mer frekventa kotntroller.
+
+  * risk hyponatremi stört första timmarna av behandling, men kvarstår under hela behandlingen
+
+    
+
+### Tillstånd
 
 #### Chock
+
+***Etiologi***
+
+* chock 
+* cirkultionssvikt kan föreligga
+
+
 
 ***Kliniska kännetecken***
 
@@ -10671,15 +10837,30 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ***Behandling***
 
-* Ringer-acetat: isoton vätska
-  * 20mL/kg, så snabbt det går på droppen och given pvk, vanligtvis 1mL/kg/min, så då tar det 10-20 mins för given PVK
+* Chock med hotande cirkulationssvikt: behandlas direkt med vätsekbolus. 
+* Ringer-acetat: ***isoton vätska*** är behandlingen togo (dock ej vid kräkningar.. då obalanserad vätska)
+  * 20mL/kg, så snabbt det går på droppen och given pvk, vanligtvis 1mL/kg/min, så då tar det **10-20 mins för given PVK**
   * 10mL/kg:  prematurfött barn, under 44v gestationsålder...; trauma; hjärtsjd
 * upprepas om cirkulationen är ej tillfredställande efter given vätska
-* överväg albumin om tredje bolus vätska behövs. 
+* !!! **Albumin 5%**: överväg albumin om tredje bolus vätska behövs. 
 
 
 
 #### Dehydrering
+
+
+
+***Etiologi***
+
+* underskott vatten: uttorkning, dehydrering, förluster större än intag
+* barn större risk dehydreras jfr vuxna, samt hypovolemi: ju mindre barn desto högre risk
+  * större relativt vätskebehov
+  * ju yngre barn desto mindre utvceklade hormonella reglersystemen och njurfunktionen
+* svårare kommunicera vätskebehov
+* större procentuell andel kroppsvätska 70-80% första levnadsmånader: jfr ca 60% senare i livet. 
+* Barn känsligare fsta jfr vuxna
+
+
 
 ***Kliniska kännetecken***
 
@@ -10687,6 +10868,74 @@ Ataxic cerebral palsy is due to [...] damage.
 * Gråter utan tårar
 * Slemhinnor
 * Urinproduktion
+* Blodgas: acidos med LÅGT BE, kan tecken svårare dehydrering, MEN behöver inte vara det. 
+  * !!! Diarre, förlust bikarbonat: acidos pga förluster bikarbonat i avöring
+
+
+
+***Utredning***
+
+* Tecken dehydrering
+  * Insjunken fontanell
+  * sänkt medvtande
+  * torra slemhinnor
+  * nsjunkna ögon
+  * inga tårar
+  * takypne
+  * förländ kaprefill
+  * takykardi 
+  * hypotension
+  * perifer vasokonstriktion
+  * plötslig viktförlust
+  * !! oliguri
+  * nedsatt hudturgor: på sternum
+* Lågt BE (basexcess): ketoner, laktat kontrolleras för att bättre bedöma orsak
+* Förhöjda etoner utan diabetes: vanligen tecken svält 
+* !!! förhöjt laktat: tyda hypovolem chock
+
+
+
+***Behandling***
+
+* första hand: Enteral vätskebehandling 
+  * barnet kan fysiologiskt själv justera upptaget vätska på ett adekvat vis
+* Beakta
+  * Vätskedeficit: tidigare uppkomna förluster
+  * Underhållsbehandling: täcker normal perspiratio och diures
+  * Pågående förluster: e.g. diarrer, kräkninga
+* !! **Volym/timme motsvarar**: den volym som planeras för att ersätta **deficit + pågående förluster**
+
+| <img src="./imgs/sam_180421_LDWVsWQKZm.png" alt="LDWVsWQKZm" style="zoom:50%;" /> | <img src="./imgs/sam_180421_DBSWUxyL6d.png" alt="DBSWUxyL6d" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
+#### Isoton dehydrering
+
+
+
+***Behandling***
+
+* **<u>Initial rehydrering</u>**: Beroende av deficit och chocksymtom.
+  * **Vid prechock/chock dvs. dehydreringsgrad > 10 %** (se Tabell VII) ge vätskebolus (behandling vid chock före- gående avsnitt)
+  * **Måttlig-svår dehydrering**: 
+    * Ersätt 5 % av kroppsvikten på 4 timmar = 12,5 ml/kg/tim i form av glukos 0–1 % med 
+    * natriuminnehåll 130–154 mmol/l, 
+    * i första hand balanserade lösningar. 
+    * Kan behöva upprepas. 
+    * Elektrolyter kontrolleras och elektrolytinnehåll korrigeras vid behov.
+  * !!! **Vid behov av glukostillförsel ()**: verkar som att LMV vill att man ska uppvätska med glukoslösning om pat under denna 4h period behöver nutrition, men konsensus sen innan är att man ska uppvätska med RA sen gå över till glukoslösning 5%
+    * första hand glukoslösning med natriuminnehåll 130–154 mmol/l. 
+    * Färdigberedda lösningar är att föredra om möjligt. Ba- lanserad lösning med glukos 1 %, natrium 140 mmol/l, och kalium 4 mmol/l finns kommersiellt tillgänglig. Om större mängd glukos behövs kan lösning med glukos 2,5 % användas (till exempel buffrad glukos då med extra tillsats av natrium 60–70 mmol/l till totalt 130–140 mmol/l).
+* !!! **<u>Fortsatt långsam rehydrering</u>**
+  * underhållsvätska + kvarvarande deficit + fortsatta förluster ges under 24h
+    * 1a hand glukoslösning med isotol kristalloid vätska Na 130-154mM. 
+    * Kaliumtillsats görs med 20-40mM EFTER att diures igång
+    * !!! ALLTSÅ: när vi har vätskat upp 5% då ska ALLT resten ges i form av glukoslösning över 24h!!
+      * 
+
+
 
 
 
@@ -10694,19 +10943,27 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ***Definition***
 
-* Na ≥ 150 mmol/L. 
-* Svår hypernatremi: ≥ 170 mmol/l
+* !! Hypernatremi Na ≥ 150 mmol/L. 
+* !! Svår hypernatremi: ≥ 170 mmol/l
 
 
+
+
+
+***Etiologi***
+
+* Sekundära orsaker
+  * Diarre: förlust kroppsvatten med inte så mkt elektrolyter. 
 
 
 
 ***Typfallet uppkommer***
 
 * ej färdigutvecklad  njurfunktion –d v s patienter  <1 år
-* långdragen gastroenterit(>3-4 d)
+* långdragen gastroenterit (>3-4 d)
 * stor viktnedgång  (>10%) 
 * sedan  införande  av rotavirusvaccinet  i det nationella  programmet  2019   har antalet  fall  av hypertondehydreringminskat  påtagligt  i Sverige
+  * calicionfetion med kräkningar: att barnet inte hinner utveckla hyperton dehydrering innan det har vänt sig 
 
 
 
@@ -10715,17 +10972,23 @@ Ataxic cerebral palsy is due to [...] damage.
 * innebär förlust kroppsvatten: ***inte primärt elektrolyter***
 * ***intialt*** sker extravasal vattenförlust, med resulterande hög natriumkonc i ECV
   * e.g. diarre
-* ***sekundärt***: vandrar vatten fr ICV t ECV, med sekundär ICV dehydrering som följd
+* ***sekundärt***: vandrar vatten fr ICV t ECV, med sekundär ICV dehydrering som följd, blir intorkat intracellulärt
 * ***osmotiska partiklar***: bildas i kroppen, varför vattenflöden mellan ICV o ECV upphör
-* ***Resuktat***: förlust kroppsvatten, o ett hyperosmolärt tillstånd både extracellulärt och intracellulärt
+* ***Resuktat***: förlust kroppsvatten, o ett 
+  * hyperosmolärt tillstånd ***både*** ECV och ICV: 
+  * så både celler och cirkulationen är hyperosmolära, de är koncentrerade
 
 
 
 ***Behandling***
 
+* Det man ska veta med hyperton dehydrering: sänka p-Na inte alltför snabbt
+  * P-Na inte sänka mer än 0.4mM/h fram till <=145mM
+  * förhindra uppkomst hjärnödem
 
 
-<img src="./imgs/sam_170421_j6nnkch9Eb.png" alt="j6nnkch9Eb" style="zoom:50%;"/>
+
+<img src="./imgs/sam_170421_j6nnkch9Eb.png" alt="j6nnkch9Eb" style="zoom: 33%;"/>
 
 
 
@@ -10735,66 +10998,155 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
+***Definition***
 
-
-### Fall - vätskebehov
-
-#### Alex 9kg  
-
-* **Undet det akuta skedet**: Ringer-Acetat, iv bolus, 180mL (20mL/kg)
-* **Under de nämaste timmarna**: Ringer-acetat iv, 450mL/4h
-* **Under det kommand dygnet**: Plasmalyte glukos, iv, 100mL x 9 = 900mL/24h
+* Hyponatremi: \<135mM
 
 
 
-#### Miriam 5kg
+***Gradering***
 
-* **Undet det akuta skedet**: behöver ingen bolus...
-* **Under de nämaste timmarna**: sond ORS, 250mL/4h
-* **Under det kommand dygnet**: sond, bröstmjölk, ersättning: 150mL x 5 = 750mL/24h
-
-
-
-#### Spädbarn gosse
-
-Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cirkulationssvikt är avgörande för valet av behandling. En tidigare frisk ettårig gosse som väger 10 kg har inkommit till barnakuten där du vikarierar med symptom förenliga med en viral gastroenterit. Han har stora förluster och är hängig. Han har en kapillär återfyllnad på 4 sekunder och läpparna är torra
-
-* Bolus Ringeracetat iv 200 ml följt av Ringeracetat iv 5% av vikten på 4 timmar
-  * efter dett ska han ha plasmalyteglukos i underhållsbehandling
-  * 1000mL plasmalyte 5% glukos, över 24 timmar, in accord med att det är 100mL/kg mellan 0-10kg
+* Mild: P-Na 130–135 mmol/l
+* Måttlig: P-Na 125–129 mmol/l
+* Svår: P-Na <125 mmol/l
 
 
 
-#### Läkemedelsverket
 
-##### !!! Fall 1
 
-***Barn 2 år vikt 14 kg gastroenterit***
-* Senaste 2 dygnen 3-4 kräkningar och under dagen 10 voluminösa diarréer.
-  * Bedöms som 10 % dehydrerad 
-  * utifrån uppmätt viktnedgång, torra blöjor under dagen och kliniska tecken som torra slemhinnor, långsam
-* kapillär återfyllnad och takykardi. Rycker ut sond.
-* P-Na 137 mmol/l
-* Beräknat behov av basal underhållsvätska:
-  * 100 × 10 + 4 × 50 = 1 200 ml/dygn
-* Beräknat deficit:
-  * 0,1 × 14 = 1 400 ml
-* Planerad vätska att ge: 
-  * 1 200 + 1 400 = 2 600 ml
-* Snabb rehydrering: 
-  * 5 % av kroppsvikt 14 kg på 4h = 700 ml på 4 h
-* Val av vätska:
-  * Infusionsvätska utan glukos med natrium 130–154 mmol/l exempelvis Ringeracetat.
-* Efter den snabba rehydreringen på 4 timmar. P-Na 139 mmol/l.
-* Pågående förluster (kräkning och diarré) under dessa 4 timmar = 200 ml.
-* Fortsatt behandling; underhåll + deficit + ersättning förluster:
-  * Underhåll: 1 200 ml/dygn = 50 ml/timme
-  * Deficit: 1 400 – 700 = 700 att ges på 20 timmar = 35 ml/timme
-* Pågående förluster: kräkningar + diarré = 200 ml/4 timmar ersätts nästa 4 timmar = 50 ml/timme
-* Val av vätska:
-  * Underhåll: 50 ml/timme ~10 % glukos med Na 130–154 mmol/l.
-  * Deficit + pågående förluster: 35 + 50 ml/timme ersätts med balanserad vätska utan glukos med natrium 130–154 mmol/l.
-* Kontroll förluster, vätskebalans och P-elektrolyter efter 4 timmar om kräkning/diarré fortsätter.
+***Etiologi***
+
+* Om hyponatremin inte identifieras och korrigeras i tid, kan den leda till allvarliga eller till och med livshotande tillstånd.
+  * Natrium inte fritt passerar in i cellerna 
+  * Sänkt natriumkoncentration i det extracellulära rummet (ECV) att vatten går in i cellerna och ger cellulärt ödem.
+  * Sker generellt, 
+  * men pga begränsade intrakraniellt utrymme ger hjärnödem tidigare och allvarligare symtom än ödem i andra delar av kroppen.
+* **Pontin myelinolys**
+  * Hyponatremi med symtom på encefalopati måste därför behandlas akut. 
+  * Samtidigt kan en för snabb korrigering av kronisk hyponatremi (som varat > 24–48 timmar) leda till pontin myelinolys
+* **Hypoton dehydrering sekundärt till**
+  * Diarrer
+  * kräkningar
+  * SIAD
+  * iv vätsketerapi med hypotona vätskor
+  * njurinsufficiens
+  * diurtikabehandling
+* **Akut hyponatremi**
+  * barn med akut sjukdom
+  * ökad risk STÖRD HORMONBALANS med SIAD: inadekvat insöndring ADH vasopressin
+  * med ökad vätskeretention och hyponatremi som konsekvens. 
+* **Orsaker SIAD**
+  * Bronkiolit
+  * Pneumoni
+  * CNS-infektioner
+  * trauma
+* **Risker för följande förlopp**
+  * Snabbt inflöde vatten fr ECV t ICV
+  * cellsvullnad
+  * hjärnödem
+  * hyponatremisk encefalopati: ofta först vid Na <125mM
+  * inklämning och död
+
+
+
+***Kännetecken***
+
+* Hyponatremisk encefalopati
+  * förvirring
+  * illamående
+  * kräkning
+  * kramper
+  * sänkt medvetande
+  * slutligen koma
+  * inklämning
+  * död
+  * om inte tillstånd häcs
+* Symptom först vid Na<125mM. 
+* Om natrium sänks snabbt kan symptomen uppkomma högre natrumvärden. 
+
+
+
+***Handläggning***
+
+* Viktigt med dessa patienter är att ha koll på natriumvärdet
+* har man en infektion
+  * !! att följa natriumvärdet PGA risken för att man får SIAD och hyponatremi med dessa konsekvenser
+
+
+
+***Behanding***
+
+* Symptomgivande hyponatremi
+  * **hyperton NaCl lösning**: beredning 3% NaCl; notera att vi tillför natrium till ECV, detta ntrium kommer att stanna här såvida inte diuresen och elimiationen är väldigt snabb. Detta leder till att vi ökar osmolalitetn i plasma, varpå vi drar in vätska fr ICV till ECV!
+  * Efter symptom bättre encefalopati, att man långsamt fortsatt korrigerar för att undvika osmolär demyelinisering
+  * Åtgärder vid symptomgivande hyponatremi
+    * säkra fri luftväg + andning
+    * Behandla kramper med antiepileptika
+    * 2mL/kg max 100mL, 3% NaCl under 10-20min
+    * Kontroll P-na medan ny infusion påbörjas
+    * 2mL/kg korrigerar p-na ca 1.5-2mM. 
+    * höjning 4-6mM räcker normalt för att förbättra symptom.
+    * Avbryt infusion när symptom bättre ELLER när p-na ökat med högst 8mM. 
+    * vid upphävt akut tillstånd övergång långsam fas höjning p-na 8-12mM/d under noggrann monitor
+  * Föranleder intensivvård: dock beh inleds innan detta
+* ***Enl Kalle***
+  * Lätt till måttlig hyponatremi (Na 125-135mM)
+    * Reducering underhållsvätska, plasmalyte glukos: till 50-80% av normalt intravenöst vätskebehov
+    * kontroll Na efter 4h: fisk förvärrad hyponatremi
+  * Svår hyponatremi, symptomgivande hyponatremi (ofta Na <125mM)
+    * IVA-vård
+    * Hyperton NaCl (3%) 2mL/kg under 10-20min; upprepas vb
+
+
+
+#### SIAD
+
+***Etiologi***
+
+* Syndrome of inappropriate AntiDiuresis
+* inadekvat sekretion ADH: antidiuretiskt hormon
+* Leder till att för hög diures.
+
+
+
+***Tillstånd risk SIAD neonat***
+
+* POstoperativt
+  * respiratorbehandling
+  * smärta oro
+* CNS påverkan
+  * meningit encefalit
+  * strke
+  * hydrocefalus
+  * kramper och antiepileptika
+* Lungsjukdom
+  * respiratorbehandling
+  * pneumothorax, hydrothorax
+  * pneumoni och bronkiolit
+
+
+
+***Tillstånd med risk för SIAD efter neonat***
+
+* Smärta, illamående
+* postoperativt
+* CNS sjd
+  * meningit
+  * encefalit
+  * hjärntumör
+  * trauma mot huvudet
+* Lungsjd
+  * astma
+  * bronkiolit
+  * pneumoni
+* Lkm
+  * desmopressin
+  * SSRI-prep
+  * oxacarbamazepin
+  * cytostatika: vincristin, cisplatin, vinblastin
+  * opiater
+
+
 
 
 
@@ -10872,7 +11224,7 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 
 ### Barnets utveckling
 
-
+#### Allmänt
 
 ***Presentation***
 
@@ -10933,6 +11285,14 @@ Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cir
 
 * Om ett barn brister inom ett visst område kan detta påverka andra områden i utvecklingen också. 
 * ***Äldre, andra funktioner börjar bli relevanta***: att tex social funktion och kapabilitet att fokusera kommer att bidra till vidareutvecklingen. 
+
+
+
+| <img src="./imgs/sam_180421_MOP23v27Ra.png" alt="MOP23v27Ra" style="zoom:50%;" /> | <img src="./imgs/sam_180421_npyB6nCbHw.png" alt="npyB6nCbHw" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
 
 
 

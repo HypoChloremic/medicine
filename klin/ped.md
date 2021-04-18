@@ -5955,6 +5955,10 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 * Lätta måttliga symptom, men bakteriell misstanke (vanligt att man söker mkt tidigt i förloppet)
   * Spectramox 20mg/kg/d x3 po, avseende mängd amoxicillin
   * hemgång återbesök påföljande dag
+* Tveksam diagnos, opåverkad patient
+  * högläge a
+  * avsvällande terapi
+  * ev ny bedömning efter 1-3d
 
 
 
@@ -8814,6 +8818,29 @@ En kort lista över kliniska manifestationer av CF:
 
 ## MISC
 
+
+
+### ALTE
+
+***Allmänt***
+
+* Apparent life threatening event
+
+
+
+***DEfinition***
+
+* Plötslig oväntad episod
+* ngn kmbination
+  * apne: central eller obstruktiv
+  * färgförändring: vanligtvis cyanotisk, blek
+  * markant flrändring muskeltonus
+  * kvävning
+  * ulkande
+  * där barnet tillbaka t lviv efter kraftig omruskning eller konstgjord andning
+
+
+
 ### Scrotal swelling
 
 ***Differentialdiagnoser***
@@ -10285,6 +10312,70 @@ En kort lista över kliniska manifestationer av CF:
     * Rökning hos modern 
 
 * **Du har BVC mottagning. En mamma till ett barn som kommer till dig på ett första besök berättar att en av hennes grannar förlorade ett barn för två år sedan i plötslig spädbarnsdöd. Hon undrar vad hon kan göra för att minimera riskerna att hennes barn skall drabbas. Ange 4 faktorer som gör att risken minskar. Du skall också ange den största riskfaktorn först för att få full poäng (2 p)** 
+
+
+
+
+
+***Riskfaktorer***
+
+* Socioekonomi
+
+* Veckodag: veckoslut
+
+* TId dag: sömn, natten, 
+
+* Fysiskt lgöe: magläge
+
+* Moderns ålder: låg ålder är riskfaktor
+
+* moderns rökning
+
+* paritet: hög paritet är en riskfaktor
+
+* prematuritet, låg födelsevikt
+
+* kön: övervikt pojkar
+
+* ålder: 
+
+  * mycket sällsynt första levnadsmånaden
+  * därefter öakr vanligheten
+  * vanligast 2-3mån, sen avtr
+  * 80% 6månaders ålder
+
+  
+
+***Skyddande faktorer***
+
+* Amning: skydd
+* Napp: skyddande effekt, särskilt när sova
+* Sova föräld
+
+
+
+***Handläggning***
+
+* Poliskontakt: kommer att förekomma
+  * polismyndigheten underrättas
+* 
+
+
+
+***Behandling***
+
+* Undvik
+  * magläge
+  * rökexponering
+  * soci
+* Åtgärder
+  * Efter fallande riskökning:
+  * Låt spädbarnet sova på rygg
+  * Avstå från nikotin
+  * Se till att barnets ansikte är fritt, att barnet är lagom varmt och kan röra sig
+  * Spädbarn under tre månader sover säkrast i egen säng
+  * Amma om det är möjligt
+  * Napp kan användas när spädbarnet ska sova
 
 
 

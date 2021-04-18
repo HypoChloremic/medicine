@@ -5901,6 +5901,63 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+#### Ethmoidit
+
+***Etiologi***
+
+* sannolikt viral ÖLI varpå bakteriell infektion
+* agens
+  * pneumokocker
+  * HiB
+  * moraxella catarhallis
+
+
+
+***Kännetecken***
+
+* akut påkommen rodnad + svullnad kring medial ögonvrå
+* unilateral i princiip
+* ofta samband ÖLI
+* varierande grad feber
+* behöver ej påtaglig smärta
+* allvarliga fall: kraftig rodnad, ödem runt hela orbita, igenmurat öga, kan vara tecken 
+  * !! orbitaabscess
+
+
+
+***Utredning***
+
+* klinisk diagnos
+* CRP över 50 oftast
+* slätrtg: tillför inget
+* potentiella komplikationer orbitalt
+  * DT-orbita
+  * kontakt ÖNH-jour
+* odlingar: bra odlingar svåra, men odling mellersta näsgång har relativt god spec
+
+
+
+***Differentialdiagnoser***
+
+* djurbett
+* allergisk reaktion
+
+
+
+***Behandling***
+
+* Kraftig periorbital rodnad och svullnad och eller allmänåpverkad hög feber
+  * inläggning
+  * cefotax iv, bute utefter odlingssvar
+  * avsvällande: nezeril,
+  * smärtstillande: paracetamol, ibuprofen
+  * HÖGLÄGE
+* Lätta måttliga symptom, men bakteriell misstanke (vanligt att man söker mkt tidigt i förloppet)
+  * Spectramox 20mg/kg/d x3 po, avseende mängd amoxicillin
+  * hemgång återbesök påföljande dag
+
+
+
 ## Hematologi
 
 

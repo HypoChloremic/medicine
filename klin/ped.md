@@ -8896,8 +8896,41 @@ En kort lista över kliniska manifestationer av CF:
 * differentialdiagnostiska överväganden som måste beaktas
 * Anamnes
 * Status: puls, hjärtfel auskultation, hudinspek, resporation, buk, 
+* **Inläggning**: bör läggas in enl IM, för utredning, för att hitta diffar
+* **Alte utredning**: övervakning under ngt dygn, ffa under sömn, hitta avvikande mönster
+  * **andning**: andningsuppehåll
+  * **Puls**: pulsfall
+  * **Saturation**: perioder sänkt syresättning
+  * **Blodgas**
+* Om inget patologiskt framkommer, är ytterlgiare utredning inte indicerat
+* Kriterier monitorering i hemmet
+  * tidigare livlöshetsattack
+  * barn födelsevikt under 1000g, med tidigare andningsproblematik
+  * syskon med SIDS
+* Undervisning HLR
+* Information om tillståndet
 
 
+
+***Behandlign***
+
+* !! **apnemonitor**
+* central apne + bradykardi: koffeincitrat, stimmar andningen och höjer pulsen, minskar risk bradykardi. 
+  * utvärdering efter en vecka, justeras vid behov
+
+
+
+
+
+### Apne
+
+
+
+***Riskfaktorer***
+
+* Spädbrn
+  * opioider: transplacentär transport; mamma under förlossning exempelvis
+  * 
 
 
 

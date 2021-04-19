@@ -5529,6 +5529,21 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ### Nefrologiskt Urologiskt
 
+
+
+#### Allmänt
+
+***Utredning***
+
+* Bakteriuri: 
+  * CFU: colony forming units
+  * Signifikant bakteriuri: över 10E5 CFU/mL
+  * moderat: 10E4-10E5 CFU/mL
+  * mild tillväxt: under 10E4
+* blåspunktion odling: any växt är signifikant, då det reflekterar blåsans innehåll mkt bättre
+
+
+
 #### Cystit
 
 
@@ -5546,11 +5561,96 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+
+
 ***Allmänt***
 
 * Hemolytiskt uremiskt syndrom
 
 
+
+***Etiologi***
+
+* Vanligaste, klassiska
+  * diarreassocierad
+  * EHEC: enterohemorrhagisk e coli
+* ofullständigt uppvärmda hamburgare, salami, 
+* **e coli bakterier**: verotoxin, 
+  * **skadar endotel**
+  * **mikroangiopati**
+  * **trombocytaggregation**
+  * **hemolys**
+  * **aka TMA (trombotisk mikroangiopati)**
+  * inkubationstid: 3-4d
+  * organ: tarm, njurar, (andra organ: CNS, sensorium, kramper, stroke)
+* Anemi, hemolys associerat
+  * tveksamhet: blodutstryk frågeställning fragmenterade erytrocyuter: helmet cells, burr cells, sfärocyter, schistocyter
+
+
+
+***Kännetecken***
+
+* alltifrån symptomfritt till livshotande infektion
+  * Hemolytisk anemi
+  * Trombocytopeni
+  * akut njursvikt
+  * oliguri-anuri
+  * kreatininstegring
+  * diarreassocierad
+* **Första symptomen efter infektion EHEC**
+  * buksmärtor
+  * diarrer, kan blodtillblandade
+  * feber SÄLLAN
+* barnet tillfrisknar ofta
+* men 5-10% akut njursvikt + anemi: HUS
+* **Huvudsymptom**
+  * trötthet
+  * blekhet
+  * svullnad: associerad vätskeretention pga 
+    * oliguri-anuri, eller 
+    * hypoalbumin pga tarmförluster
+
+
+
+!! ***Diagnosen***
+
+* Förhöjt S-krea (ålderrelaterat)
+* Hemolytisk anemi
+* trobocytopeni
+
+
+
+***Utredning***
+
+* VIktigate prover: Hb, TPK, Krea
+* Kompletterande prover
+  * LPK / neutrofiler
+  * bilirubin, ASAT, ALAT, glukos, albumin
+  * Na, K, blodgas
+  * haptoglobin, LD, urea, urat
+  * tveksamhet: blodutstryk frågeställning fragmenterade erytrocyuter: helmet cells, burr cells, sfärocyter, schistocyter
+* Övervakning
+  * Blodtryck
+  * diures, timdiures KAD
+  * vätskeintag,
+  * vikt
+  * sensorium 
+  * tecken anemi
+
+
+
+***Behandling***
+
+* Utkik för
+  * hyponatremi vanligt: kramprisk
+  * hypoalbumin, vanligt: risk ödem
+  * Hb under 65-70: indik transfusion
+  * trombocyttransfus: bör undvikas, ökad risk för TMA! och stroke!
+  * Hypertoni vanligt. uteslut övervätsk. BT sänkande över 95e percentil första hand amlodipin 
+  * vätsketillförsel adekvt vid njurperf
+  * AV saknar effekt
+* Dialyusindikationer: anuri, oliguri, snabbt stigande S-krea, kraftiv övervätsk, symptomgivande hypertoni som inte svarar meds, hyperkalemi, uttalad acidos
+  * peritonealdialys
 
 
 
@@ -5573,6 +5673,34 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * rätt?: Hemgång. Ceftibuten (en peroral cefalosporin) per oralt. Telefonuppföljning följande dag för att meddela urinodlingssvar och avsluta/fortsätta antibiotikabehandlingen. 
   * Inläggning. Blåspunktion. Cefotaxim intravenöst. 
   * Inläggning. Meronem intravenöst. Remiss för ultraljud njurvägar. 
+* 6 månader gammal flicka med feber i två dygn. Enstaka kräkning men ingen diarre. Inga fokala eller respiratoriska symtom. Ganska grinig o gnällig. Ingen epidemiologi för infektionssjukdom i omgivningen. Status: Febril 39.0. Ingen nackstel. Kapillär återfyllnad normal. Hjärta lungor ua. Buk ua.  LgLL ua. Hud: inget utslag. Lab CRP 180 mg/ml, Blodstatus: leukocytos med neutrofiler 13,5x109/l, Urinsticka: Leukocyter 3+, erytrocyter 3+, protein 1+, glukos 0. Diagnos? Vidare provtagning?
+
+
+
+
+
+***Definition***
+
+* ***NOTERA***: alla barn under 2 år med tecken på urinvägsinfektion BEHANDLAS SOM PYELONEFRIT
+
+
+
+***Utredning***
+
+* urinodling
+  * Blåspunktion: under 1åå; all växt vilken som helst mängd är signifikant för detta
+
+
+
+***Behandling***
+
+* Antibiotika
+
+
+
+| <img src="./imgs/ped_fl_hxRvKyBBT8.png" alt="hxRvKyBBT8" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -10666,6 +10794,20 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+***Utredning***
+
+* **Blåspunktion**: 
+  * !! goldstandard alla barn UNDER 1åå
+  * bladdrar barnet, att man tar UL-blåsa
+  * vätska upp barnet
+  * vänta 20-30min
+  * sannolikt då urin i blåsan
+  * Ingen bedövning: tunn nål som man punkterar med 
+* Påsprov: GÖR INTE, risk föroreringar huden
+* Clean catch, strålprov: större men även små barn (vi gjorde d på en 7v som vi inte lyckades punktera ), tvättat ordentligt, sen fågnar kiss i mugg, då de ska vara vakna i underlivet tills innan man fångar.
+
+
+
 ### Enures
 
 ***Etiologi***
@@ -10954,7 +11096,7 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### Nefrotiskt syndrom - NS
+### Nefrotiskt syndrom
 
 
 
@@ -11011,12 +11153,24 @@ En kort lista över kliniska manifestationer av CF:
 
 * **palsmaprotein**: Förlust normal charge- and size-selective glomerulär barriär till filtrering av **plasmaproteiner**
 * **Proteinförluster**: Excessiv urinära proteinförluster, leder till **hypoproteinenmi hos nefrotiskt syndrom**
-* ***Hyperkolesterolemi = konsekvens till hypoproteinemi***, kompenserande?
+* **Hyperkolesterolemi = konsekvens till hypoproteinemi**, kompenserande?
   * reducerad plasma oncotic pressure inducerar förhöjd hepatisk produktion plasma proteiner inklusive **lipoproteiner**
   * plasma lipid clearande reduceras av reducerad aktivitet av lipoprotein lipas i adipö vävnad. 
-* ***Bakomliggande orsaker till nefrotiskt syndrom***
-  * ***MCNS***: Minimal change nephrotic syndrome; representerar 80% av barnen 1-12åå
-  * Focal Segmental glomerulosclerosis
+* **Bakomliggande orsaker till nefrotiskt syndrom**
+  * **Kongenital, infantil**: första levnadsåret börjar, nefrinmutationsrelaterat
+  * **Idiopatiskt nefrotiskt syndrom**: största orsaken, vet ej exakt orsaken
+  * !! **MCNS**: Minimal change nephrotic syndrome; **representerar 80% av barnen 1-12åå** (en del av de idiopatiska formerna?)
+    * Podocytrelaterat
+  * **FSGS**: Focal Segmental glomerulosclerosis
+    * Fokal segmentell glomeruloskleros
+    * Normal vävnad ersätts med fibroblaster, varpå ärrbildning och skleros leder till att delar av glomeruli blir dysfunktionella
+* **Sekundära orsaker**
+  * SLE
+  * systemisk vaskulit
+  * maligntet
+  * !! infektion: HBV, HIV
+  * Metabol sjd
+  * !! Intoxikation
 
 
 
@@ -11066,15 +11220,29 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Behandling***
 
-* ***Steroidbehandling***: prednisolon
+* **Njurtransplantation**
+  * Kongenital infantil nefrotiskt syndrom: strukturellt fel i njure som ej går åtgärda
+* **Idiopatiska former nefros**
+  * **Immunsuppression**
+    * **steroider**
+    * Kalcineurin hämmare
+    * MMF
+    * plasmaferes (plasma byte): för att faktorer i plasma är oxiska
+    * rituximab: minska antikroppsproduktion med rituximab som är antikroppar mot B-celler
+  * **Podocyt produktion**
+    * ACEi och ARB: minskar trycket i glomerulus och skyddar därför glomerulus
 
 
 
+| <img src="./lectures/ped_lec/imgs/ped_fl_0gVqiemQF0.png" alt="0gVqiemQF0" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
-### Nefritiskt syndrom (aka glomerulonefrit? )
 
+### Nefritiskt syndrom: Glomerulonefrit
 
+#### Allmänt
 
 ***Presentation***
 
@@ -11107,6 +11275,12 @@ En kort lista över kliniska manifestationer av CF:
     * Nefrit hypertoni, nefros  generella ödem (pitting?)
     * S-albumin påverkat vid nefros
     * U-sticka hematuri nefrit
+* 6åå pojke
+  * ngra veckor sedan tonsillit, feber, beh antibiotika, återsätlld
+  * efter en vecka: lite svullen, HV, trött, cola färgad urin kissade mindre än vanligt
+  * ! ***BT 140/90,***  VIKTIGT ATT MAN TAR BLODTRYCKET
+  * urinsticka: protein ++, ery ++,. nit neg
+  * blod: krea 120mikroM, P-alb 30g/L, lågt C3 (det är ett komplement)
 
 
 
@@ -11122,8 +11296,34 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Indelning***
 
-* Primär glomerulonefrit: sjukdomsprocess specifikt t njurarna
-* Sekundär glomerulonefrit: nefrit del av en systemsjd e.g. SLE
+* **Primär glomerulonefrit**: 
+  * sjukdomsprocess specifikt t njurarna
+  * idiopatisk: ingen bra facit varför barnet drabbets;
+  * DMP, MPGN
+* **Sekundär glomerulonefrit**: 
+  * Postinfektiös glomerulonefrit: den som vi bäst känner igen
+  * nefrit del av en systemsjd e.g. SLE
+  * IgA nefrit, 
+  * HSN: HEnoch schönlein nefrit
+  * SLE
+  * komplement DYSFUNKtion
+  * systemisk vaskulit
+  * malignitet: M Hodgkins
+* Crescent nefrit
+  * Celler bildar halvmåneform
+  * Celler som destrueras och ersätts
+  * fibroblaster och matrix bildas
+  * Dålig progos, då kraftig inflamamtion
+  * fara svår skleros
+* Segmentell skleros
+  * svår skilja crescenterna
+
+
+
+***Ny indelning***
+
+* Komplementmedierade: detta är vi vana vid, mtp postinfektiös glomerulonefrit
+* Immunkomplexmedierade
 
 
 
@@ -11133,14 +11333,16 @@ En kort lista över kliniska manifestationer av CF:
   * VANLIGASTE formen av akut glomerulonefrit
   * skolålder, OVANLIG före 2åå
   * andra mindre vanliga orsaker t postinfek: malaria, HIV, HBV, HCV, kongenital syfilis
-  * 
+* Tillhör de vanlgiaste syndromen bland barn tillsammans med nefros
 
 
 
 **Kliniska kännetecken**
 
 * **Hematuri**
-* **högt BT**
+* **högt BT, hypertoni**
+* **Minskad GFR**
+* **ödem**: ingen parad manifestation i glomerulonefriterna
 * **sen omkringliggande faktorer:** 
 * BRS
   * Akut nefritiskt syndorm: 
@@ -11152,13 +11354,17 @@ En kort lista över kliniska manifestationer av CF:
   * Glomerulonefrit associerat med nefrotiskt syndorm
     * mkt proteinuri
     * hyperkolesterolomi
-    * ödem
+    * ödem: kan förekomma, inte lika kraftigt som nefros?
   * Vissa patienter kan vara relativt asymptomatiska, där nefriten detekterad som ett bifynd i status av e.g. u-sticka
 
 
 
 ***Utredning och handläggning***
 
+* Status:
+  * !!! Blodtryck, BT: detta är ESSENTIELLT ATT VI MTÄER
+  * Hudstatus
+  * ..
 * Labb enl konsensus..:
   * U-sticka, krea, C3/C4, seorlogi (för antikroppar mot strep/staf)
 * Labb
@@ -11171,6 +11377,22 @@ En kort lista över kliniska manifestationer av CF:
       * IgA-nivåer
   * Extra evaluering utefter anamenss
     * HIV, HBV, HCV, HBV-serologier, för att evaluera orsaker till postinfektiös glomerulonefrit
+
+
+
+***Behandling***
+
+* **Vätskebalans**	
+  * Diuretika
+* **Immunsuppression**
+  * Steroider
+  * Kalcineurin inhibitorer
+  * MMF
+  * plasmaferes
+  * rituximab
+* **Podocyt protektivt**
+  * ACEh, 
+  * ARB
 
 
 
@@ -11260,6 +11482,10 @@ En kort lista över kliniska manifestationer av CF:
 ***Diagnos***
 
 * 
+
+
+
+***Behandling***
 
 
 

@@ -3190,11 +3190,13 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
 
 ***Kliniska kännetecken***
 
-* Proteinuri, ualbkrea kvot över 500mg/mM
+* Proteinuri, u-albkrea kvot över 500mg/mM
 * hypoalbunimemi: palb under 25
 * dem
 * hyperlipidemi
 * (inte mikroskopisk hematuri, hypertoni, dessa är inte nefrotiskt syndrom men kan finnas med ibland)
+
+
 
 #### balans olika proteiner
 
@@ -3250,7 +3252,7 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
 * Normalt: ser podocyter 
 * MCD: man ser att podocyterna smälter samman, man ser inga enhetliga sådana
 
-<img src="./imgs/ped_fl_1MXdj5rE0x.png" alt="1MXdj5rE0x" style="zoom:50%;" />
+<img src="./imgs/ped_fl_1MXdj5rE0x.png" alt="1MXdj5rE0x" style="zoom: 25%;" />
 
 #### FSGS
 
@@ -3260,9 +3262,9 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
 
 
 
-<img src="./imgs/ped_fl_1Nyk9MFXYN.png" alt="1Nyk9MFXYN" style="zoom:50%;" />
+<img src="./imgs/ped_fl_1Nyk9MFXYN.png" alt="1Nyk9MFXYN" style="zoom: 25%;" />
 
-<img src="./imgs/ped_fl_LYGZGMdQMu.png" alt="LYGZGMdQMu" style="zoom:33%;" />
+<img src="./imgs/ped_fl_LYGZGMdQMu.png" alt="LYGZGMdQMu" style="zoom: 25%;" />
 
 
 
@@ -3333,7 +3335,7 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
     * cellprolif
     * skada och fibros
 
-<img src="./imgs/ped_fl_eaegfmvcjT.png" alt="eaegfmvcjT" style="zoom:50%;" />
+<img src="./imgs/ped_fl_eaegfmvcjT.png" alt="eaegfmvcjT" style="zoom: 25%;" />
 
 * Pilarna visar öarna med mesangial celler
 
@@ -3344,13 +3346,13 @@ hos större barn är det mer relevant att diffa pyelonefrit vs cystit
 * Celler som bildar halvmåneform, det är celler som destruerar och ersätts, varpåfår fibroblaster och matrix,
 * detta vill man inte se, för att det är kraftig inflammation och fara för severe skleros...
 
-<img src="./imgs/ped_fl_ey41L61RAT.png" alt="ey41L61RAT" style="zoom:50%;" />
+<img src="./imgs/ped_fl_ey41L61RAT.png" alt="ey41L61RAT" style="zoom: 25%;" />
 
 ***Segmentell skleros***
 
 * Crescent och segmentell skleros är svåra att skilja
 
-<img src="./imgs/ped_fl_nywF2P5GNh.png" alt="nywF2P5GNh" style="zoom:50%;" />
+<img src="./imgs/ped_fl_nywF2P5GNh.png" alt="nywF2P5GNh" style="zoom: 25%;" />
 
 
 

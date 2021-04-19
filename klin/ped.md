@@ -5544,7 +5544,37 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+***Behandling***
+
+* Man ska inte behandla asymptomatisk bakteryr
+* ***Symptomatisk urinvägsinfektion***: antibiotika
+  * egentligen påbörjar man antibiotika behandling innan odlingssvar föreligger hos barnet
+  * men man tar odlig innan man börjar direkt behandla
+  * ***Pyelonefrit***: 10 dagars antibiotika behandling
+  * ***Cystit***: 5 dagar
+  * ***Intravenöst***: kräkande barn, allmänpåverkade, ter sig uroseptiska, septiska ineldnignsvis
+  * ***peroralt***: om barnet inte påtagligt påverkt kan man ge peroralt, väldigt bra
+
+
+
 #### Cystit
+
+
+
+***Etiologi***
+
+* Kom ihåg att om barnet är under 2åå ska den behandlas och handläggas som en pyelonefrit
+
+
+
+***Kännetecken***
+
+* ***Feber***: under 38.5
+* ***Flank smärta***: utan
+* *Dysuri*: med
+* ***CRP***: under 20mg/l
+* ***ESR***: under 25
+* ***urin osmolalitet***: normal
 
 
 
@@ -5685,6 +5715,20 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+***Diffa mot cystit, hos ÄLDRE barn***
+
+| Symptom      | Pyelonefrit                                | Cystit       |
+| ------------ | ------------------------------------------ | ------------ |
+| feber        | över 38.5                                  | UNDER 38.5   |
+| Flanksmärta  | +-                                         | -            |
+| Dysuri       | +-                                         | +            |
+| CRP          | över 20mg/L                                | under 20mg/L |
+| ESR          | över 25                                    | under 25     |
+| urinosmol    | REDUCERAD <br />(kan ej koncentrera urin?) | normal       |
+| minirin test |                                            | temporärt    |
+
+
+
 ***Utredning***
 
 * urinodling
@@ -5692,15 +5736,24 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+
+
 ***Behandling***
 
 * Antibiotika
+* ***Symptomatisk urinvägsinfektion***: antibiotika
+  * egentligen påbörjar man antibiotika behandling innan odlingssvar föreligger hos barnet
+  * men man tar odlig innan man börjar direkt behandla
+  * ***Pyelonefrit***: 10 dagars antibiotika behandling
+  * ***Cystit***: 5 dagar
+  * ***Intravenöst***: kräkande barn, allmänpåverkade, ter sig uroseptiska, septiska ineldnignsvis
+  * ***peroralt***: om barnet inte påtagligt påverkt kan man ge peroralt, väldigt bra
 
 
 
-| <img src="./imgs/ped_fl_hxRvKyBBT8.png" alt="hxRvKyBBT8" style="zoom:50%;" /> |      |      |
-| ------------------------------------------------------------ | ---- | ---- |
-|                                                              |      |      |
+| <img src="./lectures/ped_lec/imgs/ped_fl_hxRvKyBBT8.png" alt="hxRvKyBBT8" style="zoom: 25%;" /> | <img src="./imgs/sam_190421_bQEdPZvCHg.png" alt="bQEdPZvCHg" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
 
 

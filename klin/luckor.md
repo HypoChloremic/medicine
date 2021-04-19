@@ -22,18 +22,11 @@ beroende på hur akut detta är
 * Det stämmer med 100-120 kompressioner per minut. det är intressant att detta inte gller för neobarn
 * Hur räknar man PEWS för varje timme. Verkar som att man skulle kontrollera ungen PEWSX12 alltså varannan timme. Eller är PEWS var 12e timme,. 
 
-
 * obesitas är ISO-BMI grejer
 
 * obstipation akuten: klyx sen omvärder bukstatus, sen movicol 3-6mån, livsstilsråd fiberrikt, mer fysiskt aktiva
 
-* Laktosintolerans'
-
 * akut handläggning på IBD
-
-* spädbarnskolik
-
-* Hepatit och pankreatit akut bild provtagnin
 
 * ITP behandlingstrappa
 
@@ -64,3 +57,11 @@ beroende på hur akut detta är
 * HbF och RBC nedbrytning trigger av lägre syretryck, varpå man 
 
 * diagnos postinfek strep: C3 + antikroppar för strep / serologi är bättre än svalgodling
+
+* Sekundär genital herpes: primär genital herpes att man drabbats av det försat ggen. 
+
+* HYperemesis orsaker: hyperthyroeos, leversjd, mola, duplex
+
+* Placentarelaterade grejer med ablatio och previa
+
+* LSIL, HSIL, ASCUS, AIS, etc och deras handläggning enl GSK och vidare. 

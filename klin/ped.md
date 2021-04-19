@@ -5412,13 +5412,128 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
     * **bensylpenicillin iv.**
     * **eller cefotax**
 
+
+
+### Misc infek
+
+
+
+#### Tuberkulos
+
+
+
+***Presentation***
+
+* Gammalt fall fr klin med
+  * Afrikansk man. successivt tilltagande hosta sedan 3v. svettas mkt på natten. Gått ned 4kg i vikt. 
+  * Indikatorsjd: HIV
+
+
+
+***Etiologi***
+
+* Barn
+  * **under 3-4åå**: utvecklar LÄTTARE tuberkulos
+  * **allvarligare formera v sjukdomen**: högre sannolikhet att d rababs av den mer allvarligare formen av sjd
+  * **outvecklat immunförsvar**
+  * !! **Meningit + miliartuberkulos,** lättare hos barn
+  * nyligen smittade barn är extra utsatta.
+* **Latent tuberkulos**
+  * Smittad med tuberkulos
+  * men asymptomatisk
+  * Kan ej hitta tuberkulos normalt sätt: sputumprov, odling, direktmikroskopi, PCR
+* **Spridningsvägar**
+  * Lungor: droppsmitta, väldigt smittsamt
+  * smittsam 14d efter instatt behandling
+  * **nära kontakt**: krävs nära kontakt för att sprida; 
+  * **barn kan smittas, men är själva nästan aldrig smittsamma**
+* **Resistensformer**
+  * **MDR**: multidrugresistens bacteria
+  * **XDR**: extensively drug resistens
+* **inkubationstid**: 2v-12v
+* 
+
+
+
+
+
+***Kännetecken***
+
+* Allmänt
+  * Många organsystem
+    * CNS tuberkulos
+    * tarm tuberkulos
+    * körtel tuberkuos
+    * lungor, vanligast: disseminarerad, förstorade hilus röntgen, möjligt körtlar inger misstanke malignitet
+    * kotor
+  * Hosta, pågått >3v
+  * hoster slem, kan blodigt
+  * dålig aptit
+  * viktnedgång ofrivillig
+  * feber
+  * svettas nätterna
+  * svag o trött
+  * ont i bröstkorg
+* barn, mer allmänna symptom
+  * feber
+* äldre barn, skolbarn före tonr
+  * mindre besvär än vuxna
+  * feber flera veckor
+  * trött
+  * hängigt
+  * rtg-undersök: svullna lymfkörtlar mellan lungorna
+
+
+
+
+
+***Utredning och handläggning***
+
+* Lungrtg: väldigt viktigt
+* SPutumdiagnostik
+  * ! Sputumodling: högst sensitivitet
+  * Direktmikroskopi: syrefasta stavar
+  * evt PCR på sputum
+* Ventrikelsköljning
+* positivt PPD: 
+  * latent TB: över 15mm 
+  * vaccinationsindik: mindr än 10mm
+* quantiferon, positivt
+* DT-thorax: kaviteter
+* Smittsamhetskvantifiering: direktmikroskopi
+
+
+
+
+
+***Behandling***
+
+* 6månaders behandling, fr gammal tenta
+* Antibiotika: samma antibiotika för arn som för vuxna, bara justerade doser
+  * Rifampicin med 
+  * Isoniazid med 
+  * Pyrazinamid med 
+  * Etambutol 
+* Vitamin b6, pyrofosfat också för att man kommer att få problem 
+* Kinoloner är inte med i standard behandlingen, men kan ges som tillägg i dem fall där man har resistens, samt superinfektioner, som man då kan drabbas utab 
+
+
+
+***Biverkningar***
+
+* Lungfibros
+* LEvertoxiska lkm
+* Ögonbiverkningar
+
+
+
 ### Nefrologiskt Urologiskt
 
 #### Cystit
 
 
 
-#### HUS Hemolytiskt uremiskt syndrom
+#### !! HUS 
 
 ***Presentation***
 
@@ -5428,6 +5543,14 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Ange 2 relevanta blodnalyser du vill beställa för att få stöd för din diagnosmisstanke
     * Enl genomgg: Hb, krea, TPK
     * Blodstatus, elstatus
+
+
+
+***Allmänt***
+
+* Hemolytiskt uremiskt syndrom
+
+
 
 
 
@@ -5990,32 +6113,6 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-### ALL
-
-***Presentation***
-
-* 4åå flicka
-  * Beata grinar och gnäller. Hon är petig i maten och lite blek om nosen. 
-  * Helst vill hon sitta i dagisfrökens knä och läsa böcker. 
-  * Igår petade hon in en fiamedknuffpjäs i näsan, så det forsade blod. 
-  * Trots att det bara är i början på september har Beata redan ätit 2 kurer med Kåvepenin pga ”oklar inf”. Mamma har läst på vårdguiden om coxitis simplex, eftersom Beata klagar på ont i benen. Nu sitter de i ditt väntrum.
-  * diffar vid denna punkt? ITP, leukemi, (hemolytisk anemi?)
-  * Prover visar: Hb 80, TPK 50, LPK 50, blaster i diff, PKINR 1.3, APTT ua, lätt förhöjt krea, normalt Na, urat förhöjt, normala-lättstegrade transaminaser, CRP 15
-  * arbetsdiagnos nu: leukemi kanske ALL specifikt
-* Lisa 3 år inkommer till akuten för att hon sedan tre dagar haft små petekier på bålen. Hon har också haft lite lätt feber 38,2 grader utan förkylningssymtom. Ingen blödning från slemhinnor eller tarm. Föräldrarna tycker att hon varit lite tröttare än vanligt och varit gnällig i slutet av dagarna på förskolan sedan cirka 2 veckor. I status kan du notera några få, diskreta petekier på bålen. Hon har fin färg. I buken känner du en resistens till vänster i buken ca 3 cm nedom arcus i mamillarlinjen och du misstänker en mjältförstoring. Hjärta lungor fysikaliskt ua. Du tar ett blodstatus som visar tpk 27 x 10 9 /l, Hb 85 g/l, Lpk 10,8 x 10 9 /l Med bakgrund av symtom, status och lab misstänker du i första hand (2p)
-  * Fel alternativ
-  * a) leukemi och anstaltar om diff, urat samt benmärgsundersökning
-  * b) ITP och kollar diff samt antikroppar mot trombocyter
-  * c) aplastisk anemi och anstaltar om diff
-  * d) aplastisk anemi och anstaltar om diff och benmärgsundersökning
-  * Rätt alternativ: e) leukemi och anstaltar om diff, urat, benmärgsundersökning med kromosomundersökning
-
-
-
-***Etiologi och patofysiologi***
-
-* Blodmaligniteter hos barn: B-ALL vanligast, men T-ALL och AML förekommer liksom MDS
-
 
 
 ### Anemi
@@ -6323,7 +6420,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Feber
   * Petekier
   * Ledsmärta / skelettsmärta
-* **3 åriga Vera har remitterats från Närakuten p g a svängande subfebrilitet ca 37,8-38,3 i temp och blekhet sedan 2 veckor tillbaka. Hon har inte haft hög feber. CRP 26. Hon har även varit trött, klagat över smärta i kroppen och fått enstaka centimeterstora blåmärken på armar och ben.** 
+* !!! [viktig patientbild] **3 åriga Vera har remitterats från Närakuten p g a svängande subfebrilitet ca 37,8-38,3 i temp och blekhet sedan 2 veckor tillbaka. Hon har inte haft hög feber. CRP 26. Hon har även varit trött, klagat över smärta i kroppen och fått enstaka centimeterstora blåmärken på armar och ben.** 
   * VIlken diagnos bör primärt uteslutas
     * leukemi
   * VIlka blodprover beställder du akut för att få stöd i din diagnosmisstanke
@@ -6362,6 +6459,36 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 * **Labb**: 
   * **Blodstatus + diff:** essentiell del i utredningen
   * **leverstatus + njurstatus:** evaluera status av viktiga organ, då möjligt med härdar i respektive organ eller att njurarna tar skada av tumörsjukdomen. 
+
+
+
+#### ALL
+
+***Presentation***
+
+* 4åå flicka
+  * Beata grinar och gnäller. Hon är petig i maten och lite blek om nosen. 
+  * Helst vill hon sitta i dagisfrökens knä och läsa böcker. 
+  * Igår petade hon in en fiamedknuffpjäs i näsan, så det forsade blod. 
+  * Trots att det bara är i början på september har Beata redan ätit 2 kurer med Kåvepenin pga ”oklar inf”. Mamma har läst på vårdguiden om coxitis simplex, eftersom Beata klagar på ont i benen. Nu sitter de i ditt väntrum.
+  * diffar vid denna punkt? ITP, leukemi, (hemolytisk anemi?)
+  * Prover visar: Hb 80, TPK 50, LPK 50, blaster i diff, PKINR 1.3, APTT ua, lätt förhöjt krea, normalt Na, urat förhöjt, normala-lättstegrade transaminaser, CRP 15
+  * arbetsdiagnos nu: leukemi kanske ALL specifikt
+* Lisa 3 år inkommer till akuten för att hon sedan tre dagar haft små petekier på bålen. Hon har också haft lite lätt feber 38,2 grader utan förkylningssymtom. Ingen blödning från slemhinnor eller tarm. Föräldrarna tycker att hon varit lite tröttare än vanligt och varit gnällig i slutet av dagarna på förskolan sedan cirka 2 veckor. I status kan du notera några få, diskreta petekier på bålen. Hon har fin färg. I buken känner du en resistens till vänster i buken ca 3 cm nedom arcus i mamillarlinjen och du misstänker en mjältförstoring. Hjärta lungor fysikaliskt ua. Du tar ett blodstatus som visar tpk 27 x 10 9 /l, Hb 85 g/l, Lpk 10,8 x 10 9 /l Med bakgrund av symtom, status och lab misstänker du i första hand (2p)
+  * Fel alternativ
+  * a) leukemi och anstaltar om diff, urat samt benmärgsundersökning
+  * b) ITP och kollar diff samt antikroppar mot trombocyter
+  * c) aplastisk anemi och anstaltar om diff
+  * d) aplastisk anemi och anstaltar om diff och benmärgsundersökning
+  * Rätt alternativ: e) leukemi och anstaltar om diff, urat, benmärgsundersökning med kromosomundersökning
+
+
+
+***Etiologi och patofysiologi***
+
+* Blodmaligniteter hos barn: B-ALL vanligast, men T-ALL och AML förekommer liksom MDS
+
+
 
 
 
@@ -10541,6 +10668,106 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Enures
 
+***Etiologi***
+
+* Sängvätning, att man kissar på sig s
+* 5åå eller äldre
+* Blåsan blir full eller kontraheras nder sömn, UTAN att väcka arnet
+* Sömnen
+  * enures patienter är generellt svårare att väcka
+  * normala fall är kraftig VÄCKNINGSSTIMULUS: full + kontraherande blåsa
+  * men enures patienetr vaknar inte av detta
+  * sover sjupt med dålig
+  * !! har andningssvårigheter nattetid: sömnapneer, el kraftig snarkning (kom ihåg relation med ÖNH knursen och barnapne)
+  * !! Nokturi är vanligt och ska inte behandlas: att barnet vaknar på natten av en full blåsa och går och kissar
+
+
+
+***Diagnos***
+
+* Primär enures: 
+  * Inte haft period torra nätter över 6månader
+  * INattvätning 6månader, förutsatt att det varit en torr period innan enuresen
+* Sekundär enures
+  * torrtid mer än 6månader DÄREFTER sängväta igen, talar man om sekundär enures
+
+
+
+***DIfferentialdiagnoser***
+
+* Nokturi
+* DIabetes?
+* polyuri, diabetes insipidus, 
+* polyurisk njursvikt
+* neurogen blåsrubbning: 
+  * spina bifida occulta: brukar vara nonmonosymptomatiska, att de har svag stråle, måste trycka föra tt kissa
+* oupptäckt uretravalvel
+
+
+
+***Epidemiologi***
+
+* lika hög förekomst som astma hos skolbarn
+* vanlgiaste kroniska hälsoproblemen i den ålden
+* 5-10% kissar i sängen
+* 0.5% finns kvar till vuxen ålder
+
+
+
+***Kännetecken***
+
+* VAKNAR INTE av vätningen
+* Monosymptomatisk enures: att d bara enuresen verkare som
+* Nonmonosymptomatisk enures: att det finns fler symptom än bara enuresen (sängvätningen)
+  * Täta miktioner: över 7p dag
+  * Glesa miktioner: under 4 p dag
+  * Häftiga trängningar t miktion: urgency, trängninga
+  * urinläckage dagtid
+  * blåstömningssvårigheter, krystkiss, dålig stråle
+* **Varningssignaler**: gör att man bör bredda utredningen
+  * AT trötthet, illamående, viktnedgång
+  * överdriven törst, behov dricka natten: titta omedelbart glukos i urinen
+  * blåstömnignssvårhigheter
+  * krystkissning
+  * uttalad snarkningsproblematik, 
+  * apne nattetid
+
+
+
+***Behandling***
+
+* obehandlad enures förvinner spontant 15% patienter per år
+* När behandla: när barnet börjar tycka att det är ett problem, oftast mellan 6-7åå
+  * oftast itne aktuellt behandla innan 6åå
+* **Stegivs**
+  * Första steget
+    * Anamnestiska samtalet: "kommer ta tid, tålamod"
+    * uttalad vätskerestriktion eftermiddag kvällstid INTE effektivt, rekommenderas inte
+    * barnet bestämmer om blöja eller lakansskydd: flesta barn vill slippa blöja
+    * förstoppning ska behandlas INNAN kissproblem
+    * om kissar på sig dagitd, behandla först: första hand blåsträning
+  * **Andra steget**
+    * **larmbehandling** (att man larmar när barnet nattväter, kissar på sig) respektive **antidiuretisk hormon (desmopressin)**
+    * oklart vilken först, barnets preferenser bestämmer
+    * **ADH, desmopressin**: BARA polyuri nattlig, att det är orsaken till nattväta, 
+        * begränsa vätska en timme innan medicin
+        * tom 8h efter medicinering, att man inte ska dricka vatten
+        * för att undvika enda risken med desmopressin: vätskeretention, hyponatremi, varpå kramper medvetandepåverkan
+        * 2% magbesvär, försvinner efter att man sätter ut medicinen
+        * !! Minirin: starta provförpackning, om ingen effekt efter en vecka ingen poäng
+    * **enureslarmet, larmbehandlingen**: både nattlig polyuri och detrusoröveraktivitet
+        * fuktsensor i byxorna, kalsonger etc.
+        * tesatar minst 6 veckor
+        * antalet våta nätter minskat, fortsätter behandlingen
+        * avslutas 14torra nätter i rad
+        * återfall 30% fallen
+        * om inte hjälper, byte till desmopressin
+  * **Funkar inte enureslarm eller desmopressin**
+      * Antikolinergika: tolteridin (detrusitol)
+      * Risker
+          * Urinvägsinfektion, cystit: för att man retenerar en del vätska
+          * Förstoppningsutveckling: ska leta efter detrusoröveraktivitet
+
 
 
 
@@ -10570,6 +10797,160 @@ En kort lista över kliniska manifestationer av CF:
 
 
 ### Hypertoni
+
+
+
+***Etiologi***
+
+***Definitioner***
+* **Normalt BT**: under 90e percentil för längd, kän, ålder, sys o diast
+* **Prehypertoni**: över 90e percentil men under 95e percentil
+* **Hypertoni**: över 95e percentilen
+    * **Stadium1**: BT övr 95percent, men under 5mmHg över 99e
+    * **Stadium2**: BT över 5mmHg över 99e percentil
+    * **Primär, essentiell hypertoni**: korrelerad t hereditet för hypertoni o CVD samt för övervikt
+* !!! **Sekundär hypetoni**: VANLIGASTE FORMEN, hos barn o ungdomar
+    * Oftats renal, spec små barn
+    * LKM
+    * kardiell
+    * smärta
+    * (sömnapne?)
+    * nefrit
+    * hyperaldosteronism
+    * feokromocytom
+    * obesitas
+    * IgA nefrit
+* Sekundär organpåverkan: 
+    * vänsterkammarförstoring
+    * retinopati
+    * njurpåverkan
+    * 
+
+
+
+***Riskfaktorer***
+
+* !! Övervikt: vanligt med hypertoni bland små barn med obesitas. ofta tillstödter CVD och metabola riskfaktorer successivt. 
+  * bör behandlas med antihypertensiva + livsstillsinterventioner, ifall livstil inte reducerat hypertoni 6mån fr dianos
+* kronisk njursjukdom CKD
+* Sömnstörningar
+* sömnapne
+* prematuritet
+* låg födelsevikt
+* hyperlipidemi
+* DM
+* patologisk glukoskurva
+* organtransplanterade
+
+
+
+***Utredning***
+
+* BT mätning
+    * sittande barn
+    * liggande spädbarn
+    * höger arm
+    * medelvärde tre mätningar
+    * använd rätt manschettstorlek
+* Utredning hypertonin
+    * Bekräfta diagnosen: 
+        * tre sep tillfällen
+        * !! ambulatorisk 24h mätning, om möjligt, för att bekräfta diagnosen
+* Anamnes
+    * Hereditet
+    * RIskfaktorer
+        * livsstil
+    * Perinatalt förlopp
+    * TIdg aktuella sjd: njursjukdomar, hjätra, endokrina
+    * medicineering
+    * sömnapne
+    * mediciner, dropger
+* **Basalprover**
+    * Blod: Na, K, kreatinin, cystatin C, triglycerinder, kolesterol, fp-glukos
+    * urinprover: u-sticka, u-alb/krea
+    * UL: njurar, urinvägar
+* **Bedömning sekundär organpåverkan**
+    * Kardiell: EKO
+    * Renal: U-sticka, U-sediment, U-alb/krea, kreatinin, cystatin C
+    * ögon: öveväg ögonbottenundersökning
+
+
+
+!!! ***När misstänka renovaskulär hypertoni***
+
+* \>=2 antihypertensiva lkm får inte bukt hypertoni
+* symptomgivande hypertoni
+* cerebrala symptom
+* hjärtsvikt
+* facialispares
+* neurofibromatosis
+* Williams
+* andra syndrom
+* Misstänkt vaskulit: särskilt takayasus syndrom
+* Perinatala komplikationer och ex navelartärkateteriserin
+* blåsljud över njurartär
+* Höga P-renin eller 
+* hypokalemi
+* transpalanterad njure
+
+
+
+***Komplikationer***
+
+* Ökad heart ventricular mass index,
+* ökad risk njursvikt; proteinuri
+* Kärl: carotid intima thickness
+* Dessa förbättras om man behandlar
+
+
+
+***Behandling***
+
+* **Högt NORMALT tryck**
+
+  * värdera vikt
+  * ge råd diet
+  * fysisk aktivitet, motion
+  * utvärdera efter 6 mån
+  * misstänkt sekundär hypertoni, UTRED
+  * kost: dietist, 
+
+* **Stadium1 (149-159/90-99)**
+
+  * essentiell hypertoni (ya3ni bara hypertoni): icke-farm initialt, utvärdera efter 3-4månader
+  * **farmakologiskt + rådgivning**
+    * Symptomatisk hypertoni
+    * sekundär hypertoni; inkl njurssjd
+    * Sekundär organpåvrkan
+    * Diabetes mellitus
+    * essentiell hypetoni: kvarstående BT stgring trots icke farm behandling 3-4månader
+  * **Farmakologiskt**
+    * **esentiell hypertoni**: ACEh, kalciumantag, ANG2antag, ev betareceptorblock, tiaziddiurttika
+    * **Renal hypertoni, sekundär**: 
+      * **känd njurskada, bibehålle njurfunk**: ACEh, alt ang2antag, tillägg kalciumantag ev diuretika
+      * **kronisk njurinsuff**: försiktig dos ACEh (s-rkera, s-kalium fölk), diuretika vid övervätsk, tillägg kalciumantag, ev betablock
+      * **njurartästenos, misstänkt, verifierad**: kalciumantag ev betarec block, 
+
+* **Stadium2 (169-179/100-109)**
+
+  * Symptom, mkt höga tryck: AKUT konsult barnnefrolog, eller annan barnläkare med kompetens hypertoni
+  * **Starta farmakologisk behandling**
+    * iv beh barn över 1åå: iva, långsam BT sänkning, 
+      * labetalol (trandate; alfa-, beta-receptorblock)
+      * furosemid
+      * andrahand: nitroprussid, nitro, alternativt klonidin (alfastimulerare)
+
+  
+
+
+
+
+
+| <img src="./imgs/sam_190421_zU1pOpuR36.png" alt="zU1pOpuR36" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+|                                                              |      |      |
+|                                                              |      |      |
 
 
 

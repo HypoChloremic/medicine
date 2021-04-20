@@ -58,13 +58,7 @@ beroende på hur akut detta är
 
 * diagnos postinfek strep: C3 + antikroppar för strep / serologi är bättre än svalgodling
 
-* Sekundär genital herpes: primär genital herpes att man drabbats av det försat ggen. 
-
-* HYperemesis orsaker: hyperthyroeos, leversjd, mola, duplex
-
 * Placentarelaterade grejer med ablatio och previa
-
-* LSIL, HSIL, ASCUS, AIS, etc och deras handläggning enl GSK och vidare. 
 
 * Sfinterrupturer, eller alla rupturer
 
@@ -73,8 +67,6 @@ beroende på hur akut detta är
 * Göra färdigt GDM, alla TODOs iallafall. 
 
 * Göra bjudningarna
-
-* [done??] Göra ASCUS, LSIL hela den buiten
 
 * Göra lagren man går igenom
 

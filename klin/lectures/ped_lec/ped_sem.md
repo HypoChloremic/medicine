@@ -1622,11 +1622,13 @@ Anafylaxigrader
   * 1-2 mellanmål med frukt, smörgås, yoghurt. 
     * Gröt med fruktpure eller välling eller bröstmjölk
   * Vanlig komjölk kan introduceras vid 1 års ålder, mängden protein o salt. 
-  * **Från 1 års ålder:** 
-    * Äter mer som vuxna o större barn. 
-    * Mellanmål 2 ggr per dag 1-2års ålder.
-    * Mellanmål 1g per dag > 3 års ålder. 
-    * 5mål/dag mår tarmarna bra av.
+  
+* **Från 1 års ålder:** 
+  
+  * Äter mer som vuxna o större barn. 
+  * Mellanmål 2 ggr per dag 1-2års ålder.
+  * Mellanmål 1g per dag > 3 års ålder. 
+  * 5mål/dag mår tarmarna bra av.
   
   
   

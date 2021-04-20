@@ -613,21 +613,23 @@ cerivicit
 
 ### Allmänt
 
-
-
-<img src="./imgs/gyn_sam_130321_5hF2Kp0XMM.png" alt="5hF2Kp0XMM" style="zoom:50%;" />
-
-
-
-<img src="./imgs/gyn_sam_130321_4WSKJOEtjl.png" alt="4WSKJOEtjl" style="zoom:50%;" />
+| <img src="./imgs/gyn_sam_130321_5hF2Kp0XMM.png" alt="5hF2Kp0XMM" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_130321_4WSKJOEtjl.png" alt="4WSKJOEtjl" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_130321_MkYvuRD2Nt.png" alt="MkYvuRD2Nt" style="zoom: 80%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_sam_130321_my61Hz8B6T.png" alt="my61Hz8B6T" style="zoom:50%;" /> |                                                              |                                                              |
 
 
 
-<img src="./imgs/gyn_sam_130321_MkYvuRD2Nt.png" alt="MkYvuRD2Nt" style="zoom: 80%;" />
 
 
 
-<img src="./imgs/gyn_sam_130321_my61Hz8B6T.png" alt="my61Hz8B6T" style="zoom:50%;" />
+
+
+
+
+
+
+
+
 
 
 
@@ -659,6 +661,14 @@ cerivicit
 
 - - Slyngbehandling TVT
   - att man sätter en slynga runt uretra för att återskapa funktionen fr bindväven
+
+
+
+| <img src="./imgs/200421_sam_97ubHxmMEL.png" alt="97ubHxmMEL" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
 
 ### Kejsarsnitt
 
@@ -1084,7 +1094,7 @@ cerivicit
 
 
 
-<img src="./lectures/gyn_lec/imgs/gyn_lec_1un3q6TpaP.png" alt="1un3q6TpaP" style="zoom:50%;" />
+
 
 ***Biverkningar***
 
@@ -1113,11 +1123,21 @@ cerivicit
   * 3: 30%
   * 4: 10%
 
+
+
+| <img src="./lectures/gyn_lec/imgs/gyn_lec_1un3q6TpaP.png" alt="1un3q6TpaP" style="zoom:50%;" /> | <img src="./imgs/200421_sam_yQw2gdPtkY.png" alt="yQw2gdPtkY" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+|                                                              |                                                              |      |
+|                                                              |                                                              |      |
+
+
+
 #### Dysplasi
 
 
 
-
+##### Allmänt
 
 ***Presentation***
 
@@ -1324,6 +1344,14 @@ cerivicit
 * **Sexuellt aktiv**: alla sexuellt aktiva kvinnor löper risk att bli smittade med onkogent HPV
 * **HPV smittar lätt vid sexuella kontakter**
 * **80% sexuellt aktiva kvinnor** ngn gg infek m HPV
+
+
+
+| <img src="./imgs/200421_sam_DsTyGk8V9C.png" alt="DsTyGk8V9C" style="zoom:50%;" /> | <img src="./imgs/200421_sam_Fok7KYbCxv.png" alt="Fok7KYbCxv" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
 
 
 
@@ -6171,6 +6199,21 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * kinoloner, däribland lexinor
   * trimetoprim
 
+## Grav, postpartum
+
+### Sheehans syndrom
+
+***Etiologi***
+
+* Hypofys nekrotiserar
+* relaterat med postpartal blödning
+
+
+
+***Utredning***
+
+* Kvinna inte kmit igg amning efter 1v, ska man utesltua sheehans syndrom
+
 
 
 ## Infektion o inflammation
@@ -8015,7 +8058,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 - Leanne 59år 
   - 3-para med normala förlossningar kommer itll gyn mottagningen via primärvården för bedömning. Hon klagar över skavningskänsla och känsla av att något finns i sildan. Hon har mest besvär vid promenader och ofta svårt att tömma blåsan helt. Hon behöver oftast kissa två gånger i följd. Undersökning ser du en pingpongbollstor förändirng i slidöppningen.
   - Vad är det troligaste att förändringen du ser i slidöppningen utgörs av?
-      * svar: Cystocele, urinblåsan.
+      * svar: uterocele besvarades på en tenta som fick rätt för detta
   - Hur kan du behandla henne i detta skede på din mottagning?
       * svar: bäckenbottenträning, lokalt östrogen, P-ring.
 - !! Gerd är 52år 
@@ -8054,9 +8097,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+***Indelning och klassifikationer***
+
+* Rectocele: enl abe är detta en prolaps
+* Cystocele
+* uterocele: vet ej om detta är den rätta definitionen. 
+
+
+
 ***Behandling***
 
 - Kolporafi: vaginal wall repair, intended för cystocele och rektocele
+- P-ring
+- Plastik
 
 
 
@@ -9473,6 +9526,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * partogram används för att följa detta: huvet nedtrännign, modermun öppning plot tidsaxel. 
   * **förlängt öppningsskede**: om förväntad dilat av modermun fördröjd 3h
     * då bör värkarbetet stimuleras, förutsatt ingen annan orsak diagnosticeras
+* **Kriterier för aktiv förlossning, 2/3 kriterier uppfyllda, enl FL**
+  * Cervix öppen misnt 3-4cm (diskuteras 6cm); på seminariet sade man 5cm
+  * vattenavgång
+  * smärtsamma kontraktioner
+
+
+
+***Förstföderskor, primiparia***: "har förlossningar <12h fr aktiv fas (aktiva fasens början?)"
+
+***Omföderskor***: snabbare förlossningar efter aktiv fas
 
 
 
@@ -9648,16 +9711,62 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Terminologi***
 
-* Vidöppen: ryggen mot mammas sakrum
-* Framstupa: magen mot mammas sakrum
+* NOTERA: vid vidöppen och framstupa, att det är inte heala ungen som har the direction of framstupa eller vidöppen, utan det är enbart huvudet som har ROTERAT för att få detta
+  * Normalt sätt är fostret placerat i förlossningskanalen som sådant att RYGGEN PEKAR ÅT HÖGER ELLER VÄNSTER och nite att huvet ryggen pekar mot mammans rygg eller mage. 
+  * Detta förklarar varför huvudet roterar efter att den kommit ut ur vagina, för att man sedan DRAR UT <u>AXELN</u> som är längsmed vagina öppningen och inte TVÄRS. 
+* **Vidöppen**: HALSryggen mot mammas sakrum; HALSrygg mot sakrum
+* **Framstupa**: HALSrygg mot symfysen
 
 
 
 ***De olika bjudningarna***
 
-* Vidöppen
+* **Vidöppen** (s500 i boken)
+  * hjässbjudning: 5-8% alla förlossningar
+  * pannbjudning
+  * ansiktsbjudning
+* **Framstupa**
+  * kronbjudning (mest flekterad, flexion): 90% av alla förlossningar
   * hjässbjudning
-  * pannb
+  * pannbjudning
+  * ansiktsbjudning (mest deflekterad)
+
+
+
+***Bjudningar efter frekvens***
+
+* **Framstupa kronbjudning**: den vanligate okomplicerade bjudningen; notera att vid en framstupa bjudning så är 
+  * fostret in i förlossningskanal huvet MAXIMALT framåtböjt
+  * sedan reoterar med ansikte MOTE SAKRUM och nacke MOT SYMFYS. 
+  * detta sker i 90% av alla förlossningar
+* **Vidöppen hjässbjudning**: kommer efter framstupa kronbjudning i frekvens, verkare som..
+  * Mindre gynnsam, mindre utrymme för huvudet att passera igm jfr framstupa kronbjudning
+  * occipitofrontala diametern, istället för den idelaa suboccipito-bregematiska
+  * värkar stimuleras inte effektivt
+  * huvudt tränger långsammare
+  * rupturrisken ökar
+  * om ej spontant: förlösa med klocka med god hjälp, baktill nära fontanellen som nu ledande, huvudet kan därmed rotera till framstupa när man drar klockan
+  * föderska känner intensiva ryggsmärto om vidöppet
+    * avhjälpt: framåtlutad ställning,
+    * trycket fostret mtto ryggrad minskar
+    * massag,e varmt bad lindar
+    * EDA kan aktuell om ovan inte stillar
+  * Krystvärkar redan slutet öppningsskede eftersom det trycker mot bäckenbotten o ändtarm
+
+
+
+***Utredning***
+
+* För att få reda pp bjudnin finns olika sätt
+* palpation: palperar fontanelelerna, 
+  * fyrstråligafontanellen = vidöppen hjäss
+  * trestrålig = framstupa kron
+
+
+
+| <img src="./imgs/200421_sam_Yd5UAHT1rc.png" alt="Yd5UAHT1rc" style="zoom:50%;" /> | <img src="./imgs/200421_sam_18zJnBtsWW.png" alt="18zJnBtsWW" style="zoom:50%;" /> | <img src="./imgs/200421_sam_zav9f1KxAk.png" alt="zav9f1KxAk" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/200421_sam_9iFYHsrOLI.png" alt="9iFYHsrOLI" style="zoom:50%;" /> | <img src="./imgs/200421_sam_c3unfKNXle.png" alt="c3unfKNXle" style="zoom:50%;" /> |                                                              |
 
 
 
@@ -9688,16 +9797,18 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * PBD (bäckenbottenbedövning): TODO
     * PDB pudendus blockad
 
-
-
-***Fysiologi***
+##### ***Fysiologi***
 
 *  **Allmänt**
    *  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
    *  **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
    *  **Fysiologisk inflammatorisk process**: uppmjukning cervix, tilltagande kontraktilitet i myometriet
    *  **Ökar kontraktilitet i uterus**
-      *  **Oxytocin**
+      *  **Oxytocin**: peptidhormon, pulsatil frisätt, hypofys baklob,
+         *  binder till cellytan av oxytocinreceptorer
+         *  uterus: oxy producerar rytmiska värkar under förlossning
+         *  bröstkörtel
+         *  hjärnan
       *  **Östrogen**
       *  **Prostaglandiner**
       *  **Cytokiner**
@@ -9707,10 +9818,36 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 *  **Generellt**
    *  oklar def vad startar förlossning, vad förlossningsstart är, vad normal progrress är
    *  **målsättning inte oklar**: frisk mamma, barn, bra upplevelse, ingripå lite som möjligt förlossning förlopp
+*  ENL FL
+   *  myometrie aktivitet påverkas under aktiv förlossning av 
+      *  oxytocin
+      *  progesteron: antagonist, inhiberar myometriet, relaxerar myometriet
+      *  östrogen: agonist, stimulerar tillsammans med oxytocin kontraktioer under förlossning
+      *  
 
 
 
-***Faktorer påverkar förloppet***
+***Ferguson reflexen***
+
+* FFD (föregående fosterdel)
+* tryck mot cervix + vaginalvägg
+* signal till hjärnan
+* oxytocin frisläpps: 
+* kontraktion myometriet
+* FFD trycker mer
+* positiv feedbackloop
+
+
+
+
+
+| <img src="./imgs/200421_sam_nWyWWVK198.png" alt="nWyWWVK198" style="zoom:50%;" /> | <img src="./imgs/200421_sam_FkqD3ePyHo.png" alt="FkqD3ePyHo" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
+##### ***Faktorer påverkar förloppet***
 
 *  ***Faktorer*** PPPP
    

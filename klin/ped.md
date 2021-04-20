@@ -4842,6 +4842,177 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+
+
+#### SLE
+
+***Kännetecken***
+
+* Fjärilsexanthem (70%)
+* Raynauds fenomen
+* Solkänslighet
+* Livedo reticularis
+* Alopeci
+* Vaskulitsår
+* Diskoida utslag
+* Leder muskler
+  * icke-destruerande Artrit 20-74%
+  * Migrerande artralgi
+  * Myosit
+* Munsår
+  * Kolit
+  * Hepatit
+  * Splenomegali
+  * Pankreatit
+  * Ascites
+* NJurar
+  * Nefrit
+  * sklero
+  * hyperton
+* blod
+  * hemolytisk anmei,
+  * trombocytopeni
+  * leukopnem, lymfooepni
+  * koag rubb
+  * antifosfolipidsynd
+
+
+
+***DIagnos***
+
+* 4 av 11 över tid
+* SLE-klassifikationskriterier
+  * Hud
+      * Ansiktserytem
+      * Diskoida utslag
+      * Solkänslighet
+      * Orala/nasala sår
+  * Leder
+      * Artrit
+  * Kardiopulmonellt:
+      * Serosit
+  * Hematologi
+      * Anemi-Cytopeni (se def)
+  * Immunologi
+      * ANA: 95% SLE pat positiva för, men 15% låg titer i normalpop
+      * Specifika auto-ak
+  * Njurar
+      * Proteinuri
+  * CNS
+      * Kramper och/eller
+  * Psykos
+
+
+
+
+
+***Differentialdiagnoser***
+
+* Oklar feber
+* JIA
+* Reumatisk feber
+* Glomerulonefrit
+* Hemolytisk anemi
+* ITP
+* Sickle-cell anemi
+* Leukemi
+* Hodgkins lymfom
+* Allergiska utslag
+* Läkemedelsreaktion
+* Epilepsi
+* Psykos
+* Infektion: EBV, Parvovirus
+
+
+
+***Utredning***
+
+* Prover
+
+  * ANA: 95% pos bland SLE, men 15% i normalpop
+  * anti-dsDNA: 70%
+  * Blodstatus m Virusserologi? diff, DAT, Retikulocyter
+  * SR, CRP, Elfores, Komplement (c3, c4,
+  * c1q)
+  * ANA
+  * SSA/SSB-ak, Sm-ak, anti-dsDNA,
+  * ALAT, ASAT, Amylas, LD, CK
+  * Anpassning - vid kontroller!!
+  * Ferritin, Lipidstatus, Fibrinogen
+  * Urinsticka, albumin/krea-kvot,
+  * Elstatus inkl Kreatinin
+  * Cystatin-C, iohexolclearance
+  * APTT
+  * APL
+  * lupus antikoag
+
+* STATUS
+
+  * AT: trötthet,
+    * blekhet,
+    * orientering,
+    * grundstämning,
+    * feber
+  * Hud: fjärilsexantem,
+      * diskoida utslag,
+      * vaskulitsår,
+      * alopeci,
+      * ödem,
+      * petechier,
+      * livedo,
+      * Raynauds
+  * Muskuloskeletalt: led/muskelvärk (migrerande),
+      * artriter,
+      * muskelsvaghet
+  * MoS: enantem i hårda gommen,
+      * näsblödningar
+  * Yllg: svullna,
+      * oömma
+  * Thyroidea - svullnad
+  * Cor: gnidningsljud,
+      * avlägsna toner
+  * Blodtryck - hypertoni
+  * Pulm: nedsatta andningsljud,
+      * gnidningsljud,
+      * dyspne
+  * Buk: ömhet,
+      * peritonit,
+      * organomegali
+  * Neuro: kranialnervspåverkan,
+      * kognitiva rubbningar,
+      * chorea,
+      * reflexbortfall,
+      * perifer svaghet,
+      * sensibilitetsbortfall
+  * Tillväxt: viktnedgång,
+      * pubertetsutveckling
+  * Ögon: retinopati,
+      * färgseende,
+      * synnedsättning,
+      * ögonvärk
+
+  
+
+  
+
+  ***Behandling***
+
+  * PREVENTION: solskydd, vaccination, livsstilsråd
+  * TEAM: Barnläkare (ofta flera), specialistsjuksköterska, fysioterapeut, arbetsterapeut, sjukhuslärare, kurator/psykolog, dietist, regionklinik, vuxenreumatolog
+  * LÄKEMEDEL: tidigt insatt, lagom aggressiv behandling
+    * prednisolon: medelsvår, serosit, nefrit, nedtrappning
+    * klorokin: hudutslag, solkänsl, synovit, skovförebyggande basalemd
+    * azatioprin: underhåll, 
+    * MMF: mykofenolatmofetil
+    * cikofosfamid
+  * Induktion
+  * Remission/Underhåll
+  * Generella behandlingsrekommendationer är OMÖJLIGT!!
+
+  
+
+
+
 ### Körtelbuk
 
 ***Presentation***
@@ -5255,9 +5426,8 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 * **Inkubationstid**: 1-2v
 
-* 
-
   
+
 
 
 
@@ -5289,7 +5459,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 * KLinisk diagnos, räcker i de fleasta fall: om man vet kikhosta förekommit i omgivningen
 * nasofarynxodling på aspirat BÄTTRE än pinne
-* PCR NPH aspirat
+* !! PCR NPH aspirat
 * Lymfocytos, vid leukocytos
 * Serologi: vara av värde vid negativ odling eller PCR, men svår tolka
 
@@ -5298,16 +5468,18 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 ***Utredning***
 
 * Diagnosticeras den i grupp barn: räkna med att felra är smittade
+* **Smittspårning**: pertussis ska smittanmälas och spåras enl FHM?
 
 
 
 ***Behandling***
 
-* Antibiotika: erytromycin 7-10d
+* **Antibiotika**: erytromycin 7-10d
   * första veckan av symptom: kan förbättra symptomen
   * om kikningarna debuterat: antibiotika är verkningslöst ur behandlings synpunkt
   * smittsamhet minskar efter 2d behandling
-  * 
+
+
 
 #### Pneumoni
 
@@ -5703,7 +5875,9 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * rätt?: Hemgång. Ceftibuten (en peroral cefalosporin) per oralt. Telefonuppföljning följande dag för att meddela urinodlingssvar och avsluta/fortsätta antibiotikabehandlingen. 
   * Inläggning. Blåspunktion. Cefotaxim intravenöst. 
   * Inläggning. Meronem intravenöst. Remiss för ultraljud njurvägar. 
-* 6 månader gammal flicka med feber i två dygn. Enstaka kräkning men ingen diarre. Inga fokala eller respiratoriska symtom. Ganska grinig o gnällig. Ingen epidemiologi för infektionssjukdom i omgivningen. Status: Febril 39.0. Ingen nackstel. Kapillär återfyllnad normal. Hjärta lungor ua. Buk ua.  LgLL ua. Hud: inget utslag. Lab CRP 180 mg/ml, Blodstatus: leukocytos med neutrofiler 13,5x109/l, Urinsticka: Leukocyter 3+, erytrocyter 3+, protein 1+, glukos 0. Diagnos? Vidare provtagning?
+* 6 månader gammal flicka med feber i två dygn. Enstaka kräkning men ingen diarre. Inga fokala eller respiratoriska symtom. Ganska grinig o gnällig. Ingen epidemiologi för infektionssjukdom i omgivningen. Status: Febril 39.0. Ingen nackstel. Kapillär återfyllnad normal. Hjärta lungor ua. Buk ua.  LgLL ua. Hud: inget utslag. Lab CRP 180 mg/ml, Blodstatus: leukocytos med neutrofiler 13,5x109/l, Urinsticka: Leukocyter 3+, erytrocyter 3+, protein 1+, glukos 0. 
+  * Diagnos? Vidare provtagning?
+  * Pyelonefrit
 
 
 
@@ -5712,6 +5886,85 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 ***Definition***
 
 * ***NOTERA***: alla barn under 2 år med tecken på urinvägsinfektion BEHANDLAS SOM PYELONEFRIT
+  * alltså behövs inte feber för att man ska ställa diagnosen pyelonefrit
+  * vanligtvis feber + urinvägsbesvär = pyelonefrot
+  * men för ungar under 2åå räcker ful sticka för att man ska få pyelonefrit
+
+
+
+***Etiologi***
+
+* förstoppning
+  * Translokation bakterier: Fr tarmslemhinnan till blåsan
+* anomaliera bidragande: reflux
+
+
+
+***Kännetecken***
+
+* För under 2åå: årimätr kännetecken räcker med ful sticka (även om CRP är normalt, man tar det bara för att om är riskfaktor, om det är DMSA eller inte). 
+* **Feber**: brukar vara blad de viktigaste tecknen
+* **AT påverkan, kan vara**
+* **ingen fokus nämns**: menar att man har tittat fr topp till tå, ganska literally, att man börjar huve, MoS etc. 
+* högt CRP..
+
+
+
+***Utredning***
+
+* **Anamnes**
+  * Förstoppning
+  * stråle: är det svag stråle eller ej, behöver barnet krysta, eller kommer som kanon
+  * blöja
+  * tonåringar: STD
+* **Status**
+  * Palpabla njurar? förstorade?
+  * Ryggmärgsbråck: Inspektera palpera ryggändslutet, möjligt oupptäckt ryggmärgsbråck (spina bifida)
+  * TITTA YTTRE genitalia: ung pojke som klagar på kiss kan vara en balanit, då det inte är antibiotika utan sittbad som behövs
+* **Provtagning**
+  * **Blodprover**: CRP, KREA, 
+  * **Urin**: 
+  * **blododling**: om AT påverkade barn
+  * yngre 3mån: S-Na (man tänker SIAD för at)
+* **urinodling**
+  * Blåspunktion: under 1åå; all växt vilken som helst mängd är signifikant för detta
+* **UVI under 2åå**
+  * !! **basutredning**: CRP, krea, u-sticka, urinodling, **<u>ultraljud</u>**
+  * **UL**
+  * **DMSA**: icke-ecoli, CRP över 70, kreatinin påverkan, ska man göra DMSA tidigt
+  * **MUC**: om på UL ser man hydronefros, går man vidare med en MUCG undersökning
+    * man fyller blåsan med kontrastmedel,
+    * man tar röntgenbilder under detta
+    * Refluxbedömning: man kan bedöma graden av reflux hos dessa barn med MUC
+
+
+
+***Riskfaktorer för ärrbildning***
+
+* LÅg ålder
+* upprepade infektioner
+* försenad behandling
+* anomalier
+  * avflödeshinder, 
+  * reflux
+* om påverkad krea
+* CRP över 70
+* om non-E coli
+
+
+
+***Behandling***
+
+* Antibiotika
+* ***Symptomatisk urinvägsinfektion***: antibiotika
+  * egentligen påbörjar man antibiotika behandling innan odlingssvar föreligger hos barnet
+  * men man tar odlig innan man börjar direkt behandla
+  * ***Pyelonefrit***: 10 dagars antibiotika behandling
+  * ***Cystit***: 5 dagar
+  * ***Intravenöst***: kräkande barn, allmänpåverkade, ter sig uroseptiska, septiska ineldnignsvis
+  * ***peroralt***: om barnet inte påtagligt påverkt kan man ge peroralt, väldigt bra
+
+
 
 
 
@@ -5729,31 +5982,11 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-***Utredning***
-
-* urinodling
-  * Blåspunktion: under 1åå; all växt vilken som helst mängd är signifikant för detta
 
 
-
-
-
-***Behandling***
-
-* Antibiotika
-* ***Symptomatisk urinvägsinfektion***: antibiotika
-  * egentligen påbörjar man antibiotika behandling innan odlingssvar föreligger hos barnet
-  * men man tar odlig innan man börjar direkt behandla
-  * ***Pyelonefrit***: 10 dagars antibiotika behandling
-  * ***Cystit***: 5 dagar
-  * ***Intravenöst***: kräkande barn, allmänpåverkade, ter sig uroseptiska, septiska ineldnignsvis
-  * ***peroralt***: om barnet inte påtagligt påverkt kan man ge peroralt, väldigt bra
-
-
-
-| <img src="./lectures/ped_lec/imgs/ped_fl_hxRvKyBBT8.png" alt="hxRvKyBBT8" style="zoom: 25%;" /> | <img src="./imgs/sam_190421_bQEdPZvCHg.png" alt="bQEdPZvCHg" style="zoom:50%;" /> |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-|                                                              |                                                              |      |
+| <img src="./lectures/ped_lec/imgs/ped_fl_hxRvKyBBT8.png" alt="hxRvKyBBT8" style="zoom: 25%;" /> | <img src="./imgs/sam_190421_bQEdPZvCHg.png" alt="bQEdPZvCHg" style="zoom: 50%;" /> | <img src="./imgs/200421_sam_QhudIX5yak.png" alt="QhudIX5yak" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/200421_sam_k9luLhEkVu.png" alt="k9luLhEkVu" style="zoom: 25%;" /> |                                                              |                                                              |
 
 
 

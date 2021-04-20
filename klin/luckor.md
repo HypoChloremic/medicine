@@ -65,3 +65,17 @@ beroende på hur akut detta är
 * Placentarelaterade grejer med ablatio och previa
 
 * LSIL, HSIL, ASCUS, AIS, etc och deras handläggning enl GSK och vidare. 
+
+* Sfinterrupturer, eller alla rupturer
+
+* Risker när man har fått en sfinkterruptur, vad kan man göra och vad kan hända
+
+* Göra färdigt GDM, alla TODOs iallafall. 
+
+* Göra bjudningarna
+
+* [done??] Göra ASCUS, LSIL hela den buiten
+
+* Göra lagren man går igenom
+
+* Nabothis körtlar och lägga in corpus luteum fallet.

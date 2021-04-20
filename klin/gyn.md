@@ -855,6 +855,8 @@ cerivicit
     * nattligt byte / ferkventa bytningar
     * menstruationslängd
     * hur ofta blöder du
+    * Har du känt dig mer trött
+    * blödning med koagler
   * Diff vid RMB med mkt mellanblödningr
     * endometriecancer
   * utöver vaginalt UL vilken utredning
@@ -868,6 +870,8 @@ cerivicit
 ***Behandling***
 
 * Hormonspiral: denna verkar ha bäst effekt för att minska blödningarna. 
+
+
 
 #### Menorragi
 
@@ -965,7 +969,9 @@ cerivicit
   * Cervixcancer: 559
   * Vulva/vaginalcancer: 279
 
-### Cervixcancer
+### Cervix
+
+#### Cervixcancer
 
 
 
@@ -985,6 +991,14 @@ cerivicit
 
 * **Orsak till död hos endstage**: njursvikt (nefrostomi tuber minskar risken)
 * **Hydronefros**: 
+* 
+
+
+
+***EPidemiologi***
+
+* Skivepitelcancer: vanligaste orsaken, 75-85%
+* Adenocarcinom: nästvanligast
 
 
 
@@ -1045,8 +1059,10 @@ cerivicit
 
 ***Behandling***
 
-* **mikroinvasiva tumörer: dvs ej synlig PAD (stadie 1a1?)**
+* !!! **mikroinvasiva tumörer: dvs ej synlig PAD (stadie 1a1?)**
   * mindre kirurgi: konisering eller enkel hysterektomi
+  * 1A2: initialt pelvin lymfkörtelutrymning lap, sedan rekonisering
+* **1B1, mindre 2cm**: överväga trakelektomi (tumörer mindre än 2cm) (avlägsnar cervix + parametrier)
 * **Alla stadier över 1b1 = tumör större än 4 cm**
   * strålning + kemoterapi (cytostatika)
 * **synliga tumörer samt stora mikroinvasiva**
@@ -1097,37 +1113,7 @@ cerivicit
   * 3: 30%
   * 4: 10%
 
-
-
-### Cowdens syndrom
-
-***Allmänt***
-
-
-
-***Etiologi och patofysiologi***
-
-* autosomalt dominant
-* PTEN mutation
-
-
-
-***Epidemiologi***
-
-* Känneteckans av 28% livstidsrisk för EC
-* Ökad risk bröstcancer och thyroideacancer
-* incidens 1:250k
-
-
-
-***Utredning och handläggning***
-
-* diagnosen baseras på NCCN: national comprehensive network clinical criteria
-* UL och eller EB och eller hysteroskopi
-
-
-
-### Dysplasi
+#### Dysplasi
 
 
 
@@ -1166,53 +1152,70 @@ cerivicit
     * Diagnosen är allavarlig men med upptäckt tidigt förbättrar prognos oerhört. 
   * **Förslag förbättra det prediktiva värdet t** 
     * Kombinera cellprovstagning som har låg sensitivitet Med HPV-testningen som har närmare 100% sensivitet men sämre specifitet.
-* Annika 36år 
+* **Annika 36år**
   * mkt glad för 3 v sedan positivt grav test efter mångårig inferilitet. Kommer t gynmottanign eftersom hon fått resultat från screeningen att hon kommer att kallas för exra undersökning pga cellförändirngar och högrisk HPV. Vad är syftet med denna undersökning?
     * KOlposkopi
-    * lokalisera lesion + biopsera den
-    * infärgning ättiksyra, sedan tillsättning jod
-    * lesionen blir acetovit av ättiksyra  o sen pensling jod för att se vilka celler som inte tar emot jod
-    * av dessa biopserar man, då jod negativa
-    * man får en representativ biopsi
-    * kartläggning av cellförändringarna
-  * undar om förändringarna ökar missfallsrisken
+    * ?? att identifiera eventuell invasiv cancer som man måste behandla, då graviditet kan hindra eventuell nödvändig åtgärd?
+  * !! undar om förändringarna ökar missfallsrisken
     * nej, risken är inte ökad
-* Cervix är ett organ som förbinder livmoder med slida. För att cervixcancer och preinvasiva förändringar ska utvecklas krävs att kvinnan är smittad med humant papillomvirus (HPV) 
+* **Cervix är ett organ som förbinder livmoder med slida. För att cervixcancer och preinvasiva förändringar ska utvecklas krävs att kvinnan är smittad med humant papillomvirus (HPV)** 
   * Vilka typer av epitel hittar man i/på cervix.Nämn 2 st. 
   * Hur smittas man med HPV?
   * Svar: Skivepitel och cylinderepitel.
   * Skivepitel körtelepitel jani.
   * HPV smittar genom hud och slemhinnekontakt. Smittar lätt vid sexuell kontakt.
-* ASCUS och hur förklarar du detta för Linda?
+* **ASCUS och hur förklarar du detta för Linda?**
   * ASCUS innebär cellförändringar av den lägsta graden. Jag berättar för Linda utan att skapa oro och ångest att det här är de lättare cellförändringarna man kan hitta. Många gånger går dessa cellförändringar i regress utan någon behandling. ( näst lägsta är LSIL)
   * **3. Hur utreder du Linda?**svar: Kolposkopi
-* Linda Lnda undrar om hon ska behandlas. Förklara för Linda vilka typer av cellförändringar som bör behandlas:
-    * svaR: HSIL ska behandlas för alla kvinnor 25 år och uppåt. 
+* **Linda Lnda undrar om hon ska behandlas. Förklara för Linda vilka typer av cellförändringar som bör behandlas:**
+    * svaR: HSIL ska behandlas för alla kvinnor 23 år och uppåt. 
     * HSIL med CIN3 ska behandlas för alla kvinnor oavsett ålder. 
     * Alltså skulle jag förklarat för Linda att den höggradiga cellförändringen är det som ska behandlas. 
-* Vad heter behandlingen som erbjuds kvinnor i första hand om de nu behöver behandling?
+* **Vad heter behandlingen som erbjuds kvinnor i första hand om de nu behöver behandling?**
     * svar: konisering.
-* Beskriv kortfattat hur behandlingen går till?
+* **Beskriv kortfattat hur behandlingen går till?**
   * svar: Antigen lokalbedövning eller i vissa fall narkos. Genom vaginal operation så skär man bort cirka en del i livmodertappen med hjälp av en upphettad metalltråd s.k. slynga
-* Påverkar behandlingen fertilitet och barnafödande undrar Linda som har mycket frågor?
+* **Påverkar behandlingen fertilitet och barnafödande undrar Linda som har mycket frågor?**
     * Påverkar inte fertiliteten eller barnafödandet. Har dock visats att de som genomgått konisering har högre frekvens av prematur födsel.
 
 
 
 ***Etiologi och patofysiologi***
 
-* **CIN**: Cervikal intraepitelial neoplasi (CIN) (s971 blueprint)
-  * graden CIN beror på andelen epitel som visar disorganiserad tillväxt + utv
-  * CIN1: förändringar isolerade nedre tredjedelen av epitelet
-  * CIN2: lower 2/3 av epitelet påverkat. 
-  * CIN3: mer än 2/3 epitel påverkat. 
-  * Carcinoma in situ: att det är allt epitel som verkar vara påverkat ovan basalmembranet
-  * Invasiv cancer: när den har brytit sig igenom basalmembranet
+* (s 200 i gynboken)
+* **Cervixkanalens mynning, den yttre modermunnen, möts 2 vävnadstyper varandra: skivepital utanpå cervix och körtelepitel inuti kanalen.**
+  * Enradigt cylinderepitel, slemproducerande, tillhörande cervixkanalen
+  * Vaginas flerradiga skivepitel
+* **Övergången varierar, mukoskvamösa gränsen**: varierar med ålder, hormoner
+* !! **Ektopi**: om övergången den ligger en bit ut på ektocervix
+  * Hos yngre kvinnor, 60%
+  * under graviditet
+  * P-piller: hypertrofisk ektopi + ödermatös
+* **Transformationszonen** (TZ): Övergången mellan cylindriska celler och skivepitelceller
+  * ett högriskomrpde för **Metaplasier och metaplastiska förändringar**
+    * vaginas sura miljö
+    * bakterierikedom
+    * nätning
+  * verkar som att den metaplasierar (normalt sett?) till skivepitel
+  * Kan ta flera år för denna (metaplasi att ske)
+* **Reservceller under cylinderepitelet**: dessa är nog the origin för metaplasierna..
+* SKILJ PÅ METAPLASI OCH DYSPLASI: metaplasi att en vävnadstyp OMVANDLAS TILL EN ANNAN vävnadstyp. Dock detta kan leda till att man får dysplasi ochcancer. e.g. Barrets esophagus.
+* !!! **OMOGEN TZ och HPV**
+  * Omogen TZ under denna fas har vi att TZ är på ektocervix (unga kvinnor, gravida). Detta anses vara omogen TZ. 
+  * Under metaplasifasen (OMOGEN transformationszon), då cellerna i hela skiktet är odifferentierade (enradig cylindercell + reservceller)
+    * LÄTTAST för HPV att angripa
+    * HPV lämna sitt DNA i cellkärnorna
+* **Färdigutvecklat skivepitel (mogen TZ)**
+  * De omogna cellerna, de odifferentierade cellerna (basal cellerna?)
+  * belägna bottenskiktet
+  * måste finnas SPRICKOR, MIKROSKADOR i epitelet för att VIRUS ska kunna tränga sig dit. 
+* !! DÄRFÖR VIKTIGT ATT SE TRANSFORMATIOSZONEN: TZ inre begränsning mot cylinderepitelet är därför viktigt att se
+
+
+
+***Etiologi och HPV***
+
 * **Största orsaken till dysplasier**: HPV infektioner
-  * **HPV, omogna celler, i metaplastisk område**: HPV når lättast de omogna celler i det metaplastiska området
-  * **Sexuellt aktiv**: alla sexuellt aktiva kvinnor löper risk att bli smittade med onkogent HPV
-  * **HPV smittar lätt vid sexuella kontakter**
-  * **80% sexuellt aktiva kvinnor** ngn gg infek m HPV
   * **HPV kan överföras genitalt**: behövs inte genomfört samlag för att viruset ska överföras
   * **HPV16, HPV18:** infektioner med dessa är rel ovanligt
     * 70% all cervixcancer
@@ -1229,19 +1232,42 @@ cerivicit
 
 
 
-***Kliniska kännetecken***
-
-* Blödning vid samlag: dock mer sannolikt att det handlar om sjukare vävnad innan man får detta symptom?
-* Dysplasier tenderar att vara symptomfria. 
-
-
-
 ***Indelning av dysplasierna och stadieindelningarna***
 
 * Friskt epitel
 * CIN1-3
 * CIS: carcinoma in situ
 * invasiv cancer
+* **CIN**: Cervikal intraepitelial neoplasi (CIN) (s971 blueprint)
+  * graden CIN beror på andelen epitel som visar disorganiserad tillväxt + utv
+  * CIN1: förändringar isolerade nedre tredjedelen av epitelet
+  * CIN2: lower 2/3 av epitelet påverkat. 
+  * CIN3: mer än 2/3 epitel påverkat. 
+  * Carcinoma in situ: att det är allt epitel som verkar vara påverkat ovan basalmembranet
+  * Invasiv cancer: när den har brytit sig igenom basalmembranet
+
+
+
+!! ***Nya indelningen dysplasier och stadieindelningar***
+
+* s201 (gynboken)
+* **Skivepitel**
+  * **indelas Preinvasivt och invasivt**
+  * **LSIL**: motsvarande CIN1?
+  * **ASCUS**: atypiska skivepitelceller av OKLAR signifikans
+  * **HSIL**: höggradig intraepitelial SKIVEPITELS lesion / förändringar. Motsvarande CIN2 och CIN3, enl tidigare definition
+  * **ASC-h**: atypiska skivepitelceller, där man inte kan utesluta höggradig lesion (ascus är att man har undetermined significance)
+* **Körtelceller, cylindriskt enradigt epitel**
+  * **körtcellsatypierna indelas i**:
+  * !! **AGC**: atypiska glandulära celler (körtelcellsatypi?)
+  * **AIS**: adenocarcinoma in situ
+* **Cervikal intraepitalial neoplasi, CIN**
+  * **CIN1**: mild låggradig dysplasi, skivepitellceller uppvisar lindrig atypi i kärna, lätt störd skiktning. speciell typ dysplastiska skivepitelceller i.e. koilocyter förekommer
+  * **CIN2**: måttlig, medelsvår dysplasi. skivepitelceller måttligt atypiska, förstorade kärnor i 2/3 epitel, måttligt störd skiktning
+  * **CIN3 (verkar likställas CIS, s204)**: stark höggradig dysplasi, CANCER IN SITU (enl boken). starkt atypiska celler i hela epitelskiktet, utplånad skiktning. basalmembran intakt, vilket skiljer förändringen fr invasiv cancer
+* 
+
+
 
 
 
@@ -1263,6 +1289,14 @@ cerivicit
 
 
 
+***Kliniska kännetecken***
+
+* Blödning vid samlag: dock mer sannolikt att det handlar om sjukare vävnad innan man får detta symptom?
+* Dysplasier tenderar att vara symptomfria. 
+* !!! "förstadier cervixcancer är i allra flesta fall symptomlösa"
+
+
+
 ***Epidemiologi***
 
 * Sedan slutet av 60-talet finns screening program i alla Sveriges landsting
@@ -1274,79 +1308,149 @@ cerivicit
 * **Regelbundna**: kontroller behövs för bra screening prestanda
 * **Som avvikelser**: 8% av cellprov visar en avvikelse 2012 (54k prover); baserat på data fr NKCx årsrapport 2013
 * **Cellförändringar**
-  * LSIL 40%: low grade squamous intraepithelial lesion
-  * ASCUS 40%: atypical squamous cells.
-  * !!! **HSIL 16%**: High grade squamous intraepithelial lesion:
-  * Körtelatypi 4%
+  * Skivepitel:
+    * **ASCUS 40%**: atypical squamous cells.
+    * **LSIL 40%**: low grade squamous intraepithelial lesion
+    * !!! **HSIL 16%**: High grade squamous intraepithelial lesion:
+  * Körtel
+    * **Körtelatypi 4%**: 
+    * **AIS**: 
 * **Cervixcancer drabbas idag**
   * **HPV infekterade**
   * **aldrig screenade**: 2:3 fall upptäcks varje år har aldrig varit på cellprovtagning
   * **tidigare konsierade**: trots att radikalt exiderat cellförändringen; recidiv drabbar 10-15%
   * **äldre kvinnor**
 * **Primär screening med HPV o vaccinatioer**: både tjejer o pojkar kommer ge nya möjligheter förebygga cervixcancer
+* **Sexuellt aktiv**: alla sexuellt aktiva kvinnor löper risk att bli smittade med onkogent HPV
+* **HPV smittar lätt vid sexuella kontakter**
+* **80% sexuellt aktiva kvinnor** ngn gg infek m HPV
 
 
 
-***Utredning och handläggning***
+##### Utredning och handläggning
 
-* **Screening program...**
-  * **Cytologiscreeningen**
-    * 23-29åå, vart 3e år cytologi bara (ingen HPV);  mödravården för cellprovtagnign + analys för  (cytologi) (pap smear)
-    * !!! 41åå: ***kompletterande analys*** för cytologi: HPV-test + cytologi
-      * pos HPV + normal cutologi: åter t screeningprogram, nytt prov efter 3 år. 
-      * Pos test remitteras för utredning
-    * Notera att man efter år 30 inte gör ngn cytologi förutom vid år 41, då det är cytologi + HPV
-    * **Motiveringen för detta**: 
-      * Avgörande för rekommendationen är att det inte finns något vetenskapligt stöd för att cellprov för HPV är en mer effektiv testmetod än cellprov för cytologi i denna åldersgrupp. Dessutom är andelen kvinnor i åldern 23–29 år som bär på HPV mycket hög.
-      * Risk överdiagnostik om man testar HPV för 23-29, vilket ger onödig mkt vård. 
-      * HPV under 30år är oftsat **självläkande**, behöver inte negativ konekvens. 
-  * **HPV-screeningen**: Går ut på att man tar cellprov för HPV analys. Visar analysen HPV högrisk el liknande gör man ett ***REFLEXTEST***, alltså att labbet direkt automatiskt testar om proverna för cytologi för att se om det är cellförändringar. Detta behöver alltså patienten söka igen för. 
-    * 32år-64år
-    * 32år-50år: var tredje år
-    * 50-64år: var sjunde år
-    * 41åå: cytologi + HPV (ett extra test specifikt)
-    * **Motiveringen**: 
-      * Avgörande för rekommendationen är att HPV-test har en ökad cancerförebyggande effekt (jämfört med primär cytologisk analys), 
-      * Enligt Socialstyrelsens rekommendation bör även de kvinnor som kallas vid cirka 41 år primärt analyseras för både HPV och cytologi. Detta för att säkerställa att samtliga cellförändringar upptäcks, även i de få fall som kan uppstå utan en aktiv HPV-infektion
-  * Syfte cellprovtagning: upptäcka tidg förändringar för att kunna behandla de i tid innan evt cancer 
-* **Utredning på mottagning**
-  * **Kolposkopi + riktade biopsier**: 
-    * Indikerat om screeningen (aka GSK) identifierat cellförändringar etc. 
-    * är visuell inspektion cervix med special low-magnification microscope, 20cm avstånd, när man ahr vidgat med plastspekulum 
-    * Acetoacetat (ättiksyra) + jod: jodnegativa områden tyder på cellförändringar. 
-    * in search for abnormaliteter aiming to identify och ta sample fr atypiska site for biopsi
-  * **Bedömning**: vad som orsakar cellatypin; hur evt behandling ska ske; ger allmänt lugnande info
+**Screening program...**, enl GCK
+
+* **Cytologiscreeningen**
+  * **23-29åå, vart 3e år cytologi bara (ingen HPV)**;  mödravården för cellprovtagnign + analys för  (cytologi) (pap smear)
+  * !!! 41åå: ***kompletterande analys*** för cytologi: HPV-test + cytologi
+    * pos HPV + normal cutologi: åter t screeningprogram, nytt prov efter 3 år. 
+    * Pos test remitteras för utredning
+  * Notera att man efter år 30 inte gör ngn cytologi förutom vid år 41, då det är cytologi + HPV
+  * **Motiveringen för detta**: 
+    * Avgörande för rekommendationen är att det inte finns något vetenskapligt stöd för att cellprov för HPV är en mer effektiv testmetod än cellprov för cytologi i denna åldersgrupp. Dessutom är andelen kvinnor i åldern 23–29 år som bär på HPV mycket hög.
+    * Risk överdiagnostik om man testar HPV för 23-29, vilket ger onödig mkt vård. 
+    * HPV under 30år är oftsat **självläkande**, behöver inte negativ konekvens. 
+* **HPV-screeningen**: Går ut på att man tar cellprov för HPV analys. Visar analysen HPV högrisk el liknande gör man ett ***REFLEXTEST***, alltså att labbet direkt automatiskt testar om proverna för cytologi för att se om det är cellförändringar. Detta behöver alltså patienten söka igen för. 
+  * 32år-64år
+  * 32år-50år: var tredje år
+  * 50-64år: var sjunde år
+  * 41åå: cytologi + HPV (ett extra test specifikt)
+  * **Motiveringen**: 
+    * Avgörande för rekommendationen är att HPV-test har en ökad cancerförebyggande effekt (jämfört med primär cytologisk analys), 
+    * Enligt Socialstyrelsens rekommendation bör även de kvinnor som kallas vid cirka 41 år primärt analyseras för både HPV och cytologi. Detta för att säkerställa att samtliga cellförändringar upptäcks, även i de få fall som kan uppstå utan en aktiv HPV-infektion
+* Syfte cellprovtagning: upptäcka tidg förändringar för att kunna behandla de i tid innan evt cancer 
 
 
 
-<img src="./imgs/gyn_sam_050421_jSeYtZG8Uk.png" alt="jSeYtZG8Uk" style="zoom:50%;" />
+**Utredning på mottagning**
+
+* **Kolposkopi + riktade biopsier**: kolposkopi med px kan identifiera invasiva cancrar etc för att man får en nhetlig histologisk bild. 
+  * Indikerat om screeningen (aka GSK) identifierat cellförändringar etc. 
+  * är visuell inspektion cervix med special low-magnification microscope, 20cm avstånd, när man ahr vidgat med plastspekulum 
+  * Acetoacetat (ättiksyra) + jod: jodnegativa områden tyder på cellförändringar. 
+  * in search for abnormaliteter aiming to identify och ta sample fr atypiska site for biopsi
+* **Bedömning**: vad som orsakar cellatypin; hur evt behandling ska ske; ger allmänt lugnande info
 
 
 
+***Gravid och cellförändringar***
+
+* Man vill utesluta INVASIV CANCER
+* Detta är varför man vill göra en kolposkopi akut hos dessa, för att identifiera invasiv cancer, då det under en graviditet inte kommer att bli möjligt att behandla eventuella svåra förändringar
+* man kan eventuellt rekommendera dessa patienter att abryta respektive graviditet om det visar sig vara invasiv cancer, för att istället behandla. 
+* Skivepitel: Ser man LSIL eller HSIL kan man vänta till efter graviditetn
+* Körtelepitel: ser man körtelepitel verkar man vara mer akut..?
 
 
-***Behandling***
 
-* **Vid CIN**
-* **Destruktion**
+!!! ***23-29åå, Handläggning beroende på resultat av screening***
+
+* Kommer att gå igenom hur man handlägger de olika förändringarna man noterar pp proverna
+* **ASCUS / LSIL vid cytologi**: !! reflextestar direkt för HPV
+  * 23-27åå: notera 27åå inte 29
+    * HPVneg: GCK, åter om 3år
+    * HPVpos, gravid: DIREKT KOLPOSKOPI, inget nytt cytprov
+    * HPVpos: nytt cytprov (cyt2) inom 4månader fr första prov
+    * om cyt2 abnormal: kolposkopi 6mån fr indexprov (alltså cyt1)
+    * om cyt2 normal: GCK igen
+  * 28-29åå
+    * HPVneg: GCK
+    * HPVpos: kolposkopi direkt, inget cyt2
+* **HSIL, ASC-H i cytologi**
+  * 23-29åå: alla ska direkt kolposkoperas inom 3månader
+  * !! INGET REFLEXTEST
+* ***KÖRTEL*****CELLS förändringar**, atypi, oklar celltyp (körtelcellstypi ospec?)
+  * kolposkopi inom 3 månader
+  * reflextestas för HPV, men oavsett resultat skickas alla på kolposkopin,
+
+
+
+***30-70åå, Handläggning, triage***
+
+* Se flödesschemat nedan
+* summary: 
+  * HPVpos + reflex cyt atypisk (oavsett atypi) -> kolposkopi
+  * HPVpos + reflex cyt normal -> 
+    * hrHPV nytt HPV om 18 mån (1.5år) (HrHPV är högrisk HPV, yani 16-18)
+    * nonhrHPV, nytt HPV om 3år (ist för 18mpn)
+
+
+
+***Handläggning avvikelser***
+
+* Cyt obedömbart 1a ggen: nytt GCK-prov (alltså detta verkar gälla för alla cyt prover även om det är en cyt2 efter cyt1 på 23-27åå)
+* Cyt obedömbart 2a ggen i rad: kolposkopi
+* HPV obedömbart: nytt GCK
+* Endocervikala celler saknas, 1agg: nytt GCK-prov
+* endocervikala celler saknas, 2gg: kolposkopi inom 3månader
+
+
+
+| <img src="./imgs/200421_sam_W4I0XsT8I4.png" alt="W4I0XsT8I4" style="zoom:50%;" /> | <img src="./imgs/200421_sam_RuVBnlnpmv.png" alt="RuVBnlnpmv" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_050421_jSeYtZG8Uk.png" alt="jSeYtZG8Uk" style="zoom: 25%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/200421_sam_HAKR93eRxf.png" alt="HAKR93eRxf" style="zoom:50%;" /> | <img src="./imgs/200421_sam_TqmsLGFhQz.png" alt="TqmsLGFhQz" style="zoom:50%;" /> |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
+
+
+
+##### Behandling
+
+* **TA BORT TZ är målet**: målet med behandlingen är att eliminera TZ med dess atypiska celler
+  * TZ är ett riskområde
+  * Behandlingsdjup: 2-25mm
+  * beroende på förändringens läge på ektocervix och eller inåt kanalen
+* **Avlägsnandet TZ**
+  * destruktion, eller
+  * excision (konisering)
+* **Destruktion**: enklare, skonsammare. endast låggadiga atypier.
+  * har töd av de biopsier som erhölls i samband utredningen. TIll skillnad fr konisering när man kan histopatologiskt bedöma exciderad vävnad för att fastställa detta. 
   * **Diatermi**: koagulering
   * **Kryo**
   * **Laser**: förångning
 * **Excision**
-  * **Diatermislynga / kniv**
+  * !! **Diatermislynga / kniv**: notera slunga
   * **Laser**
   * **LEEP**: Loop Elektrosurgical Excision
   * **LLETZ**: Large loop excision of the transformation zone (i Storbritannien)
 
 
 
+***Komplikationer***
 
-
-<img src="./imgs/gyn_sam_160321_IgFWcjWDZq.png" alt="IgFWcjWDZq" style="zoom:50%;" />
-
-
-
-
+* Konisering
+  * cervixstenos: vanligare postmenopausala kvinnor, vs premenopaus
 
 
 
@@ -1354,15 +1458,13 @@ cerivicit
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="./imgs/gyn_sam_160321_V4RZt4FVDD.png" alt="V4RZt4FVDD" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_VBhQ4WYPFq.png" alt="VBhQ4WYPFq" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_3ZxhGEm9WV.png" alt="3ZxhGEm9WV" style="zoom:50%;" /> |
 | <img src="./imgs/gyn_sam_160321_ilINTKFO3h.png" alt="ilINTKFO3h" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_kFKFkDo9ne.png" alt="kFKFkDo9ne" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_zEvXMi7yrU.png" alt="zEvXMi7yrU" style="zoom:50%;" /> |
-| <img src="./imgs/gyn_sam_160321_Wpm0QjuHdH.png" alt="Wpm0QjuHdH" style="zoom:50%;" /> |                                                              |                                                              |
+| <img src="./imgs/gyn_sam_160321_Wpm0QjuHdH.png" alt="Wpm0QjuHdH" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_IgFWcjWDZq.png" alt="IgFWcjWDZq" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_DscfnZFfC5.png" alt="DscfnZFfC5" style="zoom:50%;" /> |
 
 
 
-<img src="./imgs/gyn_sam_160321_DscfnZFfC5.png" alt="DscfnZFfC5" style="zoom:50%;" />
 
 
-
-### Dysplasi, HPV
+#### Dysplasi, HPV
 
 ***Etiologi och patofysioogi***
 
@@ -1413,6 +1515,36 @@ cerivicit
   * Jan 2015-2
 * **Framtid**: 9-valent HPV vaccin: 9 HPV typer, GK FDA 2014, 90% skydd cervixcancer
   * infört Sverige 2017
+
+
+
+
+
+### Cowdens syndrom
+
+***Allmänt***
+
+
+
+***Etiologi och patofysiologi***
+
+* autosomalt dominant
+* PTEN mutation
+
+
+
+***Epidemiologi***
+
+* Känneteckans av 28% livstidsrisk för EC
+* Ökad risk bröstcancer och thyroideacancer
+* incidens 1:250k
+
+
+
+***Utredning och handläggning***
+
+* diagnosen baseras på NCCN: national comprehensive network clinical criteria
+* UL och eller EB och eller hysteroskopi
 
 
 
@@ -2995,6 +3127,14 @@ cerivicit
 
 
 
+***Olika organiska effekter***
+
+* Cervix under menstruationscykeln
+  * During each menstrual cycle, how- ever, the cervical glands undergo important functional changes that are related to the transport of spermatozoa within the cervical canal. Th e amount and properties of the mucus secreted by the gland cells vary during the menstrual cycle under the infl uence of the ovarian hormones. At mid- cycle, the amount of mucus produced increases 10-fold. Th is mucus is less viscous and appears to provide a more favor- able environment for sperm migration. Th e cervical mucus at other times in the cycle restricts the passage of sperm into the uterus. Th us, hormonal mechanisms ensure that ovulation and changes in the cervical mucus are coordinated, thereby increasing the possibility that fertilization will occur if freshly ejaculated spermatozoa and the ovum arrive simultaneously at the site of fertilization in the uterine tube.
+  * **Ovula Nabothis, Nabothis cystor**: Blockage of the openings of the mucosal glands results in the retention of their secretions, leading to formation of dilated cysts within the cervix called Nabothian cysts . Nabothian cysts develop frequently but are clinically impor- tant only if numerous cysts produce marked enlargement of the cervix.
+
+
+
 
 
 <img src="./imgs/gyn_sam_150321_vx5W65MOsQ.png" alt="vx5W65MOsQ" style="zoom: 80%;" />
@@ -4505,19 +4645,23 @@ En del av källorna är fr Bernebrandt
   * rätt (abe=): Leder trots god glukoskontroll till ökad risk för intrauterin fosterdöd
   * Måste alltid behandlas med insulin för att undvika komplikationer
   * Är vanligast hos överviktiga kvinnor
-
 * **Nadia är gravid med sitt första barn. Vid inskrivningen på MVC var hon 162cmlång och vägde 82 kilo.H on e frisk. Under grav. Utvecklat GDM och ultraljud för fostertillväxt har visat 30%+.** 
   * **Beskriv behandlingstrappan vid gestationsdiabetes och förklara för Nadia hur var och en av dessa åtgärder fungerar för att stabilisera hennes blodsocker.**
     * Kost livsstilsråd: fysisk aktivitet minskar insulinrsesistens. kostråd gör att man håller blodsocker på en bättre nivå istället för toppar och dalar
     * metformin: reduktion elverns produktion glukos, hämma glukoneogenesen och glykogenlosen. gm öka insulinkänslighet, förbättra perifert glukosupptag, glukosuttyttjande i muskulaturen
     * metformin + insulin vb
     * insulin: stabiliserar gm att man exemplivs har ett långverkande insulin snabbt ett snabbverkande insulin för måltider. Är till för att exogent manipulera insulinnivåerna för att passa patientens inkapabiltiet att producera tillräckliga nivåer, mtp ökade insulinbehovet och insulinresistensen etc. 
+* **Serena**
+  * förstföderska som är 150cm lång och väger 87kg. Serena har en graviditetesdiabetes och står på metformin. Tillväxtultraljud i förrgår visade en skattad fostervikt på +31%. Hon är nu i vecka 39+5,
+  * hon fick en LGA barn
+  * Råd efter förlossning inför nästa graviditete för att minska risker
+    * kostråd, livsstilsråd, viktnedgång,..
 
 
 
 ***Etiologi och patofysiologi***
 
-* Ökad insulinresistens, främst andra trimester och framåt: detta sker **fysiologiskt** under en graviditet
+* **Ökad insulinresistens, främst andra trimester och framåt**: detta sker **fysiologiskt** under en graviditet
 * **Bidragande faktorer, driver insulinresistens**: main drivers for this insulin resistance (doi: [10.4239/wjd.v10.i6.333](https://dx.doi.org/10.4239%2Fwjd.v10.i6.333))
   * Maternella, placentala hormon
   * progesterone, 
@@ -4543,8 +4687,8 @@ En del av källorna är fr Bernebrandt
 
 ***Kliniska kännetecken***
 
-* SF-mått: accelererar i växt
-* Viktskattning: noterar att fostret blir progressivt större, hamnar i överkant
+* **SF-mått**: accelererar i växt
+* **Viktskattning**: noterar att fostret blir progressivt större, hamnar i överkant
 
 
 
@@ -7732,9 +7876,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * !! Alice 48år
   *  opererades med en vaginal hysterektomi pga myom för 10 dagar sedan. Hon har inte mått helt bra efter operationen. Hon söker nu akut p.g.a tilltagande smärta i nedre delen av buken, feber. 38,3 grader och illamående. 
   * Vilken diagnos misstänker du i första hand?
-      * Abscess i lilla bäckenet
+      * !!! rätt: Abscess i lilla bäckenet (enl kursen)
       * Ruptur av postoperativt område
-      * rätt: Uretärskada (enl abe)
+      * Uretärskada (enl abe)
       * Hematom
       * Ileus 
 * Maud är 34år 
@@ -7913,6 +8057,26 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Behandling***
 
 - Kolporafi: vaginal wall repair, intended för cystocele och rektocele
+
+
+
+### Trakelektomi
+
+***Metod***
+
+* Ta bort
+  * cervix
+  * parametrier
+
+
+
+***Indikationer***
+
+* Cervixcancer stadie 1B1, tumör mindre än 2cm
+
+
+
+// notera att alla cervixcancer med lymfkörtelspridnng, rekommenderar man radikal hysterektomi el radio-kemoterapi, kvinnans fertilitetsönskemål åsidosätts. 
 
 
 
@@ -8631,6 +8795,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Missfall
 
+#### Allmänt
+
 ***Presentation***
 
 * **Lotta 27 år **
@@ -8788,71 +8954,79 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
   
 
-***Behandling***
+#### Behandling
 
 * **Komplett abort**: exspektans 1-2v
-* **Missfall <v12**: symptom styr beh ej UL. bokning abort mottagning för beh alternativ + second opinion UL. LKM admin ssk el BM.
-  * **Exspektans 2-3v**
-    * **inkomplett missfall**: >80% kompletta av sig sj inom 2v. Då (inom 2v) kan pat boka tid ÖPV gyn för kontroll, om önskar
-    * **Uteblivet missfall**: då sluten cervix + ringa blödning, svårare lösa sig sj; tid ombesörjas ÖPB gyn el ST mottagning om ca 14d. Om oförändrat status efter exspektans genomförs medicinsk eller kirurgisk behandling
-  * **Medicinsk behandling**
-    * **Allmänt**
-      * Påskyndar förlopp
-      * rekas 1a hand uteblivet missfall
-      * om hemma el avdelning: blödningen + förväntad blödning + evt sjd hos pat
-      * uteblivet missfall v10+1-v11+6: behandling på dagvården
-    * **Inkomplett missfall**: misoprostol engångsdos 3x0.6mg po eller 2x0.4 siblingualt
-    * **Uteblivet missfall**: som vid inducerad abort
-      * **dag1**: mifepriston 200mg po
-      * **dag2/3**: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
-        * om ej börjat blöda inom 3h: upprepad misoprostol 2x0.4mg vaginalt, subling, el peroralt
-    * **analgetika + antiemetika**: paracetamol; ibuprofen; oxynorm; metoklopramid
-  * **Kirurgisk behandling**
-    * 1a val vid misslyckad medicinsk beh / cirk påverkad pat / ymnig blödning
-    * **infektion, ab**: helst minst 1d innan op: minska risk perforation; iv ab om inläggning
-    * **förbehandling 1h innann op**: misoprostol 2x0.4mg subling
-    * **!! Rh-profylax**: till Rh-neg vid alla kirurgiska interventioner
-* **Missfall > 12+0v**
-  * **kurator (+psykologisk) kontakt.**
-  * **Pågående missfall**
-    * **!!! inlägging avdelning**: TODO
-    * kraftig blödning: direkt misoprostol 3x0.6mg po el 2x0.4mg subling. behandling kan upprepas
-    * infektionstecken (feber, ökad infek prover): iv ab behandling
-    * **endast ringa blöd el vattenavgg:** förlopp exspekteras. 
-      * **beh som uteblivet missfall**: foster inte längre viabelt. 
-  * **Uteblivet missfall**
-    * flesta fall ej behöva beh samma dag, utan BM el ssk kan obesörja tid för beh på avdelning
-    * **d1**: mifepriston 200mg po på abortmottgning
-    * **d3** (36-48h senare): 
-      * **misoprostol 4x0.68mg vaginalt på avd**
-      * **om pat inte aborter (i.e. ingen blödning)**: misoprostol 2x0.4mg sibling vag el po
-        * dosen upprepas HÖGST var 3e timme 4ggr (tot 8 tabletter)
-      * **om fortf ingen abort**: mifegyen 200mg po kl 20
-    * **d4**: 
-      * upprepa förfarandet för d3. amniotomera om möjligt. 
-      * överväg ab om vattevavgg över 18h
-    * **d5**: upprepa förfarande d3. överväg nedan
-      * amniotomi om möjligt
-      * **mekanisk dilat**: dilaplan / laminaia el ballongkateter
-      * **byte minprostin 2mg vag**: kan upprepas efter 6h
-      * **dilat + evak åp op**: oftast behövs inte ytterligare dilat; försikti med hänsyn perforationsrisk; evak helst digitalt (med fingrar?); om inte kan största abort-tång användas erfaren gynekolog
-    * **efter fostrets framfödande:** 
-      * 1ml syntocinon 5E iv (oxytocin?)
-      * Rh-prof till Rh-neg
-    * **smärtlindr**: ibuprofen + paracetamol; paracervikalblockad avl äk el special BM med 10mL marcain. upprepas efter 1h; TENS; oxynrom; morfin inj; ketogan;
-    * **illamende**: metoklopramid alt primperan
-    * **laktation v15**: 
-      * att patienten lakterar, som pat potentiellt vill behandla bort
-      * undvik helst medicinsk beh pga biverkningar. om pat ändå vill ha beh = dostinex 2x0.5mg ()
-  * **Placenta**
-    * om ej avg spontant: avvakta 1h om pat ej blöder
-    * kontakta läk vid blöd >500mL
-    * **bör undersök på gynstol**: om placenta ses -> credes handgrepp alt ögletång ta bort den
-    * om misslyckas o pat inte blöder: misoprostol 2x0.4mg. undersök igen 2h senare. 
-      * om fortf ej avlossat: lossa på operation
-    * **exeres endast vb**: e.g. blödning / placenta inte avgår trots åtgärder / stor placentarest i uterus. 
-      * ökad risk perforation
-      * överväg UL-ledd exeres
+
+
+
+**Missfall <v12**: symptom styr beh ej UL. bokning abort mottagning för beh alternativ + second opinion UL. LKM admin ssk el BM.
+
+* **Exspektans 2-3v**
+  * **inkomplett missfall**: >80% kompletta av sig sj inom 2v. Då (inom 2v) kan pat boka tid ÖPV gyn för kontroll, om önskar
+  * **Uteblivet missfall**: då sluten cervix + ringa blödning, svårare lösa sig sj; tid ombesörjas ÖPB gyn el ST mottagning om ca 14d. Om oförändrat status efter exspektans genomförs medicinsk eller kirurgisk behandling
+* **Medicinsk behandling**
+  * **Allmänt**
+    * Påskyndar förlopp
+    * rekas 1a hand uteblivet missfall
+    * **om hemma el avdelning**: blödningen + förväntad blödning + evt sjd hos pat
+    * uteblivet missfall v10+1-v11+6: behandling på dagvården
+  * **Inkomplett missfall**: misoprostol engångsdos 3x0.6mg po eller 2x0.4 siblingualt
+  * **Uteblivet missfall**: som vid inducerad abort
+    * **dag1**: mifepriston 200mg po
+    * **dag2/3**: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
+      * om ej börjat blöda inom 3h: upprepad misoprostol 2x0.4mg vaginalt, subling, el peroralt
+  * **analgetika + antiemetika**: paracetamol; ibuprofen; oxynorm; metoklopramid
+* **Kirurgisk behandling**
+  * 1a val vid misslyckad medicinsk beh / cirk påverkad pat / ymnig blödning
+  * **infektion, ab**: helst minst 1d innan op: minska risk perforation; iv ab om inläggning
+  * **förbehandling 1h innann op**: misoprostol 2x0.4mg subling
+  * **!! Rh-profylax**: till Rh-neg vid alla kirurgiska interventioner
+
+
+
+**Missfall > 12+0v**
+
+* **kurator (+psykologisk) kontakt.**
+* **Pågående missfall**
+  * **!!! inlägging avdelning**: TODO
+  * kraftig blödning: direkt misoprostol 3x0.6mg po el 2x0.4mg subling. behandling kan upprepas
+  * infektionstecken (feber, ökad infek prover): iv ab behandling
+  * **endast ringa blöd el vattenavgg:** förlopp exspekteras. 
+    * **beh som uteblivet missfall**: foster inte längre viabelt. 
+* **Uteblivet missfall**
+  * flesta fall ej behöva beh samma dag, utan BM el ssk kan obesörja tid för beh på avdelning
+  * **d1**: mifepriston 200mg po på abortmottgning
+  * **d3** (36-48h senare): 
+    * **misoprostol 4x0.68mg vaginalt på avd**
+    * **om pat inte aborter (i.e. ingen blödning)**: misoprostol 2x0.4mg sibling vag el po
+      * dosen upprepas HÖGST var 3e timme 4ggr (tot 8 tabletter)
+    * **om fortf ingen abort**: mifegyen 200mg po kl 20
+  * **d4**: 
+    * upprepa förfarandet för d3. amniotomera om möjligt. 
+    * överväg ab om vattevavgg över 18h
+  * **d5**: upprepa förfarande d3. överväg nedan
+    * amniotomi om möjligt
+    * **mekanisk dilat**: dilaplan / laminaia el ballongkateter
+    * **byte minprostin 2mg vag**: kan upprepas efter 6h
+    * **dilat + evak åp op**: oftast behövs inte ytterligare dilat; försikti med hänsyn perforationsrisk; evak helst digitalt (med fingrar?); om inte kan största abort-tång användas erfaren gynekolog
+  * **efter fostrets framfödande:** 
+    * 1ml syntocinon 5E iv (oxytocin?)
+    * Rh-prof till Rh-neg
+  * **smärtlindr**: ibuprofen + paracetamol; paracervikalblockad avl äk el special BM med 10mL marcain. upprepas efter 1h; TENS; oxynrom; morfin inj; ketogan;
+  * **illamende**: metoklopramid alt primperan
+  * **laktation v15**: 
+    * att patienten lakterar, som pat potentiellt vill behandla bort
+    * undvik helst medicinsk beh pga biverkningar. om pat ändå vill ha beh = dostinex 2x0.5mg ()
+* **Placenta**
+  * om ej avg spontant: avvakta 1h om pat ej blöder
+  * kontakta läk vid blöd >500mL
+  * **bör undersök på gynstol**: om placenta ses -> credes handgrepp alt ögletång ta bort den
+  * om misslyckas o pat inte blöder: misoprostol 2x0.4mg. undersök igen 2h senare. 
+    * om fortf ej avlossat: lossa på operation
+  * **exeres endast vb**: e.g. blödning / placenta inte avgår trots åtgärder / stor placentarest i uterus. 
+    * ökad risk perforation
+    * överväg UL-ledd exeres
 
  
 
@@ -9424,8 +9598,72 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * Infektion, uppåtstigande?: här 
 
 
+### Förlossning
 
-### Förlossning: normal
+
+
+#### Bjudningar
+
+
+
+***Presentation***
+
+* <img src="./imgs/gyn_sam_050421_vTyVO1xFIp.png" alt="vTyVO1xFIp" style="zoom: 25%;" />
+  * A: Framstupa kronbjudning
+  * B: Framstupa hjässbjudning
+  * C: Vidöppen pannbjudning
+  * D: Vidöppen ansiktsbjudning
+* VIlken bjudning är vanlgiast och har minst risk för komplikationer och varför: 
+  * framstupa kronbjudning
+  * minst huvudomfång
+  * därför enklare passage gm förlossningskanalen
+* !!! Svea 3 grav 2 para kommer förlossningen grav vecak 37 för planering av sätesändläge. Tidigare 2 pN.
+  *  !! Vad erbjuer man i första hand? svar: Yttre vändning
+  *  Vad finns det för andra alternativ? kejsarsnitt, förlossning i sätesbjudning 
+  *  kan vara så att iom tidigare förlöst så kan man tänka sig förlösa i sätesbjudning annars hade nog alternativet varit kejsarsnitt.
+* Bjudningar
+  * Vilken bjudning är vanligast och motivera varför denna bjudning är mest fördelaktig: framstupa kronbjudning, minst huvudomgång lättare igm kanalen
+  * vilken bjudning kontraindicerat avsluta förlossning instrumentellt: vidöppen ansiktsbjudning
+* Namnge de olika bjudningarna
+  * Framstupa kronbjudning: 9.5cm, ej förlossningshinder, mest gynnsam
+  * vidöppen hjässbjudning: 11.5cm, ej förlossningshinder
+  * vidöppen pannbjudning: 13.5cm, förlossnignshinder
+    * men är oftast en övergångsform
+    * flektera eller "deflektera"
+    * slutresultat en hjässbjudning eller en ansiktsbjudning
+    * MEN om mer smärtor MELLAN värkar och inte sker ngn ändring, finns risk uterusruptru o indikation för setio.
+  * vidöppen ansiktsbjudning: gynnsam enl abe
+  * framstupa ansiktsbjudning: ABSOLUT förlossningshinder. magen mot sarum, o ansikte pekar ner ut fr vagina
+  * snedläge: ej förlossningshinder
+  * huvudbjudning: normal
+  * Sätersbjudning: kejsarsnitt förstföderska där omvänding inte  gick; omföderska kan man testa vaginal
+  * tvärläge: förlossningshinder om inte kan vända
+* Namnge nedanstående bjudningar, ange om förlossningshinder eller ej
+  * <img src="./imgs/200421_sam_Bzne6oKKfr.png" alt="Bzne6oKKfr" style="zoom: 25%;" />
+  * Bild A: vidöppen hjässbjudning, nej förlossningshinder
+  * Bild B: tvärläge, ja
+  * !!! Bild C: framstupa kronbjudning, nej
+
+
+
+***Terminologi***
+
+* Vidöppen: ryggen mot mammas sakrum
+* Framstupa: magen mot mammas sakrum
+
+
+
+***De olika bjudningarna***
+
+* Vidöppen
+  * hjässbjudning
+  * pannb
+
+
+
+
+
+#### Normal
 
 
 
@@ -9655,7 +9893,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Förlossning: onormal
+#### Onormal
 
 
 
@@ -9841,7 +10079,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Förlossning instrumentell
+#### Instrumentell
 
 ***Presentation***
 
@@ -9849,7 +10087,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   - 3 para 2 förlossningar
   - v41+0
   - latensfas började samma dag, inkommer med värkar, amniotomeras
-  - foster ger öppen hjässbjudning, näsa kl11 om man klockur fr läk persp
+  - foster ger vidöppen hjässbjudning, näsa kl11 om man klockur fr läk persp
   - pat inducerad med oxytocin, ökar infusionshastighet fr 20->140, ti
   - blir cervix eliminerad öppen 10cm, varpå pat vill krysta
   - håller på i 2-3 timmar med krystning. olika positioner prövades utan resultat
@@ -9895,8 +10133,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 **Kontraindikationer för VE**
 
 - **Absolut kontraindikation**
-  - ansiktsbjudning
-  - sätesbjudning
+  - **ansiktsbjudning**: VE är vakuumextraktion, notera att man kan förlösa med tång om det är en vidöppen ansiktsbjudning
+  - **sätesbjudning**
   - **!!! fosterhuvud ovan spinae; vertex ovan spinae: gäller inte för tvilling II** [tenta]
   - klinisk misstanke om disproportion: tex kraftig nivåskillnad mellan skallbenen
 - **Relativ kontraindikation**
@@ -9945,7 +10183,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   - syra-basstatus i navelsträng, fr artär som ven
   - om man behöver ta barn t barnbord direkt ska man klampa med 3 peanger, så att prov kan tas senare
 
-### Förlossningskanal
+
+
+
+
+#### Förlossningskanal
 
 ***Utredning och handläggning***
 
@@ -9963,7 +10205,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Förlossningspos
+#### Förlossningspos
 
 | <img src="./imgs/gyn_sam_230321_94RFcB5dUq.png" alt="94RFcB5dUq" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_KdY8JlGnfH.png" alt="KdY8JlGnfH" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -9972,13 +10214,13 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Förlossning: åtgärder
+#### Förlossning: åtgärder
 
 * Hinnsvepning: att man med fingrarna sveper runt öppning, och hinnan, expanderar och irriterar hinnan för att inducera värkar o initiering förlossning. 
 
 
 
-### Förlossning: konvertering
+#### konvertering
 
 ***Presentation***
 
@@ -10130,6 +10372,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * uterusruptur ökad risk vid vaginal förlossning: efter 2 kejsarsnitt.
   * **risker**: infektion, postpartumblödningar, ärr, kroniska smärtor, trombosrisk, hem långsammare jfr vaginal, andningssvårigheter högre risk, långsammare med amning, urinblåsa kan skadas
   * **benefits vaginal**: mår bättre av vaginal flora, mer stresshormon så bättre stresspåslag och övergång av fostercirkulation.
+
+
+
+
+
+
+
+***Metod och snitt***
+
+* Pfennenstiel
+  * Ett ca 15cm lätt bågformat snitt 4-5cm ovan symfysen, likt det vid sectio..
+
+
 
 ### Partogram
 
@@ -10531,47 +10786,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Presentationer
-
-***Presentation***
-
-* <img src="./imgs/gyn_sam_050421_vTyVO1xFIp.png" alt="vTyVO1xFIp" style="zoom:50%;" />
-  * A: Framstupa kronbjudning
-  * B: Framstupa hjässbjudning
-  * C: Vidöppen pannbjudning
-  * D: Vidöppen ansiktsbjudning
-* VIlken bjudning är vanlgiast och har minst risk för komplikationer och varför: 
-  * framstupa kronbjudning
-  * minst huvudomfång
-  * därför enklare passage gm förlossningskanalen
-* !!! Svea 3 grav 2 para kommer förlossningen grav vecak 37 för planering av sätesändläge. Tidigare 2 pN.
-  *  !! Vad erbjuer man i första hand? svar: Yttre vändning
-  *  Vad finns det för andra alternativ? kejsarsnitt, förlossning i sätesbjudning 
-  *  kan vara så att iom tidigare förlöst så kan man tänka sig förlösa i sätesbjudning annars hade nog alternativet varit kejsarsnitt.
-* Bjudningar
-  * Vilken bjudning är vanligast och motivera varför denna bjudning är mest fördelaktig: framstupa kronbjudning, minst huvudomgång lättare igm kanalen
-  * vilken bjudning kontraindicerat avsluta förlossning instrumentellt: vidöppen ansiktsbjudning
-* Namnge de olika bjudningarna
-  * Framstupa kronbjudning: 9.5cm, ej förlossningshinder, mest gynnsam
-  * vidöppen hjässbjudning: 11.5cm, ej förlossningshinder
-  * vidöppen pannbjudning: 13.5cm, förlossnignshinder
-    * men är oftast en övergångsform
-    * flektera eller "deflektera"
-    * slutresultat en hjässbjudning eller en ansiktsbjudning
-    * MEN om mer smärtor MELLAN värkar och inte sker ngn ändring, finns risk uterusruptru o indikation för setio.
-  * vidöppen ansiktsbjudning: gynnsam enl abe
-  * framstupa ansiktsbjudning: ABSOLUT förlossningshinder. magen mot sarum, o ansikte pekar ner ut fr vagina
-  * snedläge: ej förlossningshinder
-  * huvudbjudning: normal
-  * Sätersbjudning: kejsarsnitt förstföderska där omvänding inte  gick; omföderska kan man testa vaginal
-  * tvärläge: förlossningshinder om inte kan vända
 
 
 
-***Terminologi***
-
-* Vidöppen: ryggen mot mammas sakrum
-* Framstupa: magen mot mammas sakrum
 
 
 
@@ -11167,6 +11384,27 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+#### Placenta Accreta
+
+
+
+***Etiologi***
+
+* Indelningar
+  * Accreta: [attach], fäster mot myometriet
+  * Increta: [invade], invaderar myometriet
+  * Percreta: [penetrate], penetrerar myometriet
+
+
+
+***Riskfaktorer***
+
+* Placenta previa
+* Tidigare kejsarsnitt
+* Uteruskirurgi inkl exeres 
+
+
+
 #### Placenta Previa
 
 ***Presentation***
@@ -11181,6 +11419,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Etiologi och patofysiologi***
 
 ***Epidemiologi***
+
+
+
+***Indelningar***
 
 
 
@@ -12769,6 +13011,50 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * stor
 * multi-loculated (flerrummig?)
 * ascites
+
+
+
+
+
+### Kolposkopi
+
+***Metod***
+
+* Kolposkop = optiskt instument, inspektion starkt lkjus, förstoring 6-40x
+* Dysplastiskt epitel: 
+  * kärlmönster, går se med kolposkop
+* Förtydliga atypiskt epitel
+  * används pensling ättiksyra + jod
+  * **ättiksyra**
+    * framkallar **reversibel** vitfärgning av DYSPLASTISKT epitel
+    * **Förutsätter**: 
+      * stora kärnor  
+      * abnorma cytokeratiner, 
+      * som ses i dysplastiskt epitel
+  * **jod**: verkar användas som en separat grej fr ättiksyra, inte att ättiksyran påverkar upptaget
+    * **utmognad normala vaginala epitelceller**: färgas bruna av jod pga **RIKLIGT MED GLYKOGEN I CYTOPLASMAN**
+    * **atypiskt epitel**: huvudsakligen odifferentierade celler, innehåller **MYCKET LITE GLYKOGEN**, 
+      * färgas inte brunt men gult i olika nyanser
+  * **om invasiv cancer föreligger:** 
+    * medlen RESORBERAS SNABBT, innan färgreaktionen hinner uppstår
+    * istället den ojämna ytan,. blödningar o de atypiska kärlen ger vägledning
+  * Biopsier tas fr förändringarna
+* **Identifiera TZ, mukoskvamösa gränsen**: för att kolposkopin ska anses fullständig. 
+* Ofullständig kolposkopi = om man inte ser TZ: man måste kunna se TZ för att kunna säga att den är komplett. 
+
+
+
+***Fynd***
+
+* Atypiskt epitel
+  * Kärlmönster: avgör graden av atpi
+    * form
+    * grovlek
+    * avstånd t varandra
+  * Mikroinvasiv cancer, mer uttalad malignitet:
+    * bisarra, breddökade kärl
+    * kaliberväxlingar, med blödning
+    * 
 
 
 

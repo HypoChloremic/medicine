@@ -76,3 +76,5 @@ beroende på hur akut detta är
 * distinguish afebril UVI under 2åå och febril UVI äver 2åå. Afebril UVI ska man handlägga som en pyelonefrit, som annrs skulle vara en febril UVI. Behandlingsmässigt att man vid en misstänkt pyelonefrit vid peroral behandling ger ceftibuten och vid iv behandling cefotaxim evt tillägg ampicillin för att täcka enterokocker om cefotaxim inte fungerar. Har man en afebril uvi över 2åå då ska man ge nitrofurantoin eller 
 
 * PM säger åb ST-mottagning för UL, men att innan behandling ges ska man bekräfta diagnosen med en specialist. 
+
+* PÅgående missfall att man ger cytotec ist för mifegyn, varp invänta

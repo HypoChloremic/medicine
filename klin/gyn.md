@@ -6223,6 +6223,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Borrelia
+
+***Behandling***
+
+* Behandla gravida (dubbeldos) för att inte riskera sprida infektion till fostret. 
+
+
+
 ### Dyspareuni
 
 ***Presentation***
@@ -7320,6 +7328,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Utredning och handläggning***
 
 * Diagnos: PCR
+* **Primär genital herpesinfektion hos gravid kvinna, >v35**
+  * Kejsarsnitt kan planeras ni
+  * antivirala lkm under förlossning: för att överföras till barnet. 
 
 
 

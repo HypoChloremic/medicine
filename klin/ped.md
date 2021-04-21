@@ -4628,7 +4628,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 * **Fästingburna infektioner hos barn är vanligt under sommar och höstmånaderna i Sverige. Vilket påstående om denna typ av infektioner är mest korrekt?**
   * Perifer facialispares är ett vanligt symptom på neuroborrelios hos barn och fyndet bör föranledda lumbalpunktion för att verifiera diagnosen.
   * Fel alternativ inkluderade: 
-* **Du arbetar som jour en septemberkväll och träffar då Erik 9 år, som söker på grund av huvudvärk. Hans mamma berättar att han klagat över huvudvärk i en veckas tid men att han gått i skolan fram till för 2 dagar sedan. Han har haft lite lätt tempstegring kring 38 – 38,5 C. I status noterar du att Erik har lite svårt att stänga vänstra ögat och att vänstra mungipan hänger ned lite då du försöker få honom att skratta. I övrigt inget avvikande i status. Blodprov visar CRP 16, Leukocyter 7,0 x 10 /l (referens 4 - 9 x 10 /l) med normal diff, trombocyter 260 x 10 /l (ref 150 – 400 10 /l), Hb 118 g/l.** 
+* !! **Du arbetar som jour en septemberkväll och träffar då Erik 9 år, som söker på grund av huvudvärk. Hans mamma berättar att han klagat över huvudvärk i en veckas tid men att han gått i skolan fram till för 2 dagar sedan. Han har haft lite lätt tempstegring kring 38 – 38,5 C. I status noterar du att Erik har lite svårt att stänga vänstra ögat och att vänstra mungipan hänger ned lite då du försöker få honom att skratta. I övrigt inget avvikande i status. Blodprov visar CRP 16, Leukocyter 7,0 x 10 /l (referens 4 - 9 x 10 /l) med normal diff, trombocyter 260 x 10 /l (ref 150 – 400 10 /l), Hb 118 g/l.** 
   * **Vilken diagnos är mest vanlig och sannolik med ovanstående beskrivning och vilken fråga är viktigt för att komplettera anamnesen**
     * Borrelia, fästingbett, erythema migrans
   * **Med vilket specifikt prov ska du säkerställa diagnos**
@@ -4640,13 +4640,57 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Kännetecken***
 
-* Erythema migrans: kommer efter 2-4v..
+* **Erythema migrans**: kommer efter 1-4v efter bett enl IM; viss säger efte 4d kan den uppkomma
+  * 50% av fallen inget känt fästingbett
+  * ofta inga lokala symptom
+  * ibland klåda + sensibilitetsstörningar över rodnad
+  * central uppklarning + cirkumferent rodnad
+* **Multipla erythem**: 
+  * 10% av fallen
+  * tecken **disseminerad** infektion
+  * ökad risk för spridning till andra organ
+* **Neuroborrelios**
+  * 1v-månader med eller utan migrans i anamnes
+  * **Rotsymptom**
+    * smärtor
+    * neuropatier
+    * paresr: e.g. facialispares
+    * viktnedgång
+    * 
+
+
+
+***Differentialdiagnos***
+
+* Erythema migrans
+  * Bettreaktion
+  * kontaktallergi
+  * svampdermatoser
+  * ersipelas
+
+
+
+**Utredning och handläggning**
+
+* **Föreligger erythema migrans**: ingen utredning, direkt behandling
+  * antikroppstiter ofta negativ
 
 
 
 ***Behandling***
 
-* Neuroborrelios
+* **Etrythema migrans**
+  * Singelerythem: kåvepenin 10d po
+* **Multipla erythem  ELLER feber**
+  * barn över 8åå: doxy, 10d
+  * barn under 8åå: amoxicillin, amimox 14d
+* **PC-allergi**
+  * doxy 10d
+  * barn >8åå: doxy10d
+  * allergi cefalosporiner: azithromycin eller doxy trots <8åå
+  * risk missfärning tänder av doxy efter kotrare kurer har inte påvisats
+* **Amoxicillin, om barn inte tål smaken**
+* **Neuroborrelios**
   * Doxycyklin verkar vara det generella behandlingsalterantivet
   * ceftriaxon iv: kan ges till barn smo inte kan ta tabletter. 
 
@@ -6399,28 +6443,174 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 ***Etiologi***
 
 * Mkt hög smittsamhet vid förlossning + primär genital herpesinfektion hos mor
+* Hos vuxna: detta är relevatnt mtp mamman och överföring av HSV
+  * HSV1: överallt kroppen + genitalt
+  * HSV2: huvudsakligen genitalt, generellt=
+
+
+
+***SJukdomspanorama***
+
+* Gingivomastit
+* Oral herpes
+* Paronychier
+* Herpeskeratit
+* Erythema multiforme
+* Facialispares
+* Herpesencefalit
+* Neonatal herpes
 
 
 
 ***Kännetecken***
 
-* Blåsor
-* Locales: e.g. hjässan, pannan
+* **Blåsor**
+* allmänt spridd infektion insjuknar oftast under de första 7-12 levnadsdagarna,
+* med symtom som påverkat allmäntillstånd,
+* slöhet,
+* andningssvårigheter,
+* gulsot,
+* feber eller låg kroppstemperatur. Symtomen liknar dem vid sepsis (blodförgiftning).
 
 
 
 ***Utredning och handläggnign***
 
-* Snabb handläggning
-* Remittera in AKUT: om <3mån + nya blåsor
+* **PCR blåsskrap**
+* **Serologi**: HSV1, HSV2 vid påtaglgia besvär (vet ej hur effektivt detta är på barn)
+  * NOTERA: möjligt att antikroppar överförts till ungen
+* **Neonatal herpesinfektion**: Snabb handläggning
+  * Remittera in AKUT: om <3mån + nya blåsor
+* **Misstanke herpesencefalit, encefalit**
+  * **LP, PCR på vätskan**: påvisa serös bild med genmaterial för herpes, utöver sedvanliga LP proverna
+  * **prover fr (PCR?):** blod, näsa, svalg, ögon, eventuella blåsor
+  * Blod: kan ha cirkulerande herpes DNA, och partiklar
+* **Radiologiskt**
+  * MR: sförändringar i hjärnen, 1-2d efter insjuk, ofta asymmetriska och intill tinningloberna.
+* **Behandlingseffekt**
+  * **upprepa PCR blod**: för att identifiera virus eller ej. 
+  * (Virustiter i blod?)
 
 
 
 ***Behandling***
 
 * Aciklovir, frikostigt
+* Föreligger herpesencefalit: aciklovir 3v behandling iv till en början..
+
+
+
+***Källa***
+
+* https://www.socialstyrelsen.se/stod-i-arbetet/sallsynta-halsotillstand/neonatal-herpes-simplexencefalit/
 
 <img src="./imgs/sam_170421_NEwLWEp4Zu.png" alt="NEwLWEp4Zu" style="zoom:50%;" />
+
+##### Neonatal herpesinfektion
+
+***Etiologi***
+
+* Förlossningskanalen
+* kommer i kontakt med sekret innehållande viruspartiklar
+* Risk högst: när primärinfektion (förstagångsinfektino) hos mamman
+  * då är det högt smittdos 
+  * dessutom saknas skyddande antikroppar FRÅN MODERN till barnet
+* HSV2 den vanligaste orsaken
+
+
+
+***EPidemiologi***
+
+* Agens:
+  * HSV2, vanligast: den genitala varianten alltså
+  * HSV1, förekommer
+
+
+
+***Kännetecken***
+
+* andra-tredje levnadsvecaka
+* **till en början**: trötthet, irritabilitet, låg eller förhöjd kroppstemp
+* **matningssvårigheter**
+* **Därefter andra symptom**
+  * Epileptiska anfall
+  * sänkt medvetandegrad
+
+
+
+***Komplikationer***
+
+* Simplexencefalit efter neonatalherpes kan ge mga allvarliga komplikationer
+* Spasticitet
+* epilepsi
+* intellektuell funktionsnedsättning
+* språkstörning
+* autism
+* synnedsättning
+* hörselnedsättning
+
+
+
+***Handläggning***
+
+* Mycket viktigt med snabb handläggning och utredning
+
+
+
+##### Andra orsaker herpes
+
+* **Oral herpes**
+  * 1/3 av infekterade återkommer HSV1 mer eller mindre regelbundet i form
+  * lokaliserad
+  * ensidig blåsbildning
+  * oralregionen
+  * **prodromalsymptom**: föregås ofta av måttlig skarp brännande smärta samma region
+  * **Triggers**
+    * UV-bestrålning
+    * hormonsväng, som vid menstruation
+    * annan infektion e.g. pneumokocker
+* **Paronychier**
+  * blåsbildning nagelband
+  * HSV1, HSV2
+* **herpeskeratit**
+  * återkommande korneal infektion
+  * dendritiska sår
+  * remitteras ögonläakare
+* **Erythema multiforme**
+  * reaktiverade HSV1 lokaliserade
+  * sprdda utslag, ibland recidiverande
+* **Facialispares**
+  * 1:4 av all facialispares av hereps
+  * förekommer stora mängder i sensoriskt ganglion (Ganglion stellatum)
+  * optimal beh ej fastställd
+* **Neonatal herpes**
+  * Nyfödda, första levnadsmånaden
+  * insjukna svår HSV infektion
+  * Blåsor
+    * hjässan, pannan
+    * hud
+    * mun
+    * svalg
+  * generell sepsisliknande bild eller encefalit
+  * kan uppkomma utan aktuell herpesinfektion hos mamman
+* **Gingivomastit **(fr IM)
+  * barn och ungdomar vanligtvis
+  * utbredd inflammation + blåsbildning i munhålan
+  * pojkar oftar än flickor
+  * intensiva slemhinneförändringar i tex tandköttet
+  * feber
+  * AT symptom
+  * kan behöva läggas in: slemhinnelesioner så pass besvärliga att patienten inte kan äta eller dricka
+  * antiviral behandling kan sannolikt förkorta förloppet
+* **Herpesencefalit** (fr IM)
+  * destruktiv virusöknin i hjärna
+  * fokus limbiska system, hippocampus, frotnallob, temporallob, motorcortex
+  * feber alltid med neurosymptom
+    * afasi (hos ett barn?),
+    * medvetandesänkning
+    * kramper
+
+
 
 #### Rubella
 

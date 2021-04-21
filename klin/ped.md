@@ -4665,17 +4665,25 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+### Immunologiskt
 
-
-### Henoch-schönlein - IgA-vaskulit
+#### Henoch-schönlein - IgA-vaskulit
 
 
 
 ***Presentation***
 
 * ***Sexåriga Charlotta*** 
-  * inkommer pga svullnader på fötterna och ont i benen sedan 2-3 dagar.Av och till också ont i magen. Du finner några blåmärken på underbenen, men också flera 1-10mm stora hudblödningar. Ingen lever eller mjältförstoring. Ingen ömhet i buken.Nämn tre viktiga diagnoser som du bör överväga: Henoch schönleins purpura (IgA vaskulit; har palpabel purpura + artralgi/artrit), minimal change nefropati, misshandel; blodmalignitet
-* ***Vilken/vilka av symptom och manifestationer kan innebära allvarlig sjukdom hos barnet:*** hematuri, nefrit, nefros, njursvikt
+  * inkommer pga svullnader på fötterna och ont i benen sedan 2-3 dagar.Av och till också ont i magen. Du finner några blåmärken på underbenen, men också flera 1-10mm stora hudblödningar. Ingen lever eller mjältförstoring. Ingen ömhet i buken.Nämn tre viktiga diagnoser som du bör överväga: 
+    * Henoch schönleins purpura (IgA vaskulit; har palpabel purpura + artralgi/artrit), 
+    * minimal change nefropati, 
+    * misshandel; 
+    * blodmalignitet
+* ***Vilken/vilka av symptom och manifestationer kan innebära allvarlig sjukdom hos barnet:*** 
+  * hematuri, 
+  * nefrit, 
+  * nefros, 
+  * njursvikt
 * Stina 5 år 
   * har sedan tre dagar haft utslag på benen som är lokaliserade till baksidan av låren, på skinkorna samt på underbenen. Utslagen är rödblå från mm stora till flera cm stora. De går ej att trycka bort. Hon har dessutom svullnad vid fotleden samt därav hälta. Det senaste dygnet har hon dessutom klagat över bukont. Vilken diagnos ligger närmast till hands? Vilka enkla prover vill du ta och varför? Hur kan man behandla buksmärtorna?
 * **Stina, 3 år, kommer till barnläkarmottagningen på grund av att hon har fått utslag och haltar på hö ben. Stina hade lite tempstegring i 3 dagar kring 38,5 för drygt en vecka sedan, men är nu feberfri. Igår noterade mamma utslag på baksidan av låren samt på skinkorna. Idag har hon fått svullnad kring hö fotled. På dagis har det gått halsfluss. Status: Afebril. Gott allmäntillstånd men haltar på hö ben. Röda utslag, upp till ett par cm stora, lokaliserade på skinkor och baksidan av benen ner mot fötterna. Går ej att trycka bort. Svullnad av fotleden och upp mot fotryggen. Övriga leder u.a. Lab: Hb 120 g/l. Trc 189,. Vita 8.6. Diff u.a. CRP 38.** 
@@ -4710,10 +4718,22 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 ***Etiologi och patofysiologi***
 
 * Typ 3 hypersensitivitet
-* småkärls vaskulit (small-vessel vasculitis)
-* IgA-vaskulit: IgA immun komplex deposition
+* **småkärls vaskulit** (small-vessel vasculitis)
+* **IgA-vaskulit**: IgA immun komplex deposition
 * **Njurpåverkan**: immun-komplexen kan deponeras glomerulärt också, som i sin tur kan driva njursvikt. 
 * **Organ som påverkas, TODO**
+* ofullständigt känd etiologi
+* imunkomplex mediderad
+* föregås ofta av ÖLI
+  * mykoplasma
+  * adenovirus
+  * parovirusB19
+  * varicella, herpes simplex, HBV, HCV
+  * GAS, staffar
+* För att producera symptomen: relateras med nekros i små kärl och eventuella blödningar
+  * IgA komplex, faller ut i kärlväggar + njurens mesangium
+  * En lokal inflammatorisk respons triggas igång med infiltration av neutrofila leukocyter → leukocytoklastisk vaskulit med nekros i små kärl
+  * 
 
 
 
@@ -4723,7 +4743,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * **diffus buksmärta**
   * **biopsi med IgA-deposition**
   * **akut artrit eller artralgi**
-  * **Njurpåverkan**
+  * !!! **Njurpåverkan, hematuri, proteinuri**: förklarar varför man tar U-stickan!!
 
 
 
@@ -4733,10 +4753,6 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 * incidens: 10-20:100k p år
 * högst insjuk vid 4-6åå
 * 1.2:1 p:f. Något vanligare hos vita och asian barn. än hos afrikanska
-
-
-
-
 
 
 
@@ -4787,8 +4803,9 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Handläggning och utredning***
 
+* **Viktigaste proverna**: U-sticka, krea
 * ***Primär utredning***
-  * ***Blodprover***: blodstatus + diff, kreatinin
+  * ***Blodprover***: blodstatus + diff, kreatinin, CRP
   * ***Urinstatus***: urinsticka
   * ***Blodtryck***
   * ***Strep A*** test
@@ -4811,16 +4828,18 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 * **Streptokocktonsillit**: penicillin behandling
 * **ledsmärta, buksmärta**: paracetamol, nsaid
 * **Hypertension:** ACEh
-* Prednisolon: 1mg/kg; minskar ledsymptom, GI symptom, 
+* **Prednisolon**: 1mg/kg; 
+  * minskar ledsymptom, 
+  * !! GI symptom: Föreligger buksmärta exempelvis
   * minskar inte risken för utveckling av nefrit
-* ***Hypertoni***: ACEh, 
+* **Hypertoni**: ACEh, 
 
 
 
 ***Prognos***
 
-* ***Oftast självbegränsande 1/3 återkommande symptom 4-6mån***
-* ***!!! Risk för nedsatt njurfunktion***
+* **Oftast självbegränsande 1/3 återkommande symptom 4-6mån**
+* **!!! Risk för nedsatt njurfunktion**
   * ingen om normalt urin efter 6 mån
   * 1.5% om isolerad hematuri / proteinuri vid debut
   * 20% om nefrit / nefros vid diagnos
@@ -4842,19 +4861,11 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Bilder Henoch, HSP, IgA-vaskulit***
 
-<img src="./imgs/ped_sammanstallning_4HpCm0XY2V.png" alt="4HpCm0XY2V" style="zoom:50%;" />
+| <img src="./imgs/ped_sammanstallning_4HpCm0XY2V.png" alt="4HpCm0XY2V" style="zoom:50%;" /> | <img src="./imgs/ped_sammanstallning_p73kCSQn6C.png" alt="p73kCSQn6C" style="zoom:50%;" /> | <img src="./imgs/sam_210421_KReCbqWGq6.png" alt="KReCbqWGq6" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/sam_210421_U0nTVsYMvG.png" alt="U0nTVsYMvG" style="zoom:50%;" /> | <img src="./imgs/sam_210421_ggLrmnV2ie.png" alt="ggLrmnV2ie" style="zoom:50%;" /> |                                                              |
 
 
-
-
-
-<img src="./imgs/ped_sammanstallning_p73kCSQn6C.png" alt="p73kCSQn6C" style="zoom:50%;" />
-
-
-
-
-
-### Immunologiskt
 
 #### Immunbrist
 
@@ -5069,7 +5080,33 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
   
 
+#### Vaskuliter
 
+***Etiologi***
+
+* En del olika vaskuliter förekommer
+* Stora kärl
+  * Takaayashus aerterit
+* Medelstora kärl
+  * Kawasakis sjd
+  * polyarteritis nodosa
+  * kutan polyarterit
+* Små gärl
+  * Granulomatös
+    * Wegeners granulomatos
+    * churg-strauss syndrom
+  * Icke-granulomatös
+    * HSP
+    * mikroskopisk polyangit
+    * isolerad kutan leukocytoklastisk vaskulit
+    * Hypokomplementär urtikariell vaskulit
+* Andra vaskuliter
+  * behcet
+  * sekundärt t infektion, malignitet, eller läkemedel
+  * vaskulit vid bindvävssjd: SLE
+  * primär angit i CNS
+  * cogans syndrom
+  * oklassificerad vaskulit
 
 ### Körtelbuk
 
@@ -6393,35 +6430,67 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 ***Etiologi och patofysiologi***
 
-* RNA-virus
-* Toga-virus
-* anledning vaccin: SKYDDA OFÖDDA FOSTRET
-  * under graviditet om mamam röda hund
+* **RNA-virus**
+* **Toga-virus**
+* **anledning vaccin:** SKYDDA OFÖDDA FOSTRET
+  * under graviditet om mamma röda hund
   * !! leder t kongenitalt rubella syndrom
   * särskild stor risk första trimestern
   * jfr 5% vaccinerade gravida så ere nere 5% om ändå får röda hund, trots vaccni
-* Erbjud abort om gravid med röda hund: risk dövhet, blindhet, mikrocefali
-* Risk för: dövhet, blindhet, mikrocefali, hjärtsjokdomar
+* **Gravid, infektion, första trimeser**:  Om en gravid kvinna får sjukdomen under första trimestern kan allvarliga skador uppstå på fostret i form av hjärtfel, allvarliga hörsel-, ögon- och hjärnskador med mera.
+* **Erbjud abort om gravid med röda hund**: risk dövhet, blindhet, mikrocefali
+* **Risk för**: dövhet, blindhet, mikrocefali, hjärtsjokdomar
+* **inkubationstid**: 17-18d (14-21d)
+
+
+
+***EPidemiologi***
+
+* I det närmsta försvunnit i Sverige
 
 
 
 ***Kliniska kännetecken***
 
-* Blue-berry muffin rash
-* Kongenital katarakt: TORCH infektioner som kan ge e toxoplasmos, syfilis, rubella, CMB
-* beskedlig virusinfektion
-* kan asymptomatisk
+* **beskedlig virusinfektion**
+* **kan asymptomatisk**: flesta smittas utan symptom överhuvudtaget
+  * subklinisk infektion
+* **Om symptomatisk**
+  * **annars om den är symptomatisk**
+  * **lindrig ÖLI**
+  * **hudutslag**: börjar ansikte, sen bål och extremiteter
+    * småfläcligt
+    * rödaktigt
+    * ej sammanflytande
+  * lymfkörtlar nacke ofta förstorade ömma
+  * iblan ledont
+* **Kongenitalt** 
+  * **kongenitalt rubella syndrom**
+  * **katarakt**: TORCH infektioner som kan ge e toxoplasmos, syfilis, rubella, CMB
 
 
 
 ***Utredning och handläggning***
 
+* Blodprove
+  * Serologi mot rubella: rubellavirus antikroppar
+* Diagnos på sjd bild är svårt, då olika virusinfektioner kan ge likartade symtpom , 
+* Allmänfarlig
+* Smittskyddsanmälan till smittskyddsläkaren + FHM
+
 
 
 ***Behandling***
 
-* Beskedliga symptom för den vuxne som drabbas verkar det som
-* profylaktiskt: vaccinet; till för att skydda de gravida verkar det som också
+* **Beskedliga symptom för den vuxne som drabbas verkar det som**
+* **profylaktiskt**: vaccinet; till för att skydda de gravida verkar det som också
+* **Specifika läkemedel**: finns inte mot rubella
+
+
+
+| <img src="./imgs/sam_210421_DaXNr8yxCW.png" alt="DaXNr8yxCW" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ---- |
+|                                                              |      |
 
 
 
@@ -6909,15 +6978,14 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 * Faryngiten  
 * är aggressiv i fem till sju dagar,  
 * och avtar därefter under de följande sju till tio dagarna. 
-* Febern kan vara i  
-* en till två veckor,  
+* Febern kan vara i  en till två veckor,  
 * och patienten har förstorade lymfkörtlar, i regel i mer än tre veckor. 
 * Hos de flesta har symtomen gått över efter en månad,  
-* men vissa patienter kan uppleva långvarig trötthetskänsla och koncentrationssvårigheter. 
+  * men vissa patienter kan uppleva långvarig trötthetskänsla och koncentrationssvårigheter. 
 * De flesta patienter  
-* är friska nog att återgå till skola eller arbete  
-* senast efter tre till fyra veckor,  
-* men det tar ofta upp till två månader innan man känner sig ”frisk”. 
+  * är friska nog att återgå till skola eller arbete  
+  * senast efter tre till fyra veckor,  
+  * men det tar ofta upp till två månader innan man känner sig ”frisk”. 
 
 ***Uppföljnig***
 
@@ -12839,6 +12907,20 @@ BIld förenlig med akut episod förkylningsastma. Diff bronkiolit med obstruktiv
    6. Ny bedömning av internjour om 4 h, tidigare vid evförsämring. 
    7. Följer CRP, avvaktar antibiotika
    8. PEWS initialt x 12
+
+
+
+#### !! HSP
+
+* Mkt kort sammanfattning inkluderande bedömning av kända fakta runt patienten.
+    * Exempel: 5 år gammal pojke med tidigare astma söker akut för utslag, buksmärta samt svullna fotleder. Onödiga upprepningar medför avdrag. 1 poäng om korrekt
+* Diagnostiska överväganden. Här skall preliminär och eventuella diffdiagnoser framgå. Det kan framgå och motiveras hur sannolik/a den preliminära diagnosen respektive diffdiagnoser bedöms vara. 
+    * Exempel: Sannolikt Henoch Schönleins purpura med bakgrund av vaskulitutslag, buksmärta samt artrit. JIA mindre sannolikt. Avsaknad av feber borde utesluta meningokocksepsis. 1,5 poäng om korrekt
+* Vårdplanering: Denna skall vara på rätt detaljnivå och innehålla föreslagen behandling med motivering, kontroller, vårdnivå etc. 
+    * Exempel: Inlägges för observation på vårdavd. Blodstatus, CRP samt urinsticka. Halsodling. Om tilltagande buksmärta får kortikosteroider övervägas. 1.5 poäng om korrekt
+* Hålla sig inom given ram med rimlig omfattning, korrekt organisation samt att ingående delar är välavvägda. 1 poäng om korrekt
+
+
 
 ### Tentfalll
 

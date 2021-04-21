@@ -169,7 +169,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Parametrar
 
+<img src="./imgs/210421_sam_BR2vOY2iLk.png" alt="BR2vOY2iLk" style="zoom:50%;" />
 
 
 
@@ -4122,6 +4124,10 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ### CNS
 
+
+
+#### Allmänt
+
 ***Presentation***
 
 * **CNS-infektioner hos små spädbarn kan snabbt bli livshotande och är därför mycket viktiga att upptäcka och behandla i tidigt sked**
@@ -4146,6 +4152,14 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Thrombocytopenia
   * Local infection at the site of LP
   * If it causes undue delay in starting antibiotics
+* Ida 3v 
+  * Fullgången (v 39+2) tidigare frisk flicka som inkommer till barnakuten tidigt på morgonen p g a trötthet och ovilja att amma sedan gårdagskvällen. Ingen feber. Inga luftvägsymptom. Vid statusundersökningen noterar du att flickan är trött och slö. AF 25-30/min. Kap refill 3 sek. Temp 36,2. Saturation 90%. 
+  * enl seminarium: handlägga som en sepsis eller meningit
+* William 2år 
+  * 2-årige William kommer med ambulans till akuten med sin mamma. Han har haft hög feber, kring 40 grader sedan gårdagen. Verkar ha ont i huvudet, har kräkts vid några tillfällen. Är trött och slö, vill inte äta och dricka. Haft enstaka kräkning, kanske lite lätt hosta och snuva. Tidigare frisk. Påtagligt försämrad sedan morgonen. I status noteras en högfebril, trött och blek pojke, lite marmorerad hud, kap refill 4 sek, HF 180, AF 70, Saturation 91%, inga indragningar. Vissnackstelhet, neurologstatus i övrigt väs ua, men besvärad vid us av pupillreaktion. Inga petekier.
+  * 2 mest sannolika agens
+    * pneumokocker
+    * meningokocker
 
 
 
@@ -4172,6 +4186,53 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
       * nackstyvhet: inte alltid förekomst hos spädbarn
 
 
+
+
+
+
+
+#### Encefalit
+
+
+
+***Etiologi***
+
+* **Mässlingkomplikation**: fara för liv
+* **TBE**
+* **enl IM** (tror det är generella orsaker på IM)
+  * **HSV1 Herpes simplex, herepsencefalit**: allvarligaste smittämnet (därför man ger aciklovir till dessa patienter på empirisk indikation)
+  * **TBE**
+  * **influensa A, Influensa B**
+  * **enterovirus**
+  * **varicella zoster virus, VZV**
+
+
+
+***Kännetecken***
+
+* **Beroende pp agnes**
+* **VZV, Cerebellit**: ataxi, nystagmis, andra symptom
+  * förskolebarn
+  * någn/några veckor efter vattkoppor debuterat
+  * bredspårig gång,
+  * dysartri
+  * ataxi
+  * god prognos: tillfriskning 2-4v
+* **VZV, meningit, meningoencefalit, bulbär engagement, hjärninfarkt, encefalit**: ovanligare, men kan debutera samband vattkoppor barn och vuxna
+
+
+
+***Utredning och handläggning***
+
+* **EEG**: detta verkar vara ett alternativ hos dessa
+  * **HSV1**: spikes and waves, kan vara ofta att man får detta mönstret
+* **MR**
+
+
+
+***Behandling***
+
+* antibiotika + aciklovir + betapred
 
 
 
@@ -4219,6 +4280,28 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
     * Glukos: Lågt sp-glukos, låg kvot glukos sp/plasma –< 0,4
     * Gram färgning
     * Stickblödning medför 1 vit /1000 röda
+* ***Insättning steroider***: **enl läk betapred för att minska hjärnsvulland**, dexamethasone, dexametason (barn över 3 månader kan man ge dos dexametason)
+* **Iv-behandling**
+  * Beroende på ålder tillägg ampicillin
+  * cefotaxim + aciklovir + steroider
+* ***Lumbar punktion***: poly/mono, laktat, glukos, alb-kvot, odling, PCR, (kristaller), protein
+  * ***Bakteriell***: glukos sänkt, protein ökat, laktat ökat, poly ökat, klar eller grumlig
+* Prover
+  * meningitmisstanke
+    * fullständigt blodstatus
+    * CRP
+    * blododling
+    * blodgas
+    * glukos
+    * elektroluter
+    * krea
+    * koagstatus
+  * urinprov: för UV diagnostik
+  * odling NPH för andar locales
+  * encefalit misstanke: MR hjärna (MR hade jag skrivit på seminariet, men man verkar göra EEG)
+* Utifrån agens, skiljer sig behandlingslängden.
+* Vid hypovolemi/chock ska uppvätskas iv
+* Inläggning IVA
 
 
 
@@ -4638,6 +4721,14 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+***Etiologi***
+
+* Borrelia burgderfori, spiroket
+* antikroppar: 6v för intrathekala antikroppar och serologi att utvecklas
+  * frånvaro antikroppar tidigt, utesluter därför inte borrelia
+
+
+
 ***Kännetecken***
 
 * **Erythema migrans**: kommer efter 1-4v efter bett enl IM; viss säger efte 4d kan den uppkomma
@@ -4656,7 +4747,18 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
     * neuropatier
     * paresr: e.g. facialispares
     * viktnedgång
-    * 
+  * **Meningitsymtomen yttrar sig som**
+    * huvudvärk,
+    * nackvärk,
+    * trötthet,
+    * aptitlöshet och ibland kräkningar.
+  * **Radikulitsymtomen kan vara både sensoriska och motoriska**
+      * Alla nervsegment kan drabbas,
+      * men kranialnerverna och speciellt facialisnerven är typisk lokalisation för radikulit. 
+  * **Smärtan dominerar bland sensoriska symtom**. Den är neuralgiskt intensiv och svårbehandlad med analgetika.
+* **Lymfocytom**: öronsnibben svullen och rodnad; blåröd tumörliknande uppdrivning, ofta öronsnibb eller bröstvårta. 
+* **Acrodermatitis atrophicans**
+* **Borreliaartrit**: Monoartrit?
 
 
 
@@ -4674,6 +4776,15 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 * **Föreligger erythema migrans**: ingen utredning, direkt behandling
   * antikroppstiter ofta negativ
+* **Lymfocytom**: borreliaserologi + biopsi
+* **Neuroborrelios**
+  * anamnes fästingbett  eller erytem förekommer knappt hälften av fallen
+  * Serologi
+  * Intrathekala, intratekala antikroppar: att man kan detektera borrelia på detta sättet antignen pågående eller genomgående infektion. 
+    * IgM i LP: akut neuroborrelios
+* **Vårdnivå**
+  * neuroborrelios: kontakta infektionsklinik eller barnklinik eller ungdomsklinik. Ingen utrending i primärvården. 
+  * Beroende på infektionstyp, artrit, kardit: reumatolog, kardiolog etc.
 
 
 
@@ -4707,7 +4818,10 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+***Angående doxycyklinanvädningen***
 
+* I FASS rekommenderas inte att doxycyklin ges till barn yngre än åtta år. Anledningen är att tetracyklin och äldre tetracyklinderivat har rapporterats kunna missfärga tänder permanent hos barn
+* Dock  För doxycyklin har tandmissfärgning aldrig dokumenterats vid normal behandlingslängd. Uppföljningsstudier som inkluderat barn som behandlats med doxycyklin från några månaders ålder har inte heller kunnat påvisa kvarstående missfärgning av tänder. Barnläkarföreningen rekommenderar doxycyklin från 5 års ålder vid borreliainfektion. men samtidigt rekare IM att det är 8åå
 
 | <img src="./imgs/sam_210421_h986YkvC55.png" alt="h986YkvC55" style="zoom:50%;" /> |      |      |
 | ------------------------------------------------------------ | ---- | ---- |
@@ -4725,8 +4839,80 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * TBE förekommer mycket sällan före 15 års ålder. TBE kan ge bestående neurologiska symptom. 
   * För att diagnostisera kutan borrelia tas borreliaserologi. Kutan borrelia behandlas med penicillin 
   * Barn med neuroborrelios behandlas med ceftriaxon alternativt doxycyklin beroende på barnets ålder. På marknaden finns ett vaccin mot borrelia som inte ingår i det allmänna svenska vaccinationsprogrammet 
+* en veckas anamnes 
+  * feber 
+  * huvudvärk 
+  * illamående 
+  * kräkningar 
+  * tilltagande koncentrationssvårigheter 
+  * debuterade en vecka efter kom hem från sommarsemester  
 
 
+
+***Etiologi***
+
+* **TBE-virus**
+  * flaviviridae: sprids mellan fästingar
+  * reservoire: gnagare
+* **TBE-encefalit**: NEKROTISERANDE inflammationer av hjärnparenkymet
+  * att man därför kan förlora en massa funktion efter infektionen
+* **Inkubationstiden**: 1-2v
+  * mkt kortare före TBE än för borrelia
+* **Fästingen hos barn**: fäster öronen eller hårfästet
+
+
+
+***Epidemiologi***
+
+* Vanligast 40åå
+* förekommer 0-9åå, 10-19åå
+
+
+
+***Kännetecken***
+
+* Många får inga symptom alls.
+* Allvarlig TBE yttrar si
+  * Encefalit
+  * hög feber
+  * svår huvudvärk
+  * förvirring
+  * emellanåt kramper
+  * förlamningar, pareser
+* hos barn: oftast lindrigare sjukdom, men kan få kvarstående besvär
+* oklar feber
+* Encefalit (meningoencefalit enl Läkartidningen)
+* De senaste åren har dock studier rapporterat att även barn insjuknar och kan få bestående handikapp, bl a koncentrationssvårigheter
+
+
+
+***Komplikationer av encefaliten***
+
+* Epilepsi
+* hemipares
+* minnesstörningar
+* trötthet
+
+
+
+***Utredning***
+
+* Serologiskt: IgM serologi i serum för TBE (för aktuell TBE infektion)
+* KAN EJ göra intratekala, intrathekala antikroppar på TBE.
+* Radiologiskt: MR? för att påvisa encefalit
+
+
+
+***Behandling***
+
+* Symptomatisk behandling: oklart vad som menas med detta exakt. Men understödjande behandling utefter sjukdomsprogressen
+* **Borttagande fästingar**: ska ske på korrekt sätt. med pincett. 
+  * Kontrollera huden och kläderna regelbundet för att upptäcka och ta bort eventuella fästingar.
+  * Då dessa åtgärder inte utesluter att fästingar kommit innanför kläderna rekommenderas att man efter vistelse i fästingområde inspekterar hela sin kropp.
+  * **Hos barn**: sätter sig fästingarna ofta på **huvudet, speciellt vid öronen och i hårfästet**.
+* Vaccinationerna, profylaktiskt..
+  * vistas riskområden: landet, endemiska områden för fästing med TBE, skog och mark. Finland, ffa Åland, Baltikum, Centraleurpa.
+  * 
 
 ### Immunologiskt
 
@@ -5857,6 +6043,12 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+#### Tularemi
+
+
+
+
+
 ### Nefrologiskt Urologiskt
 
 
@@ -6442,10 +6634,21 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
+***Utredning***
+
+* Quick SOFA: vet ej om d applicerbart hos barn. 
+  * AF 22>=min
+  * mental påverkan
+  * systoliskt BT <=100mmhg
+
+
+
 ***Behandling***
 
-* VAsopressor
+* **Vasopressor**
   * hypovolemi eller hypoxi refraktär efter 3e bolus ringer, ej återställd cirkulation 
+* **Antibiotika**
+  * 
 
 
 
@@ -10833,7 +11036,7 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Utredning och handläggning***
 
-* EEG
+* EEG (sömnEEG)
   * Sidoskiftande spikes and sharp-waves
   * hög amplitud
   * centralt, midtemporalt, samtidigt

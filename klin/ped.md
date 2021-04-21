@@ -4083,6 +4083,12 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+### Agens: Bakteriell vs Viral
+
+***Allmänt***
+
+* Finns flera infektioner där det skiljer sig vilka agens som täcker vad
+
 
 
 ### Borrelia
@@ -4171,15 +4177,15 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Etiologi och patofysiologi***
 
-* UNDER nyföddhetsperiod
-  * Moderns genitalflora
+* **UNDER nyföddhetsperiod**
+  * **Moderns genitalflora**
     * GBS
     * Gramnegativa bakterier: E coli, klebsiella
     * listeria
-  * Sedan oftast nosokomial
+  * **Sedan oftast nosokomial**
     * Staf aureus
     * Staf epidermidis
-* EFTER Nyföddhetsperiod: Luftvägsbakterier
+* **EFTER Nyföddhetsperiod: Luftvägsbakterier**
   * Pneumokocker: Streptococcus pneumonae
   * Meningokocker: neisseria meningitidis
   * Haemofilus influenzae: tidigare vanligast, men har minskat
@@ -5822,97 +5828,151 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Behandling***
 
-* Utkik för
-  * hyponatremi vanligt: kramprisk
-  * hypoalbumin, vanligt: risk ödem
-  * Hb under 65-70: indik transfusion
-  * trombocyttransfus: bör undvikas, ökad risk för TMA! och stroke!
-  * Hypertoni vanligt. uteslut övervätsk. BT sänkande över 95e percentil första hand amlodipin 
-  * vätsketillförsel adekvt vid njurperf
-  * AV saknar effekt
-* Dialyusindikationer: anuri, oliguri, snabbt stigande S-krea, kraftiv övervätsk, symptomgivande hypertoni som inte svarar meds, hyperkalemi, uttalad acidos
+* **Utkik för**
+  * **hyponatremi vanligt**: kramprisk
+  * **hypoalbumin, vanligt**: risk ödem
+  * **Hb under 65-70:** indik transfusion
+  * **trombocyttransfus:** bör undvikas, ökad risk för TMA! och stroke!
+  * **Hypertoni vanligt.** uteslut övervätsk. BT sänkande över 95e percentil första hand amlodipin 
+  * **vätsketillförsel adekvt vid njurperf**
+  * **AV saknar effekt**
+* **Dialyusindikationer**: anuri, oliguri, snabbt stigande S-krea, kraftiv övervätsk, symptomgivande hypertoni som inte svarar meds, hyperkalemi, uttalad acidos
   * peritonealdialys
 
 
 
 #### UVI
 
+##### Utredning
 
+###### Basutredning
 
-##### Basutredning
+***Anamnes***
 
-* **Anamnes**
-  * **Feber**
-    * över eller under 38.5 (diffa cystit vs pyelonefrit)
-    * duration
-  * **Miktionsanamnes**
-    * blöja eller inte blöja
-    * krysta när den kissar
-    * hur stark stråle
-  * **Hereditet**
-    * UVI
-    * njuravvikelser
-    * urinvägsavvikelser
-    * blåsdysfunktion
-  * **Dålig stråle**
-    * e.g. urtravalvel hos pojkar
-    * Spina bifida?
-  * **Tonåringar**: 
-    * Sexualanamnes
-    * STD
-* **Riktat statys**
-  * **Yttre genitala**: Kan visa sig vara en balanit på pojkar exempelvis som gör ont
-  * **Rygg**: 
-    * uteslut avvikelser medellinjen
-    * spina bifida, som kan ge blåsdysfunktion, påverkad stråle
-  * **Bukpalpation**
-    * **resistens**: förstorade njurar eventuellt
-    * !! **förstoppning**
-  * vikt är viktigt
-  * BT
-  * längd önskvärt
-* **Provtagning**
-  * **Urinprov för odling**
-    * **BLåspunktion**: under 1åå,  eftersträvas
-    * **Mittstråleprov**: korrekt provtatgning efter tvätt och torkning
-      * 2 urinodlingar fr olika miktioner ger säkrare odling
-      * om nitritpos flickor: räcker 1 mittstråleprov odling
-    * **kateterprov**: övervägas om urinprov svårt på annat sätt
-    * **påsprov, prov fr påse, eller binda: används EJ FÖR ODLING**
-  * **Urinstatus**
-    * **Nitrit**: 
-      * **positiv hos flickor = bakteriuri**
-      * **falskt pos vid**
-        * makroskopisk hematuri 
-        * pojkar, förhudsflora
-      * neg nitrit 50% barn med bakteriuri
-    * **U-LPK**: 
-      * positivt: stödjer UVI diagnon
-      * kan falskpos
-      * negativ: talar emot UVI, MEN utesluter INTE
-    * **urinmikroskopi**: inte tradition i Sverige, men alterantiv till u-sticka
-  * **Blodprov**
-    * **CRP**:
-      * nivådiagnostik
-      * riskbedömning
-      * styr vidare utredning
-      * **upprepas efter 1d om**: antagligen för att CRP stegring har en försening
-        * feberduration mindre 1d och 
-        * första prov under 70mg/L
-    * **S-krea, +- Cystatin C**: bedömning njurfunktion
-      * lågt GFR för ålder
-        * under 1åå: över 30mikroM
-        * 1-2åå: över 40mikroM
-      * Schwartz formel el Cystatin C för skattning njurfunktion
-    * **Blododling + P-Na, svårt sjuka barn**
+* **Feber**
+  * över eller under 38.5 (diffa cystit vs pyelonefrit)
+  * duration
+* **Miktionsanamnes**
+  * blöja eller inte blöja
+  * krysta när den kissar
+  * hur stark stråle
+* **Hereditet**
+  * UVI
+  * njuravvikelser
+  * urinvägsavvikelser
+  * blåsdysfunktion
+* **Dålig stråle**
+  * e.g. urtravalvel hos pojkar
+  * Spina bifida?
+* **Tonåringar**: 
+  * Sexualanamnes
+  * STD
 
 
 
+***Riktat status***
+
+* **Yttre genitala**: Kan visa sig vara en balanit på pojkar exempelvis som gör ont
+* **Rygg**: 
+  * uteslut avvikelser medellinjen
+  * spina bifida, som kan ge blåsdysfunktion, påverkad stråle
+* **Bukpalpation**
+  * **resistens**: förstorade njurar eventuellt
+  * !! **förstoppning**
+* **Vikt**, är important
+* **BT**
+* **längd** önskvärt
 
 
-| <img src="./imgs/sam_210421_lnQidXO2bA.png" alt="lnQidXO2bA" style="zoom:50%;" /> |      |
-| ------------------------------------------------------------ | ---- |
-|                                                              |      |
+
+***Provtagning***
+
+* **Urinprov för odling**
+  * **BLåspunktion**: under 1åå,  eftersträvas
+  * **Mittstråleprov**: korrekt provtatgning efter tvätt och torkning
+    * 2 urinodlingar fr olika miktioner ger säkrare odling
+    * om nitritpos flickor: räcker 1 mittstråleprov odling
+  * **kateterprov**: övervägas om urinprov svårt på annat sätt
+  * **påsprov, prov fr påse, eller binda: används EJ FÖR ODLING**
+* **Urinstatus**
+  * **Nitrit**: 
+    * **positiv hos flickor = bakteriuri**
+    * **falskt pos vid**
+      * makroskopisk hematuri 
+      * pojkar, förhudsflora
+    * neg nitrit 50% barn med bakteriuri
+  * **U-LPK**: 
+    * positivt: stödjer UVI diagnon
+    * kan falskpos
+    * negativ: talar emot UVI, MEN utesluter INTE
+  * **urinmikroskopi**: inte tradition i Sverige, men alterantiv till u-sticka
+* **Blodprov**
+  * **CRP**:
+    * nivådiagnostik
+    * riskbedömning
+    * styr vidare utredning
+    * **upprepas efter 1d om**: antagligen för att CRP stegring har en försening
+      * feberduration mindre 1d och 
+      * första prov under 70mg/L
+  * **S-krea, +- Cystatin C**: bedömning njurfunktion
+    * lågt GFR för ålder
+      * under 1åå: över 30mikroM
+      * 1-2åå: över 40mikroM
+    * Schwartz formel el Cystatin C för skattning njurfunktion
+  * **Blododling + P-Na, svårt sjuka barn**
+
+
+
+###### Specifik utredning
+
+***Barn under 2åå, <2åå***
+
+* **Riskfaktorer**
+  * CRP över 70mg/L
+  * ICKE E coli
+  * Sänkt njufunktion: 
+    * 0-1åå: krea över 30
+    * 1-2åå: krea över 40
+* **Patologiskt UL**
+  * Dilatation, AP över >=7mm
+  * Uretärdilatation
+  * Kalyxdilatation
+  * Uretärocele 
+  * eller annan påtaglig anatomisk avvikelse
+* **DMSA**: statisk **njurscintigrafi**
+  * Indik: 
+    * riskfaktorer, ovan
+    * febrilt recidiv
+  * Funktionsandelar
+    * Diskret: >=45%, med fokal defekt
+    * Måttlig: 40-44%, med utan fokal defekt
+    * Uttalad: <40%
+* **MUC**: miktions-uretro-cystografi
+  * Dilatation på UL
+  * patologiskt DMSA: vissar ärrbildning och nedsatt funktion
+
+
+
+
+
+!! ***Ultraljud***
+
+* Man gör ultraljud på olika indikationer
+* Febrilitet: gör man UL på barn, för att uteslute hydronefros, anatomiska anomalier etc
+* barn under 2åå: ska man göra UL också
+
+
+
+
+
+***Odlingar***
+
+* !!! ALLA barn ska urinodlas med uvi-besvär
+  * oavsett pyelonefrit eller cystit
+
+| <img src="./imgs/sam_210421_lnQidXO2bA.png" alt="lnQidXO2bA" style="zoom:50%;" /> | <img src="./imgs/sam_210421_fJ3SbjJ39w.png" alt="fJ3SbjJ39w" style="zoom: 67%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
 
 
 
@@ -5985,6 +6045,25 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * Trimetroprim
 
 
+
+***Blåsdysfunktion***
+
+* Blåsträning kan vara ett alternativ
+* Profylax också: under samtidig blåsträning
+
+
+
+
+
+***DMSA-skada, UVI-associerad***
+
+* Unilatral skada
+  * ver 45%: ingen åtgärd
+  * under 45%: klinis kontroll 1-2åå intervall, GFR (filtrationsmätning), DMSA vid 16-18åå + GFR
+* Bilateral skada
+  * GFR över 60: åtlig kontroll, DMSA 16åå-18åå + GFR 
+  * GFR unde 60: minst årlig kontroll, DMSA 5åå + 16åå + GFR
+* kontroller: längd ,vikt ,BT, u-alb/krea (morgonurin), S-krea / S-cystatinC
 
 
 
@@ -11370,19 +11449,50 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Hematuri
 
+
+
+
+
+***Etiologi***
+
+* Cystit: 20% har makrohematuri, behöver ej utredas med UL enl VRegion
+* **Akut nefritiskt syndrom**:
+  * APSGN = streptokock glomerulonefrit
+  * IgA-nefrit
+* **Truma**
+* **Konkrement**
+* **Obstruktiv missbildning**
+  * meatusstenos, 
+  * uretravalvel, 
+  * pelvouretral stenos
+* **Blödningssjukdom**
+* **HUS**
+* **Tumör**
+    * Wilm,
+    * rhabdosarkom i blåsan)
+* **Urinvägsnära inflammation**
+* **Iatrogena**
+    * blåspunktion,
+    * njurbiopsi,
+    * kateter,
+    * strålning,
+    * cytostatika)
+
+
+
 ***Utredning och handläggning***
 
 * !! **U-sticka pos för ERY vid olika situationer: HEMOGLOBINURI, MYOGLOBINURI**
-* Evaluering, enl BRS
-  * Detektion hematuri kan vara u-sticka eller MIKROskopiskt (att man använder mikroskop)
-  * Falsk-negativa resultat:
+* **Evaluering, enl BRS**
+  * **Detektion hematuri kan vara u-sticka eller MIKROskopiskt** (att man använder mikroskop)
+  * **Falsk-negativa resultat**:
     * Vitamin-C ingestion, ascorbic acid
-  * MIKROskopisk urinanalys
+  * **MIKROskopisk urinanalys**
     * förekomst erytrocyter (sediment?), inkluderar förekomst bakterier etc: 
-    * Erytrocyt morfolig
+    * **Erytrocyt morfologi**
       * glomerulus origin: dysmorfisk, ofta blebs i RBC membrane
       * lower urinary tract: bikonkava RBC
-    * RBC casts (sediment?)
+    * **RBC casts (sediment?)**
       * kristaller: indikativ renal stensjukdom
       * stort antal RBC: akut hemorrhagisk cystit; av bakteriell infektion, viral infektion (adenovirus), kemoaterapi (cyklofosfamid)
 
@@ -11654,7 +11764,7 @@ En kort lista över kliniska manifestationer av CF:
 ***Handläggning och utredning***
 
 * ***Laboratorieprover***
-  * **enl tenta?:** U-Alb/krea, S-alb, S-krea, urinsticka, (U-alb mätning per dygn)
+  * **enl tenta?:** U-Alb/krea (morgonurin?), S-alb, S-krea, urinsticka, (U-alb mätning per dygn)
 * **enl PM:** TODO (gällande lipider)
   * **Blod**: Hb, evf, LPK, TPK, CRP albumin, kreatinin, cyst C, Na, K, Ca, P C3, C4, ANA Varicella serologi (immunitet?) ev. hepatit B, C serologi, ANCA, antitrombin III, fibrinogen, (kolesterol, triglycerider)
   * **Urin**: urinsticka, u-alb/krea
@@ -11696,7 +11806,7 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Nefritiskt syndrom: Glomerulonefrit
 
-#### Allmänt
+#### Presentation
 
 ***Presentation***
 
@@ -11738,9 +11848,11 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+#### Allmänt
 
 
-***Etiologi och patofysiologi***
+
+##### ***Etiologi och patofysiologi***
 
 * Varierad orsak, 
 * generellt immunmedierade, glomerulärt
@@ -11754,22 +11866,22 @@ En kort lista över kliniska manifestationer av CF:
   * sjukdomsprocess specifikt t njurarna
   * idiopatisk: ingen bra facit varför barnet drabbets;
   * DMP, MPGN
-* **Sekundär glomerulonefrit**: 
+* !! **Sekundär glomerulonefrit**: 
   * Postinfektiös glomerulonefrit: den som vi bäst känner igen
   * nefrit del av en systemsjd e.g. SLE
-  * IgA nefrit, 
+  * !! IgA nefrit, 
   * HSN: HEnoch schönlein nefrit
   * SLE
   * komplement DYSFUNKtion
   * systemisk vaskulit
   * malignitet: M Hodgkins
-* Crescent nefrit
+* **Crescent nefrit**
   * Celler bildar halvmåneform
   * Celler som destrueras och ersätts
   * fibroblaster och matrix bildas
   * Dålig progos, då kraftig inflamamtion
   * fara svår skleros
-* Segmentell skleros
+* **Segmentell skleros**
   * svår skilja crescenterna
 
 
@@ -11791,7 +11903,7 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-**Kliniska kännetecken**
+##### **Kliniska kännetecken**
 
 * **Hematuri**
 * **högt BT, hypertoni**
@@ -11802,10 +11914,10 @@ En kort lista över kliniska manifestationer av CF:
   * Akut nefritiskt syndorm: 
     * makro hematuri, 
     * cola-färgat urin, 
-    * hypertensino, 
+    * hypertension, 
     * vissa ggr tecken vätske overload och 
     * renal insufficiens
-  * Glomerulonefrit associerat med nefrotiskt syndorm
+  * !!! **Glomerulonefrit associerat med nefrotiskt syndorm**
     * mkt proteinuri
     * hyperkolesterolomi
     * ödem: kan förekomma, inte lika kraftigt som nefros?
@@ -11813,28 +11925,35 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-***Utredning och handläggning***
+##### ***Utredning och handläggning***
 
-* Status:
-  * !!! Blodtryck, BT: detta är ESSENTIELLT ATT VI MTÄER
-  * Hudstatus
-  * ..
-* Labb enl konsensus..:
-  * U-sticka, krea, C3/C4, seorlogi (för antikroppar mot strep/staf)
-* Labb
-  * Så snabbt som möjligt	
-  * Initialt: 
-    * urinanalys (sediment, RBC morfologi)
-    * Alb/krea kvot, kvantifiera proteinuri
-    * blodkemi: elektrolyter, BUN, kreatinin, serum albumin, lever enzym, kolesterol
-      * **komplement komponenter**, samt **antikroppstester (ANA, anca, aso, adb**
-      * IgA-nivåer
-  * Extra evaluering utefter anamenss
-    * HIV, HBV, HCV, HBV-serologier, för att evaluera orsaker till postinfektiös glomerulonefrit
+Status:
+* !!! Blodtryck, BT: detta är ESSENTIELLT ATT VI MÄTER
+* Hudstatus
 
 
 
-***Behandling***
+Labb enl konsensus..:
+
+* U-sticka, krea, C3/C4, seorlogi (för antikroppar mot strep/staf)
+
+
+
+Labb
+
+* Så snabbt som möjligt	
+* Initialt: 
+  * urinanalys (sediment, RBC morfologi)
+  * Alb/krea kvot, kvantifiera proteinuri
+  * blodkemi: elektrolyter, BUN, kreatinin, serum albumin, lever enzym, kolesterol
+    * **komplement komponenter**, samt **antikroppstester (ANA, anca, aso, adb**
+    * IgA-nivåer
+* Extra evaluering utefter anamenss
+  * HIV, HBV, HCV, HBV-serologier, för att evaluera orsaker till postinfektiös glomerulonefrit
+
+
+
+##### ***Behandling***
 
 * **Vätskebalans**	
   * Diuretika
@@ -11848,15 +11967,32 @@ En kort lista över kliniska manifestationer av CF:
   * ACEh, 
   * ARB
 
+#### Komplikationer
+
+**Flera viktiga komplikationer att beakta vid nefritiskt syndrom**
+
+* ARF: Acute renal failure, akut njursvikt
+* ATN: akut tubulär nekros
 
 
-#### IgA-nefrit och IgA-nefropati
+
+***Etiologi***
+
+* Förutsätter kanske IgA-komplex etc...
+
+
+
+
+
+#### IgA-nefrit
 
 
 
 ***Allmänt***
 
 * Aka bergers disease?
+* Samma som IgA-nefropati?
+* kräver LIVSLPNG UPPFÖLJNING: för att fåtal år permanent remission
 
 
 
@@ -11864,6 +12000,29 @@ En kort lista över kliniska manifestationer av CF:
 
 * Okänd etiologi
 * deponering IgA-immunkomplex i glomeruli
+* **Transplanterade patienter, risk recidiv**: risk för recidiv i transplantet, iom att man inte löst det immunologiska problemt
+
+
+
+***Riskfaktorer kronisk njursvikt, av IgA-nefrit***
+
+* **Grad proteinuri vid debut**
+* **hypertoni vid debut, samt under uppföljning**
+* **nedsatt GFR**
+* **avancerade biopsifynd:** 
+  * glomeruloskleros
+  * interstitiell fibros
+  * tubulär atrofi
+
+
+
+***Komplikationer***
+
+* ARF: akut njursvikt
+* ATN: akut tubulär nekros
+* RPGN: rapidly progressing glomerulonephritis
+
+
 
 
 
@@ -11882,6 +12041,17 @@ En kort lista över kliniska manifestationer av CF:
 * mikroskopisk hematury presenterar mellan makroskopisk hematuri
 * dåliga prognostiska tecken: mkt proteinuri + eleverad serum kreatinin. 
 * **Senare i livet, presentation**: att IgA nefropatin och nefriten presenterar senare i förloppet, inte i en patients barndom eller ungdom; 
+* **barnläkarföreningen**
+  * mikroskopisk hematuri, persisterande, asymptomatisk: 62%
+  * makroskopisk hematuri, episodvis +- proteinuri, samband infektion: 26%
+  * akut insjuk med nefritiskt ELLER nefrotiskt syndrom: 12%
+  * Hematuri före proteinuri debut
+
+
+
+***Diagnos***
+
+* För att ställa diagnos: njurbiopsi, deposition IgA-komplex
 
 
 
@@ -11894,11 +12064,31 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Behandling***
 
+* Låg risk: isolerad mikroskopisk hematiru + intermitt makroskopisk hematuri +- mikroalbuminuri, i regress
+  * ingen behandling
+  * kontroller: 1-2/år, BT, krea, u-status, u-alb/krea
+* Måttlig risk: låggradig persisterande proteinuri +- mikroskopisk hematuri
+  * RAAS-blockad: ACEh (hämmare), ARB
+    * reducera proteinuri
+    * minska risken GLOMERULOSKLEROS
+* Hög risk: påverkad u-alb/krea trots BT-beh, sänkt GFR, nefrotiskts syndrom, RPGN (rapidly progressive glomerulonephritis)
+  * Steroider: prednisolon peroralt
+  * ciklofosfamid: konsensus bfinns ej
+* Övrig behandling, moderat och högriskfall
+  * tonsillektomi: IgAN omdiskuterat, ävervägas profylaktiskt åtgärd, för att säte till infektino
+  * MMF: myofenoat-mofetil, funkar vuxna, pågående RCT i USA
+  * kombination: prednisolon, azatioprim, antikoagulans prövats
 * 
 
 
 
-#### Postinfektions-glomerulonefrit
+#### PSGN
+
+
+
+***Allmänt***
+
+* **Postinfektiös-glomerulonefrit**
 
 
 
@@ -11907,8 +12097,7 @@ En kort lista över kliniska manifestationer av CF:
 * Komplementrelaterat: deponering av glomeruli deponering av komplement komplex
 * etiologiskt
   * poststreptococcalt: detta är det vanligast förekommande
-  * andra orsaker: HIV, malariba, HCV, HBV [bör beaktas därför i utredningen av dessa]
-* 
+  * andra orsaker: HIV, malaria, HCV, HBV [bör beaktas därför i utredningen av dessa]
 
 
 

@@ -4679,20 +4679,39 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Behandling***
 
+* enl viss.nu
 * **Etrythema migrans**
   * Singelerythem: kåvepenin 10d po
-* **Multipla erythem  ELLER feber**
+* **Multipla erythem  ELLER feber (allmänåpverkan)**
   * barn över 8åå: doxy, 10d
   * barn under 8åå: amoxicillin, amimox 14d
+* **Borrelia lymofcytom**
+  * under <8åå: amoxicillin 14d
+  * över >=8åå: doxy i 14d
 * **PC-allergi**
   * doxy 10d
   * barn >8åå: doxy10d
-  * allergi cefalosporiner: azithromycin eller doxy trots <8åå
+  * allergi cefalosporiner: 
+    * under <8åå: azithromycin eller 
+    * över >=8åå: doxy 
   * risk missfärning tänder av doxy efter kotrare kurer har inte påvisats
 * **Amoxicillin, om barn inte tål smaken**
 * **Neuroborrelios**
-  * Doxycyklin verkar vara det generella behandlingsalterantivet
-  * ceftriaxon iv: kan ges till barn smo inte kan ta tabletter. 
+  * under 8åå: 
+    * ceftriaxon iv, 10d
+    * gällande **Doxycyklin**: verkar vara som att man kan ge d enl IM, att kort kur liten risk för tänder missfärgning
+  * över >=8: doxy 10d
+* **borreliaartrit, artrit**
+  * under <8åå: amoxicillin 14d
+  * över >=8åå: doxy i 14d
+
+
+
+
+
+| <img src="./imgs/sam_210421_h986YkvC55.png" alt="h986YkvC55" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 

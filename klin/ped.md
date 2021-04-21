@@ -5957,7 +5957,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 * **Efter Resistensbesked, byta till**
   * **Trimsulfa, e.g. bactrim**: obs 20% E coli är trmsulfa resistenta
   * **Amoxicillin-klavulansyra, amoxiklav**: Spectramox
-  * **Ciprofloxacin**: undantagsfall
+  * **Ciprofloxacin**: undantagsfall; halvsyntetiskt cefalosporin derivat, för oral adminstrering
 
 
 

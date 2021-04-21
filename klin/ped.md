@@ -5730,7 +5730,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * men man tar odlig innan man börjar direkt behandla
   * ***Pyelonefrit***: 10 dagars antibiotika behandling
   * ***Cystit***: 5 dagar
-  * ***Intravenöst***: kräkande barn, allmänpåverkade, ter sig uroseptiska, septiska ineldnignsvis
+  * ***Intravenöst***: kräkande barn, allmänpåverkade, ter sig uroseptiska, septiska inledningsvis
   * ***peroralt***: om barnet inte påtagligt påverkt kan man ge peroralt, väldigt bra
 
 
@@ -12943,7 +12943,7 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
-## Toxikologi
+## Toxikologi och MM
 
 ### Allmänt
 
@@ -12957,7 +12957,7 @@ Ataxic cerebral palsy is due to [...] damage.
     * analgetika: paracetamol, NSAID, ASA
     * växter: 6-7% av alla oralt intagna intoxer...
     * alkohol: etanol,
-    * hydrocarons: gasoline, paint thinner, furniture polish
+    * hydrocarbons: gasoline, paint thinner, furniture polish
     * kolmonoxid
     * förskrivna läkemedel
     
@@ -12975,99 +12975,282 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
-***Kännetecken***
+#### ***Kännetecken***
 
-* Dofter
-  * Bitter mandel: cyanid
-  * vitlök: arsenik, organofosfater
-  * aceton: salicylater, isopropyl alkogol
-  * wintergreen: metyl salicylater
-  * moth ball: camphor
-* Hud tecken
-    * Cherry red color, cherry röd: kolmonoxid, cyanid
-    * svettig: organofosfater, sympatomimetika (sympathomimetics)
-    * torr hud: antikolinergika
-    * urtikaria: allergisk reaktino
-    * grå cyanos: methemglobinemi
-* ögon
-    * miosis: opiater, phencyclidiner, organofosfater, phenothiazines
-    * mydriasis: amfetaminer, kokain, tricykliska antidepressiva, atropin
-    * nystagmus: dilantin, phencyclidine
-    * retinala blödningar: kolmonoxid, metanol
-* allmäntillstånd
-    * feber: kokain, TCA, phencyclidine, salicylater, thyroxin, antikolinergika, amfetaminer, teofyllin
-
-
-
-***Utredning och handläggning***
-
-* **Tänk på intox**: hos patienter som presenterar med icke-specifia tekcen och symptom
-  * kramper
-  * svår kräkning
-  * diarre
-  * dysrytmi
-  * förändrat sinnestillstånd, mental status
-  * abnormt beteende
-  * chock
-  * trauma
-  * icke-förklarad metabol acidos
-* **Anamnes**: fr vårdnadshavare typiskt sett identifierar intoxer
-    * **info om toxinet**: bör inkludera namnet, toxin koncentration om känt, och hur pat exponerats
-    * potentiell intox-dos räkanas fr worst-case scenario
-    * toxicitet är vanligtvis på basis av dos per kg kroppsvikt
-    * multipla ämnen eller medel hos ungdomar (adolescents)
-    * **Bakgrundsinfo**: plats där upptäckt patienten, växter, vitaminer, herbs, kemikalier hemma, tid som det skett
-    * läkemedel
-* **Status**: bör täcka allt, kan ge tecken på intoxmedel,
-* **Labb**:
-    * **screening**: glukso, u-tox, elektrolyter
-    * blodgas
-    * **anjon-gapet**: [Na - (cl + hco3)]
-    * Akuta intoxprover enligt lokala rutiner (etanol, metanol, paracetamol, aceton m m)
-    * Biologiska alkoholmarkörer vid misstanke om alkoholmissbruk (PEth, CDT)
-    * Drogscreening av narkotika i urinprov (på patienter med KAD)
-    * Riktade toxikologiska prover (urin, serum, ev hår naglar)
-    * Täta kontroller av elektrolytstatus (rutinstatus)
-    * Arteriella blodgaser med syra-basstatus (inklusive laktat, CO-Hb, Met-Hb)
-    * SvO2 och laktat vid misstanke om cyanidförgiftning eller grav hjärtsvikt
-    * B-glukos
-    * Myoglobin i serum (rabdomyolys)
-    * Hjärtenzymmarkörer vid kolmonoxidförgiftning eller EKG-förändringar eller hjärtischemi plus CO-Hb
-    * Spara och frys ett extrarör med venblod (serum) från inkomsten för kompletterande diagnostik i oklara eller mycket allvarliga fall
+* **Dofter**
+  * **Bitter mandel**: cyanid
+  * **vitlök**: arsenik, organofosfater
+  * **aceton**: salicylater, isopropyl alkogol
+  * **wintergreen**: metyl salicylater
+  * **moth ball**: camphor
+* **Hud tecken**
+  * **Cherry red color, cherry röd**: kolmonoxid, cyanid
+  * **svettig**: organofosfater, sympatomimetika (sympathomimetics)
+  * **torr hud**: antikolinergika
+  * **urtikaria**: allergisk reaktino
+  * **grå cyanos**: methemglobinemi
+* **ögon**
+  * **miosis**: opiater, phencyclidiner, organofosfater, phenothiazines
+  * **mydriasis**: amfetaminer, kokain, tricykliska antidepressiva, atropin
+  * **nystagmus**: dilantin, phencyclidine
+  * **retinala blödningar**: kolmonoxid, metanol
+* **allmäntillstånd**
+  * **feber**: kokain, TCA, phencyclidine, salicylater, thyroxin, antikolinergika, amfetaminer, teofyllin
 
 
 
-***Handläggning***
+#### ***Utredning och handläggning***
 
-* Allmänna saker att tänka på
-    * **övervaka**: vakenhet, andning
-    * **understödja**: andning, cirkulation, vb
-    * **behandla**: akut förvirring, motorisk oro på ett lugnt säkert sätt
-    * identifiera tox agens
-    * **aktiv elimination, vid indikation**: ventrikeltömning, medicinskt kol, dialysbehandling. så länge nyttan överväger riskerna
-    * antidotbehandling, vid tydlig indikation
-    * **vårdnivå**: korrket vårdnivå för att korrekt handlägga evt sänkning medvetande etc
-    * uppföljning socialtjänst + psykiatri
-* Akut omhändertagande
-    * **ABCDE**: följ denna algoritm och allt vad det leder till, med syrgas, EKG, saturation, etc
-    * **infarter**: pvk, gärna två infarter
-    * artärnål, när medvetslös, acidos, cirkpåverkan
-    * cvk, nämns internetmed
+!! **Tänk på intox**: hos patienter som presenterar med icke-specifia tekcen och symptom
+* kramper
+* svår kräkning
+* diarre
+* dysrytmi
+* förändrat sinnestillstånd, mental status
+* abnormt beteende
+* chock
+* trauma
+* icke-förklarad metabol acidos
+
+
+
+**Anamnes**: fr vårdnadshavare typiskt sett identifierar intoxer
+
+* **info om toxinet**: bör inkludera namnet, toxin koncentration om känt, och hur pat exponerats
+* potentiell intox-dos räkanas ***fr worst-case scenario***
+* toxicitet är vanligtvis på basis av dos per kg kroppsvikt
+* multipla ämnen eller medel hos ungdomar (adolescents)
+* **Bakgrundsinfo**: plats där upptäckt patienten, växter, vitaminer, herbs, kemikalier hemma, tid som det skett
+* läkemedel
+
+
+
+**Status**: bör täcka allt, kan ge tecken på intoxmedel,
+
+
+
+**Labb**:
+
+* **screening**: 
+  * glukos, 
+  * u-tox,
+  * elektrolyter
+  * blodgas
+  * anjon-gapet: [Na - (cl + hco3)]
+* **Akuta intoxprover enligt lokala rutiner** 
+  * etanol, 
+  * metanol, 
+  * paracetamol, 
+  * aceton 
+  * mm
+* **Biologiska alkoholmarkörer vid misstanke om alkoholmissbruk** (PEth, CDT)
+* **Drogscreening av narkotika i urinprov** (på patienter med KAD)
+* **Riktade toxikologiska prover** (urin, serum, ev hår naglar)
+* **Täta kontroller av elektrolytstatus** (rutinstatus)
+* **Arteriella blodgaser med syra-basstatus** (inklusive laktat, CO-Hb, Met-Hb)
+* **SvO2 och laktat** vid misstanke om 
+  * cyanidförgiftning eller 
+  * grav hjärtsvikt
+* **B-glukos**
+* **Myoglobin i serum** 
+  * (rabdomyolys)
+* **Hjärtenzymmarkörer** vid 
+  * kolmonoxidförgiftning eller 
+  * EKG-förändringar eller 
+  * hjärtischemi 
+  * plus CO-Hb
+* **Spara och frys ett extrarör med venblod** (serum) från inkomsten för kompletterande diagnostik i oklara eller mycket allvarliga fall
+
+
+
+#### ***Handläggning***
+
+***Allmänna saker att tänka på***
+
+* **övervaka**: vakenhet, andning
+* **understödja**: andning, cirkulation, vb
+* **behandla**: akut förvirring, motorisk oro på ett lugnt säkert sätt
+* identifiera tox agens
+* **aktiv elimination, vid indikation**: 
+  * ventrikeltömning, 
+  * medicinskt kol, 
+  * dialysbehandling. 
+  * så länge nyttan överväger riskerna
+* **antidotbehandling, vid tydlig indikation**
+* **vårdnivå**: korrket vårdnivå för att korrekt handlägga evt sänkning medvetande etc
+
+* **uppföljning socialtjänst + psykiatri**
+
+
+
+***Akut omhändertagande***
+
+* **Anamnes**
+  * anledning intox
+  * burkar, tablettrester
+  * flaskor
+  * suicidavsikt
+  * fråga ambulanspersonal, föräldrar, andra
+* **ABCDE**: följ denna algoritm och allt vad det leder till, med syrgas, EKG, saturation, etc
+  * andning
+  * saturation, pox
+  * AF
+  * etc
+  * lukta på patienten
+* Skador
+  * Compartmentsyndrom
+  * tryckskador
+  * urinrtention
+  * blåsdistenison
+* **infarter**: pvk, gärna två infarter
+* **artärnål**: när 
+  * medvetslös, acidos, 
+  * cirkpåverkan
+* **cvk**, nämns internetmed..
+* **Prover**
+  * Blodgas
+  * Toxprover: enl ruitin, inkluderar 
+    * blod: paracetamol, etanol,  aceton, etylenglykol, (metanol?)
+    * urin via KAD? antar om patienten är medvetslös
+* 
 
 
 
 ***Behandling***
 
-* Ventrikeltömning
-  * manuellt: endast småbarn, initialskedet
-  * ventrikelsköjning, grov sond gm munnen
-* Aktivt kol
-    * manuellt eller pipmugg
-    * deponerat (instillerat) i magen via ventrikelsond upplöst i vatten
+* **Aktivt kol, medicinsikt kol**
+  * **Tidsintervall**: inom 2h fr intag, 4h om tabletter
+  * kontraindikation
+    * intag frätande ämnen
+    * rena petroleumprodukter
+    * då ÖKAD KRÄKRISK
+    * inte heller, då binder dåligt: Litium, järn
+  * manuellt eller pipmugg
+  * deponerat (instillerat) i magen via ventrikelsond upplöst i vatten
+* **Kräksirap**
+    * undantgsvis
+    * barn efter stor mängd järnduretter
+    * kontrindikation
+        * frätande syra
+        * alkali
+        * petroleumprodutker
+        * medvetandesänkning
+        * kramprisk finns
+* **Ventrikeltömning**
+    * **Tidsintervall**: 1h fr intag flutande preparat, 2h intag tabletter
+    * **manuellt**: endast småbarn, initialskedet
+    * **ventrikelsköjning**, grov sond gm munnen
+    * **Kontraindikation**: som vid kräksirap
+    * kontakta narkosen
+* **Antidoter**
+    * paracetamol = Acetylcystein
+    * metanol = glukosetanol
+    * järn = disferal
+    * opiater = narcanti
+    * benzo = flumazenil
+    * Etanol
+* **Påskynda elimination av intaget preparat**
+    * **Ökad diures**
+    * **Dialys**
+    * **Ökad tarmpassage**
+        * järn: primperan, laxabon
 
 ### Alkoholintox
 
 
+
+***Handläggning***
+
+* Verkar inte finnas en direkt handläggning för detta
+* direkt understödjande behandling, symptomatiskt: e.g. på vitalindikation
+
+
+
+### Elolycka
+
+***Etiologi***
+
+* Skada beroende på vilken el
+
+
+
+***Komplikationer, effekter***
+
+* **Sena effekter**: (veckor till månader):
+  * **Cirkulationspåverkan**: (Raynauds fenomen, trombos i perifera/centrala blodkärl)
+  * **Nervskada**: (mono/polyneuropati, balansproblem, karpaltunnelsyndrom, motorneuronsjukdom, fintrådsneuropati)
+  * **Smärttillstånd**
+  * **Påverkan på autonoma nervsystemet**: (urinblåsa, temp/blodtrycksreglering, impotens)
+  * **Kognitiva problem**: (uppmärksamhet, närminne, koncentration, visuospatial och sensorisk-motorisk förmåga)
+  * **Postttraumatiskt stressyndrom**: (PTSD), depression, ångest
+  * **Muskel- och/eller senskada**: (muskelatrofi)
+  * **Hörselskador, tinnitus**
+  * **Katarakt**
+
+
+
+***Utredning***
+
+* EKG
+* Prover
+  * Hjärtenzymer: troponiner, kan ta 1h innan denna förhöjs!
+  * CKMB
+  * myohlobin
+  * kreatinin
+  * kalium
+  * urinprov: hematuri, myoglobinuri
+* Vid uppföljning, undersökning
+  * **Aktuella symtom**
+  * **Nerver/muskler**: 
+      * atrofi,
+      * sensibilitet,
+      * balanssinne,
+      * mät arm- och benomfång på samma punkter som i akutskedet)
+  * **Hjärt/lungstatus**: 
+      * diafragmapares)
+  * **Neurologiskt/psykiskt status**: 
+      * kognitiva problem,
+      * tecken på PTSD,
+      * depression,
+      * ångest,
+      * sömn)
+  * **Audiogram**
+  * **Nervledningshastighet**: 
+      * OBS! temperatur/vibrationströsklar kan vara patologiska trots normal neurografi talande för fintrådsneuropati)
+
+
+
+***Handläggning***
+
+* Vårdnivå
+  * Sjukhus omedelbart
+    * högspänning: över 1000V
+    * Blixnedslag
+    * lågspänning, med ström gm bålen
+    * medvetslös eller omtöcknad efter olycka
+    * brännskador
+    * tecken på nervskador
+* EKG påverkan: kardiologjour kontakt direkt
+* Påverkade myoglobiner: Nefrologjour kontakt direkt
+
+
+
+
+
+***Behandling***
+
+* Utifrpn skadebilden
+* Normalt EKG, normalt TRoponni (tar 1h för trop att höjas): nytt EKG ej nödvändigt
+* pato EKG, norm trop: nytt EKG 24h
+* ökat trop: nytt EKG efter 24h, överväg telemetri
+* Följ myoglobinhalt och njurfunktion: med 
+  * ställningstagande till forcerad diures/dialys 
+  * för att undvika njurskador
+* Följ CK 
+  * vid klinisk misstanke om muskelnekros/kompartmentsyndrom 
+  * (OBS! det kan ta 4-6 timmar innan CK är förhöjt)
+* Hjärnvila 1-2 dygn 
+  * med successiv återgång i arbete inom en vecka i okomplicerade fall
 
 
 

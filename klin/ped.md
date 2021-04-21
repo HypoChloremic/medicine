@@ -105,6 +105,35 @@ Utredning
 
 
 
+
+
+### Screening
+
+WIlsons kriterier för screening
+
+* Det sökta tillståndet bör vara ett viktigt hälsoproblem.
+* Det bör finnas en accepterad behandling för de som har sjukdomen.
+* Anläggningar för diagnos och behandling bör finnas tillgängliga.
+* Det bör finnas ett igenkännbart latent eller tidigt symptomatiskt stadium.
+* Det bör finnas ett lämpligt test eller undersökning.
+* Testet bör vara godtagbart av befolkningen.
+* Naturalförloppet för tillståndet inklusive utveckling från latent till påvisad sjukdom bör vara tillräckligt kartlagt.
+* Det bör finnas ett överenskommet regelverk för vilka som behandlas som patienter.
+* Kostnaden av att söka efter fall (inklusive diagnos och behandling av patienter som diagnostiseras) bör vara ekonomiskt balanserad i förhållande till möjliga utgifter för sjukvård överlag.
+* Sökning efter fall bör vara en fortlöpande process och inte ett "en gång för alla"-projekt.
+* Screeningprogrammet bör besvara ett känt behov.
+* Målsättningen med screening för vara bestämd från början.
+* Det bör finnas en bestämd målpopulation.
+* Det bör finnas vetenskaplig evidens för att screeningprogrammet är effektivt.
+* Programmet bör integrera utbildning, provtagning, kliniska tjänster och programförvaltning.
+* Det bör finnas kvalitetssäkring, med mekanismer för att minimera potentiella risker med screening.
+* Programmet bör säkerställa informerade val, sekretess och respekt för autonomi.
+* Programmet bör främja rättvis fördelning och tillgång till screening för hela målpopulationen.
+* Programutvärdering bör planeras från början.
+* Fördelarna av screening bör överväga skadan.
+
+
+
 ### Undersökning
 
 #### ABCDE
@@ -6375,7 +6404,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 #### Mässling
 
-***Presentation***
+##### Presentation
 
 * A 29-year-old Maltese man 
   * without a significant past medical history presented with a 4-day history of intermittent fever associated with chills and rigours, nausea and multiple episodes of vomiting. A generalised maculopapular pruritic rash developed on the second day and he was sent to hospital for further investigation. On general examination the patient was haemodynamically stable with a temperature of 38°C. An exanthematous maculopapular rash was evident over the face, trunk and lower limbs including the soles of the feet ([figure 1](https://casereports.bmj.com/content/13/2/e232408.full#F1)). No Koplik spots were found. On examination there was tenderness in the right upper quadrant of his abdomen
@@ -6419,21 +6448,23 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
-
+##### Allmänt
 
 ***Etiologi och patofysiologi***
 
-* ***Viruset, paramyxovirus***
-* ***Encefalit***: detta är det man är rädd för 
-* ***Försvagat immunförsvaret***: slår ut B-minnesceller, och 11-74% av antikroppar
-  * ***Alltsp***: slår ut minnes B-celllinjer som byggs upp vid tidigare exponering för patogen
-  * ***Förklarar***: tidigare observerad långvarig immun amnesi
-  * ***Reducerar antikroppsrepertoiren***: iom minnes B-celler attackeras, får reduceras repertoiren antirkoppar available
-  * ***Mässlingvaccin användning***: kopplat t lägre dödlighet i andra sjukdomar, med 30-40% LIC
-  * ***Ökad dödlighet andra sjukdomar***: 2-3 år efter infektion
-* ***Mässling aka rubeola eller 10-dagars mässling***: (i kontrast till rubella 3-dagars mässling) och orsakas av RNA-virus av paramyxoviridae familj
-* ***Neonatal mässling ovanligt av antikroppar***: det verkar som att mödrar har antikroppar mot mässling redan som förs över till barnet 
-* ***Vitamin A brist:*** Enl publikationer PMID11869601, är vitamin A briust en riskfaktore för att utveckla mässling. 
+* **Viruset, paramyxovirus**
+* **Encefalit**: detta är det man är rädd för 
+* **Försvagat immunförsvaret**: slår ut B-minnesceller, och 11-74% av antikroppar
+  * **Alltsp**: slår ut minnes B-celllinjer som byggs upp vid tidigare exponering för patogen
+  * **Förklarar**: tidigare observerad långvarig immun amnesi
+  * **Reducerar antikroppsrepertoiren**: iom minnes B-celler attackeras, får reduceras repertoiren antirkoppar available
+  * **Mässlingvaccin användning**: kopplat t lägre dödlighet i andra sjukdomar, med 30-40% LIC
+  * **Ökad dödlighet andra sjukdomar**: 2-3 år efter infektion
+* **Mässling aka rubeola eller 10-dagars mässling**: (i kontrast till rubella 3-dagars mässling) och orsakas av RNA-virus av paramyxoviridae familj
+* **Neonatal mässling ovanligt av antikroppar**: det verkar som att mödrar har antikroppar mot mässling redan som förs över till barnet 
+* **Vitamin A brist:** Enl publikationer PMID11869601, är vitamin A briust en riskfaktore för att utveckla mässling. 
+* **Inkubationstid**: 8-12d
+* 
 
 
 
@@ -7067,11 +7098,28 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 ***Behandling***
 
 * ***Steroider***: prednisolon (vuxen 1-2mg/kg x 1 peroralt), vid mistanke ITP
+
 * ***inj gammaglobuliner (aka IvIG)***: många b lödningar, använder injektion gammaglobuliner för ***snabb effekt***. 
   * e.g. 1.5åå + näsblödningar + benäget att slå sig = behandling med gammaglobuliner.'
   * e.g. 14åå patient + som inte jätte aktiv = prednisolonkur istället
+  
 * // **trombocytkoncentrat**: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
+
 * !!! ***Behandlingstrappa:*** Föreläsare nämnde behandlingstrappa som missades?
+
+* **Spelenektomi**: 
+
+  * **indikation**: 
+    * livshotande intrakraniell blödning
+    * ITP medför stor påverkan livskvalite, där remission inte lyckats
+  * leder t normalisering trombocyter, 80%
+  * **inför splenektomi**: preoperativ blödningsprofylax: ivig, kombination kortikosteroid
+
+* **Allmänna rekmmendationer**
+
+  * 
+
+  
 
 ### Leukemi
 
@@ -9582,12 +9630,12 @@ En kort lista över kliniska manifestationer av CF:
 ***Presentation***
 
 * **Du är ny underläkare på en barnklinik och går BB rond. En mamma till ett 1 dygn gammalt fullgånget, hittills friskt barn meddelar att hon ogärna vill ta det s.k. PKU provet. Hon har många funderingar. Hon ställer flera frågor som du skall svara övertygande på för att hon skall ta provet på sitt barn.** **Vad svarar du henne på de två första frågorna?** 
-  * Vad är det för typ av sjukdomar man undersöker? Ange minst 2 grupper
+  * **Vad är det för typ av sjukdomar man undersöker? Ange minst 2 grupper**
     * Metabola sjukdomar
     * Endokrina sjukdomar
-  * Varför kan man inte vänta t sjukdomssymptomen dyker upp och diagnosticera och åtgärda dem då
+  * **Varför kan man inte vänta t sjukdomssymptomen dyker upp och diagnosticera och åtgärda dem då**
     * Man vill inte vänta då de kan göra permanenta organskador. Tidig upptäckt ger bättre prognos
-  * Ange dessutom 2 kriterier för att en sjd ska få vara del av screeningprogrammet, förutom svaret i fråga b
+  * **Ange dessutom 2 kriterier för att en sjd ska få vara del av screeningprogrammet, förutom svaret i fråga b**
     * Behandlingsbar
     * Testet ska vara sensitivit: ska fånga mmånga, cutoff så man fångar alla, acceptabelt med många falskpositiva
     * Ska finnas behandling
@@ -9598,9 +9646,143 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-***Utredning***
+***Allmänt***
 
-* 
+* PKU provet
+
+
+
+***Metod PKU provet***
+
+* Så snart som möjligt inom 
+* tid: inom 48h
+* blodprov droppas speciellt filterpapper
+
+
+
+***Indikation***
+
+* Alla nyfldda, inom 48h
+* alla invandrarbarn under 18åå erbjuds
+* adoptivbarn, invandrarbarn 0-8åå bör provtas
+
+
+
+***Sjukdomarna***
+
+* 25 sjukdomar
+* Endokrina sjukdomar
+  * Kongenitel hypothyreos: medfödd brist, 
+  * CAH: kongenital binjurebarkshyperplasi; ärftlig nesättnign bildning kortisol och aldosteron
+    * flickor missbildade yttre könsorgan, 
+    * pojkar går in i tidig pubertet
+    * svåra formen: salfrörlust, akut sjuka, tredje levnadsveckan
+    * utan behandling
+      * flickor viriliseras: ökad bildning manlig könshormon
+      * pojkar, flickor, kortare slutlängd
+    * behandlas binjurebarkshormon
+* Metabolismen
+  * Fettsyror, och längd
+    * MCAD brist
+    * LCHAD
+    * VLCAD
+  * karnitin: CPT1, CACT, CVPT2, CUD
+* Organiska acid-urier
+  * IVA,
+  * proprionsyrauri
+  * MMA, metylmalonylsyrauri
+  * Glutarsyrauri
+  * MAD: multipel acyl-CoA dehydrogenasbrist
+  * BKT
+* Urea cykel, fel
+  * CIT, citrullinemi
+  * arginiosyccinatylsyra brist
+  * arginasbrist
+* andra fel omsättning aminosyro
+  * PKU
+  * MSUD: maple syrup uine isease. fel nedbrhytning aminosyror leucin, isoleucin, valin
+  * tyrosinemi TYR1
+  * Homocysteinuri: fel nedbrytning homocystein, lika mutationer. drabbas linslosning, akut synnedäsättning ena ögat. försenad utveckling, skelettpåverkad, svarar bra med pyrodixin behandling. 
+* andra brister
+  * BIOT
+  * Galaktosemi: brist galaktas.. , insjuk när mat med galaktos som bröstmjölk eller ersättning. första symptom inom första 10levnadsdagarna, kräknignar, viktedngång, slöhet, gulsot
+  * SCID: ansamlingsnamn grupp ärftlgia sjd. saknar viss antikroppar, T-cekker. kan stamcellstranslanteras tidigt
+
+
+
+### PKU
+
+
+
+#### ***Presentation***
+
+* We report a 19-year-old man with mild form of phenylketonuria. The diagnosis was first made when he was examined for the tremor at 19 years of age. He had not received the Guthrie's screening test for phenylketonuria in infancy. His development of speech and walking was almost normal. Action and positional tremor developed at two years of age, and psychomotor deterioration at five years. His intelligence was of borderline, and he entered the special class for the mentally retarded at elementary school and junior high school. His skin and iris were less pigmented than those of Japanese young adults, and his hair was rather reddish. He had mild action tremor. He showed mild mental retardation, and the WAIS was 46 in PIQ, 70 in VIQ and 53 in total IQ. T2-weighted MRI of the brain showed high signal of the deep white matter around the posterior conus of the lateral ventricles. EEG showed paroxysmal abnormalities. Serum aminogram disclosed a marked elevation of phenylalanine. Analyses of pteridine in the serum and urine disclosed a low ratio of neopterine/biopterine. An assay of the dehydropteridine reductase in erythrocytes was normal. These laboratory data indicated that his condition was caused by a deficiency of phenylalanine hydroxylase deficiency.
+* 6åå pojke
+  * Malay boy was referred to Hospital Universiti Sains Malaysia (HUSM) in January 1988 with the problem of aggressive behaviour and developmental delay. He was born in Mecca, Saudi Arabia after an uneventful pregnancy. 
+  * His mother noticed at the age of three months that her child was rather quiet and could not hold his head up. He rolled over at eight months, sat without support at twenty months, walked at two years and talked with meaning at three years of age. 
+  * At about one year old the mother noticed that his normal black hair gradually changed to light brown. There was no history of light hair on both parental sides. The child also had no history of fits or skin rashes. The parents were first cousins and one of the maternal grandfathers was mentally retarded. All their relatives were ethnic Malays
+
+#### ***Allmänt***
+
+* Fenyl-keton-uri
+
+
+
+***Etiologi***
+
+* Kan inte omsätta fenylalanin (aminosyra)
+* **PAH, genen, fenylalaninhydroxylas**: kromosm 12, mall för fenyl-alanin-hydroxylas
+* **äter stora proteiner, fenylalanain**, bryts ned t aminosyror som fenylalanin
+* **fenylalanin, tyrosin**: 
+  * bryts normalt t tyrosin 
+  * av fenylalanin hydroxalas, 
+  * o viktigt för katekolaminer o melanin
+* **Fenylketoner**: 
+  * när kan ej bryta ned fenylalanin
+  * om man inte kan bryta ned den -> fenylketoner, varpå man får fenylketonuri
+
+
+
+***Kännetecken***
+
+* **Svårighetsgrad**: beroende på mutationer av PAH genen
+  * en del har en kvarvarande förmåga att metabolisera fenylalanin
+* **efter 6mån-1åå**: kan symptomen börja visa sig
+* **urin, luktar konstigt**: fenylketonuri, att fenyl-ketoner finns i urinen ändrar doften
+* **Utvecklingsförsening och störning**
+  * beteendeavvikelser
+  * psykiska symptom
+  * svår intellektuell funktionsnedättning
+* **svårbehandlad epilepsi**: i det lågnga taget, om obehandlad
+* **Diagnos hos äldre**,
+  * symptomen varierar mkt, fr lindrig t svår
+* **nedsatt kognitiv förmåga**: abstrakt teoretiskt tänkande, påverkar hur de lär sig, planerar utför uppgifter
+* **kommunikationssvårigheter**
+* **motorik också**
+
+
+
+***Behandling***
+
+* Inte belasta med fenylalanin: proteinfattig kost samt 
+
+* tillräckligt av andra aminosyror utan fenylalanin
+
+* vitamin o mineralier
+
+* BH4
+
+* behandlingskontroller: 
+* fenylalanin 150-350 mikroM
+*  p-aminosyror: man följer aminosyrorna hos patienten. 
+*  livslång beh
+* ormal utv vid bra beh
+
+
+
+| <img src="./lectures/ped_lec/imgs/klingen_2_i8wSjjL4cf.png" alt="i8wSjjL4cf" style="zoom: 33%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -13363,20 +13545,20 @@ Ataxic cerebral palsy is due to [...] damage.
     * EKG
     * S-paracetamol
     * Blodstatus (Hb, LPK, TPK)
-    * Leverstatus (ASAT, ALAT)
+    * !! **Leverstatus (ASAT, ALAT)**
     * Koagulationsstatus (PK-INR, aPTT)
     * Elektrolytstatus
     * P-glukos
     * S-amylas
     * Venös eller arteriell blodgas (blodlaktat kan vara förhöjt vid allvarlig förgiftning)
 * **Monitorering**
-    * Daglig och v b uppföljning av:
+    * **Daglig och vb uppföljning av:**
         * Leverstatus (ASAT + ALAT + PK-INR)
         * Elektrolytstatus
         * Syra-bas inklusive blodlaktat (4-5)
         * Koagulationsstatus
         * Vätske- och elektrolytbalans
-    * P g a risken för blandintoxikation skall ALLA intoxikationer monitoreras initialt med avseende på vitalparametrarna:
+    * **P g a risken för blandintoxikation skall ALLA intoxikationer monitoreras initialt med avseende på vitalparametrarna**:
         * Andning
         * Cirkulation
         * Vakenhet

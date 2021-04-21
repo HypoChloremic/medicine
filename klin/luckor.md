@@ -71,3 +71,5 @@ beroende på hur akut detta är
 * Göra lagren man går igenom
 
 * Nabothis körtlar och lägga in corpus luteum fallet.
+
+* Göra antibiotika och vad de täcker, tänk på UVI och pivmecilinam vs nitrofurantoin

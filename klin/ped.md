@@ -5729,27 +5729,6 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-#### Cystit
-
-
-
-***Etiologi***
-
-* Kom ihåg att om barnet är under 2åå ska den behandlas och handläggas som en pyelonefrit
-
-
-
-***Kännetecken***
-
-* ***Feber***: under 38.5
-* ***Flank smärta***: utan
-* *Dysuri*: med
-* ***CRP***: under 20mg/l
-* ***ESR***: under 25
-* ***urin osmolalitet***: normal
-
-
-
 #### !! HUS 
 
 ***Presentation***
@@ -5856,7 +5835,189 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-#### Pyelonefrit
+#### UVI
+
+
+
+##### Basutredning
+
+* **Anamnes**
+  * **Feber**
+    * över eller under 38.5 (diffa cystit vs pyelonefrit)
+    * duration
+  * **Miktionsanamnes**
+    * blöja eller inte blöja
+    * krysta när den kissar
+    * hur stark stråle
+  * **Hereditet**
+    * UVI
+    * njuravvikelser
+    * urinvägsavvikelser
+    * blåsdysfunktion
+  * **Dålig stråle**
+    * e.g. urtravalvel hos pojkar
+    * Spina bifida?
+  * **Tonåringar**: 
+    * Sexualanamnes
+    * STD
+* **Riktat statys**
+  * **Yttre genitala**: Kan visa sig vara en balanit på pojkar exempelvis som gör ont
+  * **Rygg**: 
+    * uteslut avvikelser medellinjen
+    * spina bifida, som kan ge blåsdysfunktion, påverkad stråle
+  * **Bukpalpation**
+    * **resistens**: förstorade njurar eventuellt
+    * !! **förstoppning**
+  * vikt är viktigt
+  * BT
+  * längd önskvärt
+* **Provtagning**
+  * **Urinprov för odling**
+    * **BLåspunktion**: under 1åå,  eftersträvas
+    * **Mittstråleprov**: korrekt provtatgning efter tvätt och torkning
+      * 2 urinodlingar fr olika miktioner ger säkrare odling
+      * om nitritpos flickor: räcker 1 mittstråleprov odling
+    * **kateterprov**: övervägas om urinprov svårt på annat sätt
+    * **påsprov, prov fr påse, eller binda: används EJ FÖR ODLING**
+  * **Urinstatus**
+    * **Nitrit**: 
+      * **positiv hos flickor = bakteriuri**
+      * **falskt pos vid**
+        * makroskopisk hematuri 
+        * pojkar, förhudsflora
+      * neg nitrit 50% barn med bakteriuri
+    * **U-LPK**: 
+      * positivt: stödjer UVI diagnon
+      * kan falskpos
+      * negativ: talar emot UVI, MEN utesluter INTE
+    * **urinmikroskopi**: inte tradition i Sverige, men alterantiv till u-sticka
+  * **Blodprov**
+    * **CRP**:
+      * nivådiagnostik
+      * riskbedömning
+      * styr vidare utredning
+      * **upprepas efter 1d om**: antagligen för att CRP stegring har en försening
+        * feberduration mindre 1d och 
+        * första prov under 70mg/L
+    * **S-krea, +- Cystatin C**: bedömning njurfunktion
+      * lågt GFR för ålder
+        * under 1åå: över 30mikroM
+        * 1-2åå: över 40mikroM
+      * Schwartz formel el Cystatin C för skattning njurfunktion
+    * **Blododling + P-Na, svårt sjuka barn**
+
+
+
+
+
+| <img src="./imgs/sam_210421_lnQidXO2bA.png" alt="lnQidXO2bA" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ---- |
+|                                                              |      |
+
+
+
+
+
+##### Behandling
+
+Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
+
+***Barn över 2åå, UVI utan misstänkt njurangagemang***
+
+* 5 dagars behandling
+
+
+
+**Övriga UVI**
+
+* 10d behandling
+
+
+
+**15-18åå**
+
+* kan handläggas på vårdcentral
+
+
+
+***Afebril UVI <u>< 2åå</u> + febril UVI (alla åldrar?)***
+
+* **Empirisk behandling (innan odlingssvar alltså?)**: behandling ska påbörjas innan resistensbesked föreligger
+  * **Flesta per os, po**
+    * **1a hand** **ceftibuten** ELLER **cefixime**
+    * 2a hand: **ceftriaxon** (cefalosporin)
+  * **Intravenös behandling**
+    * allmänpåverkan / sepsis
+    * barn ej kan behålla po: kräkningar
+    * känd allvarlig urinvägsmissbildning
+    * LKM
+      * 1a hand Cefotaxim
+      * 2a hand Ceftriaxon
+      * **Terapisvikt under cefotaxim**: tillägg ampicillin (doktacillin), verksamt mot **enterokocker**
+* **Efter Resistensbesked, byta till**
+  * **Trimsulfa, e.g. bactrim**: obs 20% E coli är trmsulfa resistenta
+  * **Amoxicillin-klavulansyra, amoxiklav**: Spectramox
+  * **Ciprofloxacin**: undantagsfall
+
+
+
+***Afebril UVI >2åå***
+
+* **Empirisk behandling (innan resistensbesked alltså)**
+  * **Nitrofurantoin**
+  * **Cefodraxil**
+* **Odlingssvar och resistensen**
+  * **Trimetoprim**
+  * **Pivmecillinam**: verkar som att man behöver resistenssvar för pivmecillinam
+
+
+
+***Profylax***
+
+* barn som inte avskrivs efter första UVI. kan erbjudas profylax tills utredning klar
+* Indikation
+  * dilatation, patologisk avvikelse UL, väntan vidare utredning
+  * recidiverande febrila UVIer
+  * dilaterad reflux
+  * recidiverande cystiter under pågående blåsträning
+* Preparat
+  * Nitrofurantoin
+  * Trimetroprim
+
+
+
+
+
+##### Cystit
+
+***Presentation***
+
+* 10åå pojke
+  * Kommer in med dysuri
+  * U-sticka ful, nitrit ej positiv
+  * Vad är hans behandlingslängd: 
+    * 5d (då ingen njurengagemang)
+
+
+
+
+
+***Etiologi***
+
+* Kom ihåg att om barnet är under 2åå ska den behandlas och handläggas som en pyelonefrit
+
+
+
+***Kännetecken***
+
+* ***Feber***: under 38.5
+* ***Ingen, flank smärta***: 
+* **med Dysuri**: 
+* ***CRP under 20mg/l***
+* ***ESR (erythrocyte sedimentation rate)***: under 25
+* ***urin osmolalitet, normal***: normal
+
+##### Pyelonefrit
 
 ***Presentation***
 
@@ -5878,6 +6039,13 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 * 6 månader gammal flicka med feber i två dygn. Enstaka kräkning men ingen diarre. Inga fokala eller respiratoriska symtom. Ganska grinig o gnällig. Ingen epidemiologi för infektionssjukdom i omgivningen. Status: Febril 39.0. Ingen nackstel. Kapillär återfyllnad normal. Hjärta lungor ua. Buk ua.  LgLL ua. Hud: inget utslag. Lab CRP 180 mg/ml, Blodstatus: leukocytos med neutrofiler 13,5x109/l, Urinsticka: Leukocyter 3+, erytrocyter 3+, protein 1+, glukos 0. 
   * Diagnos? Vidare provtagning?
   * Pyelonefrit
+* 9 månader. pojke
+  * Feber sedan två dagar, inget känt infektionsfokus. u-sticka positiv för LPK, ERY, 
+* 15 månader pojke
+  * feber sedan 8 timmar, CRP 40, och ful u-sticka
+  * vilket prov måste man ta om efter 24h: 
+    * CRP
+    * för att det är för tidigt med enbart 8h, då CRP potentiellt inte hunnti stiga, samt att CRP är under 70 vilket innebär att vi inte vet mo den stigit beyond den gränsen 
 
 
 
@@ -5970,15 +6138,15 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Diffa mot cystit, hos ÄLDRE barn***
 
-| Symptom      | Pyelonefrit                                | Cystit       |
-| ------------ | ------------------------------------------ | ------------ |
-| feber        | över 38.5                                  | UNDER 38.5   |
-| Flanksmärta  | +-                                         | -            |
-| Dysuri       | +-                                         | +            |
-| CRP          | över 20mg/L                                | under 20mg/L |
-| ESR          | över 25                                    | under 25     |
-| urinosmol    | REDUCERAD <br />(kan ej koncentrera urin?) | normal       |
-| minirin test |                                            | temporärt    |
+| Symptom      | Pyelonefrit                                | Cystit             |
+| ------------ | ------------------------------------------ | ------------------ |
+| feber        | över 38.5                                  | **!!! UNDER** 38.5 |
+| Flanksmärta  | +-                                         | -                  |
+| Dysuri       | +-                                         | +                  |
+| CRP          | över 20mg/L                                | under 20mg/L       |
+| ESR          | över 25                                    | under 25           |
+| urinosmol    | REDUCERAD <br />(kan ej koncentrera urin?) | normal             |
+| minirin test |                                            | temporärt          |
 
 
 
@@ -11782,6 +11950,51 @@ En kort lista över kliniska manifestationer av CF:
 * **På barnläkarmottagningen träffar du 8 månader gamla Oskar. Han är remitterad från BVC för kontroll av testiklarna som inte varit på plats i skrotum vid 6 månadskontrollen. Du konstaterar vid dagens besök att höger testikel kan ”mjölkas” ner i skrotum, men att testikeln omedelbart åker tillbaka upp i buken när du släpper den. Vänster testikel kan du inte finna. Vilka två diagnoser misstänker du avseende statusfyndet i testiklarna på respektive sida? (2 p)** 
   * Höger testikel = RETRAKTil testikel
   * Vänster testikel = Retenerad testikel, retentio testis
+
+
+
+### Uretravalvel
+
+***Etiologi***
+
+* endast pojkar
+* Defekt i urinvägarna?
+* medfödd slemhinnedefekt i urinröret
+* hiindrar urin helt eller delvis komma ut, när pojke kissar
+
+
+
+
+
+***Kliniska kännetecken***
+
+* Dålig stråle
+* krystar när den kissar
+* ibland inkontinens första symptom
+* ibland urinvägsinfektion uvi första symptom
+
+
+
+***Utredning***
+
+* UL-graviditete: uttalad uretravalvel upptäcker man tidigt på ultraljudet under graviditet
+* anamnes
+  * krysta när kiss
+  * svag stråle eller som kanon
+* Basutredning
+  * Upptäcks hydronefros på UL-njure, ska man utesluta reflux urin, och uretravalvel
+  * UL
+  * MUC: miktions-uretro-cystografi
+  * MAG:3, efter 1månaders ålder
+
+
+
+### Vesikouretral reflux
+
+***Etiologi***
+
+* **Vid blåstömning, reflux**: återflöde urin t urinledare eller njurbäcken
+* **beror försämrad ventilmekanism övergång ureter och blåsa**: vid ostiet
 
 ### Wilms tumör
 

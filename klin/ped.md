@@ -5760,7 +5760,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 * **bakteriens endotoxin**: denna orsakar symptomen
 
-* **doppsmitta**: hsotattacker
+* **doppsmitta**: hostattacker
 
 * **Väldigt smittsamt**: minskar successivt över 6v efter debut
 
@@ -11986,7 +11986,28 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Andningsstörning
+
+
+
+#### Allmänt
+
+***Etiologi och patofysiologi***
+
+* Andningsstöring är en av de vanligate orsakerna till att ett nyfött barn behöver vårda på NEO
+* **Fördröjd resorption av lungvätska**: leder till NAS och PAS..
+
+
+
 #### MAS
+
+***Mekonium aspirations syndrom***
+
+
+
+***Kännetecken***
+
+* 
 
 
 
@@ -11996,13 +12017,50 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+***Kännetecken***
+
+* Transient takypne of the newborn, TTN
+* Snabbt övergående / mild PAS
+
+
+
+***Handläggning***
+
+* Exspektans..
+
+
+
+
+
 
 
 #### PAS
 
 
 
+***Kännetecken***
 
+* Gruntning
+* indragnignar
+* vätska
+* lätt prematura till fullgångna barn
+* Effektiv sectio riskfaktor
+
+
+
+
+
+***Riskfaktor***
+
+* Prematuritet
+* 
+
+
+
+***Handläggning***
+
+* CPAP
+* överväg infektion
 
 
 

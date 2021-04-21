@@ -4120,31 +4120,6 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-### Borrelia
-
-***Presentation***
-
-* **Fästingburna infektioner hos barn är vanligt under sommar och höstmånaderna i Sverige. Vilket påstående om denna typ av infektioner är mest korrekt?**
-  * Perifer facialispares är ett vanligt symptom på neuroborrelios hos barn och fyndet bör föranledda lumbalpunktion för att verifiera diagnosen.
-  * Fel alternativ inkluderade: 
-* **Du arbetar som jour en septemberkväll och träffar då Erik 9 år, som söker på grund av huvudvärk. Hans mamma berättar att han klagat över huvudvärk i en veckas tid men att han gått i skolan fram till för 2 dagar sedan. Han har haft lite lätt tempstegring kring 38 – 38,5 C. I status noterar du att Erik har lite svårt att stänga vänstra ögat och att vänstra mungipan hänger ned lite då du försöker få honom att skratta. I övrigt inget avvikande i status. Blodprov visar CRP 16, Leukocyter 7,0 x 10 /l (referens 4 - 9 x 10 /l) med normal diff, trombocyter 260 x 10 /l (ref 150 – 400 10 /l), Hb 118 g/l.** 
-  * **Vilken diagnos är mest vanlig och sannolik med ovanstående beskrivning och vilken fråga är viktigt för att komplettera anamnesen**
-    * Borrelia, fästingbett, erythema migrans
-  * **Med vilket specifikt prov ska du säkerställa diagnos**
-    * LP
-  * **Hur vill du behandla Erik om din misstanke bekräftas med provtagning**
-    * Doxycyklin
-
-
-
-***Behandling***
-
-* Neuroborrelios
-  * Doxycyklin verkar vara det generella behandlingsalterantivet
-  * ceftriaxon iv: kan ges till barn smo inte kan ta tabletter. 
-
-
-
 ### CNS
 
 ***Presentation***
@@ -4641,6 +4616,54 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 | <img src="./imgs/sam_180421_zFLYT81h4q.png" alt="zFLYT81h4q" style="zoom:50%;" /> | <img src="./imgs/sam_180421_nOtbdcw2q0.png" alt="nOtbdcw2q0" style="zoom:50%;" /> |      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 |                                                              |                                                              |      |
+
+
+
+### Fästingburna sjukdomar
+
+#### Borrelia
+
+***Presentation***
+
+* **Fästingburna infektioner hos barn är vanligt under sommar och höstmånaderna i Sverige. Vilket påstående om denna typ av infektioner är mest korrekt?**
+  * Perifer facialispares är ett vanligt symptom på neuroborrelios hos barn och fyndet bör föranledda lumbalpunktion för att verifiera diagnosen.
+  * Fel alternativ inkluderade: 
+* **Du arbetar som jour en septemberkväll och träffar då Erik 9 år, som söker på grund av huvudvärk. Hans mamma berättar att han klagat över huvudvärk i en veckas tid men att han gått i skolan fram till för 2 dagar sedan. Han har haft lite lätt tempstegring kring 38 – 38,5 C. I status noterar du att Erik har lite svårt att stänga vänstra ögat och att vänstra mungipan hänger ned lite då du försöker få honom att skratta. I övrigt inget avvikande i status. Blodprov visar CRP 16, Leukocyter 7,0 x 10 /l (referens 4 - 9 x 10 /l) med normal diff, trombocyter 260 x 10 /l (ref 150 – 400 10 /l), Hb 118 g/l.** 
+  * **Vilken diagnos är mest vanlig och sannolik med ovanstående beskrivning och vilken fråga är viktigt för att komplettera anamnesen**
+    * Borrelia, fästingbett, erythema migrans
+  * **Med vilket specifikt prov ska du säkerställa diagnos**
+    * LP
+  * **Hur vill du behandla Erik om din misstanke bekräftas med provtagning**
+    * Doxycyklin
+
+
+
+***Kännetecken***
+
+* Erythema migrans: kommer efter 2-4v..
+
+
+
+***Behandling***
+
+* Neuroborrelios
+  * Doxycyklin verkar vara det generella behandlingsalterantivet
+  * ceftriaxon iv: kan ges till barn smo inte kan ta tabletter. 
+
+
+
+#### TBE
+
+***Presentation***
+
+* Fästingburna infektioner hos barn är vanligt under sommar och höstmånaderna i Sverige. Vilket påstående om denna typ av infektioner är mest korrekt? 
+  * TBE verifieras i rutinfallet med antikroppsbestämning i blod. Vaccin mot TBE ingår sedan 2019 i det allmänna svenska vaccinationsprogrammet 
+  * Perifer facialispares är ett vanligt symptom på neuroborrelios hos barn och fyndet bör föranledda lumbalpunktion för att verifiera diagnosen. 
+  * TBE förekommer mycket sällan före 15 års ålder. TBE kan ge bestående neurologiska symptom. 
+  * För att diagnostisera kutan borrelia tas borreliaserologi. Kutan borrelia behandlas med penicillin 
+  * Barn med neuroborrelios behandlas med ceftriaxon alternativt doxycyklin beroende på barnets ålder. På marknaden finns ett vaccin mot borrelia som inte ingår i det allmänna svenska vaccinationsprogrammet 
+
+
 
 
 
@@ -6627,17 +6650,6 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
-#### TBE
-
-***Presentation***
-
-* Fästingburna infektioner hos barn är vanligt under sommar och höstmånaderna i Sverige. Vilket påstående om denna typ av infektioner är mest korrekt? 
-    * TBE verifieras i rutinfallet med antikroppsbestämning i blod. Vaccin mot TBE ingår sedan 2019 i det allmänna svenska vaccinationsprogrammet 
-    * Perifer facialispares är ett vanligt symptom på neuroborrelios hos barn och fyndet bör föranledda lumbalpunktion för att verifiera diagnosen. 
-    * TBE förekommer mycket sällan före 15 års ålder. TBE kan ge bestående neurologiska symptom. 
-    * För att diagnostisera kutan borrelia tas borreliaserologi. Kutan borrelia behandlas med penicillin 
-    * Barn med neuroborrelios behandlas med ceftriaxon alternativt doxycyklin beroende på barnets ålder. På marknaden finns ett vaccin mot borrelia som inte ingår i det allmänna svenska vaccinationsprogrammet 
-
 
 
 ### Vaccinationer
@@ -6774,6 +6786,142 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * högläge a
   * avsvällande terapi
   * ev ny bedömning efter 1-3d
+
+
+
+#### Mononukleos
+
+***Presentation***
+
+* 17-åring man 
+  * söker akut på grund av feber och väldigt ont i halsen sedan 4 dagar.  
+  * Han får nästan inte i sig något att äta eller dricka.  
+  * Det har blivit värre och värre, hans röst har blivit förändrad.  
+  * Status: Trött och hängig, grötigt tal. 
+  * Mun och svalg: Mycket stora tonsiller med beläggningar, lite såriga. Hals: Stora körtlar i käkvinklarna , på halsen och supraclavikulärt.  
+  * Vilken är den mest sannolika diagnosen? 
+  * Körtelfeber 
+  * Tandorsakad infektion med flegmone i svalget. 
+* 17åå man 
+    * söker akut på grund av feber och väldigt ont i halsen sedan 4 dagar. Han får nästan inte i sig något att äta eller dricka. Det har blivit värre och värre, hans röst har blivit förändrad.  
+    * Status: Trött och hängig, grötigt tal. 
+    * Mun och svalg: Mycket stora tonsiller med beläggningar, lite såriga.  
+    * Hals: Stora körtlar i käkvinklarna , på halsen och supraclavikulärt.  
+    * Sannolik diagnos 
+    * körtelfeber 
+    * fel alternativ: halsfluss, halsböld 
+* 21åå kvinna 
+    * väsentligen frisk. Sjuknade för 8 dagar sedan med ont i halsen som sedan stadigt förvärrats. Svårt nutriera sig per os. Strep A test på vårdcentral för 6 dagar sedan negativt. På grund av försämring sedan dess fick hon ändå penicillin V (fenoximetylpenicillin) utskrivet för 4 dagar sedan. Ingen effekt av behandlingen. Nu remitterad vidare till ÖNH-akuten. Föregående natt haft svårt att andas, har behövt sitta upp i sängen. CRP 173 (enhet: mg/L; referensintervall <3), LPK 12 (enhet: 109/L; referensintervall 3,5-8,8). Status AT: trött och matt. MoS: Bilateralt förstorade tonsiller med grågula beläggningar, ingen tydlig peritonsillär buktning. Fiberskopi: Epifarynx gula beläggningar, tungbas och epiglottis samt larynx ua.  
+    * Vilket prov/prover är mest ändamålsenliga att göra härnäst? 
+    * 2.Mononukleostest  
+* 17åå man 
+    * söker akut på grund av feber och väldigt ont i halsen sedan 4 dagar. Han får nästan inte i sig något att äta eller dricka. Det har blivit värre och värre, hans röst har blivit förändrad.  
+    * Status: Trött och hängig, grötigt tal. 
+    * Mun och svalg: Mycket stora tonsiller med beläggningar, lite såriga. Hals: Stora körtlar i käkvinklarna , på halsen och supraclavikulärt.  
+    * Vilken är den mest sannolika diagnosen? 
+    * Körtelfeber 
+
+
+
+
+
+***Patofysiologi och etiologi***
+* EBV virus 
+* **Inkubatiosntid**: 30-50 dagar 
+* självbegränsande 
+* **duration**: 2-3 veckor plus konvalscensperiod, som varierar 
+* komplikationer 
+* !! **autoimmun hemolytisk anemi**  
+* !! **trombocytiopeni** 
+* **mjältruptur**: ovanlig men dramatisk komplikation 
+* **neurologiskt**: sällsynt med encefalit eller cerebellit 
+
+
+
+
+***Kliniska kännetecken***
+* **Halssmärta**: försvinner långsamt över 10-14 dagar.  
+* illamående 
+* **obehagskänsla buken**: detta kan förekomma ibland 
+* **feber**: 38-40 grader, ihållande, klingar av efter 10-14 dagar 
+* **grötigt tal**: svullnad lymfoid svalgring, ger nästäppa och ett karakteristiskt grötigt tala 
+* **sväljsvårigheter**: kan bli indikation för sjukhusvård, om dysfagi signifikant 
+* **kraftigt svullna tonsiller**: 80% av patienter dominerar med kraftig faryngit och kraftigt svullna tonsiller 
+* **gomtaket**: petekier 
+* **munslemhinnan**: rodnad 
+* **beläggningar**: tonsiller har fastsittande, membranösa, gråvita beläggningar 
+* **illaluktande andedräkt**: anaeroba batkterier i mun o svalg bidrar sötaktig odör, illaluktande 
+* **lymfkörtelförstoring**: ofta symmetriska på halsen. även occipitalt, submandibulärt kan palperas förstorade körtlar, likson axillärt o inguinalt.  
+* **periorbitalt ödem**: uppträder hos en del anses vara karakteristiskt för mononukelos 
+* **hepatomegali, förhöjda transaminaser**: hör också till bilden 
+* **splenomegali**: minst 50% av fallebn 
+* **makulopapulöst exantem**: uppträder, spec om man gett ampicillin el annan antibiotikum 
+* **Labbmässigt**: lätt trombocytopeni, lätt neutropeni,  
+* **postinfektiös trötthet**: som kan pågå i månader ibland.  
+
+
+
+***Handläggning och Utredning***
+* ÖNH-status 
+* kompletterande undersökningar 
+* **Labb**: Hb, CRP, SR, LPK (12-18*10**9), eventuellt blodutstryk, leverfunktionsprover 
+  * **karakteristiskt**: med atpyiska lymfocyter (obulerd kärna, vakuoler i cytoplasma, kan ses vid CMV och toxoplasmos) 
+* **Monospott**: EBV-test,  
+* **eventuellt** strep-A-test 
+* **sjukhusfall** 
+  * allmäntillstånd nedsatt 
+  * svårigheter för vätskeintag och näringstillförsel 
+  * kan kräva inläggning 
+
+
+
+***Behandling***
+
+* symptomatisk behandling 
+* lindra obehag 
+* förhindra mjältruptur 
+* febersänkande, antipyretika 
+* smärtstillande 
+* **kraftig svalgsvullnad**: anti-flogistika med diclofenac kan prövas 
+* **ingen kurativ behandling**: studier med antiviraler, aciklovir, visar inhibition virusutsöndirng i svalg, men ingen påverkan förloppet.  
+* egenbehandling 
+* **sporter och aktivitet**: låg aktivitetsnivå, alkohol försiktighet 
+* **undvika paracetamol om svår hepatit och leverpåverkan**: ibuprofen istället 
+* **smärtstillande**:  
+* **ibuprofen, evt paracetamol **: undvika för barn 
+* **paracetamol**: om ingen leverpåverkan, muskelsmärtor, feber, sväljsmärtor 
+* konkomitant strep infektion 
+* ab behandling 
+* PCV 
+* eller amoxi för morbilli liknande utslag 
+
+
+
+***Förlopp***
+
+* Överföring av smitta sker  
+* huvudsakligen i form av saliv,  
+* i mindre grad i form av droppar eller aerosol vid hosta/nysning. 
+* Efter inkubationstiden  
+* (5–15 dagar eller längre)  
+* får patienten generella prodromalsymtom  
+* innan halsbesvären dominerar sjukdomsbilden. 
+* Faryngiten  
+* är aggressiv i fem till sju dagar,  
+* och avtar därefter under de följande sju till tio dagarna. 
+* Febern kan vara i  
+* en till två veckor,  
+* och patienten har förstorade lymfkörtlar, i regel i mer än tre veckor. 
+* Hos de flesta har symtomen gått över efter en månad,  
+* men vissa patienter kan uppleva långvarig trötthetskänsla och koncentrationssvårigheter. 
+* De flesta patienter  
+* är friska nog att återgå till skola eller arbete  
+* senast efter tre till fyra veckor,  
+* men det tar ofta upp till två månader innan man känner sig ”frisk”. 
+
+***Uppföljnig***
+
+* passiv exspektans 
 
 
 
@@ -9615,6 +9763,78 @@ En kort lista över kliniska manifestationer av CF:
 
 ## Metabolism
 
+
+
+### Handläggning och utredning
+
+
+
+***Allmänt***
+
+* Handläggnign och utredning vid misstänkt metabol sjd
+
+
+
+***Kännetecken***
+
+* Utvecklingsförsening
+* Retrograd utveckling
+* Neruostatus
+  * asymmetrier
+* Urin luktar konstigt
+* AT påverkan
+* matningssvårigheter
+* muskelsvaghet
+* slöhet
+* medvetslöshet
+* kramper
+
+
+
+***Provtagning, akut***
+
+* **Blodprov akut**:
+  * Glukos,
+  * syra/bas,
+  * laktat,
+  * elektrolyter,
+  * ammoniak,
+  * ketoner,
+  * ASAT,
+  * ALAT,
+  * blodstatus.
+  * P-aminogram (Metabollaboratorium). Tag undan heparinplasma och frys ned för eventuellt senare analys.
+* **Urinprov akut**:
+    * ketoner,
+    * glukos.
+    * Organiska syror,
+    * orotsyra. (Metabollaboratorium).
+    * Spara urinprov för eventuell senare analys 
+
+
+
+***Behandling***
+
+* enl Tema metabola sjukdomar
+* Metabol kris, katabolism
+* Förhindra katabolism
+  * glukos iv, enl underhållsbehandling
+  * om svårt iv: glukospolymer peros (amylos?)
+* För att aktivera viktiga enzymsystem, ges cofaktorer
+* Karnitinbehandling
+  * för att binda oönskade metaboliter
+  * och frigöra AcetylCoA, för att underlätta cutronsyracykeln
+* Högt ammoniak
+  * natriumbensoat
+  * företrädesvis kontinuerlig infusion
+  * Hemodialys övervägas: NH3 överstiger viss nivå
+* Kontraindikationer
+  * INgen peroral föda, som kan belasa metabolismen
+  * led t energibrist och intoxikera patienten, göra den slö etc.
+  * protein och fett ska undvikas
+
+
+
 ### Homocysteinuri
 
 ***Kliniska kännetecekn***
@@ -9986,22 +10206,6 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-***Indelningar***
-
-* **Spastisk**: drabbat motorkortex
-  * **Unilateral spastisk pares**: en drabbad sida
-  * **Bilateral spastisk pares**
-  * tetraplegi
-  * paraplegi
-  * hemiplegi
-* **Dyskinetisk**: drabbar basala ganglierna; hela kroppen involveras
-  * Athetoid
-  * Dytonisk
-* **Ataxi**: drannat cerebellärt, bakre skallgrop; hela kroppen involveras
-  * Ataktisk:
-
-
-
 ***Etiologi och patofysiologi***
 
 * **Prenatala orsaker**: oftast är det orsakat prenatalt. antar att det har att göra med asfyxi
@@ -10035,6 +10239,24 @@ En kort lista över kliniska manifestationer av CF:
   * behöver strap huvudet för att hålla huvudet uppe
 * "right hemiplegia cerebral palsy" film, youtube.
 * Gross motor classification system
+
+
+
+
+
+***Indelningar***
+
+* **Spastisk**: drabbat motorkortex
+  * **Unilateral spastisk pares**: en drabbad sida
+  * **Bilateral spastisk pares**
+  * tetraplegi
+  * paraplegi
+  * hemiplegi
+* **Dyskinetisk**: drabbar basala ganglierna; hela kroppen involveras
+  * Athetoid
+  * Dytonisk
+* **Ataxi**: drannat cerebellärt, bakre skallgrop; hela kroppen involveras
+  * Ataktisk:
 
 
 

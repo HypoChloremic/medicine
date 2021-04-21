@@ -4600,11 +4600,27 @@ En del av källorna är fr Bernebrandt
 
 ***Kliniska kännetecken***
 
+* Maternell feber
+* fostertakykardi
+* ömhet över uterus
+* mekoniumfärgat fosteratten
+* illaluktande fostervatten
+
+
+
 ***Utredning och handläggning***
+
+* Handläggningsmässigt
+  * Patienten bör förlösas snarast
+
+
 
 ***Behandling***
 
-
+* **Antibiotikaprofylax under etablerat förlossningsarbete**
+  * **Anamnes GBS-infektion av FOSTER / nyfödd**
+  * **påvisad GBS i URIN, vid ngt tillfäelle under aktuell grav**: oavsett bakterietal
+* 
 
 
 
@@ -6199,20 +6215,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * kinoloner, däribland lexinor
   * trimetoprim
 
-## Grav, postpartum
-
-### Sheehans syndrom
-
-***Etiologi***
-
-* Hypofys nekrotiserar
-* relaterat med postpartal blödning
-
-
-
-***Utredning***
-
-* Kvinna inte kmit igg amning efter 1v, ska man utesltua sheehans syndrom
+* 
 
 
 
@@ -6244,13 +6247,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Endometrit
+### Endometrit barnsängsfeber
 
 ***Presentation***
 
 * 36åå kvinna
   * 4 gravida 3para, söker akut pga vaginal blödning sedan en månad. Till bakgrund har patienten haft uteblivet missfall v6, därefter medicinsk abort + exeres, för 1 månad sedan, därefter gått med vaginal blödning. Söker akut med frossa, huvudvärk, känsla feber, och nedre buksmärtor. Status, uterint innehåll på 15mm, antagliga grav. rester. Spiral dras, illaluktande, skickas på odling. Vaginal odling. Urinodling. (blododling?). CRP 20. Kap Hb 80. Således inkomplett exeres, med kvaravarande grav. rester, därför långdragen blödning och nu suspekt endometrit. Diff skadad blödande endometrieslemhinna, eller blödning UNS, dock osannolika detta stadium.  Inlägges antibiotika behandling. Cytotec (misoprostol) för att driva ut resterande rester. D2 UL visar fortf rester, och pat fortfarande påverkad. Snar exeres. Därefter signifikant förbättrad patient t allmäntillstånd. Får gå hem med flagyl + spectramox [Kloxa?? checka ant]
-  * 
+
+
+
+***Allmänt***
+
+* Kallas barnsängsfeber
+
+
 
 
 
@@ -6600,7 +6610,35 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Komplikationer***
 
-* 
+* Neonatal GBS infektion
+* IUD
+
+
+
+***Etiologi***
+
+* sällsynt överföras före prtus under göregående värkar eller vattenavgång, 
+  * ge upphov intrauterin infektion
+  * fosterdöd
+* barnet infekteras dock i regel under partus
+  * via andningsvägarna
+  * med följden: pneumoni, sepsis, eller meningit
+
+
+
+***Epidemiologi***
+
+* 20-30% gravida kvinnor koloniserade med GBS
+  * vaginalt
+  * urinvägar
+  * rektalt
+* 50% av barnen t kvinnor bärare av GBS BLIR KOLONISERADE UNDER förlossning. 
+
+
+
+***Kännetecken***
+
+* Kan presentera med cystit: att det är en GBS cystit. Notera att GBS asymptomatiskt bakteriuri är ovanigt
 
 
 
@@ -6684,16 +6722,17 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   
   * har födde barn i förrgår och har nu feber. Du undersöker henne och det mesta är normalt utom höger bröst som är svullet och rött och det känns ett hårdare område 4\*5 cm som mitt i är lite flukturerande. Du tar en sårodling som skickas och CRP= 60 och vita= 14.
   
-* **På jourläkarmoattningen** 
+* !!! **På jourläkarmoattningen** 
 
   * I gävle där du arbetar som allmänläkare kommer ingrid 41 år. Hon födde sitt femte barn för 7 månader sedan. hon ammade fram till 6 månaders ålder. sedan tre veckor tillbaka känner hon en ömmande knöl i vänster bröst. Du kan palpera en resistens i bröstet som är ca 4cm stor och lätt ömmande. hon har ingen feber. 
   * VIlken diagnos är viktigast att utesluta?
+    * frågan är om detta är en malignitet. Var är patientens feber exempelvis. 
     * aterom
     * bröstböld 
     * bröstcancer
     * mjölkstockning
-    * lipom 
-
+  * lipom 
+  
   
 
 ***Allmänt***
@@ -6824,6 +6863,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 - så fort man ska beröra vagina, så krampar den + smärtsam
 - Hör ihop med vestibulit
 - Kramp: kontraherar muskler i bäckenbotten
+- idiopatiskt: verkar som att det finns fall där man har oförklarlig vaginism
 
 
 
@@ -6831,6 +6871,24 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 - Dyspareuni
 - slida som krampar, i samband med beröring eller approach
+- smärtsamt: kan omöjliggöra samlag, eller gynekologiska undersökningar
+
+
+
+***Behandling***
+
+* Fysioterapi
+* Multimodal (tvärdisciplinär) behandling
+* Psykosocial behandling
+* Bäckenbottenträning (Länk)
+* Smörjövningar
+* Allmänna råd om hygien och sexvanor
+* Mål med behandling
+  * Öka medvetenhet och proprioception i muskulaturen
+  * Förbättrad muskelkontroll och förmåga till avspänning
+  * Normalisera muskeltonus
+  * Öka elasticitet i vävnaden kring slidöppningen och även desensibilisera det smärtsamma området
+  * Minska rädsla för vaginal penetration
 
 
 
@@ -6840,23 +6898,48 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Presentation***
 
+
+
+***Allmänt***
+
+* Vulvodyni
+
+
+
 ***Etiologi och patofysiologi***
 
 -  Vestibulin anatomiskt: den är slemhinnan ligger cirkumferent runt vaginalöppningen, också fram t uretraöppningen
-
-- - Notera att den ligger runt hymenslemhinnan också (humenslemhinnan är den sleminnan närmst in på vaginalöppningen)
-
-- Vestibulit utvecklas i efter för mkt samlag, trots att det är smärtsamt. 
-
+   -  Notera att den ligger runt hymenslemhinnan också (humenslemhinnan är den sleminnan närmst in på vaginalöppningen)
+-  Vestibulit utvecklas i efter för mkt samlag, trots att det är smärtsamt. 
 - Hör ihop med Vaginism
+-  Vanliga orsaker
+   - eksem
+   - candida
+   - lichen sclerosus
+   - lichen planus
+   - senil atrofi
+-  dålig sexualteknik,
+* fruktan för smärta eller graviditet,
+* sexuell otillfredsställelse,
+* vaginism,
+* traumata,
+* anatomiska anomalier,
+* allergier,
+* ospecifika infektioner.
+
+
 
 ***Diagnos***
 
 - Beröringssmärta i över 6 månader. 
 
+
+
 ***Kliniska kännetecken***
 
 - Beröringssmärta: att så fort man berör vestibulim så gör det ont för patienten
+
+
 
 ***Epidemiologi***
 
@@ -6864,11 +6947,30 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * Dyspareuni
 
+
+
+***Differentialdiagnoser***
+
+* Endometros
+* Vaginism: således behövs fler symptom för att stödja detta. (notera vaginism är smärtsamt enl LKM boken)
+
+
+
 ***Utredning och handläggning***
+
+* Ytlig dyspareuni uteslut
+  * stram hymen
+  * medfödda missbildningar: vaginala sepa
+  * ärrbildning efter förlossningsskador
+  * vara orsaken, som kan åtgärdas kirurgiskt av gynekolog
+
+
 
 ***Behandling***
 
-
+* Bryta smärtcykel, att inte ha penetrativt sex om det gör ont
+* Sexologisk rådgivning
+* Lidokain gel: underlätta mest smärtsamt i början av samlag, enl LKM boken om Dyspareuni.
 
 ## Infektion - genital
 
@@ -9661,6 +9763,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * Infektion, uppåtstigande?: här 
 
 
+
+***Behandling***
+
+* Antipyretika: om febern är under 38.5
+  * Kan man få ned febern, går man inte vidare med antibiotika
+* persiterande feber trots antipyretika
+  * antibiotika
+
+
+
 ### Förlossning
 
 
@@ -11158,7 +11270,54 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+## Postpartum
 
+### Feber postpartalt
+
+#### Fall
+
+* Kvinna 28åå
+  * PN 2d sedan. Vattenavgång tidigt i förlossningen. Inkommer akut med 39.5 graders feber, BT 90/60, puls 120/min
+  * Vad är din arbetsdiagnos:
+    * septisk chock
+  * Hur handlägger du
+    * ABCDE: och chockbehandling enl ABCDE
+    * Odlingar: urinodling, sputumodling, vaginalodling, blododling
+    * bredspektrum antibiotika
+      * piptaz eller 
+      * cefotax + flagyl eller 
+      * meronem. 
+      * ibland tillägg aminoglykosid
+  * Vilket är det viktigaste agens
+    * GAS
+
+
+
+#### Etiologi och patogenes
+
+***Förekommer olika orsaker till att patienten får feber efter förlossning***
+
+* **Tidig feber postpartalt**: 1-2d
+  * Sepsis
+  * endometrit
+  * bristningsrelaterat?
+* Sen feber postpartalt: övr 7d?
+  * Abscessbildning
+  * Hematom?
+  * 
+
+### Sheehans syndrom
+
+***Etiologi***
+
+* Hypofys nekrotiserar
+* relaterat med postpartal blödning
+
+
+
+***Utredning***
+
+* Kvinna inte kmit igg amning efter 1v, ska man utesltua sheehans syndrom
 
 ## Obstetrik
 

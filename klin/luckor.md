@@ -34,13 +34,7 @@ beroende på hur akut detta är
 
 * Neutropeni + neutropen feber
 
-* Exanthem vid barnsjukdomarna: tredagar, femdagar, kawasaki, 
-
-* Milier: den som såg ut som mollusker
-
 * Erythema toxicum
-
-* Rubella och graviditet
 
 * HERPES
 
@@ -78,3 +72,13 @@ beroende på hur akut detta är
 * PM säger åb ST-mottagning för UL, men att innan behandling ges ska man bekräfta diagnosen med en specialist. 
 
 * PÅgående missfall att man ger cytotec ist för mifegyn, varp invänta
+
+* Hemostasrubbningar under grav i obs boken, titta kappitel.
+
+* Läs om stort foster
+
+* perinealbristningar
+
+* komplikatioenr puerperiet
+
+* Hyperpyrexi

@@ -452,7 +452,7 @@ cerivicit
 
 ### Inkontinens
 
-
+#### Presentation
 
 ***Presentation***
 
@@ -491,45 +491,6 @@ cerivicit
       * Farmakologisk behandling leder till goda resultat hos de flesta vid ansträngningsinkontinens
       * Så kallad TVT operation leder till förbätttring hos ett fåtal kvinnor o bör endas användas i fall med uttalad inkontins
       * rätt: Viktnedgång kan lindra symtom för överviktiga vid all typ av inkontines
-
-
-
-
-#### Ansträngningsinkontinens
-
-***Etiologi och patofysiologi***
-
-- **Förlossning**: tänjer på en massa muskler och bindväv, bäckenbotten blir slappare
-- **Puborectalis**: denna muskeln i bäckenbotten (perinealt?) är starkt relaterat till bibehållen kontinens i uretra, varpå påverkad puborectal muskelm (PRM) leder till att man kan få en ansträngningsinkontinens
-- **Peruretral ligamentet**: denna kan också tänjas i samband med förlossnings, varpå ansträngningsinkontinens
-- **Äldre kvinnor**
-  - Intrinsic sphincter syndrome. 
-  -  uretra blir stel och glappt urinrör + låg tryck  
-  - sfinkter interna verkar vara påverkat
-
-
-
-
-
-***Behandling***
-
-- **Konservativ behandling**: detta bör vara förstahandsvalet för patienter, att man hoppar på en konservativ behandling
-  - **kissa oftare, normalare volym i urinblåsan**: möjligt att patienten kissar endast när urinblåsan blir för full varpå ökad propensitet för att läcka urin
-  - **bäckenbottenträning**: detta kan hjälpa till med kontinensen
-
-- **Kirurgisk behandling**: 
-  - **TVT-behandling**: slynga sätts runt uretra (efterliknar funktionen hos peruretral ligamentet? TODO)
-
-
-
-#### Blandinkontinens
-
-
-
-#### Trängningsinkontinens
-
-***Presentation***
-
 * **Gunilla 47år** 
   * kommer till dyn gynekologmottagning och säger att hon har svårt att hålla urinen tätt. Ofta läcker hon urin när hon nästan kommit hem ( Står o försöker hitta rätt nyckl till lägenheten). Gunilla är 165cm och väger 69kg. Hon har fött 3 barn vaginalt och genomgått kejsarsnitt. Hon promenerar till o från jobbet och då är det inga problem att hålla urinen tätt. Du inser att du bör göra en utredning av Gunillas besvär. Det låter som överaktiv blåsa tycker du. 
   * **Vad ingår i utredningen för att du ska kunna ställa diagnos**? Vilka diff.diagnoser måste du överväga? motivera ditt svar?
@@ -555,13 +516,218 @@ cerivicit
 * Karin 57 år 2-para söker med ca ett års anamnes på urinträngninngar både dag och natt samt ibland läckage. Läcker oftast inte vid hosta och nysning. Ange tre tänkbara orsaker till hennes symtom. 
   * abe: uvi, tumör, stensjd, neurosjd
 
+#### Allmänt
 
+##### Utredning
+
+**Urininkontinens är ett symptom. Urininkontinens != diagnos**
+
+
+
+***Anamnes***
+
+* Sjukdomar
+* kirurgiska behandlingar
+* läkemedelsbruk: påverkar miktionsfunktionen
+  * antidepressiva
+  * kolinerga
+  * adrenerga farmaka
+  * diuretika
+* infektioner: urinvägsinfektioner
+* **Klimakterium**: tidpunkt kan man efterfråga
+* inkontinensbesvären, specifikt
+  * karaktär
+  * längd
+  * duration
+  * ansträngningsrelation
+  * nykturi
+
+
+
+***Status***
+
+* **Allmänstatus**
+* **bukstatus**: utspänd blåsa?
+* **gynekologisk undersökning**: framfall
+* **hostprovokationstest**: hostar med fylld blåsa och eventuellt läckage noteras. 
+* **Bonneys test**: hosttest + häva läckaget med 2 fingrar paracentralt = positivt Bonneys
+
+
+
+***Kompletterande utredning***
+
+* **Resturinbestämning**: blåstömningens effektivitet. 	
+  * med katerisering ELLER UL
+  * felkällor: förhöjd resturin vid urinerig på uppmaning liksom stress, förstoppning
+* **Miktionslista**
+  * loggbok urineringsmängd och frekvens
+  * objektifiera miktionsanamnesen
+  * registrer volym vid varje miktionstillfälle + klockslag
+  * Normal 
+    * blåskapacitet: 300-500mL
+    * frekvens: 4-8ggr per dygn
+    * dygnsvolym: 1-2L
+* **Blöjvägningstest / väga binda**
+  * objektifiera läckaget, specifikt
+  * väga binda blöja torrt skick
+  * viktökning gram = milliliter läckage
+  * signifikant läckage: ökning >8g under 24h är signifikant läckage
+
+
+
+***Specialisrade udnersökningsmetoder***
+
+* **Uretrocystoskopi**: förändringar urinlåsan, inflammationer, trabekuleringar, divertiklar, fistlar, blåsstenar, fämmande kropp, malignitet. urinröret kan ha divertiklar och fistlar som kan ge läckage
+* **Urodynamik**: blåsans + urinrörets funktioner vid lagring + tömning urin
+* **Röntgenundersökningar**: miktuonsuretrocystografi (MUC) och UL-urinvägar UL-bäckenbotten, komplement. men har inte utvärderats för kliniskt bruk
+
+
+
+#### Ansträngningsinkontinens
+
+
+
+***Definition***
+
+* Ofrivilligt läckage urin i samband med ansträngning
 
 
 
 ***Etiologi och patofysiologi***
 
+- **Uppkomst**
+  - **Förlossning**: tänjer på en massa muskler och bindväv, bäckenbotten blir slappare
+    - **Puborectalis**: denna muskeln i bäckenbotten (perinealt?) är starkt relaterat till bibehållen kontinens i uretra, varpå påverkad puborectal muskelm (PRM) leder till att man kan få en ansträngningsinkontinens
+    - **Peruretral ligamentet**: denna kan också tänjas i samband med förlossnings, varpå ansträngningsinkontinens
+  - **Äldre kvinnor**
+    - Intrinsic sphincter syndrome. 
+    -  uretra blir stel och glappt urinrör + låg tryck  
+    - sfinkter interna verkar vara påverkat
+- **Enl gynbok s310**
+  - Ofrivilligt läckage
+  - uppkommer när nukhåletrycket överskriver urinsfinktertrycket. 
+  - UTAN samtidig kontraktion fr detrusormuskeln.
+  - **Innebär läckage vid**: hosta, skratt, nysning, promenader, lyft, lägesändringar, fr liggande el sittande t ståend
+  - **Läckagemängd**: måttlig vid varje tillfälle
+  - **känner inte trängningar anslutning läckage**
+- **Anatomiskt och fysiologiskt vid krystniing, enl IM**
+  - Ökad nedåt-framåtrotation av urinröret vid krystning. 
+  - mindre tydligt hos äldre kvinnor där urinrörets interna slutningsfunktion relativt sett oftare är försämrad. 
+  - Framfall och ansträngningsinkontinens förekommer ofta samtidigt. 
+    - Framfall av urinblåsan kan maskera ansträngningsinkontinens. 
+    - Detta är viktigt att känna till vid operation av framfall.
+
+
+
+***Utredning och handläggning***
+
+* För en del av utredningen titta under ALlmänt
+* **Bonneys test**: hosttest + kunna häva läckage med två fingrar paracentralt
+
+
+
+***Behandling***
+
+- **Konservativ behandling**: detta bör vara förstahandsvalet för patienter, att man hoppar på en konservativ behandling
+  - **kissa oftare, normalare volym i urinblåsan**: möjligt att patienten kissar endast när urinblåsan blir för full varpå ökad propensitet för att läcka urin
+  - **bäckenbottenträning**: detta kan hjälpa till med kontinensen
+- **Kirurgisk behandling**: 
+  - **TVT-behandling**: slynga sätts runt uretra (efterliknar funktionen hos peruretral ligamentet? TODO)
+    - TVT - tensionfree vaginal tape
+    - stödja urinrörets mitt med propylen
+    - utan spänning placeras
+    - nålar som för upp röret RETROPUBISKT och ut gm främre bukväggne, så att bandet kan justeras till rätt position
+    - nätet klipps subkutant, behöver inte sutureras till omkringliggande vävand
+    - **Urinröret hindras sjunka ned vid ansträngning**
+  - **Periuretrala injektioner**: injicerar submuköst kvaddlar, runt urinröret, komprimerar lumen, minskar läckage. 
+- **Enl gynboken, s315, ansträngningsinkontinens**
+  - **Yngre kvinnor, före menopaus**
+    - första hand konservativ behandling: bas bäckenbottenträning
+    - Otillräcklig effekt: slingplastik (TVT), med stöd mitturetra. 
+      - helst efter familjebildning färdigt, 
+      - alternativt att man överväger kejsarsnitt
+  - **Kvinnor perimenopausalt, upp till 65-70åå**
+    - 1a hand konservativ behandling, men **vänta inte för länge på operation**
+    - om operation slyngbehandling
+    - !! **lokal östrogenbehandling rekommenderas**
+  - **Äldre kvinnor**
+    - Värdera biologiska ålder. 
+    - historik: DM, strke, tidigare operationer, försämrar operationsresultatet
+    - slutningstryck urinrör sjunker med ålder. Lägre tryck åpverkar oftast behandlingsresultaten negativt. 
+    - vitalare patienter kan slingplastik. 
+    - annars injektionsbehandling
+    - ibland farma behandling: duloxetin
+    - lokal östrogenbehandling rekommenderas
+
+
+
+
+
+| <img src="./imgs/sam_220421_T4SOOLOAqG.png" alt="T4SOOLOAqG" style="zoom:50%;" /> | <img src="./imgs/sam_220421_LjRi42TeCy.png" alt="LjRi42TeCy" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              | här är det via foramen obturatorium, dock är denna metod inte beprövad. vanligare att den för sut via bukväggen |      |
+
+
+
+
+
+#### Blandinkontinens
+
+***Definition***
+
+* Kmination symptom ansträngningsinkontinens och trängningsinkontinens
+* svårt verifiera vilken komponent väsentligast
+
+
+
+***Handläggning och utredning***
+
+* Svår handlägga
+  * brukar behandla den mest dominanta komponenten
+* Mer omfattande utredning
+  * urodynamik
+  * speciellt om överväger kirurgisk behandling
+
+
+
+#### Övaraktiv blåsa
+
+
+
+***Definition***
+
+* **overactive bladder OAB, ett syndro**
+* **Känsla trängningr kraftiga**
+* **med utan inkontinens**
+* **vanligen**
+  * täta miktioner
+  * och nykturi (att man går upp och kissar på natten)
+
+
+
+***Etiologi och patofysiologi***
+
+* **Allmänt**
+  * **Ofrivilligt läckage samband med kraftiga trängningar (känsla att vela miktion)**
+  * **Läckagemängd**: varierar, fr skvätt, till tömning hela blåsan
+  * **Ofrivillig sammandragning detrusor**: okänd anledning
+* **Annan genes**
+  * !! **vanligen vid neurologiska sjukdoamr**: Parkinson, demens, strke
+  * **Blåskatarr** (cystit?)  
+  * **urinrörskatarr**
+  * !!! **malignitet**: Ovarialcancer, urinblåsecancer,
+  * **stålbehandling, cytostatikabehandling**: blåsans elasticitet försämras, ger "lilla blåsans syndrom"
+  * **Framfall?**: när jag läser om framfall verkar den kunna ge läckage och trängningar
+* **Baserat på egen läsning**
+  * **Kolinerga farmaka**: ökade urinträngningar, oklart om den ger inkontinens dock
+
+
+
 ***Epidemiologi***
+
+* Förekommer alla åldrar
+* vanligare äldre
+* förekommer hög ålder, samma frekvens M:F
 
 ***Kliniska kännetecken***
 
@@ -587,23 +753,73 @@ cerivicit
 
 ***Behandling***
 
-* För en idiopatisk trängningsinkontinens
+* **För en idiopatisk trängningsinkontinens**
   * Blåsträning och bäckenbottenträning (gärna med hjälp av uroterapeut). 
   * Vaginal östrogenbehandling (postmenopausalt). 
   * Urinuppsamlande hjälpmedel (initialt endast i avvaktan på behandlingsresultat). 
   * Minskning av överdrivet vätskeintag. 
   * Justering av eventuella diuretika. 
   * Behandling av samtidig obstipation (ffa hos äldre).
-* Farmakologiskt: 
+* **Farmakologiskt**: 
   * antikolinergika (tolteridin, fesoterodin, detrusitol)
   * beta3agonist: betmiga; om det föreligger kontraindikation för antikolinergika
   * antidiuretiskt hormon: desmopressin
-* Kirurgiskt
+* **Kirurgiskt**
   * Elektrisk stimulering PTNS (perkutan tibialis nervstimulering): placeras i 
+* **Enl gynboken, trängningsinkontinens, s315**
+  * **Konservativ behandling**: bäckenbottenträning, blåstränning, elektrostimulering
+  * **Lokal östrogenbeh, efter menopaus**
+  * **Farmakologiskt**
+    * antikolinergika, eller 
+    * beta3agonist
 
 
 
-#### Urgeinkontinens
+#### Överinningsinkontinens
+
+***Definition***
+
+* Blåsa höggradigt utspänd
+* slutningsmuskulatur förmår inte hålla emot trycket
+
+
+
+***Etiologi***
+
+* Oftast försvårat avfldöe
+  * prostatahyperplasi hos män
+  * kvinnor: tumör eller cysta komprimerar avflödesutgångarna
+
+
+
+#### Distinktion trängninginkont och överans
+
+* Trängningsinkontinens faller under överaktiv blåsa. 
+
+
+
+#### Andra inkontinenser
+
+##### Iatrogen inkontinens
+
+***Etiologi***
+
+* Strålbehandling lilla bäckenet
+* cytostatikabehandlng
+* kirurgi
+  * rektumcancer
+  * gynekologisk cancer
+  * rektumamputatuon
+  * hysterektomi
+  * prolapsoperation
+* **nerförsörjningen nedre urinvägarna skadas**
+* fistlar
+* traumatiska långa förlossningar
+* Läkemedel
+  * kolinerga farmaka
+  * adrenerga farmaka
+  * diuretika
+  * sömnmedel
 
 
 
@@ -664,9 +880,9 @@ cerivicit
 
 
 
-| <img src="./imgs/200421_sam_97ubHxmMEL.png" alt="97ubHxmMEL" style="zoom:50%;" /> |      |      |
-| ------------------------------------------------------------ | ---- | ---- |
-|                                                              |      |      |
+| <img src="./imgs/200421_sam_97ubHxmMEL.png" alt="97ubHxmMEL" style="zoom: 25%;" /> | <img src="./imgs/sam_220421_45r7dUfa7i.png" alt="45r7dUfa7i" style="zoom:50%;" /> | <img src="./imgs/sam_220421_eUEwxoF1wy.png" alt="eUEwxoF1wy" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/sam_220421_DD1YCc9UhI.png" alt="DD1YCc9UhI" style="zoom:50%;" /> |                                                              |                                                              |
 
 
 
@@ -692,6 +908,16 @@ cerivicit
 * **cervix uteri:** detta är den distala delen av uterus
 * **corpus uteri:** huvuddelen av uterus, kroppen på uterus
 * **isthmus uteri:** del som separar corpus uteri fr cervix uteri
+
+
+
+
+
+#### Antero och retroflektion
+
+<img src="./imgs/sam_220421_2e4YLuYdFT.png" alt="2e4YLuYdFT" style="zoom:50%;" />
+
+
 
 
 
@@ -4158,64 +4384,94 @@ En del av källorna är fr Bernebrandt
 
 
 
-#### **Viktuppgång under graviditet:** 
+#### Viktuppgång under graviditet:** 
   * **för normalviktig kvinna:** 10-12kg 
 
 
 
-#### **Hjärta och cirkulation**
+#### Hjärta och cirkulation**
 
-  * **Ökad cardiac output**: t bla bröst, hud, njurar o uterus
-  * **BT förändras**: BT öndras under grav osså
-      * **Först trimester etc**: att BT sjunker, pga sänkt total perifer kärlresistens. Relateras med progesteronets relaxerande effekt på kärlbäddarna och uterus. 
-      * !!! **Andra trimestern**: BT når sin lägsta punkt under andra trimestern. viktig klinisk konsekvens är att en kronisk hypertoni kan maskeras 
-          * trots ökning av hjärtminutvolymen
-          * perifera kärldilatationen leder t minskning ***systoliska trycket***, som når sin lägsta punkt i tredje trimestern. 
-      * **Korotkof fas V**: Hur man mäter turbulens enl Sarah, har att göra med mätning av blodtrycket, när man lyssnar för blodtyrcket sedvanligt. 
-      * **Ligga på rygg:** 5-10% av gravida kvinnro drabbas av symptomatiskt BT fall, uppkommer gm att den gravida livmodern obstruerar venösa återflödet t hjätat (Vena cava syndromet)
-          * reduktion upp t 30% reduktion hjärtminutvolymen
-  * **Blodvolym ökar**: plasmavolym ökar 30-40%.
-    * **Singelgrav blodvolym 1L**
-    * **Duplex blodvolym ökar 1.5-2.5L**
-  * **Erytrocytvolum (blodkroppsvolym?)** ökar med 250-500mL
-    * **järnbehovet:** 4mg/d -> 30-60mg/d eftersom upptaget är dåligt
-  * **Labb under normal grav**
-    * CRP normalt eller lätt förhöjt
-    * SR stiger
-    * LPK ökar
-    * Koagulationsfaktorer ökar
-    * TPK oförändrat
-    * Hb sjunker
-    * EVF sjunker
-* **Uteroplacentär flöde**: 
-  * **Tredje trimestern**: i tid att den tar emot 15-20% hjärtminutvolymen
-  * Jfr icke gravida: 2% omflöde går t uterus
-  * 80-90% av flödet tar placentan.
-  * omdirigeringen attribueras till flera omställningar
-    * trofoblastinväxt i decidua o myometrium omvandlar fr tjock muskelvägg med högt kärlmotstånd t tunnvägg med lågt kärlmotstånd
-      * distala a uterina, 
-      * spiralartärerna, 
-      * fr arterioler 
-    * trofoblastcellerna ersatt muskulära elastiska komponenterna i kärväggen.
-* **Albumin**: sänkta albuminnivåer under grav, 
-  * sjunkande kolloidosmotisaka trycket: fr 21mmhg -> 18mhg.
-  * bidrar ökande benägenhet att utv ödem. 
-  * tillförsel kristalloider för att kompensera blodförlust efter förlossning ger YTTERLIGARE SÄNKNING av kolloidosmotosika trycket. 
-* Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas flödet fr extremiteter
+**Ökad cardiac output**: t bla bröst, hud, njurar o uterus
+
+**BT förändras**: BT öndras under grav osså
+
+* **Först trimester etc**: att BT sjunker, pga sänkt total perifer kärlresistens. Relateras med progesteronets relaxerande effekt på kärlbäddarna och uterus. 
+* !!! **Andra trimestern**: BT når sin lägsta punkt under andra trimestern. viktig klinisk konsekvens är att en kronisk hypertoni kan maskeras 
+    * trots ökning av hjärtminutvolymen
+    * perifera kärldilatationen leder t minskning ***systoliska trycket***, som når sin lägsta punkt i tredje trimestern. 
+* **Korotkof fas V**: Hur man mäter turbulens enl Sarah, har att göra med mätning av blodtrycket, när man lyssnar för blodtyrcket sedvanligt. 
+* **Ligga på rygg:** 5-10% av gravida kvinnro drabbas av symptomatiskt BT fall, uppkommer gm att den gravida livmodern obstruerar venösa återflödet t hjätat (Vena cava syndromet)
+    * reduktion upp t 30% reduktion hjärtminutvolymen
+    * **Vena cava syndromet**
+    * **Ändra med CTG mätning när på rygg, kan ge decelerationer**
 
 
 
-#### **Njurfunktion**
+**Blodvolym ökar**: plasmavolym ökar 30-40%.
+
+* **Singelgrav blodvolym 1L**
+* **Duplex blodvolym ökar 1.5-2.5L**
+
+
+
+**Erytrocytvolum (blodkroppsvolym?)** ökar med 250-500mL
+
+* **järnbehovet:** 4mg/d -> 30-60mg/d eftersom upptaget är dåligt
+
+
+
+**Labb under normal grav**
+
+* CRP normalt eller lätt förhöjt
+* SR stiger
+* LPK ökar
+* Koagulationsfaktorer ökar
+* TPK oförändrat
+* Hb sjunker
+* EVF sjunker
+
+
+
+**Uteroplacentär flöde**: 
+
+* **Tredje trimestern**: i tid att den tar emot 15-20% hjärtminutvolymen
+* Jfr icke gravida: 2% omflöde går t uterus
+* 80-90% av flödet tar placentan.
+* omdirigeringen attribueras till flera omställningar
+  * trofoblastinväxt i decidua o myometrium omvandlar fr tjock muskelvägg med högt kärlmotstånd t tunnvägg med lågt kärlmotstånd
+    * distala a uterina, 
+    * spiralartärerna, 
+    * fr arterioler 
+  * trofoblastcellerna ersatt muskulära elastiska komponenterna i kärväggen.
+
+
+
+**Albumin**: sänkta albuminnivåer under grav, 
+
+* sjunkande kolloidosmotisaka trycket: fr 21mmhg -> 18mhg.
+* bidrar ökande benägenhet att utv ödem. 
+* tillförsel kristalloider för att kompensera blodförlust efter förlossning ger YTTERLIGARE SÄNKNING av kolloidosmotosika trycket. 
+
+
+
+Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas flödet fr extremiteter
+
+
+
+#### Njurfunktion**
 
   * **GFR ökar med 50%**: 
     * S-krea och S-urea sjunker
-    * Na-utsöndring ökar: pga ökad GFRm ökad progesteron, sjunkande albumin (tubulär påverkan ger minskad resorption albumin)
+    * Na-utsöndring ökar pga: 
+      * ökad GFR 
+      * ökad progesteron, 
+      * sjunkande albumin (tubulär påverkan ger minskad resorption albumin)
   * **albumin sjunker**: minskad tubulär resorption albumin
   * **nettoeffekt, ökad Na-retention**: pga högre motsatt effekt av aldosteron, östrogen, dexycortison, hPL
 
 
 
-#### **Leverfunktion**
+#### Leverfunktion**
 
   * **ALP ökar x2**: ASAT, ALAT, och bilirubin oförändrad
   * **Albumin minskar**: med 20%, även pga ökad utsöndring via urin
@@ -4224,7 +4480,7 @@ En del av källorna är fr Bernebrandt
 
 
 
-#### **Respiratoriska systemet**
+#### Respiratoriska systemet**
 
   * **Svullnad luftvägarnas slemhinnor:**
   * **förändring thoraxform, ökad tidalvolym 40%**
@@ -4235,7 +4491,7 @@ En del av källorna är fr Bernebrandt
 
 
 
-#### **Förändring skelett muskler**
+#### Förändring skelett muskler**
 
   * **Uppluckring** (foglossning?)
     * symfysen, 
@@ -4244,7 +4500,7 @@ En del av källorna är fr Bernebrandt
 
 
 
-#### **Förändringar GI-kanal**
+#### Förändringar GI-kanal
 
   * **ökad aptit o törst**
   * **illamående**: hyperemesis
@@ -4256,7 +4512,7 @@ En del av källorna är fr Bernebrandt
 
 
 
-#### **Förändringar i metabolismen**
+#### Förändringar i metabolismen
 
   * **Basalmetabolismen ökar**: 15-20%
     * kcal ökar med 300kcal/d = 2 smörgåsar ca
@@ -4265,7 +4521,7 @@ En del av källorna är fr Bernebrandt
 
 
 
-#### **Huden**
+#### Huden
 
   * **Chloasma** (aka melasma): ökad pigmentering ansikte, ofta symmetrisk. även vissa p-pill
   * **spider naevi**: telangiektasi. 2:3 ljushyade. främst första o andra ditrikitet
@@ -4275,9 +4531,46 @@ En del av källorna är fr Bernebrandt
 
 
 
+#### Yttre genitalia
+
+* Kärlnybildning.
+* Uppluckring av vävnaderna.
+* Ökad blodgenomströmning som ger LIVIDITET –färgskiftning –blåskimrande.
+* Förtjockad slemhinna.
+* Rikligare flytning.
+* Vaginalsekretet blir starkt surt (ph 4).
 
 
 
+#### Bröst
+
+* Förberedes för mjölkproduktion.
+* Hypertrofi och hyperplasi av körtelvävnaden.
+* Fettinlagring.
+* Varje bröst ökar ≈ 200-400g.
+* Ökad pigmentering av bröstvårtan och vårtgården  (ökad pigmentering förekommer även i övrigt påkroppen).
+
+
+
+#### Graviditetshormonerna
+
+* Förlänga corpus luteumfunktionen
+* Förändra det maternella  kardiovaskulära  systemet
+* Tillgodose  fostrets nutrition
+* !!! Möjliggöra  immunologisk kompatibilitet
+* Möjliggöra  ett stort antal somatiska förändringar som krävs för graviditeten 
+* I stor utsträckning komplext  system där det ibland är modern som styr hormonförändringarna,  ibland fostret!
+
+
+
+| Östrogen<br />                                               | Progesteron                                                  | hPL                                                          | PI-GH                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Blodflöde<br /> angiogenes<br /> !!! Tillväxt uterus<br /> PG-syntes, prostaglandin syntes<br /> Vasodilatation via NO<br /> påverkad ledbrosk<br /> vätskeretention<br /> stimulerar oxytocin<br /> proteinsyntes i levern<br /> | immunsuppression<br /> tillväxt bröst<br /> minskar uteruskontraktilitet<br /> hämmar motilitet GI<br /> minskar vaskulär tonus<br /> | Insulinproduktion<br /> Insulinresistens<br /> Fettinlagring, lipogenes<br /> Leptinresistens<br /> | insulinresistens i skelettmuskulatur<br /> ersätter hypofysiärt GH<br /> stimulerar IGF1 syntes<br /> lipolys<br /> glukoneogenes<br /> |
+| **Placentärt leptin**<br />implantation<br /> placentareglering<br /> fettomsättning<br /> |                                                              |                                                              |                                                              |
+
+***Östrogen***
+
+* 
 
 ### Försämrande faktorer
 
@@ -4352,55 +4645,64 @@ En del av källorna är fr Bernebrandt
 
 ***Kontroller under graviditet***
 
+
+
+**v5-12, Inskrivningsanteckning,  (kan ske tidigare):** 
+
+* Föranleder starten journalföringsmässigt vad gäller patienten
+* **Anamnes**: sjukdomar, hereditet, tidigare födslar, läkemedel, boende situation, arbete, deltagande i biobank, substansbruk, alkohol, tobak, matvanor, fysisk aktivitet, samlivsfrågor, könsstympning
+* **Status**: BT, vikt/BMI
+* **Provtagning**: Notera att man vid det absolut första besöket, om det är så pass tidigt, att man inte tar alla prover utan väntar till efter v10. Det är mer rel med fkap-Hb, TSH, urinsticka så pass tidigt (klam prov kan man ta tidigt)
+  * **venösa prover** 
+    * !!! **Tid**: v10-12 för att man vill ha fetalt-Rh, som fångas detta tidspannet då RBC produktion hos fostret är igång. 
+    * !!! **Hb + ferritin**
+    * **P-glukos**
+    * **thyroideaprover**: (TSH, T4?), detta verkar man kunna ta direkt, i.e. att man tar det vid första besöket (e.g. v5 o uppåt) för att det är så pass relevant för utvecklingen tidigt. 
+    * **blodgruppering BAS-test**
+    * **Fetalt Rh:** detta är orsaken till att man vill ta de venösa proverna efter v10, för att fetal erytrocytproduktion är igång, varpå man kan diffa detta, så man vill hellre ta alla prover tillsammans.
+    * **Serologi**?
+      * HIV
+      * Syfilis
+      * HBV
+      * rubella immunitet: för att hindra  kongenitalt rybella syndrom
+  * **urinprov**
+    * njurfunktion
+    * proteinuri
+    * glukosuri
+    * (tar en u-sticka på BMM/MVC)
+  * **klamydiaprov**: swab fr cervix, som pat kan göra sj  (annars att BM tar detta?)
+  * **cellprov, gynekologiskt**: barnmorsk kan ta detta
+  * **planerar fosterdiagnostik**: med att boka in KUB-tiden ()
+  * **Utökade kontroller**
+
+
+
 * **Skillnad mellan förstföderskor och omföderskor**
-* **Försföderskor**
-  * **v5-12, Inskrivningsanteckning,  (kan ske tidigare):** 
-    * Föranleder starten journalföringsmässigt vad gäller patienten
-    * **Anamnes**: sjukdomar, hereditet, tidigare födslar, läkemedel, boende situation, arbete, deltagande i biobank, substansbruk, alkohol, tobak, matvanor, fysisk aktivitet, samlivsfrågor, könsstympning
-    * **Status**: BT, vikt/BMI
-    * **Provtagning**: Notera att man vid det absolut första besöket, om det är så pass tidigt, att man inte tar alla prover utan väntar till efter v10. Det är mer rel med fkap-Hb, TSH, urinsticka så pass tidigt (klam prov kan man ta tidigt)
-      * **venösa prover** 
-        * !!! **Tid**: v10-12 för att man vill ha fetalt-Rh, som fångas detta tidspannet då RBC produktion hos fostret är igång. 
-        * !!! **Hb + ferritin**
-        * **P-glukos**
-        * **thyroideaprover**: (TSH, T4?), detta verkar man kunna ta direkt, i.e. att man tar det vid första besöket (e.g. v5 o uppåt) för att det är så pass relevant för utvecklingen tidigt. 
-        * **blodgruppering BAS-test**
-        * **Fetalt Rh:** detta är orsaken till att man vill ta de venösa proverna efter v10, för att fetal erytrocytproduktion är igång, varpå man kan diffa detta, så man vill hellre ta alla prover tillsammans.
-        * **Serologi**?
-          * HIV
-          * Syfilis
-          * HBV
-          * rubella immunitet
-      * **urinprov**
-        * njurfunktion
-        * proteinuri
-        * glukosuri
-        * (tar en u-sticka på BMM/MVC)
-      * **klamydiaprov**: swab fr cervix, som pat kan göra sj  (annars att BM tar detta?)
-      * **cellprov, gynekologiskt**: barnmorsk kan ta detta
-      * **planerar fosterdiagnostik**: med att boka in KUB-tiden ()
-      * **Utökade kontroller**
-  * **v16 (utförs vb; besök hos BM)**
-    * **EPDS**: edinburoguh depression scale
-    * förlossningsrädsla, extra emningstöd, uppfölj levnadsvanor, social problematik, våld nrära rel, våld, övergrepp
-  * **v15-16, KUB diagnostik**
-  * **v18-20 RUL**: Rutinultraljudet, för tillväxtbestämning, polyhydramnios, etc.
-  * **v20 BMM**: grupp eller individuellt besök
-  * **v25 BMM**: 
-    * **prover**: blodvärde, blodsocker, 
-    * fosterljud (hjärtfrekvens), mäta livmoder (SF), kontroll vikt/BMI, BT, val förlossningsklinik
-    * **utökade kontroller åtgärder**: planera immuniseringsprov, inforermera Rh-profy (Rh-neg). OGTT (v25-28)
-  * **v29 BMM**: fosterljud, SF, BT, blodsocker (därefter besök varannan vekcka)
-    * **Utökade kontroller åtgärder:** Rh-profylax
-  * **v31 BMM**: fosterljud, SF, BT, blodsocker
-  * **v33 BMM**: fosterljud, SF, BT, blodsocker
-  * **v35 BMM**: fosterljud, SF, BT, blodsocker, ev sammanfattning grav
-  * **v37 BMM**: fosterljud, SF, BT, blodsocker, ev sammanfattning grav, vikt/BMI
-  * **v39 BMM**: fosterljud, SF, BT, blodsocker
-  * **v41 BMM**: fosterljud, SF, BT, blodsocker, ev UL annan mottagning
-  * **1-16v efter förlossning**: 
-    * 2 BM besök
-    * förlossningsupplevelse, bristning, amning, bäckenbottenträning, preventivmedel mm
+
+**Försföderskor**
+
+* **v16 (utförs vb; besök hos BM)**
+  * **EPDS**: edinburoguh depression scale
+  * förlossningsrädsla, extra emningstöd, uppfölj levnadsvanor, social problematik, våld nrära rel, våld, övergrepp
+* **v15-16, KUB diagnostik**
+* **v18-20 RUL**: Rutinultraljudet, för tillväxtbestämning, polyhydramnios, etc.
+* **v20 BMM**: grupp eller individuellt besök
+* **v25 BMM**: 
+  * **prover**: blodvärde, blodsocker, 
+  * fosterljud (hjärtfrekvens), mäta livmoder (SF), kontroll vikt/BMI, BT, val förlossningsklinik
+  * **utökade kontroller åtgärder**: planera immuniseringsprov, inforermera Rh-profy (Rh-neg). OGTT (v25-28)
+* **v29 BMM**: fosterljud, SF, BT, blodsocker (därefter besök varannan vekcka)
+  * **Utökade kontroller åtgärder:** Rh-profylax
+* **v31 BMM**: fosterljud, SF, BT, blodsocker
+* **v33 BMM**: fosterljud, SF, BT, blodsocker
+* **v35 BMM**: fosterljud, SF, BT, blodsocker, ev sammanfattning grav
+* **v37 BMM**: fosterljud, SF, BT, blodsocker, ev sammanfattning grav, vikt/BMI
+* **v39 BMM**: fosterljud, SF, BT, blodsocker
+* **v41 BMM**: fosterljud, SF, BT, blodsocker, ev UL annan mottagning
+* **1-16v efter förlossning**: 
+  * 2 BM besök
+  * förlossningsupplevelse, bristning, amning, bäckenbottenträning, preventivmedel mm
+
 * **Omföderska**
   * **skillnaden besök var tredje vecka efter v25 fram t v40:** samma som förstföderska
   * **v38**: fosterljud, SF, BT, blodsocker, ev sammanfattning grav, vikt/BMI
@@ -5929,20 +6231,6 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Komplikationer***
-
-* **Modern**
-  * **Förlossnignstrauma**: cervixruptur, vaginalruptur, perinealbristning, sfinkterskad
-  * blödning pga trauma resp uterus atoni
-  * långtidsföljder av bäckenbotten o sfinkterskada
-* **barnet**
-  * hypoxi / asfyxi pga förlossningskomplikation
-  * förlossningsskada ex klavikelfraktur
-  * skulderdystoci
-  * plexus brachialis skada
-
-
-
 #### Large for gestational age
 
 ***Presentation***
@@ -5959,15 +6247,41 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Komplikationer eller problem***
+***Riskfaktorer***
 
-* Födseltrauma: skudlderdystoci (axeldystoci, shoulderdystoci) under förlossning
-  * svårigheter att förlosa axeln
-  * impaction, kolliderar, bakom bmaternell symfysis pubis
-* Förlossnings asfyxi
-* !!! Hypoglykemi pga **hyperinsulinism**
-* polycytemi
-* andningssvårigheter fr förstorad tunga, beckwith-wiedmann syndrom
+* Äldre omföderska
+* högt BMI
+* patologisk viktökning under graviditet
+* tidigare förlossning stort barn
+* DM1
+* GDM, gestationsdiabetes
+* överburenhet
+
+
+
+***Komplikationer***
+
+* **Modern**
+  * **Förlossnignstrauma**: 
+    * cervixruptur, 
+    * vaginalruptur, 
+    * perinealbristning, 
+    * sfinkterskada, analsfinkterskada
+  * blödning pga trauma resp uterus atoni
+  * långtidsföljder av bäckenbotten o sfinkterskada
+  * 
+* **barnet**
+  * hypoxi / asfyxi pga förlossningskomplikation
+  * förlossningsskada ex klavikelfraktur
+  * skulderdystoci
+  * plexus brachialis skada
+  * **Födseltrauma**: skudlderdystoci (axeldystoci, shoulderdystoci) under förlossning
+    * svårigheter att förlosa axeln
+    * impaction, kolliderar, bakom bmaternell symfysis pubis
+  * **Förlossnings asfyxi**
+  * !!! Hypoglykemi pga **hyperinsulinism**
+  * polycytemi
+  * andningssvårigheter fr förstorad tunga, beckwith-wiedmann syndrom
 
 
 
@@ -6124,6 +6438,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 - TTS 10-15% grav med gemensam placenta
 
 - utan behandling = dödlighet 80%
+
+
+
+### Translokation infektion 
+
+***Agens***
+
+* Man screenar för flera
 
 ### Urinvägarna
 
@@ -9922,31 +10244,58 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ##### ***Fysiologi***
 
-*  **Allmänt**
-   *  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
-   *  **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
-   *  **Fysiologisk inflammatorisk process**: uppmjukning cervix, tilltagande kontraktilitet i myometriet
-   *  **Ökar kontraktilitet i uterus**
-      *  **Oxytocin**: peptidhormon, pulsatil frisätt, hypofys baklob,
-         *  binder till cellytan av oxytocinreceptorer
-         *  uterus: oxy producerar rytmiska värkar under förlossning
-         *  bröstkörtel
-         *  hjärnan
-      *  **Östrogen**
-      *  **Prostaglandiner**
-      *  **Cytokiner**
-*  **Vad startar förlossningen okänt**
-   *  **Cervixmognad:** prostaglandiner, inflammatorisk process, ECM ändrar karaktär, cervix mjuknar
-   *  **Ökad kontraktilitet uterus**: oxytocinreceptorer
-*  **Generellt**
-   *  oklar def vad startar förlossning, vad förlossningsstart är, vad normal progrress är
-   *  **målsättning inte oklar**: frisk mamma, barn, bra upplevelse, ingripå lite som möjligt förlossning förlopp
-*  ENL FL
-   *  myometrie aktivitet påverkas under aktiv förlossning av 
-      *  oxytocin
-      *  progesteron: antagonist, inhiberar myometriet, relaxerar myometriet
-      *  östrogen: agonist, stimulerar tillsammans med oxytocin kontraktioer under förlossning
-      *  
+**Allmänt**
+
+*  Under fostrets tre trimestrar måste uterus kunna undehrhålla en volymökning fr 10mL t 6L och vitken fr 100g till 1kg, 
+*  **Glatt muskulatur**: dessa ska inte kontrahera under dessa trimestrar utan måste vara relaxerade och tillmötesgående, innan det blir dags för ett koordinerade sammandragningar. 
+*  **Fysiologisk inflammatorisk process**: uppmjukning cervix, tilltagande kontraktilitet i myometriet
+*  **Ökar kontraktilitet i uterus**
+   *  **Oxytocin**: peptidhormon, pulsatil frisätt, hypofys baklob,
+      *  binder till cellytan av oxytocinreceptorer
+      *  uterus: oxy producerar rytmiska värkar under förlossning
+      *  bröstkörtel
+      *  hjärnan
+   *  **Östrogen**
+   *  **Prostaglandiner**
+   *  **Cytokiner**
+
+
+
+**Vad startar förlossningen okänt**
+
+*  **Cervixmognad:** prostaglandiner, inflammatorisk process, ECM ändrar karaktär, cervix mjuknar
+*  **Ökad kontraktilitet uterus**: oxytocinreceptorer
+
+
+
+**Generellt**
+
+*  oklar def vad startar förlossning, vad förlossningsstart är, vad normal progrress är
+*  **målsättning inte oklar**: frisk mamma, barn, bra upplevelse, ingripå lite som möjligt förlossning förlopp
+
+
+
+ENL FL
+
+*  myometrie aktivitet påverkas under aktiv förlossning av 
+   *  oxytocin
+   *  progesteron: antagonist, inhiberar myometriet, relaxerar myometriet
+   *  östrogen: agonist, stimulerar tillsammans med oxytocin kontraktioer under förlossning
+
+
+
+***Hemodynamik***
+
+* BT ökar 35mmhg
+* cardiac output 
+  * öker 10-30% öppningsskedet
+  * ökar 50% utdrivningsskedet
+* Drivs av
+  * smärta
+  * autotransfusion
+  * valsalva
+  * fysiskt arbete
+  * sympatikuspåslag
 
 
 

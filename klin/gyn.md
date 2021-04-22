@@ -866,20 +866,6 @@ cerivicit
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Bäckenbotten
 
 
@@ -888,6 +874,8 @@ cerivicit
 
 - bedöms med krystning och 2 fingrar x-planet trycker mot rektum via vagina
 
+
+
 ***PRM***
 
 - Puborectal muskeln
@@ -895,6 +883,8 @@ cerivicit
 - den som man kniper med; den kontraheras
 - TODO: bifoga bilder fr gyn boken, de va ganska illustrativa
 - Ansträngningsinkontinens vid defekt, 70%
+
+
 
 ***Peruretral ligamentet***
 
@@ -1041,8 +1031,6 @@ cerivicit
 
 
 
-
-
 ***Etiologi och patofysiologi***
 
 * "Funktionell blödningsrubbning (tent)"
@@ -1057,11 +1045,11 @@ cerivicit
 ***Utredning och handläggning***
 
 * **Anamnes**
-  * Tidg sjd, nuvarande
-  * hereditet, koagulationsrubbningar
-  * läkemedel
-  * sedvanlig anamnes
-  * sexuell kontakt
+  * **Tidg sjd, nuvarande**
+  * **hereditet, koagulationsrubbningar**
+  * **läkemedel**
+  * **sedvanlig anamnes**
+  * **sexuell kontakt**
 * **Prover**: 
   * fkap-HB
 
@@ -1078,7 +1066,7 @@ cerivicit
 
 ***Presentation***
 
-* Caty är 27år
+* **Caty är 27år**
   * Söker för stora blödningar. hon önskar bli gravid och du förskriver därför inte hormonell behandling utan enbart cyklokapron och järntabletter.
   * Vilket typ av läkemedel är cyklokapron
     * Faktor VIII-frisättare 
@@ -2295,7 +2283,7 @@ cerivicit
 
 ### Myom
 
-
+#### Presentera
 
 ***Presentera***
 
@@ -2375,7 +2363,7 @@ cerivicit
     * vanligast 40mL, mellan 20-80mL. över 80 = RMB
   * 
 
-
+#### Allmänt
 
 ***Etiologi och patofysiologi***
 
@@ -2476,6 +2464,7 @@ cerivicit
 * **hypertension**
 * **lågdos antikonception** OCP protektiv mot utv
 * **HRT** postmenopausal kvinna att den kan växa i storlek men ingen påverkan kliniska symptom
+* NOTERA: övervikt verkar inte vara en risk för att utveckla myom
 
 
 
@@ -2796,7 +2785,7 @@ cerivicit
       * rätt: medinålder för att insjuukna i cervixcancer är 55-60.
       * konisering ökar risken för placenta previa 
 * **Vilken cysta är vad** (TODO, bekräfta att det är rätt cystor)
-  * **Endometriom**: 26-årig kvinna med kopparspiral, dysmenorre , vid vaginalt ultraljud ses en 4 cm septerad cysta på höger ovarie 
+  * **Endometriom**: 26-årig kvinna med kopparspiral, dysmenorre , vid vaginalt ultraljud ses en 4 cm **<u>septerad cysta</u>** på höger ovarie 
   * **Corpus luteum**: 48-årig kvinna söker för plötslig buksmärta. Regelbunden mens. Senaste mens för 3v sedan. Vaginalt ultraljud visar 6cm ekofattig cysta på vänster ovarie
   * **Malignitet**: 55-årig kvinna som söker för framfall som snabbt förvärrats.Vaginalt ultraljud visar en 8cm flerrummig cysta med exkrescenser
   * **Follikelcysta**: 32 årig kvinna söker för plötslig insättnde buksmärta som nu inte går över. Haft dessa smärtor lite av och till under en måands tid. Vid vaignalt ultraljud ses en 5cm stor ekofattig cysta.
@@ -5141,30 +5130,6 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 
 
-### Graviditetshyperton
-
-***Presentation***
-
-* **32 årig ensamstående kvinna med 6 barn i graviditetsvecka 36.** 
-  * Alla 6 är födda vaginalt. Hennes stora bekymmer är att det är svårt med barnpassning. Hon vill veta hur cervixstatus är nu. Du undersöker henne. Föregående fosterdel huvud ovan spinae. Cervix är mellanriktad, bevarad, öppen 3cm trattande, medium konsistens.
-  * BT 155/85, ska man beh eller expektera: man ska behandla
-
-
-
-
-
-***Etiologi och patofysiologi***
-
-* Ökad insulinresistens under graviditet
-* Ökat insulinbehov
-* hormoner placentala leder t resistensen (gestagener som driver detta?)
-
-
-
-***Behandling***
-
-* **Indikationer**: verkar som att indikationerna för behandling inte ändras generellt för hypertensiva tillstånd i grav, att 150/105-100 är gränsen för att man vill behandla, antingen systoliskt eller diastoliskt på den nivån ya3ni. 
-
 
 
 ### Graviditetsillamående och Hyperemsis Gravidarum
@@ -5426,6 +5391,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * ligger på rygg o trycket mot vena cava obstruerar blodflödet tillbaka t hjärtat.
   * De enda människorna som kan 
 
+* Vilket av följande påståenden är korrekt om graviditetsinducerad hypertoni(1p):
+
+  * Definieras som hypertoni under graviditeten oavsett i vilken vecka den debuterar. 
+  * Definieras som hypertoni under graviditeten som debuterar efter 10 fulla graviditetsveckor.
+  * Definieras som hypertoni under graviditeten som debuterar efter 20 fulla graviditetsveckor.
+  * Definieras som hypertoni under graviditeten som debuterar efter 30 fulla graviditetsveckor.
+  * Skall alltid behandlas då den är tecken på allvarlig underliggande kärlsjukdom.
+
   
 
 
@@ -5438,7 +5411,6 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **kronisk hypertension**
 * **kronisk hypertension med superimposed preeklampsi**: med eller utan svåra karakteristika
 * **HELLP syndrom**
-* **AFLP**
 * **AFLP:** akut fatty liver of pregnancy: GH, gestational hypertension; HELLP - hemolys av 
 
 
@@ -5462,13 +5434,36 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-
-
-### Preeklampsi
-
-#### Allmänt
+#### Graviditetshyperton
 
 ***Presentation***
+
+* **32 årig ensamstående kvinna med 6 barn i graviditetsvecka 36.** 
+  * Alla 6 är födda vaginalt. Hennes stora bekymmer är att det är svårt med barnpassning. Hon vill veta hur cervixstatus är nu. Du undersöker henne. Föregående fosterdel huvud ovan spinae. Cervix är mellanriktad, bevarad, öppen 3cm trattande, medium konsistens.
+  * BT 155/85, ska man beh eller expektera: man ska behandla
+
+
+
+
+
+***Etiologi och patofysiologi***
+
+* Ökad insulinresistens under graviditet
+* Ökat insulinbehov
+* hormoner placentala leder t resistensen (gestagener som driver detta?)
+
+
+
+***Behandling***
+
+* **Indikationer**: verkar som att indikationerna för behandling inte ändras generellt för hypertensiva tillstånd i grav, att 150/105-100 är gränsen för att man vill behandla, antingen systoliskt eller diastoliskt på den nivån ya3ni. 
+
+#### Preeklampsi
+
+##### Presentation
+
+***Presentation***
+
 * **Jie kommer på efterkontroll.** 
   * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
   * Fyra möjliga orsaker till den stora blödningen
@@ -5553,7 +5548,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Allmänt***
+##### Allmänt
 
 * aka havandeskapsförgiftning
 * Detta verkar vara en extension av hypertensiva tillstånd under graviditeten
@@ -5617,6 +5612,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * förutsatt att mamman inte haft hypertoni innan graviditet
 
 
+
+##### Etiologi
 
 ***Etiologi och patofysiologi***
 
@@ -5719,6 +5716,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+##### Utredning o handlägg
+
 ***Utredning och handläggning***
 
 * 
@@ -5784,6 +5783,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * CTG 2gg/d
 
 
+
+##### Behandling
 
 ***Behandling***
 
@@ -6699,6 +6700,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * rätt: de med endometrios har en ökad risk för infertilitet
   * de med endometrios har en ökad risk för cervixdysplasi 
   * de med endometrios skall inte behandlas med endast gestagen 
+* Bojan är 26 år gammal och har remitterats till Kvinnokliniken från sin vårdcentral på grund av tilltagande menstruationssmärtor där inte vanliga smärtlindrande tabletter hjälper.  Du träffar henne för att planera för behandling. Hon önskar inte skaffa barn i nuläget. Hennes menstruationer är regelbundna och hon har mycket svår PMS c:a 7-10 dagar innan varje menstruation.Vilken behandling är mest lämplig?(1p)
+  * Gestagena mellandoserade piller
+  * Hormonspiral
+  * P-stav
+  * Kombinerade p-piller 
+  * Opiod i tillägg till paracetamol och NSAID
 
 
 
@@ -8729,7 +8736,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Presentation***
+#### Presentation
 
 * **Eva, 16år,** 
   * söker på abortmottagningen tillsammans med pojkvännen Adam. Hon hade senaste mens för 6 veckor sedan. På ungdomsmottagningen har man tagit graviditetstest och klamydiatest, båda var positiva. Eva och Adam, som just fyllt 18 år, har praktiserat avbrutet samlag de senaste månaderna. I början använde de kondom. Eva önskar nu genomgå abort.
@@ -8777,14 +8784,17 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+#### Allmänt
+
 ***Etiologi och patofysiologi***
 
 * **Ovulation efter abort**: pat akan ovulera så snart som 8-10 d fr abort;
 * **Vikten av preventivmedel**: detta belyser att man bör börja med preventivmedel utan dröjsmål
   * detta oavsett metod. 
 * **Progesteronhämmare, mifegyne, mifepriston**: progesteron normalt sett relaxerar uterus 
-  * Med progesteronhämmare kommer uterus att kontrahera
+  * Med progesteronhämmare kommer uterus att kontrahera, dra sig smamman
   * cervix kommer att relaxera också
+  * gör myometriet mer känsligt för prostaglandiner
   * fostret kommer att stötats bort
 * **Prostaglandinerna, misoprostol, cytotec**: kontraktionerna ökar i uterus. 
 
@@ -8792,11 +8802,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Abortlagen***
 
-* **->v18**: fri abrort, pat fattar beslut sj. dvs tom v18 + 0
+* **->v18**: fri abort, pat fattar beslut sj. dvs tom v18 + 0
 * **v18+1-v22 (enl praxis och inte lagen)**: särskilt tillstånd från socialstyrelsen
   * kräver kuratorkontakt + läkarutlåtande + abortönskan -> skickas till socialstyrelsen för bedömning och beslut. 
 * **Specifikt säger abortlagen, ingen direkt övre gräns**: after 18e veckan måste fostret vara icke livsdugligt för att kunna aborteras. Allstå ingen övre gräns. 
-* **Andra indikationer till abort efter **
+* **Andra indikationer till abort efter**
+* **Beviljar tillstånd för abort efter  v18**: socialstyrelsen
 
 
 
@@ -8804,20 +8815,48 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * **Innan abort,**
   * **Anamnes**	
+    * Antal graviditeter, utfall av dessa
     * Kroniska sjd
-    * lkm
-    * allergier
-    * tid grav
-    * tid gyn sjd
+    * Läkemedel och preventivmedel
+    * Allergier
+    * Tid grav
+    * Tid gyn sjd
     * gyn undersök inkl UV infek
     * gravlängd
     * normal grav
+    * **Kontraindikationer mot mifepriston och misoprostol**
+      * Överkänslighet mot mifepriston, misoprostol
+      * blödningsrubbning
+      * binjurebarksinsufficiens
+      * okontrollerad svår astma
+    * **Hereditet högt BT, VTE**
+    * **LIvsstil**: för STD screening relevans
   * **Måste ha utförts innan abort**
-    * STD blivit behandlade: klamydiainfek. 
+    * **Behandlat för STD**: klamydiainfek. 
+* **Status**
+  * Gynstatus
+  * uterus lokalisation, betydelse för kirurgisk exeres: retroflekterad eller anterofletkterad
+* **Provtagning**
+  * Undersökning + provtagning avseende infektion..
+  * kontroll pH, evt wet smear för diagnostik BV
+  * STI,STD provtagning på indikation
+  * **BV, förelgger**: ska ab behandlas innan aborten, men abort ska inte fördröjas
+  * **Klamydia, föreligger..**: 
+    * ab behandling innan exeres; 
+    * vid medicinsik abort, ge ab så fort provsvaret kmr, BEHÖVER INTE INVÄNTAS innan start abortbehandlingne
 * **Abort med dilaterad OS (portio öppning?)**	
   * "inevitable"
   * inkomplett
-* **Beviljar tillstånd för abort efter  v18**: socialstyrelsen
+
+
+
+***Uppföljning***
+
+* Medicinsk abort, tom v9
+  * efterkontroll säkerställa att abort slutförd
+  * olika sätt
+  * UL, serum-hCG, U-hCG, 
+  * accepterad möjlighet: kvinna gör u-hCG gravtest, efter ca 2v. 
 
 
 
@@ -8833,9 +8872,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Medicinsk abort***
 
-* **dag1**: mifepriston 200mg po
-* **dag2/3**: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
-  * om ej börjat blöda inom 3h: upprepad misoprostol 2x0.4mg vaginalt, subling, el peroralt
+* **Antibiotikabehandling**: föreligger BV ska den behandlas innan påbörjad abort
+* **grav <v9 + frisk**: kan ta cytotec hemma, men mifepriston tas pp klinik
+* **Allmänt**
+  * **dag1**: mifepriston 200mg po, peroralt
+  * **dag2/3**: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
+    * om ej börjat blöda inom 3h: upprepad misoprostol 2x0.4mg vaginalt, subling, el peroralt
+* **ska observera blödning**: man ska observera pat tills börjat blöda. 
+* **om aborterar hemma**: ge noggrann information innan hemgång. 
+  * kontakt vid fortsatta gravsymptom
+  * tecken komplikatioin: infektionstecken, svår smärta, påverkat AT, riklig bödning, utebliven blödning
+  * abort EJ avslutad INNAN efterföljande kontroll med besök ELLER gravtest säkerställt detta
+* **Smärtlindring**
+  * samband adminstration misoprostol (cytotec)
+  * NSAID (ibuprofen) + paracetamol
 
 
 
@@ -9044,6 +9094,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * Olga är 32år
   *  och remitteras från en privat gynekolog till fertilitetsenheten. Kommer tillsammas med sin man. Från remisen framgår 0 gravida lider av kornisk smärta nedre delen. Samma namnes som innnan
   * Sen: En annan orsak till kvinnlig infertilitet är postinfektiösa orsaker. Beskriv hur infektioner kan leda till infertilitet.Kan skada på tuborna med ärrvävnad och blockering av äggledarna vilket i sin tur leder till infertilitet. 
+* Alida kommer till dig och berättar att hon och hennes sambo Mikael har försökt bli med barn i 2 års tid. Du förklarar att Mikael måste komma till mottagningen.
+  * Ange 2 orsaker till manlig infertilitet (2p)
+  * Ange hur dessa diagnosticeras (2p)
+  * Nämn 4 orsaker till kvinnlig infertilitet? (4p)
 
 
 
@@ -9077,28 +9131,52 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * **Postoperativa**: 
     * kejsarsnitt att det är färre barn efter kejsarsnitt och glesare mellan barnen (vet ej om frivilligt eller ej; kan confounding factor; eller orsaker t kejsarsnitt som hög ålder, eller annan sjjd exempelvis)
   * **Läkemedel + tidg behandlingar**: 
-    * strålbehandling; cytostatika; NSAID påverkar fovulation; 
-    * spermakvalitet negativt: cimetidin, sulfasalazin, androgener
+    * strålbehandling; cytostatika; NSAID påverkar ovulation; 
+    * **spermakvalitet negativt**: cimetidin, sulfasalazin, androgener
   * **Tidigare infektioner**
     * // klamydia kan försvåra för graviditet; till skillnad fr candida, bakteriell vaginos, HPV som inte påverkar fertilitet
     * infektioner speciellt  genitalia
-  * operationer i bukhhålan
-  * Hos mannen: ljumskbråck, tidg operationer genitalia, ljumsbråcksoperationer. 
+  * **operationer i bukhhålan**
+  * **Hos mannen**: ljumskbråck, tidg operationer genitalia, ljumsbråcksoperationer. 
 * **Fekunditet** 
-  * Ålder: komplex o multifaktoriell. ökad medicinska faktorer, hormon, psykosociala faktorer, gyn sjd e.g. myom endometrios o resttillstånd efter infektion har betydelse
+  * **Ålder: komplex o multifaktoriell. ökad medicinska faktorer, hormon, psykosociala faktorer, gyn sjd e.g. myom endometrios o resttillstånd efter infektion har betydelse**
     * 25åå = 31%
     * 30åå minskad fekunditet
     * 45åå fåtal kvinnor som blir gravida
-  * 40åå: kraftigt försämrad fekunditet
-    * öakde anovulatoriska cykler
+    * Enl kirurg att infertilite hos kvinnor drivs av ovum som mår dåligt, eller om är subpar. varpå orsaken till att man fryser ned ägg. 
+  * **40åå: kraftigt försämrad fekunditet**
+    * ökade anovulatoriska cykler
     * försämrad ovarailfuntkion med färre folliklar, högre 
     * högre andel defekta oocyter 
     * högre andek kromosmalt abnorma embryon
   * **indicens missfall**: 30åå 8-10%; 40åå 30%
-  * livsstil: hög kaffekonsumption, alkohol, rökning, marijuana, övervikt, undervikt
+  * **livsstil**: hög kaffekonsumption, alkohol, rökning, marijuana, övervikt, undervikt
   * **STI ökar med missbruk, ökad missfallsfrekvens.**
-  * alkohol och lägre spermieantal
-  * låg koitusfrekcens (färre än 1gg i veckan) minskar osså kumulativ graviditetsfrekvens inom ett år. 
+  * **alkohol och lägre spermieantal**
+  * **låg koitusfrekcens** (färre än 1gg i veckan) minskar osså kumulativ graviditetsfrekvens inom ett år. 
+
+
+
+
+
+***Manlig infertilitet***
+
+* **Spermieantal**: azospermi
+* **Spermiekvalitet**
+  * idiopatisk subfertilitet
+  * varikocele
+  * hypogonadism: testosteronbrist
+  * kryptokidism
+  * störningar i sädesuttömning
+  * genetiska störningar
+  * immunologiska faktorer
+  * systemisk sjd
+  * obstrktioner
+  * testikeltumörer
+* **Kirurgiskt**
+  * ljumskbråck
+  * tidigare operationer genitalia
+  * ljumskbråcksoperationer
 
 
 
@@ -9111,12 +9189,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Epidemiologi***
 
-* vanligt
-* primär infertilitet: 3.5-6.6%
-* sekundär infertilitet: 2-10%
+* **vanligt**
+* **primär infertilitet**: 3.5-6.6%
+* **sekundär infertilitet**: 2-10%
 * 15-20% av alla par b eräknas inte få barn när de önskar. 
-* sterila par: 1% 
-* fekunditet: sannolikhet för konception per menscykel eller per månad
+* **sterila par**: 1% 
+* **fekunditet**: sannolikhet för konception per menscykel eller per månad
   * antalet kvinnor som blir gravida per cykel el månad, delat med antalet som försöker bli grav. 
 
 
@@ -10039,6 +10117,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * väntar sitt första barn och har kommit till vecka 37+0. Graviditeten har varit normal. Hon är orolig för förlossningen och undrar om den satt igång. Hon har haft tre sammandragningar under förmiddagen som gjort ont. Hon inkommer till förlossningen. kl13. BT 110/70. Urin neg för glukos och protein. Cevix är bibehållen, sacral sluten och fast. Ingen vattenavgåstora-tox: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, ng. CTG ser ut så här
 
 <img src="./imgs/gyn_sam_130321_9nTU4WNQaR.png" alt="9nTU4WNQaR" style="zoom:50%;" />
+
+
+
+#### Patologiskt CTG
+
+***Handläggning***
+
+* Föreligger bradykardi
+  * föreligger utdrivningsskedet, slutet: att man förlöser kvnnan vaginalt akut
+  * Annan situation: tocolytica + kejsarsnitt
 
 
 
@@ -11748,6 +11836,114 @@ ENL FL
 
 
 ## Postpartum
+
+### Blödning
+
+#### Presentation
+
+* Kvinnor i länder med få resurser riskerar att dö i samband med förlossning. Den vanligaste orsaken att kvinnor dör vid förlossning är blödning. 
+  * Vilket är den vanligaste orsaken till blödning postpartum > 1000 ml?
+  * Cervixskada 
+  * Pernealbristning
+  * rätt: atonisk uterus
+  * Koagulopati 
+
+
+
+
+
+#### Etiologi
+
+* **TTTT**
+* !!! **Tone**: <u>uterusatoni</u>, 50-80%
+  * **Orsakat av**
+    * uttänjd livmoder: 
+      * makrosomi
+      * polyhydramnios
+      * fostermissbildningar
+      * flerbörd
+    * Utdragen eller snabb förlossning
+    * multipara, >3-para
+    * infektion
+    * tidigare postpartumblödning
+    * myom
+    * uterusmissbildningar
+    * placentaavlossning
+    * uterusinversion
+    * hypotermi
+    * lkm påverkan
+      * betamimetika
+      * isofluran
+      * magensiumsulfat
+      * kalciumblockerare
+      * NSAID
+* **Trauma** 15-35%
+  * **Kejsarsnitt**
+  * **förlossningsskador**: laceation av vagina, cervix, isthmus uteri, eller hematom
+  * **Instrumentell vaginal förlossning**: suklocka, tång, episiotomi
+  * **Uterusruptur**: ffa ökad risk efter tidigare kejsarsnitt eller annan uterusoperation
+  * **Uterusinvasion**: (osäker vad d)
+* **Tissue** 10%
+  * !! **Placentaretention**: kvarhållen placenta, placentarest, NOTERA att den är lågfrekvent
+  * **Placenta previa**: föreliggande placenta
+  * **Placenta accreta, increta, percreta**:
+* **Thrombin**: 1%, blir högre om beaktar att stora blödningar så småningom alltid leder t en koagulationsrubbning
+  * Koagulationsrubbning
+  * Preeklampsi HELLP
+  * anemi
+  * placentaavlossning
+  * antikoagulantia
+  * sekundär fibrinolys
+* **Efter frekvens**
+  * Atoni
+
+
+
+***Ytterligare riskfaktorer***
+
+* BMI >35
+* Asiatisk ursprung
+* Ålder >40åå
+* !! äggdonation: blödningsrisk postpartum
+* generell anetesi kontra lokal anestesi, kontra lokal anestesi, i samband kejsarsnitt
+* induktion
+* feber under förlossning
+
+
+
+***Handläggning***
+
+* Diagnosticera blödningsorsaken
+* Detta genom undersökning av uterus efter atoni, bristningar eller placentaretention. Blodprov tas för att utreda koagulationsrubbning, samt erhålla utgångsvärden.
+* **Tone**
+    * Uteruskontraktion är den viktigaste faktorn för att minska blödning. 
+    * Bimanuell kompression av uterus minskar cirkulationen till uterus och lilla bäckenet efter förlossningen. 
+    * Aortakompression kan rädda liv. 
+    * Farmakologisk behandling enligt nedan.
+* **Trauma**
+    * Bristningar: Suturera, vid behov på operation. Eventuell tamponad.
+* **Tissue**
+    * Vid kvarhållen placenta ≥ 30 minuter, försök lösa den med hjälp av Credés handgrepp (en hand placeras utvändigt över fundus på livmodern och komprimerar uterus och en hand vaginalt för att föra ut navelsträng/placenta) med god smärtlindring. Vid kvarhållen placenta med blödning ≥ 1000 mL eller ≥ 60 min efter barnet födelse, gör exploration på operation. Överväg detta även vid ofullständig placenta (≥ 1 cm defekt), då placentarester eller stora koagel kan spänna ut uterus och försämra kontraktionen.
+* **Thrombin**
+    * Ge ev läkemedel, se nedan.
+
+
+
+***Behandling***
+
+* **Uterotonika**
+  * Oxytocin
+  * Metylergometrin
+  * Karbopost
+  * !! Misoprostol
+* **Koagulation och blodprodukter**
+  * Cyklokapron, tranexamsyra
+  * Erytrocytkoncentrat, plasma, trombocyter: 4:4:1
+  * fibrinogen
+  * kalciumglukonat
+  * trombosprofylax
+
+
 
 ### Feber postpartalt
 

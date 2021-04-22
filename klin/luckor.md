@@ -82,3 +82,5 @@ beroende på hur akut detta är
 * komplikatioenr puerperiet
 
 * Hyperpyrexi
+
+* Handläggning preeklampsi frågan fr omtenta HT19

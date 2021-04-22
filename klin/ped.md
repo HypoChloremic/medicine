@@ -10371,7 +10371,7 @@ En kort lista över kliniska manifestationer av CF:
 ***Sjukdomarna***
 
 * 25 sjukdomar
-* Endokrina sjukdomar
+* **Endokrina sjukdomar**
   * Kongenitel hypothyreos: medfödd brist, 
   * CAH: kongenital binjurebarkshyperplasi; ärftlig nesättnign bildning kortisol och aldosteron
     * flickor missbildade yttre könsorgan, 
@@ -10381,29 +10381,29 @@ En kort lista över kliniska manifestationer av CF:
       * flickor viriliseras: ökad bildning manlig könshormon
       * pojkar, flickor, kortare slutlängd
     * behandlas binjurebarkshormon
-* Metabolismen
+* **Metabolismen**
   * Fettsyror, och längd
     * MCAD brist
     * LCHAD
     * VLCAD
   * karnitin: CPT1, CACT, CVPT2, CUD
-* Organiska acid-urier
+* **Organiska acid-urier**
   * IVA,
   * proprionsyrauri
   * MMA, metylmalonylsyrauri
   * Glutarsyrauri
   * MAD: multipel acyl-CoA dehydrogenasbrist
   * BKT
-* Urea cykel, fel
+* **Urea cykel, fel**
   * CIT, citrullinemi
   * arginiosyccinatylsyra brist
   * arginasbrist
-* andra fel omsättning aminosyro
+* **andra fel omsättning aminosyro**
   * PKU
   * MSUD: maple syrup uine isease. fel nedbrhytning aminosyror leucin, isoleucin, valin
   * tyrosinemi TYR1
   * Homocysteinuri: fel nedbrytning homocystein, lika mutationer. drabbas linslosning, akut synnedäsättning ena ögat. försenad utveckling, skelettpåverkad, svarar bra med pyrodixin behandling. 
-* andra brister
+* **andra brister**
   * BIOT
   * Galaktosemi: brist galaktas.. , insjuk när mat med galaktos som bröstmjölk eller ersättning. första symptom inom första 10levnadsdagarna, kräknignar, viktedngång, slöhet, gulsot
   * SCID: ansamlingsnamn grupp ärftlgia sjd. saknar viss antikroppar, T-cekker. kan stamcellstranslanteras tidigt

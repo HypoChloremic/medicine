@@ -483,6 +483,12 @@ cerivicit
   * Anstärngningsinkontnines finna bara hos kvinnor som fött barn vaginalt 
   * Ansträngnignsinkontines innebär ofta att man får täta trängningar
   * Överaktiv blåsa går att behandla med s.k. TVT operation 
+* Vilket påstående är rätt?
+  * Ansträngningsinkontinens behandlas i första hand med läkemedel.
+  * Ansträngningsinkontinens innebär ofta att man får täta trängningar.
+  * Ansträngningsinkontinens finns i högre utsträckning hos kvinnor som fött vaginalt.
+  * Trängningsinkontinens definieras som ofrivilligt urinläckage i samband med t.ex. hosta, nysningar och fysisk aktivitet
+  * Trängningsinkontinens går att behandla med så kallad TVT-operation.
 * !!! **Anna 54år**
   * kommer till dig på bäckenbottenmottagningen pga inkontines. Hon har fött tre vaginalt. BMI 35. Hon har ffa besvär när hon springer, hoppar, nyser eller hostar. Hon är i övrigt frisk.  
   * Vilket av följande påståenden är korrekt?
@@ -687,6 +693,31 @@ cerivicit
 * Mer omfattande utredning
   * urodynamik
   * speciellt om överväger kirurgisk behandling
+
+
+
+
+
+***Behandling***
+
+* Blandinkontinens UTAN detrusorinstabilitet
+  * **Yngre kvinnor, före menopaus**
+    - första hand konservativ behandling: bas bäckenbottenträning
+    - Otillräcklig effekt: slingplastik (TVT), med stöd mitturetra. 
+      - helst efter familjebildning färdigt, 
+      - alternativt att man överväger kejsarsnitt
+  * **Kvinnor perimenopausalt, upp till 65-70åå**
+    - 1a hand konservativ behandling, men **vänta inte för länge på operation**
+    - om operation slyngbehandling
+    - !! **lokal östrogenbehandling rekommenderas**
+  * **Äldre kvinnor**
+    - Värdera biologiska ålder. 
+    - historik: DM, strke, tidigare operationer, försämrar operationsresultatet
+    - slutningstryck urinrör sjunker med ålder. Lägre tryck åpverkar oftast behandlingsresultaten negativt. 
+    - vitalare patienter kan slingplastik. 
+    - annars injektionsbehandling
+    - ibland farma behandling: duloxetin
+    - lokal östrogenbehandling rekommenderas
 
 
 
@@ -1100,6 +1131,11 @@ cerivicit
   * Riskfaktorer för denna diagnos, minst 2
     * obesitas
     * tamoxifen
+* Emma 38 år söker på medicinakuten pga yrsel. Man fann ett Hb på 68. Hon har sökt hos sin distriktsläkare för tre månader sedan pga trötthet. Man konstaterade låga järn-och ferritinnivåer. Honfick järntabletter,inget återbesök planerades. 1-gravida, en legal abortmed vakuum exaeres för 15 år sedan. Tidigare frisk. Hon remitteras till kvinnokliniken av en påläst underläkare. 
+  * a)Nämn 4 viktiga anamnestiska uppgifter som kan ge dig en uppfattning om Emmasmenstruationer (4p)
+  * Det visar sig att Emmahar rikliga blödningar. Uterus palperas förstorad motsvarande graviditetsvecka 10-11, inga resistenser på platsen för adnexa. Ultraljud visar ett 5 cm stort myom i fundus. I övrigt inget anmärkningsvärt. 
+  * b)Nämn 2olika förstahandsbehandlingar som man kan erbjuda Emma.(2p)
+  * c)Redogör för verkningsmekanismerna bakom dessa 2behandlingsalternativ(2p
 
 
 
@@ -1363,7 +1399,7 @@ cerivicit
 
 
 
-##### Allmänt
+##### Presentation
 
 ***Presentation***
 
@@ -1423,10 +1459,16 @@ cerivicit
   * svar: Antigen lokalbedövning eller i vissa fall narkos. Genom vaginal operation så skär man bort cirka en del i livmodertappen med hjälp av en upphettad metalltråd s.k. slynga
 * **Påverkar behandlingen fertilitet och barnafödande undrar Linda som har mycket frågor?**
     * Påverkar inte fertiliteten eller barnafödandet. Har dock visats att de som genomgått konisering har högre frekvens av prematur födsel.
+* Margareta 48-år kommer till din gynmottagning från screeningprogrammet pga LSIL och hög-risk HPV.
+    * Hur utreder du Margareta? (1p)
+    * Vilken behandling föreslår du om det visar sig att Margareta efter utredning har en HSIL? (1p)
+    * Behöver Margareta följas upp efter behandling? (1p)
+    * Motivera ditt svari c! (2p)
+    * Margareta undrar om hon kan smitta sin nya partner med detta virus? Vilken information ger du Margareta kring risken för smitta och konsekvenser av det(1p)?
 
 
 
-***Etiologi och patofysiologi***
+##### Etiologi och patofysiologi
 
 * (s 200 i gynboken)
 * **Cervixkanalens mynning, den yttre modermunnen, möts 2 vävnadstyper varandra: skivepital utanpå cervix och körtelepitel inuti kanalen.**
@@ -3439,6 +3481,8 @@ cerivicit
 
 #### Amenorré
 
+##### Presentation
+
 ***Presentation***
 
 * **!!! Mira, född 1995,** 
@@ -3482,8 +3526,7 @@ cerivicit
 
   * Vad heter den vanligaste typen av amenorre ( utöver graviditet) för såväl primär som sekundär amenorre hos unga kvinnor- dvs på vilken nivå ligger problemet?
        * SvaR: hypothalamisk amenorre. 
-
-  * Nämn två orsaker till denna typ av amenorre?
+* Nämn två orsaker till denna typ av amenorre?
       * SvaR: Anorexia nervosa, mycket fysisk träninng, stress. 
   * långsiktiga hälsokonsekvenser förutom infertilitet av denna 
     * Osteoporos, muskuloskeletala skador, hämmad skelettutv
@@ -3498,9 +3541,16 @@ cerivicit
     * Anpassad fysisk aktivitet 
     * Hormonell substitution: HRT eller P-piller.
     * Kalcium och D-vitamintillskott viktigt. 
+  * Vilken av följande kvinnorhar oligomenorré?
+      * 25 år gammal, regelbunden mens, 28dagars intervall, blöder 5 dagar.
+      * 35 år gammal, regelbunden mens, 28 dagars intervall, blöder bara 2 dagar.
+      * 35 år gammal, oregelbunden mens, 37–48dagars intervall, blöder 5–7dagar.
+      * 37 år gammal, regelbunden mens, 20–22dagars intervall, blöder 4-5 dagar.
+      * 19 år gammal, ej haft mens på 7 månader.
 
 
 
+##### Allmänt
 
 ***Allmänt***
 
@@ -5423,19 +5473,15 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Hon födde barn normalt för 8 veckor sedan i vecka 34. Blev igångsatt då eftersom hon hade svår havandeskapsförgiftning. Hon blödde mycket närmare två liter under förlossningen. Symptomen på preeklampsi som hon hade under graviditeten har gått tillbaka och barnet mår bra
   * Fyra möjliga orsaker till den stora blödningen
   * RIsker framtiden med tanke grav komplikation: "preeklampsi, hjärtkärlsjukdomar senare i livet"
-  
 * **Pat 35åå**
   * preeklampsi
   * nu ihållande bradykardi på CTG 
   * ska misstänka placenta ablatio 
-  
 * **pat 35åå** 
   * tidigare snittad
   * nu ihållande bradykardi på CTG 
   * ska misstänka uterus ruptur
-  
 * **35åå, 5grav 0 para**
-
 * - 2 missfall, 2 abort
   -  Noteras kontroll v24 att BT högt
   - RUL ser ej ngt avvikande, men åter UL bokas in [oklart om avplanad SF-mått]
@@ -5450,7 +5496,6 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   - skrivs ut v28: informerar pat om tecken på preeklampsi att det krisar etc för att söka akut e.g. påverkade fosterrörelser avviker, flimrar ljus ögon, skakig, huvudvärk, 
   - Läkemedel trandate: 300mgx3 vid utskrivning
   - Enl handl: dessa med preeklampsi samt IUGR inte förväntat att de blir fullgångna, utan amna snittar tidigt ändå, att det behövs. Man har täta kontroller och följer  CTG e
-  
 * !! ?? **Elin söker dig på MVC, TODO**; detta fallet att det står proteinuri på ett konstigt sätt. 
   * i graviditetesvecka 20. hon är frisk och födde barn för tre år sedna i vecka 39. barnet vägde 2.3kg.
   * Blodtryck idag 130/80 mmhg, urinsticka visar 0/ spår för proteinuri. hon har just varit på rutinultraljud och allt var bra där. hon mår bra och arbetar som vanligt och det går bra. 
@@ -5461,7 +5506,6 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * remiss spec-MVC: föreligger 2 riskfaktorer, att trombyl behöver läggas in
     * tätare BT + u-sticka kontroller resten av grav t v36: 
     * tillväxt-UL + flöde UL v24 
-  
 * !!!**Pia, preeklampsi + kejsarsnitt postop handlägg**
   * genomgick Kejsarsnitt operation igår på grund av en svår preeklampsi grav vecka 34.
   * målblodtryck hos pat med svår preeklampsi i sluteta v graviditet: 
@@ -5473,40 +5517,39 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * !! NSAID kan g e BT stegring o vid svår hypertoni postpartum bör dessa prep undvikas. paracetamol kan ge leverpåverkan + njurar, bör undvikas vid lever o njurpåverkan
   * Ngt lkm som bör sättas in början nästa grav, mtp preeklampsi denna grav: 
     * trombyk (riskreduktion för preeklampsi igen)
-  
 * 40åå kvinna, v30
-
 * - Tidg o nuv sjd: cushing som upptäcktes med tidigare förlossning (då prematur v36..., snitt, 10 år tidigare)
-
-  - Kommer in avdelning
-
+- Kommer in avdelning
   - Dag1: UL-flöden visade påverkade flöden (visar redistribution), BT högt (höjer trandate?), påverkade leverenzymer, CTG normalt. pat får Betapred dos 1 d1 (ska få 2 doser, förutsätter en d1 och en d2) 
-
-  - - HELLP
-
+- - HELLP
   - Dag2: BT högt, CTG visar nu komplicerade decelerationer (ingen korttidsvariabilitet)... 
-
-  - - neurostatus: visar morgonrond helt opåverkat AT, glad o pigg, men lite lättutlöst reflex, fotklonus hö fot, ser lite svullen ut
-
-    - man kopplar bort CTG 30 min (den har pågått sedan morgonen, kl är nu 10) sen checkar CTG efter 30min. 
-
-    - ang kompl decel: är det lägesberoende frågar ÖL, att man ber patienten använda olika positioner. 
-
-    - handl signerar som patologisk CTG, sen annan signerar som avvikande, nu ÖL kommenterar
-
-    - !! ÖL kommenterar att det är CTG man ska gå på vad gäller akut snitt
-
-    - - saken är att ser helt normalt ut mellan decel, och läkarna blir fundersamma vad gäller om akut snitt eller ej. 
+- - neurostatus: visar morgonrond helt opåverkat AT, glad o pigg, men lite lättutlöst reflex, fotklonus hö fot, ser lite svullen ut
+  
+  - man kopplar bort CTG 30 min (den har pågått sedan morgonen, kl är nu 10) sen checkar CTG efter 30min. 
+  
+  - ang kompl decel: är det lägesberoende frågar ÖL, att man ber patienten använda olika positioner. 
+  
+  - handl signerar som patologisk CTG, sen annan signerar som avvikande, nu ÖL kommenterar
+  
+  - !! ÖL kommenterar att det är CTG man ska gå på vad gäller akut snitt
+  
+  - - saken är att ser helt normalt ut mellan decel, och läkarna blir fundersamma vad gäller om akut snitt eller ej. 
       - betapred som kan tidigareläggas för att normalt sett inför prematur förlossning, att man ger 2 doser 1dos 1dag sen 2a dos 2a dagen. innan förlossningen, det ska vara 24h emellan. Neo säger att man ej tidigarelägger att det inte har ngn effekt, men att obstetr tidigarelägger.
-      - I detta fall tidigareläades inte dosen, kl är nu 10:20
-
-    - att man ska tidigarelägga flöden
-
+    - I detta fall tidigareläades inte dosen, kl är nu 10:20
+  
+  - att man ska tidigarelägga flöden
+  
     - vänta på proverna: om dessa ser bra ut att man kontaktar CFM. 
-
-    - tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
-
+  
+  - tidg anteckning pat har en essentiell hypertoni och har successivt behövt höja medicineringen under grav. Står nu på Trandate 400 mgx3, Amlodipin 10 mg x1
   - Sammanfatt: preeklapmsi påverkade levervärden misstänkt HELLP, påverkade flöden
+* Tanishiaär 31 år och väntar sitt första barn. Hon kommer på kontroll enligt basprogrammet i v.32 till sin barnmorska. Hon berättar att hon fått svullnaben de senaste dagarna. På direkt fråga har hon även haft lite huvudvärk och det hjälpte inte med Alvedon.Man kontrollerar blodtryck och urinsticka. Dessa visar 1+ proteinuri och blodtryck 135/90.
+  * a)Hur handlägger du Tanishiade närmast 2 veckorna? (1p)
+  * Tanishia utvecklar pre-eklampsi i v 34och remitteras till specialistmödravården.
+  * b)Vad är definitionen på pre-eklampsi?(3p)
+  * Vid pre-eklampsi som debuterar i v 34 vidtas ytterligare åtgärderutöver basprogrammetför att säkerställa att mamma och foster mår bra.
+  * c)Nämn 2 av dessa åtgärder? (2p) Tanishia induceras i v 37.
+  * d)Nämn två orsaker till att man ibland behöver behöver inducera förlossning hos kvinnor med pre-eklampsi (2p)
 
 
 
@@ -5565,12 +5608,18 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * ASAT, ALAT över 1.2
   * **!! EJ obligat proteinuri eller hypertoni**
 
+
+
 ***Diagnos***
+
 * **Hypertoni** efter v20 + [proteinuri eller andra former av organskada]
 * **Blodtrycket**: över 140, två mätningar 4-6 timmars mellanrum
   * förutsatt att mamman inte haft hypertoni innan graviditet
 
+
+
 ***Etiologi och patofysiologi***
+
 * **trofoblaster, decidua, spiralartärer:** Trofoblasterna, när invadera decidua går gm myometriet och infiltrerar spiralartärerna som försörjer uterus
 * **spiralartärer abnormala**: Abnormal utveckling v blodkärlen i placenta
 * **placenta underperfusion**: om dålig access till spiralartärerna kommer den försörjas dåligt
@@ -5600,7 +5649,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Tidmässigt***: definieras som efter v20, men sker 5%-6% av alla live births. 
   * vanligast efter tredje trimestern,. near term
 
+
+
 ***Komplikationer till preeklampsi***
+
 * **fetala**
   * **Relaterat t prematuritet**
     * Akut uteroplacental insufficiens
@@ -5630,7 +5682,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **! long-term komplikationer**
   * **! ökad risk för kardiovaskulär sjukdom senare i livet**
 
+
+
 ***Riskfaktorer***
+
 * **Primär sjd relaterat**
   * **kronisk hypertensuion**
   * **kronisk njursjd**
@@ -5654,12 +5709,18 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * mother-in-law
   * cohabitation under 1år
 
+
+
 ***Skyddande faktor (minskad relativ risk)***
+
 * **Multipara utan tidigare preeklampsi**
 * **Ett barn, inte tvillingar etc**
 * **Rökning:** verkar sänka risken...
 
+
+
 ***Utredning och handläggning***
+
 * 
 ***GENERELLT***
   * **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
@@ -5722,7 +5783,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * BT mäts 4gg/d eller enl ordin
   * CTG 2gg/d
 
+
+
 ***Behandling***
+
 * **Riskfaktor reduktion**
   * **ASA**
   * **Folsyra**
@@ -8706,6 +8770,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * Påbörja aborten idag med mifepriston o slutföra som hemabort 
       * senarelägga aborten och utföra den som medicinsk andratrimesterabort
       * rätt: vårdplanera för medicinsk eller kirurgisk abort sverige snarast möjligt
+  * Provtagningen visarfoster med Downs syndrom. De har funderat mycket och träffat kurator. Malin är nu i graviditetsvecka 17+5 och de har bestämt att de vill avbryta graviditeten. 
+      * c)Vad säger lagen om abort vid denna graviditetslängd? (1 p) fram t v18 är det kvinnans val
+      * d)Vilka läkemedel ges för att inducera abort hos Malin?(2p)
+      * e)Ange deras respektive verkningsmekanism (2p)f)Beskriv vilka effekter dessa läkemedel ger hos Malin (2p)
 
 
 
@@ -8714,11 +8782,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Ovulation efter abort**: pat akan ovulera så snart som 8-10 d fr abort;
 * **Vikten av preventivmedel**: detta belyser att man bör börja med preventivmedel utan dröjsmål
   * detta oavsett metod. 
-* **Progesteronhämmare**: progesteron normalt sett relaxerar uterus 
+* **Progesteronhämmare, mifegyne, mifepriston**: progesteron normalt sett relaxerar uterus 
   * Med progesteronhämmare kommer uterus att kontrahera
   * cervix kommer att relaxera också
   * fostret kommer att stötats bort
-* **Prostaglandinerna**: kontraktionerna ökar i uterus. 
+* **Prostaglandinerna, misoprostol, cytotec**: kontraktionerna ökar i uterus. 
 
 
 
@@ -8760,6 +8828,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * **medicinsk abort**
   * **kirurgisk abort**: vakuumexeres / skrapning
 * Senast tillåtet abort enl lag (healthy foster): v22
+
+
+
+***Medicinsk abort***
+
+* **dag1**: mifepriston 200mg po
+* **dag2/3**: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
+  * om ej börjat blöda inom 3h: upprepad misoprostol 2x0.4mg vaginalt, subling, el peroralt
 
 
 
@@ -9448,69 +9524,87 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-**Missfall <v12**: symptom styr beh ej UL. bokning abort mottagning för beh alternativ + second opinion UL. LKM admin ssk el BM.
+##### **Missfall <v12**: symptom styr beh ej UL. bokning abort mottagning för beh alternativ + second opinion UL. LKM admin ssk el BM.
 
-* **Exspektans 2-3v**
-  * **inkomplett missfall**: >80% kompletta av sig sj inom 2v. Då (inom 2v) kan pat boka tid ÖPV gyn för kontroll, om önskar
-  * **Uteblivet missfall**: då sluten cervix + ringa blödning, svårare lösa sig sj; tid ombesörjas ÖPB gyn el ST mottagning om ca 14d. Om oförändrat status efter exspektans genomförs medicinsk eller kirurgisk behandling
-* **Medicinsk behandling**
-  * **Allmänt**
-    * Påskyndar förlopp
-    * rekas 1a hand uteblivet missfall
-    * **om hemma el avdelning**: blödningen + förväntad blödning + evt sjd hos pat
-    * uteblivet missfall v10+1-v11+6: behandling på dagvården
-  * **Inkomplett missfall**: misoprostol engångsdos 3x0.6mg po eller 2x0.4 siblingualt
-  * **Uteblivet missfall**: som vid inducerad abort
-    * **dag1**: mifepriston 200mg po
-    * **dag2/3**: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
-      * om ej börjat blöda inom 3h: upprepad misoprostol 2x0.4mg vaginalt, subling, el peroralt
-  * **analgetika + antiemetika**: paracetamol; ibuprofen; oxynorm; metoklopramid
-* **Kirurgisk behandling**
-  * 1a val vid misslyckad medicinsk beh / cirk påverkad pat / ymnig blödning
-  * **infektion, ab**: helst minst 1d innan op: minska risk perforation; iv ab om inläggning
-  * **förbehandling 1h innann op**: misoprostol 2x0.4mg subling
-  * **!! Rh-profylax**: till Rh-neg vid alla kirurgiska interventioner
+**Exspektans 2-3v**
+
+* **inkomplett missfall**: >80% kompletta av sig sj inom 2v. Då (inom 2v) kan pat boka tid ÖPV gyn för kontroll, om önskar
+* **Uteblivet missfall**: då sluten cervix + ringa blödning, svårare lösa sig sj; tid ombesörjas ÖPB gyn el ST mottagning om ca 14d. Om oförändrat status efter exspektans genomförs medicinsk eller kirurgisk behandling
 
 
 
-**Missfall > 12+0v**
+**Medicinsk behandling**
 
-* **kurator (+psykologisk) kontakt.**
-* **Pågående missfall**
-  * **!!! inlägging avdelning**: TODO
-  * kraftig blödning: direkt misoprostol 3x0.6mg po el 2x0.4mg subling. behandling kan upprepas
-  * infektionstecken (feber, ökad infek prover): iv ab behandling
-  * **endast ringa blöd el vattenavgg:** förlopp exspekteras. 
-    * **beh som uteblivet missfall**: foster inte längre viabelt. 
-* **Uteblivet missfall**
-  * flesta fall ej behöva beh samma dag, utan BM el ssk kan obesörja tid för beh på avdelning
-  * **d1**: mifepriston 200mg po på abortmottgning
-  * **d3** (36-48h senare): 
-    * **misoprostol 4x0.68mg vaginalt på avd**
-    * **om pat inte aborter (i.e. ingen blödning)**: misoprostol 2x0.4mg sibling vag el po
-      * dosen upprepas HÖGST var 3e timme 4ggr (tot 8 tabletter)
-    * **om fortf ingen abort**: mifegyen 200mg po kl 20
-  * **d4**: 
-    * upprepa förfarandet för d3. amniotomera om möjligt. 
-    * överväg ab om vattevavgg över 18h
-  * **d5**: upprepa förfarande d3. överväg nedan
-    * amniotomi om möjligt
-    * **mekanisk dilat**: dilaplan / laminaia el ballongkateter
-    * **byte minprostin 2mg vag**: kan upprepas efter 6h
-    * **dilat + evak åp op**: oftast behövs inte ytterligare dilat; försikti med hänsyn perforationsrisk; evak helst digitalt (med fingrar?); om inte kan största abort-tång användas erfaren gynekolog
-  * **efter fostrets framfödande:** 
-    * 1ml syntocinon 5E iv (oxytocin?)
-    * Rh-prof till Rh-neg
-  * **smärtlindr**: ibuprofen + paracetamol; paracervikalblockad avl äk el special BM med 10mL marcain. upprepas efter 1h; TENS; oxynrom; morfin inj; ketogan;
-  * **illamende**: metoklopramid alt primperan
-  * **laktation v15**: 
-    * att patienten lakterar, som pat potentiellt vill behandla bort
-    * undvik helst medicinsk beh pga biverkningar. om pat ändå vill ha beh = dostinex 2x0.5mg ()
+* **Allmänt**
+  * Påskyndar förlopp
+  * rekas 1a hand uteblivet missfall
+  * **om hemma el avdelning**: blödningen + förväntad blödning + evt sjd hos pat
+  * uteblivet missfall v10+1-v11+6: behandling på dagvården
+* **Inkomplett missfall**: misoprostol engångsdos 3x0.6mg po eller 2x0.4 siblingualt
+* **Uteblivet missfall**: som vid inducerad abort
+  * **dag1**: mifepriston 200mg po
+  * **dag2/3**: Misoprostol (cytotec) 4x0.8mg vaginalt; eller 2+2 subliing vid riklig blödning
+    * om ej börjat blöda inom 3h: upprepad misoprostol 2x0.4mg vaginalt, subling, el peroralt
+* **analgetika + antiemetika**: paracetamol; ibuprofen; oxynorm; metoklopramid
+
+
+
+**Kirurgisk behandling**
+
+* 1a val vid misslyckad medicinsk beh / cirk påverkad pat / ymnig blödning
+* **infektion, ab**: helst minst 1d innan op: minska risk perforation; iv ab om inläggning
+* **förbehandling 1h innann op**: misoprostol 2x0.4mg subling
+* **!! Rh-profylax**: till Rh-neg vid alla kirurgiska interventioner
+
+
+
+##### **Missfall > 12+0v**
+
+**kurator (+psykologisk) kontakt.**
+
+
+
+**Pågående missfall**
+
+* **!!! inlägging avdelning**: TODO
+* kraftig blödning: direkt misoprostol 3x0.6mg po el 2x0.4mg subling. behandling kan upprepas
+* infektionstecken (feber, ökad infek prover): iv ab behandling
+* **endast ringa blöd el vattenavgg:** förlopp exspekteras. 
+  * **beh som uteblivet missfall**: foster inte längre viabelt. 
+
+
+
+**Uteblivet missfall**
+
+* flesta fall ej behöva beh samma dag, utan BM el ssk kan obesörja tid för beh på avdelning
+* **d1**: mifepriston 200mg po på abortmottgning
+* **d3** (36-48h senare): 
+  * **misoprostol 4x0.68mg vaginalt på avd**
+  * **om pat inte aborter (i.e. ingen blödning)**: misoprostol 2x0.4mg sibling vag el po
+    * dosen upprepas HÖGST var 3e timme 4ggr (tot 8 tabletter)
+  * **om fortf ingen abort**: mifegyen 200mg po kl 20
+* **d4**: 
+  * upprepa förfarandet för d3. amniotomera om möjligt. 
+  * överväg ab om vattevavgg över 18h
+* **d5**: upprepa förfarande d3. överväg nedan
+  * amniotomi om möjligt
+  * **mekanisk dilat**: dilaplan / laminaia el ballongkateter
+  * **byte minprostin 2mg vag**: kan upprepas efter 6h
+  * **dilat + evak åp op**: oftast behövs inte ytterligare dilat; försikti med hänsyn perforationsrisk; evak helst digitalt (med fingrar?); om inte kan största abort-tång användas erfaren gynekolog
+* **efter fostrets framfödande:** 
+  * 1ml syntocinon 5E iv (oxytocin?)
+  * Rh-prof till Rh-neg
+* **smärtlindr**: ibuprofen + paracetamol; paracervikalblockad avl äk el special BM med 10mL marcain. upprepas efter 1h; TENS; oxynrom; morfin inj; ketogan;
+* **illamende**: metoklopramid alt primperan
+* **laktation v15**: 
+  * att patienten lakterar, som pat potentiellt vill behandla bort
+  * undvik helst medicinsk beh pga biverkningar. om pat ändå vill ha beh = dostinex 2x0.5mg ()
+
 * **Placenta**
   * om ej avg spontant: avvakta 1h om pat ej blöder
   * kontakta läk vid blöd >500mL
   * **bör undersök på gynstol**: om placenta ses -> credes handgrepp alt ögletång ta bort den
-  * om misslyckas o pat inte blöder: misoprostol 2x0.4mg. undersök igen 2h senare. 
+  * **om misslyckas o pat inte blöder**: misoprostol 2x0.4mg (cytotec). undersök igen 2h senare. 
     * om fortf ej avlossat: lossa på operation
   * **exeres endast vb**: e.g. blödning / placenta inte avgår trots åtgärder / stor placentarest i uterus. 
     * ökad risk perforation
@@ -9654,6 +9748,29 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
    * vid sterilisering krävs att partnern informeras
 
 
+
+***Om sterilisering***
+
+* ***Lag:*** över 25åå, skriva bekräftelse på erhållen info (permanent ingrrepp; andra prev metoder; kruator vb)
+* **manlig**: vas deferens delas bilat, lokalbedövning
+
+
+
+***Metod***
+
+* **kvinnlig**: världens vanligaste antikonception; 
+  * laparoskopiskt: 
+  * via laporotomi (e.g. samband sectio); 
+  * hysteroskopisk
+* ***Laparoskopisk sterilisering***
+  * Sterilisera rätt struktur
+  * lägg dig nära uterushörnet
+  * bränn, klipp, ligera, sätta clips
+  * dagop
+  * via tomi kan göras e.g. vid sectio
+* ***Hysteroskopisk sterilisering***
+  * Finns fn ej tillgängligt
+  * tar 3 mån innan steril
 
 ***Lagen***
 
@@ -12316,20 +12433,6 @@ ENL FL
 
 
 
-### Fertilitetsrelaterade hormon
-
-#### Progesteron
-
-***Funktion***
-
-* Progesteronets funktion i hormoncykeln är att förhindar utsötning av en eventuell implantation av endoemtriet med ett embryo
-* Relaxerar uterus
-* Sekretionsfas i endometriet (eller snarare decidua) för att främja implantation och tillväxt av ett foster och placenta. 
-
-
-
-
-
 ### Hormoner
 
 
@@ -12817,6 +12920,10 @@ ENL FL
   * Hämmar ovulation
   * Förtjockar cervixsekret
   * Hindrar sperm fr penetrera cervix
+* **Hälsoeffekter**
+  * Östrogen, förstapassagemekanism levern, ökar SHBG
+  * Progesteron, påverkar gondotrpiner centralt
+  * progesterin, har AR upp elle ned
 
 
 
@@ -12824,19 +12931,87 @@ ENL FL
 
 * VTE risken ökad vid kombinerad metod: denna ökar EJ vid enbart gestagen metod
 
+* Östrogena biverkningar
+
+  * Ökad vikt och svullnadskänsla (pgavätskeretention)
+      * Många studier har visat att man INTE går upp i vikt av prevmedel
+  * Illamående
+  * Pigmentering (chloasma, melasma)
+  * Flytning
+
+* Gestagen biverkan 
+
+      * (ofta androgen)
+
+  * Okad aptit och viktuppgång 
+      * (seeovan)
+  * Amenorréoch oligomenorré
+  * Akne 
+      * (Cochranereviewbekräftar att alla kombmetoder lindrar akne)
+  * Torrhet 
+      * (ögon,
+      * mun,
+      * vagina-antiöstrogen effekt)
+  * Trötthet, depression 
+      * (se upp med PMS-pat!)
+  * Minskad sexlust 
+      * (vanligt klagomål-se kommande slide)
+
 
 
 ***Fördelar med kombinerad metod***
 
-* Endast gestagen leder till en suppressio av östrogenet
+* Endast gestagen leder till en suppressio av östrogenet hos pat
 * Detta mår vissa kvinnor inte bra av
 * Man behöver därför östrogen för att må bättre, då det är ett hormon som är involverat lite överallt i kroppen
 
 
 
+***Förebygga ohälsa***
+
+* **menorrhagia, dyusmenorrhea**: blöder mindre, mindre ont
+  * enorm effekt bra påblödning o smärta
+* **ovarian cysta**: mindre cystor
+* **mindre benskörhet**: för att östrogen
+* **nedgång cancer**
+  *  **ovarian cancer**
+  *  **endometrial cancer:** för att endometriet blir så tunt tunt att det minskar risken för detta
+  *  **kolon cancer**: tror östrogen effekt
+  *  **mindre myom**
+* **fibroider minde**
+* **acne**: mindre acne
+* **mindre PMS, PMDD**: minskar detta o behandlar detta
+* **järnbristanemi**
+* **Mindre mensvärk** hos alla kvinnor
+  * **Endometrios**: gestagenet (progeteronet) leder till att endometrialslemmhinna blir tunn och atrofisk, därför en behandling av endometrios.
+* **Mindre blödning**: olika effekt olika regimer
+  * vissa regimer kombinationsprep leder t att man aldrig behöver blöda
+  * även vid uppehåll att man blöder mindre jfr rest
+* **mindre risk benigna cystr**
+  * färre follikelcystor
+  * färre corpusluteum cystor
+* **PMDD**: pre menstrualt dysforisk syndrom
+  * gestagen dyspridenom är mkt snällare mot hjärnan jfr kroppens; menar att det är bättre än naturens. 
+* **acne**: ett preparat med en östrogennivå som höjer SHBG och mindre fritt testosteron, sen lägger till antiandrogena gestagener
+  * dubbeleffekt och bra effekt på acne.  
+  * ta upp det med patienter som kommer in med acne: att man kan använda preventivmedel för att combat acne.
+* ***Ovarial cancer***
+  * **komb metoder** reducerar ridsk dö ovarialcancer med hälften
+  * **anovulationen är skyddande**: ju färre ggr man anovulerar desto mindre risk för ovarialcancer, detta kan man alltså få med p-preparaten
+    * precis som amning o grav skyddar mot ovarialcancer
+* ***Endometriecancer***
+  * **progesteronet minskar risken**: gm att man får en atrofierad tunnare slemhinna som i sin tur leder till reducerad propensitet för att utveckla ovarialcacner
+* ***Kolorektalcance***
+  * relaterat med östrogen
+* **bröstcancer**: kom ihåg vilke kvinna man har framför sig, det är enbart EGEN bröstcancer i anamnesen som är kontraindikation för hormonell antikonception
+
+
+
+
+
 !!! ***Utredning och Handläggning***
 
-* Innan förskrivning, nogrann undersökning
+* **Innan förskrivning, nogrann undersökning**
   * allmän + gynekologisk anamnes
   * mäta BT
   * kontroller bmi
@@ -12860,12 +13035,6 @@ ENL FL
 * p-ring
 * p-plåster
 * p-sprutor (inte i Sverige)
-
-
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_3E2PVQsAbt.png" alt="3E2PVQsAbt" style="zoom: 25%;" />
-
-
 
 
 
@@ -12915,6 +13084,12 @@ ENL FL
   * tidg bröstcancer
   * akut intermittent porfyri
   * sytematisk lupus erytmatosus
+
+
+
+| <img src="./lectures/gyn_lec/imgs/gyn_lec_3E2PVQsAbt.png" alt="3E2PVQsAbt" style="zoom: 25%;" /> | <img src="./imgs/sam_220421_G7PQhjsEKa.png" alt="G7PQhjsEKa" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
 
 
@@ -13059,8 +13234,24 @@ ENL FL
 
 * **Kopparspiral**: kopparjonerna är toxiska för spermier och embryon. endometriet tunnare. 
 * **koppararea är viktigt**: utsöndrar kopparjoner tar sig in i sekret i cervix o tuba. Kopparna ska va tillräcklig kroppsarea. 
+* **Effekter**
+  * Sekret cervux, uterus, tuba påverkas
+  * hämmar spermiemotilitet,
+  * spermatoxiskt
+  * embryotoxiskt
+  * inflammation endometriet varåp förhindrar implantation
 
 
+
+***Biverkningar***
+
+* Ökad flodförlust: ökar med 50-75% blödningar
+
+
+
+***Behandling***
+
+* Blödningarna kan minskas med NSAID och Ciklokapron
 
 
 
@@ -13310,7 +13501,7 @@ ENL FL
 
 ### Preventivmedelsråd
 
-***Presentation***
+#### Presentation
 
 * ***Fall 1***
   * 17åå, inget tidg prev medel, kondom sporadiskt; pojkvän sedan 3 mån, frisk, ingen heredite
@@ -13352,6 +13543,11 @@ ENL FL
     * ehandlingen hindrar slemhinnan i livmodern från att blöda och kan tas i maximalt 14 dagar. 
     * Under behandlingen kan det vara vanligt med bröstspänningar och PMS-liknande besvär. Efter att du har avslutat behandlingen kan det dröja ungefär 2 till 3 dagar innan du får din mens igen.
     * notera inget skydd mot graviditet
+* Rangordna nedanstående preventivmedel enligt effektivitet i typisk användning. Ge det preventivmedel med högst effektivitet en 4:a och det med lägst effektivitet en 1:a. 
+  * 1 p-stav
+  * 4 kondom
+  * 2 kopparspiral
+  * 3 p-piller
 
 
 
@@ -13379,6 +13575,40 @@ ENL FL
       * vikt vid hormonell antikoncep
       * evt cytologprov klamydiaprov
 * KÄnsla fattat eget beslut
+
+
+
+
+
+#### Effektivitet olika preventivmedel
+
+
+
+* Bra metod i ordnig
+* **P-stav**
+* manlig sterilisering
+* **hormonspiral**
+* kvinnlig sterilisering
+* **kopparspiral**
+* p-spruta
+* mellandoserade gestagenpiller
+* p-plåster
+* p-ring
+* **kombinerat p-piller**
+* lågdoserat gestagen
+* pessar
+* !! **manlig kondom**: 18% får då
+* avbrutet samlag
+* naturlig familjeplanering
+* spermicider
+* **fem cap**
+* ingen metod
+
+| <img src="./imgs/sam_220421_HeJ0kOfy3V.png" alt="HeJ0kOfy3V" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
 
 
 

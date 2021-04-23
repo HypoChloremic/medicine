@@ -2426,6 +2426,25 @@ Enligt ABCDE
 
 
 
+### Pubertas tarda
+
+***Presentation***
+
+* Sen pubertet är en vanlig orsak till att barn remitteras från skolhälsovården till BUMM för utredning. Vilket av följande alternativ är korrekt?(1p)
+    * rätt: Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 14 års ålder. Menarche brukar ske ca 2 år efter pubertetsstart. 
+    * Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 13 års ålder. Menarche brukar ske ca 1 år efter pubertetsstart. 
+    * Pubertas tarda hos pojkar konstateras då testikelvolymen är <3 mlvid 14 års ålder. Brösttillväxt enligtTanner defineras som >B1d
+    * Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 15 års ålder och hos flickor vid avsaknad av brösttillväxt>13 års ålder. 
+    * Pubertas tardahos pojkar konstateras då testikelvolymen är <3 ml vid 14 års ålder och hos flickor vid avsaknad av brösttillväxt>13 års ålder. 
+
+
+
+***Etiologi***
+
+* 
+
+
+
 ### Thyroidea
 
 ***Presentation***
@@ -4988,7 +5007,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Diagnos***
 
-* **Palpabel purpura** + minst en av följande
+* !!! **Palpabel purpura (och eller petekier)** + minst en av följande
   * **diffus buksmärta**
   * **biopsi med IgA-deposition**
   * **akut artrit eller artralgi**
@@ -5011,10 +5030,10 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 * artriten kan komma före purpura med flera veckor
 * **gör ordentligt ont**
 * **overgående**
-* **Hud:*** 100% har;
+* **Hud:** 100% har;
   * purpura;
   * ödem
-* **Leder:*** upp t 82%;
+* **Leder:** upp t 82%;
     * ledsvullnad och ledvärk
 * !!! **Mage och tarm**:
     * 50-72%;
@@ -5053,11 +5072,13 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 ***Handläggning och utredning***
 
 * **Viktigaste proverna**: U-sticka, krea
-* ***Primär utredning***
-  * ***Blodprover***: blodstatus + diff, kreatinin, CRP
-  * ***Urinstatus***: urinsticka
-  * ***Blodtryck***
-  * ***Strep A*** test
+* **Primär utredning**
+  * **Blodprover**: blodstatus (hb, LPK, TPK, ery index), Diff, kreatinin, CRP
+  * **Urinstatus**: u-sticka, (u-alb/krea index)
+  * **Blodtryck**
+  * **Svalgodling**: för att leta streptokoc
+  * **Strep A** test
+  * (BT också kan göras)
 * ***Sekundär utredning***
   * ***Njure***
     * U-sediment + U-alb/krea
@@ -5075,12 +5096,17 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 ***Behandling***
 
 * **Streptokocktonsillit**: penicillin behandling
-* **ledsmärta, buksmärta**: paracetamol, nsaid
+* **ledsmärta, artrit**: paracetamol, nsaid
+  * Ge inte predni för tidigt, då kan maskera evt invagination och liknande bukkomplikationer
 * **Hypertension:** ACEh
+* **(svår) buksmärta**: prednisolon po peroralt 
 * **Prednisolon**: 1mg/kg; 
-  * minskar ledsymptom, 
-  * !! GI symptom: Föreligger buksmärta exempelvis
-  * minskar inte risken för utveckling av nefrit
+  * **minskar ledsymptom**, 
+  * !! **GI symptom**: Föreligger buksmärta exempelvis
+  * **Notera**: 
+    * Det finns ingen evidens att steroider förebygger något symtom eller komplikation till IgA-vaskulit
+    * minskar inte risken för utveckling av nefrit
+    * // 
 * **Hypertoni**: ACEh, 
 
 
@@ -12104,6 +12130,12 @@ En kort lista över kliniska manifestationer av CF:
 
 #### Överburenhet
 
+<img src="./imgs/sam_230421_yzA5daPo5J.png" alt="yzA5daPo5J" style="zoom:50%;" />
+
+
+
+
+
 ***Risker med överburenhet***
 
 * Intrauterin fosterdöd, 
@@ -15337,7 +15369,7 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
 
 ### Föda, nutrition och vikt
 
-***Presentation***
+#### Presentation
 
 *  **Modersmjölksersättningar produceras för att likna bröstmjölken så mycket som möjligt. Föräldrarna vill veta vad skillnaden är mellan modersmjölkersättning och komjölk? Vilket av följande påståenden om modersmjölksersättning stämmer inte? (1 p)** 
   * De är komjölksbaserade 
@@ -15345,6 +15377,7 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
   * rätt: Proteinnivån är densamma som i komjölk [i.e. att det är ersättning har olika proteinnivåer jfr bröstmjölk]
   * De är järnberikade 
   * Har tillsats av mineraler och vitaminer 
+  * // komjölk har mer salt och protein, som inte njure vs tarm klarar av när man är bebisi Ersättning har man reducerad saltnivå och reducerad proteinnivå. Tillsatt jarn
 * **Veronika, 3 veckor gammal, blir inlagd på barnavdelningen som ’vårdbarn’, då hennes mamma vårdas på psykavdelning för en psykos. Pappan kan inte närvara. Du skall nu ordinera mat åt barnet. Barnet väger ca 4 kg. Ange typ av mat (Fråga A o B):** 
   * Om barnet inte har en komjölksallergi
     * Bröstmjölksersättning = Baby semp
@@ -15367,6 +15400,12 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
    * Misstänkt pylorusstenos, remittera barnet för passageröntgen
    * Misstänkt gastroenterit, ta prov för bakterier och virus från avföring och kräkningar
    * rätt: Misstänkt övermatning, ge råd om matmängder och matningsfrekvens
+*  !!! Felix 7 månader har börjat äta måltider enligt rekommendationer från BVC. Föräldrarna frågar om de kan ge vanlig mjölk som måltidsdryck. De får som svar att man inte rekommenderar komjölk till barn under ett år.Vilketalternativav nedanstående är anledningen till rekommendationen att man skall undvika komjölk till barn < 1 år?(1p)
+   * Rätt: För hög koncentration av protein och salt
+   * För hög koncentration av protein och för lågt av salt
+   * För låg koncentration av fett och protein
+   * För lite kalorier
+   * För låg koncentration av protein och för hög av fett
 
 
 

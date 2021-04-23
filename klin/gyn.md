@@ -11627,6 +11627,43 @@ ENL FL
 * Cytokiner
 * Östrogen
 
+
+
+### Skulderdystoci
+
+
+
+***Handläggning***
+
+* Sluta krysta
+* Stäng av oxytocininfusion
+* ingen funduspress
+* slappna av modern, hjälp henne med detta
+* ***Manuella åtgärder***
+  * Hjälp tillkallas
+  * perineotomi
+  * huvudändan sänks t horisontalplanet. Moderns höfter hyperflekteras
+  * suprapubisk press på fosteraxel
+  * egentliga lösningar, inre manövrer, för att underlätta vidare
+    * farmaka uterusrelaxation
+    * terbutalin
+    * nitroglycerin
+  * Rubins manöver
+  * Rotera ut bakre armen
+  * woods skruvmanöver
+  * rulla runt patienten: mor ändrar läge t knästående ställning
+* ***Slutligen kan nedan ingrepp prövas***
+  * **frakturera klaviklarna**, gm trycka fossa supraklavicularis
+  * **Zavanellis metoder**: fosterhuvud, återinförs med skruvlik press in i vagina och fostret förlösa
+  * **Kombinerad vaginal abdominell metod i narkos**: 
+    * fosterhuve kan inte återföras in i vagina, via en hysterotomi, roteras fostret axlar i sned
+* Övriga åtgärder
+  * en perineotomi kan vara svår att anlägga men ökat utrymme
+  * sövning kan hjälpa att lägga ni åtgärderna
+  * 
+
+
+
 ### Storlek foster
 
 

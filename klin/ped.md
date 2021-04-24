@@ -4337,7 +4337,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 ***Presentation***
 
 * **Varför drabbar de klassiska ’barnsjukdomarna’, såsom vattkoppor, mässling, påssjuka och röda hund, främst barn (under förutsättning att de inte är vaccinerade)?***
-  * *Ange i korthet två orsaker.** 
+  * **Ange i korthet två orsaker.** 
     * Adaptiva immunssytemet har einte bildat minne mot dessa agens, varpå inte kan mount a defence
     * Allmänt immuniserad befolkning pga tidigare exponering eller vaccination, varpå det isolerats till barn. 
     * Sjukdomar med hög smittsamhet, större andelar av population bör ha drabbats, varpå överlavare immuniserade, varpå nyfödda icke-exponerade tidigt infekterats och insjuknar. 
@@ -4554,36 +4554,41 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Utrending och handläggning***
 
-* Lumbalpunktion, LP
-  * Purulent meningit
-    * Poly: Högt antal poly, ofta >1000
-    * Laktat: Högt laktat >3,5 ofta ~10
-    * Protein: Högt protein eller albumin > 250 mg/l
-    * Glukos: Lågt sp-glukos, låg kvot glukos sp/plasma –< 0,4
-    * Gram färgning
-    * Stickblödning medför 1 vit /1000 röda
-* ***Insättning steroider***: **enl läk betapred för att minska hjärnsvulland**, dexamethasone, dexametason (barn över 3 månader kan man ge dos dexametason)
+* **Larma narkos**: evt indik för intubation beroende på patientens andningsstatus
+* **ABCDE**: initial handläggning enl ABCDE
+* **Provtagning**
+  * **Akut**
+    * **Blodgas**
+    * **Blododling**
+    * **fullständigt blodstatus**
+    * **CRP**
+    * **blododling**
+    * **blodgas**
+    * **glukos**
+    * **elektroluter**
+    * **krea**
+    * **koagstatus**: stämmer detta akut? kanske om man tar venösa prover..
+  * **Lumbalpunktion, LP**
+    * **Purulent meningit**
+      * Poly: Högt antal poly, ofta >1000
+      * Laktat: Högt laktat >3,5 ofta ~10
+      * Protein: Högt protein eller albumin > 250 mg/l
+      * Glukos: Lågt sp-glukos, låg kvot glukos sp/plasma –< 0,4
+      * Gram färgning
+      * Stickblödning medför 1 vit /1000 röda
+    * **Lumbar punktion**: poly/mono, laktat, glukos, alb-kvot, odling, PCR, (kristaller), protein
+      * **Bakteriell**: glukos sänkt, protein ökat, laktat ökat, poly ökat, klar eller grumlig
+  * **Encefalitmisstanke**: EEG ngnstans i förloppet
 * **Iv-behandling**
   * Beroende på ålder tillägg ampicillin
   * cefotaxim + aciklovir + steroider
-* ***Lumbar punktion***: poly/mono, laktat, glukos, alb-kvot, odling, PCR, (kristaller), protein
-  * ***Bakteriell***: glukos sänkt, protein ökat, laktat ökat, poly ökat, klar eller grumlig
-* Prover
-  * meningitmisstanke
-    * fullständigt blodstatus
-    * CRP
-    * blododling
-    * blodgas
-    * glukos
-    * elektroluter
-    * krea
-    * koagstatus
-  * urinprov: för UV diagnostik
-  * odling NPH för andar locales
-  * encefalit misstanke: MR hjärna (MR hade jag skrivit på seminariet, men man verkar göra EEG)
-* Utifrån agens, skiljer sig behandlingslängden.
-* Vid hypovolemi/chock ska uppvätskas iv
-* Inläggning IVA
+  * **Steroider**: 
+    * **enl läk betapred för att minska hjärnsvulland**, dexamethasone, dexametason 
+    * Barn >3 månader: kan man ge dos dexametason
+    * Barn <= 3månader: ger inte steroider
+* **Utifrån agens, skiljer sig behandlingslängden.**
+* **hypovolemi/chock**: ska uppvätskas iv
+* **Inläggning IVA**
 
 
 

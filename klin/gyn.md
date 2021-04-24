@@ -903,7 +903,7 @@ cerivicit
 
 | <img src="./imgs/200421_sam_97ubHxmMEL.png" alt="97ubHxmMEL" style="zoom: 25%;" /> | <img src="./imgs/sam_220421_45r7dUfa7i.png" alt="45r7dUfa7i" style="zoom:50%;" /> | <img src="./imgs/sam_220421_eUEwxoF1wy.png" alt="eUEwxoF1wy" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./imgs/sam_220421_DD1YCc9UhI.png" alt="DD1YCc9UhI" style="zoom:50%;" /> |                                                              |                                                              |
+| <img src="./imgs/sam_220421_DD1YCc9UhI.png" alt="DD1YCc9UhI" style="zoom:50%;" /> | <img src="./imgs/sam_240421_yDm42R6hlQ.png" alt="yDm42R6hlQ" style="zoom:50%;" /> | <img src="./imgs/sam_240421_M5ZAPHBtgE.png" alt="M5ZAPHBtgE" style="zoom:50%;" /> |
 
 
 
@@ -2234,6 +2234,18 @@ cerivicit
 
 ### Lynchsyndrom
 
+
+
+***Presentation***
+
+* VIlka cancersjukdomar kopplade med Lynch förutom endometriecancer
+  * Kolorektalcancer 
+  * ovarialcancer
+  * Nämn ytterligare minst en genetisk mutation som ger ökad risk för cancer i kvinnliga könsorgan, samt vilka organ som påverkas
+    * BRCA1: ökad risk för ovarialcancer och bröstcancer
+
+
+
 ***Allmänt***
 
 
@@ -2264,6 +2276,7 @@ cerivicit
   * medelålder 50åå
   * samma histo som sporadisk OC
   * samma prognos som sporadisk OC för varje klinisk stadie
+* **Kolorektalcancer**
 
 
 
@@ -2510,7 +2523,8 @@ cerivicit
   * Gyn: VVP ses ua. Uterus är normalstor för åldern och lätt devierad. Åt hö. Till vä och bakom uterus palperas en cystisk förändring som känns mjuk, ömmande, ca 7-8cm stor, rörlighet är svårt att avgöra.Ulj vaginalt: uterus är liten med normal konfiguration och tunt endometrium. Hö ovarium ses ej. Vid platsen för vä adnexa ses en 2-rummig cysta som mäter 7\*8 cm. Cystan är mstadels ekofri men i ena polen finns ett område som är mer ekogivande. ingen fri vätska ses i buken.
   * Diagnos/diagnoser? Svarade ovarialcancer, ovarialcysta
   * ytterligare prover bekräfta diagnos: här kan man diskutera en massa TODO
-* Hur utreder man ovarialcancer: CA125, CA19-9, CA15-3, CEA, (icke-serös cancer, i.e. stromal: beta-hcg, AFP, AMH); laparocentes, pleurocentes, DT-thorax vuk
+* Hur utreder man ovarialcancer: 
+  * CA125, CA19-9, CA15-3, CEA, (icke-serös cancer, i.e. stromal: beta-hcg, AFP, AMH); laparocentes, pleurocentes, DT-thorax vuk
 * Ulla 56år
   * är remitterad till dig för en gynekologisk konsultation från sin husläkare pga andfåddhet och en obehaglig känsla i buken. Dessa problem har hon haft i ca 3 månader. Ulla har alltid varit frisk, och har aldrig opererats i magen. Kom in i menopaus vid 52-års ålder. Hon är III-para ( 3 PN). Lungröntgen som gjordes i förrgår pga andfåddheten visade pleuravätska bilateralt. Hb 112g/l, mammografi u.a. 
   * Vid undersökning palperar du en rejält utspänd buk. Gynekologisk undersökning är svår att genomföra pga en väldigt spänd buk som komprimerar vagina. 
@@ -2519,17 +2533,12 @@ cerivicit
       * Ovarialcancer.
   * Motivera varför du misstänker detta?
       * Man ser expansivitet på höger sida 9*9cm stort. Ovarialcancer brukar diagnostiseras oftast i metastaserat stadium , Stadium 3-4. Här har vi även kliniska fynd och symtom talande för metastasering såsom pleuravätska bilateralt. 
-
-
-
-***Riskfaktorer***
-
-* HRT
-* tidig menarche + sen menopaus
-* joniserad stlning
-* hereditet
-* ålder
-* nullipartum, inga tidg barn.
+* Nämn ytterligare minst 1 genetisk mutation som kan öka risken för cancer i kvinnliga könsorgan
+  * BRCA1, ökar risk för ovarialcancer och bröstcancer
+* Kvinna 45åå
+  * Söker med nytillkommen virilisering? 
+  * vad måste du utesluta?
+    * ovarial stromacellscancer?
 
 
 
@@ -2538,10 +2547,10 @@ cerivicit
 * **Tre distinkta komponenter**
   * !!! **Ytepitel**: 65% ovarie tumörer och 90% ovarie cancer
     * aka **seros överial cancer**
-    * attribueras till STIC (serös intraepiteleial carcinom): att de originate fr tuborna; 
-    * STIC, p53: STIC har osså p53 mutation som gör den farligare. 
-    * BRCA association: de med BRCA mutationer är associerade med den serösa formen, drf farligare formen
-  * **ovarial germinala celelr**
+    * **attribueras till STIC** (serös intraepiteleial carcinom): att de originate fr tuborna; 
+    * **STIC, p53**: STIC har osså p53 mutation som gör den farligare. 
+    * **BRCA association, farligare**: de med BRCA mutationer är associerade med den serösa formen, drf farligare formen
+  * **ovarial germinala celler**
   * **ovarial stroma**
 * **Metastaser TILL ovarierna**: 5-10% andra primärtumörer, alltså att de mets till ovarie
   * vanligtvis gastrointestinala tumörer aka Krakenberg tumörer
@@ -2552,8 +2561,12 @@ cerivicit
   * **direkt exfoliering maligna celler**: från ovarierna, mets följer bred cirkualtorisk väg av peritoneal vätska. 
     * **vanligaste formen av spridning**: att ovariecancern SEEDAR peritoneal kvaitet etc.
     * **peritoneal carcinomatosis**
-  * **lymfatisk spridning finns**: retroperitoneal pelvis och paraaortalt lymfkörtlar
-  * **hematogen spridning osså**: mer rare o distanta mets t lungor o hjärna. Avancerad sjd intraperit tumör spridnig leder t ackummulation acsites i buken och encasement av tarmar med tumör!
+  * **lymfatisk spridning finns**: 
+    * retroperitoneal pelvis och 
+    * paraaortalt lymfkörtlar
+  * **hematogen spridning osså**: 
+    * mer rare o distanta mets t lungor o hjärna. 
+    * Avancerad sjd intraperit tumör spridnig leder t ackummulation acsites i buken och encasement av tarmar med tumör!
 * !!! **Incessant ovulation hypotesen**: ovulations supprimering är bättre för att då förstör man mindre av epitelvävnaden, varpå mindre risk för malignifiering
   * noter att  detta inte verkar ha en DIREKT relation till östrogne, likt för endometriecancer!
   * fungerar parallelt med STIC teorin också enl föreläsaren. 
@@ -2573,7 +2586,7 @@ cerivicit
 
 
 
-<img src="./imgs/gyn_sam_300321_Wa1FZXqEMb.png" alt="Wa1FZXqEMb" style="zoom: 25%;" />
+
 
 
 
@@ -2582,34 +2595,40 @@ cerivicit
 * **25% av alla gynekologiska maligniteter,**
 * **men 50% av all gynekologisk cancerdöd**: brist bra metoder tt screena, tidig diagnostik och presentation när tumören spritt sig är late stage och man behandlingsmässigt kan göra lite. 
   * räknat med alla cancerstadier
-* !! **10-15% familjär cancer syndrom, alltså 10-15% hereditär ovarial cancer**: 
-  * BRCA1 mutation 85% bröstcancer, 30-50% ovarial cancer
-  * BRCA2 25% ovarial cancer (mindre än BRCA1)
-  * HNPCC-LYNC (aka LYNCH2)
+* !! **Hereditär ovarialcancer, 10-15%**
+  * **10-15% familjär cancer syndrom, alltså 10-15% hereditär ovarial cancer**: 
+  * BRCA1: mutation 85% bröstcancer, 30-50% ovarial cancer
+  * BRCA2: 25% ovarial cancer (mindre än BRCA1)
+  * HNPCC-LYNC (aka LYNCH2): 7% livstidsrisk
+  * oftast bilateral
+  * tidigare debut
 * **70% stage3c eller stag4 vid diagnos**
-
-
-
-<img src="./imgs/gyn_sam_300321_j2m7kZ9bNz.png" alt="j2m7kZ9bNz" style="zoom:50%;" />
-
-
 
 
 
 ***Riskfaktorer***
 
-* **ålder**: samma orsak med oavbruten ovulation, är en  risk; 50% av de som diagnosticeras med ovarial cancer är över 65åå
+* **Hereditet**
+  * **Familjär cancer syndrom**: 
+    * **brca1**
+    * **brca2**
+    * **lynch**
+    * **familjehistorik ovarialcancer**: mamma, syster, dotter
+      * ju yngre de fått d desto högre risk
+    * **tidg bröstcancer hos pat**
+* **Ålder**: 
+  * samma orsak med oavbruten ovulation, är en  risk; 
+  * 50% av de som diagnosticeras med ovarial cancer är över 65åå
 * **Endometrios**
-* **Familjär cancer syndrom**: 
-  * **brca1**
-  * **brca2**
-  * **lynch**
-  * **familjehistorik ovarialcancer**: mamma, syster, dotter
-    * ju yngre de fått d desto högre risk
-  * **tidg bröstcancer hos pat**
-* **oavbruten ovulation**: tidig menarche, infertilitet, nulliparitet, försenad barnafödande, late-pnset meopaus
+* **Oavbruten ovulation**: 
+  * tidig menarche, infertilitet, nulliparitet, försenad barnafödande, late-pnset meopaus
   * notera att det är själva ovulationen som förstör epitel som är risken..
 * **HRT**
+* **tidig menarche + sen menopaus**
+* **joniserad stlning**
+* **hereditet**
+* **ålder**
+* **nullipartum, inga tidg barn.**
 
 
 
@@ -2617,14 +2636,16 @@ cerivicit
 
 * !!! **Incessant ovulation hypotesen**: ovulations supprimering är bättre för att då förstör man mindre av epitelvävnaden, varpå mindre risk för malignifiering
   * noter att  detta inte verkar ha en DIREKT relation till östrogne, likt för endometriecancer!
-* !! **antikonception**: äter man OCP (oral contraceptives) orala antikonceptionsmedel, 5år reduceras risken med 50%
+* !! **preventivmedel, anovulation**: äter man OCP (oral contraceptives) orala antikonceptionsmedel, 5år reduceras risken med 50%
 * **amning**
 * **multiparitet**
 * **kronisk anovulation**
-* **tubal ligation och hysterektomi**: reducerar risken med 67% och 30%, även hos de med familjär cancer syndrom
-  * hypotesieras att försämrat ovariellt blodperfusion minskar spridningen av cancern.
-  * eller minskad migration carcinogener fr lower genital tract. 
-  * **NOTERA STIC**: föreläsaren nämner STIC som en orsak osså t serös cancer, att det är tuborna som är the origin för cancern
+* **Kirurgiskt**
+  * **tubal ligation och hysterektomi**: reducerar risken med 67% och 30%, även hos de med familjär cancer syndrom
+    * hypotesieras att försämrat ovariellt blodperfusion minskar spridningen av cancern.
+    * eller minskad migration carcinogener fr lower genital tract. 
+    * **NOTERA STIC**: föreläsaren nämner STIC som en orsak osså t serös cancer, att det är tuborna som är the origin för cancern
+  * **Salpingektomi**
 
 
 
@@ -2634,7 +2655,7 @@ cerivicit
 * **sen symptomdebut**
 * **icke karakteristiska**
 * **uppsvällning av buken**
-* **trängningsinkontinens**
+* !! **trängningsinkontinens**: överaktivblåsa
 * **icke-specifika abdominal discomfort**: 
   * illamående
   * uppsvällning
@@ -2642,6 +2663,18 @@ cerivicit
 * **smärta**
 * **svårigheter andas**
 * **pelvis trombos**
+* **Icke-epitelial ovarialcancer**
+  * **Germinalcellstumörer**
+    * oftare flickor, unga kvinnor
+    * !!! benigna teratom, vanligast
+    * Dysgerminom,
+    * gulesäckstumör
+    * omoget teratom
+  * **Stromacellstumörer, Gonadal **
+    * perimenopaus, postmenopaus, vanligast
+    * hormonproducerande: feminiserande som maskuliniserande (viriliserande)
+    * **Granuloacellstumör**
+    * **Sertoli-Leydigtumöre**
 
 
 
@@ -2673,31 +2706,58 @@ cerivicit
   * tidig diagnos ökar kureringsgraden (botningsgraden)
   * proper sens o ch spec
   * **Ultraljud + CA125**: har tillsammans inte lyckats öka överlevnaden i screeningform
+* **Status**
+  * **Allmän status inklusive genomgående bukstatus**: kartlägga eventuella resistenser
+  * **Lymfkörtelstationer**
+  * **Gyn undersökning**: Resistenser över adnex?
+* **Basal Vaginalt UL**: för att kartlägga könsorganen, initialt, innan man går vidare med provtagning och utredning vad gäller ovarialcancer
 * **Undersökningsmetoder och poängsättning**
-  * <img src="./imgs/gyn_sam_300321_4Gil8MCGe8.png" alt="4Gil8MCGe8" style="zoom: 25%;" />
-  * RMI: UL + CA125
+  * **RMI**: UL + CA125
     * under 200 man behandlar på vanlig enhjet
     * över 200 man skickar till en cancerenhet för handläggning och behandling
-  * IOTA: Ultraljud för att bedöma 
-    * används solida partier, flerrummiga, stora, papillär projektion, ökat blodflöde, ascites
-  * !!! Maligna kriterier: solida partier, flerrummiga, stora, papillär projektion, ökat blodflöde, ascites
-
-
-
-<img src="./imgs/gyn_sam_300321_zxXjIVekNj.png" alt="zxXjIVekNj" style="zoom: 33%;" />
-
-* detta är en malign ovariecysta: kan ha ett septum vid 3d-avbildning
+  * **IOTA**: Ultraljud för att bedöma 
+    * används solida partier, 
+    * flerrummiga, 
+    * stora, 
+    * papillär projektion, 
+    * ökat blodflöde, 
+    * ascites
+  * !!! **Maligna kriterier**: solida partier, flerrummiga, stora, papillär projektion, ökat blodflöde, ascites
 
 
 
 ***Behandling***
 
-* Kirurgi:
-  * SOE: detta verkar vara indikerat när man har Ovarialcancer
-  * HNPCC-Lynch syndrome: De med familjär cancer syndrom bör genomgå hysterektomi?
-    * Hysterektomi
+* **Kombination kirurgi och cellgiftsbehandling**
+* **Mål**
+  * Makroskopiskt radikal 
+  * eller optimal kirurgi
+  * efterföljt adjuvant kombinationskemoterapi, kemoterapi
+  * **Surparadikal kirurgi**: kirurgi i alla buekns kvadranter, för att vara så radikal som möjligt, och öka överlevnad
+
+* **Supraradikal kirurgi**, exempel; att man verkligen tar bort en massa olika delar av kroppen
+  * Diafragmaresektion
+  * Peritoneektomi
+  * Splenektomi
+  * Kolecystektomi
+  * Distal pankreasresektion
+  * Bakre modifierad exenteration, tarmresektion
+* **Radikal kirurgi**: näst överlevnad
+* SOE: detta verkar vara indikerat när man har Ovarialcancer
+* HNPCC-Lynch syndrome: De med familjär cancer syndrom bör genomgå hysterektomi?
+  * Hysterektomi
+* **Stadiebaserat**
+  * **Stadium1**: komplett staging, pelvin lymfadenektomi, paraaortal lymfadenektomi
+    * **Undantag**: stadium1a/b grad1; mucinösa tumörer stadium 1a-c
+    * !!! **Fertilitetsbevarande kirurgi**: stadium1a grad1-2
 
 
+
+
+
+| <img src="./imgs/gyn_sam_300321_Wa1FZXqEMb.png" alt="Wa1FZXqEMb" style="zoom: 25%;" /> | <img src="./imgs/gyn_sam_300321_zxXjIVekNj.png" alt="zxXjIVekNj" style="zoom: 33%;" /> | <img src="./imgs/gyn_sam_300321_4Gil8MCGe8.png" alt="4Gil8MCGe8" style="zoom: 25%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/sam_240421_MMHk9VNFZj.png" alt="MMHk9VNFZj" style="zoom:50%;" /> | detta är en malign ovariecysta: kan ha ett septum vid 3d-avbildning | <img src="./imgs/gyn_sam_300321_j2m7kZ9bNz.png" alt="j2m7kZ9bNz" style="zoom: 25%;" /> |
 
 
 
@@ -2709,16 +2769,32 @@ cerivicit
   * Screeningprogram för cellprover, noterat förändringar vulvärt
   * leukoplakiska förändringar nästan
   * px visade VIN3
-  * föranledde resektion labia minora
+  * föranledde resektion labia minora, antagligen "Wide resection"
+  * Vad måste man alltid göra vid kirurgisk behandling av vulva cancer
+    * Lymfkörtelutrymning
+
+
+
+***Definition***
+
+* LIke a skin cancer at the vulva
 
 
 
 ***Etiologi och patofysiologi***
 
 * VIN, vulvär-intraepitelial neoplasi: precancerösa lesioner. risk övergg cancer 3-4%. Latens 15-30år. 
-
-* HPV: högrisk HPV verkar ha en hand här också, med att den kan påverka epitelet t att förändras.
-* Lichen sclerosus: är en **annan orsak**. Ovanligare jfr HPV. 
+* **HPV**: högrisk HPV verkar ha en hand här också, med att den kan påverka epitelet t att förändras.
+  * **Invasiv cancer, 20-40% HrHPV pos**
+  * **VIN (vulär dysplasi), 90% HrHPV pos**
+* **Lichen sclerosus**: är en **annan orsak**. Ovanligare jfr HPV. 
+* **Celltyper**
+  * Skivepitelcancer: 80-90%
+  * Malignt melanom: 5%
+  * Morbus Paget: <5%
+  * Adenocarcinom, Bartholini:  <5%
+* **Lokalisation, anatomiskt**
+  * **Vartsmhelst i vulva**
 
 
 
@@ -2729,6 +2805,27 @@ cerivicit
   * LSIL: low grade intraepithelial lesion; tidigare VIN1
 * Icke-HPV associerad dysplasi
   * dVIN: differentierad VIN, relaterad t hudsjukdom
+
+
+
+***Epidemiologi***
+
+* Äldre patienter, median 70åå
+* 150 nya fall Svrige
+* inga hereditära faktorer
+* relaterat t HPV ELLER lichen
+
+
+
+***Riskfaktorer***
+
+* Ålder
+* HPV-relaterat
+  * immunsupprimering
+  * rökning
+* Icke-HPV relaterat
+  * Lichen sclerosus
+* Tidigare diagnos av vulva cancer
 
 
 
@@ -2760,6 +2857,33 @@ cerivicit
   * **Fotodynamisk behandling**: PDT enstaka styduer
 * **Lichen sclerosus**: om lichen slerosus föreligger, man skiljer denna fr HPV orsakade (och HSIL, LSIL indelningen?)
   * behandling kvarvarande lichen sclerosus i efterloppet
+* **Enl föreläsning**
+  * **Kirurgi, 1a hands val**
+  * **två delar**
+    * Resektion primärtumör i vulva
+    * Lymfkörtelutrymning, körteutrymning, i ljumsken
+      * Lymfkörtelutrymning: Många med komplikationer, inklusive lymfödem
+      * **Sentinel-node, portavaktkörtel**: kan vara ett alternativ för vissa
+  * **Alternativ**
+    * Historiskt, butterfly incision: VÄLDIGT dålig kirurgiskt alterantiv
+    * **Vulvektomi**: stora tumörer, multifokalitet
+    * **Wide resektion, vid resektion**: vanligaste modaliteten idag
+
+
+
+***Komplikationer***
+
+* Lymfkörtelutrymning
+  * Lymfödem i nedre extremiteter
+  * Infektioner: förekommer också efter utrymning
+
+
+
+| <img src="./imgs/sam_240421_YEGHNtIGWr.png" alt="YEGHNtIGWr" style="zoom:50%;" /> | <img src="./imgs/sam_240421_Od91Sr443A.png" alt="Od91Sr443A" style="zoom:50%;" /> | <img src="./imgs/sam_240421_smulWXQCE4.png" alt="smulWXQCE4" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
+
+
 
 
 
@@ -6606,7 +6730,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-## Infektion o inflammation
+## Infektion, inflammation
 
 
 
@@ -7373,7 +7497,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * Sexologisk rådgivning
 * Lidokain gel: underlätta mest smärtsamt i början av samlag, enl LKM boken om Dyspareuni.
 
-## Infektion - genital
+## Infektion: genital
 
 
 
@@ -7391,16 +7515,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Vid bakteriell vaginos kan man behandla både systemiskt och vaginalt
 * **Margarita, 35 år,** 
   * söker för ökade flytningar. I journalen ser du att hon är III-gravida, I-para, med en normal, vaginal förlossning för 10 år sedan och därefter två missfall. Sedan tonåren har hon typ I-diabetes och behandlas med insulin via pump. Besvären som hon söker för har hon haft av och till under flera månader. Du får veta att hon är singel och haft flera kortare relationer med olika män under de senaste åren. Hon har p-piller och regelbunden mens. Inga tidigare gynekologiska problem förutom kondylom för några år sedan. Cytologprov var normalt för 1 år sedan men Margarita är orolig för cellförändringar. Flytningen beskriver hon som ganska tunn, gulaktig, ibland rosafärgad, luktar lite illa av och till. Klåda och irritationskänsla finns också av och till. Hennes insulinbehandling fungerar bra och blodsockret är mestadels stabilt. Du fortsätter med en gynekologisk undersökning.
-  * **Differentialdiagnoser:** BV, candida, kondylom, klamydia
-  * **Prover**: wet smear, sniff-test, pH, klamydia prov
+  * **Differentialdiagnoser:** BV, candida, kondylom, klamydia, cellförändringar
+  * **Prover**: wet smear, sniff-test, pH, klamydia prov, cellprov + HPV
 * **Emelie 22 år** 
   * har haft underlivsproblem i några dagar.
   * Vilket/a nedan påstående är korrekta?
-  * vid bakteriell vaginos noteras ofta rodnade slemhinnor
-  * vid vulvovaginal svampinfektion noterats ofta gråaktig flytning
-  * rätt: vid bakteriell vaginos kan man behandla både systemiskt och vaginalt 
-  * vid bakteriell vaginos bör man överväga partnerbehandling
-  * vid vulvovaginal savmpinfektion finns relativt hög risk för uppåtstigande infektion ( salpingit ) 
+    * vid bakteriell vaginos noteras ofta rodnade slemhinnor
+    * vid vulvovaginal svampinfektion noterats ofta gråaktig flytning
+    * rätt: vid bakteriell vaginos kan man behandla både systemiskt och vaginalt 
+    * vid bakteriell vaginos bör man överväga partnerbehandling
+    * vid vulvovaginal savmpinfektion finns relativt hög risk för uppåtstigande infektion ( salpingit ) 
 
 
 
@@ -7417,7 +7541,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **3 av 4 amsels kriterier**
   * Förekomst clue cells wet smear: i yutstryk ses stora mängder bakterier på ytan
   * Positivt KOH (sniff-test): tillsats KOH ökar pH och den karaktäristiska fiskdoften framträder
-  * Homogen, grågul, ofta skummig fluor ()
+  * !! Homogen, grågul, ofta skummig fluor ()
   * pH över 4.5 i slidsekret
 * **Clue cells**: dessa är bakterier som adhererar till slemhinne celler, som man i sin tur kan se när man mikroskoperar skrap fr dessa patienter (eller flytningar?)
 
@@ -7429,6 +7553,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **pH över 4.5**
 * **clueceller i wet smear, få laktobaciller**
   * NaCl för att man vill se bakterier, noterar att KOH är till för att döda bakterier och leta svamp. 
+* **TIllägg**
+  * Ser man blodtillblandning kanske man kan komplettera med odlingar och cellprov
+  * **Cellförändringar + HPV**: kom ihåg att alltid ta HPV, för att man ändå kommer att reflextesta om den är positiv. 
+  * **Klamydia, gon prov.**: tar en swab/öronpinne för prov
 
 
 

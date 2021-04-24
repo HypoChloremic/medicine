@@ -736,7 +736,7 @@ Man brukar passera mekonium efter ca 2-3 dagar.
 
 **Vidare diagnostik:** 
 
-* BÖS (utan kontrast räcker först): kan ej sätta diagnos på detta, men man har tydliga indicier åp att det är ett högt ileus baserat på bilderna nedan
+* **BÖS (utan kontrast räcker först)**: kan ej sätta diagnos på detta, men man har tydliga indicier åp att det är ett högt ileus baserat på bilderna nedan
 * ***Golden standard vid grön kräk:***
   * Sedan Övre passage (sond→ kontrast i sonden → genomlysning).: 
   * Golden standard vid grön kräkning, vill veta är det en volvulus ex. 

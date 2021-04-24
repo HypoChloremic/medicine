@@ -519,14 +519,14 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     
 * **Mustafa, 18 månader gammal,** 
   
-    * inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft
-        * ***Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva 	episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)***
-        * ***Initial behandling på akuten:*** 
+    * **inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft**
+        * **Mustafa har inte en förkylnignsastma utan detta är en obstruktiv bronkit. Det är väldigt vanligt för barn under 2åå att få infektionsutlösta obstruktiva 	episoder bronkit som efterliknar astma, men detta motiverar ej diagnsen förkylningsastma (aka infektionsutlöst astma)**
+        * **Initial behandling på akuten:** 
             * syrgas + ventoline (ventoline pga allvarlighetsgraden) med optichamber
             * utefter effekt överväga steroider: betapred eller solu-cortef (solu-cortef om det är en svår obstruktivitet)
             * sedan fortsätta med syrgas + ventoline
             * utebliven förbättring: magnesiumsulfat, överväga tillägg iv teofyllamin
-        * ***Efter sex timmars behandling på akuten blir han närmast helt symptomfri. Syresättningen har stigit till 99%. Modern önskar åka hem till övriga familjemedlemmar***
+        * **Efter sex timmars behandling på akuten blir han närmast helt symptomfri. Syresättningen har stigit till 99%. Modern önskar åka hem till övriga familjemedlemmar**
             * **Airomir (saba) + inhalationssteroid**, som kommer att tas i en spacer/mask antagligen...
             * detta ska följa ett förkylningsastma schema som han får fr akuten
             * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
@@ -555,6 +555,16 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Hur behandlar du då tillståndet
         * Initialt SABA, kortverkande B2-agonist vid behov
     
+* !!! Andningsbesvär med obstruktivitet är en av de vanligaste orsakerna till att barn söker akut vård. Vilket alternativ nedan är mest korrekt gällande definitioner och behandling av astma hos barn?(1p)
+
+    * rätt Barn > 2 års ålder med obstruktiva besvär uppfyller kriterier för astma. Inhalation med salbutamol ges oftast i kombination med inhalationssteroider vid konstaterad astma. 
+    * Barn > 2 års ålder med obstruktiva besvär uppfyller kriterier för astma. Behandling med antikolinergika (Atrovent) är kontraindicerat till barn <2 års ålder.
+    * Barn > 2 års ålder med obstruktiva besvär uppfyller kriterier för astma –förutsatt att atopisk hereditet finns. Inhalationsbehandling med kortison brukar påverka tillväxten negativt.
+    * Barn < 2 års ålder med två episoder av obstruktiva besvär uppfyller kriterier för astma. Montelukast kan ges som tillägg till salbutamol och inhalationssteroider.
+    * Barn < 2 års ålder med tre episoder av obstruktiva besvär uppfyller kriterier för astma. Montelukast kan ges intravenöst som tillägg till salbutamol
+    * sammanfattning
+      * montelukast är leukotrienantagonist, den ges inte iv, den är peroral (montelukast po)
+
     
 
 
@@ -763,7 +773,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Inhalationssteroider / LTA
   * Långverkande beta2 / LTA
   * biologiska lkm: anti-IgE, anti-IL5, anti-IL4/13
+* **Periodisk behandling akut**
+  * börjar med SBA
+* !!! **Om barnet får astma diagnos**: De flesta kommer att gå runt med ICS vid kontaterad diagnos astma, vid periodisk behandling. 
+  * SABA tillägg ICS (airomir + flutide?)
 * !! Angående steroider: nedreglerar EOSINOFIL INFLAMMATION men kan INTE NEDREGLERA NEOTRIFL + NEITROFILASSOCIERADE CYTOKINER
+* 
 
 
 
@@ -2436,6 +2451,12 @@ Enligt ABCDE
     * Pubertas tarda hos pojkar konstateras då testikelvolymen är <3 mlvid 14 års ålder. Brösttillväxt enligtTanner defineras som >B1d
     * Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 15 års ålder och hos flickor vid avsaknad av brösttillväxt>13 års ålder. 
     * Pubertas tardahos pojkar konstateras då testikelvolymen är <3 ml vid 14 års ålder och hos flickor vid avsaknad av brösttillväxt>13 års ålder. 
+    * Resonering
+      * Pojkar pubertas tarda efter 14åå
+      * flickor pubertas tarda efter 13åå
+      * 4mL testikelvolym vid 14åå = tarda
+      * Brösttillväxt =B1 Tanner, eller icke-begynnande tillväxt över 13åå = tarda
+        * ya3ni man ska ha >B1 för att ha kommit in i puberteten
 
 
 
@@ -11964,7 +11985,7 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-<img src="./imgs/sam_160421_EMy1aNJrZs.png" alt="EMy1aNJrZs" style="zoom:50%;" />
+<img src="./imgs/sam_160421_EMy1aNJrZs.png" alt="EMy1aNJrZs" style="zoom: 80%;" />
 
 
 
@@ -12033,7 +12054,9 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Kännetecken***
 
-* 
+* Andningsproblem
+* Andningsstörning
+* över 34 gestationsveckor
 
 
 
@@ -12087,6 +12110,12 @@ En kort lista över kliniska manifestationer av CF:
 
 * CPAP
 * överväg infektion
+
+
+
+#### RDS
+
+
 
 
 
@@ -12322,13 +12351,16 @@ En kort lista över kliniska manifestationer av CF:
 * Sängvätning, att man kissar på sig s
 * 5åå eller äldre
 * Blåsan blir full eller kontraheras nder sömn, UTAN att väcka arnet
-* Sömnen
-  * enures patienter är generellt svårare att väcka
-  * normala fall är kraftig VÄCKNINGSSTIMULUS: full + kontraherande blåsa
-  * men enures patienetr vaknar inte av detta
-  * sover sjupt med dålig
-  * !! har andningssvårigheter nattetid: sömnapneer, el kraftig snarkning (kom ihåg relation med ÖNH knursen och barnapne)
-  * !! Nokturi är vanligt och ska inte behandlas: att barnet vaknar på natten av en full blåsa och går och kissar
+* **Orsaker enures**
+  * **Sömnen**
+    * enures patienter är generellt svårare att väcka
+    * normala fall är kraftig VÄCKNINGSSTIMULUS: full + kontraherande blåsa
+    * men enures patienetr vaknar inte av detta
+    * sover sjupt med dålig
+    * !! har andningssvårigheter nattetid: sömnapneer, el kraftig snarkning (kom ihåg relation med ÖNH knursen och barnapne)
+    * !! Nokturi är vanligt och ska inte behandlas: att barnet vaknar på natten av en full blåsa och går och kissar
+  * **Förstoppning**: Notera att kombinationen störd blåsfunktion och förstoppning är mycket vanlig. Mekanismen är sannolikt att vid förstoppning lagras avföring i rektum (som normalt ska vara en "signalplats" - inte en "lagerplats"), som ju är belägen alldeles bakom urinblåsan. Det är därför viktigt att fråga efter symtom på förstoppning (hård avföring, glesa tarmtömningar, avföringsinkontinens) hos barn med enures eller inkontinens dagtid.
+  * **SIADH**: 
 
 
 
@@ -12336,7 +12368,7 @@ En kort lista över kliniska manifestationer av CF:
 
 * Primär enures: 
   * Inte haft period torra nätter över 6månader
-  * INattvätning 6månader, förutsatt att det varit en torr period innan enuresen
+  * Inattvätning 6månader, förutsatt att det varit en torr period innan enuresen
 * Sekundär enures
   * torrtid mer än 6månader DÄREFTER sängväta igen, talar man om sekundär enures
 
@@ -12366,8 +12398,8 @@ En kort lista över kliniska manifestationer av CF:
 ***Kännetecken***
 
 * VAKNAR INTE av vätningen
-* Monosymptomatisk enures: att d bara enuresen verkare som
-* Nonmonosymptomatisk enures: att det finns fler symptom än bara enuresen (sängvätningen)
+* **Monosymptomatisk enures**: att d bara enuresen verkare som
+* **Nonmonosymptomatisk enures**: nattvätnng, med blåsdysfunktin dagtid, att det finns fler symptom än bara enuresen (sängvätningen)
   * Täta miktioner: över 7p dag
   * Glesa miktioner: under 4 p dag
   * Häftiga trängningar t miktion: urgency, trängninga
@@ -12383,13 +12415,20 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+***Handläggning och utredning***
+
+* Anamnes
+  * Efterfråga förstoppning alltid åp dessa barn
+
+
+
 ***Behandling***
 
 * obehandlad enures förvinner spontant 15% patienter per år
 * När behandla: när barnet börjar tycka att det är ett problem, oftast mellan 6-7åå
   * oftast itne aktuellt behandla innan 6åå
 * **Stegivs**
-  * Första steget
+  * **Första steget**
     * Anamnestiska samtalet: "kommer ta tid, tålamod"
     * uttalad vätskerestriktion eftermiddag kvällstid INTE effektivt, rekommenderas inte
     * barnet bestämmer om blöja eller lakansskydd: flesta barn vill slippa blöja

@@ -83,4 +83,12 @@ beroende på hur akut detta är
 
 * Hyperpyrexi
 
-* Handläggning preeklampsi frågan fr omtenta HT19
+* Handläggning preeklampsi frågan fr omtenta HT1
+
+* Hormoner genogg tillväxt
+
+* Fysiologiska blpsljud epidemiologi?
+
+* !!! meningit: hörselutredning, psuomotorisk, hydrocefalus utredning, immunbristutredning
+
+* Meningit kan man ge betapred ((Betametason/Dexametason))

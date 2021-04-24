@@ -105,4 +105,18 @@ beroende på hur akut detta är
 
 * Prolongerad ikterus skickas till akuten, värt att notera. 
 
-* A uterina embolisering är fertilitetsbevarande
+* A uterina embolisering är fertilitetsbevarande; dock öade komplikationer
+    * Spontan abort
+    * PPH
+    * 
+
+* Sekundär bakteriell infektion eller högre feber än normalt: ger man lungröntgen
+
+* Behandla som RSV om ingen förbättring utred vidare med lungrtg: BEhandlnigen kommer vara NaCl syrgas på optiflow grimma etc. 
+
+* RS-Apne ska man vara inlagd 3d utan apne verifierat innan hemgång. observeras enl champ med EKG, och pox-mätning....
+
+
+
+15-årig, tidigare frisk tjej kommer via remiss från VC pga buksmärtor och viktnedgång för utredning.
+ Misstänkt IBD eller celiaki - viktnedgång, anemi, lågt albumin, uppblåst mage, uppger att det kommit blod en gång vid avföring som är mjuk. Har ej gått in på gynanamnes så kan ej utesluta järnbristanemi pga riklig mens. Gastroenterit mycket osannolikt utan kräkningar eller infektionssymptom samt sökte för samma problem för 6 månader sedan - oklart om det hållit i sig sedan dess. Transglutaminasantikroppar samt f-calprotectin taget. Efter konsultation med gastro skickas remiss till gastromedicin för övertag av utredning och behandling efter provsvar. Pat skrivs hem med järntabletter och kostråd, avvaktar övrig behandling då gastromedicin kan ta emot flickan senare i veckan.

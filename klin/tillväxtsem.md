@@ -259,3 +259,8 @@ Pubertas tarda
         * Opererad med vulvaplastik
     * !! DSD-teamet: Planerad uppföljning via DSD-teamet
     * <img src="./imgs/sam_240421_NUyjlshyXB.png" alt="NUyjlshyXB" style="zoom:50%;" />
+
+### Allergi
+
+om komjölk: elim.provok samt IgE-sero
+övrig födoämnesallergi: IgE och prick

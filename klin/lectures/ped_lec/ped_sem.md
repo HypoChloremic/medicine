@@ -752,7 +752,7 @@ D är en 11 år gammal flicka som går i årskurs 5. D brukar gå till skolsköt
 
 # Astma och allergi
 
-### Fall 1
+### Fall 1 - atopiskt eksem
 
 Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andningsbesvär sedan 2 dagar. Hon är rosslig och hostig, har jobbigt att andas och föräldrarna har noterat att det stundom piper ur luftvägarna när hon andas. Hennes temp är 39,4.1.Vilka andra anamnestiska uppgifter kan vara viktiga?2.Vad fokuserar du på i den kliniska undersökningen? 3.Vilken behandling ordinerar du på akuten?4.Vilka är dina differentialdiagnoser?
 
@@ -783,9 +783,11 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
   * man pressar på utandninen: fysiologisk reflex att man behåller mer luft, att man infleras, att de andas ytligt, vågar inte och kan inte vara helt avslappnat perssa u allt luft de har frör att det blir svårt att pressa upp igen, varåp håller kvar luft i perifera luftävgarna så att det inte kollaberar, 
   * därför andas med lite stängd mun så att bygger upp intrathorakala trycker
   * vill behålla ett PEEP tryck, ett endexpiratoriskt tryck som bibehåller alveolerna med en viss öppningsgrad. Detta kan man se rent på barnets hållning hur det andas, att det är hyperinflerat.
-* ***Röntgen***: kunan se om det föreligger ***hyperinflation***. Så man kan fråga efter hyperinflation. 
+* ?? ***Röntgen***: 
+  * kunan se om det föreligger ***hyperinflation***. Så man kan fråga efter hyperinflation. 
   * tittar på diafrgmavalven på sidoprojektionen. 
-* **Stridor? –expiratorisk el inspiratorisk?**: andningsljud på inandningen, att det tyder på övreluftvägsobstruktion, konstrktion. 
+* **Stridor? –expiratorisk el inspiratorisk?**: 
+  * andningsljud på inandningen, att det tyder på övreluftvägsobstruktion, konstrktion. 
   * titta övre luftvägarna alltså. 
 * **Hosta? –torr, rosslig/blöt, skällande?**: 
   * ***Torr hosta***: som regel är det en icke-produktiv torr hosta hos obstruktivt barn
@@ -855,6 +857,7 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
 * **Luftrörsvidgande / Inhalationsbeh**:-
   * **beta-2 agonist**: kortverkande beta2 agonis. 
     * kan ge var 20e minut
+    * takyakrdi biverkan på denna
   * **adrenalin**: detta är verkligen luftrörsvidgande, har en slemhinneavsvällande effekt. den verkar på alpha o betareceptorer. betareceptorer är som beta2 agonisten verkar på. men den kmr osså verka på alfa2 receptorer i kärlen, varpå konstriktion, o minskar ödemen. 
     * riktigt små barn är adrenalin mkt bättre
     * adrenalinet piskar på hjärtat o höjer BT, så man ska vara varsam
@@ -869,6 +872,7 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
     * på allra misnta barnen, sällan att de drabbas av astmaliknande bilden, det de får i större utsträck är virusbronkiolit av RS, ***där hjäölper inte allas med beta2 agonist, så man behöver avsvällande effekten, med adrenalin***
   * ***Barn över 6 månader***: förta hand beta2 agonist, andrahand adrenalin. 
   * ***För kruppen:*** det är bara adrenalin som hjälper, för att beta2 enbart fungerar på btronkträdet som inte finns i övre luftvägarna, varpå adrenalin långt mkt bättre för att man vill ha den avsvällande effekten. 
+* **NaCl**. Slemmet blir mer vattnigt/lösligt och får de att flytta på sig. Går jättebra att gödsla med. 
 * **Steroider (kortison)**
 * **Uppvätskning**
 * **Magnesiumsulfat i v(?)**
@@ -887,15 +891,15 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
 
 ***När går hem***
 
-* utrustar små barn med sprayer, som man kan ge hemma, få på akuten
+* utrustar små barn med sprayer/spacer/optichamber, som man kan ge hemma, få på akuten
   * spacer med ansiktsmask
-  * och så har man lfuitfrörsvidgande med ermyl
+  * och så har man lfuitfrörsvidgande med ermyl (airomir?)
   * och en flutid, som är kortison
-  * den oranga och den blå
+  * !!! den oranga och den blå 
   * förkylnignsastma drabbar 20-25% av svenska barn, så många hem har den. 
   * spacer som man använder mkt under förkylnign
   * de smo får det ofta, använder mer 
-  * montelucast sindulär kan man addera om det inte räcker. 
+  * !!! montelucast sindulär kan man addera om det inte räcker. 
 
 
 
@@ -908,7 +912,7 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
 
 
 
-![CAhGy5XXpl](./imgs/pedsem_CAhGy5XXpl.png)
+<img src="./imgs/pedsem_CAhGy5XXpl.png" alt="CAhGy5XXpl" style="zoom:25%;" />
 
 
 
@@ -922,7 +926,7 @@ Du är jour på barnakuten och en 8 månaders flicka kommer in pgafeber och andn
 
 
 
-### Fall 2
+### Fall 2 - äggallergi
 
 Fall 2: 11 mån flicka Helammas till 5 mån ålder. Lindrigt atopiskt eksem sedan 2 mån ålder. Behandlad med mjukgörande och kortisonsalva (grupp I/II) lokalt. Inga tillväxtrubbningar.Har haft upprepade (x 5) episoder med urtikaria av oklar genes.  Hon kan äta mjölkprodukter utan besvär, men vägrat pannkaka. Ännu inte fått pröva nötter. 
 
@@ -949,7 +953,10 @@ Fall 2: 11 mån flicka Helammas till 5 mån ålder. Lindrigt atopiskt eksem seda
   * kräver en del kunskap för att göra det effektivt
 * ***IgE-analys (RAST) i blod***
   * nu börjar luta sig mer mot IgE analyser
-  * blodproverna kan få svarp å mkt mer 
+  * blodproverna kan få svar på mkt mer 
+  * // Ägg, mjölk, vete
+  * Ägg är nästvanligaste. 
+  * Soyaprotein är ganska vanligt. Vete. Nötter är vanligt med tjejen har inte testat det ännu så det kan man avvkta med. 
 * ***Komponentanalyser***
   * om spec allergi, eller att det är korsallergi mot ngt annat
   * om det är björkpollen allergi, är det nästan alltid att man får klåda munnen, obehag när man äter nötter: då vet man ej om det är nötallergi eller om det är krosallergi fr björkpollen
@@ -997,15 +1004,15 @@ Fall 2: 11 mån flicka Helammas till 5 mån ålder. Lindrigt atopiskt eksem seda
 * **Anti-histamin**: utrusta föräldrarna med anti-histaminer för den allergiska reaktionen
 * ***betapred o kortisontabletter***: att man ger med .. starkare reaktioenr
 * ***om anafylaktiskt***: epipenna, autoinject,
-* **Dietrestriktioner** -dietisthjälp
+* **Dietrestriktioner**: dietisthjälp
 
 
 
 ***Prognos***
 
-* ***God, avseende äggallergi.*** 
-* ***Atopiskt eksem ofta bestående,*** men brukar minska
-* ***komponentanalysen hjälper:*** 
+* **God, avseende äggallergi.** 
+* **Atopiskt eksem ofta bestående,** men brukar minska
+* **komponentanalysen hjälper:** 
   * om pos 5o-albumin är det mer permanent svårare allergi, 
   * om ej pos, kan växa bort vid 3-4åå. 
 
@@ -1014,13 +1021,13 @@ Fall 2: 11 mån flicka Helammas till 5 mån ålder. Lindrigt atopiskt eksem seda
 ***Uppföljning***
 
 * ***Barnläkarmottagning***  
-  * –förändrad klinik över tid
-* ***Återbesök var 6-12:e månad***
+  * förändrad klinik över tid
+* !!! ***Återbesök var 6-12:e månad***
   * årligt prick-test
   * alt IgE nivåerna
   * att man ser om skiten försvunnit bort eller ej
-  * ta ställning när man ska återintroducera. 
-* ***Ev äggprovokation vid 2-3 åå***
+  * ta ställning när man ska återintroducera
+* !!! **Ev äggprovokation vid 2-3 åå**
 * dietistremiss vore nice osså
 
 
@@ -1041,18 +1048,20 @@ Fall 2: 11 mån flicka Helammas till 5 mån ålder. Lindrigt atopiskt eksem seda
 
 
 
-### Fall 3
+### Fall 3 - Hösnuva o astma
 
-Fall 3: 14-årig pojkeKommer på remmis för optimerad behandling. Sedan 4-5 åå besvär av rinokonjunktivit  och trötthet mellan april-augusti. Tagit anti-histamin intermittent.  Senaste året besvär av kronisk rinit. Tränar innebandy 4-5 ggr/v och besväras ofta av andfåddhet.
+Fall 3: 14-årig pojke. 
+
+* Kommer på remmis för optimerad behandling. Sedan 4-5 åå besvär av rinokonjunktivit  och trötthet mellan april-augusti. Tagit anti-histamin intermittent.  Senaste året besvär av kronisk rinit. Tränar innebandy 4-5 ggr/v och besväras ofta av andfåddhet.
 
 
 
 ***Vilka allergier kan misstänkas?***
 
-* ***Både pollen*** (björk, gräs och gråbo) 
-* ***samt perenn*** (pälsdjur, kvalster, mögel): 
+* **Både pollen** (björk, gräs och gråbo) 
+* **samt perenn** (pälsdjur, kvalster, mögel): 
   * att det är allergi som dragit över året, längre än säsongbudnet i.e. perenn för åretrunt
-* ***Man kanske är kvalsterallergisk vår breddgader, men gillar inte kallt o torrt, i skåne blir ett problem***
+* **Man kanske är kvalsterallergisk vår breddgader, men gillar inte kallt o torrt, i skåne blir ett problem**
   * har man problem med kvalsterallergi o bor i sthlm, har man förmedlingen dålig ventilation i bostaden, att det är för fuktigt. 
   * Cockroach allergi, jättevanligt, men inget som vanligt.. . 
 
@@ -1060,22 +1069,26 @@ Fall 3: 14-årig pojkeKommer på remmis för optimerad behandling. Sedan 4-5 å�
 
 ***Vilka prover?***
 
-* Prick-test och/eller IgE-analys (RAST)
+* !! för hösnuvan: Prick-test och/eller IgE-analys (RAST)
 
 
 
 ***Misstanke om astma –tester?***
 
-* ***Spirometri med reversibilitetstest***
-  * FEV1: ska vara över 80% av det förväntade
+* **Spirometri med reversibilitetstest**
+  * !!! **FEV1**: ska vara över 80% av det förväntade
     * om under 80% talar för obstruk, vilket är att man inte får ut volymen i tid
-  * Sätta FEV1/VC, sätta i relation med vital kapaciteten: är man restritkvi och små lungor, då kan man få falskt skit. harm an VC på 50% då kan man inte få ett FEV1 som är särskilt bra, då ska man sätta den i realtion med vital kapacitet. 
-  * FEV1/FVC = 0.85 är normala
+  * **Sätta FEV1/VC**, sätta i relation med vital kapaciteten: är man restritkvi och små lungor, då kan man få falskt skit. harm an VC på 50% då kan man inte få ett FEV1 som är särskilt bra, då ska man sätta den i realtion med vital kapacitet. 
+  * **FEV1/FVC = 0.85** är normala
   * om FEV1 är60% verkar obstuk, men FVC är 60% då är pat ju restriktiv. 
   * ***Även om spiron normal utesluter ej astma***: kan vara bra vid tillfället. 
-* ***PEF*** (PEF-kurva)
-* ***Utandat NO*** (kväveoxid)
-* ***Ansträngningstest***
+* **PEF** (PEF-kurva): alternativet till spirometri
+  * Man ska inte ha samma lungfunktion varje dag → variering av PEF värdet. 
+  * Om det är samma hela tiden så är det inte astma. 
+  * Alternativt PEF som är enkelt att utföra. 
+  * PEF-variabilitet > 13 % medelvärde för en vecka av högsta-lägsta/medelvärde per dag.
+* **Utandat NO** (kväveoxid)
+* **Ansträngningstest**
   * testcykel eller löoband, 80% arbetsbelastning, och blåsa spiro fortlöpande, innan och vid maximal trötthet, för att se om spiron förändras
   * alla blir andåfdda o dyspnoiska av ansträng, men frågan e om lungfunk försämras efter detta
   * är man dyspnoisk bara, utan påverkan lunga, efter ansträng är det inte astma.
@@ -1086,7 +1099,8 @@ Fall 3: 14-årig pojkeKommer på remmis för optimerad behandling. Sedan 4-5 å�
 
 
 
-Vilken behandling?Rinokonjunktiviten-allergin:
+**Vilken behandling?Rinokonjunktiviten-allergin**:
+
 * Anti-histamin (tablett och ögondroppar)
 * Nasal steroid
 * Allergen specifik immunoterapi (ASIT)
@@ -1103,7 +1117,7 @@ Astman:
 * ***Leukotrien-rec antagonist*** (montelukast = Singulair)
   * i USA är de rädda för kortison, så man förespråkar denna först hos yngre barn, inte hos europa
   * hos yngre barn kommer leukotrienantag tidigare i trappan, innan långverkande sterodier. 
-  * har biverkningar: med mardrömmar, etc... 
+  * **har biverkningar**: med mardrömmar, etc... 
 * ***LABA***
 * ***Kommentar***
   * de röda e kombinationspreparat
@@ -1127,7 +1141,7 @@ Astman:
 
 
 
-### Fall 4
+### Fall 4 - anafylaxi
 
 Fall 4: 6-årig pojkeInkommer till barnakuten med ambulans pgamisstänkt allergisk reaktion.  Varit hos kompis och ätit en bit Snickers. Direkt efteråt fått utslag, klåda, andningsbesvär och klumpkänsla i halsen.
 
@@ -1172,6 +1186,13 @@ Anafylaxigrader
   * evarytmi och 
   * hjärtstopp. 
   * Förvirring, medvetslöshet
+
+
+
+***Observation på akuten***
+
+* baserat på allvarlighetsgrad 4-12h observation på akuten
+* 
 
 
 
@@ -3655,7 +3676,7 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
 
 
 
-## Fall 1
+## Fall 1 - HIE
 
 * Frisk 35-årig kvinna, v41+6, induktion. 
 * Försämrat CTG med sena deccelerationer
@@ -3683,7 +3704,7 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
 
 * Ventilation är centralt
 * Man börjar med inblåsningar. 
-* Mkt mer ventilation, 3:1 vs 15:2 och 30:1
+* Mkt mer ventilation, 3:1 vs 15:2 och 30:2
 * A-HLR skiljer sig osså: adrenalindosen verkar vara densamma. 
 * verkar som att man evaluerar baserat på hjärtfrekvensen, varpå säkerställa effektiv ventilation
 * utefter detta väljer man att gå vidare med HLR eller ej
@@ -3727,7 +3748,7 @@ EEG visade bilden nedan, tyder på absens-ep, är spike-wave-spike-wave..
 
 * A-kriterium krävs
   * APGAR <= 5 vid 10 min
-  * pgåående HLR o maskventilation vid 10 min ålder
+  * pågående HLR o maskventilation vid 10 min ålder
   * pH under 7 första 60min
   * BE <= -16 försat 60min
 
@@ -3922,13 +3943,13 @@ Akut prenatal asfyxi kan inträffa vid ablatio och uterusruptur.
 
 
 
-## Fall 2
+## Fall 2 - PAS
 
 * Första barnet till en frisk kvinna. 
-* snabb vaginal förlossning i v 38+2 FV 3800 g, FL 51 cm, HO 30 cm. 
-* Apgar 9-10-10. 
-* Vid 1,5 timmars ålder ringer barnmorskan dig som är neonataljour och berättar att barnet andas ansträngt. 
-* Han vill inte amma och är blek i hudkostymen. 
+  * snabb vaginal förlossning i v 38+2 FV 3800 g, FL 51 cm, HO 30 cm. 
+  * Apgar 9-10-10. 
+  * Vid 1,5 timmars ålder ringer barnmorskan dig som är neonataljour och berättar att barnet andas ansträngt. 
+  * Han vill inte amma och är blek i hudkostymen. 
 
 
 
@@ -3993,7 +4014,7 @@ Akut prenatal asfyxi kan inträffa vid ablatio och uterusruptur.
 
 * Respiratorisk distress...
 
-#### 
+
 
 #### Hur vill du gå vidare? Behandling? Utredning
 
@@ -4008,7 +4029,7 @@ Akut prenatal asfyxi kan inträffa vid ablatio och uterusruptur.
   * Det ökade andningsarbetet klingar oftast av efter 24-72h. 
   * PAS ger oftast en typisk rtg-bild med hyperinflation, prominenta kärl och vätska i fissurer. 
 * Inf: 
-  * Us/lab: Blodstatus med diff, blodgas, blododl, CRP, rtg. 
+  * Us/lab: Blodstatus med diff, blodgas, blododl, CRP, rtg
   * Ab direkt! 
   * Sepsisbeh tills motsatsen är bevisad! 
   * I denna ålder ffa GBS
@@ -4028,7 +4049,7 @@ Akut prenatal asfyxi kan inträffa vid ablatio och uterusruptur.
 
 
 
-## Fall 3
+## Fall 3 - immunisering
 
 * Mor frisk, 33 år, 2-grav, 2-para, blodgrupp 0+ Flicka född i v 38+2, FV 3250g
 * Amning fungerar bra i början fast flickan blir allt mer trött. 

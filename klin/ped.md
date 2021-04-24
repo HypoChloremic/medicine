@@ -531,7 +531,13 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-<img src="./imgs/sam_180421_02assWu2Af.png" alt="02assWu2Af" style="zoom:50%;" />
+| <img src="./imgs/sam_180421_02assWu2Af.png" alt="02assWu2Af" style="zoom:50%;" /> | <img src="./imgs/sam_240421_v2klDmYsJR.png" alt="v2klDmYsJR" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              | !! Totaldos per kg för båda kmr vara 0.01mg/kg<br />hjärtstopp har 0.1 |      |
+
+
+
+
 
 
 
@@ -874,8 +880,22 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * modern ekseom som barn
   * Kinderna, hakan, ffa vä uppe pannan: makulöst fjällande utslag
   * armarna: liknande utslag, men lite tunnare utsidan båda armarna
+* 11 mån flicka Helammas till 5 mån ålder. Lindrigt atopiskt eksem sedan 2 mån ålder. Behandlad med mjukgörande och kortisonsalva (grupp I/II) lokalt. Inga tillväxtrubbningar.Har haft upprepade (x 5) episoder med urtikaria av oklar genes.  Hon kan äta mjölkprodukter utan besvär, men vägrat pannkaka. Ännu inte fått pröva nötter. 
+  * Utredning: pricktest, IGE analys (om komjölkmisstanke hade d vait elimination provokation menar abbe ist för pricktest)
 
 
+
+
+
+***Diagnos***
+
+* ***Krävs att barnet har en <u>kliande hudsjukdom</u> samt 3 av följande:***
+  * Tidig debut <2år 
+  * Hereditet för atopi om barnet < 4 år eller samtidig astma/allergisk rinit
+  * Tendens till torr hud senaste året 
+  * Karakteristisk åldersbetingad morfologi 
+    * **mindre barn**: eksem i ansikte, kinder och extensorsidor av extremiteter. 
+    * större barn och vuxna: eksem i böjveck och ansikte/nacke
 
 
 
@@ -12164,11 +12184,16 @@ En kort lista över kliniska manifestationer av CF:
       * Pågående hjärt-lung-räddning (inkl. maskventilation) vid 10 minuters ålder.
       * pH < 7,0 under de första 60 minuterna (arteriellt eller kapillärt blod).
       * Base excess mindre än eller lika med minus 16 under de första 60 minuterna
-  * När flickan är 6 h gammal är hon snabbandad (AF 80) ochhar näsvingespel. Hon gruntar. Saturationen är 93%. Temp 37,1. 
+  * När flickan är 6 h gammal är hon snabbandad (AF 80) och har näsvingespel. Hon gruntar. Saturationen är 93%. Temp 37,1. 
   * Nämn 2 sannolika diagnoser som kan förklara andningsstörningen
     * PAS
-    * MAS
-    * Hjärtsvikt? [check this out ples]
+    * !! Pneumoni: man ska misstänka detta,
+    * annat: MAS, Hjärtsvikt? [check this out ples]
+* Första barnet till en frisk kvinna. 
+  * snabb vaginal förlossning i v 38+2 FV 3800 g, FL 51 cm, HO 30 cm. 
+  * Apgar 9-10-10. 
+  * Vid 1,5 timmars ålder ringer barnmorskan dig som är neonataljour och berättar att barnet andas ansträngt. 
+  * Han vill inte amma och är blek i hudkostymen. 
 
 
 
@@ -12187,20 +12212,105 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+***Presentation***
+
+* **Frisk 35-årig kvinna, v41+6, induktion**
+  * Försämrat CTG med sena deccelerationer
+  * Laktat 8. 
+  * VE 
+  * Vid födelsen är barnet slappt, blått och saknar egenandning
+  * Vad gör du?
+    * Neo-HLR
+  * Blodgas i navelartären: pH 6.96, pCO2 11.4 kPa, BE-17
+  * Vad innebär blodgasen
+    * Uppfyller A-kriteriet för asfyxi: ph under 7, BE under -16
+  * Vårdnivå
+    * Neo-IVA med CPAP (neo-puff)
+  * Vilken diagnos misstänks: asfyxi
+  * Vid 4 timmars ålder ses liksidiga ryckningar i armar och ben. Barnet blir samtidigt cyanotiskt
+  * Vad har hänt
+    * HIE: hypxoxisk ischemisk encefalopati
+      * kramperna ett tecken till måttligt-svår HIE
+      * Förändrad vakenhetsgrad, för'ändrad tonus, påverkade reflexer
+  * Vad är nästa steg
+    * B kriterier
+      * Kramper 
+      * Tecken till måttlig-svår HIE (hypoxisk ischemisk encefalopati): vad innebär detta
+      * Förändrad vakenhetsgrad, förändrad tonus och påverkade reflexer
+    * A och B-kriterier behövs för kylbehandling indikation
+      * Enbart a-krtiereir räcker ej för att köra kylbehandling
+      * A + B för kylbehandling
+    * Vad är kylbehabdling
+      * Både A och B kriterier är indikation på kylbehandling 
+      * för att förhindra långvarig skada hos barnet. 
+      * Ska påbörjas efter 60 min, före 6 timmar. 
+      * Ska inte påbörjas innan uppfylla B-kriterier. 
+      * Kyldräkt, med monitorering av temperatur ca 33-34 grader. 
+      * Kyler i 72 timmar med EEG övervak. 
+        * För att se kramper 
+        * och man kan också lite prognostiskt använda det om barnet har lite hjärnaktivitet. 
+      * Kan vara skäl för att avsluta IVA vård. 
+* PAS patient
+  * PAS: 
+    * 1% av alla nyfödda drabbas av ngn form av adaptationsstörning, 
+    * en andningsstörning som beror på att barnen antingen inte klarar omställningen från intrauterin miljö till att själva börja andas luft alt att omställningen tar längre tid än normalt. 
+    * PAS är lindrig och ger oftast inga men. 
+    * Vanligen snabbt övergående <1-3d.
+  * Inf: 
+    * Måste beh. God prognos. 
+    * Precis som alla andra inf är det viktigt med tidig beh. 
+* Läkarundersökning på BB
+  * hjärtfel, katarrakt, hitta saker som är väldigt avvikande. 
+  * Inspektera. Hur andas dom? Hur ser de ut? nöjda/missnöjda? Hur är färgen?
+  * Gå vidare med det som kräver ett lugnt barn (lyssna på hjärta, känna på pulsar, lyssna lungorna)
+  * Från topp till tå → fontaneller nyckelben, skelettet, benen fötterna. och sedan vända på barnet. 
+  * DEt som gör barnet arg till sist. 
+  * Höfterna, kolla i munnen gör barnet argt. Ögonlampan redo. Barnet på mage → öppnar ögat somär uppåt. Lyfta upp barnet på axeln, släcka lampan i rummet. 
+
+
+
 ***Diagnos***
 
-* A. Minst ett av följande fyra kriterier är uppfyllt:
+* **A-kriterium för asfyxi**
+  * **APGAR**: <= 5 vid 10 min
+  * **pågående HLR o maskventilation**: vid 10 min ålder
+  * **pH <7**: första 60min, (arteriellt eller kapillärt blod).
+  * **BE <= -16**: första 60min
+* **B-kriterium för asfyxi**
+  * **Kramper**
+  * ?? **Tecken till måttlig-svår HIE**: (hypoxisk ischemisk encefalopati): vad innebär detta
+  * **Förändrad** 
+    * vakenhetsgrad, 
+    * tonus och 
+    * påverkade reflexer
 
-  * Apgar vid 10 minuter mindre än eller lika med 5
-  * Pågående hjärt-lung-räddning (inkl. maskventilation) vid 10 minuters ålder.
-  * pH < 7,0 under de första 60 minuterna (arteriellt eller kapillärt blod).
-  * Base excess mindre än eller lika med minus 16 under de första 60 minuterna
 
-  
 
-***Kliniska kännetecken***
+***Utredning och handläggning***
 
-* Nedkylning
+* UL-hjärnan: utesluta hjärnblödning, missbildningar
+* **A-EEG, bedside**: amplitudkopplad EEG
+  * följer kramper
+  * hur hjärnan är påverkad av asfyxin
+  * kan fatta beslut om avslutande av behandling och iva vård
+* **MR, efter nedkylning**
+
+
+
+***Behandling***
+
+* **Innan kylbehandling**: morfin + midazolam; nedkylning är ett enormt stresspåslag
+  * andningen blir svårare av kylbehandlingen
+* **Kylbehandling**: NNT7 (numbers needed t treat). 
+  * **Tidsintervall för start av beh**: fr förlossning [60min, 6h]
+  * **Total tid:** kylning 72h
+  * **B-kriteriuet:** påbörjas ej före B-kriteriet
+  * **Kyldräkt**
+  * **Monitorering **
+    * **Temperatur:** 33-34 grader
+    * **EEG-aktivitet**: följa kramper, samt prognostik hur barnet mår, kan skäl för att avsluta iva-vård
+  * **Ökning temp**: 0.5grader per timme
+  * **MR d5-10**
 
 
 
@@ -12251,19 +12361,44 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-
-
 ***Riskfaktor***
 
 * Prematuritet
-* 
+* Kejsarsnitt (ffa elektiva),
+* !! snabb förlossning, 
+* flerbörd, 
+* manligt kön, 
+* låg gestationsålder, 
+* !! tillväxthämning, 
+* asfyxi, 
+* hypotermi, 
+* maternell astma, 
+* antidepressiva lm hos mamma. 
+* maternell diabetes: ökar risken
 
 
 
-***Handläggning***
+***Handläggning och utredning***
 
-* CPAP
-* överväg infektion
+* **CPAP**: jobbigt andas, hjälper barnet att hålla lungorna öppna, samt trycka undan vätska
+  * **Notera med PAS**: barnen förbättras snabbt
+  * **Utebliven snabb förbättring**: ska man misstänka infektion och andra orsaker, neonatal pneumoni exempelvis
+* **Blodgas**
+* **Radiologiskt**:
+  * Lungrtg: uteslute pneumoni och pneumothorax, diafragmabråck
+* **överväg infektion**: kan inte uteslutas. 
+  * blodgas, blododl, CRP, LPK, lungrtg
+  * AB direkt!
+  * // **Neonatal pneumoni:** Får i princip aldrig uteslutas ur differentialdiagnostiken.
+  * **- GBS** är vanligaste agens.
+  * **- Utredning:** Odling (blod), CRP, LPK, Rtg pulm, SB
+  * **- Behandling:** Bencyl-pc + aminoglykosid initialt. Ev gammaglobulin (bäst visad effekt vid GBS-infektioner)
+
+
+
+***Behandling***
+
+* CPAP: neo-puff
 
 
 
@@ -12479,7 +12614,64 @@ En kort lista över kliniska manifestationer av CF:
 
 #### Klavikelfraktur
 
+***Etiologi***
+
+* 
+
+
+
+***Kännetecken***
+
+* Ganska vanligt
+* Ofta ganska opåverkade
+* skriker barnet: bra att veta om det föreligger en fraktur
+* bildas en callus: bra för förläldrarna att veta detta
+
+
+
 #### Plexusskador
+
+***Kännetecken***
+
+* Stökigt under förlossningen
+* Upptäcks: samband mororeflex, att den är asymmetrisk
+* Läker i flesta fall
+
+
+
+***Handläggning***
+
+* Utebliven läkning fysioterapeut sjukgymnast. 
+
+
+
+
+
+### Genitalia
+
+#### Allmänt
+
+#### Hydrocele
+
+hydrocele (svullen pung oftast vätska och inte ett bråck). Ibland svårt att känna skillnad på bråck och vätska. Om osäker så UL.  
+
+
+
+#### Testistorsion
+
+* testistorsion (ofta intrauterin och då är det för sent eller att det skett i samband med förlossning ellerprecis efter)  
+
+
+
+#### Retentio testis
+
+* retentio testis (vanligt). Om ensidigt så noterar man det bara och så får de följa upp.  Om det är en bilateral retentio så måste man börjar fundera.  Är det verkligen en pojke kan man fundera kring. Då kan man behöva ta mer prover om man  inte hittar någon testikel. 
+
+
+
+#### Flytningar
+
+* vaginala flytningar och blödningar: vanligt hos flickor. Övergående hormonell påverkan av slemhinnan. 
 
 
 
@@ -12926,7 +13118,7 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-
+* 
 
 ### Hematuri
 
@@ -13846,12 +14038,13 @@ kalles svar
 
 Fall 1: 5 dagar gammal flicka
 
-1. Kort sammanfattning inkluderande bedömning av kända fakta runtpatienten
+1. Kort sammanfattning inkluderande bedömning av kända fakta runtpatienten 1p
    1. 5 dagar gammal fullgången gosse med käntkardielltblåsljud som inkommer pg a slöhet och övergående färgskiftning i hemmet. Ammat sämre de senaste 2dagarna, viktnedgång ca 10%. Nästäppa. Väs gott AT, normalainfektionsprover.
-2. *Diagnostiska övervägande*
+2. *Diagnostiska övervägande* 1.5p
    1. Ter sig primärt som viral ÖLI med sekundär svält vid bröstet. Uppseglande sepsis alt kardiellgenes kan dock ej uteslutas.
-3. Vårdplanering
+3. Vårdplanering 1.5p
    1. Inlägges BAVA för fortsatt observation. Följer CRP, närmast om 6 h. Avvaktar iv ab. Nutrition med via NG-sond, räknas på 100 ml/kg/dygn. Får amma fritt. Kontrollsaturation, AF och temp x 8. Daglig vikt. Planerat hjärteko kl 14 efter diskussion med hjärtkonsult Ergander. Ny bedömning av internjour vid ev försämring/stigande CRP under em/kväll.
+4. gillar de ditt svar 1p
 
 
 

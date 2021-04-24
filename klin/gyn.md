@@ -8752,7 +8752,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 <img src="./lectures/gyn_lec/imgs/gyn_lec_8wfku7ikHt.png" alt="8wfku7ikHt" style="zoom:50%;" />
 
-### Prolaps TODO
+### Prolaps 
 
 #### Presentation
 
@@ -9095,6 +9095,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 | <img src="./imgs/sam_240421_woYhj9fb3e.png" alt="woYhj9fb3e" style="zoom:50%;" /> | <img src="./imgs/sam_240421_gqclnkRQj3.png" alt="gqclnkRQj3" style="zoom:50%;" /> |
 | <img src="./imgs/sam_240421_Or5FCp796I.png" alt="Or5FCp796I" style="zoom:50%;" /> | <img src="./imgs/sam_240421_BdLIUWUFw1.png" alt="BdLIUWUFw1" style="zoom:50%;" /> |
 | <img src="./imgs/sam_240421_n3vTtEkOGi.png" alt="n3vTtEkOGi" style="zoom:50%;" /> | <img src="./imgs/sam_240421_pufmdjwE5W.png" alt="pufmdjwE5W" style="zoom:50%;" /> |
+
+
+
+### Ruptur
+
+
+
+#### Anatomiskt
+
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+
+
 
 
 
@@ -11093,10 +11107,10 @@ ENL FL
 
 ***Definition aktiv förlossning***
 
-* **2 av 3 kriterier uppfyllda**
+* ?? **2 av 3 kriterier uppfyllda**
   * **Spontan vattenavgång**
   * **Värkar**: spontan smärtsamma, regelbudna värkar; 2-3/10min
-  * **Cervix**: cervix öppen 4cm eller utplånad och öppen  >1cm
+  * **Cervix**: cervix öppen 4cm (5cm?) ( hade skrivit tidg.: eller utplånad och öppen  >1cm)
 * **Tillägg: progress** i förlossningsarbete fortskriva **närmsta 2 timmarna!**
 
 
@@ -12208,7 +12222,7 @@ ENL FL
 
 
 
-***Presentation***
+#### Presentation
 
 * Nadia 
   * är gravid med sitt första barn. Vid inskrivningen på MVC var hon 162cmlång och vägde 82 kilo.H on e frisk. Under grav. Utvecklat GDM och ultraljud för fostertillväxt har visat 30%+.
@@ -12242,6 +12256,8 @@ ENL FL
 
 
 
+#### Allmänt
+
 ***Allmänna definitioner***
 
 * Ingen enighet om denna för värksvaghet, när åtgärd, vilken åtgärd och dos oxytocin-dropp
@@ -12256,8 +12272,11 @@ ENL FL
 * Utdrivningsskedet: när cervix fullvidgad
   * inleds med **nedträningsfas**: vara 1-2h.
   * därefter **utdrivningsfas**: 30min-1h
-* Tidigare ansetts: öppningshastighet under aktiv fas var 1cm/h. 
-* senare forskning: långsam öppning fram t 6cm, sen accelereras
+* **Tidigare ansetts**: öppningshastighet under aktiv fas var 1cm/h. 
+* **senare forskning**: långsam öppning fram t 6cm, sen accelereras
+  * Nu verkare va 1cm per 4h fram till 7cm
+  * fr 7cm är det 1cm varannan timme
+  * värkstimulering ska kontrolleras varje timme? man ska ha öppning fortsatt
 
 
 
@@ -12275,17 +12294,11 @@ ENL FL
 
 
 
-<img src="./imgs/gyn_sam_060421_UlrMzQJH74.png" alt="UlrMzQJH74" style="zoom:50%;" />
-
-* I bilden ovan: att pat kommit in i förlossning. Öppnar sig väldigt långsamt + timmarna går; öppnar sig t 4h sen händer inget flera timmar, sedan 5 och 6 väldigt långsamt
-
-
-
 ***Sekundär värksvaghet***
 
 * **Definition**: 
   * **att hon öppnat sig adekvat.**: alltså fullt retraherad, så **öppningsfasen avklarad**
-  * !! **Tid utebliven progress 2-4h**
+  * !! **Tid utebliven progress 2-4h**...: detta checka detta med Golbarg Westerlunds PM
   * Men att det efter d inte händer så mkt. 
   * att förlossningen står still efter att patienten öppnat sig
   * alltså patienten är fullt **retraherad**, men att nedträngningen inte fortsätter beyond that. 
@@ -12301,7 +12314,7 @@ ENL FL
 
 
 
-<img src="./imgs/gyn_sam_060421_MAZIJZub4o.png" alt="MAZIJZub4o" style="zoom:50%;" />
+
 
 
 
@@ -12321,6 +12334,12 @@ ENL FL
 * **Åtgärder**: amniotomi + oxytoxinstimuleiring är de två mest beprövade metoder som man alltid vidtar om värkarbetet avtar
   * konservativt: ändrig kroppsläge, smärtlindringsmetoder, psyche, tillförsel näring och energi
 * **Amniotomi**;: alltid innan oxytocinstimulering
+
+
+
+| <img src="./imgs/gyn_sam_060421_UlrMzQJH74.png" alt="UlrMzQJH74" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_060421_MAZIJZub4o.png" alt="MAZIJZub4o" style="zoom:50%;" /> | <img src="./imgs/sam_240421_T81Rmdnyah.png" alt="T81Rmdnyah" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| I bilden ovan: att pat kommit in i förlossning. Öppnar sig väldigt långsamt + timmarna går; öppnar sig t 4h sen händer inget flera timmar, sedan 5 och 6 väldigt långsamt |                                                              | <img src="./imgs/sam_240421_nCIdyUV4td.png" alt="nCIdyUV4td" style="zoom:50%;" /> |
 
 
 

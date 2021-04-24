@@ -92,3 +92,5 @@ beroende på hur akut detta är
 * !!! meningit: hörselutredning, psuomotorisk, hydrocefalus utredning, immunbristutredning
 
 * Meningit kan man ge betapred ((Betametason/Dexametason))
+
+* Osteomyelit

@@ -622,6 +622,7 @@ cerivicit
   - Framfall och ansträngningsinkontinens förekommer ofta samtidigt. 
     - Framfall av urinblåsan kan maskera ansträngningsinkontinens. 
     - Detta är viktigt att känna till vid operation av framfall.
+- **Förlossningar, relation, FL**: ökar som mest efter första förlossningen, risken för detta
 
 
 
@@ -868,7 +869,11 @@ cerivicit
 
 ### Bäckenbotten
 
+#### Strukturer i bäckenbotten
 
+* 
+
+#### Specifikt
 
 ***Levator muskeln***
 
@@ -901,9 +906,34 @@ cerivicit
 
 
 
-| <img src="./imgs/200421_sam_97ubHxmMEL.png" alt="97ubHxmMEL" style="zoom: 25%;" /> | <img src="./imgs/sam_220421_45r7dUfa7i.png" alt="45r7dUfa7i" style="zoom:50%;" /> | <img src="./imgs/sam_220421_eUEwxoF1wy.png" alt="eUEwxoF1wy" style="zoom:50%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./imgs/sam_220421_DD1YCc9UhI.png" alt="DD1YCc9UhI" style="zoom:50%;" /> | <img src="./imgs/sam_240421_yDm42R6hlQ.png" alt="yDm42R6hlQ" style="zoom:50%;" /> | <img src="./imgs/sam_240421_M5ZAPHBtgE.png" alt="M5ZAPHBtgE" style="zoom:50%;" /> |
+***Perinealkroppen***
+
+* Här flätas samman en del strukturer
+* M Bulbocavernosus
+* M Transversus perineii
+* M sphincter ani externa
+* M puborectalis
+
+
+
+***Levatorplattan***
+
+* Den starkaste delen av bäckenbotten
+* kopplas till coccygeus sakralt
+
+
+
+***Förlossningskanalen***
+
+* Hiatus genitalis
+
+
+
+| <img src="./imgs/200421_sam_97ubHxmMEL.png" alt="97ubHxmMEL" style="zoom: 35%;" /> | <img src="./imgs/sam_220421_45r7dUfa7i.png" alt="45r7dUfa7i" style="zoom: 67%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/sam_220421_DD1YCc9UhI.png" alt="DD1YCc9UhI" style="zoom: 67%;" /> | <img src="./imgs/sam_240421_yDm42R6hlQ.png" alt="yDm42R6hlQ" style="zoom:50%;" /> |
+| <img src="./imgs/sam_220421_eUEwxoF1wy.png" alt="eUEwxoF1wy" style="zoom: 67%;" /> | <img src="./imgs/sam_240421_0NsLUQUWz5.png" alt="0NsLUQUWz5" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_pw1V7vNdhG.png" alt="pw1V7vNdhG" style="zoom:50%;" /> |                                                              |
 
 
 
@@ -2798,16 +2828,6 @@ cerivicit
 
 
 
-***Indelningar***
-
-* HPV-Associerad dysplasi; verkar som att man börjar gå ifrån CIN beteckningen, att man använder HSIL och LSIL framför CIN. 
-  * HSIL: highgrade inraepithelial lesion; tidigare uVIN, VIN2-3
-  * LSIL: low grade intraepithelial lesion; tidigare VIN1
-* Icke-HPV associerad dysplasi
-  * dVIN: differentierad VIN, relaterad t hudsjukdom
-
-
-
 ***Epidemiologi***
 
 * Äldre patienter, median 70åå
@@ -2832,17 +2852,54 @@ cerivicit
 ***Kliniska kännetecken***
 
 * Långvarig klåda: att patienten under en tid gått med klåda (och sveda?). 
+* Sveda
+* Sår
+* Knöl i blygden
+* Flytning
+* Blödning
+* bensvullnad
+
+
+
+***Indelningar***
+
+* Enl FL
+  * HPV-inducerad VIN; verkar som att man börjar gå ifrån CIN beteckningen, att man använder HSIL och LSIL framför CIN. 
+    * HSIL=VIN2-VIN3: highgrade inraepithelial lesion; tidigare uVIN, VIN2-3
+    * LSIL=VIN1: low grade intraepithelial lesion; tidigare VIN1
+  * Lichen orsakad VIN = dVIN
+    * dVIN: dyplastisk-VIN
+* Icke-HPV associerad dysplasi
+  * dVIN: differentierad VIN, relaterad t hudsjukdom
+
+
 
 
 
 ***Utredning och handläggnign***
 
-* Kolposkopi + px: 
+* **Enl FL**
+  * **Utredningmässigt**
+    * **ättiksyra 5% + Kolposkopi**
+    * **BIopsier**: stans, skalpell
+    * !! **Små förändringar**: DIREKT excision
+    * !! Lätt göras på öppenvård / mottagning
+  * **HPV associerade**
+    * LSIL: behandlas enbart om symptom
+    * HSIL: 
+      * Kontrolleras med kolposkopi + px
+      * kan behandlas med excision, laser, imiquimod (aldara), fotodynamisk terapi
+  * **Lichen-associerad**
+    * dVIN: 
+      * hög risk cancerutveckling, 
+      * ska behandlas kirurgiskt
+* **Kolposkopi + px**: 
   * att man kan kolposkopera denna också, 
-  * samt göra acetoacetat + jod för att hitta celler man bör plocka. 
-* VIN1: kontrolleras kolposkopi + px
-* VIN2: kontrolleras kolposkopi + px
-* VIN3: grava cellförändringar (CIS?)
+  * ? samt göra acetoacetat + jod för att hitta celler man bör plocka. 
+* **HPV-associerad, VIN**
+  * VIN1: kontrolleras kolposkopi + px
+  * VIN2: kontrolleras kolposkopi + px
+  * VIN3: grava cellförändringar (CIS?)
 
 
 
@@ -2858,6 +2915,18 @@ cerivicit
 * **Lichen sclerosus**: om lichen slerosus föreligger, man skiljer denna fr HPV orsakade (och HSIL, LSIL indelningen?)
   * behandling kvarvarande lichen sclerosus i efterloppet
 * **Enl föreläsning**
+  * **dVIN (lichen-relateart), minoritet av fallen:**
+    * Alltid kirurgi
+    * Hög risk progression till cancer och occult cancer i lesion
+    * Väldigt hög risk för recidiv
+  * **HSIL, (HPV relat), majoritet av fallen**
+    * Alternativ
+      * Kirurgi
+      * Laser
+      * Medicinsk behandling: Imiquimod = immunmodulator
+    * Lägre risk för preogression till cancer
+    * lägre risk för recidiv
+    * lägre reisk för occult cancer i lesion
   * **Kirurgi, 1a hands val**
   * **två delar**
     * Resektion primärtumör i vulva
@@ -2868,6 +2937,18 @@ cerivicit
     * Historiskt, butterfly incision: VÄLDIGT dålig kirurgiskt alterantiv
     * **Vulvektomi**: stora tumörer, multifokalitet
     * **Wide resektion, vid resektion**: vanligaste modaliteten idag
+  * **Annan behandling**
+    * **Strålbehandling**: 
+      * **som tillägg**
+      * **istället för kirurgi**
+      * **Adjuvant**: kurativt syfte
+      * **Palliativt**: symptomlindrande syfte
+      * **Vulvafält**: Primär ist för operation, adjuvant efter operation pga dålig marginal
+      * **Ljumskar**: adjuvant efter operation, vid metastaser i lymfkörtar, palliativ ist för kirurgi
+    * **Cytostatikabehandling**
+      * **Tillägg strålbehandling**
+      * **kombination strålning ist kirurg**i: konkomitant radiokemoterapi
+      * **enbart cytostatikabehandling**: enbart palliativt syfte
 
 
 
@@ -2876,12 +2957,36 @@ cerivicit
 * Lymfkörtelutrymning
   * Lymfödem i nedre extremiteter
   * Infektioner: förekommer också efter utrymning
+    * Ersypelas ökad benägenhet
+  * Lymfocele
+  * Lymfcystor
 
 
+
+***Prognos***
+
+* Viktigaste prognostiska faktorn
+  * Lymfkörtelstatus i ljumskar
+* Vanligast: lokalrecidiv, 20-35%
+* ofta mkt sena recidiv: de-novo tumörer?
+* God prognos lokalrecidiv
+* dålig prognos lymfkörtelrecidiv
+* mkt dålig prognos distansrecidiv, fjärrmetastaser
+
+
+
+***Sammanfattning***
+
+* HPV (LSIL, HSIL), lichen (dVIN); 
+* LSIL (Beh om symptom); HSIL (många beh alternativ), dVIN (alltid kirurgiskt)
+* Utreds med kolposkopi + px, ättiksyra
+* Portavaktkörtelutrymning på dessa patienter
+* Kirurgiskt (Wide-resektion, den nya); Portavaktkörtelytrymning
+* Diffar: gentialherpes (kan se riktigt bubbligt ut), lymfangiom (vet ej hur man diffar), kontaktdermatit
 
 | <img src="./imgs/sam_240421_YEGHNtIGWr.png" alt="YEGHNtIGWr" style="zoom:50%;" /> | <img src="./imgs/sam_240421_Od91Sr443A.png" alt="Od91Sr443A" style="zoom:50%;" /> | <img src="./imgs/sam_240421_smulWXQCE4.png" alt="smulWXQCE4" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
+| <img src="./imgs/sam_240421_dOS6Hf6xw9.png" alt="dOS6Hf6xw9" style="zoom:50%;" /> | <img src="./imgs/sam_240421_mU57lhdM3q.png" alt="mU57lhdM3q" style="zoom:50%;" /> | <img src="./imgs/sam_240421_KBUXkA2q7z.png" alt="KBUXkA2q7z" style="zoom:50%;" /> |
 
 
 
@@ -8641,7 +8746,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Prolaps TODO
 
-***Presentation***
+#### Presentation
 
 - 43åå kvinna
 - - 5 månader sedan opererad med bakre kolporafi och perineorafi . 
@@ -8703,47 +8808,223 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * N. Ileo-inguinale
       * N. Obturatorius
       * rätt: N.peroneus 
+- 38åå, II-para
+  * ofta urinläckage vid ansträngning. svårt tömma tarm. globuskänsla (budging). Gyn undersökning visar prolaps både främre och bakre vaginalväggen, 2cm nedom hyminalringen
+
+
+
+#### Etiologi
 
 
 
 ***Etiologi och patofysiologi***
 
-- Anatomiskt: 
-
-  - bäckenutgång täcks huvudsak av levatormuskel
+- **Anatomiskt**: 
+- bäckenutgång täcks huvudsak av levatormuskel
   - central öppning i muskel levatorslitsen släpper igm uirinrör, vagina och rektum
-
-  - den i ståednde horisontella delen av levatorn (m ileococcygeus utgör en diafragmaliknande platta som understödjer bäckenorganen. 
-
-  - levatorns mediala del utgörs av m puborectalis. löper slyngformat fr symfysen bakåt runt rektum. 
-
-  - tryckökning i bukhåla e.g. hosta el tunga luft, kontraherar levatorn reflektoriskt, komprimerar lrektum, vagina o urinrör mot symfysen. 
-
-  - ileococcygeus kontraherar därtill upplyftniing bäckenbotten. 
-
-  - Gradienten (lutningen) levatorslitsen upprätthåller kontinens i anus o urinvägar; motverakr tillsammans med upplyfnitntg av bäckenbotten att organen i lilla bäckenete pressas ut gm levatorslitsen. 
-
-  - extraperitoneala rummet utfylls utöver muskler o organ med endopelvina fascian: kollagen, elastin, glatt muskualtur, nerver, klärl. 
-
-  - - varierande funk
+  
+- den i ståednde horisontella delen av levatorn (m ileococcygeus utgör en diafragmaliknande platta som understödjer bäckenorganen. 
+  
+- levatorns mediala del utgörs av m puborectalis. löper slyngformat fr symfysen bakåt runt rektum. 
+  
+- tryckökning i bukhåla e.g. hosta el tunga luft, kontraherar levatorn reflektoriskt, komprimerar lrektum, vagina o urinrör mot symfysen. 
+  
+- ileococcygeus kontraherar därtill upplyftniing bäckenbotten. 
+  
+- Gradienten (lutningen) levatorslitsen upprätthåller kontinens i anus o urinvägar; motverakr tillsammans med upplyfnitntg av bäckenbotten att organen i lilla bäckenete pressas ut gm levatorslitsen. 
+  
+- extraperitoneala rummet utfylls utöver muskler o organ med endopelvina fascian: kollagen, elastin, glatt muskualtur, nerver, klärl. 
+  
+  - varierande funk
     - vissadelar mesenterielikannde stöd för nervfer o kärl
     - andra partier förtätas den t ligamentliknande strukturer som stabiliserar organen centralt i lilla bäckenet. 
+- **Bindväv, fascia**
+  - Det är fascian som håller IHOP bäckenbottenmusklerna,
+  - Kan ta skada ffa
+  - **Inkluderar**
+    - **Endopelvina fascian**
+
+
+
+***Anatomi***
+
+- **Viktiga muskler**
+  - **Förstärkande muskler**
+    - **Levator ani**
+    - **Diafragma urogenitale**: viktig också för styrka
+- **Perinealkroppen**: är ett nav som håller ihop bäckenbottenmusklerna
+- **Analkanalen, Lägsta punkten i bäckenbotten**
+- **Bäckenbottenmusklerna, som en tratt**: stöttar bäckenbottenorganen
+- **Hiatus genitalis**: bäckenbottenkanalen. 
+  - **levatorslitsen**: analkanalen, vagina, uretra
+  - **Viktigaste musklerna**: 
+    - (av levatormuskulaturen), 
+    - Puborectalis: närmast vagina
+    - pubococcygeus: visceral del
+    - ileococcygeus (också en del av levatorgruppen)
+- **Arcus tendineus**: begränsas ventralt av symfyusen och dorsalt pspina..
+- **Mest ytligt bäckenbotten**
+  - Perinealkroppen
+  - Bulbocavernosus
+  - Transversus perineii, den superificiella delen
+  - Sfinkter ani externa
+- **Nerv och kärl**
+  - Pudendus nerv o kärl (a/v pudendi?)
+  - Adducts kanal
+  - Klitoris, 
+  - bulbocavernosus
+- **Lateralt stöd**
+  - **Arcus tendineus levator ani, ATMLA**: levator ani fäster lateralt
+  - **Arcus tendineus fasvia pelvis, ATFA**: där fascian fäster lateralt i benet, pubis benet till spina
+    - stöd för pubocervikala fascian
+- **Lancey's levels of support**: level 1-3
+- **LIgament, kardinalligamentet**: Stödjer ligament uterus
+
+
+
+***Etiologi: anatomiskt, enl FL***
+
+* **Lanceys Support 1**: suspension involverat
+  * övre vagina, apex, stöds fr bäckenvägarna av 
+    * !! **lig cardinale** och 
+    * lig sacrouterina
+  * **Defekt här**: 
+    * prolaps av uterus, framfall av livmodern, att portio sticker ut. 
+    * tagit bort hymen, kan få vaginaltoppsprolaps
+    * vaginalcuff
+* **Lanceys Support 2**: Attachment
+  * Mellersta delen vagina; får stöd av vesicocerikala fascia + rectovaginala fascia
+  * Defekt här
+    * prolaps främre vaginalväggen (taket vaginalväggen fr gyn pos) + 
+    * prolaps bakre vaginalväggen (golvet vaginalväggen fr gyn pos)
+* **Lanceys Support 3**: Fusion
+  * Perinealkroppen. 
+  * !! **Nedre delen vaginas stöd består av** 
+    * **perinealkroppen + levator ani**
+    * rektovaginal fascian åks upp
+  * **Defekter**
+    * !!! Övermobilitet uretras stöd GSI
+    * !!! **Bakväggsprolaps**: förutsatt att perinealkroppen slits av (som den gör vid perinealrupturer), så kan man få bakväggsprolaps
+      * !! Proktocele, lågt
+      * !! Rektocele, lågt
+    * **Sämre stöd sfinkter ani externa**
+    * // på FL säger hon framväggen..
+
+
+
+***Etiologi: enl FL***
+
+* **Förlust bäckebottens stödfunktioner**
+  * **vaginal förlossning**: 
+    * direkt skada endopelvin fascia
+    * eller indirekt skada muskler och nerver
+* **Ökat tryck**: samband graviditet
+  * **påvrekar bäckenbotten**: TRycket gravida livmoder + moderns ökade kroppsvikt (ffa början grav)
+  * **prolaps, urinläckage, förvärras**: ökat intraabdominellt tryck, e.g. övervikt
+  * **bakväggsdefekt, förstoppning**: obstipation är viktig faktor för bakväggsdefekt
+    * kvinnor med förstoppning innan gravida, kan få problem osså efter förlossning
+* **Kollagen, hormoner**
+  * **Minskning kollagen hos**: prolaps, urininkontinens
+  * **Bäckenbottenmuskulatur, östrogenreceptorer, förvärras efter menopaus**: minskat östrogen postmenopaus, att man får förvärrade symptom fr bäckenbottenmuskultur, varpå prolapssymptom
+    * **vet innan mens mer besvär urininkontinens + prolaps, framfall**: att man har östrogen + progesteronkrasch innan mens
+* **Avulsionsskada**: hela levatorn har slitits.
+
+
+
+**Etiologi: förlossning, enl FL**
+
+* **Kompression**: fosterhuve passerar bäckenbotten
+* **Stretchning**: uttänjning av perineala strukturer i samband med krystning
+* **BIndvävsskador**: endopelvina fascian, +- muskelskador +- nervskador
+  * Urininkontinens (ansträngningsinkontinens och överaktiv blåsa enl FL)
+  * analinkontinens
+  * prolaps
+  * sexuell dysfunktion men även andra
+  * tidigare mindre beskvrina symptom
+  * muspruttar
+  * vidhetskänsla
+  * mindre känsel vid penetrerande samlag
+
+
+
+**Etiologi: Levatorskada, enl FL**
+
+* Större hiatus, öppning
+* Minskad muskelstyrka, vid kontraktion
+* Tidig utveckling av framfall
+* Ökad risk för recidiv av framfall efter operation
+* **Kvinnor, beskvirver**: att de inte kan knipa
+  * att de kniper för mkt och orsakar mer sakad och smärta
+
+
+
+**Etiologi: bristningar, FL**
+
+* Ofta att man får grad2 bristningar, i.e. att det är perinealkroppen enbart som tar skada, men att sfinkter ani externa är hel
+* **rektovaginala fascian kan också ta skada, samband grad2 bristning**
+
+
+
+***Etiologi: bäckenbottensvaghet, FL***
+
+* Bäckenbottensvaghet: vanligt problem,  fölkhälsoproblem
+
+
+
+#### Kännetecken
+
+***Kliniska kännetecken***
+
+* **Lokala symptom**
+  * observation, palpation "knöl"
+  * Globuskänsla, budging: känsla ngt faller ut
+  * Smärta 
+    * vaginalt
+    * perineum
+    * skavningsbesvär
+  * Vidhetskänsla
+  * Luft i vagina
+* **Tarmsymptom**
+  * **Tarmtömningssvårigheter**
+  * **Gasinkontinens, flatulensinkontinens**
+  * **Avföringsinkontinens, för fast avföring**
+  * **Avslutar avföring med finger**: Digital manipulation av vagina, perineum, anus för 
 
 
 
 ***Indelning och klassifikationer***
 
-* Rectocele: enl abe är detta en prolaps
-* Cystocele
-* uterocele: vet ej om detta är den rätta definitionen. 
+* **Rectocele**: enl abe är detta en prolaps
+* **Cystocele**
+* **uterocele**: vet ej om detta är den rätta definitionen. 
 
 
 
 ***Behandling***
 
-- Kolporafi: vaginal wall repair, intended för cystocele och rektocele
-- P-ring
-- Plastik
+- **Kolporafi**: vaginal wall repair, intended för cystocele och rektocele
+- **P-ring**
+- **Plastik**
+
+
+
+#### Anatomi
+
+| <img src="./imgs/sam_240421_yDm42R6hlQ.png" alt="yDm42R6hlQ" style="zoom:50%;" /> | <img src="./imgs/sam_220421_DD1YCc9UhI.png" alt="DD1YCc9UhI" style="zoom: 67%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/sam_240421_0NsLUQUWz5.png" alt="0NsLUQUWz5" style="zoom:50%;" /> | <img src="./imgs/sam_220421_45r7dUfa7i.png" alt="45r7dUfa7i" style="zoom:70%;" /> |
+| <img src="./imgs/sam_240421_s9JXieaNNR.png" alt="s9JXieaNNR" style="zoom:50%;" /> | <img src="./imgs/sam_240421_UnSRCL6FSb.png" alt="UnSRCL6FSb" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_e7qFCW6f9s.png" alt="e7qFCW6f9s" style="zoom:50%;" /> | <img src="./imgs/sam_240421_aZxAvLnJuc.png" alt="aZxAvLnJuc" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_i2jvYEoRYV.png" alt="i2jvYEoRYV" style="zoom:50%;" /> | <img src="./imgs/sam_240421_OeW2SrvFsD.png" alt="OeW2SrvFsD" style="zoom:60%;" /> |
+| <img src="./imgs/sam_240421_sqdOh4fJlb.png" alt="sqdOh4fJlb" style="zoom:50%;" /> | <img src="./imgs/sam_240421_ZzbeDYo5uF.png" alt="ZzbeDYo5uF" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_wCV4c3xVjL.png" alt="wCV4c3xVjL" style="zoom:50%;" /> | <img src="./imgs/sam_240421_bzSznqjZZ7.png" alt="bzSznqjZZ7" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_khZNw6buNT.png" alt="khZNw6buNT" style="zoom:50%;" /> |                                                              |
+| <img src="./imgs/sam_240421_nvRXQUvy7A.png" alt="nvRXQUvy7A" style="zoom:50%;" /> | <img src="./imgs/sam_240421_6cMkc0tGJu.png" alt="6cMkc0tGJu" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_g9Mq2PTZDp.png" alt="g9Mq2PTZDp" style="zoom:50%;" /> | <img src="./imgs/sam_240421_uv2JUaoZfb.png" alt="uv2JUaoZfb" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_c7MwsdLWgR.png" alt="c7MwsdLWgR" style="zoom:50%;" /> | <img src="./imgs/sam_240421_6CFlhY2Bf0.png" alt="6CFlhY2Bf0" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_woYhj9fb3e.png" alt="woYhj9fb3e" style="zoom:50%;" /> | <img src="./imgs/sam_240421_gqclnkRQj3.png" alt="gqclnkRQj3" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_Or5FCp796I.png" alt="Or5FCp796I" style="zoom:50%;" /> | <img src="./imgs/sam_240421_BdLIUWUFw1.png" alt="BdLIUWUFw1" style="zoom:50%;" /> |
+| <img src="./imgs/sam_240421_n3vTtEkOGi.png" alt="n3vTtEkOGi" style="zoom:50%;" /> |                                                              |
 
 
 
@@ -8775,14 +9056,22 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Utredning och handläggning***
 
-* Hydrosonografi
-* 3D ultraljud: att man mycket bättre visualiserar uterus. 
+* **Hydrosonografi**
+* **3D ultraljud**: att man mycket bättre visualiserar uterus. 
 
 
 
 | <img src="./imgs/sam_130421_cAE44U8nOv.png" alt="cAE44U8nOv" style="zoom:50%;" /> | <img src="./imgs/sam_130421_prN2TGXe63.png" alt="prN2TGXe63" style="zoom:50%;" /> | <img src="./imgs/sam_130421_7bpp3LSwOx.png" alt="7bpp3LSwOx" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |
+
+
+
+### Vid i vagina
+
+***Beskrivning***
+
+* Att vagina står öppen habituellt
 
 
 

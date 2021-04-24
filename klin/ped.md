@@ -203,6 +203,13 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+#### Temperatur
+
+* Örat: 38 >= feber
+* Rektalt: 38.5 >= feber
+
+
+
 ## Allergi
 
 
@@ -14282,6 +14289,25 @@ Elsa 13 månader inkommer till barnakuten pga kräkningar och diarré. Ärftligh
 
 
 <img src="./imgs/ped_sam_110421_eIDbVPeaFz.png" alt="eIDbVPeaFz" style="zoom:50%;" />
+
+
+
+
+
+***Handläggning***
+
+* Fotodokumentation
+* Kontakt internjour
+* skriva misstänkt misshandel på ALLA REMISSER
+* !! Helkroppsrtg (ffa rörbensskador) + DT-SKALLE (hjärnblödning)
+* Koagprover
+* ?? blodprover: .. Hb.. TPK..
+* Utförlig dokumentation om skador
+* blockera i TC så att förövare inte kan läsa
+* Ögonbottenspegling
+* kontakt socialtjänst (orosanmälan) + polis (kontakt med polis ang skydd av syskon eller andra som kan far illa)
+
+
 
 
 

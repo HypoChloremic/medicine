@@ -169,9 +169,37 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+
+
+
+
 ### Parametrar
 
 <img src="./imgs/210421_sam_BR2vOY2iLk.png" alt="BR2vOY2iLk" style="zoom:50%;" />
+
+
+
+### Provtagning
+
+#### Blodgas
+
+***Hur den tas***
+
+* Umbilikal blodgas
+* Kapillärt blodgas
+* Venöst blodgas
+* Artieriell blodgas
+
+
+
+***Umbilikal blodgas***
+
+
+
+***Kapillär blodgas***
+
+* Kärlbädden tätare på barn, kapillärt, därför kan man ta detta på barn
+* vuxna har en längre mellan kärlen i kapillärbädden, enl PM gävleborg
 
 
 
@@ -466,6 +494,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * Upprepade kräkningar, heshet och klåda i halsen 
   * Rätt: Svullen tunga, en kräkning och klåda i munnen 
   * Hjärtklappning, diarré och sväljningsbesvär 
+* Wille 2 år inkommer på larm till barnakuten p g a en allergisk reaktion efter intag av en chokladkaka toppad med hasselnötter 30 min tidigare. Han har svårt att andas, han är blek och kallsvettig. Kapillär återfyllnad 2 sekunder. Vid auskultation hör du tydliga ronki. Pulsen är hög. Vilka åtgärder vidtar du första hand iunder den första minuten? (1p)a
+  * Ge adrenalin im. Koppla syrgas. Planera i samråd med narkosjour för inläggning på BIVA/IVAb
+  * rätt: Ge adrenalin im. Koppla syrgas. Förbered inhalation salbutamol. c
+  * Ge adrenalin im. Koppla syrgas. Ge Betapred och antihistamin pod
+  * Ge Betapred och antihistamin po. Dra upp adrenalin, men avvakta att ge detta i väntan på effekt av övrig behandlinge
+  * Koppla syrgas. Ge antihistamin po. Dra upp adrenalin, men avvakta att ge detta i väntan på effekt av övrig behandling
 
 
 
@@ -500,7 +534,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-#### Allmänt
+#### Presentation
 
 ***Presentation***
 
@@ -568,6 +602,8 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     
 
 
+
+#### Allmänt
 
 ***Diagnos***
 
@@ -1596,6 +1632,20 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Luftvägsstopp
+
+***Presentation***
+
+* Casper 8 månader sitter hemma och äter lunch. Helt plötsligt blir han tyst, röd i ansiktetoch ser panikslagen ut. Mamman misstänker att maten fastnat i luftstrupen. Hur bör hon initialt agera i detta läge med den misstanken?De är ensamma hemma.Ringa in det mestkorrekta svaret.(1p)
+  * Dunka 5 gånger mellan barnets skulderblad, knyt ena handen och placera ovan naveln, ta tag i den knutna handen med andra handen och tryck inåt och uppåt 5 ggr, upprepa vid behov
+  * Ring 112, Lägg barnet på mage längs armen med huvudet ner, Slå 5 ggr mellan skulderbladen, vänd barnet och tryck 5 ggr på bröstbenets nedre del, titta i mun
+  * Lägg barnet på mage längs armen med huvudet ner, Slå 5 ggr mellan skulderbladen, vänd barnet och tryck 5 ggr på bröstbenets nedre del, titta i mun, upprepa om ej hjälpt 
+  * 5 inblåsningar, tryck 5 ggr på bröstbenets nedre del,titta i mun, upprepa om ej hjälpt
+  * Rätt: Lägg barnet på mage längs armen med huvudet ner, Slå 5 ggr mellan skulderbladen, vänd barnet och tryck 5 ggr på bröstbenets nedre del, titta i mun. Upprepa om luftvägshindret kvarstår
+  * Notera: "om luftvägshindret kvarstår", om problemet kvarstår ska man göra inblåsningar...
+
+
+
 ### Presentation och orsaker till svår sjd hos barn
 
 * **Chocktillstånd, shock**
@@ -1621,9 +1671,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-***Presentation***
+#### Presentation
 
-* Hjärtstopp hos barn väl förberedda och ovanliga, 
+* **Hjärtstopp hos barn väl förberedda och ovanliga,**
   * förhållandet hjärtkompressioner o inblåsningar
     * Initierar med 5 inblåsningar, 
     * sen 15:2
@@ -1692,6 +1742,14 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Hypoxi
     * Hypovolemi
     * Hypokalemi (/hyperkalemi?)
+* Vid HLR på spädbarn över 4 veckors ålder bör bl a följande eftersträvas för att optimera förutsättningarna för en lyckad utgång. (1)
+  * Huvudet i sniffingposition. 2 inblåsningar följs av 15 kompressioner. Iv adrenalin ges efter 2 minuters HLR. 
+  * Huvudet i sniffing position. 2 inblåsningar följt av 15 kompressioner. Iv adrenalin ges så snart iv.infart finns. 
+  * Rätt...: Huvudet i neutral position. 2 inblåsning följt av 15 kompressioner. Iv adrenalin ges så snart iv.infart finns. 
+  * Huvudet i neutral position. 1 inblåsning följt av 3 kompressioner. Iv adrenalin ges efter två minuters HLR.
+  * Huvudet i neutral position. 1 inblåsning följt av 15 kompressioner. Iv adrenalin ges så snart iv.infart finns. 
+  * Notera, enl Adam
+    * Sniffing efter 1åå, huvud för stort innan dess, så neutral position
 
 
 
@@ -2296,7 +2354,7 @@ Enligt ABCDE
 
 ### Diabetes
 
-
+#### Presentation
 
 ***Presentation***
 
@@ -2331,8 +2389,18 @@ Enligt ABCDE
     * Neuroundersökning GCS
     * Blodgas 
     * P-glukos: följa hur snabbt denna sjunker
+* !!! En 14år gammal pojke med diabetes mellitustyp I sedan ½ år tillbaka söker akut pga kräkningar sedan 8timmar. Han har insulinpump. Han har svårt att behålla mat och dryck och han är väldigt trött.Han har 38,8 Cfeber men ingaandra tecken till infektion. Han har en andningsfrekvens 40.
+  * Med bakgrund av det du vet vad misstänker du för tillstånd?(1p): 
+    * metabol acidos
+  * Vad förväntar du dig för laboratorievärden vid det tillståndet? (2p): 
+    * BE under 4, pH sänkt, pco2 sänkt pga resp komp, hypokloremi, hyperkalemisk (abe vill inte skriva kaliu0)
+  * Vad är den mest sannolika orsaken till hans tillstånd? (1p)
+    * Insulinpump haveri, får inget insulin, hyperglykemi och DKA.
+  * Notera: varför får man kräknignar av DKA
 
 
+
+#### Allmänt
 
 ***Etiologi och patofysiologi***
 
@@ -2441,24 +2509,120 @@ Enligt ABCDE
 
 
 
-### Pubertas tarda
+### Pubertet
+
+#### Pubertas praecox - För tidig pubertet
+
+* Man gillar det inte
+* man ska utreda detta, att man tar hormonprover för att se. 
+
+
+
+***Presentation***
+
+* isolerad svettlukt eller behåring... klan vara binjurebarkstumör
+  * MEN då ska man inte ha tillväxt eller könskognad, detta sker ej med binjurebarksmognad. 
+
+
+
+***Allmänt***
+
+* Notera att adenarche att binjurebarkspubertet kan ske tidigt, och det kan vara okej
+  * man gör ej MR hjärna för att man luktar svett
+  * utan man ska titta på de andra tecken på pubertet som man ska vara varsam för och uppmärksam. 
+
+
+
+***Definition:***
+
+* **Flickor**: Brösttillväxt < 8 åå
+* **Pojkar**: Testikelvolym > 4 ml < 9 åå
+
+
+
+***Orsak:***
+
+* Hos pojkar ofta patologisk orsak -> utredning obligat
+* Hos flickor oftast idiopatiskt
+* **Centralt utlöst**: CNS-tumör, idiopatisk
+* **Perifert utlöst**: Binjurebarkstumör
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Handläggning och Utredning***
+
+* Gonadotroppiner, bla LH, FSH, CENTRAL
+* könshormoner: östrogen, testosteron, PERIFER
+* skelettålder
+* MR hjärna
+* Gällande om man luktar svett
+  * att isolerat lukta svett, sen att det går bort etc, detta är okej
+  * notera 
+
+
+
+***Behandling***
+
+* GnRH-analoger (block av gonadotropin-utsöndring)
+
+
+
+#### Pubertas tarda
 
 ***Presentation***
 
 * Sen pubertet är en vanlig orsak till att barn remitteras från skolhälsovården till BUMM för utredning. Vilket av följande alternativ är korrekt?(1p)
-    * rätt: Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 14 års ålder. Menarche brukar ske ca 2 år efter pubertetsstart. 
-    * Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 13 års ålder. Menarche brukar ske ca 1 år efter pubertetsstart. 
-    * Pubertas tarda hos pojkar konstateras då testikelvolymen är <3 mlvid 14 års ålder. Brösttillväxt enligtTanner defineras som >B1d
-    * Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 15 års ålder och hos flickor vid avsaknad av brösttillväxt>13 års ålder. 
-    * Pubertas tardahos pojkar konstateras då testikelvolymen är <3 ml vid 14 års ålder och hos flickor vid avsaknad av brösttillväxt>13 års ålder. 
-    * Resonering
-      * Pojkar pubertas tarda efter 14åå
-      * flickor pubertas tarda efter 13åå
-      * 4mL testikelvolym vid 14åå = tarda
-      * Brösttillväxt =B1 Tanner, eller icke-begynnande tillväxt över 13åå = tarda
-        * ya3ni man ska ha >B1 för att ha kommit in i puberteten
+  * rätt: Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 14 års ålder. Menarche brukar ske ca 2 år efter pubertetsstart. 
+  * Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 13 års ålder. Menarche brukar ske ca 1 år efter pubertetsstart. 
+  * Pubertas tarda hos pojkar konstateras då testikelvolymen är <3 mlvid 14 års ålder. Brösttillväxt enligtTanner defineras som >B1d
+  * Pubertas tarda hos pojkar konstateras då testikelvolymen är <4 ml vid 15 års ålder och hos flickor vid avsaknad av brösttillväxt>13 års ålder. 
+  * Pubertas tardahos pojkar konstateras då testikelvolymen är <3 ml vid 14 års ålder och hos flickor vid avsaknad av brösttillväxt>13 års ålder. 
+  * Resonering
+    * Pojkar pubertas tarda efter 14åå
+    * flickor pubertas tarda efter 13åå
+    * 4mL testikelvolym vid 14åå = tarda
+    * Brösttillväxt =B1 Tanner, eller icke-begynnande tillväxt över 13åå = tarda
+      * ya3ni man ska ha >B1 för att ha kommit in i puberteten
+* Pojke 14år gammal som remitteras från VC till BUMMKontaktorsakSöker pga avvikande tillväxt. Socialt, 9-årig lillebror. Sammanboende föräldrar.Kommermed mor och far. Tid /nuv sjdFrisk Allergi/överkänslighetIngen känd.HereditetFöräldrarna är från Turkiet, ej besläktade. Föräldrarna är normallånga. Fadern hade sen pubertet.AktuelltPojkesom har börjat sjätte klass och som tycker att det är jobbigt att varabland dekortastei klassen. Inga teckentill gastrointestinala symptom, inga infektionstecken.Han ligger på -0,5SD på längdkurvan sedan födseln och nu har hanlångsamt avplanande längd och viktkurvaochutebliven pubertetspurt.StatusAT: Lätt dämpad i övrigt uaMoS: Retningsfritt.Öron: Bilat u a.Hjärta: RR, inga biljud eller blåsljud. Lungor: Auskulteras u a. Buk: Mjuk och oöm.Inga palpabla patologiska resistenser.Pubertet: Utebliven könsbehåring och testikelvolym på strax under 4ml.Preliminär bedömning och åtgärdVar god skriv på nästa sida
 
 
+
+***Etiologi och patofysiologi***
+
+* Multifaktoriellt, samt många olika orsaker
+* Heriditet för sen pubertet: dominerar störst, se till att fråga föräldrarna om de hade för sen pubertet
+* ***Anorexia***
+* ***Kronisk sjukdom***
+* ***Hård träning***: både män och kvinnor. 
+* allvarligare diagnoser som ska beaktas
+  * ***CNS-tumör*** (ex kraniofaryngiom): detta att man får utreda.
+    * hypofystumör
+  * ***Turners syndrom***
+
+
+
+***Utrednin***
+
+* Gonadotropiner: bla FSH, LH;
+  * dessa bör dra iväg först. 
+* Könshormoner: östrogen och testosteron
+  * har man ett testo som börjar dra iväg ibland, då vet man att pubertet är snart igång
+
+
+
+***Handläggning och utredning***
+
+
+
+***Behandling***
+
+* testostoron im inj
+* östrogen plåster
+  * många tjejer som avstår. 
 
 ***Etiologi***
 
@@ -4184,7 +4348,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
     * Cefotaxim
     * Ampicillin
     * Aciklovir
-* Kontraindikationer för lumbalpunktion hos barn
+* **Kontraindikationer för lumbalpunktion hos barn**
   * Cardiorespiratory instability
   * Focal neurological signs
   * Signs of raised intracranial pressure, e.g. coma, high BP, low heart rate or papilloedema
@@ -4192,14 +4356,24 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Thrombocytopenia
   * Local infection at the site of LP
   * If it causes undue delay in starting antibiotics
-* Ida 3v 
+* **Ida 3v** 
   * Fullgången (v 39+2) tidigare frisk flicka som inkommer till barnakuten tidigt på morgonen p g a trötthet och ovilja att amma sedan gårdagskvällen. Ingen feber. Inga luftvägsymptom. Vid statusundersökningen noterar du att flickan är trött och slö. AF 25-30/min. Kap refill 3 sek. Temp 36,2. Saturation 90%. 
   * enl seminarium: handlägga som en sepsis eller meningit
-* William 2år 
+* **William 2år** 
   * 2-årige William kommer med ambulans till akuten med sin mamma. Han har haft hög feber, kring 40 grader sedan gårdagen. Verkar ha ont i huvudet, har kräkts vid några tillfällen. Är trött och slö, vill inte äta och dricka. Haft enstaka kräkning, kanske lite lätt hosta och snuva. Tidigare frisk. Påtagligt försämrad sedan morgonen. I status noteras en högfebril, trött och blek pojke, lite marmorerad hud, kap refill 4 sek, HF 180, AF 70, Saturation 91%, inga indragningar. Vissnackstelhet, neurologstatus i övrigt väs ua, men besvärad vid us av pupillreaktion. Inga petekier.
   * 2 mest sannolika agens
     * pneumokocker
     * meningokocker
+* Pelle 2 månader kommer in till akuten då föräldrarna hade svårt att väcka honom för att amma. Han är fullgången och tidigare frisk. Föräldrarna mäter en temperatur på 39,5C. Ambulans tillkallas. När ambulanspersonalen är på plats noteras en gråblek pojkesom andas snabbt.Saturationen är 83%. Nustårdu som jourpå akutrummet med teamet på barnakuten för att ta emot Pelle. Han är gråblek, slapp, takypnoisk, takykardi. Du får ingen kontakt med honom men han reagerar på smärtstimuli. Kapilläråterfyllnad är 4s. Fontanellenpalperas lätt buktande. Ange kronologiskt i punktform dina åtgärderinklusive behandlingde närmaste timmarna. 
+  * LARMA NARK
+  * ABCDE!!!!
+  * Syrgas på mask (10L)
+  * Ceftoaxim + ampicillin + aciklovir [INGA STEROIDER till ungar under 3 månader steroider iv]
+  * Vätskebolus
+  * Iv infarter
+  * blododling, elstatus, krea, blodgas, 
+  * planera för LP, ska inte fördröja antibiotikabehandlingen
+  * läggas in, rehydreras, vitalparameter följa, vitalstatus, antibiotikabehandling fortgår, fortsatt utredning
 
 
 
@@ -4758,6 +4932,14 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
     * LP
   * **Hur vill du behandla Erik om din misstanke bekräftas med provtagning**
     * Doxycyklin
+* Elin 3år gammal söker tillsammans med sin pappa då man på morgonen upptäckte att hennes högra mungipa hängde. Hon har varit lite tröttare senaste veckanoch även klagat på huvudvärk till och från. Du misstänker neuroborrelios. Vilketav nedanstående alternativ stämmerbästgällande val av fortsatt utredning?(1p)a
+  * CRP, Borreliaserologib
+  * Celler och Borrelia ak i likvor, Borreliaserologic
+  * Celler och Borrelia ak i likvor, Blodstatusd
+  * Celler och Borrelia ak i likvor,CRPe
+  * Celler och Borrelia ak i likvor, TBE-serologi
+
+
 
 
 
@@ -5001,6 +5183,16 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * c. Proverna bekräftar din primära diagnos misstanke och Oskar gick hem med planerad uppföljning på BUMM. Han söker nu igen 2 dagar senare på barnakuten pga att han har fått tilltagande buksmärtor. Nämn en bilddiagnostisk undersökning – inklusive frågeställning - du beställer och en farmakologisk behandling som bör övervägas. 1,5p 
       * UL - buk   
       * Steroider 
+* En 5-årig flicka som heter Sara söker barnakuten för andra gången denna vecka pga hudutslag lokaliserade till benen. Vid föregående besök misstänktes viros. Nu har honsvullnad nedanför malleolerna bilateralt och på fotryggarna. Utslagen på benen har ökat i utbredning och är 1-4 mm stora. De är röda och kan inte tryckas bort. För ca 10 dagar sedanhade hon ont I halsen. 
+  * Sannolik diagnos: IgA-vaskulkit HSP
+  * HUr handlägger du Sara akut: 
+      * bedömning enl ABCDE, genomgående status, akuta prover: 
+      * CRP, Krea, u-sticka. 
+      * venösa prover: blodtatus + diff, elstatus. Evaluera huruvida inläggningsfall föreligger. 
+      * Sedan ska man även ta kreatinin för att se om de förligger njurpåverkan samt u-sticka. U-alb/krea kvot. Diagnosen kan även stärkas med hudbiopsi där man ser IgA komplex, bör göras vid osäkerhet för diagnos.. Tar även ett BT. Svalgodling tas , om positivt ska behandlas
+  * Sara får betydande buksmärtor, inga kräkningar,du hittar inget fokus vid bukpalpation utan en diffus ömhet. Vad blir din nästa åtgärd?: 
+      * UL-buk invagination frågeställning, 
+      * Steroider enl abe
 
 
 
@@ -5672,6 +5864,14 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Presentation***
 
+* Emma 2 år, tidigare frisk förutom lätt snuva, vaknarhelt plötsligtpå natten med andningssvårigheter. Det låter väsande när hon andas in. Hon har ingen feber och har varit som vanligt under dagen.Hon ser panikslagen ut.Föräldrarnablir rädda och ringer ambulans. De åker in till barnakuten och träffar dig som går jour. Hon andas lugnare, är pratbar och rätt pigg. Du hör lite väsande andningsljudpå inspiriet men inga rhonki eller rassel över lungfälten. Hon hostar av och till på akutrummet. Temp 38,2 C. O2 sat 98%. CRP < 5 mg/l.
+  * a) Diagnosmisstanke? Ange så specifikt du kan sjukdomensgenes.(2p)
+    * Krupp pseudokrupp
+    * Parainfluensavirus
+  * !! Nämn två läkemedel som sjukdomen kan behandlas med: 
+    * adrenalininhalation, 
+    * betapred per os
+
 
 
 ***Etiologi***
@@ -5794,6 +5994,14 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
     * Adenovirus PCR, CRP 
     * rätt: Pertussis PCR, vita blodkroppar inklusive diff 
     * RS-virus ELISA, blodstatus 
+* Emma,  **2  månader**,  kommer  till  akutmottagningen  med  sina  föräldrar.  Hon  har  varit förkyld och subfebril i **3 dagar**. Det senaste dygnet har hon ätit sämre och börjat hosta alltmer. Föräldrarna beskriver att hon inte riktigt får luft vid hostattackerna och att hon blir blå-röd i ansiktet. Hon kippar även efter andan. Status: Temp 37,7. Saturation 98%. Du noterar en blek och trött flicka. Kapillär återfyllnad < 2 sekunder. Hjärta: RR, inga hörbara blåsljud. Lungor: bronkiella andningsljud. Buk: mjuk och oöm. Lab:CRP <5, Vita 118 med övervikt av lymfocyter.Vad är nästa steg? Ringa in den mest rekommenderade handläggningen.(1p
+    * Ta odlingar från blod och urin. Ordinera bensyl-pc. Lägg in flickan för observation. 
+    * Ta odlingar från övre luftvägarna och sätt in Kåvepenin. Lägg in flickan för observation.
+    * rätt: Ta PCR för pertussis från svalg och ordinera Ery-max (erytromycin) . Lägg in flickan för observation.
+    * Ta  viruspanel  från  nasopharynxaspirat.  Familjen  rekommenderas  att  återkomma  vid försämring.e
+    * Ta viruspanel från nasopharynxaspirat. Lägg in flickan för observation.7
+    * tillägg
+        * Provtagning svalg för pertussis finns inte bara NPH...
 
 
 
@@ -8383,7 +8591,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
-### Allmänt
+### Presentation
 
 ***Presentation***
 
@@ -8401,6 +8609,22 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * Undersökningen bekräftar din misstanke om ileus. Ange 2 fnyd som undersöknigen kan visa
     * Vidgade tarmslyngor
     * Gasvätskenivåer?... Detta kanske bara på DT.
+* !! **Kräkningar är ett vanligt tillstånd hos spädbarn. Para ihop tillstånden/sjukdomen med relevant symptom. Flera kan stämma. (5p)** 
+  * **Pylorusstenos**: kaskad, metabol alkalos, viktnedgång
+  * **Gastroesofagal** reflux sjukdom (GERD): kräkningar (ej kaskad), 
+  * **Överskottskräkningar**: Kräkningar, viktuppgång
+  * **Gastroenterit**: diarrer, viktnedgång, !!! letargi, kräkningar
+  * **Invagination**: skrikighet, blod o slem i avföring, (enl abe inte kräkningar; abe menar viktuppgång)
+  * **Para** ihop med:
+      * Viktnedgång
+      * Viktuppgång
+      * Kaskadkräkningar
+      * Kräkningar (ej kaskad)
+      * Metabol alkalos
+      * Diarréer
+      * Blod och slem i avföringen
+      * Skrikighet
+      * Letargi  
 
 ### Invagination
 
@@ -8894,7 +9118,7 @@ En kort lista över kliniska manifestationer av CF:
 
 ### Hjärtfel
 
-#### Allmänt
+#### Presentation
 
 ***Presentation***
 
@@ -9023,11 +9247,36 @@ En kort lista över kliniska manifestationer av CF:
   * Blodgas: pH 7,32, pCO2 6,7, BE -4, bikarbonat 21, laktat 2 ❑Hb 105, LPK 7, CRP 35 ❑RS snabbtest neg
     * <img src="./imgs/sam_180421_J6TM1iAKtH.png" alt="J6TM1iAKtH" style="zoom: 25%;" />
 
+* Några frågor avseende neonatologi
+
+  * Definitionen för ett normalt, ett prematurt och ett extrem prematurt, överburet barn. (2p)
+  * Vad ingår när man ger Apgar poäng? Vilka tider görs bedömningarna? (3p)
+  * Nämn 4 exempel på statusundersökningar du gör för att finna eventuella kardiella avvikelser hos ett nyfött barn på BB. (2p)
+      * Pox-prov
+      * Femoralispulsar
+      * Auskultation
+      * hudkostym, cyanos ya3ni
+      * CRT
+      * andningsfrekvens (takypnoisk)
+      * Puls
+
+* !! En två månader gammal pojke med trisomi 21 är på BVC kontroll där man noterar ett blåsljud på hjärtat. Vilket av nedanstående tillstånd är troligast? (1p)
+
+  * Rätt: Atrioventrikulär septumdefekt (AVSD)
+  * Coarctatio
+  * Fallots tetrad
+  * Fysiologiskt blåsljud
+  * Transposition (TGA) 
+  * **tillägg**: 43% av alla med AVSD har trisomi 21
+      * Frekvens fysiologiska blåsljud
+
+* 
+
   
 
 
 
-***Allmänt***
+#### Allmänt
 
 <img src="./imgs/ped_sam_090421_bzG283kKZk.png" alt="bzG283kKZk" style="zoom:50%;" />
 
@@ -10711,7 +10960,6 @@ En kort lista över kliniska manifestationer av CF:
   * MR-hjärna vid 2 åå: 
     * Höger sidoventrikel är lätt förstorad 
     * och i anslutning till periventrikulärasubstansen ett litet område avvikande signal tydande på lättare PVL (periventrikulärleukomalaci)
-
 * **Kristina 6 mån** 
 
   * Kommer för uppföljning efter neovård. Kristina är född v34, han hade en lättare asfyxi, hade en misstänkt men aldrig odlingsverifierad sepsis. Du finner en flicka som kan lyfta huvudet kort i bukläge. Hon kan inte vända runt. I axillarhäng spänner benen och korsar nästan.
@@ -10730,6 +10978,12 @@ En kort lista över kliniska manifestationer av CF:
     * pematuritet med ev sepsis; asfyxi; hypoxi; inf; blödning; bilat CP
   * Uppföljning
     * habilitering inkopplas. uppföljning 1gg p år. spasticitetsreducerande medicin.
+* I Sverige får cirka 2 barn per 1000 levande födda diagnosen cerebral pares (CP) Orsakerna till CP är många. Vilken av nedanstående orsaker är fel? (1p)
+  * Asfyxi i samband med förlossning
+  * Cerebral cirkulationsstörning under graviditet 
+  * Rätt: Graviditetsdiabetes
+  * Maternell infektion under graviditet
+  * !! **Missbildningssyndrom**
 
 
 
@@ -10912,6 +11166,290 @@ En kort lista över kliniska manifestationer av CF:
 * socialt stöd, psykologiskt stöd
 
 
+
+
+
+### Hjärntumör
+
+***Presentation***
+
+* ***Sture, 7 år***
+  * har sedan två månader börjat bli gnällig och missnöjd. Vid några tillfällen har han vaknat och klagat över huvudvärk. Vid flera tillfällen de senaste veckorna kräkts på morgonen. Han berättar också att han ser dubbelt, och i status misstänker du abduscenspares. Vilken sjukdom misstänker Du i första hand?
+* **7-årig pojke, Ahmed,**
+  * **som kommer för att han sedan 3 veckor haft huvudvärk, särskilt på morgonen. Modern tycker att det blivit värre och värre. Två gånger senaste veckan har han också kräkts på morgonen. I status noterar du att hö öga inte följer med ut till hö när du kollar hans ögonmotorik. Han har också svårt att utföra finger – näs test.** 
+  * **Vilken förklaring till symtomen bör du i första hand misstänka? (1p)** 
+  * Hjärntumör
+  * vad kallas ögonmuskelparesen pojken har;:
+    * Abducenspares
+  * Vilken åtgärd vidtar du på akuetn
+    * Skicka t akuten omgående,.
+* ange 4 symptom / statusfynd hjärntumör bakre skallgrop
+  * Ögonsumptom
+  * Huvudvärk
+  * kräkkningar
+  * ataxi
+  * (trötthet?)
+* **En pappa söker på akuten med sin 3½ år gamle son Emil på grund av kräkningar. Pappan berättar att Emil sedan några veckor av och till kräkts plötsligt vid morgonmålet men mår bra på dagen. Emil har varit gnälligare och besvärligare än vanligt och att han snubblar mycket. I status finner Du inget anmärkningsvärt, men Emil är svårundersökt eftersom han är rädd. Vad bör uteslutas och hur utreds pojken? 2p** 
+  * Hjärntumlr
+  * kontakt barnneurolog + radiologisk undersökning (MR hjärtna)
+  * fullständigt kliniskt status
+* Gustav 14 år kommer till dig pga huvudvärk som kommer nästan dagligen de senaste 2 månaderna. Du är orolig för att missa hjärntumör. Nämn 2 anamnestiska uppgifter och 2 statusfynd du behöver som stöd för din diagnosmisstanke. 2p 
+  * Morgonhuvudvärk? Kräkningar?
+  * Abducenspares, ataxi
+
+
+
+
+
+### Huvudvärk
+
+#### Migrän
+
+***Presentation***
+
+* **Emma 7 år är remitterad till dig på BUMM pga episoder med huvudvärk. Du har misstanke om att Emma lider av migrän. Barn kan ha migrän både med eller utan aura som dock är ovanligt hos barn. Durationen är oftast kortare hos barn än hos vuxna men ett anfall kan vara mellan 1-72 timmar. Vilket av följande påståenden om migrän hos barn stämmer bäst? Välj ett alternativ:** 
+  * paracetamol + NSAID: förstahands anfallskuperande behandling
+
+
+
+***Epidemiologi***
+
+* Ettårsprevalens: 2-13%
+* barn tonåringar, minst 1gg p vecka 5%
+
+
+
+***Kliniska kännetecken***
+
+* **kan debutera tidigt barnaåren**: 20% före 10åå
+* **första levnadsåren**
+  * **korta anfall**
+    * skrik
+    * blekhet
+    * kräkningar 
+    * (HV framkommer av naturlika skäl INTE anamnestiskt förrän 4åå)
+* **Anfallsduration**
+  * 2-8h: vanligast
+  * 12h: obehandlat, kan uppgå hit
+* **Smärta**: SVÅR, jfr med spänningsHV som är lindrig-måttlig
+* **Locale**: bifrontal, bitemporal
+* **Utöver huvudet**: smärtor mage, buksmärtor, kräkningar
+* **Migrän utan aura**
+  * utlösande faktorer som exponering för TV- eller datormonitorer, sömnbrist, och emotionella reaktioner.
+* **Bukmigrän**: förekommer osså, före vanlig migrän; återkommande buksärtor, önska ligga mörkt tyst nrum, runt navel, diffus, vasomotoriskt symptom ansiktsrodnad följt blekhet, matleda, kräkningar 50%, känslighet ljus ljud, yrsel,
+* **Sammanfattning**
+  * kortare anfallsduration jfr vuxna
+  * yngre rapporterar sällan aura
+  * ofta bilateral HV
+  * svårt beskriva dunkande pulserande smärta
+  * större påverkan magtarmkanalen: buksmärta, kräkningar
+  * ökad känslighet ljus och ljud: information fr föräldrarna
+
+
+
+***Migrän med aura***
+
+* Aura före HV fasen
+* aura 10-30min, sällan 60mmin
+* försvinner ofta innan HV
+* formen aura: 
+  * flimmerksotom, i.e. synpåverkan. 
+    * upplevs båda ögon, samma synfältshalva. 
+    * pat kan ej se normalt
+  * Känselrubbningar
+    * endast ena kroppshalva
+    * känslestörningar som domningar, krypningar, stickningar i ena handen (tumgrepp), mun, tunga samma sida (kiro-orala parestesi)
+    * börjar fingrar, sprider underarm, loppet minuter, därefter ansikte
+  * talrubbningar: mindre vanligt
+  * förvrängd kroppsuppfattning: kroppsform ändras
+
+
+
+***Differentialdiagnoser***
+
+* **Tandställning, bettställning, gnisslar tänder**: smärtor tuggmuskulatur
+* **Utesluta orsaker återkommande HV**: intrakraniell tryckstekgring pga blödning el tumör
+* **Hjärntumör**: HV värre morgonen, förvärras vid hosta, böjer sig, kryster
+* **Spänningshuvudvärk**
+* **Synstörning**: myopi eller striabism
+* **CNS infektion, inflammation**: e.g. neuroborrelios, TBE, meningit
+* **CNS tryck**: stroke (blödning), tumör,
+* **TMD**: temporomandibulär dysfunktion
+
+
+
+***Utredning och handläggning***
+
+* Remiss akutmottagningen
+  * allmänpåverkan
+  * ayrasymptom >1h
+  * migränanfall >72h trots behandling: status migränosus
+  * neuro fokalitet
+* Elektiv handläggning
+  * optiker
+  * tandläkare: bettdysfunktion
+  * fysioterapi: muskelspänningar
+
+
+
+***Behandling***
+
+* **Kontraindikationer**: ALDRIG kombinerade p-piller till dessa patienter
+* **Konservativt:**
+  * god effekt bra sömnvanor
+  * oregelbunden matvanor, sömnvanor?
+  * krav fr skola o föräldrar höga
+  * mobbning, insufficient socialt familjeliv, incest
+  * Kan skicka pp KBT...
+* **Farmakologiskt**: föra dagbok om symptom följa effekt
+  * **anfallskupering / anfallsbehandling**
+    * ASA, paracetamol, eller NSAID.
+    * ASA ej vid samtidig feber och infektion
+    * **triptaner, nästa steg, från 12åå**: sumatriptan
+  * **förebyggande, profylax**
+    * När frekvens påtaglig
+    * **Propranolol po**: kontraindik för låg puls; ej prestationsbarn för konditionsnedsättande: dag eftermiddag för undvika mardrömmar
+    * **kalciumblock, flunarizin**
+    * **amitriptylin**
+    * **antiepileptika**: valproat, topiramat
+  * **tillägg antiemetika**
+    * metoklopramid: utlösa extrapuramidal sidoeffekt som akut dystoni, akatisi. vanligaste biverkan trötthet
+
+
+
+#### Spänningshuvudvärk
+
+
+
+***Allmänt***
+
+* HST: spänningshuvudvärk
+
+
+
+***Epidemiologi***
+
+* Prevalens: mellan 12-72%
+* vanligast förekmmande hvudvärk hos barn + tonåringar + vuxna
+* 1% daglig kronisk spänningshuvudvärk, barn + tonåringar
+
+
+
+***Kliniska kännetecken***
+
+* Börjar tryck ovanpå skallen
+* eller band runt huvud
+* därefter går över i lätt värk
+* senare skede öka intensitet
+* kan störa skolarbete
+
+
+
+***Diagnos***
+
+* För spänningshuvudvärk
+* när uteslutit migrän eller annan bakomliggande orsak (central genes?)
+
+
+
+***Behandling***
+
+* besvärande HST
+  * ibuprofen
+  * eller paracetamol
+* 
+
+
+
+
+
+### Hydrocefalus
+
+***Presentation***
+
+
+
+***Etiologi och patofysiologi***
+
+* SUTUTRER: kan ta upp t 2år för att fusera
+
+* CSF relaterat
+
+  * påverkad CSF flöde
+  * ökad produktion
+  * flödeshinder
+  * minskad absorption
+
+* Indelningsmässigt
+
+  * Kommunicerande hydrocefalus
+    * ökad produktion
+    * minskad abdorption
+    * alla problem början eller slutet av pathway. Allt däremellan funkar föra tt icke-obstruktiv
+  * Icke-kommunicerande hydrocefalus
+    * obstrkton
+    * buildup CSF proximalt
+    * etiologiskt: blödningar, ..
+
+* Kongenitala orsaker
+
+* Acquired orsaker: 
+
+  * intraventrikulär blödning: VANLIGAST PREMATURA
+  * bakteriell meningit
+  * CSF-producerande hjärntumörer
+
+* Andra orsaker.. (mer makrocefali relaterat?)
+
+  * Hjärnblödning
+  * Missbildning
+  * Intrauterin infektion
+  * Tumörer
+  * Trauma
+
+  
+
+***Indelningar***
+
+* Kommunicerande, icke-obstrktiv, 
+* Icke-kommunicerande, obstruktiv
+* Hydrocefalus ex vacuo
+
+
+
+***Kliniska kännetecken***
+
+* ökande huvudomfång
+* Öppna suturer föreligger
+  * stora anterior och posterior fontaller
+  * split suturer
+  * setting-sun eues: toniskt att ögon tittar nedåt. tredje ventrikeln förstorad tryckr på hjärnstammen
+* Äldre barn
+  * Huvudvärk
+  * kräkningar
+  * illamående
+  * papillödem
+  * brisk tendon reflux, DTR: downward plantar respose
+
+
+
+***Utredning och handläggning***
+
+* Akut Ultraljud: Ökande huvudomfång, och spädbarn
+* DT-skalle: äldre ungar, akut
+
+
+
+***Behandling***
+
+* Shuntbehandling
+  * Ventrikuloperitoneal shunt: komplikationer infektion och shunt obstruktion
+* äldre barn
+  * acetazolamid: minskar ICP
+
+| <img src="./lectures/ped_lec/imgs/ped_neuro_sem_1bvQeXzw4G.png" alt="1bvQeXzw4G" style="zoom: 50%;" /> | <img src="./lectures/ped_lec/imgs/ped_neuro_sem_4twbCwn8Us.png" alt="4twbCwn8Us" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/ped_neuro_sem_i29YoiW2id.png" alt="i29YoiW2id" style="zoom:25%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
 
 ### Kramper
 
@@ -11333,289 +11871,6 @@ En kort lista över kliniska manifestationer av CF:
 
 <img src="./imgs/sam_160421_fvPPMlHghv.png" alt="fvPPMlHghv" style="zoom:50%;" />
 
-
-
-### Hjärntumör
-
-***Presentation***
-
-* ***Sture, 7 år***
-  * har sedan två månader börjat bli gnällig och missnöjd. Vid några tillfällen har han vaknat och klagat över huvudvärk. Vid flera tillfällen de senaste veckorna kräkts på morgonen. Han berättar också att han ser dubbelt, och i status misstänker du abduscenspares. Vilken sjukdom misstänker Du i första hand?
-* **7-årig pojke, Ahmed,**
-  * **som kommer för att han sedan 3 veckor haft huvudvärk, särskilt på morgonen. Modern tycker att det blivit värre och värre. Två gånger senaste veckan har han också kräkts på morgonen. I status noterar du att hö öga inte följer med ut till hö när du kollar hans ögonmotorik. Han har också svårt att utföra finger – näs test.** 
-  * **Vilken förklaring till symtomen bör du i första hand misstänka? (1p)** 
-  * Hjärntumör
-  * vad kallas ögonmuskelparesen pojken har;:
-    * Abducenspares
-  * Vilken åtgärd vidtar du på akuetn
-    * Skicka t akuten omgående,.
-* ange 4 symptom / statusfynd hjärntumör bakre skallgrop
-  * Ögonsumptom
-  * Huvudvärk
-  * kräkkningar
-  * ataxi
-  * (trötthet?)
-* **En pappa söker på akuten med sin 3½ år gamle son Emil på grund av kräkningar. Pappan berättar att Emil sedan några veckor av och till kräkts plötsligt vid morgonmålet men mår bra på dagen. Emil har varit gnälligare och besvärligare än vanligt och att han snubblar mycket. I status finner Du inget anmärkningsvärt, men Emil är svårundersökt eftersom han är rädd. Vad bör uteslutas och hur utreds pojken? 2p** 
-  * Hjärntumlr
-  * kontakt barnneurolog + radiologisk undersökning (MR hjärtna)
-  * fullständigt kliniskt status
-* Gustav 14 år kommer till dig pga huvudvärk som kommer nästan dagligen de senaste 2 månaderna. Du är orolig för att missa hjärntumör. Nämn 2 anamnestiska uppgifter och 2 statusfynd du behöver som stöd för din diagnosmisstanke. 2p 
-  * Morgonhuvudvärk? Kräkningar?
-  * Abducenspares, ataxi
-
-
-
-
-
-### Huvudvärk
-
-#### Migrän
-
-***Presentation***
-
-* **Emma 7 år är remitterad till dig på BUMM pga episoder med huvudvärk. Du har misstanke om att Emma lider av migrän. Barn kan ha migrän både med eller utan aura som dock är ovanligt hos barn. Durationen är oftast kortare hos barn än hos vuxna men ett anfall kan vara mellan 1-72 timmar. Vilket av följande påståenden om migrän hos barn stämmer bäst? Välj ett alternativ:** 
-  * paracetamol + NSAID: förstahands anfallskuperande behandling
-
-
-
-***Epidemiologi***
-
-* Ettårsprevalens: 2-13%
-* barn tonåringar, minst 1gg p vecka 5%
-
-
-
-***Kliniska kännetecken***
-
-* **kan debutera tidigt barnaåren**: 20% före 10åå
-* **första levnadsåren**
-  * **korta anfall**
-    * skrik
-    * blekhet
-    * kräkningar 
-    * (HV framkommer av naturlika skäl INTE anamnestiskt förrän 4åå)
-* **Anfallsduration**
-  * 2-8h: vanligast
-  * 12h: obehandlat, kan uppgå hit
-* **Smärta**: SVÅR, jfr med spänningsHV som är lindrig-måttlig
-* **Locale**: bifrontal, bitemporal
-* **Utöver huvudet**: smärtor mage, buksmärtor, kräkningar
-* **Migrän utan aura**
-  * utlösande faktorer som exponering för TV- eller datormonitorer, sömnbrist, och emotionella reaktioner.
-* **Bukmigrän**: förekommer osså, före vanlig migrän; återkommande buksärtor, önska ligga mörkt tyst nrum, runt navel, diffus, vasomotoriskt symptom ansiktsrodnad följt blekhet, matleda, kräkningar 50%, känslighet ljus ljud, yrsel,
-* **Sammanfattning**
-  * kortare anfallsduration jfr vuxna
-  * yngre rapporterar sällan aura
-  * ofta bilateral HV
-  * svårt beskriva dunkande pulserande smärta
-  * större påverkan magtarmkanalen: buksmärta, kräkningar
-  * ökad känslighet ljus och ljud: information fr föräldrarna
-
-
-
-***Migrän med aura***
-
-* Aura före HV fasen
-* aura 10-30min, sällan 60mmin
-* försvinner ofta innan HV
-* formen aura: 
-  * flimmerksotom, i.e. synpåverkan. 
-    * upplevs båda ögon, samma synfältshalva. 
-    * pat kan ej se normalt
-  * Känselrubbningar
-    * endast ena kroppshalva
-    * känslestörningar som domningar, krypningar, stickningar i ena handen (tumgrepp), mun, tunga samma sida (kiro-orala parestesi)
-    * börjar fingrar, sprider underarm, loppet minuter, därefter ansikte
-  * talrubbningar: mindre vanligt
-  * förvrängd kroppsuppfattning: kroppsform ändras
-
-
-
-***Differentialdiagnoser***
-
-* **Tandställning, bettställning, gnisslar tänder**: smärtor tuggmuskulatur
-* **Utesluta orsaker återkommande HV**: intrakraniell tryckstekgring pga blödning el tumör
-* **Hjärntumör**: HV värre morgonen, förvärras vid hosta, böjer sig, kryster
-* **Spänningshuvudvärk**
-* **Synstörning**: myopi eller striabism
-* **CNS infektion, inflammation**: e.g. neuroborrelios, TBE, meningit
-* **CNS tryck**: stroke (blödning), tumör,
-* **TMD**: temporomandibulär dysfunktion
-
-
-
-***Utredning och handläggning***
-
-* Remiss akutmottagningen
-  * allmänpåverkan
-  * ayrasymptom >1h
-  * migränanfall >72h trots behandling: status migränosus
-  * neuro fokalitet
-* Elektiv handläggning
-  * optiker
-  * tandläkare: bettdysfunktion
-  * fysioterapi: muskelspänningar
-
-
-
-***Behandling***
-
-* **Kontraindikationer**: ALDRIG kombinerade p-piller till dessa patienter
-* **Konservativt:**
-  * god effekt bra sömnvanor
-  * oregelbunden matvanor, sömnvanor?
-  * krav fr skola o föräldrar höga
-  * mobbning, insufficient socialt familjeliv, incest
-  * Kan skicka pp KBT...
-* **Farmakologiskt**: föra dagbok om symptom följa effekt
-  * **anfallskupering / anfallsbehandling**
-    * ASA, paracetamol, eller NSAID.
-    * ASA ej vid samtidig feber och infektion
-    * **triptaner, nästa steg, från 12åå**: sumatriptan
-  * **förebyggande, profylax**
-    * När frekvens påtaglig
-    * **Propranolol po**: kontraindik för låg puls; ej prestationsbarn för konditionsnedsättande: dag eftermiddag för undvika mardrömmar
-    * **kalciumblock, flunarizin**
-    * **amitriptylin**
-    * **antiepileptika**: valproat, topiramat
-  * **tillägg antiemetika**
-    * metoklopramid: utlösa extrapuramidal sidoeffekt som akut dystoni, akatisi. vanligaste biverkan trötthet
-
-
-
-#### Spänningshuvudvärk
-
-
-
-***Allmänt***
-
-* HST: spänningshuvudvärk
-
-
-
-***Epidemiologi***
-
-* Prevalens: mellan 12-72%
-* vanligast förekmmande hvudvärk hos barn + tonåringar + vuxna
-* 1% daglig kronisk spänningshuvudvärk, barn + tonåringar
-
-
-
-***Kliniska kännetecken***
-
-* Börjar tryck ovanpå skallen
-* eller band runt huvud
-* därefter går över i lätt värk
-* senare skede öka intensitet
-* kan störa skolarbete
-
-
-
-***Diagnos***
-
-* För spänningshuvudvärk
-* när uteslutit migrän eller annan bakomliggande orsak (central genes?)
-
-
-
-***Behandling***
-
-* besvärande HST
-  * ibuprofen
-  * eller paracetamol
-* 
-
-
-
-
-
-### Hydrocefalus
-
-***Presentation***
-
-
-
-***Etiologi och patofysiologi***
-
-* SUTUTRER: kan ta upp t 2år för att fusera
-
-* CSF relaterat
-
-  * påverkad CSF flöde
-  * ökad produktion
-  * flödeshinder
-  * minskad absorption
-
-* Indelningsmässigt
-
-  * Kommunicerande hydrocefalus
-    * ökad produktion
-    * minskad abdorption
-    * alla problem början eller slutet av pathway. Allt däremellan funkar föra tt icke-obstruktiv
-  * Icke-kommunicerande hydrocefalus
-    * obstrkton
-    * buildup CSF proximalt
-    * etiologiskt: blödningar, ..
-
-* Kongenitala orsaker
-
-* Acquired orsaker: 
-
-  * intraventrikulär blödning: VANLIGAST PREMATURA
-  * bakteriell meningit
-  * CSF-producerande hjärntumörer
-
-* Andra orsaker.. (mer makrocefali relaterat?)
-
-  * Hjärnblödning
-  * Missbildning
-  * Intrauterin infektion
-  * Tumörer
-  * Trauma
-
-  
-
-***Indelningar***
-
-* Kommunicerande, icke-obstrktiv, 
-* Icke-kommunicerande, obstruktiv
-* Hydrocefalus ex vacuo
-
-
-
-***Kliniska kännetecken***
-
-* ökande huvudomfång
-* Öppna suturer föreligger
-  * stora anterior och posterior fontaller
-  * split suturer
-  * setting-sun eues: toniskt att ögon tittar nedåt. tredje ventrikeln förstorad tryckr på hjärnstammen
-* Äldre barn
-  * Huvudvärk
-  * kräkningar
-  * illamående
-  * papillödem
-  * brisk tendon reflux, DTR: downward plantar respose
-
-
-
-***Utredning och handläggning***
-
-* Akut Ultraljud: Ökande huvudomfång, och spädbarn
-* DT-skalle: äldre ungar, akut
-
-
-
-***Behandling***
-
-* Shuntbehandling
-  * Ventrikuloperitoneal shunt: komplikationer infektion och shunt obstruktion
-* äldre barn
-  * acetazolamid: minskar ICP
-
-| <img src="./lectures/ped_lec/imgs/ped_neuro_sem_1bvQeXzw4G.png" alt="1bvQeXzw4G" style="zoom: 50%;" /> | <img src="./lectures/ped_lec/imgs/ped_neuro_sem_4twbCwn8Us.png" alt="4twbCwn8Us" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/ped_neuro_sem_i29YoiW2id.png" alt="i29YoiW2id" style="zoom:25%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |                                                              |
 
 
 
@@ -12858,6 +13113,11 @@ En kort lista över kliniska manifestationer av CF:
   * ! ***BT 140/90,***  VIKTIGT ATT MAN TAR BLODTRYCKET
   * urinsticka: protein ++, ery ++,. nit neg
   * blod: krea 120mikroM, P-alb 30g/L, lågt C3 (det är ett komplement)
+* Filip 6år söker på BUMM pgatrötthet. Han har ingen feber, förkylning eller tecken till andningsbesvär. För ca 2-3 veckor sedanhade han halsont och feber men träffade aldrig läkare. Nu är han frisk från det. Pappa är med på besöket och är orolig för att hanär mer trött än vanligt. I status ser duatt han ärsymmetriskt och generelltnågotsvullen och du noterar att han har ett för åldern högt blodtryck, 130/90 mm Hg. Dumisstänker en specifik diagnos ochfunderar på vilka prover du skallta. 
+  * Vilket enkelt prov skulle du ta i första hand för att få ett svarinom några minuterom du är på rätt spår och vad skulle det då visa? (2p) 
+    * U-sticka hematuri, protein+
+  * Provet visar vad du misstänker. Du kan därefter bekräftadiagnosen med ytterligare 2blodprover.Vilkaär det och hur skulle deutfalla? (2p) 
+    * komplement (c3c4), strepserologi
 
 
 
@@ -13637,6 +13897,16 @@ Hud: på bålen små punktformiga blödningar millimeterstora petechier, flera b
 
  
 
+
+
+#### Leukemi
+
+PBD 1 (5p)5årig flickasom söker till barnakutenKontakt orsakInkommer till akuten med mor o far pga feber och trötthetÄrftlighetModern är glutenintolerant.SocialtFullständig familj. En storasyster 11 år och en storebror 9 år. Friska syskon. Tid sjukdomar RS som spädbarnAktuelltTidigare frisk flickasom sedan 2 veckor som har sökt vårdpga trötthet, av och till subfebril. Man har ej funnit något fokus. Nu 40C feber och orkar inte leka och har nedsatt aptit.Föräldrarna som är oroliga har noterat nytillkomna blåmärken på armarna.StatusAllmäntillstånd:Tröttoch lite blek, svarar adekvat på frågor. Feber 40C. Kapillär återfyllnad ca 2 sekunder. Munhåla och svalg:Retningsfritt.Öron:Bilateralt u a.Hjärta:frekvens 110.Inga biljud.Lungor:Andningsfrekvens 30, normala andningsljud, inga rassel eller rhonki.Buk:Mjuk och oöm, mjälten palperasförstorad.Hud:Någrafärskablåmärken på armarnaoch bålen.Neuro:Ingen nackstelhet. Symmetriska rörelser. Normal gång. Pupiller reagerar ua för ljus.Preliminär bedömning och åtgärdVar god skriv på näs
+
+5åå flicka, tidg frisk, inkommer med varierande feber sedan flera veckor, trötthet och nytillkomna blåmärken på armarna. På AKM, AT trött + blek, 40graders feber, färska nytillkomna blåmärken armar + bål. FÖ invändningsfritt status. Således kan ej utesluta blodmalignitet. Neutropeni? Differentialdiagnostiskt, infektion UNS med sänkt Tromb, e.g. HSP, men är ej förenlig gott med bilden. Inlägges BAVA akut. Provtar blodstatus + diff, blododling, urinodling, u-sticka, CRP, krea. Infarter med prepp inför cefotaxim + flagyl för bred täckning. Hematologjour, infektionsjour och internjour för vidare handläggning. 
+
+
+
 #### Meningit
 
 Kontaktorsak 7 månader gammal pojke kommer till akutmottagningen pga feber och slöhet. Socialt: Barn 3/3, sammanboende föräldrar. Kommer med båda föräldrarna. Graviditet och nyföddhetsperiod: Normal graviditet. PN. Född i v 38+5. FV 3450g. Komplikationsfritt neonatalt. Tidigare o nuvarande sjukdomar: Tidigare frisk. Hereditet: Pappan pollenallergi. Aktuellt: Har mått bra tills igår när han började äta sämre. Har ingen förkylning. Febern runt 39-40C. Syskonen förkylda med feber. Blöjan var inte lika tung som vanligt på morgonen. Är inte lika aktiv med rörelser och jollrande. Trött, sover mest. Status Allmäntillstånd: Temp 40,2 C. Slö. Kapillär återfyllnad 3,5 sekunder. Saturation: 91%. Inga indragningar. Gråblek. Vikt: 7,5 kg Munhåla och svalg: Retningsfritt. Öron: Inspekteras rodnade men ej buktande bilateralt. Ytliga lymfkörtlar: Inga lymfkörtlar cervikalt. Hjärta: RR, takykard 170. Lungor: Normala andningsljud, möjligtvis lite svaga då han inte orkar ta ordentliga andetag. Buk: Mjuk och oöm. Inga organförstoringar. Hud: Inga exantem. Neuro: Försiktiga symmetriska rörelser. Slapp. Ger ingen kontakt. Fontanell lätt spänd. Ej nackstyv. 
@@ -13678,6 +13948,16 @@ Intagningsorsak 2 månaders pojke som inkommer med hosta Socialt: Sammanhållen 
 
 
 2mån pojke, PN v39+6, tidg frisk, söker pga hostattacker + apne tills blå sedan 1 vecka. Epidemiologist mamma med snuva + infen feber + intensiv hosta sedan 3-4v, dag o natt. Aktuellt pojke gradvis insjuknat fr ÖLI symptom t att nu ha intensiva hostattacker med apne o pat blir blå i några sekunder, särskilt nattetid. Spontan återhämtning efter hostattackerna. Status 46 AF, sat 94%, lungor ua, viss bukandning, inga indragningar. Misstänker pertussisinfektion med typiska anamnes. Differentialdiagnostiskt virusorsak t hostattacker e.g. adenovirus, men kan ej utesluta pertussis som bör behandlas. Vidtar hygienåtgärder, med separat rum och kohort besök. Sätter in erytromycin för att minska smittsamhet och potentiellt vidare förlopp. Syrgas på grimma. Bedöma kapref. Försök ORS po + amning. 
+
+
+
+
+
+#### Pubertas tarda
+
+PBD 2(5p)Pojke 14år gammal som remitteras från VC till BUMMKontaktorsakSöker pga avvikande tillväxt. Socialt, 9-årig lillebror. Sammanboende föräldrar.Kommermed mor och far. Tid /nuv sjdFrisk Allergi/överkänslighetIngen känd.HereditetFöräldrarna är från Turkiet, ej besläktade. Föräldrarna är normallånga. Fadern hade sen pubertet.AktuelltPojkesom har börjat sjätte klass och som tycker att det är jobbigt att varabland dekortastei klassen. Inga teckentill gastrointestinala symptom, inga infektionstecken.Han ligger på -0,5SD på längdkurvan sedan födseln och nu har hanlångsamt avplanande längd och viktkurvaochutebliven pubertetspurt.StatusAT: Lätt dämpad i övrigt uaMoS: Retningsfritt.Öron: Bilat u a.Hjärta: RR, inga biljud eller blåsljud. Lungor: Auskulteras u a. Buk: Mjuk och oöm.Inga palpabla patologiska resistenser.Pubertet: Utebliven könsbehåring och testikelvolym på strax under 4ml.Preliminär bedömning och åtgärdVar god skriv på nästa sida
+
+14åå, tidigare frisk, söker med utebliven pubertetspurt. Status utebliven könsbehåring + testikelvolym strax under 4mL. Legat -0.5SD längd sedan födsel, nu långsamt avplanad längdkurva + viktkurva + utebliven pubertetsspurt. Således arbetsdiagnos pubertas tarda mtp tydlig utebliven pubertetspurt, genital status och ålder.  Diff, mindre troligt hypofysiär tumör, som ej kan uteslutas. Fullständigt status, med vikt + längd. Penetrerar anamnes enl HEADS och ang. näringsintag. Provtar TSH, T4, T3, testosteron, FSH, LH, östrogen, IGF1, glukos, TGA. Planerad uppföljning nästa vecka för provsvar. Kontakt endokrinjour på' HS för vidare diskussion och utredningsgång, vad gällande exempelvis neuroradiologi. Ingen behandling aktuell i nuläget innan provsvar.
 
 
 
@@ -14438,7 +14718,7 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ## Vätska och nutrition
 
-### Allmänt
+### Presentation
 
 ***Presentation***
 
@@ -14494,18 +14774,30 @@ Ataxic cerebral palsy is due to [...] damage.
   * **Undet det akuta skedet**: Ringer-Acetat, iv bolus, 180mL (20mL/kg)
   * **Under de nämaste timmarna**: Ringer-acetat iv, 450mL/4h
   * **Under det kommand dygnet**: Plasmalyte glukos, iv, 100mL x 9 = 900mL/24h
-
 * Miriam 7v, RS-virus bronkiolit 5kg
   * PN, fullgången. förkyld snuva sedan 3d. tilltagande andningsbesvär o tröttehet. helamma, men sämre aptit sedan gårdagen. Relativt pigg vid ankomst, men rejält slemmig och snabbandad. vägde 5kg på bvc förra veckan. På akuten 4.8kg. normal HF. CRT 1.5s. Kissat sparsamt. 
   * **Undet det akuta skedet**: behöver ingen bolus...
   * **Under de nämaste timmarna**: sond ORS, 250mL/4h
   * **Under det kommand dygnet**: sond, bröstmjölk, ersättning: 150mL x 5 = 750mL/24h
-
 * Spädbarn gosse
   * Att korrekt kunna bedöma ett sjukt barns grad av dehydrering och eventuella cirkulationssvikt är avgörande för valet av behandling. En tidigare frisk ettårig gosse som väger 10 kg har inkommit till barnakuten där du vikarierar med symptom förenliga med en viral gastroenterit. Han har stora förluster och är hängig. Han har en kapillär återfyllnad på 4 sekunder och läpparna är torra
   * Bolus Ringeracetat iv 200 ml följt av Ringeracetat iv 5% av vikten på 4 timmar
     * efter dett ska han ha plasmalyteglukos i underhållsbehandling
     * 1000mL plasmalyte 5% glukos, över 24 timmar, in accord med att det är 100mL/kg mellan 0-10kg
+* **Olle 9 månaderkommer akut en sen eftermiddagför kräkningar sedan 3dygnoch har det senaste dygnet haft mångadiarréer. Detta är en typisk bild för gastroenterit,sannolikt  virusorsakad. Han sitter i pappas knä och är trött men vaken.Han har ingen feber. Han är cirkulatoriskt stabil. Han har gått ner från 10,5 till 9,5 kg i vikt.**
+  * **Nämn 4 olika fynd du kan tänkas finnai status som skulle tala för en dehydrering hos detta barn. (2p)**
+      * viktnedgång, MoS torr, CRT påverkad, insjukna ögon, gråta utan tårar, hudturgor, oliguri, takykardi, 
+  * Under tiden på akuten blir han mer slövarför du tar en blodgas som visar bild somvid en hypertondehydrering. Vad är kriteriet för en hypertondehydrering? (1p)
+      * över 150mM Na 
+  * Förklara i principiella termerhur ett barn med hyperton dehydrering skall rehydreras de närmaste två dygnen. (2p)
+      * 0.4mM Na/h fram till under 145mM Na
+      * 5% 120mM Na, 20K glukos infusion
+      * Långsam rehydrering
+      * Vätskedeficit ska korrigeras på 48h
+      * Föreligger cirkulatorisk påverkan, som antytt av kap ref kan man rehydrera med 20mL/kg, 
+  * Vilken fruktad komplikation kan uppkomma vid rehydrering av ett barn med hyperton dehydrering och förklara uppkomstmekanismen. (2p)
+      * Hjärnödem
+      * celler osmolära
 
 
 
@@ -15445,6 +15737,7 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
    * För låg koncentration av fett och protein
    * För lite kalorier
    * För låg koncentration av protein och för hög av fett
+* 
 
 
 
@@ -15527,99 +15820,6 @@ Det man bör ge
   * Humörförändringar 
 
 
-
-### Pubertas praecox - För tidig pubertet
-
-* Man gillar det inte
-* man ska utreda detta, att man tar hormonprover för att se. 
-
-
-
-***Presentation***
-
-* isolerad svettlukt eller behåring... klan vara binjurebarkstumör
-  * MEN då ska man inte ha tillväxt eller könskognad, detta sker ej med binjurebarksmognad. 
-
-
-
-***Allmänt***
-
-* Notera att adenarche att binjurebarkspubertet kan ske tidigt, och det kan vara okej
-  * man gör ej MR hjärna för att man luktar svett
-  * utan man ska titta på de andra tecken på pubertet som man ska vara varsam för och uppmärksam. 
-
-
-
-***Definition:***
-
-* **Flickor**: Brösttillväxt < 8 åå
-* **Pojkar**: Testikelvolym > 4 ml < 9 åå
-
-
-
-***Orsak:***
-
-* Hos pojkar ofta patologisk orsak -> utredning obligat
-* Hos flickor oftast idiopatiskt
-* **Centralt utlöst**: CNS-tumör, idiopatisk
-* **Perifert utlöst**: Binjurebarkstumör
-
-
-
-***Kliniska kännetecken***
-
-
-
-***Handläggning och Utredning***
-
-* Gonadotroppiner, bla LH, FSH, CENTRAL
-* könshormoner: östrogen, testosteron, PERIFER
-* skelettålder
-* MR hjärna
-* Gällande om man luktar svett
-  * att isolerat lukta svett, sen att det går bort etc, detta är okej
-  * notera 
-
-
-
-***Behandling***
-
-* GnRH-analoger (block av gonadotropin-utsöndring)
-
-### Pubertas tarda
-
-***Etiologi och patofysiologi***
-
-* Multifaktoriellt, samt många olika orsaker
-* Heriditet för sen pubertet: dominerar störst, se till att fråga föräldrarna om de hade för sen pubertet
-* ***Anorexia***
-* ***Kronisk sjukdom***
-* ***Hård träning***: både män och kvinnor. 
-* allvarligare diagnoser som ska beaktas
-  * ***CNS-tumör*** (ex kraniofaryngiom): detta att man får utreda.
-    * hypofystumör
-  * ***Turners syndrom***
-
-
-
-***Utrednin***
-
-* Gonadotropiner: bla FSH, LH;
-  * dessa bör dra iväg först. 
-* Könshormoner: östrogen och testosteron
-  * har man ett testo som börjar dra iväg ibland, då vet man att pubertet är snart igång
-
-
-
-***Handläggning och utredning***
-
-
-
-***Behandling***
-
-* testostoron im inj
-* östrogen plåster
-  * många tjejer som avstår. 
 
 
 

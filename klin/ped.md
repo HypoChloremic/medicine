@@ -1632,6 +1632,41 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Livlöshetsattack
+
+***Presentation***
+
+* !! 10.Klockan 5.30 har du just somnat utmattad under din första natt som barnjour när larmsökaren ljuder. Du springer till akutrummet där 2 månader gamla Mustafa inkommit med ambulans efter en livslöshetsattack i hemmet. 
+  * a)Nämn fyratänkbara orsaker till en livlöshetsattack hos ett 2 månader gammalt barn. (2p)
+      * ALTE, apne, hypoxi, affektanfall, arrytmier, krampanfall, hjärtstopp, 
+  * Det framkommer att Mustafa, som annars är en välmående och frisk fullgången gosse, ammat dåligt under det senaste dygnet. Han har feber på akutrummet och en kapillär refill på 3,5 sekunder. Han är slö och lite hypoton, gnyr vid mobilisering i samband med undersökning. Saturationen mäts till 88%. 
+  * Nämn tvåvitalstabiliserande åtgärder/behandlingar du omgående låter vidta? (1 p) 
+      * Syrgas
+      * vätskebolus
+  * Du misstänker att Mustafa har drabbats av en bakteriell infektion. 
+  * Vilka odlingar beställer du 
+      * Blododling
+      * LP
+      * urinodling
+      * enl grabbarna så svalgodlar vi inte: PCR NPH,
+  * Antibakteriell behandling, sätter du in
+      * Cefotaxim + aciklovir + ampicillin (Notera man inte ger steroider om under 3månader)
+
+
+
+***Etiologi***
+
+* Olika orsaker till livlöshetsattack i hemmet
+  * ALTE
+  * APne
+  * Hypoxi
+  * Affektanfall
+  * Arrytmier
+  * Krampanfall
+  * Hjärtstopp...: kanske inte dettta
+
+
+
 ### Luftvägsstopp
 
 ***Presentation***
@@ -2397,6 +2432,16 @@ Enligt ABCDE
   * Vad är den mest sannolika orsaken till hans tillstånd? (1p)
     * Insulinpump haveri, får inget insulin, hyperglykemi och DKA.
   * Notera: varför får man kräknignar av DKA
+* Zara är 7 år och har insulinbehandlad diabetes mellitus sedan 1 år tillbaka. Hennes HbA1c-värden har försämrats något vid de två senaste kontrollerna. Hon har idag ett bokat besök till dig på diabetesmottagningen där du vikarierar. Föräldrarna har några frågor till dig. 
+  * !! ”Vad finns det för för-och nackdelar med insulinpump jämfört med subkutana insulininjektioner?” Ange enför-respektive nackdel med vardera administreringssätt. (2 p)
+      * Insulinpump: användaroberoende, nackdelar: risk för nedbrytning, infektioner, kollaps, svårt att bada, gå runt med maskienr
+      * Sprutor: långtidsinsulin som kan kännas säkare, nackdel: att man behöver hålla koll åp sprutorna, ställa in den. 
+  * !! ”Måste man åka in akut om insulinpumpen skulle gå sönder?” köra detta
+      * Risk för hyperglykemi eller hypoglykemi beroende på vad för sorts haveri det är,
+      * Akut indiktation att söka sjukbård: pumpen har verkningstid på 4-6timmar, så man behöver åka till akuten. 
+  * ”Vad är det egentligen för skillnad gällande patogenesen mellan diabetes typ 1 och typ 2”? Kort svar!(1 p) 
+      * DM1: antikroppsrelaterat, immunologisk reaktion, insulinbrist
+      * DM2: insulinresistens, rel metabola syndromet, betacellspopulation kan också ta skada, men detta i kmbination med resistens och brist bidrar med DM. 
 
 
 
@@ -2423,6 +2468,20 @@ Enligt ABCDE
     * Genetic/chromosomal syndromes, e.g. Down and Turner
     * Neonatal diabetes: transient and permanent secondary to defective B cell function.
     * Gestational diabete
+
+
+
+***Behandling***
+
+* **DM1**
+  * Insulinpump
+    * Indikation
+    * fördelar
+    * nackdelar
+  * Insulinsprutor
+    * indikation
+    * fördelar
+    * nackdelar
 
 
 
@@ -3061,7 +3120,8 @@ Enligt ABCDE
 
 * !!! **Matilda 11 år söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat 2kg i vikt senaste tre månaderna, information om längdutvecklingen är i stort sett oförändrad. Hon känner sig orolig och har svårt att koncentrera sig. Av och till har hon ont i magen. Har lite sämre aptit sista halvåret. Inga kräkningar. Har ibland lösa avföringar. Förnekar utlandsresor senaste året. Nämn två kliniskt mycket relevanta differentialdiagnoser samt för var och en av dessa ett prov eller en undersökning som hjälper dig närmare just den diagnosen. 2p** 
   * Celiaki: transglutaminasantikroppar
-  * !!! HYperthyroidism: TSH
+  * IBD: F-kalprotek
+  * !!! Hyperthyroidism: TSH
 * !!! **En 13-årig flicka söker skolläkarmottagningen för att hon är trött och inte klarar skolan så bra längre. Hon har tidigare varit bäst i klassen och idrottat mycket. Hon har minskat tre kilo i vikt sedan hon senast vägde sig för några månader sedan men man kan ej se att hon fallit av på längskurvan. Hon känner sig orolig och har svårt att koncentrera sig. Av och till haft ont i magen. Sämre aptit det senaste halvåret. Förnekar kräkningar. Har ibland lösa avföringar. Nämn tre kliniskt relevanta differentialdiagnoser samt för var och en ett prov eller en undersökning som skulle kunna stöda just den misstanken. (3p)** 
   * IBD: F-kalprotektin
   * Gluteintolerans: transglutaminasantikroppar
@@ -3079,6 +3139,14 @@ Enligt ABCDE
   * glutenintolerand, frågar om man kan ta ett glutenprov
   * VIlket prov: transglutaminas antikroppar
   * Gltuenprovet ua. 
+* Du jobbar som allmänläkare på en vårdcentral i stan. Dagens första patient heter Axel och han är snart 5 år gammal. Han har haft ont i magen de senaste månaderna och haft omväxlande hård och lös avföring sedan dess. Föräldrarna tog för cirka 6 veckor sedanbort all gluten från hans kost och de tycker att Axel mått lite bättre de senaste veckorna. Han bajsar nu mjuk avföring dagligen. Du misstänker celiaki. Föräldrarna vill om möjligt undvika ”tarmundersökning med kamera”. 
+  * Hur går du vidare för att komma närmare din diagnosmisstanke? (1 p): 
+      * återföra gluten i kosten, tar om provet efter att man återfört gluten i kosten. Kan temporärt ta ett TGA också i nutillfället...
+  * Är skopi obligat för att ställa en celiakidiagnos? Motivera kort!(1 p) 
+      * över 70 TGA Räcker för diagnos, annars skopi med px för villusatrofi för diagnos
+  * Tolka tillväxtkurvan
+  * <img src="./imgs/sam_230421_Xc4WSkFX6T.png" alt="Xc4WSkFX6T" style="zoom: 33%;" />
+  * 
 
 
 
@@ -3466,7 +3534,7 @@ Enligt ABCDE
     * Stress i form av familjesituation, skolsituation, mobbning, inlärningssvårigheter, aktiviteter på fritiden, droger etc?
     * Psykopatologi som kan bidra till symtomen (ångest, depression, fobi etc)?
 * !!! **Basutredning vid RED FLAG-frågor**
-  * FUllständigt status + tillväxtkyurva
+  * Fullständigt status + tillväxtkyurva
   * Blodstatus, SR/CRP, u-sticka
   * DE VIKTIGASTE PROVERNA enl studier för att förändra utredningsgången:
     * IgA-transglutaminas (transgluttar): celiaki
@@ -4938,6 +5006,21 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Celler och Borrelia ak i likvor, Blodstatusd
   * Celler och Borrelia ak i likvor,CRPe
   * Celler och Borrelia ak i likvor, TBE-serologi
+* Lydia, 5 år gammal, träffar dig på vårdcentralen p g a ett svullet högerknä sedan en vecka tillbaka. Svullnaden har varken ökat eller minskat sedan debuten. Hon har en tydlig hälta, men verkar i övrigt må utmärkt.I status noteras temp 37,2 och ett lätt svullet och antytt värmeökat högerknä -utan rodnad. Hennes medföljande pappa berättar att han läst att man kan drabbas av en ”infektion som sprids från djur till människa och som kan orsaka ledsvullnad.
+  * Vilken infektion har fadern rimligen läst om? 
+      * Borreliainfektion
+  * Vilken analys beställer du för att verifiera denna diagnos
+      * Serologi
+  * Pappan berättar också att hans mamma har ”något reumatiska sjukdom som orsakar krokiga fingrar” och han undrar om Lydias ledsvullnad kan vara ett första tecken på barnreumatism. 
+  * Vad svarar du? Motivera kort ditt svar genom att förklara vilka kriterier som måste vara uppfyllda för en JIA-diagnos. (2 p)
+      * UNder 16åå
+      * ledsymptom över 6v
+      * andra orsaker uteslutna
+  * Den engagerade och frågvisa pappan har även googlat kort om septisk artritoch undrar om Lydias ledsvullnad kan vara orsakad av en bakteriell infektion. 
+  * Ange två uppgifter som talar emot att flickan drabbats av en septisk artrit. (1 p) 
+      * ingen feber
+      * opåverkat AT
+      * akut insjuk för den
 
 
 
@@ -6338,12 +6421,17 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Presentation***
 
-* **På akuten träffar du Vadim, en pojke som fyller 2 år i januari och som just kommit hem efter ett besök hos farföräldrarna på landsbygden utanför Minsk i Belarus. Han har haft diarréer sedan 3 dagar tillbaka. Aptiten är mycket dålig och han dricker sparsamt. I morse hade han två blodtillblandade diarréer varför Vadim och hans pappa nu söker akut. Du minns en njursjukdom som drabbar barn och som brukar föregås av blodiga avföringar.** 
+* 2åå pojke
+  * **På akuten träffar du Vadim, en pojke som fyller 2 år i januari och som just kommit hem efter ett besök hos farföräldrarna på landsbygden utanför Minsk i Belarus. Han har haft diarréer sedan 3 dagar tillbaka. Aptiten är mycket dålig och han dricker sparsamt. I morse hade han två blodtillblandade diarréer varför Vadim och hans pappa nu söker akut. Du minns en njursjukdom som drabbar barn och som brukar föregås av blodiga avföringar.** 
   * Vilken
     * HUS
   * Ange 2 relevanta blodnalyser du vill beställa för att få stöd för din diagnosmisstanke
     * Enl genomgg: Hb, krea, TPK
     * Blodstatus, elstatus
+* Klint 3 
+  * år har remitterats från närakuten p g a misstänkt njursvikt. Enligt remissen har han haft diarréer sedan 5 dagar, idag med tillkomst av blod. Hb88 och TPK45. Elektrolyterna är normala, men kreatininvärdet är kraftigt stegrat, 160. 
+  * Vilken diagnos bör i första hand misstänkas? (1 p) 
+      * HUS
 
 
 
@@ -7736,6 +7824,33 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
       * Byte från fetalt Hb till adult. Nedbrytning. 
   * c. Ange den vanligaste orsaken till anemi efter nyföddhetstiden i Sverige.1p 
       * Brist på intag av vanlig mat då bröstmjölk inte innehåller något järn. Järnbristanemi. 
+* På akutmottagningen har Ayanle, 4 år gammal, just inkommit tillsammans med en släkting till familjen som pratar svenska. Ayanleär född i Somalia och kom som flykting till Sverige för 6 månader sedan. Han söker p g a tilltagande trötthet sedan en vecka tillbaka. Oklart om han gått ner i vikt, men hullet är sparsamt.  Du undersöker en tyst och trött kille med något ikteriska sklerae. Vid hjärtauskultation hör du ett mjukt systoliskt blåsljud grad 2. Buken är mjuk och oöm, levern är förstorad. En kapillär blodanalys visar Hb 86. 
+  * ange 2 dignoser, som skulle kunna kan förklara ayanles anemi o kliniskt misstänkta gulsot
+      * Hemolys, G6PD
+      * sfärocytos
+      * Sickle-cell anemi, 
+  * Blodprover utöver blodstatus, komplettera utredningen bed. Ange 4 relevanta
+      * Bilirubin total
+      * Bilirubin konjugerat
+      * Retikulocyter
+      * Blodutstryk        
+      * haptoglobin
+      * LD
+      * ASAT, ALAT
+      * PKINR
+  * Hur resonerar du kring blåsljudet
+      * Fysiologiskt blåsljud förklarat av anemi
+
+
+
+***Etiologi***
+
+* **Många orsaker till anemi**
+* **Hemolys**
+  * G6PD
+  * Sfärocytos med infektion
+  * autoimmun hemolys
+* **Benmärgsvikt**: bör gå med andra bristande blodkroppar
 
 
 
@@ -7914,6 +8029,17 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * Kronisk ITP drabbar ff a de barn som har ITP debut < 3 års ålder 
   * Nyupptäckt ITP skall alltid behandlas med intravenöst immunglobulin om trombocyttalet är <30 x 109 /l (ref 150 – 400 x 109 /l) 
   * rätt: Trombocyttransfusion bör undvikas till barn med ITP 
+* ITP (immunologisk trombocytopen purpura) och Henoch-Schönlein purpura är två tillstånd som kan orsaka hud-och slemhinneblödningar hos barn, men där patofysiologin, biokemisk bild och kliniken skiljer sig åt.  
+  * Ange ettrelevant exempel för respektive diagnos som belyser skillnader mellan de båda tillstånden avseende...
+  * Laboratoriemässiga fynd (1 p) 
+      * TPK påverkat, ITP
+      * krea påverkat, u-sticka påverkat HSP
+  * KLiniska fynd inspektion hudkostym 
+      * Petekier ITP
+      * Palpabel purpura eller petekier HSP   
+  * Komplikationer (1 p) 
+      * njursvikt
+      * BLödningar
 
 
 
@@ -8625,6 +8751,19 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
       * Blod och slem i avföringen
       * Skrikighet
       * Letargi  
+* **15månader gamla Alvin inkommer till akuten med sina föräldrar pga blod i gossens avföring och buksmärtor.**
+  * Två rimliga kirurgiska differentialdiagnoser
+      * Invagination
+      * Volvolus
+  * Ange ett typiskt anamnestiskt eller kliniskt fynd för differentialdiagnostiskt
+      * Intervallsmärta
+      * Gallfärgade kräkningar
+  * Hur ställs diagnosen för dina differentialdiagnoser
+      * UL-buk för invag, BÖS tillägg
+      * övre passageröntgen
+  * Hur behandlas resp diagnos
+      * Kontrast: kolonröntgen mde kontrast via lavemang,. 
+      * Volvulus: explorativ laparotomi med detorkvering av tarm, lads procedur. 
 
 ### Invagination
 
@@ -11463,7 +11602,7 @@ En kort lista över kliniska manifestationer av CF:
     * Fokalitet, asymmetriskt samt ej tonisk-klonisk som feberkramper tenderar att vara (är?)
     * Tidsspannet, feberkramper upplöses relativt korta tidsperioder (några minuter)
     * Typisk ålder för feberkramp 6mån-4.5åå
-* Kalle, 8 år 
+* **Kalle, 8 år** 
   * som kommer med mamma. Han var på morgonen svårväckt i 10 minuter före frukosten och kissade i sängen vilket han annars inte brukar göra. Några minuter innan mamma skulle väcka honom hörde hon märkliga ljud inifrån Kalles rum. Mamma känner inte igen något av hans nämnda beteende sedan tidigare. Han har lite förkylning sedan ett par dagar och när mamman kollade tempen har han 38 grader. Han är en i övrigt frisk kille som är duktig på fotboll. Kalles status är genomgående helt normalt. Med bakgrund av anamnes och status, vad blir ditt viktigaste steg i utredningen för att eventuellt bekräfta diagnosen? (1 p) 
   * DT skalle 
   * EKG 
@@ -11982,6 +12121,131 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### Andningsstörning
+
+***Presentation***
+
+* Du är förlossningsjour och tar på akutrummet emot en flicka som just förlösts med sugklocka efter upprepade dragningsförsök. Barnet är vid första Apgar-kontroll livlöst och helt slappt. Hon har ingen egenandning och är påtagligt blek. Hon kopplas snabbt upp och monitorn visar en pulsfrekvens på 80 slag per minut. Hon reagerar inte vid kutan stimulering. 
+  * Vad får hon för APGAR-poäng motiver kort
+    * 1p
+  * Asfyxi kriterierna
+    * minst 1 av följande 4 kriterier
+      * A. Minst ett av följande fyra kriterier är uppfyllt:
+      * Apgar vid 10 minuter mindre än eller lika med 5
+      * Pågående hjärt-lung-räddning (inkl. maskventilation) vid 10 minuters ålder.
+      * pH < 7,0 under de första 60 minuterna (arteriellt eller kapillärt blod).
+      * Base excess mindre än eller lika med minus 16 under de första 60 minuterna
+  * När flickan är 6 h gammal är hon snabbandad (AF 80) ochhar näsvingespel. Hon gruntar. Saturationen är 93%. Temp 37,1. 
+  * Nämn 2 sannolika diagnoser som kan förklara andningsstörningen
+    * PAS
+    * MAS
+    * Hjärtsvikt? [check this out ples]
+
+
+
+
+
+#### Allmänt
+
+***Etiologi och patofysiologi***
+
+* Andningsstöring är en av de vanligate orsakerna till att ett nyfött barn behöver vårda på NEO
+* **Fördröjd resorption av lungvätska**: leder till NAS och PAS..
+
+
+
+#### Asfyxi
+
+
+
+***Diagnos***
+
+* A. Minst ett av följande fyra kriterier är uppfyllt:
+
+  * Apgar vid 10 minuter mindre än eller lika med 5
+  * Pågående hjärt-lung-räddning (inkl. maskventilation) vid 10 minuters ålder.
+  * pH < 7,0 under de första 60 minuterna (arteriellt eller kapillärt blod).
+  * Base excess mindre än eller lika med minus 16 under de första 60 minuterna
+
+  
+
+***Kliniska kännetecken***
+
+* Nedkylning
+
+
+
+#### MAS
+
+***Mekonium aspirations syndrom***
+
+
+
+***Kännetecken***
+
+* Andningsproblem
+* Andningsstörning
+* över 34 gestationsveckor
+
+
+
+
+
+#### NAS
+
+
+
+***Kännetecken***
+
+* Transient takypne of the newborn, TTN
+* Snabbt övergående / mild PAS
+
+
+
+***Handläggning***
+
+* Exspektans..
+
+
+
+#### PAS
+
+
+
+***Kännetecken***
+
+* Gruntning
+* indragnignar
+* vätska
+* lätt prematura till fullgångna barn
+* Effektiv sectio riskfaktor
+
+
+
+
+
+***Riskfaktor***
+
+* Prematuritet
+* 
+
+
+
+***Handläggning***
+
+* CPAP
+* överväg infektion
+
+
+
+#### RDS
+
+
+
+
+
+
+
 ### Amning
 
 ### APGAR
@@ -12033,16 +12297,6 @@ En kort lista över kliniska manifestationer av CF:
 #### CTG - kardiotorakografi
 
 * aka cardiothoracography
-
-
-
-### Asfyxi
-
-
-
-***Kliniska kännetecken***
-
-* Nedkylning
 
 ### Early onset infection
 
@@ -12288,90 +12542,6 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### Andningsstörning
-
-
-
-#### Allmänt
-
-***Etiologi och patofysiologi***
-
-* Andningsstöring är en av de vanligate orsakerna till att ett nyfött barn behöver vårda på NEO
-* **Fördröjd resorption av lungvätska**: leder till NAS och PAS..
-
-
-
-#### MAS
-
-***Mekonium aspirations syndrom***
-
-
-
-***Kännetecken***
-
-* Andningsproblem
-* Andningsstörning
-* över 34 gestationsveckor
-
-
-
-
-
-#### NAS
-
-
-
-***Kännetecken***
-
-* Transient takypne of the newborn, TTN
-* Snabbt övergående / mild PAS
-
-
-
-***Handläggning***
-
-* Exspektans..
-
-
-
-
-
-
-
-#### PAS
-
-
-
-***Kännetecken***
-
-* Gruntning
-* indragnignar
-* vätska
-* lätt prematura till fullgångna barn
-* Effektiv sectio riskfaktor
-
-
-
-
-
-***Riskfaktor***
-
-* Prematuritet
-* 
-
-
-
-***Handläggning***
-
-* CPAP
-* överväg infektion
-
-
-
-#### RDS
-
-
-
 
 
 ### Tid intrauterint
@@ -12600,6 +12770,20 @@ En kort lista över kliniska manifestationer av CF:
 
 
 ### Enures
+
+
+
+***Presentation***
+
+* Sandra är snart 5 år gammal. Hon är remitterad till BUMM p g a primär enures. 
+  * Primär och skeundär enures, vad är skillnaden
+      * Primärt enures att man haft en våt period åp 6månader, förutsatt det varit en torr period innan enuresen
+      * Om barnet varit torrt nattetid under mer än 6 månader och därefter börjat sängväta igen, talar man om sekundär enures
+  * Behandlingsvarianter
+      * Larmbehandling
+      * Desmopressin: ADH, minskar nattlig diures. 
+
+
 
 ***Etiologi***
 
@@ -14086,6 +14270,7 @@ Elsa 13 månader inkommer till barnakuten pga kräkningar och diarré. Ärftligh
   * Fotografering, dokumentration av skador på kroppen
   * Ögonbottenspegling (oftalmoskop)
   * Övriga punkter: Koagulationsprover, orosanmälan
+* * misshandel: På barnakuten träffar du Oskar 4 år. Han har tillsammans med sin mamma sökt p g a feber och öronvärk. Du konstaterar en högersidig mediaotit och väljer att avstå antibiotika enligt gällande rutiner. Du noterar att pojken har blåmärken över båda öronen och vid inspektion av hela hudkostymen ser du även två större blåmärken över bröstryggen samt ett som täcker en stor del av det högra lårets baksida. Gossen rör sig med antydd hälta. När du frågor om hur blåmärkena uppstått börjar modern gråta. Du misstänker att pojken kan ha blivit misshandlad. Hur handlägger du fallet vidare? Svara i punktform (2 p)
 
 
 
@@ -14115,22 +14300,24 @@ Elsa 13 månader inkommer till barnakuten pga kräkningar och diarré. Ärftligh
       * Under 16åå
       * symptom över 6v
       * uteslutit andra diagnoser
-* **Du funderar kort på om flickan skulle kunna ha en septisk artrit, men du kommer fram till att den diagnosen är mindre sannolik utifrån anamnes och status.** **b) Förklara med 3 punkter hur du resonerat! (1 p)** 
-  * Duration: leden konstant svullen 4 vecokor. Septisk artrit har ett mer akut förlopp
-  * Afebrilitet
-  * Ej allmänpåverkad
-* **c) Ange 4 relevanta blodprover – utöver Hb, LPK och TPK – du vill beställa som led i den fortsatta utredningen av Suris besvär? (2 p)** 
-  * SR/CRP
-  * ANA
-  * Borrelia serologi
-  * blodstatus + diff
-* **Du får snabbt svar från lab att Siris blodstatus är utan anmärkning. Farmodern är mycket lättad över beskedet, men hon undrar hur ”blodkroppsanalysen” kan se ut om ett barn har blodcancer.** **d) Förklara detta kort för farmodern! (1 p)** 
-  * LÅga nivåer blodkroppar, blodplätter och ofta höga nivåer eller låga nivåer vita blodkroppar
-* Vilke vanligaste barncancertypen
-  * ALL
-* Vilket prov tar man för att bekräfta en misstänkt blodcancer
-  * Benmärgsprov
-* Vilken behandling sätter du in i väntan på återbesäket
+  * **Du funderar kort på om flickan skulle kunna ha en septisk artrit, men du kommer fram till att den diagnosen är mindre sannolik utifrån anamnes och status.** **b) Förklara med 3 punkter hur du resonerat! (1 p)** 
+    * Duration: leden konstant svullen 4 vecokor. Septisk artrit har ett mer akut förlopp
+    * Afebrilitet
+    * Ej allmänpåverkad
+  * **c) Ange 4 relevanta blodprover – utöver Hb, LPK och TPK – du vill beställa som led i den fortsatta utredningen av Suris besvär? (2 p)** 
+    * SR/CRP
+    * ANA
+    * Borrelia serologi
+    * blodstatus + diff
+  * **Du får snabbt svar från lab att Siris blodstatus är utan anmärkning. Farmodern är mycket lättad över beskedet, men hon undrar hur ”blodkroppsanalysen” kan se ut om ett barn har blodcancer.** **d) Förklara detta kort för farmodern! (1 p)** 
+    * LÅga nivåer blodkroppar, blodplätter och ofta höga nivåer eller låga nivåer vita blodkroppar
+  * **Vilke vanligaste barncancertypen**
+    * ALL
+  * **Vilket prov tar man för att bekräfta en misstänkt blodcancer**
+    * Benmärgsprov
+  * **Vilken behandling sätter du in i väntan på återbesäket**
+* Lydia, 5 år gammal, träffar dig på vårdcentralen p g a ett svullet högerknä sedan en vecka tillbaka. Svullnaden har varken ökat eller minskat sedan debuten. Hon har en tydlig hälta, men verkar i övrigt må utmärkt.I status noteras temp 37,2 och ett lätt svullet och antytt värmeökat högerknä -utan rodnad. Hennes medföljande pappa berättar att han läst att man kan drabbas av en ”infektion som sprids från djur till människa och som kan orsaka ledsvullnad.
+  * Sannolik diagnos: borreliaartrit
 
 
 
@@ -14193,6 +14380,12 @@ Ataxic cerebral palsy is due to [...] damage.
   * Rät: Juvenil idiopatisk artrit. Borreliaserologi, Blodstatus, CRP och SR, ANA 
   * Reumatoid artrit. Blodstatus, CRP och SR, Borreliaserologi, Reumafaktor och anti-CCP Juvenil idiopatisk artrit. Borreliaserologi, blodstatus, CRP och SR, Reumafaktor och anti-CCP 
   * Borreliaartrit. Blodstatus, CRP och SR, Borreliaserologi, ANA, Reumafaktor och anti-CCP 
+* Lydia, 5 år gammal, träffar dig på vårdcentralen p g a ett svullet högerknä sedan en vecka tillbaka. Svullnaden har varken ökat eller minskat sedan debuten. Hon har en tydlig hälta, men verkar i övrigt må utmärkt.I status noteras temp 37,2 och ett lätt svullet och antytt värmeökat högerknä -utan rodnad. Hennes medföljande pappa berättar att han läst att man kan drabbas av en ”infektion som sprids från djur till människa och som kan orsaka ledsvullnad.
+  * Pappan berättar också att hans mamma har ”något reumatiska sjukdom som orsakar krokiga fingrar” och han undrar om Lydias ledsvullnad kan vara ett första tecken på barnreumatism. 
+  * Vad svarar du? Motivera kort ditt svar genom att förklara vilka kriterier som måste vara uppfyllda för en JIA-diagnos. (2 p)
+      * UNder 16åå
+      * ledsymptom över 6v
+      * andra orsaker uteslutna
 
 
 
@@ -14247,6 +14440,39 @@ Ataxic cerebral palsy is due to [...] damage.
 * Om inte fungerar man kan skicka remiss till reumatolog för kortisoninjektion. 
 
 
+
+
+
+### Psoriasisartrit
+
+### Reaktiv artrit
+
+
+
+### Septisk artrit
+
+
+
+***Presentation***
+
+* Lydia, 5 år gammal, träffar dig på vårdcentralen p g a ett svullet högerknä sedan en vecka tillbaka. Svullnaden har varken ökat eller minskat sedan debuten. Hon har en tydlig hälta, men verkar i övrigt må utmärkt.I status noteras temp 37,2 och ett lätt svullet och antytt värmeökat högerknä -utan rodnad. Hennes medföljande pappa berättar att han läst att man kan drabbas av en ”infektion som sprids från djur till människa och som kan orsaka ledsvullnad.
+  * Den engagerade och frågvisa pappan har även googlat kort om septisk artritoch undrar om Lydias ledsvullnad kan vara orsakad av en bakteriell infektion. 
+  * Ange två uppgifter som talar emot att flickan drabbats av en septisk artrit. (1 p) 
+      * ingen feber
+      * opåverkat AT
+      * akut insjuk för den
+
+
+
+***Kännetecken***
+
+* Feber
+* AT pvåerkan, allmänpåverkan
+* svullet knä
+
+
+
+***Behandling***
 
 
 

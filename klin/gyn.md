@@ -521,10 +521,17 @@ cerivicit
     * antikolinergika (detrusitol som är tolteridin) 
 * Karin 57 år 2-para söker med ca ett års anamnes på urinträngninngar både dag och natt samt ibland läckage. Läcker oftast inte vid hosta och nysning. Ange tre tänkbara orsaker till hennes symtom. 
   * abe: uvi, tumör, stensjd, neurosjd
+* !! 34åå, 2para
+  * remiss för TVT
+  * Det man ser på bilden är VÄLDIGT STORA URINMÄNGDER, alltså 5L kissar hon per dag!! 
+  * noterar att hon kissar nsätan 1liter vid ett tillfälle!!
+  * Handläggning
+    * Rekommendera att dricka mindre
+  * <img src="./imgs/sam_240421_9LTgq3bwaE.png" alt="9LTgq3bwaE" style="zoom:50%;" />
 
-#### Allmänt
+#### Utredning
 
-##### Utredning
+
 
 **Urininkontinens är ett symptom. Urininkontinens != diagnos**
 
@@ -556,6 +563,7 @@ cerivicit
 * **bukstatus**: utspänd blåsa?
 * **gynekologisk undersökning**: framfall
 * **hostprovokationstest**: hostar med fylld blåsa och eventuellt läckage noteras. 
+  * man använder binda, som man sen väcker,
 * **Bonneys test**: hosttest + häva läckaget med 2 fingrar paracentralt = positivt Bonneys
 
 
@@ -573,7 +581,7 @@ cerivicit
     * blåskapacitet: 300-500mL
     * frekvens: 4-8ggr per dygn
     * dygnsvolym: 1-2L
-* **Blöjvägningstest / väga binda**
+* **Blöjvägningstest / väga binda**: PAD-test, där kvinnor väger sina bindor hemma sj
   * objektifiera läckaget, specifikt
   * väga binda blöja torrt skick
   * viktökning gram = milliliter läckage
@@ -8810,6 +8818,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * rätt: N.peroneus 
 - 38åå, II-para
   * ofta urinläckage vid ansträngning. svårt tömma tarm. globuskänsla (budging). Gyn undersökning visar prolaps både främre och bakre vaginalväggen, 2cm nedom hyminalringen
+- 38åå, IIpara
+  * stor bristning vid första förlossning. globuskänsla. urinläckage. dåligt samliv
+  * bäckenbottenträning och hemövningar. efter 6 mån bättre blåskontroll, läcker urin enbart ansträng. Kan ej hoppa springa pga stort läckage. fortf ej samlag
+  * kvarståend symptom: ansträngningsinkontinens, globuskänsla, vid i slidmynningen, sexuell dysfunktion
+  * undersöking: främre vaginalväggen prolaps och bakre vaginalväggen, tunn perinealkropp. UL bilateral levatoravulsion (att levator lösgjrot sig)
+  * Åtgärer: TVT, och mellangårdsrekonstruktion, letarala suturer framvägg
 
 
 
@@ -8989,6 +9003,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * **Gasinkontinens, flatulensinkontinens**
   * **Avföringsinkontinens, för fast avföring**
   * **Avslutar avföring med finger**: Digital manipulation av vagina, perineum, anus för 
+* **Urinsymptom**
+  * !! **SVÅRT att tömma blåsan, vanligt**
+  * **Framfall, framväggen, tömningsbesvär**: svårare att tömma
+* **Sexuella symptom**
+  * Mindre sexuell aktivitet
+  * sexualfunktion relateard kvinnans kroppsuppfattning
+  * luft i slidan samt vid sex
+  * vidhetskänsla
+
+
 
 
 
@@ -9000,11 +9024,57 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Behandling***
+#### Utredning
 
+* Inkontinens
+  * Anamnes
+  * Miktionsschema, miktionsdagbok: fråga om urininkontinens om de läcker
+  * U-sticka
+  * urodynamisk utredning, använder kateter: cystografi, maximalt uretratrycjk, slutningstryck
+  * UL: väldigt vanligt vid utredning bäckenbotten, 3D-UL, vaginalt och rektalt. 
+  * Hosprovokations-test: hur mkt läckage, med binda som man sen väger
+* **Utredning, diagnostik prolaps**
+  * !! **Anamnes, viktigt**
+  * **Beskriv defekt varje kompartment**
+    * framväggen
+    * bakväggen
+    * vaginaltoppen som kommer ner
+  * **Palpera levatormuskulaturen**
+    * två fingrar i vagina och be krysta och trycka etc. 
+* **Bakväggen**: fråga om symptom
+  * lateral defekt?
+  * Uttänjning?
+  * Levatorskada
+  * Fasciadefekt?
+
+
+
+#### Behandling
+
+- **Konservativ behandling prolaps**
+  - **Bäckenbottenträning**: risken att om man gör för mkt och levatorskada att de får ont. 
+  - **Ringbehandling**: ffa äldre kvinnor; funkar inte bra på cystocele och rektocele
+  - **Östrogenbeh**: lokalt östrogen till perimenopaus och postmenopausala kvinnor. 
+    - östrogen med bäckenbottenträning kan ha effekt, m
+    - men östrogen ensamt har inte så stor effekt enl FL
 - **Kolporafi**: vaginal wall repair, intended för cystocele och rektocele
-- **P-ring**
-- **Plastik**
+- **Kirurgi, FL**
+  - **Framväggsdefekter**
+    - **Midline plication**: öppna framväggen, identifiera pubocervical fascia, att man sätter suturer där
+  - **Bakväggsdefekt**
+    - Risk vagina för trång
+    - **Manchesterplastik, utdaterad**
+    - **Site-specific repair**: man försöker hitta defekten och reparera den (kan vara att man suturerar muskler..)
+  - **Prolaps uterus eller vaginaltoppen, apikal defekt**
+    - **Abdominell sakrokolposuspension**: laparoskopiskt, öppet, robot, fäster mot sakrum
+    - Transvaginal sakrospinosusfixation: kroppens starkaste ligament, drar en sutur via vaginaltoppen till starkaste ligamentet
+    - kolpoklesis: stänger vagina
+    - ileococcygeusplastik, bob schull
+    - mesh, nät: vaginala näöt, fäster mot sakrospinosus som är den starkaste ligamenttet.
+  - **Prolapskirurgi**: väldigt viktigt med anamnesenm
+    - !! symptomorienterat: 
+      - vidhetskänsla: främre plastik kan man göra
+      - prolaps: att man gör lite större  kirurgier etc. 
 
 
 
@@ -9024,7 +9094,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 | <img src="./imgs/sam_240421_c7MwsdLWgR.png" alt="c7MwsdLWgR" style="zoom:50%;" /> | <img src="./imgs/sam_240421_6CFlhY2Bf0.png" alt="6CFlhY2Bf0" style="zoom:50%;" /> |
 | <img src="./imgs/sam_240421_woYhj9fb3e.png" alt="woYhj9fb3e" style="zoom:50%;" /> | <img src="./imgs/sam_240421_gqclnkRQj3.png" alt="gqclnkRQj3" style="zoom:50%;" /> |
 | <img src="./imgs/sam_240421_Or5FCp796I.png" alt="Or5FCp796I" style="zoom:50%;" /> | <img src="./imgs/sam_240421_BdLIUWUFw1.png" alt="BdLIUWUFw1" style="zoom:50%;" /> |
-| <img src="./imgs/sam_240421_n3vTtEkOGi.png" alt="n3vTtEkOGi" style="zoom:50%;" /> |                                                              |
+| <img src="./imgs/sam_240421_n3vTtEkOGi.png" alt="n3vTtEkOGi" style="zoom:50%;" /> | <img src="./imgs/sam_240421_pufmdjwE5W.png" alt="pufmdjwE5W" style="zoom:50%;" /> |
 
 
 

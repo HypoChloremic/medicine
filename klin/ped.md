@@ -4337,6 +4337,14 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+### Antibiotika
+
+
+
+
+
+
+
 ### Allmänt
 
 
@@ -6977,6 +6985,13 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
+***Presentation***
+
+* Flicka inlagd ALB Huddinge p g a gulsot och trötthet. Född v 37 utan komplikationer. Amningen har inte riktigt kommit igång, modern har velat avvakta tillmatning. Vägde 3,16 kg vid födelsen. Väger idag 2,75 kg
+  * 
+
+
+
 ***Etiologi och patofysiologi***
 
 * Agens efter nyföddhetsperiod
@@ -6995,6 +7010,8 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * AF 22>=min
   * mental påverkan
   * systoliskt BT <=100mmhg
+* **Notera**
+  * alla spädbarn
 
 
 

@@ -9100,13 +9100,41 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Ruptur
 
+#### Presentation
+
+* Bristning
+  *  **Annika födde barn för 6 dagar sedan med sugklocka. Hon fick en bristning som på bilden som syddes. På BB mådde hon som förväntat.****Sedan 2-3 dagar har hon fått smärtor i underlivet som blir värre och värre och hon har ckså svårt att gå på toaletten och ha avföring. Det gör så fruktansvärt ont. Hon har så ont att hon har svårt att sitta.**
+  *  Vilken grad bristning på bilden: grad 3
+  *  namnge numrerade strukturerna: 3 sphincter ani externa, 2 bulbus cavernosus. 1 hymen / vestibulum
+  *  <img src="./imgs/gyn_sam_060421_LvkuM1mLqd.png" alt="LvkuM1mLqd" style="zoom:50%;" />
+  *  Infektion?
+
+
+
+
+
+***Gradering***
+
+* Grad1: slemhinna
+* Grad2: slemhinna o muskler i perineum
+* Grad3: analsfinktern utan rektalslemhinnan, beh läkare operation
+* Grad4: hela sfinktermuskeln o rektalslemhinnan, beh läkare operation
+
+
+
+***Utredning och handläggning***
+
+* Inte missa sfinkterskador: Palpera rektalt, ska föreligga god smärtlindring
+* **åtgärdas av läkare i operation**: <u>sfinkter</u>skador, svåråtkomliga grad2 skador
+* **återuppbygg perineum**
+
 
 
 #### Anatomiskt
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
+| <img src="./imgs/gyn_sam_230321_TI0dsB8rAC.png" alt="TI0dsB8rAC" style="zoom: 80%;" /> | <img src="./imgs/gyn_sam_060421_z1S9qMDB9c.png" alt="z1S9qMDB9c" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_sam_060421_LvkuM1mLqd.png" alt="LvkuM1mLqd" style="zoom:50%;" /> |                                                              |
 
 
 
@@ -10382,42 +10410,6 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Bristningar
 
-***Presentation***
-
-* Bristning
-  *  **Annika födde barn för 6 dagar sedan med sugklocka. Hon fick en bristning som på bilden som syddes. På BB mådde hon som förväntat.****Sedan 2-3 dagar har hon fått smärtor i underlivet som blir värre och värre och hon har ckså svårt att gå på toaletten och ha avföring. Det gör så fruktansvärt ont. Hon har så ont att hon har svårt att sitta.**
-  * Vilken grad bristning på bilden: grad 3
-  * namnge numrerade strukturerna: 3 sphincter ani externa, 2 bulbus cavernosus. 1 hymen / vestibulum
-  * <img src="./imgs/gyn_sam_060421_LvkuM1mLqd.png" alt="LvkuM1mLqd" style="zoom:50%;" />
-  * Infektion?
-
-
-
-
-
-***Gradering***
-
-* Grad1: slemhinna
-* Grad2: slemhinna o muskler i perineum
-* Grad3: analsfinktern utan rektalslemhinnan, beh läkare operation
-* Grad4: hela sfinktermuskeln o rektalslemhinnan, beh läkare operation
-
-
-
-***Utredning och handläggning***
-
-* Inte missa sfinkterskador: Palpera rektalt, ska föreligga god smärtlindring
-* **åtgärdas av läkare i operation**: <u>sfinkter</u>skador, svåråtkomliga grad2 skador
-* **återuppbygg perineum**
-
-
-
-| <img src="./imgs/gyn_sam_230321_TI0dsB8rAC.png" alt="TI0dsB8rAC" style="zoom: 80%;" /> | <img src="./imgs/gyn_sam_060421_z1S9qMDB9c.png" alt="z1S9qMDB9c" style="zoom:50%;" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./imgs/gyn_sam_060421_LvkuM1mLqd.png" alt="LvkuM1mLqd" style="zoom:50%;" /> |                                                              |
-
-
-
 
 
 ### CTG
@@ -10820,7 +10812,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Presentation***
+##### Presentation
 
 * <img src="./imgs/gyn_sam_050421_vTyVO1xFIp.png" alt="vTyVO1xFIp" style="zoom: 25%;" />
   * A: Framstupa kronbjudning
@@ -10860,6 +10852,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+##### Allmänt
+
+
+
 ***Terminologi***
 
 * NOTERA: vid vidöppen och framstupa, att det är inte heala ungen som har the direction of framstupa eller vidöppen, utan det är enbart huvudet som har ROTERAT för att få detta
@@ -10867,6 +10863,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Detta förklarar varför huvudet roterar efter att den kommit ut ur vagina, för att man sedan DRAR UT <u>AXELN</u> som är längsmed vagina öppningen och inte TVÄRS. 
 * **Vidöppen**: HALSryggen mot mammas sakrum; HALSrygg mot sakrum
 * **Framstupa**: HALSrygg mot symfysen
+* **Sätesbjudning**
 
 
 
@@ -10876,11 +10873,13 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * hjässbjudning: 5-8% alla förlossningar
   * pannbjudning
   * ansiktsbjudning
+  * !! **70% fallen roterar till framstupa**
 * **Framstupa**
   * kronbjudning (mest flekterad, flexion): 90% av alla förlossningar
   * hjässbjudning
   * pannbjudning
   * ansiktsbjudning (mest deflekterad)
+* **Sätesbjudning**
 
 
 
@@ -10903,6 +10902,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * massag,e varmt bad lindar
     * EDA kan aktuell om ovan inte stillar
   * Krystvärkar redan slutet öppningsskede eftersom det trycker mot bäckenbotten o ändtarm
+* **Sätesbjudning**
 
 
 
@@ -11212,7 +11212,7 @@ ENL FL
 
 
 
-***Presentation***
+##### Presentation
 
 * **Annika är 28 år gammal, är helt frisk och har haft en normal graviditet.** 
   * Hon kom till förlossningsavdelningen under gårdagen med egna värkar. När hon var utplånad och öppen 5 cm kl 01.00 utfördes amniotomi i värkförstärkande syfte. Senare kl 04.00 då ingen progress noterats på tre timmar startades oxytocininfusion som fortsatt pågår. Klockan är nu 20.00 och hon har varit retraherad i 4 timmar. Hon har 5 värkar/10 minuter och CTG är ua. Trots epiduralbedövning är hon mycket trött och önskar att man ska avsluta förlossningen. Vid inre undersökning finner du cervix retraherad, en tjock fostersvulst och vertex precis ovan spinae. Vilket är det mest lämpliga sättet att i nuläget avsluta förlossningen? (1p) 
@@ -12163,7 +12163,47 @@ ENL FL
   * sövning kan hjälpa att lägga ni åtgärderna
   * 
 
+### Smärtstillande
 
+***Flera alternativ***
+
+**Konservativt**
+
+* Värme, 
+* lägesändringar
+* massage
+* bad, dusch
+* akupunktur, akupressur
+
+opiater
+
+Lustgas
+
+
+
+sterila kvaddlar: 
+
+* sprutor sterilt vatten, i huden. kvaddlar sätter fart på kroppens egen smärtlindring. Tar uppmärksamhet fr förlossningssmärtan. Varierar fr person till person
+* ryggslutet, eller nedre magen
+* endorfiner i kroppen.. kroppens egna smärtlindring
+* **Indikation**: Öppningskedet
+* **Tidsintervall**: varannan timme
+* **Fördel**: påverkar inte värkarbete eller fostret, snabbt att sätta in
+* **Nackdelar**: gör ont, blåmärken instick
+* **kontraindik**: spruträdsla, blodförtunnande, blödarsjd, 
+
+
+
+lokalbedövningar
+
+* PDB
+* PCB: paracervikal blockad
+
+
+
+EDA
+
+Spinalbedövning
 
 ### Storlek foster
 
@@ -12263,42 +12303,38 @@ ENL FL
 * Ingen enighet om denna för värksvaghet, när åtgärd, vilken åtgärd och dos oxytocin-dropp
 * Ingen konsensus om hur lång de olika stadieran under förlossnignen bör ta.
 * **Förlängd latensfas** = uppgår över 20h förstöfderska, 12h omföderska
-* **aktiva fasen eller öppningsskedet** = 
-  * 2 av 3 kriterier; 
-    * cervix utplånad och öppen 3-4cm; 
-    * vattenavgång (brusta *fosterhinnor*); 
-    * kvinnan har regelbundna smärtsamma kontraktioner
-  * Varar omkring 6h förstföderska.
-* Utdrivningsskedet: när cervix fullvidgad
-  * inleds med **nedträningsfas**: vara 1-2h.
-  * därefter **utdrivningsfas**: 30min-1h
-* **Tidigare ansetts**: öppningshastighet under aktiv fas var 1cm/h. 
-* **senare forskning**: långsam öppning fram t 6cm, sen accelereras
-  * Nu verkare va 1cm per 4h fram till 7cm
-  * fr 7cm är det 1cm varannan timme
-  * värkstimulering ska kontrolleras varje timme? man ska ha öppning fortsatt
 
 
 
 ***Defintioner värksvaghet***
 
-* **Värkrubbningar under aktiva fasen, delas in i primär och sekundär värksvaghet**
+* **Värkrubbningar under aktiva fasen, **
+  * Primär värksvaghet
+  * Sekundär värksvaghet
 
 
 
-***Primär värksvaghet***
+#### Primär värksvaghet
 
-* **Primär värksvaghet**: värkarbete startar mkt långsamt. Aldrig uppnår öppningshastighet 1cm/h
+* **Primär värksvaghet**: värkarbete startar mkt långsamt. 
+  * **Aldrig startar igång förlossningen**
+  * **Gränsvärden**: 
+    * 1cm per 4h fram t 7cm öppning; fr 5cm? fr 4cm?
+    * 1cm per 2h fr 7cm t full retraktion
+    * **värkstimulerande dropp**; då ska man öppna sig med en viss hastighet också, snabbt.. kontroll varannan timme? varje timme?.. titta Golbarg PM
 * !!! **Vanligaste åtgärd**: kejsarsnitt, för att inte tillräckligt öppna för att kunna förlsa med sugklocka, vertex tenderar vara ovan spinae, etc. 
-* **Komplikationer**: postpartum blödningar (tillhörande de vanligaste orsakerna till att kvinnor dör i sin förlossning, atonisk uterus, blödning etc)
+* **Komplikationer**: 
+  * postpartum blödningar 
+  * (tillhörande de vanligaste orsakerna till att kvinnor dör i sin förlossning, atonisk uterus, blödning etc)
+  * PPH: postpartum hemorrhage (S)
 
 
 
-***Sekundär värksvaghet***
+#### Sekundär värksvaghet
 
 * **Definition**: 
   * **att hon öppnat sig adekvat.**: alltså fullt retraherad, så **öppningsfasen avklarad**
-  * !! **Tid utebliven progress 2-4h**...: detta checka detta med Golbarg Westerlunds PM
+  * !! **Tid utebliven progress 2-4h**...: checka detta med Golbarg Westerlunds PM
   * Men att det efter d inte händer så mkt. 
   * att förlossningen står still efter att patienten öppnat sig
   * alltså patienten är fullt **retraherad**, men att nedträngningen inte fortsätter beyond that. 
@@ -12314,17 +12350,32 @@ ENL FL
 
 
 
-
-
-
+#### Etiologi
 
 ***Riskfaktorer***
 
-* **ålder**
+* FL
+  * **ålder**: över 35åå
+  * **Kortvuxenhet**: under 150cm
+  * **Försföderska**
+  * **Gestationsålder**: över 41v
 * **BMI**: längre tid till aktiv fas om högt
 * **stressad**
 * **förstföderska**
 * **avvikande bjudning**
+
+
+
+
+
+***Etiologi***
+
+* **The force, Power, muskulära faktorn**
+  * **Dåliga värkar, dålig syresättning**: av livmodern som konsekvens
+  * **Ackumulering latktat, sänkt pH väven**
+  * **minskad pH, minskar Ca transport**
+  * **Loopas med svagare värkar**
+  * ond cirkel
 
 
 
@@ -12336,6 +12387,18 @@ ENL FL
 * **Amniotomi**;: alltid innan oxytocinstimulering
 
 
+
+#### Komplikationer värksvaghet
+
+* Foster
+  * Fetal död
+  * asfyxi, syrebrist
+* Maternellt
+  * PPH
+  * fistlar
+  * Inkontinens: urin, avföring
+  * nervskador
+  * kvinnans upplevelse
 
 | <img src="./imgs/gyn_sam_060421_UlrMzQJH74.png" alt="UlrMzQJH74" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_060421_MAZIJZub4o.png" alt="MAZIJZub4o" style="zoom:50%;" /> | <img src="./imgs/sam_240421_T81Rmdnyah.png" alt="T81Rmdnyah" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -12378,6 +12441,15 @@ ENL FL
 
 
 
+***Komplikationer***
+
+* Värkstorm
+* Värksvaghet..
+* Uterusruptur: tidigare snittade ska man vara försiktig med
+* asfyxi foster
+
+
+
 ## Postpartum
 
 ### Blödning
@@ -12397,7 +12469,7 @@ ENL FL
 
 #### Etiologi
 
-* **TTTT**
+* !!! **TTTT**: Tone, Trauma, Tissue, Thrombin
 * !!! **Tone**: <u>uterusatoni</u>, 50-80%
   * **Orsakat av**
     * uttänjd livmoder: 

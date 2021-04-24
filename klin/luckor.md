@@ -94,3 +94,15 @@ beroende på hur akut detta är
 * Meningit kan man ge betapred ((Betametason/Dexametason))
 
 * Osteomyelit
+
+* Låg tröskel för infektionsprover på alla under 3 månader. Man lägger in dessa för minsta lilla om de blir dåliga. Notera dock att man inte ger antibiotika om man enbart gått ned över 10% första veckorna, 
+
+* MAn tar u-sticka innan blåspunktion
+
+* 2 kastade prov över 1år
+
+* under 1år ett kastat prov om det inte visar ngt gör man ingen blåspunktuion men skickar ändå odling. över 1år ska det vara 2 kastade prov för odling sticka båda. 
+
+* Prolongerad ikterus skickas till akuten, värt att notera. 
+
+* A uterina embolisering är fertilitetsbevarande

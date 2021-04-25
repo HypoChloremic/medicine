@@ -2229,9 +2229,9 @@ https://ki.padlet.org/eleonortiblad/u416n0zrxqgqihih
   * blodstatus, 
   * Blodgruppering och 
   * BAS-test
-* UL abdominellt: för att kolla förande fosterdel
-* Odlingar: Vaginalodling, GBS, urinodling, klamydia-gonorré PCR i urin. 
-* Antibiotikaprofylax: erytromycin (skydda mot GBS)
+* **UL abdominellt**: för att kolla förande fosterdel
+* **Odlingar**: Vaginalodling, GBS, urinodling, klamydia-gonorré PCR i urin. 
+* **Antibiotikaprofylax**: erytromycin (skydda mot GBS)
 * Inom 24-48 timmar får alla kvinnor med PROM spontana värkar (PROM kan ske i fullgång, att vattenavgången sker tidigare). 
 * Om tecken på infektion, svår PE, ablatio→ induktion direkt. Hon visar inga tecken på detta. 
 * Steroider för lungmognad. För att steroiderna ska ha effekt måste de få verka i minst 6 timmar. Under den tiden bör man se till att kvinnan inte har värkar så att förlossningen fortskrider. Tractosile kan ges som dropp. Bricanyl kan man testa och se om man får stopp på det. 
@@ -2243,8 +2243,6 @@ https://ki.padlet.org/eleonortiblad/u416n0zrxqgqihih
 
 
 ***Antibiotika***
-
- 
 
 - Antibiotikaprofylax ges vid PPROM fr o m gv 22+0 t o m 32+6 (viss variation mellan svenska kliniker) med [erytromycin](https://www.fass.se/LIF/result?userType=0&query=erytromycin) (kapsel [EryMax](https://www.fass.se/LIF/result?userType=0&query=EryMax)) 250 mg x 4 i 10 dagar. 
 
@@ -2366,14 +2364,14 @@ Intrapartal feber ska behandlas med AB (pip-tass eller cinacef flagyl + paraceta
 
 
 
-v36+0
+**v36+0**
 
 * lägger in henne o ställningstagande iggsättande
 * enda boten preeklampsi är förlossning att bli av med placentan
 
 
 
-sista frågan hur man inducerar förlossningen: 
+**sista frågan hur man inducerar förlossningen:**
 
 * induktionsmetod vi väljer är utifrån BISHOP o cervixmognad (e.g. om helt stängdi ngen poäng med oxytocin, eller )
 * augusta (cytotec förrut?): för att mogna cervix
@@ -2489,7 +2487,8 @@ Utesluta preeklampsi. Man får organpåverkan och därför kollar med koagulatio
 **Vad säger du till Jenny och hur handlägger du fallet nu?** 
 
 * Säger att hon har utvecklat preeklampsi eller havandeskapsförgiftning. Barnet är så pass långt gånget att man kommer vilja inducera förlossningen för att det inte ska bli värre. 
-* Barnet är lite mindre än normalt men det är ingen fara. Man kan tänka sig att det beror på hennes tillstånd. Hon har svår preeklampsi (BT 160/110) vilket är indikation för förlossning från v. 34. 
+* Barnet är lite mindre än normalt men det är ingen fara. Man kan tänka sig att det beror på hennes tillstånd. 
+* Hon har svår preeklampsi (BT 160/110) vilket är indikation för förlossning från v. 34. 
 * Mgsulfat infusion, maternell behandling, har även neuroprotektiv effekt på det lilla barnet men främst är det bevisat hos prematura. Undvika kramper för att det binder Calcium. 
 * Blodtryckssänkande. Man kan höja Trandate. Om BT fortsatt ligger högt så finns det risk för eklampsi 
   Adalat (kalciumantagonist, tillägg) Nifedipin. Kortverkande (tuggtablett) om man snabbt behöver få ner trycket. 
@@ -2990,7 +2989,7 @@ enl läk
 
 
 
-enl läk
+**enl läk**
 
 * prover man tar innan behandling..
   * koagulationsprover: PKINR, APTT, TPK, blodstatus, Hb
@@ -3305,25 +3304,13 @@ HR-HPV är högrisk HPV.
 
 
 
+| <img src="./imgs/gyn_sam_150421_4EIy6vdl80.png" alt="4EIy6vdl80" style="zoom: 67%;" /> | ![QrKDhS0DSq](./imgs/gyn_sam_150421_QrKDhS0DSq.png) | ![cclnmVoBvg](./imgs/gyn_sam_150421_cclnmVoBvg.png) |
+| ------------------------------------------------------------ | --------------------------------------------------- | --------------------------------------------------- |
+|                                                              |                                                     |                                                     |
 
 
-![4EIy6vdl80](./imgs/gyn_sam_150421_4EIy6vdl80.png)
-
-
-
-![QrKDhS0DSq](./imgs/gyn_sam_150421_QrKDhS0DSq.png)
-
-
-
-![cclnmVoBvg](./imgs/gyn_sam_150421_cclnmVoBvg.png)
 
 cancercentrum.se
-
-
-
-
-
-
 
 
 
@@ -3373,7 +3360,9 @@ HPV-vaccin erbjuds alla barn i årskurs 5 inom det allmänna vaccinationsprogram
 
 
 
-Det 4-valenta HPV-vaccinet ingår i högkostnadsskyddet för kvinnor till och med 26 års ålder. Äldre kvinnor, pojkar födda före 2009 och män får själva bekosta vaccinationen. Det 9-valenta HPV-vaccinet ingår inte i högkostnadsskyddet.![img](https://lh5.googleusercontent.com/w6egWw7viGiPE5cRFPDgIU9tYQf_pwWK8kIhQZ3klwLZ5FOUU_Yf_zmH7vAltlQO9qAWEzsxN5wYtoKjGJS_ktqpmmeVmWp1ChV6ef5JCd_kOSVf9CnmHK6WgS2Qyn5cvpOwf89R)
+Det 4-valenta HPV-vaccinet ingår i högkostnadsskyddet för kvinnor till och med 26 års ålder. Äldre kvinnor, pojkar födda före 2009 och män får själva bekosta vaccinationen. Det 9-valenta HPV-vaccinet ingår inte i högkostnadsskyddet.
+
+<img src="https://lh5.googleusercontent.com/w6egWw7viGiPE5cRFPDgIU9tYQf_pwWK8kIhQZ3klwLZ5FOUU_Yf_zmH7vAltlQO9qAWEzsxN5wYtoKjGJS_ktqpmmeVmWp1ChV6ef5JCd_kOSVf9CnmHK6WgS2Qyn5cvpOwf89R" alt="img" style="zoom: 25%;" />
 
 
 

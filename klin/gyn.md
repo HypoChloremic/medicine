@@ -2271,11 +2271,15 @@ cerivicit
 
 
 
+
+
+
+
 ### Endometriecancer och cancerhistorik
 
 ***Allmänt***
 
-* In Swedish population:
+* **In Swedish population**:
   * 13 % women with EC had at least one relative with the same disease. 
   * Relative proportion of endometrial  cancer in famutatiiioner milies from patients with EC was increased compared to general cancer population: 5.5% vs3.05 %
   * 47% of  patients had relatives who were diagnosed with EC cancer before the age of 50 years
@@ -2287,7 +2291,7 @@ cerivicit
 
 * personlig bröstcancer ökar risken för EC, oavsett familjehistoria
 * bröstcancer associerat serös carcinom yngre kvinnor
-* 5% kvinnor serös carcinom hade mutationer i börst ancer gener,
+* 5% kvinnor serös carcinom hade mutationer i börstcancer gener,
 * men endast 2 av 7 hade brsötcance i familjen
 
 
@@ -2680,6 +2684,14 @@ cerivicit
   * hysterektomi
   * enukleation
   * ocklusion av arteria uterina för att minska myomets storlek
+
+
+
+
+
+| <img src="./lectures/gyn_lec/imgs/gyn_sem_z7W9NWz1AR.png" alt=z7W9NWz1AR style="zoom:50%"> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+| solfjädersformad skugga                                      |      |      |
 
 
 
@@ -3421,6 +3433,16 @@ cerivicit
 * **Ulla 66 år söker sin gynekolog då hon undrar om hon har fått framfall för hon får kissa så ofta och tycker att det trycker mot blåsan. Ulla är gift med en man och har fött 3 barn (PN). Kom i klimakteriet när hon var 52 år. Använde östrogenplåster ett par år, nu enbart lokalt i vagina. Har tablettbehandlad hypertoni och är tidigare gallopererad, är för övrigt frisk. Är det något ytterligare du vill veta om Ulla?** 
   * Vid undersökning är buken adipös och palperas mjuk och oöm. Vid gynundersökning är det fina slemhinnor i vagina. Man ser endast en sänkning av främre vaginalväggen men inget typiskt cystocele. Uterus förefaller liten. Till hö fram mot blåsan kan man känna en resistens, knappt knytnävsstor, endast lite öm. Svårt att avgöra om den är mobil eller inte. Ulj visar en hö sidig ovarialcysta på 9 cm diameter med följande utseende. Det finns också en del urin i blåsan
   * <img src="./lectures/gyn_lec/imgs/gyn_sem_VYSv3Vdc2O.png" alt=VYSv3Vdc2O style="zoom:20%">
+  * Unilokulär, ej välavgränsad. Oregelbundna partier med papillära, solida projektioner. 
+  * Diff: malign ovarialcysta, HRT riskfaktor,
+  * ngt ytterligare i UL som stärker misstanke: !! ascites
+  * Markörer man ska ta
+    * över 40åå: CA125 (ovarie), CA19-9 (övre GI-tumör), CA15-3 (bröstcancer), CEA (kolorektal)
+    * under 40åå: ovan + AFP, beta-hcg + + inhibin-b + AMH
+  * Remiss:
+    * DT-thorax/buk leta mets: dock detta kan ske på cancercentrum..
+    * cancercentrum, ställningstagande operation
+    * evt operation hysterektomi-bilateral SOE
 
 
 
@@ -5380,7 +5402,7 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 ***Presentation***
 
-* 31åå pat
+* **31åå pat**
   * **Du är AT-läkare på vårdcentralen och träffar 13-åriga Wilma som är gravid och söker då hon själv misstänker UVI. Hon har haft problem med detta tidigare och känner igen symtomen. I journalen läser du att hon födde sitt första barn prematurt vaginalt efter plötslig värkdebut i vecka 31. Man hittade ingen orsak till den för tidiga födseln. Barnet mår idag bra. Ingen angivelse av sjukdom finns förutom att hon haft upprepade urinvägsinfektioner.****Hon är nu gravid i v29+4. Graviditeten har varit ua. För en vecka sedan var hon på ultraljudsundersökning av cervix och det var bra. De sista dagarna har hon haft lite obehag i buken men sonen har haft maginfluensa. Idag kl 10:00 tilltog besvären från urinblåsa och det känns mera som ett tryck nedåt.** **Vid undersökningen känner du en uterus som drar ihop sig direkt när du palperar.****Bltr 110/70. Urinprov+/0, Nitrit positiv och 3+ vita. Temp 37,8.****A) Hur handlägger du patienten?****B) motivera varför?**
   * **När man undersöker Wilma finner man cervix utplånad och öppen 2cm. Du bedömer att det finns en hög risk för att barnet kan födas prematurt. Wilma utvecklar hög feber 39,5 grader sedan 3 timmar. Febern går inte ner trots antibotik och infusion paracetamol. Hon får tilltagande konstanta smärtor i buken. CTG kurvan har senaste timmen blivit alltmer takykard med frekvenser uppåt 180-200 slag/minut.** 
   * Vilken diagnos misstänker du?
@@ -5388,6 +5410,11 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
     * Mycoplasma hominis, Ureaplasma urealyticum, peptostreptokocker och Bacteroides-arter är de agens som oftast kan identifieras i fostervattnet vid för tidigt värkarbete. Efter PPROM är grupp B-streptokocker och E. coli vanliga orsaker till korioamnionit.
     * Infektion i korion- och amnionhinnor, korioamnionit, innebär fara för både mamma och foster och kräver antibiotikabehandling. Fetal takykardi brukar anges som ett diagnostiskt kriterium. Infektionen predisponerar sannolikt för asfyxi, och feber hos mamman ska alltid föranleda skärpt observation av CTG-mönstret med en lägre tolerans för avvikelser.
     * Fetal anemi är en sällsynt men allvarlig orsak till takykardi. Den kan orsakas av fetal blödning, immunisering eller tvillingtransfusion. Takykardin kan då ses tillsammans med sinusoidalt CTG-mönster.
+* **Mabobeh 20-årig I-grav, 0-para**
+  * Enligt ultraljud gravid vecka 32+1. 
+  * Kommer ursprungligen från Uganda och arbetar nu på ett äldreboende i Stockholm. Pga ryggsmärtor till följd av tunga lyft på arbetet har hon varit sjukskriven en stor del av graviditeten. I övrigt en okomplicerad graviditet. 
+  * Hennes barnmorska på MVC har nu remitterat in henne till förlossningen då hon haft buksmärtor och vattnig flytning sedan ungefär 4 dagar. Blodtryck 120/80, u-sticka 1+ protein.
+  * Två dygn senare får Mabobeh temp 38,3. CRP har stigit till 80 och LPK 12. CTG visar basalfrekvens ca 170 s/min och nedsatt variabilitet.
 
 
 
@@ -6117,12 +6144,13 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Komplikationer till preeklampsi***
 
 * **fetala**
-  * **Relaterat t prematuritet**
+  * **Prematuritet, 40%**
     * Akut uteroplacental insufficiens
     * placental infarkt och eller ablatio
     * intrapartum fetal distress
     * stillbirth - i svåra fall
-  * **Kronisk uteroplacental insufficiens**
+  * **Tillväxthämning**
+    * **Kronisk uteroplacental insufficiens**
     * asymmetrisk and symmetrisk SGA fetuses
     * !!! ***IUGR***: då är det att preeklampsin ger detta, frågan är om IUGR ökar risken för preeklampsi i sin tur
   * **Oligohydramnios**
@@ -6131,11 +6159,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * **fetal hypoxi**
 * **maternella**
   * **medicinska manifestationer**
+    * **Koagulationsrubbning, DIC, HELLP, 15%**
     * **kramper**
     * **cerebral blödning**
-    * **njurar**: oliguri, njursvikt
-    * **lungor**: lungödem
+    * **njurar, 3%**: oliguri, njursvikt
+    * **Hjärtsvikt, lungödem, 3%**
+    * **Eklampsi, 2%**
     * **lever**: leverruptur, ödem, subkapsulär hematom
+    * **kardiomyopati, död, 1%**
   * **obstetriska komplikationer**
     * uteroplacental insufficiens
     * placental ablatio
@@ -6182,27 +6213,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-##### Utredning o handlägg
+***Riskgrupper***
 
-***Utredning och handläggning***
-
-* 
-***GENERELLT***
-  * **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
-  * **Om mamma inte jättesjuk o diffar preeklampsi**
-    * **U-sticka**
-    * **lilla-tox**: Hb, TPK, ALAT, Krea, urat
-  * **svårt sjuk o diffar preeklampsi**
-    * **stora-tox**: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, 
-      * diffa preeklampsi mot HELLP (hemolysis-elevated liver enzymes-low platelet count syndrome)
-* **SCREENING + MÄTMETODER**
-  * 
-  ***Proteinuri***
-    * **BT**: varje besök MVC; sittande, arm hjärthöjd, vila, adekvat bredd, automatisk är rekommenderad
-    * **PROTEINURI**: först på MHV (MHV1-2), 
-    * **RISKFAKTORER FÖR PREEKLAMPSI**: 
-      * screening för proteinuri ske vid VARJE kontroll på MHV
-      * **upprepade +1 eller en 2+**: måste ta alb/krea kvot för kvantifiering 
 * **HÖGRISKGRUPPER**
   * tidg preeklampsi eller eklampsi
   * **autoimm sjd**: SLE, APLS (antifosfolipid)
@@ -6224,29 +6236,106 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * BT över **130mmHg eller 80mmhg** vid **inskrivning**
   * afrikanskt ursprung
   * verifierad obstruktiv sömnapne
-* **HANDLÄGG + ÖVERVAK UNDER GRAV, BT över 140/90**
-  * Kontroll Hb, TPK, ALAT, krea, urat
-  * UL med viktskattning foseter, vid diagnos
-  * misstänkt IUGR uppfölj enl separat PM
-  * liberal sjukskrivning
-  * !!! om inga subjektiva synmptom el organpåverkan, kontroll inom 1 vecka, **därefter 1-3gg/vecka**.
-* **BT150/100 eller subjektiva symptom**
-  * huvudvärk
-  * buksmärtor
-  * organpåverkan
-  * krävs snar handlägg på spec MVC ofta sjukhusvård
-* **Vid slutenvård**
-  * kontrolleras labbprover enl ovan, minst varannan dag
-  * svår preeklampsi/HELLP/pato värden: utvudgad provtagning
-    * leverfunktion: ASAT, bilirubin, LD, albumin, haptoglobin, AT, fibrinogen, APTT, PKINR
-    * Na, K,
-  * UL + viktuppskattning
-  * IUGR separat PM: tillväxthämning
-  * Vätskebalans vid svår preeklampsi
-    * dygnsdiures
-    * max intag vätska: 80mL/tim (2000mL/d)
-  * BT mäts 4gg/d eller enl ordin
-  * CTG 2gg/d
+
+
+
+##### Utredning o handlägg
+
+***Utredning och handläggning***
+
+
+
+***ENL FL***
+
+* **Handläggning vid preeklampsi**
+* **Övervaka mor o foster till förlossning bedöms nödvändig**
+  * BT, labb, symptom, tillväxtultraljud, CTG
+  * Ställningstagande till förlossning vid försämring
+    * ställningstagande gör man kontiuerligt
+    * terapiresistent BT >160/110: att man inte kan behandla ned BT till dettta
+    * kramprisk/svår PE (MG)
+* **När förlösa vid preeklampsi**
+  * **under v23**: avbryt graviditet
+  * **v24-v26**: individuell ställningstagande
+  * **v27-34**: Förlossning EFTER betapredbehandling om uttalad påverkan
+  * **över v34+0**: Förlossning om uttalad påverkan
+  * **över v37+0**: Alltid förlossning även måttlig PE.
+* **Kejsarsnitt sectio ELLER induktion:**
+  * **Induktion:** >=v32 ofta induktion,
+  * **Kontroller under förlossningen**
+    * BT+puls
+    * VUM: vätske-urin-mätning
+    * Reflexer, klonus
+    * Kontinuerligt CTG
+    * labb varje 2-6h
+  * **OBS vätskeretention av oxytocin**: max 2L intag/dag 
+* **Akut behandling svår hypertension**
+  * Adalat po, upprepa 20min
+  * Trandate iv, 20min, om ovan inte funka
+  * hydralazin, kontraind vid SLE
+  * balansera med Ringer eller Efedrin iv
+  * kontinuerlig CTG
+
+
+
+***GENERELLT***
+
+* **Blodtrycksmätningen**: blodtrycksmätning ska ske sittande, för att när liggande på sidan sjunker BT. 
+* **Om mamma inte jättesjuk o diffar preeklampsi**
+  * **U-sticka**
+  * **lilla-tox**: Hb, TPK, ALAT, ASAT, Krea, urat
+* **svårt sjuk o diffar preeklampsi**
+  * **stora-tox**: evf, albumin, na, ka, aptt, fibrinogen, PKINR, ASAT, ALP, LD, Haptoglobin, 
+    * diffa preeklampsi mot HELLP (hemolysis-elevated liver enzymes-low platelet count syndrome)
+
+
+
+**SCREENING + MÄTMETODER**
+
+* 
+***Proteinuri***
+  * **BT**: varje besök MVC; sittande, arm hjärthöjd, vila, adekvat bredd, automatisk är rekommenderad
+  * **PROTEINURI**: först på MHV (MHV1-2), 
+  * **RISKFAKTORER FÖR PREEKLAMPSI**: 
+    * screening för proteinuri ske vid VARJE kontroll på MHV
+    * **upprepade +1 eller en 2+**: måste ta alb/krea kvot för kvantifiering 
+
+
+
+**HANDLÄGG + ÖVERVAK UNDER GRAV, BT över 140/90**
+
+* Kontroll Hb, TPK, ALAT, krea, urat
+* UL med viktskattning foseter, vid diagnos
+* misstänkt IUGR uppfölj enl separat PM
+* liberal sjukskrivning
+* !!! **om inga subjektiva synmptom el organpåverkan**, 
+  * kontroll inom 1 vecka, 
+  * !!! **därefter 1-3gg/vecka**.
+
+
+
+**BT150/100 eller subjektiva symptom**
+
+* huvudvärk
+* buksmärtor
+* organpåverkan
+* krävs snar handlägg på spec MVC ofta sjukhusvård
+
+
+
+**Vid slutenvård**
+
+* kontrolleras labbprover enl ovan, minst varannan dag
+* svår preeklampsi/HELLP/pato värden: utvudgad provtagning
+  * leverfunktion: ASAT, bilirubin, LD, albumin, haptoglobin, AT, fibrinogen, APTT, PKINR
+  * Na, K,
+* UL + viktuppskattning
+* IUGR separat PM: tillväxthämning
+* Vätskebalans vid svår preeklampsi
+  * dygnsdiures
+  * max intag vätska: 80mL/tim (2000mL/d)
+* BT mäts 4gg/d eller enl ordin
+* CTG 2gg/d
 
 
 
@@ -6281,6 +6370,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * calciumblockare
     * 3e hand hydralazin (Apresolin): 25mgx3. kan höjas t 50mgx4
     * kan överväga: metoprolol, visken, amlodipin
+* **Akut förlossning**
+  * 
+
+
+
+
+
+| <img src="./imgs/sam_250421_3kjsForcjK.png" alt="3kjsForcjK" style="zoom:50%;" /> | <img src="./imgs/sam_250421_Bh4tobnwE9.png" alt="Bh4tobnwE9" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
 
 
@@ -6534,11 +6633,61 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Etiologi och patofysiologi***
 
+* The cause of oligohydramnios can be thought of as either decreased production or increased withdrawal. 
+* !! **Amniotic fluid is produced**: by the fetal kidneys and lungs. 
+* **Resorbed**
+  * by the placenta, 
+  * swallowed by the fetus, 
+  * or leaked out into the vagina. 
+* **Chronic uteroplacental insufficiency (UPI) can lead to oligohydramnios**; because the fetus likely does not have the nutrients or blood volume to maintain an adequate glomerular filtration rate. 
+  * UPI is commonly associated with growth-restricted infants. 
+* **Congenital abnormalities of the genitourinary tract**
+  * Can lead to decreased urine production. 
+  * These malformations include renal agenesis (Potter syndrome), 
+  * Polycystic kidney disease, 
+  * obstruction of the genitourinary system. 
+* !!! The most common cause of oligohydramnios is ROM. 
+* **Even without a history of leaking fluid**, the patient should be examined to rule out this possibility.
+* **vattenavgång, pprom, PROM, **
+* **placentainsufficiens**: intrauterin tillväxthämning
+* **överburenhet**
+* **fostermissbildning, anomali**
+* **TTS**: tvillingtransfusionssyndrom
+
+
+
+***Komplikationer***
+
+* Navelsträngsprolaps eller 
+
+* Navelsträngskompression 
+
+* artyrogrypos
+
+* Lunghypoplasi
+
+* prematurfödsel..
+
+* Neonatal sjuklighet: prematuritet, infektion, sepsis...
+
+  
+
+
+
+***Epidemiologi***
+
+* **ROM**: verkar vara vanligaste orsaken till oligohydramnios
+
 
 
 ***Kliniska kännetecken***
 
 
+
+***Handläggning***
+
+* Beror pp etiologi: ROM, IUGR, anomali, överburenhet, placentainsufficiens..
+* 
 
 ### Polyhydramnios TODO
 
@@ -6712,6 +6861,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * CTG med analys korttidsvariabilitet 2-3ggr/vecak
     * viktsattning varannan vecka
     * övreväg förlossning v39+6
+  * **Alina kontaktar själv förlossningen i vecka 35+1 då hon tycker att barnet rör sig mindre. Hon har inga andra nytillkomna symtom. Vid en bedside undersökning med ultraljud ser man ett barn som ligger stilla med ffd huvud. Man konstaterar även en oligohydramnios. CTG patologiskt. Vad är mest lämplig åtgärd?**
+    * Akut sectio. 
 
 
 ***Etiologi***
@@ -6719,28 +6870,43 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Diffa IUGR fr SGA:** titta på grafen nedan. Ser att SGA är om man är under 2.5SD (-22%) i fostervikt. 
   * SGA = gm att titta på delta mellan mättillfännen. Om fostret fortsätter att växa i normal *takt (gradient)* men fortsatt under -2.5SD,
   * iUGR = om det står still mellan mättillfällen, att gradienten = 0 eller liknande. 
-* **Maternella orsaker**:
-  * **kroniska sjd, systemsjukdomar**: duabetes, njursjd, hypertoni, autoimmuna sjd, IBD, anemi
-  * missbruk, rökning, alkohol
-  * preeklampsi
-* **Placentära orsaker**:
-  * defekt anläggning i tidig grav
-  * ablatio
-  * infarkter placenta
-  * velamentös navelsträng: TODO
-* **fetala**
-  * kromosomfel
-  * missbildningar
-  * infektion
+* **Allmänt**
+  * **Maternella orsaker**:
+    * **kroniska sjd, systemsjukdomar**: duabetes, njursjd, hypertoni, autoimmuna sjd, IBD, anemi
+    * missbruk, rökning, alkohol
+    * preeklampsi
+  * **Placentära orsaker**:
+    * defekt anläggning i tidig grav
+    * ablatio
+    * infarkter placenta
+    * velamentös navelsträng: TODO
+  * **fetala**
+    * kromosomfel: trisomi 21, trisomi 18, trisomi 13, Turner
+    * missbildningar
+    * infektion
+* **Infektion**
+  * **Less common causes include intrauterine infections such as**
+    * cytomegalovirus and 
+    * rubella, and 
+    * congenital anomalies such as 
+    * trisomy 21 and 
+    * trisomy 18
+  * Syphilis
+  * Cytomegalovirus
+  * Toxoplasmosis
+  * Rubella
+  * Hepatitis B
+  * HSV-1 or HSV-2
+  * HIV-1
 
-<img src="./imgs/gyn_sam_020421_uMFWQJca1z.png" alt="uMFWQJca1z" style="zoom:50%;" />
+
 
 
 
 ***Epidemiologi***
 
-* 3-4% alla grav tillväxthämmade foster (IUGR + SGA?)
-* perinatal mortalitet 7-10x ökad risk
+* **3-4% alla grav tillväxthämmade foster** (IUGR + SGA?)
+* **perinatal mortalitet 7-10x ökad risk**
 * minimera perinatal risker gm övervaka, optimera förlossningstidpunkt:  (fosterdöd, asfyxi, perinatal hjärnskada, sjuklighet)
 
 
@@ -6755,10 +6921,43 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Utredning och handläggning***
 
 * **Screening, upptäckt tillväxthämning**
-  * **SF-mått följs (V24 och över)**: remiss för viktskattning när den avviker
-  * **Riskpatienter, riskfaktorer, remitteras viktskattning**: tidg SGA barn; kronisk sjd mor; graviditetskomplikationer (preeklampsi) mfl; 
-    * planerar in viktskatning på dessa
+  * **SF-mått följs (V24 och över)**: 
+    * remiss för viktskattning när den avviker
+  * **Rutinmässig viktskattning tredje trimester för riskpatienter, riskfaktorer, remitteras viktskattning**: 
+    * tidg SGA barn; 
+    * kronisk sjd mor; 
+    * graviditetskomplikationer (preeklampsi) mfl; 
+    * !!! planerar in viktskatning på dessa
   * // Rutinmässig 
+* **EFTER VIKTSKATTNINGEN**
+  * **minus upp till -14%**: 
+    * fortsatta kontroller på MVC
+    * ingen viktskattning
+  * **-15% och under**: 
+    * viktskattning varannan vecka
+    * !!! ***flöde*** varje vecka (eller varannan vecka enl abe kan)
+  * **-22% till -29%**
+    * !! Spec-MVC: 
+      * !! **CTG, BT, urinprov 1gg ialla fall**
+  * **-30% eller under**
+    * utred 
+      * infektioner: 
+      * kromosomavvikelse
+      * 
+
+
+
+***Behandling***
+
+* Förlossning v40:
+
+
+
+
+
+| <img src="./imgs/gyn_sam_020421_uMFWQJca1z.png" alt="uMFWQJca1z" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -6831,6 +7030,25 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * instumentell vaginal förlossning?..
 * akut kejsarsnitt
 
+
+
+#### SGA
+
+***Allmänt***
+
+* Small for gestational age
+
+
+
+***Definition***
+
+* -22% på viktskattning
+* kanalföljare
+* determinerad över minst 2viktskattningar antagligen
+* Normalt fostervatten, normala blodflöden
+
+
+
 ### Teratogen
 
 ***Teratogena ämnen***
@@ -6902,13 +7120,15 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Beskriv vilken risk för barnen som är ökad för just denna typ av tvillingar jmf med bild 1? 
   * Tvillingtransfussionsyndrom.
 
+#### Allmänt
+
 
 
 ***Indelningar***
 
-* DC DA: dichorion, diamniotisk
-* MC DA: monochorion, diamniotisk
-* MC MA: monochorion, monoamniotisk
+* **DC DA**: dichorion, diamniotisk
+* **MC DA**: monochorion, diamniotisk
+* **MC MA**: monochorion, monoamniotisk
 
 
 
@@ -6916,7 +7136,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-#### TTS: tvillingtransfusionssyndrom
+#### TTS
 
 ***Allmänt***
 
@@ -10675,8 +10895,6 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * amningsvårtsskydd, bröstkupor
 * pumpmaskin
 
-### Bristningar
-
 
 
 ### CTG
@@ -10785,9 +11003,9 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Avvikande***
 
-* Basal HF: 100-110, 150-170
-* accelerationer, avsaknade
-* decelerationer: variabla okomplicerade 30-60s; variabla okomplicerade amplitud över 60slag
+* **Basal HF**: 100-110, 150-170
+* **accelerationer, avsaknade**
+* **decelerationer**: variabla okomplicerade 30-60s; variabla okomplicerade amplitud över 60slag
 * **Åtgärd**
   * en avvikande parameter + inte klinisk tecken komplikation
     * noggrann observation: kontinuerlig övervakning med CTG eller CTG + EKG
@@ -10812,7 +11030,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Preterminalt***
 
-* så gott som eller helt upphävd variablitet med utan decelerationer
+* Så gott som eller helt upphävd variablitet +- decelerationer
 * 
 
 
@@ -10889,6 +11107,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Annan situation: tocolytica + kejsarsnitt
 
 
+
+### Upphävd variabilitet
+
+***Handläggning***
+
+* Upphävd variabilitet innebär att man måste förlosa direkt
 
 ### Faserna
 
@@ -11043,7 +11267,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Presentation***
 
-* kvinna v38, latensfas
+* **kvinna v38, latensfas**
   * Drabbas av akut frossa + 38.3 grader feber
   * Vad tänker man:
     * Diff förlossningsrelaterad feber, med förlossningsarbete
@@ -11058,16 +11282,31 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Etiologi och patofysiologi***
 
 * Förlossningsarbete: kan leda till att mamman drabbas av feber
+
 * Infektion, uppåtstigande?: här 
+
+  * **Agens i fostervatten vid för tidigt värkarbete**
+
+    * Mykoplasma hominis
+
+    * Ureaplasma urealyticum
+
+    * peptostreptokocker
+
+    * bacteroides-arter
+
+      
 
 
 
 ***Behandling***
 
-* Antipyretika: om febern är under 38.5
+* **Antipyretika**: om febern är under 38.5
   * Kan man få ned febern, går man inte vidare med antibiotika
-* persiterande feber trots antipyretika
-  * antibiotika
+* **persiterande feber trots antipyretika**
+  * piptaz iv
+* **NOTERA**
+  * om det är en prom eller pprom, där man har patienten stående på bensyl-pcg, då ska man byta till piptaz ändå
 
 
 
@@ -12112,7 +12351,37 @@ ENL FL
 
 - Blir ej heller fullgångna, utan man inducerar innan v37
 
+#### Etiologi
 
+***Riskfaktorer***
+
+* **Polyhydramnios**
+  * GDM: ökad diures, varpå polyhydramnios och att säcken spricker. 
+* **Multiparitet**
+* **Cervixinsufficiens**
+* **Infektion**
+* **Invasiva ingrepp**: fosterterapi
+
+
+
+***Komplikationer***
+
+* **pprom i mkt tidig graviditet**: v22-23 exempelvis
+  * Lunghypoplasi: att lungorna inte utvecklas tillräckligt
+  * Artrogrypos
+  * viktigt för lungorna att det finns fostervatten.
+* **prematurfödsel**
+* **neonatal sjuklighet:** 
+  * prematuritet
+  * sepsis
+  * infektion
+* **Intrapartal feber ökar risk för**
+  * asfyxi
+  * neurologiska sequele hos barnet
+
+
+
+#### Handläggning
 
 ***Handläggning och utredning***
 
@@ -12123,8 +12392,10 @@ ENL FL
   * vaginalodling (GBS)
   * CTG fr v23+0
   * bedömning ffd (föregående fosterdel)
-  * !! palpation, endast om stark misstanke förlossningsstart
-* **INTE INDUKTION direkt**: senaste induktionsdag är v37+0. Alltså om pat inte får spontant värkarbete tills dess så inducerar man så sent som v37, inte innan. 
+  * !! **palpation, endast om stark misstanke förlossningsstart**
+  * **Cervixlängd**: normallång cervixlängd talar starkt emot att man kommer att föda för tidigt. 
+* **INTE INDUKTION direkt**: 
+  * senaste induktionsdag är v37+0. Alltså om pat inte får spontant värkarbete tills dess så inducerar man så sent som v37, inte innan. 
   * detta för att man vill att ungen ska vara kvar så länge som möjligt intrauterint
 * **Steroidbehandling**
 * **Antibiotikabehandling**: erymax 10d, sedan intrapartal bensyl, om korionamnionit byter till piptaz
@@ -12147,14 +12418,15 @@ ENL FL
   * v22+0 t 32+6
 * **intrapartal antibiotika, ALLA ska få:** 
   * **inf bensylPC 3gx4, under aktiv förlossning**
-  * **pc allergi**: klindamycin 600mgx3
+  * !! **pc allergi**: klindamycin 600mgx3
   * **symptom, tecken chorionamnioinit: piptaz**
     * **efter odling**: urin, vaginalt, (evt blod)
     * **kvinnan bör i regel förlösas**
+* Antibiotikaprofylax under förlossning är kontraindicerat vid hela hinnor (är associerat med en ökad CP-frekvens).
 
 
 
-### Prematuritet, IUGR, SGA
+### Prematuritet
 
 
 
@@ -12172,6 +12444,22 @@ ENL FL
     * abdominellt UL. 
     * !! CTG
     * !! urinodling: 
+
+
+
+
+
+***Etiologi***
+
+
+
+***Riskfaktorer***
+
+* Flerbörd
+* Missbildning, sjukdom hos foster
+  * polyhydramnios
+* Cervixmätning
+* interkurrenta sjukdomar
 
 
 
@@ -12356,16 +12644,6 @@ ENL FL
 
 
 
-#### IUGR
-
-
-
-
-
-#### SGA
-
-
-
 
 
 
@@ -12493,6 +12771,8 @@ Spinalbedövning
 
 
 <img src="./imgs/gyn_sam_230321_YXnRka0zgg.png" alt="YXnRka0zgg" style="zoom:50%;" />
+
+
 
 
 

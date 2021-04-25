@@ -382,3 +382,11 @@ endometriebiopsi aspirationsbiopsi, om otillräckligt utbyte -> hysteroskopi + p
 
 Orsaker postmenopaus blödning
 <img src="./imgs/gyn_sem_8ixUUKyPNo.png" alt="8ixUUKyPNo" style="zoom:50%;" />
+
+
+KOntroller preeklampsi
+Först ska vi identifiera att patienten har en preeklampsi. Detta förutsätter att vi noterat avvikande BT samt tagit en evt sticka som kan vara avvikande. Har vi ett BT som börjat avvika efter v20 kan det antingen vara grav inducerad hypertoni eller att det är en preeklampsi och distinktionen görs baserat på organpåverkan, där man har en massa organ och värden man följer för att kunna diffa dem. 
+Upptäckten för preeklampsi: besök på MVC -> BT påverkat -> mäter BT igen efte r6h eller nästa dag -> om påverkat, remiss spec-MVC direkt -> inläggning med lilla tox (ASAT, ALAT, TPK, krea, )
+
+
+IUGR utredning: UL

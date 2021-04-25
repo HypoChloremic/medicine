@@ -80,6 +80,16 @@
 
 
 
+#### Akut insättande buksmärta
+
+* X-grav
+* Ovarialtorsion
+* Corpus luteum med blödning
+* Cystruptur
+* Ovulationssmärta
+
+
+
 ### Blödande Corpus luteum
 
 
@@ -5949,7 +5959,12 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Behandling***
 
-* **Indikationer**: verkar som att indikationerna för behandling inte ändras generellt för hypertensiva tillstånd i grav, att 150/105-100 är gränsen för att man vill behandla, antingen systoliskt eller diastoliskt på den nivån ya3ni. 
+* **Indikationer**: 
+  * verkar som att indikationerna för behandling inte ändras generellt för hypertensiva tillstånd i grav, att 
+  * 150/105-100 är gränsen för att man vill behandla, antingen systoliskt eller diastoliskt på den nivån ya3ni.
+* **Medicinskt** 
+  * 1a hand kalciumanatagonister: amlodipine, ipine, adalate
+  * Trandate (labetalol, perifera arteriolära alfa-adrenoreceptorer, minskar perifert motstånd + betablockad hjärta, skyddar fr reflexsympatiskt arbete)
 
 #### Preeklampsi
 
@@ -6263,11 +6278,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Kejsarsnitt sectio ELLER induktion:**
   * **Induktion:** >=v32 ofta induktion,
   * **Kontroller under förlossningen**
-    * BT+puls
-    * VUM: vätske-urin-mätning
-    * Reflexer, klonus
-    * Kontinuerligt CTG
-    * labb varje 2-6h
+    * **BT+puls**
+    * **VUM**: vätske-urin-mätning
+    * **Reflexer, klonus**
+    * **Kontinuerligt CTG**
+    * **labb varje 2-6h**
   * **OBS vätskeretention av oxytocin**: max 2L intag/dag 
 * **Akut behandling svår hypertension**
   * Adalat po, upprepa 20min
@@ -6355,23 +6370,39 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * **kontrollera blodtryck i framtiden**
 * **PROFYLAX**
   * ASA 75mg t ikväll
-  * senast fr v12 fram till v36
-  * Senare insättning kan ha effekt
-  * till HÖGRISKGRUPPER
-  * övervägs vid måttliga riskfaktorer
+    * insättning senast v12, INTE senare än v16..
+    * fram till v36
+    * Senare insättning kan ha effekt
+    * till HÖGRISKGRUPPER
+    * övervägs vid måttliga riskfaktorer
+    * **Effekt**: 
+      * reducerad risk för IUGR
+      * redurad risk för preeklampsi
 * **ANTIHYPERTENSIV BEHANDLING**
-  * Inleds vid: systoliskt >=150 eller diastoliskt >=100
-  * Mål: systoliskt <150 och diastoliskt 80-100
+  * **Inleds vid**: systoliskt >=150 eller diastoliskt >=100
+  * **Mål**: systoliskt <150 och diastoliskt 80-100
     * diabetes, njursjd, annan samsjuk: systoliskt >140 och diastoliskt 80-90
-  * Läkemedel
+  * **Läkemede**
     * 1a hand labetalol (Trandate): startdos 100mgx3. kan höjas t 400mgx4. 
       * överväg kombinationsbeh vid dos >200mgx3
     * 2a hand nifepidine (Adalate): startdos 10mg; via licens för att den inte framställs längre
-      * calciumblockare
+      * !! Kalciumblockare
     * 3e hand hydralazin (Apresolin): 25mgx3. kan höjas t 50mgx4
     * kan överväga: metoprolol, visken, amlodipin
 * **Akut förlossning**
   * 
+
+
+
+##### Uppföljning 
+
+* Kontroller
+  * Blodtryckskontroll
+  * metabol kontrol
+* Ökad risk för 
+  * kardiovasulära sjukdomar i framtiden
+  * preeklampsi nästa graviditet
+  * IUGR för nästkommande barn?
 
 
 
@@ -6541,7 +6572,20 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * epidemiologiskt har risken för detta sjunkit över tid i Sverige, men fortfarande en av de större orsakerna till IUFD.
   * **!! nr3 missbildningar**: denna är en svårbedömd orsak också. samband IUFD-missbildningar svagare än missbildning-tidig neonatal död!!!
   * **gällande infektioner**: svårbedömt också; placenta + foster infek via transplacentär (hematogen) spridning, ELLER via uppåtstigande infektion vaginalt
-    * många olika orsaker t <u>**IUD**</u>: parvovirus B19; cytomegalovirus; toxoplasma; rubella; vissa enterovirus; GBS; E coli; listeria monocytogenes; lues; genital mycoplama; ureaplasma urealyticum; malaria inte ovanlig orsak IUD U-länder; död av maternell sepsis finns beskrivet  
+    * många olika orsaker t <u>**IUD**</u>: 
+      * parvovirus B19; 
+      * cytomegalovirus; 
+      * toxoplasma; 
+      * rubella; 
+      * vissa enterovirus; 
+      * GBS; 
+      * E coli; 
+      * listeria monocytogenes; 
+      * lues; 
+      * genital mycoplama; 
+      * ureaplasma urealyticum; 
+      * malaria inte ovanlig orsak IUD U-länder; 
+      * död av maternell sepsis finns beskrivet  
   * !!**placenta och navelsträngskomplikationer**: inflammation hinnor, inflam navelsträng, förändring uteroplacentär vaskulär insuff, tecken på ablatio; 
   * **navelsträngskomplikationer**: inflam navelsträng; navelsträngsprolaps; navelsträngsomslingring; avvikande navelsträng "koiling" (minskat/ökat vaskulära varv i navelsträng)
   * **massiv fetomaternell blödning**; samband med fetal död. 
@@ -6551,6 +6595,15 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **Intrapartal död:** attribuers till asfyxi, andel itrapartal död av total IUFD har använts som kvalitetsmått inom obstetriken. 
 * **Perinatal mortalitet**: v22-7d efter förlossning
 * **neonatal mortalitet**: första 27d efter födsel
+
+
+
+
+
+***Riskfaktorer***
+
+* **Riskfaktorer**: Hög ålder, tobak, alkohol&koffein konsumption, övervikt och obesitas, sociala faktorer, tidigare utfall. 
+* **Orsaker**: intrauterin tillväxthämning pga placentainsuff. Associerat med preeklampsi, flerbördsgraviditet, missbildningar, kromosomavvikelser men i många fall okänt. 
 
 
 
@@ -6572,12 +6625,35 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * Akut utredning
   * Ultraljud + CTG: determinera fosterstatus snabbt. 
+* **innan går hem en del prover**: 
+  * hitta orsak vf foster dog
+  * prover på mamman: koagrubb, hepatos, preeklampsi, fetomaternell ...
+  * om Rh-negativ o foster pos ska man få profylax innan går hem
+* många par vill få ut den snabbt med kejsarsnitt
+* men forskning att acceptans etc att man ska föda barnet vaginalt, föda barnet, fotografera etc. stötta så långt d går
+* att så normal förlossning som det går. 
+* stor fördel att d e samtycker t obduktion: 
+  * placenta: PAD histologisk, test infektioner, kromosomutredningar
+  * tar hjärtblod nyfödda barnet att om bakterirer i barnets blod
+* sjukskrivning t föräldrarna
+* moderskapsintyug: rätt förädlrapening o stanna hemma
+* uppföljning mpende, och PAD o provsvar etc. 
+* extensiv utrednign i IUFD fallen att kopplade i fler månader t vården
+* stor oro för att hända igen. 
 
 
 
 ***Behandling***
 
+* **Profylax**
+  * Rh-negativ mamma OCH Rh-pos foster -> Rh-profylax innan hemgång
+  * 
 
+
+
+| <img src="./lectures/gyn_lec/imgs/gyn_lec_010421_kt6rrzBNI5.png" alt="kt6rrzBNI5" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -6825,7 +6901,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Presentation***
 
-* !!! Soheila är 25 år 
+* !!! **Soheila är 25 år**
   * och väntar sitt första barn. hon har vistats utomlands i hemlandet under hela sin graviditet och kommer till MVC för inskrivning 30 veckor efter sista mens. hon är i övrigt helt frisk.Barnmorskan noterat ett SF mått som vida överstiger +2SD.
   * Ange minst tre skäl till ökat SF-mått.
     * Felmätning (individuell variationsmätning , tummen på fel ställe), 
@@ -6833,6 +6909,22 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * felberäknat grav längd.
     * Tvillingbörd, 
     * polyhydraminos
+
+
+
+#### Utredningen
+
+***Viktskattningen***
+
+* **Huvudmått**: biparietal diamete
+* **Bukmått**: medelabdominaldiameter
+* **Lårbensmått**: femurlängd
+
+
+
+***Normalintervall***
+
+* normalintervall: +-22% = 2.5SD
 
 
 
@@ -6934,16 +7026,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     * fortsatta kontroller på MVC
     * ingen viktskattning
   * **-15% och under**: 
-    * viktskattning varannan vecka
-    * !!! ***flöde*** varje vecka (eller varannan vecka enl abe kan)
+    * **viktskattning varannan vecka**
+    * !!! **flöde** varje vecka (eller varannan vecka enl abe kan)
+      * **aa uterina**: vilket innebär placentaflödet mammans sida, alltså att man query placentainsufficiens INTE fetal sida.
   * **-22% till -29%**
-    * !! Spec-MVC: 
+    * !! **Spec-MVC**: 
       * !! **CTG, BT, urinprov 1gg ialla fall**
   * **-30% eller under**
-    * utred 
+    * **utred**
       * infektioner: 
       * kromosomavvikelse
-      * 
 
 
 
@@ -6955,9 +7047,18 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-| <img src="./imgs/gyn_sam_020421_uMFWQJca1z.png" alt="uMFWQJca1z" style="zoom:50%;" /> |      |      |
-| ------------------------------------------------------------ | ---- | ---- |
-|                                                              |      |      |
+
+
+| <img src="./lectures/gyn_lec/imgs/gyn_lec_010421_GeXqxnR1HD.png" alt="GeXqxnR1HD" style="zoom:50%;" /> | <img src="./lectures/gyn_lec/imgs/gyn_lec_010421_1FRToRX9v2.png" alt="1FRToRX9v2" style="zoom:50%;" /> | <img src="./lectures/gyn_lec/imgs/gyn_lec_010421_zyDLJaYqLV.png" alt="zyDLJaYqLV" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./lectures/gyn_lec/imgs/gyn_lec_010421_WV9QriQ39L.png" alt="WV9QriQ39L" style="zoom:50%;" /> | <img src="./lectures/gyn_lec/imgs/gyn_lec_010421_Pe7T0JmizI.png" alt="Pe7T0JmizI" style="zoom:50%;" /> | <img src="./lectures/gyn_lec/imgs/gyn_lec_010421_VZPBqZtaWu.png" alt="VZPBqZtaWu" style="zoom:50%;" /> |
+| <img src="./lectures/gyn_lec/imgs/gyn_lec_010421_KqGf8VHpMm.png" alt="KqGf8VHpMm" style="zoom:50%;" /> | <img src="./lectures/gyn_lec/imgs/gyn_lec_010421_YHxbwUwSQc.png" alt="YHxbwUwSQc" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_020421_uMFWQJca1z.png" alt="uMFWQJca1z" style="zoom:50%;" /> |
+
+
+
+
+
+
 
 
 
@@ -9682,6 +9783,21 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### VTE
 
+
+
+***Presentation***
+
+* !! **Fatima, 19 år, lungemboli**
+  * kommer från Burundi, ej svensktalande, studerar på SFI. BMI 26. Har tidigare haft malaria och en del ryggproblem men är för övrigt frisk. Väntar nu sitt första barn. Aktuellt: söker akutmottagningen i vecka 8+0 pga 1 veckas anamnes på ”känsla av hjärtrusning,” andningskorrelerade centrala bröstsmärtor, dyspné. Status: tachypné (25 andetag/min), tachykardi (125 sl/min), antydd halsvenstas.
+  * **Vilka ytterligare frågor ställer du?** 
+  * 
+
+
+
+
+
+
+
 ***Epidemiologi***
 
 * **risk VTE fertil kvinna**: 0.5:100k
@@ -9743,6 +9859,31 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Du måste som läkare göra en polisanmälan innan ni bestämmer vad som ska göras 
   * Du behöver som läkare inte göra en polisanmälan då detta inte var en våldtäkt
   * rätt: Du har en skyldighet att kontakta sociala myndigheter
+
+
+
+
+
+## Farmaka
+
+### Blodtryck
+
+#### Trandate
+
+FD
+
+* perifer block Alfa-adreno: perifer TPR sjunker
+* hjärta beta block: så att reflexsymaptiskt arbete inte startar
+
+
+
+
+
+### Uteruskontraherande
+
+#### Oxytocin
+
+
 
 
 

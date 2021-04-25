@@ -2327,15 +2327,9 @@ Intrapartal feber ska behandlas med AB (pip-tass eller cinacef flagyl + paraceta
 
 **Jenny 28-årig 2-grav, 0-para. Enligt ultraljudsdatering nu gravid i vecka 34+0. Hänvisad till förlossningen från MVC pga blodtryck 160/90 samt 1+ protein i urinen. Man har också noterat att SF-kurvan ligger i underkant. Vid ankomsten till sjukhusets förlossningsmottagning uppmättes blodtrycket 145/90, CTG är normalt och det är normal fostervattenmängd.** 
 
-
-
-<img src="./imgs/gyn_lec_010421_uCtaoerKBe.png" alt="uCtaoerKBe" style="zoom:50%;" />
-
-
-
-
-
-<img src="./imgs/gyn_lec_010421_hJaPMOPfdH.png" alt="hJaPMOPfdH" style="zoom:50%;" />
+| <img src="./imgs/gyn_lec_010421_uCtaoerKBe.png" alt="uCtaoerKBe" style="zoom: 33%;" /> | <img src="./imgs/gyn_lec_010421_hJaPMOPfdH.png" alt="hJaPMOPfdH" style="zoom: 33%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
 
 
@@ -2553,18 +2547,27 @@ TODO lägg in patientfalelt fr slidesesn.
 
 
 
-<img src="./imgs/gyn_lec_010421_GeXqxnR1HD.png" alt="GeXqxnR1HD" style="zoom:50%;" />
+
+
+| <img src="./imgs/gyn_lec_010421_GeXqxnR1HD.png" alt="GeXqxnR1HD" style="zoom:50%;" /> | <img src="./imgs/gyn_lec_010421_1FRToRX9v2.png" alt="1FRToRX9v2" style="zoom:50%;" /> | <img src="./imgs/gyn_lec_010421_zyDLJaYqLV.png" alt="zyDLJaYqLV" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_lec_010421_WV9QriQ39L.png" alt="WV9QriQ39L" style="zoom:50%;" /> | <img src="./imgs/gyn_lec_010421_Pe7T0JmizI.png" alt="Pe7T0JmizI" style="zoom:50%;" /> | <img src="./imgs/gyn_lec_010421_VZPBqZtaWu.png" alt="VZPBqZtaWu" style="zoom:50%;" /> |
+| <img src="./imgs/gyn_lec_010421_KqGf8VHpMm.png" alt="KqGf8VHpMm" style="zoom:50%;" /> | <img src="./imgs/gyn_lec_010421_YHxbwUwSQc.png" alt="YHxbwUwSQc" style="zoom:50%;" /> |                                                              |
+
+
+
+
 
 * KAn finnas large for gestational age: har man accelerande SF-mått eller att kvinnan är fet, kan vara stort foster eller tilltagande polyhydramnios
   * remitterar in för detta ocksp
 
 
 
-<img src="./imgs/gyn_lec_010421_1FRToRX9v2.png" alt="1FRToRX9v2" style="zoom:50%;" />
 
 
 
-<img src="./imgs/gyn_lec_010421_zyDLJaYqLV.png" alt="zyDLJaYqLV" style="zoom:50%;" />
+
+
 
 * kontrollerar blodflöde mammas sida med uterinae, för att placentainsufficiens
   * om inte d, kan vara ett foster som är i den storleken den ska vara (SGA?)
@@ -2573,27 +2576,27 @@ TODO lägg in patientfalelt fr slidesesn.
 
 
 
-<img src="./imgs/gyn_lec_010421_WV9QriQ39L.png" alt="WV9QriQ39L" style="zoom:50%;" />
+
 
 * normalintervall: +-22% = 2.5SD
 
 
 
-<img src="./imgs/gyn_lec_010421_Pe7T0JmizI.png" alt="Pe7T0JmizI" style="zoom:50%;" />
+
 
 * man har ett foster i översta kurvan som var normal sen växte = IUGR
 * man behöver kombinera med olika blodflödesundersökningar. 
 
 
 
-<img src="./imgs/gyn_lec_010421_VZPBqZtaWu.png" alt="VZPBqZtaWu" style="zoom:50%;" />
+
 
 * trisomi21 att det kav vara fel på fostret att den växer sämre, alt att det är placental insuff för dessa. 
 * Viktigaste maternella faktorn: kroniska sjukdomar hypertoni, njursjd, diabetes.
 
 
 
-<img src="./imgs/gyn_lec_010421_KqGf8VHpMm.png" alt="KqGf8VHpMm" style="zoom:50%;" />
+
 
 
 
@@ -2603,7 +2606,7 @@ TODO lägg in patientfalelt fr slidesesn.
 
 
 
-<img src="./imgs/gyn_lec_010421_YHxbwUwSQc.png" alt="YHxbwUwSQc" style="zoom:50%;" />
+
 
 
 
@@ -2863,7 +2866,7 @@ Erbjuds alla kvinnor i sthlm. Är ett komplext ämne. Finns informationsfilm 117
 * Bekräfta med 2 läkare. Omhändertagande. Socialt, psykologiskt (kontakt med kurator osv). Prover vid diagnossättandet. 
 * Efter barnet är fött för att kolla varför det hänt. Barnet till obduktion, placenta på undersökning, blod från hjärtat för att kolla infektioner, kromosomavvikelser. 
 
-![img](https://lh4.googleusercontent.com/bhewJzWpLfnVcVy00qbE5dkjuPf4tb4eM8zPbaDDOFA5P9Ew9C-m9vcb3M4EvFc607haGLsQmQt8xQLE23E8WHRIOVl-CN1sqbQsIrdx24jskSYWmkicANQGXKuLviICUvW8a1Wb)
+<img src="https://lh4.googleusercontent.com/bhewJzWpLfnVcVy00qbE5dkjuPf4tb4eM8zPbaDDOFA5P9Ew9C-m9vcb3M4EvFc607haGLsQmQt8xQLE23E8WHRIOVl-CN1sqbQsIrdx24jskSYWmkicANQGXKuLviICUvW8a1Wb" alt="img" style="zoom:33%;" />
 
 
 
@@ -2922,7 +2925,7 @@ enl läk
 
 
 **Hur vill du utreda patienten och varför? Motivera.** 
-**AT, Saturation, EKG (bröstsmärta). Ömhet bakre kärlsträng undersöka vaden, Blodprover CRP, blodstatus, koagulation, blodgas. BT, temp. Troponin. 
+AT, Saturation, EKG (bröstsmärta). Ömhet bakre kärlsträng undersöka vaden, Blodprover CRP, blodstatus, koagulation, blodgas. BT, temp. Troponin. 
 
 Att ta en d-dimer i det här fallet är ingen idé pga graviditet så kan den vara hög ändå. 
 
@@ -2960,7 +2963,7 @@ enl läk
 
 
 
-![l00kEvOP4g](./imgs/gyn_sam_150421_l00kEvOP4g.png)
+<img src="./imgs/gyn_sam_150421_l00kEvOP4g.png" alt="l00kEvOP4g" style="zoom:50%;" />
 
 
 

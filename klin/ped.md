@@ -2412,7 +2412,264 @@ Enligt ABCDE
 
 
 
-## Endokrinologi
+## Endokrinologi o tillväxt
+
+
+
+### Presentation
+
+* **Wihelm. 2mån, bajsar mkt gul grynigt, har avplanad viktkurva, sen följer längden**
+
+  * VIlka viktiga differentialdiagnoser
+      * Man ska diffa matproblem, svält vid bröstet; infektion; hjärta
+      * Mkt viktigt att tänka på hjärtsvikt ochj infektion
+  * Utredning: genomgående matanamnes, hur mkt äter han, hur många blöjor, hereditet för detta, hur många para, vad har man introducerat i kosten
+  * !! Prover BLODGAS, CRP BLODSTAUS
+  * POX-test, pre och postductal
+  * Dehydreringsbedömnign
+  * Om fortsatt misstanek hjärtsvikt ska man kontakta barnkardiolog
+      * Puls, AF, CRT
+      * Dehydreringsbedömnign
+      * Central och perifer cyanos
+      * auskultatuon
+  * Efterfråga symptom talande för hjätrsivkt. 
+  * Detta är ett uppföljnignsproblem
+  * INLÄGGNINGSFALL: man ska göra uppfödning på inläggningen, vätskning. 
+  * AMNINGS-VIKT på mottagningen, på BUM för att se hur mkt han får i sig.
+  * När längden följer vikt sådär, att längden frotfarande är okej, den är inte altför avvikande att man kan avvakta litet. 
+  * VI SKICKAR IN HONOM. detta är för mkt att droppa
+  * Det är ingen amningspuckel. 
+  * Slutdiagnos: failure to thrive
+  * <img src="./imgs/sam_250421_CTZuXGUCqf.png" alt="CTZuXGUCqf" style="zoom: 33%;" />
+
+* Kevin 6åå Fall 4. Kevin, 6 år Kille med autismspektrumstörning, somatisk frisk.  Inga mediciner. Enligt bokningen har fadern kontaktat BUMM med  önskemål om ”omgående utredning avseende grav kortvuxenhet”. Storebrodern var 10 cm längre i samma ålder.
+
+  * kanalföljare
+      * Fullt välmående gosse. Status ua
+      
+      * !!! Växer på -1.8 SD. TH +0,2 SD; så han växer -2SD fr TH
+      
+      * Far 189 cm (+1,3 SD) och mor 162 cm (-1 SD)
+      
+      * <img src="./imgs/sam_240421_Lv3LS0gvXq.png" alt="Lv3LS0gvXq" style="zoom:50%;" />
+      
+      * !!! enl FL Utredning: Blod-, lever- och njurstatus ua; IGF-1 ua, liksom TGA och TSH/T4
+      
+      * Återbesök
+        
+          * Upprepad biokemisk kontroll vid 9 års ålder ua
+          
+      * | <img src="./imgs/sam_240421_7OpLS7OpCq.png" alt="7OpLS7OpCq" style="zoom: 33%;" /> | <img src="./imgs/sam_240421_mRTCgJYIhI.png" alt="mRTCgJYIhI" style="zoom: 33%;" /> |
+          | ------------------------------------------------------------ | ------------------------------------------------------------ |
+          |                                                              |                                                              |
+      
+          
+      
+      * Om man inte får napp på någon av dessa i basutredningen kan man ligga lite lågt. 
+      
+      * Låg tröskel på basprover. 
+      
+      * Om någon växer snabbt? → pubertetshormoner, har det kommit igång?
+      
+      * Korta flickor → Turner. 
+      
+      * F-calprotektin. IBD. Endokrinologerna brukar vilja veta. De tar det utan stark misstanke IBD. 
+      
+      * 2 årig inte vanligt. 12 åring mer vanligt. 
+      
+      * !!! **ang GH och IGF1**: 
+          * Har man ingen GH brist om normalt IGF-1 så är det som att fylla på ett fullt glas med vatten. 
+          * Så man behandlar IGF1 brist, efter utredning GH dugn
+          * Om normalt IGF1 då behandlar man inte; som att fylla ett fullt glas. 
+          * föreligger GH-brist: behandlar med GH hormon
+          
+      * **Slutsats på denna unge**: var att han hade en alltför ung skelettålder.
+
+* Fall 5. Leif 4 år Gosse som gått på flera tillväxtkontroller på BVC. Bedömts ha haft en amningspuckel under spädbarnsåret. Fysiskt mycket aktiv. Klen aptit, kostråd via dietist har inte gjort någon skillnad. Pappan berättar att han själv var liten som barn och att han kom in i puberteten sent. Du undersöker Leif noga. Han har generellt något klen muskulatur, men ter sig i övrigt fullt frisk. Inga mediciner. Remitterad till BUMM för tillväxtutredning
+
+  * <img src="./imgs/sam_240421_lYzKFZ2Wbs.png" alt="lYzKFZ2Wbs" style="zoom:50%;" />
+  * <img src="./imgs/sam_240421_BN8Hpk5MBh.png" alt="BN8Hpk5MBh" style="zoom:50%;" />
+  * Blod-, lever- och njurstatus ua
+  * TGA och TSH/T4
+  * IGF-1 lågt: iom att man har en tidig. 
+      * Oftast en relativ GH-brist. Total GH-brist ovanligt!
+      * Typfallet: Normal längd och vikt vid födelsen. Långsamt planande längd från 8 mån ålder, vikten ofta normal. Mekanism?
+      * Avviker (ofta) >2 SD från target height
+      * Normalt IGF-1 utesluter GH-brist
+      * Verifierad GH-brist: Killar > flickor. Varför?
+  * Om verifierad brist kan GH-behandling med dagliga subcutana injektioner bli aktuellt - men allt färre barn erbjuds numera behandling
+      * Kostnad?
+      * 100-150 000/år
+  * <img src="./imgs/sam_240421_0RtnBtNjmC.png" alt="0RtnBtNjmC" style="zoom:50%;" />
+  * Observandum när längden går neråt innan vikten. Något endokrint? GH brist? Man ska direkt tänka  GH brist på denna då han faller ut efter 6 mån. Sedan faller han ut och sedan har han lite GH kvar som gör att han växer lite. 
+  * Man gör en GH kurva. Man lägger in barnet med en PVK och så tar man GH varje halvtimme. 
+  * sc GH injektioner
+
+* Fall 6. Dakshak 18 mån Pojke med föräldrar från Bangladesh. Remitterad till BUMM för tillväxtutredning. Föräldrarna anser, liksom du efter undersökning, att barnet förefaller vara fullt friskt. Noggrann anamnes ger heller inga hållpunkter för sjukdom. Pappan är 170,6 cm lång och modern 152,4 cm
+
+  * | <img src="./imgs/sam_240421_rW9XiBouS8.png" alt="rW9XiBouS8" style="zoom:50%;" /> | <img src="./imgs/sam_240421_fnso1PV7fN.png" alt="fnso1PV7fN" style="zoom:50%;" /> |
+    | ------------------------------------------------------------ | ------------------------------------------------------------ |
+    |                                                              |                                                              |
+
+    
+
+  * Utrednings Prov inkl IGF-1! Dietistkontakt (om prover utfaller normala). Återbesök 6mån senare. 
+  
+* Fall 7. Fatima 10 år Flicka med allergisk astma sedan förskoleåldern. Daglig inhalationsbehandling med Flutide. Varit i kontakt med skolsköterskan p g a trötthet och koncentrationssvårigheter sedan några månader. Remitterad till BUMM p g a avplanad längdtillväxt. ”GHbrist?”
+
+  * Provtagning: Basutredning som inkluderar lever, njur, blodsttus, TSH, T4/T3,
+      * TPO är ej basutredning
+  * <img src="./imgs/sam_240421_0l9kIDWmdV.png" alt="0l9kIDWmdV" style="zoom:50%;" />
+  * Provsvar
+      * Blod-, lever- och njurstatus ua.
+      * TSH 147
+      * Fritt T4 0,02
+      * Anti TPO 78
+  * Om Hypthyreios
+      * Förvärvad hypotyreos. Oftast autoimmun thyreoidit (Hashimoto)
+      * Förekommer i alla åldrar, men ovanligt före skolåldern!
+      * Tonårsflickor dominerar
+      * Klen längdtillväxt, ibland enda symptomet. 
+          * Även förstoppning, 
+          * trötthet, 
+          * viktuppgång, 
+          * heshet
+      * Högt TSH och lågt T4. Frikostig kontroll!
+      * Levaxin -> Längd catch-up – men inte alltid fullständig
+      * Andra autoimmuna sjukdomar?
+
+
+
+### Barnets tillväxt
+
+
+
+#### Behandling
+
+***Matning***
+
+* Spädbarn: som inte går upp i vikt ska matas var 3e timme ist för var 4e- vi har ett fall wilhelm ska matas var 3e timme.. 
+
+
+
+
+
+#### Allmänt
+
+***Fysiologi***
+
+* Man ställer in sig på sin kurva inom 2åå, så då kan man variera med kanalernaa
+
+
+
+#### Drivfaktorer
+
+* ***Fetalt***: 30% av adult längd
+  * **uterin miljö**: är drivande för den längden
+* ***Spädbarnsfasen***: 15% av adult längd, representeras under denna fas
+  * **Nutrition**
+  * **Bra hälsa och glädje**
+  * **Thyroidea hormon**
+* ***Barndomen***: 40% av den adulta längden
+  * **genetik**
+  * **bra hälsa och glädje**
+  * **tillväxthormon**, Growth Hormone (GH)
+  * **Thyroidea hormon**
+* ***Pubertet***: 15% av adult längd
+  * **testosteron och östrogen**
+  * **tillväxthormon**, GH
+* ***Könsskillnader***: vuxna män är längre än kvinnor, för att de har en längre barndomsfas + högre peak hastighet tilläxt + tillväxten hävs senare
+
+<img src="./imgs/pedsum_mOWEJiY3vy.png" alt="mOWEJiY3vy" style="zoom: 33%;" />
+
+***Fetalt***
+
+* Snabbaste tillväxtperioden. 
+* Determinerar 30% av den eventuella slutlängden som vuxne
+
+
+
+***Storlek vid födsel***
+
+* **Påverkas av flera faktorer**
+* **mammas storlek**
+* **placental nutrient supply**: Modulerar fetala tillväxtfaktorer
+  * IGF-2
+  * Human placental lactogen 
+  * insulin
+* ***påverkas ej av***: storlek vid födsel är *oberoende* av pappans längd + tillväxthormon (GH)
+* ***Långt gående konsekvenser***: låg storlek vid födsel har en högre sannolikhet för barnet att utveckla obesitas senare i livet. 
+
+
+
+#### Vikt
+
+* ***Spädbarnsåren***: 150-175g/v
+* ***quadrupled weight***: efter 2.5 år...
+* **Viktformler**
+  * 0-1år: 0.5*mån +4
+  * 2-5åå: 2*år + 8
+  * över 5: 3 * år + 7
+
+
+
+
+
+#### !!! Endokrinologiskt
+
+* **fosterfasen**: Insulin kortison.  
+* **spädbarnsfas**: IGF-1, thyroideahormon, insulin, kortison. 
+* **barndomsfas**: tillväxthormon ( from 1,5åå), senare androgener (. From 7åå).  
+* **Pubertetsfas**: könshormoner.
+* I enlighet med olika åldrar
+  * 3 månader, IGF-1, insulin, thyroideahormon, kortisol.  
+  * 4 år, Barndomsfasen: Tillväxthormon 
+  * 12år,  Pubertetsfas: könshormone
+
+
+
+#### Fallande tillväxt
+
+* Fallande längdtillväxt under de första levnadsåren är oftast sekundär till 
+    * undernäring 
+    * och psykosociala faktorer
+    * Bakomliggande medicinsk orsak till kortvuxenhet ses 
+        * hos 20 % av barn med längd < -2 SD och 
+        * hos 50 % vid längd < -3 SD
+
+
+
+
+
+| <img src="./imgs/sam_240421_x0XJLldTw4.png" alt="x0XJLldTw4" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+
+
+#### Utredning
+
+***Vad bör ingå i en tillväxtutredning?***
+
+* **Basutredning:** notera att man tar IGF1 pp basutredning:
+    * **Blodstatus**
+    * **njurstatus**
+    * **leverstatus**
+    * **Thyroideastatus** (TSH, fritt T4)
+    * !! **IGF-1**: notera att den inkluderar basutredning; att man ska ta denna. 
+      * 2-7åå är detta relevant enl Sarah, GH brister bör man få under denna period. 
+      * Efter detta är det PUBERTETSHORMONER som är viktigt för tillväxt
+    * **TGA** (gluten-ak)
+* **Överväg – beroende på barnets ålder & symptom**:
+    * Pubertetshormoner (LH, FSH, östrogen & testosteron): pubertas tard, och precocc
+    * Kromosomodling (kromosomanalys). Turner?
+    * F-calprotektin. IBD?
+    * Skelettröntgen. Skelettålder?
+    * MR hjärna. Hypofystumör?
+
+
 
 ### Diabetes
 
@@ -2563,6 +2820,169 @@ Enligt ABCDE
 
 
 
+
+
+### Fetma
+
+***Presentation***
+
+* **Fall 9. Chantal 13 år Flicka med ADHD och känd övervikt sedan 8 års ålder. Mycket bestämd, hett temperament. Matglad. Enligt modern ”blir hon aldrig mätt”. Ogillar fysisk aktivitet. Just påbörjat behandling med Concerta. Remitterad till BUMM för utredning och behandling av övervikten.**
+
+  * Skrivs in i barnmottagningens obesitasprogram
+
+  * Föräldra- och patientutbildning
+
+  * Årliga läkarkontroller ink provtagning (bl a blodfetter, insulin,glukos) och regelbunden kontakt med ssk (1-4 ggr/år)
+
+  * Motiverande samtal
+
+  * Dietist
+
+  * Sjukgymnastik/träning
+
+  * | <img src="./imgs/sam_240421_wRujmgi3UE.png" alt="wRujmgi3UE" style="zoom:50%;" /> | <img src="./imgs/sam_240421_k30zGsEoyh.png" alt="k30zGsEoyh" style="zoom:50%;" /> |
+      | ------------------------------------------------------------ | ------------------------------------------------------------ |
+      |                                                              |                                                              |
+
+  * **Generellt**
+
+      * Bakomliggande sjukdom ovanligt, ex Prader-Willi
+      * !! **Hereditet** 40-70%
+      * Överrepresentation socialt utsatta områden: av överviktiga & obesa barn i 
+      * Övervikt och fetma
+      * Markant viktökning vid 2-4 års ålder ger ofta kvarstående fetma i vuxenålder
+      * Övervikt -> ökad längdtillväxt, dock ej längre slutlängd
+      * Behandlingsprogram via BVC
+      * !!! Obesa barn (iso-BMI >30) remitteras till BUMM från 4 års ålder 
+
+* Fall 10. Georg 3.5 år Matglad pojke som sökt akut mitt i natten p g a stridor och skällande hosta. God effekt av inhalationsbehandling. Du ska skicka hem barnet, men kastar – som alltid - först ett öga på tillväxtkurvan och noterar att han ökat kraftigt i vikt det senaste året. 
+
+  * <img src="./imgs/sam_240421_VJLpc1UsAi.png" alt="VJLpc1UsAi" style="zoom:50%;" />
+  * Nattvälling, övermatas
+
+
+
+
+
+***Definition***
+
+* BMI grejer
+* Definitioner
+    * Övervikt: iso-BMI >25
+    * Fetma, obesitas: iso-BMI >30
+    * <img src="./imgs/sam_240421_bdwN2AwXUy.png" alt="bdwN2AwXUy" style="zoom:50%;" />
+    * ISO-BMI: en korrigerad BMI för barn utifrån ålder och vikt, 
+
+
+
+
+
+***Utredning och handläggning***
+
+* Notera, iso-BMI gäller för barn
+
+### GH-brist
+
+#### Presentation
+
+* Kevin 6åå Fall 4. Kevin, 6 år Kille med autismspektrumstörning, somatisk frisk.  Inga mediciner. Enligt bokningen har fadern kontaktat BUMM med  önskemål om ”omgående utredning avseende grav kortvuxenhet”. Storebrodern var 10 cm längre i samma ålder.
+
+  * kanalföljare
+
+    * Fullt välmående gosse. Status ua
+
+    * !!! Växer på -1.8 SD. TH +0,2 SD; så han växer -2SD fr TH
+
+    * Far 189 cm (+1,3 SD) och mor 162 cm (-1 SD)
+
+    * <img src="./imgs/sam_240421_Lv3LS0gvXq.png" alt="Lv3LS0gvXq" style="zoom:50%;" />
+
+    * !!! enl FL Utredning: Blod-, lever- och njurstatus ua; IGF-1 ua, liksom TGA och TSH/T4
+
+    * Återbesök
+
+      * Upprepad biokemisk kontroll vid 9 års ålder ua
+
+    * | <img src="./imgs/sam_240421_7OpLS7OpCq.png" alt="7OpLS7OpCq" style="zoom: 33%;" /> | <img src="./imgs/sam_240421_mRTCgJYIhI.png" alt="mRTCgJYIhI" style="zoom: 33%;" /> |
+      | ------------------------------------------------------------ | ------------------------------------------------------------ |
+      |                                                              |                                                              |
+
+      
+
+    * Om man inte får napp på någon av dessa i basutredningen kan man ligga lite lågt. 
+
+    * Låg tröskel på basprover. 
+
+    * Om någon växer snabbt? → pubertetshormoner, har det kommit igång?
+
+    * Korta flickor → Turner. 
+
+    * F-calprotektin. IBD. Endokrinologerna brukar vilja veta. De tar det utan stark misstanke IBD. 
+
+    * 2 årig inte vanligt. 12 åring mer vanligt. 
+
+    * !!! **ang GH och IGF1**: 
+
+      * Har man ingen GH brist om normalt IGF-1 så är det som att fylla på ett fullt glas med vatten. 
+      * Så man behandlar IGF1 brist, efter utredning GH dugn
+      * Om normalt IGF1 då behandlar man inte; som att fylla ett fullt glas. 
+      * föreligger GH-brist: behandlar med GH hormon
+
+    * **Slutsats på denna unge**: var att han hade en alltför ung skelettålder.
+
+* Fall 5. Leif 4 år Gosse som gått på flera tillväxtkontroller på BVC. Bedömts ha haft en amningspuckel under spädbarnsåret. Fysiskt mycket aktiv. Klen aptit, kostråd via dietist har inte gjort någon skillnad. Pappan berättar att han själv var liten som barn och att han kom in i puberteten sent. Du undersöker Leif noga. Han har generellt något klen muskulatur, men ter sig i övrigt fullt frisk. Inga mediciner. Remitterad till BUMM för tillväxtutredning
+
+  * <img src="./imgs/sam_240421_lYzKFZ2Wbs.png" alt="lYzKFZ2Wbs" style="zoom:50%;" />
+  * <img src="./imgs/sam_240421_BN8Hpk5MBh.png" alt="BN8Hpk5MBh" style="zoom:50%;" />
+  * Blod-, lever- och njurstatus ua
+  * TGA och TSH/T4
+  * IGF-1 lågt: iom att man har en tidig. 
+      * Oftast en relativ GH-brist. Total GH-brist ovanligt!
+      * Typfallet: Normal längd och vikt vid födelsen. Långsamt planande längd från 8 mån ålder, vikten ofta normal. Mekanism?
+      * Avviker (ofta) >2 SD från target height
+      * Normalt IGF-1 utesluter GH-brist
+      * Verifierad GH-brist: Killar > flickor. Varför?
+  * Om verifierad brist kan GH-behandling med dagliga subcutana injektioner bli aktuellt - men allt färre barn erbjuds numera behandling
+      * Kostnad?
+      * 100-150 000/år
+  * <img src="./imgs/sam_240421_0RtnBtNjmC.png" alt="0RtnBtNjmC" style="zoom:50%;" />
+  * Observandum när längden går neråt innan vikten. Något endokrint? GH brist? Man ska direkt tänka  GH brist på denna då han faller ut efter 6 mån. Sedan faller han ut och sedan har han lite GH kvar som gör att han växer lite. 
+  * Man gör en GH kurva. Man lägger in barnet med en PVK och så tar man GH varje halvtimme. 
+  * sc GH injektioner
+
+
+
+#### Allmänt
+
+***Etiologi***
+
+* Bristande utsöndring GH-hormon
+
+
+
+***Utrending***
+
+* **Basutredning för tillväxthämning, eller tillväxtavvikelser**
+  * **IGF1**: 2-7åå är detta relevant (dock att man möjligen kan ta den tidigare på ungar, iom att den insöndras fr 8månader)
+    * 2-7åå är detta relevant enl Sarah, GH brister bör man få under denna period. 
+    * Efter detta är det PUBERTETSHORMONER som är viktigt för tillväxt
+  * **TSH, T4/T3**
+  * **Blodstatus**
+  * **njurstatus**
+  * **leverstatus**
+  * **Thyroideastatus** (TSH, fritt T4)
+  * **TGA** (gluten-ak)
+
+
+
+***Behandling***
+
+* **Föreligger GH-brist**: att man behandlar med subcutana GH injektioner
+  * men allt färre barn erbjuds numera behandlingnär i åldern att man väljer att behandla: 
+* **om det är sent, e.g. puberteten så finns det inte så mkt mer tid för att växa, vilket**
+  * !! innebär att det finns en minskad indikation
+  * kalle menar att de som kommer i pubertete sen pubertet remitterar kalle INTE till endokrin för en evt behandling av GH brist,. 
+
 ### Gynekomasti
 
 ***Presentation***
@@ -2597,6 +3017,53 @@ Enligt ABCDE
 
 ### Pubertet
 
+#### Presentation
+
+***Presentation***
+
+* Vilket är första tecknet på normal pubertet hos flickor:
+  * Acneförändringar
+  * rätt: Begynnande brösttillväxt. (abe)
+  * Begynnande menstruationsblödning
+  * Begynnande könsbehåring 
+  * Humörförändringar 
+
+
+
+#### Allmänt
+
+Pubertetsutveckling
+
+| <img src="./imgs/sam_240421_p8SBYBn88Y.png" alt="p8SBYBn88Y" style="zoom:50%;" /> | <img src="./imgs/sam_240421_smgnj4brr8.png" alt="smgnj4brr8" style="zoom:50%;" /> | <img src="./imgs/sam_240421_FDL2LAO1LF.png" alt="FDL2LAO1LF" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
+
+
+
+
+
+
+#### Adenarche != pubertet
+
+***Etiologi***
+
+* Binjurebarkshormon som utsöndras för tidigt, eller tidigt
+
+
+
+***Kännetecken***
+
+* Svettlukt
+
+
+
+***Handläggning***
+
+* Kan vara okej
+* Om det fortgår för länge ska man handlägga patienten
+
+
+
 #### Pubertas praecox - För tidig pubertet
 
 * Man gillar det inte
@@ -2606,14 +3073,14 @@ Enligt ABCDE
 
 ***Presentation***
 
-* isolerad svettlukt eller behåring... klan vara binjurebarkstumör
+* **isolerad svettlukt eller behåring... klan vara binjurebarkstumör**
   * MEN då ska man inte ha tillväxt eller könskognad, detta sker ej med binjurebarksmognad. 
 
 
 
 ***Allmänt***
 
-* Notera att adenarche att binjurebarkspubertet kan ske tidigt, och det kan vara okej
+* **Notera att adenarche att binjurebarkspubertet kan ske tidigt, och det kan vara okej**
   * man gör ej MR hjärna för att man luktar svett
   * utan man ska titta på de andra tecken på pubertet som man ska vara varsam för och uppmärksam. 
 
@@ -2677,30 +3144,49 @@ Enligt ABCDE
 
 
 
+
+
+**Definition pubertas tarda**
+
+* **Flickor**: Ingen brösttillväxt > 13 åå (utebliven Tanner, T<2 över 13åå)
+* **Pojkar**: Testikelvolym < 4 ml > 14 åå (utebliven gonadutv, <G2, över 14åå)
+
+
+
 ***Etiologi och patofysiologi***
 
-* Multifaktoriellt, samt många olika orsaker
-* Heriditet för sen pubertet: dominerar störst, se till att fråga föräldrarna om de hade för sen pubertet
-* ***Anorexia***
-* ***Kronisk sjukdom***
-* ***Hård träning***: både män och kvinnor. 
-* allvarligare diagnoser som ska beaktas
-  * ***CNS-tumör*** (ex kraniofaryngiom): detta att man får utreda.
+* **Multifaktoriellt, samt många olika orsaker**
+* **Heriditet, dominerande** för sen pubertet: dominerar störst, se till att fråga föräldrarna om de hade för sen pubertet
+* **Anorexia**
+* **Kronisk sjukdom**
+* **Hård träning**: både män och kvinnor. 
+* **allvarligare diagnoser som ska beaktas**
+  * **CNS-tumör** (ex kraniofaryngiom): detta att man får utreda.
     * hypofystumör
-  * ***Turners syndrom***
+  * **Turners syndrom**
+* **Pojkar**
+  * **Hereditet**
+  * **Kronisk sjd**
+  * **CNS-tumör**
+* **Flickor**
+  * **Turners**
+  * **Anorexi**
+  * **hård träning**: hypothalam amenorre, hypoganodotrop hypogonadism
 
 
 
-***Utrednin***
+***Utredning***
 
-* Gonadotropiner: bla FSH, LH;
-  * dessa bör dra iväg först. 
-* Könshormoner: östrogen och testosteron
+* **Gonadotropiner**: bla FSH, LH;
+* **Könshormoner**: östrogen och testosteron
   * har man ett testo som börjar dra iväg ibland, då vet man att pubertet är snart igång
 
 
 
 ***Handläggning och utredning***
+
+* Gonadotropiner (bl a LH, FSH)
+* Könshormoner (östrogen, testosteron)
 
 
 
@@ -2709,6 +3195,8 @@ Enligt ABCDE
 * testostoron im inj
 * östrogen plåster
   * många tjejer som avstår. 
+
+
 
 ***Etiologi***
 
@@ -2738,9 +3226,39 @@ Enligt ABCDE
 
 #### Hypothyroidism
 
+
+
+***Presentation***
+
+* Fall 7. Fatima 10 år Flicka med allergisk astma sedan förskoleåldern. Daglig inhalationsbehandling med Flutide. Varit i kontakt med skolsköterskan p g a trötthet och koncentrationssvårigheter sedan några månader. Remitterad till BUMM p g a avplanad längdtillväxt. ”GHbrist?”
+  * Provtagning: Basutredning som inkluderar lever, njur, blodsttus, TSH, T4/T3,
+      * TPO är ej basutredning
+  * <img src="./imgs/sam_240421_0l9kIDWmdV.png" alt="0l9kIDWmdV" style="zoom: 33%;" />
+  * **Provsvar**
+      * Blod-, lever- och njurstatus ua.
+      * TSH 147
+      * Fritt T4 0,02
+      * Anti TPO 78
+  * **Om hypothyreos**
+      * Förvärvad hypotyreos. Oftast autoimmun thyreoidit (Hashimoto)
+      * Förekommer i alla åldrar, men ovanligt före skolåldern!
+      * Tonårsflickor dominerar
+      * Klen längdtillväxt, ibland enda symptomet. 
+          * Även förstoppning, 
+          * trötthet, 
+          * viktuppgång, 
+          * heshet
+      * Högt TSH och lågt T4. Frikostig kontroll!
+      * Levaxin -> Längd catch-up – men inte alltid fullständig
+      * Andra autoimmuna sjukdomar?
+
+
+
 ***Etiologi och patofysiologi***
 
-* **Autimmun-thyroidit**: oftast hos barn att hypothyroidism orsakas av detta. 
+* !! **Autimmun-thyroidit**: oftast hos barn att hypothyroidism orsakas av detta. 
+  * Detta är den vanligaste orsaken
+  * **Hashimotos thyroidit**
 * **Tillväxtsvikt**: growth failure, vanligtvis med excess viktuppgång
 
 
@@ -2752,7 +3270,45 @@ Enligt ABCDE
 
 
 
+### Turners syndrom
 
+***Presentation***
+
+* Fall 8. Sophie 6 år Välmående medicinfri flicka som enligt föräldrarna ”alltid varit liten”. Remitterad från skolsköterskan till BUMM för bedömning. Vid granskning av tidigare journaler ser du att en kollega träffat flickan då hon var drygt 3 år. I bedömningen står det: ”Liten tjej som bedöms vara somatiskt frisk. Tillväxtutredning ua. Modern också liten. Remiss till dietist, i övrigt exspektans. Brevsvar”
+  * <img src="./imgs/sam_240421_848ke3Bb8v.png" alt="848ke3Bb8v" style="zoom:50%;" />
+  * Turners syndrom
+      * Endast flickor
+      * Längd ofta 2 SD under TH
+      * Något korta och lätta vid födelsen
+      * Sen pubertet (utebliven puberte?)
+      * Sterilitet
+      * Stigmata förekommer; bred nacke, lågt hårfäste i nacken, ökat mamillavstånd, mm 
+      * Kromosomanalys visar total eller partiell avsaknad av
+      * ena X kromosomen,
+      * alltså 45X istället för 46XX -> atrofi av ovarier
+      * Utredning: 
+          * Pubertetshormoner: FSH, LH, Östrogen, Testosteron
+      * Behandling:
+      * För att driva längden: Östrogen (pubertetsinduktion) och tillväxthormon
+          * Finns ingen bot för Turner
+          * MAn ger GH trots att ingen brist. 
+      * <img src="./imgs/sam_240421_beLW9dfaOY.png" alt="beLW9dfaOY" style="zoom: 33%;" />
+  * **Du undersöker en nyfödd flicka på BB och noterar att barnet har kuddiga händer och fötter samt lite bred nacke och brett mellan mamillern* Symtomen vid den diagnos du funderar på kan vara diskreta och därför är det ofta svårt att ställa diagnos tidigt och knappt hälften får diagnosen vid födsel Du skickar prov för kromosomanalys för att säkerställa din misstank Vilket av följande alternativ har med störst sannolikhet koppling till den diagnos du misstänke** (1 p) 
+      * Är fertila 
+      * Låga värden Tillväxthormon 
+      * Normal tillväxt 
+      * rätt: Utebliven pubertet 
+      * Ventrikel septum defekt 
+  * **Lisa, 8 år, kommer med sina föräldrar till endokrinmottagningen. Skolläkaren har skrivit remiss vid 1:a klass-undersökning, eftersom Amanda är minst i klassen. Hon växer längs –2,5 SD. Mor och far är 170 respektive 185 cm och flickans äldre syster, som är 10 år, är normalstor. Lisa har varit frisk tidigare förutom ett flertal otiter. I status finner du en flicka med lite lågt sittande hårfäste, lite brett nackfäste och lite brett mellan mamillerna.** 
+      * Vilken diagnos och hur fastställer
+        * Turners
+        * Kromosomanalys
+      * Vad visar undersökningen
+        * asaknad en könsbunden kromosom (X/Y), 
+        * varpå X0 uppsättning
+      * 2 betydelsefulla konsekvenser på sikt för flickan
+        * utebliven pubertet
+        * nedsatt fertiltiet
 
 
 
@@ -10700,27 +11256,6 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
-### Turner's syndrom
-
-***Presentation***
-
-* Du undersöker en nyfödd flicka på BB och noterar att barnet har kuddiga händer och fötter samt lite bred nacke och brett mellan mamillern* Symtomen vid den diagnos du funderar på kan vara diskreta och därför är det ofta svårt att ställa diagnos tidigt och knappt hälften får diagnosen vid födsel* Du skickar prov för kromosomanalys för att säkerställa din misstank* Vilket av följande alternativ har med störst sannolikhet koppling till den diagnos du misstänke* (1 p) 
-  * Är fertila 
-  * Låga värden Tillväxthormon 
-  * Normal tillväxt 
-  * rätt: Utebliven pubertet 
-  * Ventrikel septum defekt 
-* **Lisa, 8 år, kommer med sina föräldrar till endokrinmottagningen. Skolläkaren har skrivit remiss vid 1:a klass-undersökning, eftersom Amanda är minst i klassen. Hon växer längs –2,5 SD. Mor och far är 170 respektive 185 cm och flickans äldre syster, som är 10 år, är normalstor. Lisa har varit frisk tidigare förutom ett flertal otiter. I status finner du en flicka med lite lågt sittande hårfäste, lite brett nackfäste och lite brett mellan mamillerna.** 
-  * Vilken diagnos och hur fastställer
-    * Turners
-    * Kromosomanalys
-  * Vad visar undersökningen
-    * asaknad en könsbunden kromosom (X/Y), 
-    * varpå X0 uppsättning
-  * 2 betydelsefulla konsekvenser på sikt för flickan
-    * utebliven pubertet
-    * nedsatt fertiltiet
-
 
 
 
@@ -15610,8 +16145,8 @@ Ataxic cerebral palsy is due to [...] damage.
 
 ***Etiologi***
 
-* Sekundära orsaker
-  * Diarre: förlust kroppsvatten med inte så mkt elektrolyter. 
+* **Sekundära orsaker**
+  * **Diarre**: förlust kroppsvatten med inte så mkt elektrolyter. 
 
 
 
@@ -15809,74 +16344,6 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 ## Utveckling
-
-### Barnets tillväxt
-
-#### Drivfaktorer
-
-* ***Fetalt***: 30% av adult längd
-  * **uterin miljö**: är drivande för den längden
-* ***Spädbarnsfasen***: 15% av adult längd, representeras under denna fas
-  * **Nutrition**
-  * **Bra hälsa och glädje**
-  * **Thyroidea hormon**
-* ***Barndomen***: 40% av den adulta längden
-  * **genetik**
-  * **bra hälsa och glädje**
-  * **tillväxthormon**, Growth Hormone (GH)
-  * **Thyroidea hormon**
-* ***Pubertet***: 15% av adult längd
-  * **testosteron och östrogen**
-  * **tillväxthormon**, GH
-* ***Könsskillnader***: vuxna män är längre än kvinnor, för att de har en längre barndomsfas + högre peak hastighet tilläxt + tillväxten hävs senare
-
-<img src="./imgs/pedsum_mOWEJiY3vy.png" alt="mOWEJiY3vy" style="zoom: 50%;" />
-
-***Fetalt***
-
-* Snabbaste tillväxtperioden. 
-* Determinerar 30% av den eventuella slutlängden som vuxne
-
-
-
-***Storlek vid födsel***
-
-* **Påverkas av flera faktorer**
-* **mammas storlek**
-* **placental nutrient supply**: Modulerar fetala tillväxtfaktorer
-  * IGF-2
-  * Human placental lactogen 
-  * insulin
-* ***påverkas ej av***: storlek vid födsel är *oberoende* av pappans längd + tillväxthormon (GH)
-* ***Långt gående konsekvenser***: låg storlek vid födsel har en högre sannolikhet för barnet att utveckla obesitas senare i livet. 
-
-
-
-#### Vikt
-
-* ***Spädbarnsåren***: 150-175g/v
-* ***quadrupled weight***: efter 2.5 år...
-* **Viktformler**
-  * 0-1år: 0.5*mån +4
-  * 2-5åå: 2*år + 8
-  * över 5: 3 * år + 7
-
-
-
-
-
-#### !!! Endokrinologiskt
-
-* **fosterfasen**: Insulin kortison.  
-* **spädbarnsfas**: IGF-1, thyroideahormon, insulin, kortison. 
-* **barndomsfas**: tillväxthormon ( from 1,5åå), senare androgener (. From 7åå).  
-* **Pubertetsfas**: könshormoner.
-* I enlighet med olika åldrar
-  * 3 månader, IGF-1, insulin, thyroideahormon, kortisol.  
-  * 4 år, Barndomsfasen: Tillväxthormon 
-  * 12år,  Pubertetsfas: könshormone
-
-
 
 
 
@@ -16198,31 +16665,39 @@ Stadiemässigt vad gäller socialt, emotionellt, beteenderelaterat hos barn, med
    * Misstänkt pylorusstenos, remittera barnet för passageröntgen
    * Misstänkt gastroenterit, ta prov för bakterier och virus från avföring och kräkningar
    * rätt: Misstänkt övermatning, ge råd om matmängder och matningsfrekvens
-*  !!! Felix 7 månader har börjat äta måltider enligt rekommendationer från BVC. Föräldrarna frågar om de kan ge vanlig mjölk som måltidsdryck. De får som svar att man inte rekommenderar komjölk till barn under ett år.Vilketalternativav nedanstående är anledningen till rekommendationen att man skall undvika komjölk till barn < 1 år?(1p)
+*  !!! **Felix 7 månader har börjat äta måltider enligt rekommendationer från BVC. Föräldrarna frågar om de kan ge vanlig mjölk som måltidsdryck. De får som svar att man inte rekommenderar komjölk till barn under ett år.Vilketalternativav nedanstående är anledningen till rekommendationen att man skall undvika komjölk till barn < 1 år?(1p)**
    * Rätt: För hög koncentration av protein och salt
    * För hög koncentration av protein och för lågt av salt
    * För låg koncentration av fett och protein
    * För lite kalorier
    * För låg koncentration av protein och för hög av fett
-* 
 
 
 
-#### Introduktion födoämnen
+#### !! Introduktion födoämnen
 
 * Honung: efter 1åå
+* **Välling**: ungen kan dricka detta fram till 2åå
 
 
 
 #### Bröstmjölk och amning
 
 * Optimal sammansättning
+
 * reducerar infektionsrisk
+
 * förstoppar inte
+
 * mer hygieniskt
+
 * ekonomiskt
+
 * tillgängligt
+
 * anknytning
+
+  
 
 ***Rekommendera: upp t 6mån ålder***
 
@@ -16272,19 +16747,6 @@ Det man bör ge
 * **9år = 30kg**
 * **12år = 40kg**
 * **14år = 50kg**
-
-
-
-### Puberteten
-
-***Presentation***
-
-* Vilket är första tecknet på normal pubertet hos flickor:
-  * Acneförändringar
-  * rätt: Begynnande brösttillväxt. (abe)
-  * Begynnande menstruationsblödning
-  * Begynnande könsbehåring 
-  * Humörförändringar 
 
 
 

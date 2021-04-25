@@ -20,7 +20,7 @@
 
 ### Allmänt
 
-***Presentation***
+### Presentation
 
 * 38-årig kvinna 
   * KK akutmottagningen som för 3 dagar sedan genomgått laparaskopisksterilisering. Hon är tidigare opererad för gallsten, extrauterin graviditet och appendektomerad. Postoperativt har hon inte mått särskilt bra och söker nu pga fortsatta buksmärtor och kräkningar. Det hörs sparsamt med tarmljud. Temp 37,9 grader. 
@@ -47,6 +47,21 @@
       * kostnadsfri behandling
       * Smittspårning
       * vid gc ska patienten
+* **Malin 32 år söker akut för att hon sedan 2 dagar har ordentligt ont till vä i nedre delen av buken som nu förvärrats**
+  * Vilka prover/undersökningar önskar du före undersökningen? Vad vill du veta mera om Malin?
+    * U-hcg, kap-CRP, kap-Hb, u-sticka, temperatur
+    * Mensanamnes
+  * SM 3v sedan! detta kan indikera möjlig corpus luteum cysta rupturerad
+* **Sandra 20 år inkommer akut pga plötsligt insättande buksmärtor. Hon anger VAS 9-10 och kan knappt prata. Hennes mamma som är med säger att hon har haft något liknande tidigare, men inte så ont som nu.** 
+  * Arbetsdiagnos: torsion
+  * Mens var 5:e vecka. Inga preventivmedel, aldrig gravid. Inga infektioner, ingen fast partner. Ont i samband med måltid. Hela magen men mest i nedre delen, illamående och ville kräkas. Smärtan är konstant, ingen blödning. 
+  * Prover före us: u-hcg, u-sticka, kap-CRP, kap-Hb
+  * temp 37, puls 90, bra BT, neg gravtest, U-sticka blank, Hb 110, CRP normalt. 
+  * status: 
+    * bukstatus: spänd, generellt öm
+    * gynus: försiktig gyn us kan göras, ingen blödning, kraftigt öm, över både uterus och adnexa vid palpation
+  * <img src="./lectures/gyn_lec/imgs/gyn_sem_ABViKu3XB8.png" alt=ABViKu3XB8 style="zoom:20%">
+  * Sannolikt follikelcysta med torsion. 
 
 ### Diagnoser
 
@@ -63,9 +78,49 @@
 * PID
 * cystor: follikelcysta
 
-### Ektopisk graviditet
 
-***Presentation***
+
+### Blödande Corpus luteum
+
+
+
+
+
+***Kännetecken***
+
+* **Smärta**
+  * Akut
+  * Efterloppet: inflammation när kroppen ska ta hand om hematomet och blödningen
+
+
+
+***Handläggning och utredning***
+
+* Oftast räcker med observation, utan intervention
+* **Indikation för operation**: 
+  * **Sjunkane Hb**: att vi har ett Hb delta, som fortsätter verka att sjunka
+  * **Står på blodförtunnande**: waran, trombyl..
+* **Handläggning på akuten**
+  * Följa Hb, BT, puls: för att fölka evt förändringar av detta
+  * Man ska vara lite försiktig: Hb lite lågt, retning i buken, vätska i buken. 
+    * Lägga in henne för att kolla hur snabbt Hb sjunker. 
+    * !! Fastande med dropp. 
+  * Smärtlindra + ciklokapron
+* Hb stabilt: under natten, kvällen, morgononen
+  * vet att det inte är en pågående blödning som förvärrats
+  * 
+
+### Cystruptur
+
+***Kännetecken***
+
+* Pang smärta
+* klingar av efter att man fått den initiala smärtan
+* Är dock en diff till en patient med exempelvis torsion
+
+### Ektopisk graviditet, X-grav
+
+#### Presentation
 
 * Linda, en 26-årig
   *  väsentligen frisk kvinna, söker dig på grund av lågt sittande buksmärta med viss utrstrålning mot ryggen och vaginal blödning. Hon lever i ett fast förhållande sedan 2 år och använder kondom som preventivmedel. Linda är 0-gravida. Hon säger att hon har mer ont åt vänster sida nedtill. Hb 90 g/l, Puls 115, Bltr 100/60. Vid bukpalpation finner du en rejält öm buk mer åt vänster. Buken känns också spänd.Gynekologisk undersökning: vid inspektion av vagina ses sparsam blödning ur cervix, uterus något förstorad, vä adnexa känns också förstorat och hon ömmar över detta. 
@@ -168,7 +223,7 @@
         * Motivera din handläggning: En blandning av svaren ovan. 
         * Frågan är om ovarialtorison också är en diff även fast vaginalt ul ej visade det… Och även en brusten corpus luteum är en diff ev.
 
-
+#### Allmänt
 
 ***Allmänt***
 
@@ -199,12 +254,17 @@
 
 ***Utredning och handläggning***
 
+* **status + anamnes**
+* **gyn undersökning**
+* **UL**
+  * **Donut sign**: ett tecken, är X-graviditeten, ser ut som en donut på UL. 
+  * **Vätska FD**: Ser man vätska i fossa douglassi utan ngt ovariellt, ska man misstänka X-graviditet nummer 1
 * **S-hCG**: fördubblas på 2dygn vid viabel intrauterin grav (<= 8v)
   * halveras på 2 dygn vid avsaknad nyproduktion
 
 
 
-***Behandling***
+#### Behandling
 
 * !!! **Exspektans under S-hCG**: förutsätter att det är ej en allvarlig X
   * Hemodynamiskt stabil
@@ -250,6 +310,55 @@
     * notera att grav ofta sitter proximalt om hematomet i tuban. 
     * Vid assisterad befruktning ÖKAS RISKEN FÖR NY TUBAGRAV vid tubotomi, därför använde man inte den. 
     * kvarvarande trofoblast 7%: man måste följa S-hCG tills den nått under ref för att acceptera, annars åter kir eller methotrexate. 
+
+### Ovarietorsion, torsion
+
+***Riskfaktorer för ovarietorsiob***
+
+* Cystor över 5-6cm: ovariet får mer tyngd, och blir enklare för den att torkvera runt sin egen axel
+* Ovarie ligger i fossa vesico-uterina: i.e. mellan uterus och blåsan
+
+
+
+***Etiologi***
+
+* Cystor: Follikelcystor, corpus luteum cystor
+  * Storlek: viktig faktor att beakta
+  * Tid: hur länge cystan stått där, antalet tillfällen den kan torkvera ökar
+
+
+
+***Kännetecken***
+
+* Akut buksmärta
+
+
+
+***Utredning och handläggning***
+
+* **anamnes + status**
+* **gyn us**: försiktigt om det kan göras
+* **UL**: leta efter vätska FD (rupturerat tuba), Cystor
+  * verkar inte som att man kommer att kunan exakt se om ovariet är torkverad på UL
+  * däför kommer man att köra på kliniken antar jag, för att laparoskopera patienten. 
+* **Akut tid för op**: laparoskopiskt
+  * time is ovary
+  * smärtsamt som sjutton: blir syrebrist ovrariellt och nekros
+* **Preoperativ bedömning**: När åt hon senast
+* **Fasta, iv dropp inför operation**: ska inte ha föda i säcken innan operation och nedsövning
+  * **Man kan vänta 6h på en ovarietorsion**: Verkar som att man kan avvakta 6h på en ovarietorsion enl abbe 
+* **Berätta om risker, vad vi misstänker**
+
+
+
+***Behandling***
+
+* **Kirurgiskt**, Laparoskopiskt: 
+  * detorkvera ovariet. 
+  * Göra hål på cysta + px kapsel
+  * Borttagning ovarie: om den är blödande och inflammerad, och inte går att rädda, 
+    * dock ovariet kan återhämta sig trots att den ser död ut
+* **Kirurgiskt**, laparotomiskt: kan förekomma..
 
 ### PID
 
@@ -359,7 +468,7 @@ cerivicit
 
 
 
-### TOA - Tuboovarial abscess TODO
+### TOA 
 
 
 
@@ -389,6 +498,12 @@ cerivicit
   * **Handläggning?**
       * Rundodla, antibiotikaa iv ( tydlig infektionsmisstanke med hög feber, CRP stegring på 120. Ta bort spiral suttit för länge risk för bakterietillväxt. 
       * Inläggning, smärtlindra, ABD UL alternativt CT. Laparaskopi vid terapisvikt.
+
+
+
+***Allmänt***
+
+* Tuboovarial abscess TODO
 
 
 
@@ -1097,6 +1212,24 @@ cerivicit
 
 * **Cykliskt gestagen**: 3-6månader
 * **Kombinerade p-piller**
+* **Enl Semineriet**
+  * **Starta om cykeln**: 
+    * Cykliskt gestagen, 10d 10mg, peroralt, 
+    * kan ges, för att trigger sekretionsfas, varpå stopp kommer att starta om cykeln
+  * **Hormonspiral**: bra blödningskontroll
+  * **P-stav**: viktigt att notera att man inte får den bästa blödningskontrollen med en p-stav, men att den kommer att hindra ovulationerna och hålla slemhinnan tunn. Fortfarande möjligt med stänkblödningar, som är vanligt förekommande, speciellt de första månaderna med behandlingen
+  * **Gestagener**: mellan-piller, dessa kan man också använda men rä väldigt användarboerene
+  * **Kombinerade p-piller**: bättre blödningskontroll än enbart perorala gestagener exempelvis, så kan rekommenderas om patienten inte vill ha en hormonspiral och liknande
+
+
+
+
+
+
+
+| <img src="./imgs/sam_250421_alxkzT6nlU.png" alt="alxkzT6nlU" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -3002,7 +3135,7 @@ cerivicit
 
 ## Cystor
 
-### Allmänt
+### Presentation
 
 ***Presentation***
 
@@ -3034,6 +3167,26 @@ cerivicit
   * **Vilket organ avlägsnar vid operation**
     * Dermoiden bara
     * är den stor tar man bort ovarien också, för att ovariet kan vara skadat. 
+* **Lovisa 25 år **
+  * **söker dig på gynmottagningen pga smärtor i buken sedan nästan ett år. Hon har tidigare sökt hos husläkaren som mest trott på att hon har IBS. Själv undrar hon om det kan finnas en gynekologisk förklaring eftersom smärtan sitter mest i nedre delen av buken.** Slutade med p-piller för ett år sedan, i samband med att smärtan uppkom
+  * **Bukstatus**: Du undersöker henne och finner att buken är mjuk, ingen peritonit, diffust ömt på djupet**Gynstatus**: yttre inspektion, spekulum, bimanuell palpation. undersökar vulva vagina och portio som alla ser bra ut
+  * UL: enkelrummig, homoEKOGEN misstänkt cysta, tydlig avgränsning, FROSTIGT GLAS UTSEENDE, 
+  * <img src="./lectures/gyn_lec/imgs/gyn_sem_9qfbh8ICLA.png" alt=9qfbh8ICLA style="zoom:25%">
+  * Vilka differentialdiagnoser ska man beakta: 
+    * endometriom: stämmer då hon mådde bra på kombinerade piller, samt att smärtan uppkom i samband med p-pill bruket
+    * corpus luteum cysta: helt full med blod i sig, dock den ser mer 3D aktig ut inuti
+    * dermpod
+* **Malin 32 år söker akut för att hon sedan 2 dagar har ordentligt ont till vä i nedre delen av buken som nu förvärrats**
+  * <img src="./lectures/gyn_lec/imgs/gyn_sem_NfkRF6B56i.png" alt=NfkRF6B56i style="zoom: 25%;">
+  * SM 3v sedan, äter inga piller (dock detta utesluter inte att man inte kan få cystor)
+  * Diagnos: corpus luteum cysta
+* 25åå kvinna
+  * inkommer med en veckas anamnes på dyspareuni och blodig flytning. Hormonspiral sedan 2år, inga blödningar överhuvudtaget på den. Har en kvarvarande molande känsla i nedre buk. Evt mer koncentrerat till höger nedre buk. koniserad för hrHPV och cellförändringar på kolposkoi. Tidg klamydia som behandlats också
+  * vid gyn us noteras BV positivitet.
+  * UL
+    * <img src="./imgs/sam_250421_7wRcsuF8rm.png" alt="7wRcsuF8rm" style="zoom: 80%;" />
+  * Diagnos: intern blödinng i corpus luteum cysta, trots ingen ring of fire. satt i fossa vesicouterina. risk för torsion. uppföljande UL öppenvården för att säkerställa att den har resorberats. storleken var kring 6cm därför risk för att torkvera. 
+  * pat informerad att söka akut om det uppkommer symptom med svåra buksmärtor och liknande. 
 
 
 
@@ -3046,7 +3199,11 @@ cerivicit
 
 
 
-<img src="./imgs/gyn_sam_170321_IGDg16V8yL.png" alt="IGDg16V8yL" style="zoom:50%;" />
+#### Etiologi
+
+
+
+<img src="./imgs/gyn_sam_170321_IGDg16V8yL.png" alt="IGDg16V8yL" style="zoom: 25%;" />
 
 
 
@@ -3060,6 +3217,19 @@ cerivicit
 * **Äkta cystor:** 
   * endometriom 
   * benign neioplasi  (dermoid och cystadenom); dessa är benigna
+
+
+
+!! ***Gällande preventivmedel och cystor***
+
+* Enl akuten
+  * Man kan fortfarande få cystor, trots att man står på preventivmedel
+  * **Hormonspiral**: inta alla hormonspiraler har så pass hög penetrans att man får en ovulationshämning. 
+    * Konsekvensen är att man kan bilda cytor
+    * e.g. ett patientfall med en corpus luteum cysta trots att hon stod på hormonspiral och inte hade ngn blödning överhuvudtaget senaste 2åren
+* DOCK: 
+  * med preventivmedel kan det ta lite lägnre tid för cystan att resorberas
+  * alltså är det möjligt att den är kvar trots att man har kvar cystan.
 
 
 
@@ -3186,6 +3356,7 @@ cerivicit
 ***Etiologi och patofysiologi***
 
 * **ektopisk endometrial vävnad i ovarierna**
+* **Malignifiering, <1%**: malignitetsrisk för endometrioscystor är 1% eller lite under
 
 
 
@@ -3197,10 +3368,33 @@ cerivicit
   * dysmenorre
   * dyspareuni
   * infertilitet
+* **UL**
+  * Frostigt glas utseende
+  * hypoekogent dock
+  * murky inuti cystan
 
 
 
+***Utredning och handläggning***
 
+* anamnes + status
+* gyn us
+* UL: 
+  * 
+
+
+
+***Behandling***
+
+* **Farmakologiskt**
+  * För att uppnå mensfrihet (ovulationsfrihet..?)
+  * ? Sedvanlig endometrios behandling: 1a kombinerade p-piller, 2a 
+* **Kirurgiskt**
+  * Risk för att skada ovarierna: AMH sjunker med 38% efter sådana kirurgier (AMH ett tecken på äggreserverna)
+  * Risk behöva ta bort äggstocken
+  * Risk åpverka äggreserven
+  * INTE punktera cystan: recidiverar inom 1år
+* 
 
 ### Funktionell cysta
 
@@ -3224,6 +3418,9 @@ cerivicit
   * malignt tecken: vätska i buken, orörliga förhållanden. Inger malignitetsmisstanke.
   * malignt krit: Solida partier i cystan: INger misttanek om malignitet
   * kan va malignt: Ekofri cysta >5cm: Kan va malignitet, kan va benignt , men cystor över 4,5mm ska genomgå kvalificerat ultraljudsundersökning.
+* **Ulla 66 år söker sin gynekolog då hon undrar om hon har fått framfall för hon får kissa så ofta och tycker att det trycker mot blåsan. Ulla är gift med en man och har fött 3 barn (PN). Kom i klimakteriet när hon var 52 år. Använde östrogenplåster ett par år, nu enbart lokalt i vagina. Har tablettbehandlad hypertoni och är tidigare gallopererad, är för övrigt frisk. Är det något ytterligare du vill veta om Ulla?** 
+  * Vid undersökning är buken adipös och palperas mjuk och oöm. Vid gynundersökning är det fina slemhinnor i vagina. Man ser endast en sänkning av främre vaginalväggen men inget typiskt cystocele. Uterus förefaller liten. Till hö fram mot blåsan kan man känna en resistens, knappt knytnävsstor, endast lite öm. Svårt att avgöra om den är mobil eller inte. Ulj visar en hö sidig ovarialcysta på 9 cm diameter med följande utseende. Det finns också en del urin i blåsan
+  * <img src="./lectures/gyn_lec/imgs/gyn_sem_VYSv3Vdc2O.png" alt=VYSv3Vdc2O style="zoom:20%">
 
 
 
@@ -3234,7 +3431,29 @@ cerivicit
 
 
 
+### Utredning
 
+***Ultaljud***
+
+* Ekogenicitet
+  * Hypo-ekogent: att den är mindre ekogen än uterus
+  * iso-ekogent: att den är lika ekogen som uterus (endometriom)
+  * hyper-ekogent: 
+
+
+
+
+
+***Kännetecken***
+
+* **Benigna cystor**
+  * Follikelcysta: mer svart, ekofattig
+  * corpus luteum: ej långvariga besvär, kan ha blod i sig, färsk blödning kan se 3D komplex ut inuti, 
+  * Torsion: patientne kommer mer akut
+  * Teratom: man ser ofta hårstrån eller kalk, som ger skuggor och vita stråkg
+  * Endometriom: frosty-look utseende
+* **Benign kriterier**: Uniockulär, inget blodflöde, uniform, liten storlek
+* **Maligna kriterier**: Solida delar, papillära projektioner, excerenser, ökat blodflöde, stor storlek, multilockulerade, ascites. 
 
 ## Endokrinologi
 
@@ -3382,6 +3601,18 @@ cerivicit
 * Huvudvärk
 * Rädsla för cancer
 * obs viktökning ej biv av HRT (stark evidens)
+
+
+
+### Farmaka o endo effekt
+
+#### NSAID
+
+***Påverkan***
+
+* NSAID kan minska östrogen produktion indirekt..
+
+
 
 ### Prolaktinemi
 
@@ -3977,8 +4208,6 @@ cerivicit
 ***Utredning och handläggning***
 
 ***Behandling***
-
-
 
 
 
@@ -6894,11 +7123,44 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Endometrie relaterat
 
 
-### Endometrios
 
-***Presentation***
+#### Adenomyos
+
+***Etiologi***
+
+* Endometrios som djupare in i uterusväggen
+* belägen i MYOMETRIET
+
+
+
+***Diagnos***
+
+* UL
+* MR
+
+
+
+***Kännetecken***
+
+* Dysmenorre: typiskt
+* RMB, långdragna menstruationer
+
+
+
+***Behandling***
+
+* Hormonell
+* Kirurgiskt: 
+  * Hysterektomi
+
+
+
+#### Endometrios
+
+##### Presentation
 
 * **1 altern korr**
   * Misstanke om endometrios skall alltid verifieras med laparoskopi
@@ -6944,8 +7206,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * Kombinerade p-piller 
   * Opiod i tillägg till paracetamol och NSAID
 
-
-
+##### Allmänt
 
 ***Etiologi och patofysiologi***
 
@@ -7087,7 +7348,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-***Behandling***
+##### Behandling
 
 * **Enl FL**
   * ***Behandlingstrappa***
@@ -7145,7 +7406,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
         * Blöder det ändå eller börjar blöda återgår t en tablett dagligen -> görs uppehåll i 4d
       * **amenorre, ingen bortre gräns**
       * **andra monofasiska p-piller**: zoley, el fasiska qlaira
-      * **vid kontraindik p-piller**: kan sättas över på gestagen, visanne, ell GnRH analog; samråd med endometriosteam
+      * !! **vid kontraindik p-piller**: kan sättas över på gestagen, visanne, ell GnRH analog; samråd med endometriosteam
     * **Gestagen**: MPA föreslagsivs (provera, depo-provera)
       * **startdos 10-20mg**
       * **target 5-50mg**
@@ -7180,13 +7441,13 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * **Hormonell behandling efter kirurgi, tills vidare**
     * **erbjudas kurator o sjukgymnast. diskutera endometriosläkare innan remiss**
   
-* Sedvanlig anamnes: att man direkt börjar med farmakologisk behandling, för att sedan följa upp för effekt. 
+* **Sedvanlig anamnes**: att man direkt börjar med farmakologisk behandling, för att sedan följa upp för effekt. 
 
-* Graviditetsönskan:
+* **Graviditetsönskan**:
 
-* - att man upphör med sin endometriosbehandling för att försöka få barn
-  - Smärtstillande under uppehållet: NSAID? Paracetamol? TODO
-  - Alterantivet: nedreglerar endometriosen med GnRH analoge (detta är som att inducera en menopaus hos patienten, att den drar ned på allt) varpå man hormonstimulerar ovarierna 
+  * att man upphör med sin endometriosbehandling för att försöka få barn
+  * Smärtstillande under uppehållet: NSAID? Paracetamol? TODO
+  * Alterantivet: nedreglerar endometriosen med GnRH analoge (detta är som att inducera en menopaus hos patienten, att den drar ned på allt) varpå man hormonstimulerar ovarierna 
 
 
 
@@ -7205,13 +7466,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * **beh kan påbörjas utan laparoskopi;** 
 * DDDD
 
-<img src="./imgs/gyn_sam_200321_aQ0UqJcKFC.png" alt="aQ0UqJcKFC" style="zoom:50%;" />
-
-<img src="./imgs/gyn_sam_160321_9ZeUIRg61D.png" alt="9ZeUIRg61D" style="zoom:50%;" />
 
 
+| <img src="./imgs/sam_250421_fzlbpsb5bU.png" alt="fzlbpsb5bU" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_200321_aQ0UqJcKFC.png" alt="aQ0UqJcKFC" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_9ZeUIRg61D.png" alt="9ZeUIRg61D" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_sam_160321_m0JNImkNcZ.png" alt="m0JNImkNcZ" style="zoom:50%;" /> |                                                              |                                                              |
 
-<img src="./imgs/gyn_sam_160321_m0JNImkNcZ.png" alt="m0JNImkNcZ" style="zoom:50%;" />
+
+
+
+
+
+
+
 
 
 
@@ -12498,12 +12765,12 @@ Spinalbedövning
   * **Instrumentell vaginal förlossning**: suklocka, tång, episiotomi
   * **Uterusruptur**: ffa ökad risk efter tidigare kejsarsnitt eller annan uterusoperation
   * **Uterusinvasion**: (osäker vad d)
-* **Tissue** 10%
+* !! **Tissue** 10%
   * !! **Placentaretention**: kvarhållen placenta, placentarest, NOTERA att den är lågfrekvent
   * **Placenta previa**: föreliggande placenta
   * **Placenta accreta, increta, percreta**:
 * **Thrombin**: 1%, blir högre om beaktar att stora blödningar så småningom alltid leder t en koagulationsrubbning
-  * Koagulationsrubbning
+  * Koagulationsrubbning: blött till sig en koagulationsrubbning
   * Preeklampsi HELLP
   * anemi
   * placentaavlossning
@@ -12526,17 +12793,37 @@ Spinalbedövning
 
 
 
+#### Handläggning
+
 ***Handläggning***
 
 * Diagnosticera blödningsorsaken
 * Detta genom undersökning av uterus efter atoni, bristningar eller placentaretention. Blodprov tas för att utreda koagulationsrubbning, samt erhålla utgångsvärden.
+* **Allmän handläggning i efterbördesskedet innan blödning uppstått**
+    * **Uterotonika**: Oxytocin i.m. eller i.v. långsamt omedelbart efter barnets framfödande
+        - för att livmodern ska dra ihop sig
+    * **Avgång av placenta och hinnor** med hjälp av kontrollerad traktion i navelstängen samt uterusmassage (i normalfallet inom 15 min) 
+    * **Töm urinblåsa**: För att denna kan försvåra uterus att kontrahera effektivt
+    * **Larma obstetriker/anestesiolog vid onormal blödning**
+    * **har koll på blödningsmängd o vitalparams. **
+    * **olika läkemedel man kan använda osså**
+    * **Läkemedel**
+        - **upprepa oxytocin**
+        - **hänga förstärkt oxytocindropp som går på några timmar**: om atonisk uterus
+        - **ciklokapron / tranexamsyra**
+        - **metergin**: kontraindik om preeklampsi el högt BT hos pat, för att det kan höja BT ganska mkt
+          - man ger ej t redan högt BT
+          - samt hjälper ej mot blödningen
+          - jätteffektivt för att uterus ska kontrahera
+          - uterussammandragande
+        - **prostinofen**
 * **Tone**
     * Uteruskontraktion är den viktigaste faktorn för att minska blödning. 
     * Bimanuell kompression av uterus minskar cirkulationen till uterus och lilla bäckenet efter förlossningen. 
     * Aortakompression kan rädda liv. 
     * Farmakologisk behandling enligt nedan.
 * **Trauma**
-    * Bristningar: Suturera, vid behov på operation. Eventuell tamponad.
+    * **Bristningar**: Suturera, vid behov på operation. Eventuell tamponad.
 * **Tissue**
     * Vid kvarhållen placenta ≥ 30 minuter, försök lösa den med hjälp av Credés handgrepp (en hand placeras utvändigt över fundus på livmodern och komprimerar uterus och en hand vaginalt för att föra ut navelsträng/placenta) med god smärtlindring. Vid kvarhållen placenta med blödning ≥ 1000 mL eller ≥ 60 min efter barnet födelse, gör exploration på operation. Överväg detta även vid ofullständig placenta (≥ 1 cm defekt), då placentarester eller stora koagel kan spänna ut uterus och försämra kontraktionen.
 * **Thrombin**
@@ -12557,6 +12844,37 @@ Spinalbedövning
   * fibrinogen
   * kalciumglukonat
   * trombosprofylax
+* **Kirurgisk behandling**
+  * **Ballongkateter i uterus**. 
+  * **Håll koll på hur mycket det blöder.**
+  * **Artärembolisering**: I samarbete med kärlkirurg/angiojour/interventions radiolog 
+  * **Laparotomi**
+  * **Gör vid behov aortakompression**. 
+    * (tryck strax ovanför naveln och lite till pats vänstra → inte bekvämt. 
+    * GÅr bra på nyförlösta pga ingen rectusdiastas medan man går till op. 
+    * Kompressionssuturer av uterus, B-Lynch- eller Haymann-suturer. 
+    * Eventuellt ligatur av aa. uterinae, ev aa. ovaricae om ej möjligt med artärembolisering. 
+  * **Hysterektomi**: Subtotal eller total. 
+  * **Bukpackning och chockbyxa**: Alternativ inför transport till röntgen för embolisering eller till annat sjukhus.*
+* **Aortakompression**: 
+  * ***lite vänster mot pats navel att man trycker så långt man kan:**
+  * nyförlösta rektusdiastas, 
+  * så det kan vara ganska lätt, 
+  * så då gör man d tills operation, 
+  * för att stoppa blödning. 
+* **Sammanfattningsvis**
+  * Oxytocin direkt efter att barnet framfött
+  * tappa urinblåsan: då full blåsa innebär att uterus inte kan kontrahera effektivt
+  * Föreligger hög risk för blödning: infarter, blod, bastest, blodgruppering
+  * Läkemedel
+  * Lösa placenta: om inte lösgjort efter 45min -> OPERATION
+  * Om det blöder (efter löst placenta): operation?
+
+
+
+| <img src="./imgs/sam_250421_1MHOVzOAMk.png" alt="1MHOVzOAMk" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 

@@ -16,8 +16,6 @@
 
 
 
-
-
 ***Vad vill du veta mer om Lotta?*** 
 
 * **Tidigare sjukdomar, tidigare graviditeter, missfall?** 
@@ -152,7 +150,7 @@
   * De flesta vill inte vänta. 
   * **Uteblivna missfall kan man göra direkt medicinsk för de ordnar inte upp sig själva**. 
   * Om inkompletta blir de ofta kompletta av sig självt. 
-  * Om det blöder mycket och är inkomplett är det inte rätt med expektans, då kanske man måste göra exeres. 
+  * Om det blöder mycket och är inkomplett är det inte rätt med expektans
 * **Kirurgi**
   * **vakumaspiration; vakumexeres**: kommer vara säker att man har tömt uteruskaviteten
   * tittar man därför inte U-hCG efteråt
@@ -174,23 +172,29 @@ Upp till varannan graviditet leder till missfall och 10-20% är konstaterade så
 
 
 
-<img src="./imgs/gyn_sem_OLB8PoHfhe.png" alt=OLB8PoHfhe style="zoom:50%">
-
-<img src="./imgs/gyn_sem_No8hCYXldz.png" alt=No8hCYXldz style="zoom:50%">
-
-
-
-<img src="./imgs/gyn_sem_Vtc0HzfLUS.png" alt=Vtc0HzfLUS style="zoom: 33%;">
-
-<img src="./imgs/gyn_sem_CQp3QKr8Qm.png" alt=CQp3QKr8Qm style="zoom:50%">
+| <img src="./imgs/gyn_sem_OLB8PoHfhe.png" alt=OLB8PoHfhe style="zoom:50%"> | <img src="./imgs/gyn_sem_No8hCYXldz.png" alt=No8hCYXldz style="zoom:50%"> | <img src="./imgs/gyn_sem_Vtc0HzfLUS.png" alt=Vtc0HzfLUS style="zoom: 33%;"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/gyn_sem_CQp3QKr8Qm.png" alt=CQp3QKr8Qm style="zoom:50%"> | <img src="./imgs/gyn_sem_LXoUvGPa7N.png" alt=LXoUvGPa7N style="zoom:50%"> | <img src="./imgs/gyn_sem_t01gOHgETs.png" alt=t01gOHgETs style="zoom:50%"> |
 
 
 
-<img src="./imgs/gyn_sem_LXoUvGPa7N.png" alt=LXoUvGPa7N style="zoom:50%">
 
 
 
-<img src="./imgs/gyn_sem_t01gOHgETs.png" alt=t01gOHgETs style="zoom:50%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <img src="./imgs/gyn_sem_4zErY2ZQIq.png" alt=4zErY2ZQIq style="zoom:50%">
 
@@ -258,7 +262,7 @@ Upp till varannan graviditet leder till missfall och 10-20% är konstaterade så
   * **Tidsmässigt: Kan uppstå vid menarche eller menopaus.** 
   * Är en hormonpåverkan med kontinuerligt gestagen påslag och slemhinnan bara växer och växer och stöts inte ut någon gång
 * **koagulationsrubbning,** 
-* **corpus luteum blödning,** 
+* **corpus luteum blödning,**: inte rikligt vaginal blödnign, men blöad rikligt i bukhålan kan detta gälla 
 * **trofoblastsjukdom,** 
 * **myom,** 
 * **cancer**: 
@@ -279,17 +283,27 @@ Upp till varannan graviditet leder till missfall och 10-20% är konstaterade så
 
 **Varierande klinisk presentation** 
 
-<img src="./imgs/gyn_sem_811gOHPJa5.png" alt=811gOHPJa5 style="zoom:50%">
 
-<img src="./imgs/gyn_sem_BYOT7OFYOu.png" alt=BYOT7OFYOu style="zoom:50%">
+
+| <img src="./imgs/gyn_sem_811gOHPJa5.png" alt=811gOHPJa5 style="zoom:50%"> | <img src="./imgs/gyn_sem_BYOT7OFYOu.png" alt=BYOT7OFYOu style="zoom:50%"> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
+
+
+
 
 Om intrauterin grav aldrig har konstaterats, följ med Hcg för att utesluta extrauterin. Om gulesäck = intrauterin. Ser man bara hinnsäck kan det vara x ändå. 
 
 
 
-<img src="./imgs/gyn_sem_5zTtVefLPY.png" alt=5zTtVefLPY style="zoom:50%">
+| <img src="./imgs/gyn_sem_5zTtVefLPY.png" alt=5zTtVefLPY style="zoom:50%"> | <img src="./imgs/gyn_sem_en0rFwPERq.png" alt=en0rFwPERq style="zoom:50%"> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
-<img src="./imgs/gyn_sem_en0rFwPERq.png" alt=en0rFwPERq style="zoom:50%">
+
 
 Om det blir endometrit → inläggning med cefotaxim. Om det är saker kvar i uterus behöver man ta bort det för det blir som en abscesshåla. 
 
@@ -353,7 +367,7 @@ Om det blir endometrit → inläggning med cefotaxim. Om det är saker kvar i ut
 
   - lkm man kan använda för ektopisk grav = methotrexate
   - man ska utesluta allt med att inte är komplicerat, för mkt vätska etc
-  - man måste veta var graviditeten sitter. 
+  - !! man måste veta var graviditeten sitter. 
   - // med ett vaginalt UL skulle man ha kunnat se en ektopisk graviditet som sitter i en tuba eller ngn annanstans;
 - I detta fallet exspekterar man tho, trots att läkaren tkte att det var avvikande etc. 
 
@@ -376,13 +390,9 @@ Om det blir endometrit → inläggning med cefotaxim. Om det är saker kvar i ut
 
 
 
-<img src="./imgs/gyn_sem_3SyJLADZeD.png" alt=3SyJLADZeD style="zoom:50%">
-
-<img src="./imgs/gyn_sem_06kKsCMXtX.png" alt=06kKsCMXtX style="zoom:50%">
-
-
-
-<img src="./imgs/gyn_sem_HZa4DMjhXB.png" alt=HZa4DMjhXB style="zoom:50%">
+| <img src="./imgs/gyn_sem_3SyJLADZeD.png" alt=3SyJLADZeD style="zoom:50%"> | <img src="./imgs/gyn_sem_06kKsCMXtX.png" alt=06kKsCMXtX style="zoom:50%"> | <img src="./imgs/gyn_sem_HZa4DMjhXB.png" alt=HZa4DMjhXB style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
 
 
 
@@ -453,7 +463,6 @@ Tubotomi är omodernt.
 
 **Hur omhändertas Sara när hon 25 minuter senare kommer till förlossningen? Vilka orsaker till blödningen funderar du över? Hur går du vidare?**
 
-* 
 * beroende på omfattning av blödning (hb). 
 * Infarter. blodgruppering och bastest. 
 * Obstetriskt UL (hjälper till att det man känner själv, hur ligger bebisen?) och 
@@ -511,7 +520,7 @@ Accreta är inge bra och kan bli problematiskt och stor risk för blödning. Pla
 
 
 
-**Det visar sig att Sara har en placenta previa men att blödningen avtar efter att hon har blivit inlagd för observation. Efter 4 dagar är det helt lugnt utan blödning. Hur handlägger du fallet nu? Vad finns det för olika former av placenta previa? Riskfaktorer? Hur vanligt är det?** **
+**Det visar sig att Sara har en placenta previa men att blödningen avtar efter att hon har blivit inlagd för observation. Efter 4 dagar är det helt lugnt utan blödning. Hur handlägger du fallet nu? Vad finns det för olika former av placenta previa? Riskfaktorer? Hur vanligt är det?**
 
 **Fäster in i nedre uterinsegmentet och blir hinder för vaginal förlossning. I sällsynta fall sker inväxt av trofoblaster i myometriet (placenta accreta) och de kan i enstaka fall växa utanför uterusväggen och över på abdominella organ.
 
@@ -615,7 +624,7 @@ Vattenavgång?
 
 
 
-Går på extrakontroller PE. Stilla i magen, riklig menstruation, vattnet verkar inte ha gått. Sammandragningarna är korta men inte speciellt smärtsamma. 
+**Går på extrakontroller PE. Stilla i magen, riklig menstruation, vattnet verkar inte ha gått. Sammandragningarna är korta men inte speciellt smärtsamma. **
 
 
 
@@ -800,7 +809,7 @@ Epidem: att 10% får detta...
 - Larma obstetriker/anestesiolog vid onormal blödning
 - har koll på blödningsmängd o vitalparams. 
 - olika läkemedel man kan använda osså
-- Läkemedel
+- **Läkemedel**
   - upprepa oxytocin
   - hänga förstärkt oxytocindropp som går på några timmar: om atonisk uterus
   - ciklokapron / tranexamsyra
@@ -821,17 +830,28 @@ Epidem: att 10% får detta...
 * **Provtagning**
 * optimera koagulationen
 * Uterotonika
-* *Koagulation och blodprodukter*
+* Koagulation och blodprodukter
 * **Kirurgisk behandling**
-  * Ballongkateter i uterus. Håll koll på hur mycket det blöder.* 
-  * Artärembolisering: I samarbete med kärlkirurg/angiojour/interventions radiolog 
-  * Laparotomi
-  * Gör vid behov aortakompression. (tryck strax ovanför naveln och lite till pats vänstra → inte bekvämt. GÅr bra på nyförlösta pga ingen rectusdiastas medan man går till op. Kompressionssuturer av uterus, B-Lynch- eller Haymann-suturer. Eventuellt ligatur av aa. uterinae, ev aa. ovaricae om ej möjligt med artärembolisering. 
-  * Hysterektomi: Subtotal eller total. 
-  * Bukpackning och chockbyxa: Alternativ inför transport till röntgen för embolisering eller till annat sjukhus.*
-* Aortakompression: lite vänster mot pats navel att man trycker så långt man kan: nyförlösta pat har inga bukmuskler, har rektusdiastas, så det kan vara ganska lätt, så då gör man d tills operation, för att stoppa blödning. 
-* bimanuellt trcker på cervix och tryucker utifrån för att uterus ska trycka ihopp sig
-* atonisk uterus: uterysmassage, eller komprimerar uterus är också en behandling
+  * **Ballongkateter i uterus**. 
+  * **Håll koll på hur mycket det blöder.**
+  * **Artärembolisering**: I samarbete med kärlkirurg/angiojour/interventions radiolog 
+  * **Laparotomi**
+  * **Gör vid behov aortakompression**. 
+    * (tryck strax ovanför naveln och lite till pats vänstra → inte bekvämt. 
+    * GÅr bra på nyförlösta pga ingen rectusdiastas medan man går till op. 
+    * Kompressionssuturer av uterus, B-Lynch- eller Haymann-suturer. 
+    * Eventuellt ligatur av aa. uterinae, ev aa. ovaricae om ej möjligt med artärembolisering. 
+  * **Hysterektomi**: Subtotal eller total. 
+  * **Bukpackning och chockbyxa**: Alternativ inför transport till röntgen för embolisering eller till annat sjukhus.*
+* **Aortakompression**: 
+  * lite vänster mot pats navel att man trycker så långt man kan: 
+  * nyförlösta pat har inga bukmuskler, 
+  * har rektusdiastas, 
+  * så det kan vara ganska lätt, 
+  * så då gör man d tills operation, 
+  * för att stoppa blödning. 
+* **bimanuellt trycker på cervix och tryucker utifrån för att uterus ska trycka ihopp sig**
+* **atonisk uterus**: uterysmassage, eller komprimerar uterus är också en behandling
   * kan känna när man trycker att den komprimerar o spänner o sen släpper att den e atonisk igen, så man gör om d, kan hålla på tills LKM har  fått effekt. 
 
 
@@ -886,10 +906,6 @@ Vid höga nivåer östradiol så ökar det gonadotropoinnivåerna.
 
 
 
-
-
-<img src="./imgs/gyn_sem_BrXnLHgpjm.png" alt="BrXnLHgpjm" style="zoom:50%;" />
-
 ### Fall 1 
 
 **Amanda 14 år inkommer akut med sin mamma. Amanda började blöda rikligt vaginalt för 2 dagar sedan och blödningen har inte minskat…”det bara forsar” och nu känner sig Amanda lite yr.** 
@@ -913,7 +929,7 @@ Vid höga nivåer östradiol så ökar det gonadotropoinnivåerna.
 
 
 
-Enl läk
+**Enl läk**
 
 * Oregelbunden mens sendan menarche, virgo, ingen viktnedgång, frisk, inga lm. 
 * gynanamne
@@ -946,7 +962,7 @@ enl läk
   * unga: obalans hypothalamus-hypofys axeln, som ej kommit igång ör att regleras på rätt sätt. 
   * äldre: ovariell dysfunktion. 
 
-![img](https://lh3.googleusercontent.com/PQoTmBQeJZImphqqEBBnB7ZBQ_6y8k4tftNCWPcAa90LUh5Ix8-KC4XqwSVNtRYKDv3vlByc-tfIin0lz-_EjBl68vEhqc5ZRNXJ65k2A2T5hRULXM31MqIOp0U-_VymJthbh-7P) 
+<img src="https://lh3.googleusercontent.com/PQoTmBQeJZImphqqEBBnB7ZBQ_6y8k4tftNCWPcAa90LUh5Ix8-KC4XqwSVNtRYKDv3vlByc-tfIin0lz-_EjBl68vEhqc5ZRNXJ65k2A2T5hRULXM31MqIOp0U-_VymJthbh-7P" alt="img" style="zoom: 67%;" /> 
 
 
 
@@ -961,6 +977,8 @@ enl läk
   * vitalparametrar
   * thyroidea prover: om oregelbunden mens
   * kap-Hb
+
+
 
 **Behöver du gyn-undersöka Amanda? Motivera.**
 
@@ -991,9 +1009,8 @@ enl läk
 
 P-piller som hämmar ovulation ex. kombinerade p-piller eller gestagena preparat eller hormonspiral 
 
-
-
 Vanlig indikation för p-piller, kombinerade. Om hon har riskfaktorer kan man ge gestagena. Man kan sätta spiral men de flesta som är såhär unga vill inte ha det. 
+
 Blödningen brukar normaliseras 2 år efter menarche. 
 
 
@@ -1002,12 +1019,17 @@ Blödningen brukar normaliseras 2 år efter menarche.
 
 * Oligomenorré är menstruationer ≥ 6 veckors mellanrum. Cykellängd över 40 dagar. 
 * polycystiskt ovarialsyndrom (PCOS), 
-* (hyperandrogenism 
+* hyperandrogenism 
 * hypotalam amenorré 
 * hyperprolaktinemi.
   * Uteslut ALLTID graviditet
-* Hypothalamisk hämning (ätstörningar, överdriven träning, näringsbrist)
-* Thyroidea (hypothyreos, hyperthyreos)
+* Hypothalamisk hämning 
+  * (ätstörningar, 
+  * överdriven träning, 
+  * näringsbrist)
+* Thyroidea 
+  * (hypothyreos, 
+  * hyperthyreos)
   * PCOS (här behövs behandling med livsstilinterventioner). P-piller för att kunna blöda och även gestagen cykliskt. 
   * POI. Kvinnorna ska behandlas till naturliga menopause ca 51 år. Högre östroge dock. 
   * Hyperprolaktinemi 
@@ -1028,13 +1050,16 @@ Blödningen brukar normaliseras 2 år efter menarche.
 
 **Utredning?** 
 
-Hormonprover: FSH, LH (högt LH och förhöjd LH/FSH kvot), SHBG (lågt), DHEAS (dehydroepiandrosteron-sulfat) är förhöjt, testosteron. → PCOS. 
-Prolaktin
-Tyroideaprover
+Hormonprover: 
+
+* FSH, LH (högt LH och förhöjd LH/FSH kvot), 
+  * SHBG (lågt), DHEAS (dehydroepiandrosteron-sulfat) är förhöjt, testosteron. → PCOS. 
+* Prolaktin
+  Tyroideaprover
 
 Progesteron för att fastställa ovulation. 
 
-![img](https://lh3.googleusercontent.com/A1URqqIzgS9TNtRRIOsd-xO1YzhXlQmBigI3HwMsfW-m9cTO7Iiyg6F1ScrFZIHabDVV7RO1tAjt4nmtI8ubUSre8cIYjA8yrWKb8nxKzc8Y3TjrwnAaxRYT_8YbYmlgbIxX54Yw)
+<img src="https://lh3.googleusercontent.com/A1URqqIzgS9TNtRRIOsd-xO1YzhXlQmBigI3HwMsfW-m9cTO7Iiyg6F1ScrFZIHabDVV7RO1tAjt4nmtI8ubUSre8cIYjA8yrWKb8nxKzc8Y3TjrwnAaxRYT_8YbYmlgbIxX54Yw" alt="img" style="zoom:50%;" />
 
 
 
@@ -1226,7 +1251,7 @@ Progesteron R modulator. Är indragen för tillfället pga har gett leversvikt.
 * Cellprov och klamydia/gonorré test. 
 * Smear prov
 * Cytologi + HPV (acetoacetat för HPV provet). 
-* Färgtest: bakteriell vaginos (kaliumnitrat), 
+* !! ? Färgtest: bakteriell vaginos (kaliumnitrat), 
 * Sniff-test
 
 
@@ -1407,7 +1432,7 @@ Progesteron R modulator. Är indragen för tillfället pga har gett leversvikt.
 
 Dessa fall täcker lärandemål Kunna: • Preventivmetoder och deras verkningsmekanismer • Benigna ovarialtumörer, endometrios • Symtom och diagnostik vid maligna tillstånd • Symptom och sjukdomar relaterade till störningar i menstruationscykeln Känna till: • Behandling av maligna gynekologiska tumörer 
 
-### Fall 1 
+### Fall 1 - Endometriom
 
 **Lovisa 25 år söker dig på gynmottagningen pga smärtor i buken sedan nästan ett år. Hon har tidigare sökt hos husläkaren som mest trott på att hon har IBS. Själv undrar hon om det kan finnas en gynekologisk förklaring eftersom smärtan sitter mest i nedre delen av buken.** 
 
@@ -1528,7 +1553,7 @@ Dessa fall täcker lärandemål Kunna: • Preventivmetoder och deras verkningsm
 
 ***Medicinsk behandling***
 
-* **NSAID**: kan minska östrogen produktio indirekt
+* **NSAID**: kan minska östrogen produktion indirekt
 * **medicinsk behandling för att uppnå mensfrihet.** 
   * **1a hands val: kombinerade p-piller**, 
     * för ger bättre blödningsmönster och blödningsrubbningar
@@ -1555,8 +1580,9 @@ Dessa fall täcker lärandemål Kunna: • Preventivmetoder och deras verkningsm
 
 
 
-**Ange behandling, risker och prognos och eventuellt ytterligare behandling för de aktuella diagnoser du överväger.** **
-**Finns malignitetsrisk och man vill titta på endometrios cystorna en gång om året.
+**Ange behandling, risker och prognos och eventuellt ytterligare behandling för de aktuella diagnoser du överväger.** 
+
+Finns malignitetsrisk och man vill titta på endometrios cystorna en gång om året.
 
 Ökad infertilitet hos personer med endometrios. 
 De kan spricka och då kan det gamla blodet implanteras på andra ställen och orsaka sammanväxningar. Dock ovanligt. 
@@ -1565,10 +1591,11 @@ De kan spricka och då kan det gamla blodet implanteras på andra ställen och o
 
 Medicinsk behandling för att uppnå mensfrihet. 
 
-\- Kombinerade p-piller för ger bättre blödningsmönster. 
-\- Kontinuerligt gestagen (gulkroppshormon). 
+- Kombinerade p-piller för ger bättre blödningsmönster. 
+- Kontinuerligt gestagen (gulkroppshormon). 
+- GnRH analoger (tillfälligt “klimakterium”)
 
-\- GnRH analoger (tillfälligt “klimakterium”)
+
 
 kirurgisk ej 1:a hand risker skada äggstock och risker med kirurgi. 
 \- ta bort synliga förändringar. Görs inte första hand på mindre endometriom. 
@@ -1581,7 +1608,7 @@ Man ska inte punktera cystan, de recidiverar inom 1 år.
 
 Man ska aldrig ta Ca-125 på dessa patienter, Det som bedömer malignitetsrisk är UL kriterierna 
 
-### Fall 2 
+### Fall 2 - Corpus Luteum
 
 
 
@@ -1625,8 +1652,6 @@ Man ska aldrig ta Ca-125 på dessa patienter, Det som bedömer malignitetsrisk �
 * Sammanfatt: enrummig cysta + spindelnätsmönster -> corpus luteum cysta
 * Fr sarah
   * **Det är en flerrummig/lakunär** (det är inga tydliga septa hela vägen), svåravgränsade septeringar, stråkig, välavgränsad, blandekogen cysta. Spindelnätsmönster (är fibrintrådar som man ser). Om UL visar ring of fire så ser det ut som corpus luteum cysta som kanske blöder med tanke på smärtan och innehållet i cystan. 
-
-
 
 
 

@@ -20,7 +20,6 @@ Wihelm. 2mån, bajsar mkt gul grynigt, har avplanad viktkurva, sen följer läng
 
 
 // nutrition välling fram till 2år
-
 // barn som inte går upp i vikt ska matas var 3e timme ist för var 4e- vi har ett fall wilhelm ska matas var 3e timme.. 
 
 WIlhelm var failure t thrive

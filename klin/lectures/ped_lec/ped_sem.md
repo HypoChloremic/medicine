@@ -4083,7 +4083,7 @@ Akut prenatal asfyxi kan inträffa vid ablatio och uterusruptur.
 
 * **Fysiologisk ikterus**
   * alltid okonjugerad
-  * topp dag 3 (dag 5-7 prematura)
+  * topp dag 3 (dag 5-7 git sprematura)
   * klingar av dag 10-14
 * **Patologisk ikterus**
   * Debut  före 25timmars ålder

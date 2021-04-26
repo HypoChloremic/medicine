@@ -3670,13 +3670,14 @@ Pubertetsutveckling
 * Spädbarn, blodig avföring
   * Nedsvalt blod
   * analfissur
-  * komjölkproteinallergi
+  * !! komjölkproteinallergi
   * invagination
   * meckels divertikel
   * infektion
   * blödningsrubbning
   * IBD
   * NEC
+* !! Notera att man inet noterat volvulus här!!
 
 
 
@@ -7557,6 +7558,65 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
+
+
+### Skelett
+
+#### Osteomyelit
+
+
+
+***Etiologi***
+
+* Spädbarn
+  * multifokal osteomyelit
+  * oftare genombrott till leden
+* Älder barn
+  * 
+
+
+
+***Kännetecken***
+
+* Spädbarn
+  * sepsis + pseudoparalys
+  * 
+* Äldre barn
+  * Feber
+  * lokal smärta
+  * hälta
+  * oproportionerlig smärta vid palpation, jfr fynd vid inspektion
+
+
+
+
+
+***Differentialdiagnoser***
+
+* !! Leukemi: 40% har ont i armar och ben
+
+
+
+***Utredning***
+
+* Klinik
+* Blodprover: vita, CRP, SR
+* Radiologi: slät-rtg, UL, MR, scint, DT
+* Mikrobiologisk diagnostik:
+  * Blododling, 
+  * !!! aspiration
+* **Slät-rtg alltid!**: efter en vecka kan en uppklarning i benet ses
+* MR: hög sens, och spec
+  * urskiljer infektiösa, inflammatoriska, neopalastiska processer även i ryggrad
+  * nackdel: barnet måste sövas
+* UL
+  * !! Subperiostala abscesser
+  * Genombrott till leden
+* Scint
+  * Hög sens och spec efter 48h
+  * Multifokal infektion kan påvisas
+  * Nackdel: görs bara kontorstid
+
 ### Sepsis
 
 
@@ -9370,6 +9430,72 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
       * Kontrast: kolonröntgen mde kontrast via lavemang,. 
       * Volvulus: explorativ laparotomi med detorkvering av tarm, lads procedur. 
 
+
+
+### Hirschprung
+
+***Presentation***
+
+* Benny 
+  * var fullgången när han föddes för snart snart tre dygn sedan. Han har ännu inte passerat mekonium. Senaste dygnet har han börjat kräkas. 
+  * Diffar
+    * *Hirschsprungs sjukdom*:
+      - saknar ganglieceller i kolon
+      - peristaltiken inte fungerar i kolon
+      - varpå fastnar ngnstans
+    * *Tarmatresi*: avbrott i magtarm röret, 
+      - atresier kan sitta i matstrupen: esofageal atresi
+      - anal atresi: uteslutit denna för att man tittat i rumpan
+    * Gastroenterit - infektiös
+    * Ileus
+    * Esofagusatresi (presenterar på ett annat sätt), analatresi (titta på rumpan)
+    * INTE invagination: finns ingen smärta
+
+
+
+***Etiologi***
+
+* Nervganglier som inte vandrat ned till distala tarm. 
+* Utebliven innervation
+* gangliecellerna har tagit stopp sigmoidealt och fastnar de där, 
+* varpå sigmoidala delen hamnar i krampläge kan ej slappna av
+  * blir trångt hinder och mekoniet inte tar sig förbi
+  * tarmen blåser upp sig
+  * megakolon som man ser på bilden osså. 
+  * sigmoidalt är det hirshprung segmentet som drabbats av hirschprung. 
+* den riktigt sjuka delen av tarmen är den distala slyngan som inte är lika uppblåst
+  * sigmoideum
+  * det är den som är krampande och ihopdragen. 
+  * distal del av tarm som står o krampar och en övergångszon, sen är tarmen ovanför utspänd
+
+
+
+***Kännetecken***
+
+* Utebliven avföring. 
+* inget mekonium första dygnet
+
+
+
+***Differentialdiagnoser***
+
+* Tarmatresi
+
+
+
+***Utredning***
+
+* Vikt
+* blodgas
+* Radiologiskt: BÖS
+* inspektera analöppningen
+
+| <img src="./lectures/ped_lec/imgs/barnkir_sem_QL0bmdpIdk.png" alt="QL0bmdpIdk" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/barnkir_sem_RUchNVnLvO.png" alt="RUchNVnLvO" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
 ### Invagination
 
 
@@ -9395,7 +9521,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   3. Föräldrarna uppfattar det som buksmärta.
   4. Smärtorna kommer i intervaller, däremellan är hon helt stilla. 
   5. Kräkts flera gånger. 
-* 3.5 månader gammal pojke 
+* **3.5 månader gammal pojke**
   * som söker med sina föräldrar pga att han verkar ha ont i magen och är missnöjd. Han är fullgången och frisk sedan tidigare. Han följer vaccinationsprogrammet i Stockholm vilket innebär att han även har vaccinerats mot Rotavirus. Vad är den mest fruktade biverkan av Rotavaccin? 
   * encefalit 
   * feber 
@@ -9428,7 +9554,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * Svullna lymfkörtlar (körtelbuk?)
   * Meckels divertikel
 
-<img src="./lectures/ped_lec/imgs/barnkir_sem_3QqTYAhVfn.png" alt="3QqTYAhVfn" style="zoom:50%;" />
+
 
 
 
@@ -9465,7 +9591,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   - Blod eller blodtillblandat slem i avföringen förekommer, men är ofta ett mycket sent tecken - uppkommer när det blivit ischemi. '
   - slemmigt geleaktig avföring: det ska ha hunnit utvecklas en ischemi
   - I detta fallet så pass tidigt förlopp att avföringen är okej på morgonen
-  - men 12-14 timmar senare att avföringen: blodig, slemmig
+  - **men 12-14 timmar senare att avföringen**: blodig, slemmig
 * Det lömska med invagination är att symtombilden kan avvika från denna typiska beskrivning.”). 
 * !! Vanligare efter **rotavirusvaccinering** [fr seminariet]
 * intervaller blir slöa och tappar i intervaller
@@ -9508,6 +9634,14 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * **Rectal air insufflation**: om inte peritonit förekommer
   * **Kirurgi**: indicierat om air insufflation eller om peritonit
 
+
+
+| <img src="./lectures/ped_lec/imgs/barnkir_sem_3QqTYAhVfn.png" alt="3QqTYAhVfn" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
 ### Kräkningar
 
 ***Presentation***
@@ -9535,7 +9669,89 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
+### Meckels divertikel
 
+***Presentation***
+
+* Tore, 18 månader, 
+  * har sedan två dygn bajsat färskt rött blod. Föräldrarna beskriver att det kommit väldigt mycket blod. Tore verkar må ganska bra och har inte ont. 
+
+
+
+***Etiologi***
+
+* Medfödd defekt
+* Ledande punkt för invagination
+
+
+
+***Kännetecken***
+
+* Ingen smärta
+* färsk blod i avföring
+
+
+
+***Komplikationer***
+
+* **Andra komplikationer**: 
+  * **inflammation,** 
+  * **invagination**: kan vara en ledande punkt för invagination. 
+  * **ileus:** att meckeln lött fast mot bukväggen, utgör en brid, och orskar ileus. inte vanligt
+
+
+
+***Utredning***
+
+* **Anamnes**
+  * Kräkts?
+  * Äter/dricker?
+  * Feber?
+  * Gestationsålder?
+  * Komplikationer graviditet/födelse
+  * Hereditet för kongenitala defekter?
+  * Hur mycket blod? Blandat med avföring eller avsides? 
+  * Bröstmjölk eller ersättning?
+  * Allmäntillstånd?
+* **Undersökning**
+  * Prover
+    * Blodstatus, hb, LPK
+    * Venös blodgas
+    * Koagulationsprover
+    * BAS-test, blodgruppering (kan behöva transfusion, Hb-gränsen ca 100)
+  * vätska 0 blod
+* **Diagnostisk laparoskopi**: endast laparoskopi är diagnostiskt
+
+
+
+***Behandling***
+
+* **Transfusion**: Lägger gränsen på Hb 100, för att patienten har en pågående stor förlust. 
+* **Kirurgisk resektion**
+
+
+
+
+
+| <img src="./lectures/ped_lec/imgs/barnkir_sem_zJUyLHb98w.png" alt="zJUyLHb98w" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+### NEC
+
+***Allmänt***
+
+* Nekrotiseraned enterocolit
+
+
+
+***Etiologi***
+
+* Prematurt födda barn
+* Dålig försämrad perfusion av tarm
+* Associerat med att man matar dessa ungar för snabbt, varpå perfusionen inte kan hänga med 
 
 ### Pylorusstenos
 
@@ -9562,11 +9778,155 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
+***Kännetecken***
+
+* Ålder: 2-8v
+* pojkar
+* hypokalem, hypoklorem metabolisk alkalos
+* vita kräkningar, kaskadkräknigar, icke-biliära
+* evt palpera olive mass epigastriskt men ovanligt
+* viktnedgång
+* god aptit
+
+
+
+***Differentialdiagnos***
+
+* ****överskottskräkningar**** (inte typiskt med kaskadkräkning, inte troligt då “all” mat verkar komma upp, ska inte gå ner i vikt)
+  - barnet får dock upp allt i dessa kräkningar
+  - barnet ska ej ha viktnedgång heller
+* **infektiös gastroenterit** 
+* **GERD** 
+* **allergi mot komjölksprotein**
+* **esofagusatresi** (brukar debutera mycket tidigare, opereras första dagarna efter förlossningen)
+* **Tarmatresi** (barnet skulle vara yngre vid debut). 
+* **Mb Hirschsprung**
+* **Appendicit**
+* **Invagination med tarmischemi**: mindre sannolikt denna patient för att den är hungrig o grinig, interiktigt indicerat
+  - **tecken på smärta**
+  - **kommer o går i intervaller**
+* **Inklämt ljumskbråck**
+* **UVI**
+
+
+
 ***Utrednign och handläggnign***
 
-* UL: förtjockad pylorusmuskel
+* **UL**: förtjockad pylorusmuskel
+  * för diagnos
+  * blåsförtjockning
+* **Akut åtgärd**: rehydrering och korrigering av elektrolytrubbningar
+
+
 
 ***Behandling***
+
+* Korrigera, rehydrera, underhåll patienten
+* **Kirurgi**
+  * Sker dagtid
+  * 
+
+
+
+| <img src="./lectures/ped_lec/imgs/barnkir_sem_v5BSyc9uH7.png" alt="v5BSyc9uH7" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+### Tarmatresi
+
+***Kännetecken***
+
+* Mikrokolon på kontratsröntgen
+
+
+
+
+
+### Volvolus
+
+***Presentation***
+
+* Otto 1v
+  * Han kommer med sina föräldrar i ambulans med blåljus till akutmottagningen. Han har sedan 3-4 timmar kräkts gallfärgat och blivit allt slöare. När du undersöker honom är han påtagligt slö och allmänpåverkad. 
+
+
+
+***Etiologi***
+
+* Tunntarmspaketet snurrar runt mesenterialaxeln. 
+* under fostertiden när tarmröet växer till, går ut navelstränget, sen snurra 170 grader för att cekum hamner på rött plats i höger fossa
+* om rotationen inte skett normalt är det ***malrotation*** som gör att cekum sitter fast lad span utmed bukväggen, och det blir som att roten på mesenteriet ist blir en smal sträng eller en smal stjälk, vilket är förutsättningen för att volvulus uppstår
+* de utan denna ***malrotation*** får inte en totalvidgat volvolus
+  * isf om utan malrotation är det små tarmsegmentetn som kan leda t denna
+* I detta fallet att det blir stopp i duodenum samt att blodtillförsel stryps ut t tarmpaketet
+  * därför är det så viktigt att man vet att det finns
+
+
+
+***Kännetecken***
+
+
+
+***Differentialdiagnoser***
+
+* Ileus (tarmvred): har krä
+* duodenal atresi, jejunal atresi
+* invagination
+* inklämt ljumskbråck
+* Meconium ileus: vanligare barn med cystisk fibros
+* NEC: nekrotiserande tarminflammation, oftast hos prematura barn
+
+
+
+***Utredning och handläggning***
+
+* Anamnes
+  * Kräkts hur mycket? Hur ofta? Blodtillblandat? *Färg?* Hur mycket kunnat behålla av maginnehållet?
+  * Avföring - färg, mängd, konsistens, blod/slemtillblandat?
+  * Miktion? 
+  * Frisk i botten? Mediciner?
+  * Hur har funkat med amning/ersättning innan?
+  * Normal graviditet och förlossning?
+* ABCDE
+* **Status**: AT + hydreringsgrad, hjärta + pulser + kap refill, lungor + andningsmönster, bukstatus, reflexer, inspektion av genitalia + blöjinnehåll
+* **Prover**
+  * blodstatus
+  * elstatus
+  * blodgas
+  * CRP
+  * leverstatus
+  * koagstatus
+  * blodgruppering, bas-test: inför op..
+* **Bukstatus**
+  * ljumskar, för att leta ljumskbråck
+* **Golden, biliära kräkningar, **
+  * **Övre passage rtg**: sond 
+* **Radiologiskt**: 
+  * BÖS 
+    * för att se korkskruv utseende, dock är detta inte obligat..
+    * gas-vätske nivå på BÖS också
+
+
+
+***Behandling***
+
+* inläggning, ev IVA? 
+* V-sond, 
+* rehydrering i form av vätskebehandling iv, 
+* ev operation. 
+* Ab om NEC/peritonitstatus. 
+* op! delning av lads segment...
+* risk fortf att barnet kan åter få volvulus. 
+
+
+
+| <img src="./lectures/ped_lec/imgs/barnkir_sem_Wud6DT7g8X.png" alt="Wud6DT7g8X" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
 
 ## Kardi och pulm
 

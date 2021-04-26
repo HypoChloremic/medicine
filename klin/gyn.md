@@ -722,7 +722,7 @@ cerivicit
 
 
 
-#### Ansträngningsinkontinens
+#### Ansträngningsinkon
 
 
 
@@ -855,6 +855,12 @@ cerivicit
 
 
 
+
+
+<img src="./imgs/sam_260421_KRpzk9xguI.png" alt="KRpzk9xguI" style="zoom:50%;" />
+
+
+
 #### Övaraktiv blåsa
 
 
@@ -926,9 +932,9 @@ cerivicit
   * Justering av eventuella diuretika. 
   * Behandling av samtidig obstipation (ffa hos äldre).
 * **Farmakologiskt**: 
-  * antikolinergika (tolteridin, fesoterodin, detrusitol)
-  * beta3agonist: betmiga; om det föreligger kontraindikation för antikolinergika
-  * antidiuretiskt hormon: desmopressin
+  * **antikolinergika** (tolteridin, fesoterodin, detrusitol)
+  * **beta3agonist**: betmiga; om det föreligger kontraindikation för antikolinergika
+  * **antidiuretiskt** hormon: desmopressin
 * **Kirurgiskt**
   * Elektrisk stimulering PTNS (perkutan tibialis nervstimulering): placeras i 
 * **Enl gynboken, trängningsinkontinens, s315**
@@ -957,7 +963,7 @@ cerivicit
 
 
 
-#### Distinktion trängninginkont och överans
+#### Distinktion Träng Överans
 
 * Trängningsinkontinens faller under överaktiv blåsa. 
 
@@ -987,6 +993,44 @@ cerivicit
   * sömnmedel
 
 
+
+#### Miktionslista
+
+***Frekvens***
+
+* Normal:  4-7 ggr per dag
+
+
+
+***Mängd***
+
+* 200-400mL i blåsan; 2dL-4dL per tillfälle
+
+
+
+***Total volym***
+
+* 2-3L
+
+
+
+***Trängningar***
+
+* Anges med + eller ++ för att indikera hur mkt trängning patienten hade i samband med tillfället
+
+
+
+***KOmmentar***
+
+* Patienten kan kommentera huruvida den hade läckage i samband med en nysning och dylikt. 
+
+
+
+
+
+| <img src="./imgs/sam_260421_KRpzk9xguI.png" alt="KRpzk9xguI" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -1151,9 +1195,13 @@ cerivicit
 
 ## Blödning
 
-### Anovulatorisk blödning
 
-***Presentation***
+
+### Funktionell blödningsrubbning
+
+#### Anovulatorisk blödning
+
+##### Presentation
 
 * **Elin, 13 år,** 
   * fick sin första menstruation för sex månader sedan. Nu söker hon på mottagningen tillsammans med sin mamma. Orsaken är att hon haft mer eller mindre riklig blödning i stort sett varje dag sedan en månad tillbaka.
@@ -1181,13 +1229,13 @@ cerivicit
     * hormonspiral
     * kombinerade p-piller
     * gestagena preparat
-* Fardihe 47år
+* **Fardihe 47år**
   * III-para med normalt gyn status enl journalanteckningarna ringer på din telefontid för att få svar efter genomgång endometriebiopsi som utfördes på kvinnoklinikens mottagning pga rikliga oregelbunda blödningar som haft senaste året. histologi visar benign endometriehyperplasi 
   * **Vilket är den troliga orsaken till Fardihes endometrieförändringar?**
     * abe: Anovulatorisk blödning  (abe hade osså skrivit ovariell insufficiens)
   * **mekanismen bakom flrändringarna**
     * Utebliven ovulation, kvarstår i proliferationsfasen och follikelfasen. Endometrieslemhinnan fortsätter att proliferea och hyperplasiera. 
-  * 2 lämpliga 1a handsbehandlingar: 
+  * **2 lämpliga 1a handsbehandlingar**: 
     * Gestagena behjandlingar: hormonspiral eller gestagen kur
       * viktigt informera ormonspiral första 6månaderna orskar oregelbundna småblödningar men brukar gå över.
 
@@ -1202,6 +1250,9 @@ cerivicit
 * **Proliferar tills det blir nekros**
 * **För ingt progesteron, spiralkärlen kontraherar ej och ingen spasm**
 * **Fortsätter att blöda**
+* **Debut**
+  * **Yngre**: omogen hypothalamus-hypofys axel
+  * **Äldre**: ovariell dysfunktion
 
 
 
@@ -1222,14 +1273,16 @@ cerivicit
 
 * **Cykliskt gestagen**: 3-6månader
 * **Kombinerade p-piller**
-* **Enl Semineriet**
+* !!! **Enl Semineriet**
   * **Starta om cykeln**: 
-    * Cykliskt gestagen, 10d 10mg, peroralt, 
+    * Cykliskt gestagen, 10d-14d 10mg, peroralt, 
     * kan ges, för att trigger sekretionsfas, varpå stopp kommer att starta om cykeln
-  * **Hormonspiral**: bra blödningskontroll
+  * **Hormonspiral**: bra blödningskontroll; abe menar att jag kan hoppa på hormonspiral fr the get go, även om det är en pågående blödning. 
   * **P-stav**: viktigt att notera att man inte får den bästa blödningskontrollen med en p-stav, men att den kommer att hindra ovulationerna och hålla slemhinnan tunn. Fortfarande möjligt med stänkblödningar, som är vanligt förekommande, speciellt de första månaderna med behandlingen
   * **Gestagener**: mellan-piller, dessa kan man också använda men rä väldigt användarboerene
   * **Kombinerade p-piller**: bättre blödningskontroll än enbart perorala gestagener exempelvis, så kan rekommenderas om patienten inte vill ha en hormonspiral och liknande
+  * **Utrusta patienten med ciklokapron**: 
+    * När man börjar blöda så tar man ciklokapron
 
 
 
@@ -1323,7 +1376,7 @@ cerivicit
 
 
 
-***Dffa***
+***Diffa***
 
 * Myom
 * polyp
@@ -3416,7 +3469,21 @@ cerivicit
   * Risk behöva ta bort äggstocken
   * Risk åpverka äggreserven
   * INTE punktera cystan: recidiverar inom 1år
-* 
+
+
+
+
+
+### Dermoid
+
+***Presentation***
+
+* !! Olga 42-årig 2-grav, 1-para med regelbundna menstruationer, använder spiral som preventivmedel. Hon söker akut pga att hon sedan ett halvt dygn haft intermittenta, kraftiga smärtor och trängningar i nedre delen av buken. Vid gyn undersökning, som är mycket smärtsam, palperar du en drygt apelsinstor, rund, fast resistens, lateralt om uterus. Ultraljud visar en cystisk resistens med varierande ekogenicitet varav några ekotäta områden, varav en liten extremt ekotät förändring.
+  * Vilken typ av ovarialtumör misstänker du med anledning av UL fyndet och symptomen
+    * Dermoid
+    * detta för att det inte föreligger ascites, några andra tecken till malignitet, enl abe
+
+
 
 ### Funktionell cysta
 
@@ -4510,12 +4577,12 @@ cerivicit
 
 ***Behandling***
 
-* Hormonsubstitution
+* !! **Hormonsubstitution, HRT**
   * inducera pubertet
   * behandla vasomotoriska symptom
   * återställa torra sköra slemhinnor
   * motverka osteoporos; försämrad kognition; ökad risk CVD
-* Graviditetsönskan
+* **Graviditetsönskan**
   * hormonstimulering
   * frysning ovarievävnad, befruktade ägg
   * äggdonation
@@ -6928,6 +6995,27 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+***Flödesmätning***
+
+* Var gör man blodflödesudnersökningar vid misstänkt IUGR
+  * !! Hos foster
+    * A umbilicalis
+    * A cerebri media
+    * Ductus venous
+  * hos mor: 
+    * a uterina
+* BFK: Blodflödesklass, a umbilicalis
+  * BFK0: normalt
+  * ökande BFK indikativt för ökande motstånd
+
+
+
+| <img src="./imgs/sam_260421_tfrbtIcUYU.png" alt="tfrbtIcUYU" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
 #### IUGR
 
 ***Presentation***
@@ -7225,6 +7313,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+***Fysiologiskt***
+
+* DC DA: 80% dizygot, 20% monozygot
+* MC DA: alltid monozygot; blastocyten klyvs i 2
+* MC MA: klyvning av den implanterade blastocystan
+
+
+
 ***Indelningar***
 
 * **DC DA**: dichorion, diamniotisk
@@ -7378,14 +7474,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Behandling***
 
-* Stark indikation för att behandla ABU
-* Antibiotikabehandling
+* **Stark indikation för att behandla ABU**
+* **Antibiotikabehandling**
   * Amplicillin
   * amoxicillin
   * mecillinam
-  * furadantni
+  * furadantni: nitrofurantoin
   * cefalosporiner
-* antibiotika, kontraindicerade
+* **antibiotika, kontraindicerade**
   * kinoloner, däribland lexinor
   * trimetoprim
 
@@ -8055,6 +8151,14 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+### Salpinx
+
+#### Hydrosalpinx
+
+***Etiologi***
+
+* Svullen salpinx
+
 ### Spiralrelaterad infektion
 
 ***Etiologi och patofysiologi***
@@ -8200,7 +8304,42 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ## Infektion: genital
 
+### Allmänt
 
+
+
+***Etiologi och patofysiologi***
+
+* **Infektioner, andra mikrobiella manifest**
+  * **Vulva, vulvit**: HPV, herpes, candida, syfilis
+  * **Vagina, vaginit**: HPV, herpes, candida, syfilis, bakteriell vaginos, trichomonas
+  * **Cervix, cervicit**: HPV, herpes, candida, syfilis, bakteriell vaginos, trichomonas, gonorre, mykoplasma genitalis
+  * **Uterus, endometrit**: bakteriella som ovan (bakteriell vaginos? gonorre, mykoplasma genitalis, ), tarmbakterier
+  * **Tubor, salpingit, TOA**: bakteriella infektioner
+  * **Ovarier, TOA**: bakteriella agens
+  * **Bäckenet, PID**: bakteriella
+  * **Extragenitala manifest**: periappendicit, perihepatit, artrit, konjunktivit, proktit
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utrending och handläggning***
+
+* **Anamnes**
+  * partner,
+  * har du haft sex
+  * vem, vilkar har du sex
+  * typ av sex
+
+
+
+***Behandling***
+
+* EJ behöver partnerbehandlas: herpes, bakteriell vaginos, HPV, svamp
+* behöver partnerbehandling: gonorre, trichomonas
 
 ### Bakteriell vaginos
 
@@ -8232,6 +8371,16 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Etiologi och patofysiologi***
 
 * Obalans i bakteriefloran
+
+
+
+***Differentialdiagnoser***
+
+* Candidavaginit
+* Atrofisk kolpit
+* STI (klamydia, gonorré, trichomonas)
+* Ospecifik cervicit
+* Cervix- eller corpuscancer med illaluktande flytning
 
 
 
@@ -8276,7 +8425,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***!!! Komplikationer***
 
 * Prematurbörd
-* **!!! Endometrit**
+* **!!! Endometrit**: antagligen orsaken till att man vill behandla botr BV innan man aborterar. 
 
 
 
@@ -8306,6 +8455,43 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Behandling***
 
 * Incision och dränering
+* Behandla inte med antibiotika
+
+
+
+| <img src="./imgs/sam_260421_NTg2JgfG5P.png" alt="NTg2JgfG5P" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+### Candida vulvit
+
+***Kännetecken***
+
+* Rosa-färgad vulva
+
+
+
+
+
+***Utredning***
+
+* anamnes + status
+* Gyn us
+
+
+
+***Behandling***
+
+* Cortymik: steroider + antimykotika kräm som man kan använda
+  * både symptomlindrande och behandlande
+
+
+
+| <img src="./imgs/sam_260421_xXLpGdX4On.png" alt="xXLpGdX4On" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -8335,6 +8521,11 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * ytlig smärta, dyspareuni (detta är intressant)
 * ökad flutning (kesoliknande)
 * ibland helt normal, för där kmr wet smear in för då ser hyfer efter KOH. 
+* !!! Inflammerade (rodnade, svullna) slemhinnor: Notera att BV inte får inflammerade slemhinnor 
+* Kesolik flytning (kan ibland vara tunnflytande eller mycket sparsam)
+* Sprickbildningar i perineum
+* Eksem (oftast symmetriskt) i vulva
+* Svampeksem kan samtidigt finnas i ljumskar och andra hudveck
 
 
 
@@ -8350,14 +8541,25 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * vagitorier och ev kräm
   * 1-3d
 * **Andra hand**
-  * Flukonazol aka Diflucan, 150mg x1
-* Kroniskt recidiverande
+  * peroralt Flukonazol aka Diflucan, 150mg x1
+* **Kroniskt recidiverande**: var 14e dag i 3-6månader, över 4 skov per år. 
 * **Gravid**: nystatin (antibiotikum mot svampinfektioner) vaginal tabletter
 * **Självbehandling enbart 1gg**: pat ska enbart självbehandla 1gg, för att lkm är kraftiga, så behöver söka specialist om det inte går bort. 
 
 
 
 ### Cervix, cervicit
+
+***Presentation***
+
+* 23åå, 1gravida 0 para
+  * sveda vid miktion, lite spottings, manlig partner sedan ngåra månader, urinsticka visar 4+ LPK, negativ nitrit, ingen feber
+  * vad göra
+    * Ser rodnad irriterad portio, med pus som kommer ut yr yttre modermunnen. 
+    * Cervicit har ingen ömhet över uterus
+    * Provtagning för cellprovtagning + HPV, NAT för kalmydia och gonorre.
+  * Diagnos: klamydia
+    * <img src="./imgs/sam_260421_Dc9e2qryXc.png" alt="Dc9e2qryXc" style="zoom:50%;" />
 
 
 
@@ -8413,42 +8615,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
-### Genital infektion
-
-
-
-***Etiologi och patofysiologi***
-
-* **Infektioner, andra mikrobiella manifest**
-  * **Vulva, vulvit**: HPV, herpes, candida, syfilis
-  * **Vagina, vaginit**: HPV, herpes, candida, syfilis, bakteriell vaginos, trichomonas
-  * **Cervix, cervicit**: HPV, herpes, candida, syfilis, bakteriell vaginos, trichomonas, gonorre, mykoplasma genitalis
-  * **Uterus, endometrit**: bakteriella som ovan (bakteriell vaginos? gonorre, mykoplasma genitalis, ), tarmbakterier
-  * **Tubor, salpingit, TOA**: bakteriella infektioner
-  * **Ovarier, TOA**: bakteriella agens
-  * **Bäckenet, PID**: bakteriella
-  * **Extragenitala manifest**: periappendicit, perihepatit, artrit, konjunktivit, proktit
-
-
-
-***Kliniska kännetecken***
-
-
-
-***Utrending och handläggning***
-
-* **Anamnes**
-  * partner,
-  * har du haft sex
-  * vem, vilkar har du sex
-  * typ av sex
-
-
-
-***Behandling***
-
-* EJ behöver partnerbehandlas: herpes, bakteriell vaginos, HPV, svamp
-* behöver partnerbehandling: gonorre, trichomonas
+* 
 
 
 
@@ -9123,10 +9290,43 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ## Hud
 
+### Allmänt
+
+***Orsaker som kan drabba vulva***
+
+* Herpes
+* Syfilis
+* HPV
+* Candida
+
+
+
+
+
+
+
 ### Cholasma
 
 * Pigmentförändringar under graviditet
 * blotchy pignemtering över näsa o ansikte under grav
+
+
+
+### Herpes
+
+
+
+***Kännetecken***
+
+
+
+
+
+| <img src="./imgs/sam_240421_dOS6Hf6xw9.png" alt="dOS6Hf6xw9" style="zoom: 33%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
 
 ### Kondylom
 
@@ -9185,7 +9385,23 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
   
 
-  
+
+
+### Syfilis
+
+
+
+***Kännetecken***
+
+* LItet sår i vulva: primär schanker, första symptomet på syfilis
+
+
+
+| <img src="./imgs/sam_260421_ByY2LonZ4z.png" alt="ByY2LonZ4z" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
 
 ### Vulvär eksem
 
@@ -9198,6 +9414,10 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Behandling***
 
 * Högdos kort period kortikosteroider
+
+
+
+
 
 
 
@@ -9683,6 +9903,46 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 | <img src="./imgs/sam_240421_woYhj9fb3e.png" alt="woYhj9fb3e" style="zoom:50%;" /> | <img src="./imgs/sam_240421_gqclnkRQj3.png" alt="gqclnkRQj3" style="zoom:50%;" /> |
 | <img src="./imgs/sam_240421_Or5FCp796I.png" alt="Or5FCp796I" style="zoom:50%;" /> | <img src="./imgs/sam_240421_BdLIUWUFw1.png" alt="BdLIUWUFw1" style="zoom:50%;" /> |
 | <img src="./imgs/sam_240421_n3vTtEkOGi.png" alt="n3vTtEkOGi" style="zoom:50%;" /> | <img src="./imgs/sam_240421_pufmdjwE5W.png" alt="pufmdjwE5W" style="zoom:50%;" /> |
+
+### Postoperativt
+
+***Tidig feber***
+
+* Feber tidigt + gott AT: kan vara okej, att det är OP relaterat
+* Operativ komplikation
+  * Tarmskada
+  * Tarmläckage
+  * Perforation
+  * Hematom?
+* Lungemboli
+* Malign hypertermi
+
+
+
+***Sen feber, ngåra dagar***
+
+* UVI: om KAD
+* Infektion luftvägar om intuberade
+* Infarter: infektion
+* Sårinfektion: operationsstället
+* VTE, trombembolism
+
+
+
+***Handläggning***
+
+* Anamnes + status
+* INfektionsfokus
+* odlingar
+* provr: CRP, LPK, kap-hb, u-sticka
+
+
+
+***Behandling***
+
+* Initialt för en sviktande patient: cefotaxim + metronidazole för en bredare täckning
+* Utefter odlingssvar: bensyl-pcg
+* 
 
 
 
@@ -10461,7 +10721,7 @@ FD
 
 
 
-***Presentation***
+#### Presentation
 
 * **Betty 53år, TODO**
   * har sedan 2 år östrogenplåster som hon byter 2 gånger per vecka. Var 3e månad tar hon en gestagentablett i 2veckor och får då en blödning. nu är hon så trött på blödningarna och kommer till dig för att hon inte längre vill ta sitt gestagen. Vad svarar du? M
@@ -10483,8 +10743,8 @@ FD
   * ge förslag på behandling och motivera ditt svar
     * åat har klimakterie besvär, då östrogennivåerna sjunker (till följd av progressivt reducerande antal folliklar som vidareutvecklas och bidrar till den cykliska östrogenproduktionen under menstruationscykeln). 
     * motiverar behandling med östrogen och gestagen
-    * Hennes fall: HRT behandling (östrogen + gestagen) för att skydda endometrieslemhinnan, minska blödningsbenägenheten och endometriell hyperplasi, samt minska risken för malignitete jfr enbar behandling med östrogen som kan påverka endometriet. 
-    * Specifikt: kivnnor som fortfarande menstruerar + behandlingskrävande klimakteriella besvär, bör ha behandling enl följande
+    * **Hennes fall**: HRT behandling (östrogen + gestagen) för att skydda endometrieslemhinnan, minska blödningsbenägenheten och endometriell hyperplasi, samt minska risken för malignitete jfr enbar behandling med östrogen som kan påverka endometriet. 
+    * **Specifikt**: kivnnor som fortfarande menstruerar + behandlingskrävande klimakteriella besvär, bör ha behandling enl följande
       * cuklisk beh med fast kombination östrogen + gestagen. Eller individuell beh med östrogen transdermalt eller i tablettform tillsammans med gestagen för att skydda endometriet
       * rekommenderade prep fr kloka listan
         * fast kombination
@@ -10519,9 +10779,9 @@ FD
     * Motivera vf behandlingen skiljer sig åt
       * östrogenets proliferativa effekt på endometrieslemhinnan (inducerad proliferaitionsfas) med enbart östrogen leder t att slemhinnan genomgår hyperplasi (mitoser). med ökad risk för endometriecancer, varför det är motiverat med proliferationshämning med pogesteron
 * Maja 54år
-  *  söker pga svårigheter att sova på ntäterna pga rikligt nattliga svettningar och vallningar. Får gå upp flera gånger och byta sängkläder och nattlinne. Minskad sexlust. Tycker också att hon på sista tiden fått svårare att hålla urinen får kissa ofta. Hereditet: majas mamma drabbades av bröscancer vid 60 åå ( ER positiv ca). Majas syster drabbades av lungemboli vid 25 åå i sabmand med flygresa. Systern åt kombinerade p-piller då och mår bra idag.Gyn: Vi gravida 3 para 2 missfall o en legal abort. Sista mens 1 år sedan. Röker inte och dricker ett glas vin på freda goch ett på lördag. Hon motionerar regelbundet:joggar och spelar tennis på lördagarna. Väger 72kg o 172 cm lång 
+  *  Söker pga svårigheter att sova på ntäterna pga rikligt nattliga svettningar och vallningar. Får gå upp flera gånger och byta sängkläder och nattlinne. Minskad sexlust. Tycker också att hon på sista tiden fått svårare att hålla urinen får kissa ofta. Hereditet: majas mamma drabbades av bröscancer vid 60 åå ( ER positiv ca). Majas syster drabbades av lungemboli vid 25 åå i sabmand med flygresa. Systern åt kombinerade p-piller då och mår bra idag.Gyn: Vi gravida 3 para 2 missfall o en legal abort. Sista mens 1 år sedan. Röker inte och dricker ett glas vin på freda goch ett på lördag. Hon motionerar regelbundet:joggar och spelar tennis på lördagarna. Väger 72kg o 172 cm lång 
   * Maja vill verkligne ha östrogenbehandling för sina vallningar och svettningar !
-  * kan hon få behandling med östrogen för sina vallnignar o svettnnigar
+  * Kan hon få behandling med östrogen för sina vallnignar o svettnnigar
     * ja
     * ingen hereditär cancer, iom ER positiv, ingen BRCA muterad cancer
     * stystern provoderad lungemboli, tyder ej på familjär komponent i koagulipatin
@@ -10534,6 +10794,10 @@ FD
   * Handläggning:
     * Kan reka Hyaluronsyra för slemhinnefuktande. 
     * Alternativt Efter konsultation med onkolog, Blisel som är lågdos östrogen vagitorer. 
+
+
+
+#### Allmänt
 
 
 
@@ -10563,32 +10827,105 @@ FD
 
 ***Utredning och handläggning***
 
+* Innan HRT behandling
+  * Indikationsbedömning
+  * info för ackdelar
+  * värdera itnerkurrenta sjukdomar
+  * gynekologisk undersökning vid synmptom
+  * BT mätning
+  * mammografi:* om sådan inte gjorts inom screeningintervall
+
+
+
+***Behandlingsprinciper***
+
+* behandlingstiden bör hållas så kort som möjligt
+* lägsta effektiva dos (högre om prematur menopaus) 
+* kombination av östrogen och gestagen till kvinnor med livmodern intakt
+* **transdermalt östradiol**
+* vid enbart urogenitalabesvär ges lokal östrogenbehandling
+
+
+
+***Biverkningar***
+
+* blödningsproblem
+* bröstsvullnad/ömhet
+* humörpåverkan
+* hudreaktion av plåster
+* illamående
+* huvudvärk
+* rädsla för cancer
+
+
+
+***Initiering av HRT***
+
+* indikationsbedömning 
+* information om för-och nackdelar 
+* värdera interkurrentasjukdomar
+* gynekologisk undersökning vid symptom
+* blodtrycksmätning
+* mammografi -om sådan inte gjorts inom screeningintervall
+* **Onkolog kontakt**: om tidigare bröstcancer föreligger för att diskutera insättning
+
 
 
 ***Behandling***
 
 * **Klimakteriebesvär**
-  * **HRT**: 
-    * **östrogen + gestagen**
+* **Alternativ**: HRT (östrogen + gestagen), samt ERT
+  * **HRT**: **östrogen + gestagen**
   * **ERT**: 
     * **Indikationer**: om man saknar livmoder kan man ge ERT;
     * man ger EJ HRT om man saknar en livmoder enl abbe. 
     * // hormonspiral kan agera komplement till ERT för att skydda endometrieslemhinnan... 
   * **Behandlingslängd**: utsättningsförsök 
-* **Specifikt: kivnnor som fortfarande menstruerar + behandlingskrävande klimakteriella besvär, bör ha behandling enl följande**
-  * cyklisk beh med fast kombination östrogen + gestagen. 
-  * Eller individuell beh med östrogen transdermalt eller i tablettform tillsammans med gestagen för att skydda endometriet
-  * rekommenderade prep fr kloka listan
+* **Lokal östrogenbehandling**
+  * **Indikationer**: torrhetskänsla, sveda, klåda, dyspareuni, överaktiv blåsa (måttlig evidens), recidivierande uvi (svag evidens)
+* **Behandlingslängd**: 
+  * i behandlingsprocess att kvinnan sätter ut och ser om besvär kvar
+  * om inga symptom även vid utsatt ska man discontinue behandling
+  * **Bröstcancerrisk, avslutar beh för alla efter 5år**: efter 5år behandling, man avslutar behandling efter 5 år, för ALLA
+* **Fortfarande menstruerar + behandlingskrävande klimakteriella besvär:**
+  * !!! **cyklisk beh**
+    * Med fast kombination östrogen + gestagen. 
+    * Betyder att man äter östrogen en vissa halva, östrogen + gestagen
+    * Bättre kontroll på blödningen 
+    * **Samt minskad risk för endometriecancer:** att man ska stöta ut endometriet cykliskt. 
+    * **Syfte med cyklisk behandling**: bätte blödningskontroll,
+  * **Eller individuell beh med östrogen transdermalt eller i tablettform tillsammans med gestagen för att skydda endometriet**
+  * **rekommenderade prep fr kloka listan**
     * fast kombination
     * Novofem: en lågdos cyklisk behandling, inte alltid behöver ge ngn bortfallsblödning. vid otillräcklig effekt kan östrogendosen höjas t 2mg östradiol med tillägg ett getagen i 12d, varje månad som i divina plus och femasekvens
   * Detta sker alltså **cykliskt**
 * **Samm symptom som ovan, men hos kvinna som inte haft blödningar sedan 3år:**
-  * kvinnor klimakteriebesvär + sista mens över 1år sedan, som inte vill ha några blödnignar bör beh enl följande
-    * Kontinyuerlig beh för blödningsfrihet som rek i kloka listan
+  * **kvinnor klimakteriebesvär + sista mens över 1år sedan, som inte vill ha några blödnignar bör beh enl följande**
+    * !!! **Kontinyuerlig beh** för blödningsfrihet som rek i kloka listan
     * INdivina: 1mg östradiol + 2.5mg medroxyprgoesteron, 1mg östradiol + 5mg medroxyprogesteron
     * activelle: 1mg östradiol + 0.5mg noretisteron
 * **Samma symptom som ovan men inga blödningar sedan 10år, pga hysterektomi.** 
   * endast östrogen. Gestagen behövs för att skydda en frånvarande endometrieslemhinna pga hysterektomin
+
+
+
+
+
+***Kontraindikationer för HRT behandling***
+
+* **odiagnostiserad vaginal blödning**
+* **anamnes på bröstcancer**: historisk bröstcancer
+* **aktuell** DVT eller lungemboli
+* **aktuell eller tidigare** arteriell hjärt-kärlsjukdom (angina, stroke, hjärtinfarkt)
+* **allvarlig gall-eller leversjukdom**
+
+
+
+| <img src="./imgs/sam_260421_WhBJZdFW5Q.png" alt="WhBJZdFW5Q" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+|                                                              |      |      |
+|                                                              |      |      |
 
 
 
@@ -13293,7 +13630,7 @@ Spinalbedövning
 
 
 
-| <img src="./imgs/sam_250421_1MHOVzOAMk.png" alt="1MHOVzOAMk" style="zoom:50%;" /> |      |      |
+| <img src="./imgs/sam_250421_1MHOVzOAMk.png" alt="1MHOVzOAMk" style="zoom:70%;" /> |      |      |
 | ------------------------------------------------------------ | ---- | ---- |
 |                                                              |      |      |
 
@@ -14324,6 +14661,32 @@ Spinalbedövning
 
 
 
+### Akut prevention
+
+
+
+***Presentation***
+
+* !! **25åå kvinna**
+  * söker för att hon precis haft samlag och inte preventerat. Hur gör du nu
+    * **Kopparspiral kan ges upp till 120h efter samlag**
+    * **Akut piller, är gestagent**: fr fass "Vid användning som akutpreventivmedel är verkningsmekanismen hämning eller fördröjning av ägglossningen via hämning av LH-ökningen"
+      * Detta är ett progesteron, kanske hindrar ägglossning för att man inte får en LH preparat. 
+      * skjuter fram ägglossning och hindrar graviditet, om ett ägg redan befruktats, kommer akut p-piller inte att skydda. Den är 72h efter oskyddat samlag (alltså 3d). 
+      * Notera därför att kopparspiral är bättre flr att den är embryotoxiskt
+
+
+
+***Handläggning***
+
+* **Kopparspiral kan ges upp till 120h efter samlag**
+* **Akut piller, är gestagent**: fr fass "Vid användning som akutpreventivmedel är verkningsmekanismen hämning eller fördröjning av ägglossningen via hämning av LH-ökningen"
+  * Detta är ett progesteron, kanske hindrar ägglossning för att man inte får en LH preparat. 
+  * skjuter fram ägglossning och hindrar graviditet, om ett ägg redan befruktats, kommer akut p-piller inte att skydda. Den är 72h efter oskyddat samlag (alltså 3d). 
+  * Notera därför att kopparspiral är bättre flr att den är embryotoxiskt
+* EllaOne: är en progesteronreceptormodualtor, agerar som en LH-peak inhibition också,
+  * 150h efteråt. 
+
 
 ### Koagulation
 
@@ -14441,7 +14804,7 @@ Spinalbedövning
   * bröstcancer hos patientens syster
   * rätt: migrän med aura
   * Persisterande HPV infektion
-  * superficiella varicer
+  * superficiella varicer: Detta är en intressant fråga
 * **Tara är 29år**
   * och har fött sitt andra barn vaginalt. Pga blödning på 1000ml hamnade hon på BB. Hon har beslutat att hon inte ska amma pga att hon fick oerörda problem förra gången med bröstböld och flera operationer pga detta. Hon är tidigare frisk, har normalt BMI äter inga mediciner och röker inte. 
   * Vid utskrivningssamtalet på BB noterar du att ingen planering är gjorde för hennes preventivmetod efter förlosningen. Det är viktigt för henne att undvika graviditet pga att hon nu har 2 barn under 2 år och den senaste graviditeten var oplanerad.
@@ -14588,6 +14951,8 @@ Spinalbedövning
 
 
 
+##### Kontraindikationer
+
 !!! ***ABSOLUTA kontraindikationer för kombinerad metod***
 
 * "Har kvinnan en riskfaktor som ökar risken för trombos VTE? är svaret är ja, ska hon inte ha kombinerad metod (överhuvudtaget)"
@@ -14625,7 +14990,7 @@ Spinalbedövning
 * **Kontraindikationer mot användning av kombinerad hormonell antikonception, enl s168 i boken**
   * Anamnes DVT eller artärtrombos
   * hereditet DVT (förälder, syskon)
-  * känd kaoagdefekt hos kvinnan, föräldrar, syskon
+  * känd koagdefekt hos kvinnan, föräldrar, syskon
   * sjd i hjärtklaffarna, som innebär ökad risk för tormbos
   * migrän med fokala neurologiska symptom
   * anamnes cerebrovaskulärsjd eller myokardsjd
@@ -14692,39 +15057,6 @@ Spinalbedövning
 
 
 
-***Barriärmetoder***
-
-* **Manlig kondom**
-  * ska sättas på innan penetration
-  * hålla runt penisroten när man drar ut
-* **kvinnlig kondom (femidom)**
-  * minimal marknad i Sverige
-  * viss betydelse Afrika, särskilt sexarbetare
-  * <img src="./lectures/gyn_lec//imgs/gyn_lec_q0xTaYaeoU.png" alt="q0xTaYaeoU" style="zoom:50%;"/>
-* **Pessar** (diafragma på engelska=)
-  * sätta in rätt viktigt
-  * har spermiedödande medel
-  * **typer:** cervixpessar som nästan caps cervix, och vaginal pessar som täcker mer av vagina
-    * **cervixpessar** måste sättas av en kliniker, patienten kan ej göra detta sj; mindre effektiv jfr andra pessar,
-  * ***Effektivitet***: "actual" effectiveness med spermiedödande medelär runt 85%
-  * ***Biverkningar***: 
-    * Toxic schock syndrome (TSS) om den är kvar för länge, kan koloniseras av staf aureus
-    * hypersensitivitet till gummi, latex, eller spermiciden
-  * **Svåra att använda**: få som fortsätter med den
-  * <img src="./lectures/gyn_lec/imgs/gyn_lec_A6OiqMA20B.png" alt="A6OiqMA20B" style="zoom:50%;"/>
-* **fem cap (cervixpessar i silikon)**
-  * enl studier mindre säker än pessar, svårare att använda
-
-
-
-<img src="./lectures/gyn_lec/imgs/gyn_lec_KQJFXDPZS4.png" alt="KQJFXDPZS4" style="zoom:50%;"/>
-
-
-
-
-
-
-
 ***Sterilisering***
 
 * ***Lag:*** över 25åå, skriva bekräftelse på erhållen info (permanent ingrrepp; andra prev metoder; kruator vb)
@@ -14774,6 +15106,8 @@ Spinalbedövning
   * **BT vid p-pillerförskrivning**
   * **evt cytologprov, klamydiaprov**
 
+
+
 #### Kopparspiral
 
 ***Presentation***
@@ -14782,7 +15116,7 @@ Spinalbedövning
 
 ***Etiologi och patofysiologi***
 
-* **Kopparspiral**: kopparjonerna är toxiska för spermier och embryon. endometriet tunnare. 
+* **Kopparspiral**: kopparjonerna är toxiska för spermier och embryon.
 * **koppararea är viktigt**: utsöndrar kopparjoner tar sig in i sekret i cervix o tuba. Kopparna ska va tillräcklig kroppsarea. 
 * **Effekter**
   * Sekret cervux, uterus, tuba påverkas
@@ -14840,9 +15174,9 @@ Spinalbedövning
 
 ***Effekter***
 
-* Cervixsekret tjockt + ogenomträngligt
-* Endometriet blir tunt
-* ovulatiosnpåverkan: på äldre kvinnor, yngre mer fertila kvinnor har nog ingen större effekt på ovulationen. 
+* **Cervixsekret tjockt + ogenomträngligt**
+* **Endometriet blir tunt**
+* **ovulatiosnpåverkan**: på äldre kvinnor, yngre mer fertila kvinnor har nog ingen större effekt på ovulationen. 
 
 
 
@@ -14873,8 +15207,8 @@ Spinalbedövning
 * **28åå kvinna, Michelle**
   * har just genomgått en kirurgisk abort och har bestämt sig för en p-stav efteråt. Hennes kompis har istället fått en kopparspiral och nu undrar Michelle hur p-staven fungerar och vad det är för skillnad på den och spiralen. Beskriv verkningsmekanismen för P-stav och kopparspiral.
   * verkningsmekanism p-stav o kopparspiral
-    * p-stav: ovulatiosnhämning, endometriet blir tunnare, cervixsekret tjockare ogenomträngligt. 
-    * kopparspiral: hindrar implantation, hämmar spermiemotilitet (spermatoxiskt) och embryotoxiskt.
+    * **p-stav**: ovulatiosnhämning, endometriet blir tunnare, cervixsekret tjockare, ogenomträngligt. 
+    * **kopparspiral**: hindrar implantation, hämmar spermiemotilitet (spermatoxiskt) och embryotoxiskt.
 
 
 
@@ -14900,7 +15234,7 @@ Spinalbedövning
 
 * ***DET MEST EFFEKTIVA PREVENTIVMEDEL***: 100% ovulationshämning i 3år
   * hos i princip alla kvinnor
-* Efter hormonspiralen kommer p-staven in terms of nöjdhet
+* **Efter hormonspiralen kommer p-staven in terms of nöjdhet**
 
 
 
@@ -15011,9 +15345,40 @@ Spinalbedövning
   * **Utesluta ektopisk graviditet**: om pat blir gravid är det otroligt viktigt att utesluta X-graviditet hos dessa
   * **Spiralgraviditet**: att spiraltrådarna har åkt in i cervix, varpå svårt att få tag på trådarna igen; HÖG risk för pprom och prematur födsel. 
 
-<img src="./lectures/gyn_lec/imgs/gyn_lec_Hj9UD7fMoH.png" alt="Hj9UD7fMoH" style="zoom:50%;" />
 
-<img src="./lectures/gyn_lec/imgs/gyn_lec_4Ckb9eqdpA.png" alt="4Ckb9eqdpA" style="zoom:50%;" />
+
+##### Kontraindikationer
+
+* **För mireena enl FASS**
+  * Konstaterad eller misstänkt graviditet
+  * !!! **Gestagen-känsliga tumörer, t.ex. bröstcancer**
+  * Pågående eller recidiverande bäckeninflammation
+  * Cervicit
+  * Infektion i nedre genitalier
+  * Endometrit postpartum
+  * Infektion efter abort inom de tre senaste månaderna
+  * Tillstånd som medför ökad infektionsbenägenhet
+  * Cervikal dysplasi
+  * Malignitet i cervix eller uterus
+  * Odiagnosticerad onormal uterin blödning
+  * Medfödd eller förvärvad uterin anomali inklusive myom om de påverkar livmoderkaviteten
+  * Akut leversjukdom eller levertumör
+  * Överkänslighet mot den aktiva substansen eller mot något hjälpämne som anges i avsnitt Innehåll.
+
+
+
+
+
+| <img src="./lectures/gyn_lec/imgs/gyn_lec_Hj9UD7fMoH.png" alt="Hj9UD7fMoH" style="zoom:50%;" /> | <img src="./lectures/gyn_lec/imgs/gyn_lec_4Ckb9eqdpA.png" alt="4Ckb9eqdpA" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+|                                                              |                                                              |      |
+
+
+
+
+
+
 
 #### P-plåster
 
@@ -15043,9 +15408,52 @@ Spinalbedövning
 
 #### akut p-piller
 
+
+
+
+
 #### mini-piller
 
+***Farmakologiskt***
+
+* Lågdosgestagen
+
+
+
 #### barriärmetoder
+
+
+
+***Barriärmetoder***
+
+* **Manlig kondom**
+  * ska sättas på innan penetration
+  * hålla runt penisroten när man drar ut
+* **kvinnlig kondom (femidom)**
+  * minimal marknad i Sverige
+  * viss betydelse Afrika, särskilt sexarbetare
+  * <img src="./lectures/gyn_lec//imgs/gyn_lec_q0xTaYaeoU.png" alt="q0xTaYaeoU" style="zoom:50%;"/>
+* **Pessar** (diafragma på engelska=)
+  * sätta in rätt viktigt
+  * har spermiedödande medel
+  * **typer:** cervixpessar som nästan caps cervix, och vaginal pessar som täcker mer av vagina
+    * **cervixpessar** måste sättas av en kliniker, patienten kan ej göra detta sj; mindre effektiv jfr andra pessar,
+  * ***Effektivitet***: "actual" effectiveness med spermiedödande medelär runt 85%
+  * ***Biverkningar***: 
+    * Toxic schock syndrome (TSS) om den är kvar för länge, kan koloniseras av staf aureus
+    * hypersensitivitet till gummi, latex, eller spermiciden
+  * **Svåra att använda**: få som fortsätter med den
+  * <img src="./lectures/gyn_lec/imgs/gyn_lec_A6OiqMA20B.png" alt="A6OiqMA20B" style="zoom:50%;"/>
+* **fem cap (cervixpessar i silikon)**
+  * enl studier mindre säker än pessar, svårare att använda
+
+
+
+<img src="./lectures/gyn_lec/imgs/gyn_lec_KQJFXDPZS4.png" alt="KQJFXDPZS4" style="zoom:50%;"/>
+
+
+
+
 
 
 
@@ -15112,19 +15520,19 @@ Spinalbedövning
     * vilka förväntningarhon har på sitt preventivmedel
     * hur livssituationen ser ut avseende fasta rutiner (som kan påverka möjligheter att komma ihågett dagligt intag)
     * om kvinnan har behov av några positiva hälsoeffekter av vissa preventivmedel
-  * fr bok
-    * Anamnes
+  * **fr bok**
+    * **Anamnes**
       * tidg erfarenhet p-medel
       * tidg grav
       * mens anamnes
       * relation o livssituation
       * kontraindikationer
-    * Undersök
+    * **Undersök**
       * gyn undersök
-      * BT vid p-pillerförskriv
-      * vikt vid hormonell antikoncep
+      * !!! BT vid p-pillerförskriv
+      * !!! vikt vid hormonell antikoncep
       * evt cytologprov klamydiaprov
-* KÄnsla fattat eget beslut
+* **Känsla fattat eget beslut**
 
 
 

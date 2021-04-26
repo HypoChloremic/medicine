@@ -3008,7 +3008,7 @@ enl läk
 
 
 
-![b20HqhMOdE](./imgs/gyn_sam_150421_b20HqhMOdE.png)
+<img src="./imgs/gyn_sam_150421_b20HqhMOdE.png" alt="b20HqhMOdE" style="zoom:50%;" />
 
 
 
@@ -3704,7 +3704,7 @@ enl läk
 
 * en del av normalflora
 * ovanligt före menarche o efter menopaus: svamphyfer behöver östrogen
-* symptom
+* **symptom**
   * klåda
   * sveda, svull, irritation
   * ytlig smärta, dyspareuni
@@ -3721,7 +3721,7 @@ enl läk
 
 ![image-20210325131006845](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20210325131006845.png)
 
-#### nakteriell vaginos
+#### Bakteriell vaginos
 
 * med NaCl på wet smear
   * ser då clue cells

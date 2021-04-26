@@ -69,10 +69,10 @@ Spädbarn med misstanke om UVI bör remitteras akut till barnläkare).
   - kolla i ljumskar 
   - utvärderar dehydreringstecken
   - i detta fallet ingen knöl eller ingen ömhet i buken som man kan se. 
-- ***Blodprover:*** 
-  - ***blodstatus,*** 
-  - ***elstatus,*** 
-  - ***venös gas*** 
+- **Blodprover:** 
+  - **blodstatus,** 
+  - **elstatus,** 
+  - **venös gas** 
     - (hypokloremi, hypokalemi, alkalos → kräks upp saltsyra), 
     - vid kräkning av HCL så förlorar man pH och kloridjoner, 
     - leder till hypoklerm alkalos
@@ -156,7 +156,9 @@ https://www.internetmedicin.se/behandlingsoversikter/pediatrik/infantil-hypertro
    4.  Smärtorna kommer i intervaller, däremellan är hon helt stilla. 
    5. Kräkts flera gånger. 
 
-**Frågor:** 
+
+
+**Frågor** 
 
 - Kräkts hur många gånger och hur mycket? Utseende? 
 - **Färg på kräkningarna?**
@@ -535,8 +537,8 @@ Hydrocele och ljumskbråck har samma etiologi men olika diameter på gången (pr
 
 **Behandling:** 
 
-- transfusion: lägger gränsen på Hb 100, för att patienten har en pågående stor förlust, behöver inte vara jätteanemisk för att vi ska välja att behandla honom. 
-- Resektion: man tar bort meckeln hetl enkelt
+- **Transfusion**: lägger gränsen på Hb 100, för att patienten har en pågående stor förlust, behöver inte vara jätteanemisk för att vi ska välja att behandla honom. 
+- **Resektion**: man tar bort meckeln hetl enkelt
 
 
 
@@ -544,11 +546,11 @@ Hydrocele och ljumskbråck har samma etiologi men olika diameter på gången (pr
 
 <img src="./imgs/barnkir_sem_zJUyLHb98w.png" alt="zJUyLHb98w" style="zoom:50%;" />
 
-* ***Blödning*** är den vanligaste komplikationen hos barn, via ulcus
-* ***Andra komplikationer***: 
-  * ***inflammation,*** 
-  * ***invagination***: kan vara en ledande punkt för invagination. 
-  * ***ileus:*** att meckeln lött fast mot bukväggen, utgör en brid, och orskar ileus. inte vanligt
+* **Blödning** är den vanligaste komplikationen hos barn, via ulcus
+* **Andra komplikationer**: 
+  * **inflammation,** 
+  * **invagination**: kan vara en ledande punkt för invagination. 
+  * **ileus:** att meckeln lött fast mot bukväggen, utgör en brid, och orskar ileus. inte vanligt
 
 
 

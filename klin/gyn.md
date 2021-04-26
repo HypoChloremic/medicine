@@ -5349,6 +5349,23 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 
 
+### Rutinhandläggning
+
+
+
+***Påverkade prover och handläggning***
+
+* Påverkan
+  * Njurpåverkan, 
+  * mikroalbuminuri, 
+  * hypertension 
+  * tid preeklampsi 
+  * tid IUGR
+* !! Åtgärd
+  * ASA, profylax
+  * Folsyra behandling
+  * UL v24+: blodflöde a uterina-notch + viktskattning
+
 ### Status
 
 * **Livmodern, palpatoriskt under graviditet**
@@ -5403,7 +5420,7 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
   * Thalasssemi
   * sickle cell anemi
 * **Anemi efter obstetrisk blödning**
-* Mindre vanliga orsaker til anemi graviditet + postpartum
+* **Mindre vanliga orsaker til anemi graviditet + postpartum**
   * folsyrebrist, B12-brist
   * thalassemi (hemoglobinopati)
   * sicklecellanemi
@@ -5458,7 +5475,18 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 
 
+***Etiologi***
 
+* antifosfolipid syndrom 1
+
+
+
+***Diagnoskriterier***
+
+* Arteriell eller venös trombos (en eller flera)
+* Allvarlig PE eller IUGR med för tidig förlossning <v34 IUFD eller sp ab> v 10 med morfologiskt normalt foster
+* 3 spontaneuos ab <v 10 (oförklarlig)
+* kardiolipin ak (ACLa) av Ig M- eller IgG-typ över normalgräns vid 2 tillfällen vid 6 v-intervall Positiv lupusantikoagulant 2 gånger / 6 v-intervall
 
 
 
@@ -5553,7 +5581,22 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
   * **tröskelhöjande**: att man minskar risken för kramper
   * an användas primär och sekundärprofylaktiskt syfte
 
+### Epilepsi
 
+* Planera grav- neurolog inkopplad
+* följ serumkoncentrationer av antiepileptika
+* Så låga doser som möjligt och dosen måste ökas under tredje trimestern
+* undvik kramper Status Epilepticus - hög sjuklighet och dödlighet
+* Monoterapi om möjligt, lamotrigin (lamictal), evitiracetam (Keppra), oxkarbazepin (Triptal). Undvik om möjligt Valproat (valproinsyra)
+* Folsyra 5 mg dagligen
+* Compliance ofta ett problem
+
+
+
+* Inga kontraindikationer för vaginal förlossning
+* Viktigt med sömn och analgesi
+* Amning OK med de flesta läkemedel
+* Antiepileptika kan påverka K-vitamin hos barn och ge därför barnet K-vitamin direkt efter förlossningen
 
 ### Fosterdiagnostik
 
@@ -5561,7 +5604,11 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 
 
-### Graviditetsdiabetes TODO
+### Diabetes
+
+
+
+#### Gestationsdiabetes GDM
 
 
 
@@ -5611,8 +5658,16 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
   * hon fick en LGA barn
   * Råd efter förlossning inför nästa graviditete för att minska risker
     * kostråd, livsstilsråd, viktnedgång,..
+    * !!! PREKONCEPTIONELL RÅDGIVNNG
+      * HbA1C < 42-48 mmol/ml 3-6 mån innan grav.
+      * BP < 135/85
+      * Folsyra 1 mg/day- 3 mån före
+      * Thyroide hormoner- euthyroid
+      * Kontinuerlig subkutan glukosmätare- FGM, CGM Libre etc
 
 
+
+##### Etiologi
 
 ***Etiologi och patofysiologi***
 
@@ -5640,6 +5695,20 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 
 
+***Postpartala risker***
+
+* GDM
+  * CVD
+  * Hyperlipidemi
+  * GDM igen
+  * DM2
+
+
+
+##### Utredning
+
+
+
 ***Kliniska kännetecken***
 
 * **SF-mått**: accelererar i växt
@@ -5649,16 +5718,17 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 ***Utredning och handläggning***
 
-* Prover: 
+* **Prover:**
 
   * **kP-glukos**: 
     * inskrivning: tas samtliga gravida vid 
     * rutinbesök: v25, v29, v32/33, v37/37
   * !! **OGTT v24-28 OM**: vissa riktlinjer tidigarelägger OGTT t v12-14, om den är normal gör man den andra. 
     * tidg GDM
-    * tidg stort barn: >=4.5kg eller +2SD
-    * BMI >= 35
-  * !! **OGTT omgående (asap)**: 
+    * tidg stort barn, LGA: >=4.5kg eller +2SD
+    * !!! BMI &gt;= 35
+    * Aktuell polyh
+  * !! **OGTT omgående (asap)**: Notera om man har ett avvikande glukos tidigt, som vid inskrivningen då kommer man att planera in en OGTT
     * slumpmässig kP-gluks >= 9mM men <12mM
     * !! om slumpmässig kP-gluk >=12mM: ta kap faste glukos kfP-gluks INNAN OGTT
     * accelererad fostertillväxt
@@ -5680,6 +5750,35 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
     
 
+***Patientens egenkontroller***
+
+* B-glukos kontroll 7ggr/d: morgon kväll, innan varje måltid
+* mål fasta: 
+  * <5.3mM, 
+  * postprandiellt <7.3, 
+  * kväll <6, 
+  * däremellan 4-7mM
+* Risk nattlig hypoglykemi 
+* risk ketoacidos vid kräknignar
+
+
+
+***Kontroller under grav***
+
+* var 2-4e v
+* BT och urinsticka
+* HbA1c: 1gg/mån,
+* upprepade TSH,T4 kontroller
+* ögonbottenkontroll 2-3ggr under grav
+* dietist
+* fysisk aktivitet
+* !! UL viktskattning: v28, v32, v36
+* CTG varje vecke fr v37
+
+
+
+##### Behandling
+
 
 
 ***Behandling***
@@ -5691,16 +5790,104 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
     * kost och motion, 
     * se vårdgivarguiden.se
 
+* **Farmakologiskt**
+  * **Gällande metformin**: denna supposedly ska man sluta med, då epidem studier visat att ungar vars mamma tagit metformin i deras grav blir större, högre BMI vid 10åå etc. istället att man går över till insulin. Men det verkar som att PM inte har ändrats 
+  * **Insulinbehandling**: antingen i kombination med metformin eller enbart insulin
 
+
+
+***Komplikationer***
+
+* Ketoacidos vid kräkningar
+* nattlig hypoglykemi
+
+
+
+
+
+
+
+| <img src="./imgs/sam_260421_HZmF61t4xi.png" alt="HZmF61t4xi" style="zoom:50%;" /> | <img src="./imgs/sam_260421_TGK98MsJ85.png" alt="TGK98MsJ85" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+|                                                              |                                                              |      |
+|                                                              |                                                              |      |
+
+
+
+#### Prekonceptionell rådgivning
+
+* HbA1C < 42-48 mmol/ml 3-6 mån innan grav.
+* BP < 135/85
+* Folsyra 1 mg/day- 3 mån före
+* Thyroide hormoner- euthyroid
+* Kontinuerlig subkutan glukosmätare- FGM, CGM Libre etc
+
+#### DM1
 
 ***Behandling***
 
-* **Farmakologiskt**
-  * **Gällande metformin**: denna supposedly ska man sluta med, då epidem studier visat att ungar vars mamma tagit metformin i deras grav blir större, högre BMI vid 10åå etc. istället att man går över till insulin. Men det verkar som att PM inte har ändrats 
+* Insulin: lång och kortverkande, men ej "mix"
+* Insulinbehov ökar 50-100% under grav
+  * postpartum minskar doserna
 
 
 
+#### DM2
 
+***BEHANDLING***
+
+* Metformin: passerar placenta,
+* insulin tillägg vid höga värden
+
+
+
+#### Kontroller
+
+***Kontroller under grav***
+
+* var 2-4e v
+* BT och urinsticka
+* HbA1c: 1gg/mån,
+* upprepade TSH,T4 kontroller
+* ögonbottenkontroll 2-3ggr under grav
+* dietist
+* fysisk aktivitet
+* !! UL viktskattning: v28, v32, v36
+* CTG varje vecke fr v37
+
+
+
+#### Förlossning
+
+
+
+***RIktlinjer***
+
+* DM1, DM2: v37-40 induktion eventuellt
+* GDM: v39-40 evt induktion
+* Induktionsindik annars
+  * tidigarelägga induktion
+  * LGA: målvikt under 4500g
+  * !! vikt över 4500g: sectio, risk skylderdystoci annars
+
+
+
+***Kontroller***
+
+* Glukos
+* högt glukos: 
+  * hypoxi asfyxi risk ökar
+  * hypoglykemirisk ökar postpartum
+
+
+
+***Postpartalt***
+
+* GDFM: utsättning insulin metformin. 
+  * obs risk utv DM2 i framtiden
+  * CVD
+  * hyperlipidemi mm
 
 ### Graviditetsillamående och Hyperemsis Gravidarum
 
@@ -6748,15 +6935,89 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ***Etiologi och patofysiologi***
 
+* Under graviditet mkt sker
+* orsak till dödlighet: representerar mkt av motraliteten
+* Orsakas av
+  * ökande koagulationsfaktorer
+  * anatomiska orsaker
+  * långsammare flöde i dilaterade vener pga hormonella förändringar
+
+
+
+***Riskfaktorer***
+
+* Immobilisering
+* BMI > 28 RR 2-3
+* Preeklampsi RR 3-4
+* Rökning, trauma, operationer RR 5
+* Tromboflebit och åderbråck RR 2-3
+* Blodtransfusion
+* Ålder> 35 år
+* Trombofili 20-50% av pat. med trombos,
+
+
+
 ***Epidemiologi***
 
 ***Kliniska kännetecken***
 
+* **DVT**: Svullet ben, Homans tecken (obehag vid dorsalflexion av foten), rodnad, varm hud, ömhet över kärl i låret.
+* **Bäcken**: - Bäcken- / buksmärta. ofta lågkontinuerligt, svullet ben efter kanske en dag.
+* **Lungemboli**: 
+  * takykardi, 
+  * dyspne, 
+  * feber, 
+  * hosta,
+  *  bröstsmärtor
+* **Sinustrombos**: svår huvudvärk, neurologiska symtom i hjärnan
+* **Axillär subklavia trombos**: svullen arm, rodnad, värme
+
+
+
 ***Utredning och handläggning***
+
+* **Djup ventrombos (DVT)**, Duplex ultraljudupp till v iliaca eller Flebografi. MR - om övre gräns inte är klar
+* **Trombos i bäckenvenen**, Duplex ultraljudupp till aorta, MR-om övre gräns inte är klar
+* **Lungemboli**, 
+    * CT-thoraxeller lungscintigrafi. 
+    * Hjärt EKO om pat inte är cirkulatoriskt stabil
+* **Cerebral venetrombos** CT eller MR
+* **D-dimer EJ tillförlitligt**
+
+
+
+***Indikation trombosprofylax***
+
+* Tidigare trombos
+* Trombofili Tromboembolism–Mut i Faktor V genen. Ökad trisk: 7 ggr vid heterozygoti.  80 ggr vid homozygoti.
+* Lågt antitrombin (AT), Antikroppar mot kardiolipin (ACLA), Antifosfolipidsyndrom (APS). 
+* Livslång antikoagulantiabehandling- resttillstånd efter tid trombos, mekanisk hjärtklaff mm
+* Obesitas, 
+* sectio
+* !! över 40år,
+* hereditet- förstagradssläkting, 
+* pre eclampsi,
+* ablatio placentae, 
+* inflammatorisk sjukdom.
+* Upprepade missfall ej evidens men vanligt ändå
+
+
 
 ***Behandling***
 
 * Äldre kvinnor, över 40åå, verkar få ASA profylax: oklart om detta har att göra med koagulation eller om det handlar om preeklampsi
+* Lågmolekylärt heparin
+* fragmin: dagligen 1 månad, eller LMWH
+* efter det hög dos profylax hela grav
+  * LMWH
+* waran och NOAK INTE alternativ: hög risk missbildning
+* **Profylax under graviditet**
+  *  LÅGMOLEKYLÄRT HEPARIN: EX 5000E X 1 SC DALTEPARIN/ 4500E ENOXAPARIN X 1 SC-FROM V 8-10 TILL PARTUS OCH 6 V POST PARTUM
+  * OM HÖG RISK:
+      * 2 DOS LMWH 
+      * MED KONTROLL AV ANTIFAKTOR XA KONC DALVÄRDE O IBLAND MED TILLÄGG AVASA 75MG DAGLIGEN FRAM TILL PARTUS, 6-12 W POST PARTUM
+  * STÖDSTRUMPOR
+  * ANTIKONCEPTION- INGET ÖSTROGEN
 
 ### Läkemedel
 
@@ -6950,19 +7211,68 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 
 
+***Etiologi***
 
+* !! Ofta inga problem: ökad östrogen nivå gynnsam effekt av ledvärk.
+* Graviditet verkar immunsuppressiv.
+* 2/3 full remission tidigt under graviditeten.
+* NSAID kontraind från slutet av andra trimesstern (tidig stängning av ductus arteriosus)
+* Många läkemedel går att ta under grav, prednisolon, imurel mflOK men compliance hos patienten kan vara ett problem
 
 ### Sjögrens
 
+***Etiologi***
 
+* Inflammerade körtlar saliv,tårar, öron mm. 
+* Symtom på muntorrhet, torra ögon och kronisk trötthet.
+* 70-80% har SSA / SSB-antikroppar.
+* Liten eller ingen annan risk förknippad med graviditet. -(men ibland kan sjögrens utvecklas till SLE o blandad bindvävssjukdom)
+* SSA-aRo p52 : 1-2% risk för fostret att utveckla AV-blockunder graviditet, dock ingen ökad risk för maternellkomplikation. 
+* SSA SSB-kontroll med fostrets hjärta EKO ungefär varannan vecka från w 14. Om fostret har ett hjärtblock med dexametasom / plasmaferes
 
 ### Sklerodermi
+
+
+
+***Etiologi***
+
+* Stört immunförsvar.
+* Kroppen producerar för mycket bindväv som kan lagras i huden, inre organ och blodkärl.
+* Förtjockad,stel hud vanligaste symptomet
+    * karpmun,
+    * sväljningsvårigeter,
+    * sänkt diff kapacitet lugor,
+    * hjärtpåverkan mm.Hög risk för komplikationer under graviditet - kontrollera lungor,
+    * hjärta,
+    * GI-funktion,
+    * hög risk PE och allvarliga hypertensiva komplikationer
+
+
 
 ### SLE
 
 
 
+***Etiologi***
 
+* **Prognostiska faktorer**: Sjukdomsaktivitet. Blodtryck. njurfunktion, kardiolipinantikroppar (lupusantikoagulantia)
+* **RISK**: sp. Ab 11-24%, IUFD 5 x ökad risk, IUGR 20-40%.
+* **RISK**: tidigt uppträdande PE Risken högre om högt blodtryck före graviditet Hög risk om SLE är aktiv för prematur förlossning
+* Antifosfolipidsyndrom Antifosfolipidantikroppar (kardiolipin ac, beta2 glykoprotein, lupusantikoagulans (ACLa)) med sp ab, IUFD, dår risk tidig PE 30-50%, o hög risk tromboembolism
+* Njurinsufficiens-funktionen kan försämras permanent. Om njurpåverkan (med GFR sänkt till <70) cirka 30% Risk för PE
+* **Om SSA-antikroppar av typ p52 är närvarande**: 1-2% fostrets risk för att utveckla AV-block under graviditet, dock ingen ökad risk för maternellkomplikation. (Vid Sjögrens syndrom har 70% SSA SSB)
+
+
+
+***Behandling***
+
+* Behandling med hydroxiklorokin, prednisolon, azatioprin eller cyklosporin sakllfortgå.
+* Om högt blodtryck: betablockerare eller dihydralazin 
+  * Mål: normotensivt för att skydda njurarna. 
+  * !! Kalciumblockerare bör helst ***undvikas första trimestern.***
+* Låg dos ASA från 1: a trimestern och även post partum 3 mån 
+* Om kardiolipin ak eller APL-syndrom låg dos ASA och lågmolekylär heparin och om tidigare trombos båder lågdos ASA och högdosprofyalx lågmolekylärt heparin hela grav o 3 mån ost partum
+* Kontroll av fostret med blodflöde och ultraljud för fostertillväxt
 
 ### Storlek foster
 
@@ -7250,7 +7560,65 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 ### Thyroidea
 
+#### Allmänt
+
+##### Fysiologiskt och etiologi
+
+* 1-2% av gravida har thyroidearubbning. 
+* Thyroideahormoner viktiga för fostrets CNS utvecklingförsta trimestern
+* !! Fostrets egen produktion av sköldkörtelhormon startar ca grav v 15.
+* Graviditet: ökat behov av jod 25-50ug, 
+* **T3 o T4 bryts ner i placenta**
+* **Tyroxinbehovet ökar med 25-50%** under graviditeten
+* !! **SCREENING med provtagning TSH o T4** infört för alla graviditeter!
+
+
+
+
+
+| <img src="./imgs/sam_260421_jK8Mgn0381.png" alt="jK8Mgn0381" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+|                                                              |      |      |
+|                                                              |      |      |
+
+
+
 #### Hypothyreos
+
+
+
+***Etiologi***
+
+* prevalens 1% hashimotos thyroidit
+* !! orsak till infertilitet + spontan abort
+* Fostrests CNS-utveckling påverkas negativt av undersubstituerad hypotyreos! 
+  * Obehandlad hypotyreos leder till kretinism - svår mental retardation och nedsatt skelettutveckling ..
+
+
+
+***Risker komplikationer***
+
+* Om inte behandlas ökad risk för:: 
+  * högt blodtryck, 
+  * preeklampsi, 
+  * ablatio placentae, 
+  * Prematur förlossning, 
+  * SGA / IUGR, 
+  * IUFD-intrauterin fosterdöd
+* Familje historia av hypotyreoidism, struma- kontroll TPO (tioperoxidas ak) Om TPO ökad risk för subklinisk hypotyreos och risk för postpartum tyreoidit o de skall föjas upp post partum hos allmänläkare
+
+
+
+***Kännetecken***
+
+
+
+***Behandling***
+
+* Känd hypotyreos - Öka dosen (levothyroxin) Levaxin 25-50ug före planerad graviditet- TSH <2! -Återgå till den ursprungliga dosen efter förlossningen
+
+
 
 #### Hyperthyreos
 
@@ -7258,6 +7626,72 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 * Märker omätbart TSH och ett T4 i överkant
   * gestationell hyperthyreos: mekanismen bakom detta är att hCG hämmar TSH
+
+
+
+***Etiologi***
+
+* Fysiologiskt
+  * Gravid v8-12
+  * inga TPO eller TRAK
+  * återgår normalt v20
+* Andra orsaker
+  * Graves sjukdom
+
+
+
+***Risker***
+
+* Patologisk hyperthyreos
+  * Ökar risken för missfall,
+  * hypertenison,
+  * preeklampsi ablatio,
+  * tillväxthämning,
+  * prematurbörd,
+  * IUFD
+
+
+
+***Kännetecken***
+
+* Fysiologisk
+  * Hyperemesis, illamående
+  * takykardi förekommer
+  * viktminskning
+  * ingen oftalmopati
+
+
+
+
+
+***Handläggning***
+
+* Tidigare GRaves eller hyperthyreos
+  * Tid Graves sjukdom eller aktuell sjd- kontroller spec MVC och endokrin kontroll TRAK varje månad. 
+  * Kontroll av foster: TRAK passerar moderkakan - foster ljud (takykardi) - ultraljud IUGR ev. sköldkörtelkontroll-fosterhjärta, hydrops, fetal thyreotoxicos, kontroll benmognad
+  * Kontroll post partum. Om fostret visar symtom på toxisk thyroidit kan thyeostatika vara lämplig.
+  * Thiotil (propyltiouracil)> 300 mg. 
+  * Inderal (betablocker) - besvärlig takykardi
+  * TSH mål 0,1-0,4 mU / L
+
+
+
+***Behandling***
+
+* Thyreostatiska läkemedel
+
+
+
+#### Postpartum thyroidit
+
+***Etiologi***
+
+* Graviditet undertrycker immunsvar och efter partus förändras hormonell aktivitet, Autoimmuna antikroppar ökar efter förlossning, Tyroidit kan aktiveras, Vid typ 1-diabetes - ökad risk 3 ggr
+* Post partum tyroidit ~ 6-12% - Kan orsaka hypertyreos om höga T4 och antiTPO. - ofta spontan regress - viktigt skilja från Graves sjukdom.
+* Sedan ofta hypotyreos, 3-7 månader efter partus- Vid symtom - Levaxin subst . 10% risk för kvarstående hypofunktion
+* Post parum thyroidit- Risk nästa graviditet cirka 20%
+
+
 
 ### Tvillingar
 

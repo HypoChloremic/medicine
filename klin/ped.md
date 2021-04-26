@@ -9741,6 +9741,15 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 ### NEC
 
+
+
+***Presentation***
+
+* Signe
+  * föddes vid 24 veckors gestationsålder. Hon är nu två veckor och har sista dygnet blivit alltmer spänd i buken. Hon tolererar inte de små mängder mat man försöker ge henne.
+
+
+
 ***Allmänt***
 
 * Nekrotiseraned enterocolit

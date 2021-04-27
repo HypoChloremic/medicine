@@ -3204,7 +3204,7 @@ enl läk
     * inläggningsfall
     * ett gäng med ASIH, och får TPN via ASIH, men få fall. 
     * att grav illamående slutar v12, 80-90% borta vid v20. 
-  * !!! TSH är lågt pga hCG: att det är okej. inte oroliga för att vi har tagit TRAK som är negativt, så vi behöver ej vara oroliga
+  * !!! **TSH är lågt pga hCG**: att det är okej. inte oroliga för att vi har tagit TRAK som är negativt, så vi behöver ej vara oroliga
   * pyrodixin kan hjälpa, vitamin B6. 
 
 

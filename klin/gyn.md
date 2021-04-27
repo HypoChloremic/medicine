@@ -4359,6 +4359,9 @@ cerivicit
   * vad är orsaken till detta:
     * PCOS
     * ärftligt komponent + övervikt trigger
+* !!! Pernilla och Patrik - 28 resp. 30 år 
+  * har utretts för ofrivillig barnlöshet. Pernilla har oligomenorrémed 8-veckors mensintervall.Normala gonadotropiner, prolaktin och TSH. BMI23. Inga mediciner. 0-gravida. Normal tubarpassage och Patrik har ett normalt spermaprov.
+    - Notera hennes gonadotropiner som är normala, detta kan föreligga vid PCOS
 
 
 
@@ -5893,7 +5896,7 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 
 
-***Presentation***
+#### Presentation
 
 * **Alicia** 
   * söker den 21/11 på vårdcentralen för illamående sedan några dagar. hon får inte behålla någon mat. hon hade sista mens 1/10 och visar sig vara gravid. hon har ibland oregelbunda menses och har därför inte reagerat. det är hennes första graviditet. när hon får reda på graviditeten blir hon orolig eftersom hon tycker att det inte kan vara bra för fostret att hon mår så illa och att något måste vara fel. 
@@ -5952,12 +5955,14 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 
 
+#### Allmänt
+
 ***Etiologi och patofysiologi***
 
 * Bidragande till kraftig illamående
   * Duplex graviditet
   * Mola (komplett partiell mola)
-  * !! Hyperemesis
+  * !! hyperthyreos
   * Leversjukdom
 
 
@@ -5966,7 +5971,6 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 * Leversjukdomar
 * Hyperthyreos
-* 
 
 
 
@@ -5996,8 +6000,8 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
 
 ***Utredning och handläggning***
 
-* Anamnes och status
-  * uteslut andra orsaker kräkning
+* **Anamnes och status**
+  * **uteslut andra orsaker kräkning**
     * DKA: diabetes ketoacidos
     * Hyperthyroidism
     * gastrointestinala besvär
@@ -6023,7 +6027,7 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
   * fritt per os, dvs pat behöver ej fastande
   * Daglig mat-vätska schema, kräkklocka och vikt
   * NEWS kontroller beroende på AT
-  * iv vätsketillförsel, 2-3L per dygn
+  * **iv vätsketillförsel**, 2-3L per dygn
     * glukos 5% med Na K eller NaCl 0.9% med K tillskott
     * ej över 40mM K per liter.
     * Na/K substitution enl pat behov
@@ -6038,32 +6042,54 @@ Centralisering av blod fr uterus o placenta t thorax o effektiviersing venöas f
   * Helicobacter pylori provtagning
   * !! **Steroidschema**: ev glukoskontroll, kontroll P-glukos innan och under behandling
     * Tabletter prednisolon
-  * **TPN**: ol
+  * **TPN**
+  * **Pyrodoxin**: kan hjälpa
 
 
 
-* 
+#### Behandling
 
 
 
 ***Behandling***
 
-* Hyperemesis behandling
-  * Pyrodixne (b6), förstahands: verkar ha en bra effekt på att sänka illamående och kräkningar...
-  * Postafen, T: receptfritt
-  * Lergigan Comp, T: med fördel på kvällen
-  * Primperan T, alt iv
+* **Hyperemesis behandling**
+  * **Pyrodixne (b6), förstahands**: verkar ha en bra effekt på att sänka illamående och kräkningar...
+  * **Postafen, T**: receptfritt, antihistamin
+    * Meklozin är ett piperazinderivat avsett för behandling av speciellt rörelsesjuka samt nausea av olika genes. Meklozin har en dämpande verkan på vestibularisfunktionerna med antiemetisk effekt och lång duration (upp till 12 timmar).
+  * **Lergigan Comp, T**: med fördel på kvällen, antihistamin + koffein
+    * antihistaminerg och acetylkolin antagonist
+    * okänt exakt verkningsmekansim
+  * **Primperan T, alt iv**: dopaminreceptorantagonist
   * Tiamin injektion (el beviplex forte (B1, B2 (riboflavin) B6)): föreligger risk för wernicke och tiaminbrist,  
   * !! Inför GLUKOSINFUSION eller inlägg: neurobion (B6, B1, B12)
   * T Omeprazol, el iv: frekventa kräkningar
   * Ondansetron T, el IV: dock man ger ej detta pga missbildande effekt?
   * Prokloperazin
-* Graviditetsillamående rekommendationer
+* **Om allt annat inte funkar**
+  * steroider, prednisolon tabletter, verkare som
+* **Graviditetsillamående rekommendationer**
   * äta ofta
   * äta lite
   * gärna kolhydratrik proteinrik mat
   * vila brykar också lindra illamåendet
   * !!?? avbryt ev järnmedicinering
+* ***Enl seminarium***
+  * **Mkt vätska initialt**, för de är uttorkade
+  * !! **Tiamin injektion**: wernicke behandling
+  * **Antihistamin**: lergigan
+  * **Primperan iv**
+  * **Ej ondansetron**: så långt man kan undvika detta
+  * **Kaliumtillägg**; om lågt kalium
+  * **Äta på akuten**: saft lite socker i, chips, salta kex, allt som man kan äta långsamt
+  * **Hemgång**: förutsatt mår tillräckligt bra på akuten
+  * **Råd innan hemgång**
+    * **1a hand**
+      * lergigan comp på dagen
+      * lergigan till natten
+    * Väldigt viktigt att patienten äter mat. För annars ond cirkel
+  * **Svårare hyperemesis fall**: inläggning
+    * förekommer ASIH men ovanligt
 
 
 
@@ -10754,7 +10780,7 @@ FD
 
 ***Presentation***
 
-
+##### Metoder och indik
 
 ***Metoder***
 
@@ -10827,6 +10853,10 @@ FD
 
 
 
+##### Utredning
+
+
+
 ***Utredning och handläggning***
 
 * **Make-insemination**
@@ -10853,7 +10883,13 @@ FD
 
 
 
-***Behandling***
+***Embryo transfer***
+
+* Fertiliserat ägg som man återför till kvinnan
+
+
+
+##### Behandling
 
 * **Make-insemination, IUI** (intrauterin insemination): man har skiljt spermier fr spermieplasma (ngt som normalt cker när de passerar cervix)
   * intravaginal deposition färskt ejakulat eller
@@ -10865,8 +10901,32 @@ FD
   * stimulering gonadotropiner: [add later: FSH + LH antagonister?]
   * med eller utan GnRH-analoger
 * **IVF**
+  * **ENLIGT IM**
+    * Stimulering + kombat med nedreglering (GnRH agonist)
+      * Nedreglering: 
+        * Läkmedel som är en GnRH agonist
+        * Efter upprepad dosering erhålls en hämning av sekretionen av gonadotropin och gonadsteroider. 
+        * Den farmakologiska effekten tillskrivs en nedreglering av hypofysens LH-RH receptorer. 
+        * Hos kvinnor ger eliminationen av pulsatil gonadotropinfrisättning en hämning av östrogenutsöndringen.
+        * **Undvika spontan ovulation via LH-peak**: 
+          * I samband med *in vitro*-fertilisering utnyttjas principen för att undvika prematur luteinisering och spontan ovulation.
+          * alltså är denna del till för att hämma LH
+          * DÅ man sänker östrogenproduktionen kommer FSH att stiga..
+      * FSH-stimulering
+        * Sänker dosen GnRH-agonist (nedregleraren) vid start
+        * Nedreglering pågår till och med hCG-dagen
+        * rekombinant FSH ges
+        * till för att mogna ut dominanta folliklar
+  * **ENLIGT FL**
+    * ovulationsstimulering, ovulationsinduktion (OI)
+      * aromatashämmare: sänker östrogen, höjer FSH och därför fler mognande folliklar
+      * Klomifen, cd5-9
+      * letrozole, cd3-7
+      * ev stöd ovulationsinjektion, ovitrelle
+      * lågdos rekombinant FSH
+      * lågdos HMG (humant menopausalt gonadotropin), menopur 
 
-
+##### Komplikationer o kontraindik
 
 ***Kontraindikation***
 
@@ -11451,10 +11511,10 @@ FD
 ***Diagnos***
 
 * hinnesäck > 25mm utan synligt foster eller gulesäck  
-* medelhinnsäck <25mm utan tillväxt på en vecka 
+* medelhinnsäck (medelvärdet på tre mått) <25mm utan tillväxt på en vecka 
 * Foster med CRL >=7mm utan hjärtaktivitet  
 * Foster med CRL <7mm utan tillväxt på en vecka 
-* Hinnsäck som tiidgare dokumenteras i inneverande graviditet som inte längre kan ses
+* Hinnsäck som tidgare dokumenteras i inneverande graviditet som inte längre kan ses
 
 
 
@@ -11666,11 +11726,11 @@ FD
 
 ***Presentation***
 
-* Tahar, 32 år, 
+* !!! **Tahar, 32 år**
   * med två misslyckade IVF-försök, har nu senast genomfört en äggtransfer för 6 veckor sedan och ett graviditetstest för 2 veckor sedan visade sig positivt. Tahar kommer in akut med måttliga buksmärtor. Vid undersökningen noterar Du att patienten är blek, takykard och buken är ordentligt svullen och öm vid palpation. Bimanuell undersökning är svår att genomföra p g a utpräglad bukömhet. Du gör ett vaginalt ultraljud som visar att det finns en intrauterin hinnsäck motsvararande graviditetsvecka 5 + 6. Samtidigt finner Du vätska i buken och att patienten har bilaterala multipla cystor på platsen för ovarierna som är cirka 10 cm i diameter.
-  * Vad kallas det tillstånd som patienten har? (1p)
+  * **Vad kallas det tillstånd som patienten har? (1p)**
     * OHSS
-  * Hur uppkommer tillståndet och dessa cystor? (2p)
+  * **Hur uppkommer tillståndet och dessa cystor? (2p)**
     * Vanligt att under FSH-stimulering utvecklar multipla folliklar och snabbt stigande östogenr
 * 
 
@@ -11684,13 +11744,40 @@ FD
 
 ***Etiologi och patofysiologi***
 
-* **biverkan**: sällsynt idag. 
-* **stimulerat för kraftigt**: 
-  * mkt stort antal follillar utvekclats 
-  * men det utlöses först då hCG getts.
-* **förstorade ovarier, torsion**: detta är möjligt, nödvändigt med akut operation. 
-* **syndrom värre om grav samma cykel som hormonstimuleringen**: syndromet blir längre o värre om man blir grav i samma cykel. 
-* **Under FSH-stimulering får för många folliklar och snabbt stigande östrogen, trots detta går vidare ge hCG**
+* enligt blueprints
+  * **biverkan**: sällsynt idag. 
+  * **stimulerat för kraftigt**: 
+    * mkt stort antal follillar utvekclats 
+    * men det utlöses först då hCG getts.
+  * **förstorade ovarier, torsion**: detta är möjligt, nödvändigt med akut operation. 
+  * **syndrom värre om grav samma cykel som hormonstimuleringen**: syndromet blir längre o värre om man blir grav i samma cykel. 
+  * **Under FSH-stimulering får för många folliklar och snabbt stigande östrogen, trots detta går vidare ge hCG**
+* **enl artikel**
+  * Två kliniska former, båda hcg-relaterade
+    * early onset: första 8d efter hcg
+      * related to hyperresponse of the ovaries to
+        *  gonadotropin stimulation and 
+        * exogenous hCG
+    * late onset: 9d efter hcg
+      *  is associated with hCG produced by an implanted embryo
+    * In humans, hCG administration increased VEGF expression in granulosa-lutein cells ([28](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124341/#R28)) and VEGF blood levels predicted the development of OHSS and its severity ([29](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3124341/#R29)).
+* **Enl tenta**
+  * vill ha corpus luteum samband äggtransfer
+    * efter FSH stimulering, så man plockar folliklarn
+    * ges hCG exogent: konverterar follikelrester till corpus luteum
+  * Risk för många folliklar tillväxer
+  * Därför för många hCG producerande cystor bildas
+  * Överskott hCG: ascites, pleuravätska
+    * orsaken till symptomen vid OHSS
+  * cystorna som uppstått kallas theca lutein-cystor
+
+
+
+***Gradering***
+
+* Grad 1: ovarialförstoring upp t 7cm, abdominell obehag, obetydligt med vätska i buken, synlig endast med vaginalt UL
+* Grad 2: Ovarier upp till 10 cm med multipla cystor; Abdominella smärtor, påtaglig ascites; Illamående, kräkningar, diarré
+* Grad 3: Massiv ascites, pleuravätska, ev perikardvätska; Svåra buksmärtor, dyspné, multipel organsvikt, DIC (disseminerad intravasal koagulation)
 
 
 
@@ -11699,7 +11786,9 @@ FD
 * PCOS
 * unga patienter
 * små och nätta kvinnor: att man har feldoserat?
-* alla pat med hög ovarialreserv: högt AFC (antral follicle count) och eller AMH
+* alla pat med hög ovarialreserv: 
+  * högt AFC (antral follicle count) och eller 
+  * AMH
 * patienter med lång menscykel (över 30d)
 
 
@@ -11710,28 +11799,48 @@ FD
 
 ***Kliniska kännetecken***
 
-* förstorade, cystiska ovarier
-* scites
+* förstorade ovarier, 
+* cystiska ovarier
+* ascites
 * pleuravätska
 * svullen buk
 * saltbalansrubbning
 * vätskebalansrubbning
 * hyperkoagulabilitet med trombosrisk
-* 
+* ***IM***
+  * Det är ofta som förloppet är tvåfasigt, 
+  * med markanta kliniska symtom dagarna runt äggaspirationen och 
+  * därefter viss förbättring på dag 3-5 efter aspirationen
+  * **Om kvinnan blir gravid**
+    * Om patienten sedan blir gravid efter ET (embryo transfer) 
+    * **återkommer symtomen i förvärrad form** omkring en vecka efter ET, 
+    * beroende på den endogena hCG produktionen.
 
 
 
 ***Utredning och handläggning***
 
+* **anamnes + status**
+* **Gyn us**
+* **UL**: hitta cystiska ovarier, ascites.
+
 
 
 ***Behandling***
 
-* Symptomatisk
+* **Symptomatisk**
   * saltlösningar iv
   * kolloider iv
   * profylaktiskt heparin
   * buktappning laparocentes
+* **Förhindra uppkomst OHSS**
+  * Dossänkning av FSH/hMG
+  * Coasting (vid agonistprotokoll enbart), 
+  * d v s sedan den ledande follikeln uppnått 18 mm avstår man att ge FSH till östrogennivån sjunkit under en viss nivå (> 50 %) innan hCG ges. 
+  * Detta fordrar dagliga kontroller av östrogennivåerna.
+  * Bryta stimuleringen.
+  * Genomföra äggaspiration och göra totalfrys av samtliga embryon.
+  * Om antagonistprotokoll används kan man istället för att ge hCG använda GnRH-agonist (t ex Suprefact 0,5 mg s.c.) för att inducera en endogen LH-frisättning. Ägguttag och frysförvaring av alla embryon kan sedan ske utan att patienter löper risk för allvarlig överstimulering. Detta är det bästa alternativet.
 
 
 

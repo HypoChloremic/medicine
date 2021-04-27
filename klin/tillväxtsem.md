@@ -1,4 +1,5 @@
-Wihelm. 2mån, bajsar mkt gul grynigt, har avplanad viktkurva, sen följer längden
+
+* Wihelm. 2mån, bajsar mkt gul grynigt, har avplanad viktkurva, sen följer längden
     * Man ska diffa matproblem, svält vid bröstet; infektion; hjärta
     * Mkt viktigt att tänka på hjärtsvikt ochj infektion
     * Utredning: genomgående matanamnes, hur mkt äter han, hur många blöjor, hereditet för detta, hur många para, vad har man introducerat i kosten

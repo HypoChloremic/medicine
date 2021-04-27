@@ -127,3 +127,12 @@ beroende på hur akut detta är
 
  * GRänsvärden för neturopeni
     * är det <= 0.5 för neutropeni eller bara <0.5 är frågan
+
+* Anemi med ökad krea är HUS, mikroangiopati, uremi
+
+mikrocytär anemi är thalassemi
+
+normokrom är akut blodning eller hemolys, 
+
+The most common causes of ovulatory factor infertility are
+PCOS and advanced maternal age.

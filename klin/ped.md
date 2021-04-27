@@ -2853,9 +2853,9 @@ Enligt ABCDE
 
 
 
-| <img src="./imgs/diab_hemat_sem_DQGqSn02E6.png" alt="DQGqSn02E6" style="zoom:50%;" /> | <img src="./imgs/diab_hemat_sem_JEIBDlakPF.png" alt="JEIBDlakPF" style="zoom:50%;" /> | <img src="./imgs/diab_hemat_sem_kv5k2HLS4B.png" alt="kv5k2HLS4B" style="zoom:50%;" /> |
+| <img src="./lectures/ped_lec/imgs/diab_hemat_sem_DQGqSn02E6.png" alt="DQGqSn02E6" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/diab_hemat_sem_JEIBDlakPF.png" alt="JEIBDlakPF" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/diab_hemat_sem_kv5k2HLS4B.png" alt="kv5k2HLS4B" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./imgs/diab_hemat_sem_NprwAihV3D.png" alt="NprwAihV3D" style="zoom:50%;" /> | <img src="./imgs/sam_270421_CQwSpnUJkw.png" alt="CQwSpnUJkw" style="zoom:50%;" /> |                                                              |
+| <img src="./lectures/ped_lec/imgs/diab_hemat_sem_NprwAihV3D.png" alt="NprwAihV3D" style="zoom:50%;" /> | <img src="./imgs/sam_270421_CQwSpnUJkw.png" alt="CQwSpnUJkw" style="zoom:50%;" /> |                                                              |
 
 
 
@@ -2996,7 +2996,7 @@ Enligt ABCDE
 
 
 
-| <img src="./imgs/diab_sem_yO17q8T1Uc.png" alt="yO17q8T1Uc" style="zoom: 67%;" /> | <img src="./imgs/diab_sem_6UPrUlveOZ.png" alt="6UPrUlveOZ" style="zoom: 67%;" /> | <img src="./imgs/diab_hemat_sem_TAlS1llzkc.png" alt="TAlS1llzkc" style="zoom:50%;" /> |
+| <img src="./lectures/ped_lec/imgs/diab_sem_yO17q8T1Uc.png" alt="yO17q8T1Uc" style="zoom: 67%;" /> | <img src="./lectures/ped_lec/imgs/diab_sem_6UPrUlveOZ.png" alt="6UPrUlveOZ" style="zoom: 67%;" /> | <img src="./lectures/ped_lec/imgs/diab_hemat_sem_TAlS1llzkc.png" alt="TAlS1llzkc" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |
 
@@ -5249,6 +5249,57 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+
+
+***Meningit, sepsis, agens i nyföddhetsperiod***
+
+* **Mkt tidiga inf**: moderns genitalflora
+  * **GBS**: grupp B beta-streptokocker
+  * **Tarmbakterier** såsom E coli, klebsiella
+  * **Listeria, hematogen** spridning
+* **Senare infektion nyföddhetsavdelningm, ofta nosokomiala**
+  * Staphtylococcus aureus
+  * Staphylococcus epidermidis
+
+
+
+***Under 3 månader***
+
+* **Bakteriell**
+  * Sepsis, meningit
+    * E. coli
+    * GBS
+  * E. coli
+  * Herpes
+  * Listeria
+* **Viralt**
+  * RS-virus
+  * parainfluensa virus: pseudokrupp
+
+
+
+***Efter nyföddhetsperiod, enl FL***
+
+* **Sepsis**
+  * Pneumokocker(luftvägsinfektioner, splenektomi)
+  * Meningokocker
+  * H influenzae (numeraovanligt)
+  * Staph aureus (hudskadorsåsombrännskador,
+  * Streptokocker
+  * Tarmbakterier(urosepsis)
+* **Meningit**
+  * Pneumokocker
+  * Meningokocker
+  * H influenzae, tidigare vanligat
+
+
+
+| <img src="./imgs/sam_270421_NeEOg3y0Ih.png" alt="NeEOg3y0Ih" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
 ### CNS
 
 
@@ -5396,12 +5447,12 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Komplikationer***
 
-* Livshotande
+* **Livshotande**
   * hjärnödem
   * inklämning
   * DIC
   * cirkulationskollaps
-* Vanliga komplikationer
+* **Vanliga komplikationer**
   * Hörselskador
   * kognitiva skador
 
@@ -5499,9 +5550,76 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
+| <img src="./imgs/ped_sam_090421_hqUYQ7QMRV.png" alt="hqUYQ7QMRV" style="zoom:50%;" /> | <img src="./imgs/sam_270421_9ture4URXA.png" alt="9ture4URXA" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
 
 
-<img src="./imgs/ped_sam_090421_hqUYQ7QMRV.png" alt="hqUYQ7QMRV" style="zoom:50%;" />
+
+#### om feber
+
+* Invitro:
+    * Feber hämmar tillväxten av bakterier och virus
+    * Stimulerar neutrofil produktion
+    * Stimulerar T-cells proliferation
+    * Bidrar till akut fas reaktionen
+* Emellertid, In vivo: begränsade eller inga data som stödjer att feber reducerar durationen av virus sjukdomar  
+
+
+
+#### Behandling
+
+**Feber behandling med antipyretika, enl FL**
+
+* **Vanligtvis inte <39**, övrigt friska barn
+* **Symptomatisk lättnad >39 grader**
+* **Hyperpyrexi >41 grader**: bör behandlas
+* Förändrar inte förloppet
+  * de vanliga infektionssjukdomarna
+* användande av alternerande antipyretika
+
+
+
+***Indikation, enl FL***
+
+* Febernedssättande skall bara användas för att förbättra allmäntillståndet för barnet 
+    * normal temperatur är inte målsättningen 
+* Ingen tydlig skillnad i reduktion av feber mellan paracetamol och Ibuprofen
+* Alternerande Paracetamol och Ibuprofen sänker sannolikt tempen bättre 
+    * Men ökar risken för toxicitet pga överdosering
+
+
+
+#### FOU
+
+Fever unknown origin
+
+
+
+***Etiologi***
+
+* Maligniteter
+  * leukemi, lymfom och neuroblastom
+* Neutropeni 
+    * kongenital, cyklisk neutropeni
+* Inflammatorisk sjukdom utan infektion 
+    * systemisk JIA (juvenil idiopatisk artrit), Crohns sjukdom, Kawasaki disease, etc
+* Autoimmun sjukdom, fyndet av en autoantikropp tex SLE 
+
+
+
+***Svårdiagnosticerade FUO***
+
+* Autoinflammatorisk sjukdom, 
+  * exempelvis Familjär medelhavsfeber
+* Importerade ”tropiska” sjukdomar 
+    * malaria, leischmaniasis, tyfoid, dengue feber, tuberkulos, brucellos, leptospiros
+* Inhemska ”ovanliga” infektioner, tex tularemi, tuberkulos, Borrelia, (EB-virus hos prepubertala barn vanligtvis asymtomatiska) TBE 
+    * ibland tvåfas insjuknande
+* Blod sjukdomar
+    * sicklecell anemi
+*  ̈Factitious fever ̈
+    * själv inducerad eller via ombud  ̈Munchausen by proxy ̈
 
 
 
@@ -5750,6 +5868,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * kliar inte
   * inte ömmande
   * kvarstår timmar upp till 2-3d
+* Buktande fontanell kan vara ett tecken
 
 
 
@@ -5811,7 +5930,7 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Diagnos***
 
-* KLinisk diagnos
+* Klinisk diagnos
 * påbvisning B19-IgM indikerar akut eller nyligen infektion. utveclas inom dagar fr första symptom. kvarstr 2-4månader. IgG dagar efter detekterad IgM, kvarstår livet ut.
 * PCR-analys serum: av värde hos immunsupprimerad, pga bristande antikroppsfunktion har NEGATIV serologi
 
@@ -5819,11 +5938,11 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 ***Utredning***
 
-* Immunitet: IgG antikroppar
+* **Immunitet**: IgG antikroppar
 * screening gravida ej meningsfullt
   * viktigt ställa diagnos vid misstänkt primärinfektion
   * drf föranleda fler UL kontroller
-* Hydrops fetalis: aktuellt intrauterin blodtransfusion
+* **Hydrops fetalis**: aktuellt intrauterin blodtransfusion
 
 
 
@@ -5843,6 +5962,25 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 |                                                              |                                                              |      |
 
 
+
+#### Reyes syndrom
+
+***Sammantaget***
+
+* ASA ska undvikas vid de flesta okända febertillstånd
+* barn pga risken för Reyes syndrome
+  * speciellt vid varicella och influensa
+
+
+
+#### Hypertermi vs feber
+
+***Hypertermi***
+
+* Hypertermi är inte feber
+* T ex värmeslag, intoxikation  ̈recreational drugs ̈
+* Dvs termostaten är inte omställd, ex värmeslag 
+  * Mkt farligare tillstånd
 
 ### Fästingburna sjukdomar
 
@@ -7889,7 +8027,29 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
+### Svårt sjukt barn
 
+
+
+***Kännetecken***
+
+* **Vanligasymtom hos det svårt sjuka barnet > 6 månader**
+  * Hög feber 
+  * Svår allmänpåverkan med cirkulatoriskpåverkan
+  * Nedsatt medvetandegrad
+  * Nackstyvhet, meningism
+  *  Irritabilitet 
+  * Generella smärtor 
+  * Takykardi och takypne
+  * Peteckieroch andra hudsymtom
+  * Kramper
+* **Vilka symtom och tecken skiljer avseende det svårt sjuka nyfödda och späda barnet < 6 månader?**
+  * Ibland diskreta symtom
+      * Temp: normal eller hypotemp
+      * Andningsstörning -grunting
+      * Slöhet -matningssvårigheter
+      * Apneer
+      * Cyanos 
 
 ### Virusinfektioner
 
@@ -8290,7 +8450,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * Inkubationstiden är ca 9 - 11 dagar 
   * Utslaget är makulopapulöst 
   * rätt: Utslaget är ffa lokaliserat till hud och slemhinnor 
-* **Ali, 3 år söker barnakuten på grund av utslag. Han insjuknade för sex dagar sedan med lätta övre luftvägssymtom och fick dagen därpå små blekröda knottror som började på bålen och i ansiktet som sedan har spridit sig till armar och ben. Pappa tycker att det verkar klia en hel del. Vid undersökning ser du spridda utslag över hela kroppen som omfattar makulae, palpler, vesikler och krustor. I munnen ser du också enstaka blåsor. Ali har varit subfebril i fyra-fem dagar, men mår i övrigt relativt bra.** 
+* !! **Ali, 3 år söker barnakuten på grund av utslag. Han insjuknade för sex dagar sedan med lätta övre luftvägssymtom och fick dagen därpå små blekröda knottror som började på bålen och i ansiktet som sedan har spridit sig till armar och ben. Pappa tycker att det verkar klia en hel del. Vid undersökning ser du spridda utslag över hela kroppen som omfattar makulae, palpler, vesikler och krustor. I munnen ser du också enstaka blåsor. Ali har varit subfebril i fyra-fem dagar, men mår i övrigt relativt bra.** 
   * Mest trolig diagnos
     * Vattkoppor, varicella zoster
   * Inkubationstid
@@ -8707,7 +8867,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 ### Anemi
 
-***Presentation***
+#### Presentation
 
 * **9 mån pojke**
   * Ahmed kommer med sin mamma till barnakuten. 
@@ -8793,6 +8953,16 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * Sfärocytos med infektion
   * autoimmun hemolys
 * **Benmärgsvikt**: bör gå med andra bristande blodkroppar
+
+
+
+#### Utredning
+
+| <img src="./lectures/ped_lec/imgs/diab_hemat_sem_VJklJQ6Sft.png" alt="VJklJQ6Sft" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
 
 #### G6PD brist
 
@@ -13470,7 +13640,7 @@ En kort lista över kliniska manifestationer av CF:
 * Ingen postiktalitet
 * 0.5-4åå 
 * Tid: inte mer än 10min
-* Symmetrisk, generell, tonisk klonisk klonisk kramp
+* Symmetrisk, generell, tonisk klonisk kramp
 
 
 
@@ -13508,6 +13678,8 @@ En kort lista över kliniska manifestationer av CF:
   * midazolam iv: finns infart, ge midazolam
   * diazepam rektalt: Ingen infart ger midazolam rektalt
 * Däremot kan nyttan i andra avseenden vara god; förbättrat allmäntillstånd, ökat vätskeintag, bättre sömn och kanske även lugnare föräldrar.
+
+
 
 #### West syndrome TODO
 
@@ -17464,7 +17636,7 @@ Ataxic cerebral palsy is due to [...] damage.
 
 
 
-| <img src="./imgs/sam_180421_MOP23v27Ra.png" alt="MOP23v27Ra" style="zoom:50%;" /> | <img src="./imgs/sam_180421_npyB6nCbHw.png" alt="npyB6nCbHw" style="zoom:50%;" /> |      |
+| <img src="./imgs/sam_180421_MOP23v27Ra.png" alt="MOP23v27Ra" style="zoom: 67%;" /> | <img src="./imgs/sam_180421_npyB6nCbHw.png" alt="npyB6nCbHw" style="zoom: 67%;" /> |      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 |                                                              |                                                              |      |
 

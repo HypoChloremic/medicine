@@ -1315,33 +1315,33 @@ Anafylaxigrader
 
   
 
-  ***Salim 8 månader, 8kg***
+***Salim 8 månader, 8kg***
 
-  * ***Ingen bolus***
-  * ***Rehydrering***: ja, 
-    * Oralt (då inga kräkningar, möjligt adekvat att acceptera peroralt, )
-    * 5% av kroppsvikt, 400mL Ringer-acetat över 4 timmar
-  * ***Underhållsvätska, ja***
-    * ***ersättning, alt utpumpad bröstmjölk, annars*** 
-    * ***peroral:*** ***125mL/kg, 1000mL över 24 timmar***
-    * ***intravenöst:***
-      *  ***plasmalyte glukos 5% glukos, 140mM Na, 20mM K,*** 
-      * ***100mL/kg/d ger 800mL över hela dygnet.***
+* ***Ingen bolus***
+* ***Rehydrering***: ja, 
+  * Oralt (då inga kräkningar, möjligt adekvat att acceptera peroralt, )
+  * 5% av kroppsvikt, 400mL Ringer-acetat över 4 timmar
+* ***Underhållsvätska, ja***
+  * ***ersättning, alt utpumpad bröstmjölk, annars*** 
+  * ***peroral:*** ***125mL/kg, 1000mL över 24 timmar***
+  * ***intravenöst:***
+    *  ***plasmalyte glukos 5% glukos, 140mM Na, 20mM K,*** 
+    * ***100mL/kg/d ger 800mL över hela dygnet.***
 
-  
 
-  ***Anna 3 år, 17kg***
 
-  * Ingen bolus
-  * ***Rehydrering***: ja, 
-    * intravenöst: 5% av kroppsvikt, 850mL Ringer-acetat över 4 timmar
-  * ***Underhållsvätska, ja***
-    * **välliing**
-    * **peroral**: 100mL/kg, 1700mL över 24 timmar
-    * **intravenöst**:
-      *  plasmalyte glukos 5% glukos, 140mM Na, 20mM K, 
-      * 100mL/kg/d + 50mL x kg = ger 1350mL över hela dygnet.
-    * ***Notera att kalorimässigt är det lågt i glukos vätska***
+***Anna 3 år, 17kg***
+
+* Ingen bolus
+* ***Rehydrering***: ja, 
+  * intravenöst: 5% av kroppsvikt, 850mL Ringer-acetat över 4 timmar
+* ***Underhållsvätska, ja***
+  * **välliing**
+  * **peroral**: 100mL/kg, 1700mL över 24 timmar
+  * **intravenöst**:
+    *  plasmalyte glukos 5% glukos, 140mM Na, 20mM K, 
+    * 100mL/kg/d + 50mL x kg = ger 1350mL över hela dygnet.
+  * ***Notera att kalorimässigt är det lågt i glukos vätska***
 
 
 

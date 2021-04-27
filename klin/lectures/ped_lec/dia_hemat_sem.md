@@ -61,7 +61,7 @@
 
 ***Symptom där man ska tänka DM***
 
-* svampinfektin i underlivet: ibland det enda teckent som föräldrarna upptäcker. 
+* !! svampinfektin i underlivet: ibland det enda teckent som föräldrarna upptäcker. 
 * trötthet
 * viktnedgång
 * gnällighet
@@ -246,12 +246,12 @@
 
 #### ***Utredning när diagnos oklar***
 
-* ***fB-glukos***
-* ***Hba1c***
-* ***OGTT:*** oral grlukostolerans
-* ***c-peptid***
-* ***HLA-typning***
-* ***antikroppantikroppar***: 
+* **fB-glukos**
+* **Hba1c**
+* **OGTT:** oral grlukostolerans
+* **c-peptid**
+* **HLA-typning**
+* **antikroppantikroppar**: 
   * GADA
   * IA-2A
   * IAA
@@ -353,7 +353,7 @@
   * ***urin***
     * glukos
     * ketoner
-  * ***EKG på alla*** 
+  * !! ***EKG på alla*** 
   * ***vikten***, dagligen och ankomst sjk*
 * ***Handlägg***
   * v-sond: om stora mäönder sockerhaltig vätska behövs, görs med v-sond
@@ -461,7 +461,7 @@ Denna slide verkade vara ganska bra, bör titta på den.
   * noga koll på vätskan
   * efter 1 dygn att barnet kan dricka ensamt, men man ska ha koll på intag
   * FÅR EJ DRICKA VATTEN pga osmolaliteten
-* Insulinet: insulindropp lika läbnge, 48 timmar, 2 dygn innan subkutan behandling igen. 
+* Insulinet: insulindropp lika länge, 48 timmar, 2 dygn innan subkutan behandling igen. 
 * När man tagit bort droppet behöver de fortsätta några dagar. ..
 
 
@@ -538,9 +538,9 @@ Malek väger 50 kg. Redhydrering:
 
 ### Fall 3
 
-* Lina har varit på fotbollsturnering ochspelatflera matcher under dagen. 
-* På kvällen festar hon med några kompisar och dricker alkohol. 
-* På natten vaknar föräldrarna av att Linassensor larmar för lågt blodsocker och de hittar henne krampandes i sängen.
+* Lina har varit på fotbollsturnering ochspelat flera matcher under dagen. 
+  * På kvällen festar hon med några kompisar och dricker alkohol. 
+  * På natten vaknar föräldrarna av att Linas sensor larmar för lågt blodsocker och de hittar henne krampandes i sängen.
 
 
 
@@ -674,7 +674,9 @@ Kan följas upp via VC efter utläkt inf. Ta om diff om ca 1 vecka.
 
 
 
-***b) ...som du träffar som AT-läkare på ”valfri vecka” vid barnklinikens akutmottagning. Din handledare från VC har träffat Alfred på BVC. Han utreddes för ev komjölksproteinallergi. I rutinproverna sågs bra Hb och TPK, men lågt LPK med neutrofila 0,4***. Detta barnet är detsamma med sjukt o lite feber, men det som skrivits i b är bakgrunden. 
+***b) ...som du träffar som AT-läkare på ”valfri vecka” vid barnklinikens akutmottagning. Din handledare från VC har träffat Alfred på BVC. Han utreddes för ev komjölksproteinallergi. I rutinproverna sågs bra Hb och TPK, men lågt LPK med neutrofila 0,4***. 
+
+Detta barnet är detsamma med sjukt o lite feber, men det som skrivits i b är bakgrunden. 
 
 ***Hur tolkar du detta***
 
@@ -849,21 +851,22 @@ Onkologen: Benmärgspunktion, molekylärdiagnostisk us, LP, ev radiologi.
 * detta är en stamcellssjuka: trilinjär påverkan + blaster i blodet (det är malignitet tills motsatsen bevisad)
 * Om man har malignitetsmisstanke: 
   * man kan ringa barnonkologjouren och fråga: om det kan vänta till morgondagen
-* ***om det är så att man tagit blodproverna o vill se proverna innan gör ngt, om man misstänker ngt om malignitet***
+* ***om det är så att man tagit blodproverna o vill se proverna innan gör ngt, om man *misstänker* ngt om malignitet***
   * då antingen skicka in barnet
   * eller ha ngn som bevakar proverna med en jour
-* ***har man stark misstanke malignitet***
-  * ringa närmsta barnonk centra, och lägger upp en plan för det hela. 
+* **har man stark misstanke malignitet**
+  * ringa närmsta barnonk centra, 
+  * och lägger upp en plan för det hela. 
   * då kommer dessa att säga att man skickar in till akuten, barnakuten Solna där de omhändertar patienten
-* ***man kan komplettera med prover om man har infart och -- barnet***
-  * njurpvoer: kan vara påverkade o förstorade
+* **man kan komplettera med prover om man har infart och -- barnet**
+  * Njurprover: kan vara påverkade o förstorade
     * Cancerceller faller sönder o får lätt slå ut njurarna av slaggprodukter. 
   * leverprover: man kan ha en leukemi härd här
-* ***Det finns käl att misstänka blodsjukdom för ytterligare utredning och en plan***
+* **Det finns käl att misstänka blodsjukdom för ytterligare utredning och en plan**
   * Mamman frågar om det är leukemi: man säger att prognosen är bra för de flesta leukemier (ALL)
   * man kan inte skicka in ngn t en barnonkolog utan att säga att man misstänker barnleukemi
   * Hur ställer man diagnosen, golden standard:
-    * benmärgsaspiration: för att diffa vilken leukemi
+    * **benmärgsaspiration**: för att diffa vilken leukemi
     * man har redan sett blaster
   * D-ALL v
 * Sjuka barn att de är utkramade o trasa
@@ -998,7 +1001,7 @@ Primär immunbrist, cystisk fibros (ökad slembenägenhet  flera inf, dålig 
 
 ### Fall 4
 
-***Stefania är 14 år och en ganska trulig tonåring. Hennes mamma har nu tvingat iväg henne till VC där du vikar före AT. Stefania har fått ”konstiga prickar” på underbenen och magen sen några dagar tillbaka. Hon är annars fullt frisk, förutom en rejäl förkylning för några veckor sedan.*** 
+**Stefania är 14 år och en ganska trulig tonåring. Hennes mamma har nu tvingat iväg henne till VC där du vikar före AT. Stefania har fått ”konstiga prickar” på underbenen och magen sen några dagar tillbaka. Hon är annars fullt frisk, förutom en rejäl förkylning för några veckor sedan.** 
 
 ***Hur tolkar du detta?*** 
 
@@ -1086,9 +1089,9 @@ hos hnm: blodstatus ua men låga TPK (23)
 * ***Behandling***
   * ***IvIG: man får snabb effekt***
     * har man många blödningar etc så ska man välja IvIG för att det är snabb effekt
-  * har man 1.5åå näsblödningar, dunkar huvet i allt: IVIG alla dagar i veckan
-  * har man en 14åå patient som inte parkour o fullkontakt karate: då är det kortisonkur istället
-  * man har uppgraderat kortisonkur så likvärdig IVIG.
+  * **har man 1.5åå näsblödningar, dunkar huvet i allt**: IVIG alla dagar i veckan
+  * **har man en 14åå patient som inte parkour o fullkontakt karate**: då är det kortisonkur istället
+  * **man har uppgraderat kortisonkur så likvärdig IVIG**
   * Vid grad 3-4 behandlar man patientne
   * ***Behandlingstrappa***
     * **upptrappning mot grad 4-5**

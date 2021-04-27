@@ -120,3 +120,10 @@ beroende på hur akut detta är
 
 15-årig, tidigare frisk tjej kommer via remiss från VC pga buksmärtor och viktnedgång för utredning.
  Misstänkt IBD eller celiaki - viktnedgång, anemi, lågt albumin, uppblåst mage, uppger att det kommit blod en gång vid avföring som är mjuk. Har ej gått in på gynanamnes så kan ej utesluta järnbristanemi pga riklig mens. Gastroenterit mycket osannolikt utan kräkningar eller infektionssymptom samt sökte för samma problem för 6 månader sedan - oklart om det hållit i sig sedan dess. Transglutaminasantikroppar samt f-calprotectin taget. Efter konsultation med gastro skickas remiss till gastromedicin för övertag av utredning och behandling efter provsvar. Pat skrivs hem med järntabletter och kostråd, avvaktar övrig behandling då gastromedicin kan ta emot flickan senare i veckan.
+
+
+ * När är Hb som lägst efter partus = 3mån
+
+
+ * GRänsvärden för neturopeni
+    * är det <= 0.5 för neutropeni eller bara <0.5 är frågan

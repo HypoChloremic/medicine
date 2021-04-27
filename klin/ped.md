@@ -3060,7 +3060,6 @@ Enligt ABCDE
     * höjer B-glukos snabbare än andra kolhydrater
     * så rent socker som möjligt
   * Långt ifrån sjukhus: ge så mkt socker som det går, det är hypoglykemin som är farlig initialt. 
-  * 
 * Glukos: 10% 3-5mL/kg bolusdos
   * patienten bör vakna av detta
   * om patienten inte vaknar av bolusdosen coh man ser en stegring av b-glukos ska man leta efter annan genes också
@@ -6299,40 +6298,6 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 
-#### Immunbrist
-
-***Presentation***
-
-* **En pappa kommer med sin 20 månader gamla flicka Ingrid som har täta recidiverande luftvägsinfektioner. Pappans arbetssituation har blivit ansträngd då arbetsgivaren är oroad av hans täta frånvaro från arbetet, nu sammanlagt nästan 10 veckor det senaste halvåret. Ingrid har fått antibiotika för otit vid ett tillfälle och för pneumoni vid ett tillfälle. I övrigt har hon tillfrisknat spontant i det som du bedömer som täta recidiverande övre luftvägsinfektioner av virustyp. Pappa misstänker att det är något fel på immunsystemet. Du är inte lika övertygad.** 
-  * Ange 4 anamnestiska uppgifter som kan föranleda utredning för immunbrist hos barn (4p)** 
-    * 2 ab krävande pneumonier på året
-    * över >=4 ab krävande otiter
-    * över >=2 ab krävande sinuiter
-    * över >=2 ab krävnde pneumonier
-    * Infektioner som inte läker enl förbäntan med adekvat AB
-    * återkommande Hudinfek, mjukdelsinfek, roganabscess, icke-infektiös granulom
-    * infektioner ovanlig lokalisation, ovanlig agens
-    * över >=1invasiv infektion: osteomyelit, meningit, sepsis
-    * candidos: uttalad kronisk oral eller kutan candidos
-    * Multipla autoimmuna sjukdomar:  eller mkt tidig debut autoimmun sjd, >=3åå
-    * omfattande hudförändringar, erytrodermi, eksem som inte svarar på behandling
-    * spädbarn som inte växer som förväntat
-    * Känd primär immunbrist sjd i familj
-* **Alice 18 månader,** 
-  * tidigare frisk, kommer in till barnakuten med sin 6:e förkylning mellan januari och juni. Hon har nästäppa, hosta och ibland lite feber. Hon får i sig hyfsat med mat och dryck. Vikt och längdutveckling normal. Hon behöver ofta vara hemma från förskolan. Föräldrarna är bekymrade över att hon har immunbrist och vill att du utreder henne. Vilket av nedanstående är det mest korrekta svaret att säga till föräldrarna? (1 p) 
-  * Det är normalt men för säkerhetskull tar du några prover för att utesluta immunbrist. 
-  * rätt: Du ger lugnande besked då det är normalt att ha frekventa förkylningar i denna ålder. 
-  * Du tar några prover nu men skickar en remiss till specialist för en uppföljning. 
-  * Du är bekymrad och påbörjar en utredning. 
-  * Du är orolig och remitterar till specialist. 
-  * // man kan ha 12 ÖLI per år som barn. ett varje månad ungefär
-* **En vanlig frågeställning hos föräldrar är att det är något fel på deras barns immunförsvar på grund av att barnet har så många infektioner under småbarnsperioden. Vilket av nedanstående alternativ anger tre korrekta varningstecken på immunbrist?** 
-  * \> 4 otiter per år, autoimmunitet, allergisk astma
-  * Infektioner på ovanliga lokalisationer, IBD, ovanliga smittämnen 
-  * Upprepade djupa infektioner tex meningit, ovanliga smittämnen, långvariga övre luftvägssymtom 
-  * rätt: Infektioner som inte läker på förväntat sätt under antibiotikabehandling, infektioner på ovanliga lokalisationer, upprepade djupa infektioner tex sepsis 
-  * Infektioner som inte läker på förväntat sätt under antibiotikabehandling, >10 luftvägsinfektioner av virustyp per år, svårbehandlade eksem 
-
 
 
 #### Immunglobulinnivåerna
@@ -8705,6 +8670,39 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
+#### Fysiologi
+
+***Leukocyter***
+
+* Barn fler leukocyter än vuxna
+* relativ lymfocytos
+* närmar sig vuxenvärdet först i skolåldern
+* Anatlet i cirkulationen är inte hela sanningen
+  * kan vara på plats
+  * i vävnaden
+  * eller marginalpoolen
+* ***Marginalpoolen***
+  * kan öka sitt Hb värde i ansträngning, 
+  * detta har hästar enormt av, en massa blodkroppar i mälten så att de bloddopar sig
+  * marginalpoolen utgörs av mjälten..?
+
+
+
+***Erytrocyter***
+
+* Tydlig åldersvariation
+* högt direkt efter aprtus
+* lägst vid 3 månader 
+* sedan ungefär som vuxen efterdet
+
+
+
+
+
+***Trombocyter***
+
+* Liten åldersvariation
+
 
 
 ### Anemi
@@ -8769,6 +8767,21 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
       * PKINR
   * Hur resonerar du kring blåsljudet
       * Fysiologiskt blåsljud förklarat av anemi
+* Kim är 9 år gammal, tidigare väs frisk, men har nu varit trött och håglös de senaste veckorna. Kim brukar i vanliga fall älska att spela fotboll, men är nu grymt osugen på detta. Har varit lite småsnuvig hela vintern, men ingen större skolfrånvaro. Äter och dricker hyfsat. Inget avvikande i status förutom att han ev är lite blek. I rutinprover finner du bla följande: Hb 95, MCV 65.
+  * Hur tolkar du detta
+    * Mikrocytär anemi, kan relateras till järnbrist, alltså järnbristanemi
+    * kan bero på mkt annat: tarmar dålig absorption, äter för lite järn, eller blödning
+    * lågt järnvärde är den sista manifestationen
+    * utreda varför det är lågt järn
+  * Utredning
+    * ferritin: aktufas proten, går upp i inflammation, e.g. sepsis eller förkylnin, falskt förhöjt
+    * blodstatus + diff: viktigt att vet aom det är anna involverat
+    * Järnvärdet varierar med dygnet. Man ska enbart foksuera på ferritinet. har man lågt ferritin är indikativt av mikrocytär aenemi och om inget annat är det järnbrist...
+* amid 2 år som är remitterad till dig på BLM från BVC då han växer dåligt (-2SD). Hamid är en liten blek/gul(?) gosse med stor buk och lite utskjutande panna. Föräldrarna pratar bara arabiska, då familjen nyligen kommit till Sverige från Syrien. Du initierar en ganska bred provtagning och finner bla Hb 65, MCV 60, targetcells på diff.
+  * Hur tolkar du detta
+    * Target cells tyder på Thalassemia
+  * mutation beta-globin kedjan, producerar defekt, sådan kedja. 
+  * gener: minor, major
 
 
 
@@ -8781,9 +8794,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * autoimmun hemolys
 * **Benmärgsvikt**: bör gå med andra bristande blodkroppar
 
-
-
-### G6PD brist
+#### G6PD brist
 
 
 
@@ -8893,311 +8904,99 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 
 
-### Hb fysiologi barn
-
-***Fysiologi***
-
-* **Hematopoes prenatalt**: processen som underhåller livslång produktion av blodceller. 
-  * ***Locale:*** huvudsakliga lokalen är ***levern!***. Postnatalt överförs till benmärgen. 
-* ***hematopoetiska celler***: alla stammar fr plurpotenta hematopetiska stamceller, essentiella för blodcellsproduktion. 
-  * brist på dessa stamceller leder till benmärgssvikt varpå ej kan tillhanadahålla tillräckliga med blodceller. 
-* **Hemoglobin produktion fetalt**
-  * **Mönster hemoglobinproduktion**
-  * **Hemoglobin proteiner utefter stadie:**
-    * **Embryonalt**: Hb Gower 1-2, Hb Portland
-    * **Fetalt**: HbF
-    * **Adult**: HbA och HbA2
-  * **Hemoglobin typer i nyfödd och adult**
-    * **nyfödd**: HbF 74%, HbA 25%, HbA2 1%
-    * **barn över 1 år och adulta**: HbA 97%, HbA2 2%
-* **HbF**: Fetalt hemoglobin har högre affinitet för syrgas, jämfört med HbA. Nyttigt för att väldigt hypoxisk miljö i den fetala cirkulationen. Saturationsnivån är kring 60% i det venösa blodet som kommer tilblaka fr placenta. 
-  * saturationen (alltså att man saturerat loci för syrgas i hemoglobin proteinerna) är högre för lägre tryck syrgas i cirkulationen. 
-* **Graduell ersättning efter födsel**: HbF ersätts graduellt postnatalt med HbA och HBAw. 
-  * **1åå, HbF låg**: vid 1åå är koncentrationen HbF låg hos barnet. 
-
-
-
-***Protektivt med HbF***
-
-* **HbF är protektivt vissa anemier**
-* **Sickle-cell anemi**: förklarar varför nyfödda är asymptomatiska första året, men att symptom utvecklas efter det. 
-* ***Thalassemi och viss typ av benmärgssvikt***: Högre koncentration HbF kan vara indikativt för thalassemi också, 
-
-<img src="./imgs/ped_samman_MSJMVKVxxw.png" alt="MSJMVKVxxw" style="zoom:50%;" />
-
-
-
-### Hemolys
-
-***Etiologi och patofysiologi***
-
-* **Autimmun hemolytisk anemi**
-* **G6PD**
-* **Hereditär sfärocytos relaterad hemoloys**
-* **Sickle-cell anemi**
-
-
-
-### Immunisering
-
-
-
-
-
-###  ITP
+#### Järnbristanemi
 
 ***Presentation***
 
-* Stefania är 14 år 
-  * och en ganska trulig tonåring. Hennes mamma har nu tvingat iväg henne till VC där du vikar före AT. Stefania har fått ”konstiga prickar” på underbenen och magen sen några dagar tillbaka. Hon är annars fullt frisk, förutom en rejäl förkylning för några veckor sedan.
-* s421 i Lassauer har ett fall.
-  * Sian, aged 5 years, developed bruising and a skin rash over 24 hours. She had had an upper respiratory tract infection the previous week. On examination she appeared well but had a purpuric skin rash with some bruises on the trunk and legs (Fig. 23.17). There were three blood blisters on her tongue and buccal mucosa, but no fundal haemorrhages, lymphadenopathy, or hepatosplenomegaly. Urine was normal on dipsticks testing. A full blood count showed Hb 115 g/L with normal indices, WBC and differential normal, platelet count 17 × 10 9 /L. The platelets on the blood film were large; the film was otherwise normal. A diagnosis of ITP was made and she was discharged home. Her parents were counselled and given emergency contact names and telephone numbers. They were also given litera- ture on the condition and advised that she should avoid contact sports but should continue to attend school. Over the next 2 weeks she continued to develop bruising and purpura but was asymptomatic. By the third week, she had no new bruises, and her platelet count was 25 × 10 9 /L; the blood count and film showed no new abnormalities. The following week, the platelet count was 74 × 10 9 /L and a week later it was 200 × 10 9 /L. She was discharged from follow-up.
-* Vilket av nedanstående påståenden om ITP hos barn är sant? 
-  * Benmärgsundersökning genomförs rutinmässigt vid ITP för att utesluta leukemi 
-  * ITP blödningar hos barn brukar ff a drabba leder och muskler 
-  * Kronisk ITP drabbar ff a de barn som har ITP debut < 3 års ålder 
-  * Nyupptäckt ITP skall alltid behandlas med intravenöst immunglobulin om trombocyttalet är <30 x 109 /l (ref 150 – 400 x 109 /l) 
-  * rätt: Trombocyttransfusion bör undvikas till barn med ITP 
-* ITP (immunologisk trombocytopen purpura) och Henoch-Schönlein purpura är två tillstånd som kan orsaka hud-och slemhinneblödningar hos barn, men där patofysiologin, biokemisk bild och kliniken skiljer sig åt.  
-  * Ange ettrelevant exempel för respektive diagnos som belyser skillnader mellan de båda tillstånden avseende...
-  * Laboratoriemässiga fynd (1 p) 
-      * TPK påverkat, ITP
-      * krea påverkat, u-sticka påverkat HSP
-  * KLiniska fynd inspektion hudkostym 
-      * Petekier ITP
-      * Palpabel purpura eller petekier HSP   
-  * Komplikationer (1 p) 
-      * njursvikt
-      * BLödningar
+#### Thalassemia
+
+***Presentation***
+
+* !!! Thalassemia major och sicklecellanemi är två av världens vanligaste ärftliga sjukdomar. Nedan anges (först) ett typiskt fynd för obehandlad thalassemi därefter ett typiskt fynd vid sicklecellanemi. 
+  * rätt: Extramedullär blodbildning respektive skelettsmärtor 
+  * Aplasi av benmärg respektive daktylit (svullnad av ett finger) 
+  * Hjärtinsufficiens respektive njurinsufficiens 
+  * Polyendokrin sjukdom respektive glomerulonefrit 
+  * Neutropeni respektive trombocytopeni 
 
 
-
-***Allmänt***
-
-* aka immunologisk trombocytopeni (tidigare idiopatisk trombocytopeni), aka immunmedierad trombocytopen purpura
 
 
 
 ***Etiologi och patofysiologi***
 
-* Vanligaste acquired trombocyt abnormaliteten i ungdom
-* Etiologiskt: ITP kan vara viral, läkemedelsinducerad, eller idiopatisk
-* patofysiologiskt: 
-  * ITP följer virala infektion, 
-  * tros att virus trigger antikroppar som korsreagerar med trombicyter
-  * orsakar destruktion
-  * elimination via mjälten
-* Blödnignsbenägenhet: detta varierar mkt fr person t person. Det kan finnas patienter med TPK under 5 som man inte behöver oroa sig för alltför mkt för att den kliniskt mår bra. läkare menade att om man har 
+* **Hemoglobinopati**
+* **Reduktion produktion Beta-globin**: Thlassemi föranleder **minskad produktion beta-globin**, vilket innebär att man **ej kan producera HbA**. 
+* **Svårighet beror på mängd kvar av HbA och HbF**
+* **Former**
+  * **!! Beta-thalassemia major**: svåraste formen. **HbA** ***kan inte produceras pga abnormal Beta-globin gen***
+  * **Beta-thalassemia intermedia**: denna formen av sjd är mildare med variabel svårighet. Beta-globin mutationenerna tillåter mindre mängd HbA och/eller stor mängd HbF att produceras.
 
 
 
-***Kliniska kännetecken***
+***Kliniska känntecken***
 
-* **viral infek**: 1-4 veckor efter viral infektionqtconsole jupyternotebook
-* **börjar abrupt:** 
-  * cutaneous blödning (e.g. petekier, blåmärken)
-  * mukös membran blödnin (e.g. epistaxis, tandköttsblödning)
-  * intern blödning i hjärnan (under 1%), njurar, gastrointestinalt, kan ske men ovanligt
-* **TPK under 30**: behover inte ha symptom
-* **blödningar**: förekommer hud, minhåla, näsa, allvarlig inre blödning
-* **mjältförstoring**?
-* **Sammantaget**: normal blodbild förutom lågt PTK, ingen mjältförstoring eller annan bakomliggande sjd
-
-
-
-***Diagnos***
-
-* Primär ITP: TPK under $100 \times 10^9/L$, utan känd etiologi
-* Sekundär ITP: 20% av fallen, tirgger immuinförsvaret, e.g. SLE, HCV, HIV, vaccinationer, imminbrittillstånd (e.g. variabel immunbrist)
-
-
-
-***Differentialdiagnoser***
-
-* CNS-infektioner
-* Sepsis
-* leukemi
-* Henoch-schönleins purpura
-
-
+* !!! **Extramedullär hematopoes**: detta förhindras av regelbundna transfusioner. I frånvaro av blodtansfusoner utvecklar man hepatosplenomegali (hepatomegali, splenomegali) och benmärgsexpansion.
+  * benmärgsexpansionen leder till klassiska ansikten med maxillär övertillväxt och skull-bossing (ovanligt i UK och I-länder)
+* **pallor**
+* **Ikterus**
+* **Bossing of the skull, maxillär övertillväxt**
+* **splenomegali, hepatomegali**
+* **behov repeterade transfusioner**
 
 ***Utredning och handläggning***
 
-* ***blodstatus + diff***
-  * Labb visar trombocytopeni
-* ***kan blod-smear (blodutstryk):*** visar "large sticky platelets"
-* ***IPF:*** immature platelet fraction; kan användas för att diffa huruvida det är ett benmärgsproblem, i.e. nybildningsproblem, eller om det handlar om perifer destruering av trombocyterna. 
-* ***blod i citratrör***: 
-* ***Status***: blödningssymptom, palpation lever mjälte lymf, infektionstecken, dysmorfa drag (fanconi, TAR), andra symptom (e.g. njurdysfunk, hörselned vid MYH9 relaterade sjd, exem el immunbrist vid WAS)
-* "In children with immune thrombocytopenic purpura, in spite of impressive cutaneous manifestations and extremely low platelet count, the outlook is good and most  will remit quickly without any intervention"
+* Prenatal diagnostik: patienter som är ehterzygota för Beta-thalassemi trait, har en 1:4 chans för att få påverkat barn. 
+  * DNA-analys korion villi, bör ges
+  * genetisk vägledning: för att veta om de bör fortsätta med graviditet eller ej, ska vara ett informerat beslut. 
 
 
 
 ***Behandling***
 
-* ***Steroider***: prednisolon (vuxen 1-2mg/kg x 1 peroralt), vid mistanke ITP
+* **Beta-thalassemia major**: fatalt om inte transfunderas regelbundet. 
+  * **livslång blodtransfusioner, månatligen**
+    * målet är att ha Hb över 100g/L. 
+    * reducerar risk för growth-failure och bendeformation 
+    * Komplikationer: diabaetes, lever cirrhos, kardiomyopati, infertilitet, growth-failure.
+  * **järn-kelering:** för att hindra komplikationer fr blodtransfusioner
+    * deferasirox,
+    * börjar fr 2åå-3åå
+  * bra compliance och regelbundna transfusioner, kan pats överleva upp t 40.
+  * ***Mortalitet***: järnoverload, om dålig compliance etc. 
+  * **Benmärgstransplantation**: är ett alternativ. reserverat vanligtvis för barn med HLA-identiska ssykon, för att 90-95% success då, men 5% mortalitet
 
-* ***inj gammaglobuliner (aka IvIG)***: många b lödningar, använder injektion gammaglobuliner för ***snabb effekt***. 
-  * e.g. 1.5åå + näsblödningar + benäget att slå sig = behandling med gammaglobuliner.'
-  * e.g. 14åå patient + som inte jätte aktiv = prednisolonkur istället
-  
-* // **trombocytkoncentrat**: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
+* **Minor**: ingen behandling utan symptom
+* **Major**: transfusion (oftast), benmärgstransplantation (supposedly inte funkar)
 
-* !!! ***Behandlingstrappa:*** Föreläsare nämnde behandlingstrappa som missades?
 
-* **Spelenektomi**: 
 
-  * **indikation**: 
-    * livshotande intrakraniell blödning
-    * ITP medför stor påverkan livskvalite, där remission inte lyckats
-  * leder t normalisering trombocyter, 80%
-  * **inför splenektomi**: preoperativ blödningsprofylax: ivig, kombination kortikosteroid
+***sopressors indicated in paediatric sepsis resus?***
 
-* **Allmänna rekmmendationer**
+#### Thalassemia minor
 
-  * 
 
-  
-
-### Leukemi
-
-***Presentation***
-
-* **Leukemi, ange vanliga debytsymptom (ej labbprover)**
-  * Feber
-  * Petekier
-  * Ledsmärta / skelettsmärta
-* !!! [viktig patientbild] **3 åriga Vera har remitterats från Närakuten p g a svängande subfebrilitet ca 37,8-38,3 i temp och blekhet sedan 2 veckor tillbaka. Hon har inte haft hög feber. CRP 26. Hon har även varit trött, klagat över smärta i kroppen och fått enstaka centimeterstora blåmärken på armar och ben.** 
-  * VIlken diagnos bör primärt uteslutas
-    * leukemi
-  * VIlka blodprover beställder du akut för att få stöd i din diagnosmisstanke
-    * Blodstatus + diff
-  * vad visar de i typfallet, förklara kort
-    * Trombocytopeni
-    * anemi
-    * leukocyutos eller leukopeni
-    * benmörgshömning med ökad proliferation i en cellinje
-  * Hur bekräftas diagnosmisstanken
-    * Benmärgsprov
-  * Du minns en annan diagnos som förkommer i hennes ålder, som kan ge spridda blåmärken och petekier, över hudkostymen, men där barnen som drabbas brukar ha ett gott allmäntillstånd
-  * vilken diagnos
-    * ITP
-  * Hur ställer diagnos
-    * Blodstatus med trombocyter
-  * Vilken mekanism bakom sjd bild
-    * Antikroppsbildning mot trombocyterna
-
-### Lymfom
 
 ***Kliniska kännetecken***
 
-* **vanligaste**: hastigt växande oömma lymfkörtlar
-  * ofta halsen
-  * kan vara bröstkorg, mage
-* **lokalisation relaterat med symptom**
-  * **andningsproblem**: lymfom i bröstkorgen
-  * **smärta**: lymfom i buk
-* **generell påverkan:** trötthet, feber, avmagring, B-symptom generellt. 
+* Heterzygoter är vanligtvis asymptomatiska
+* **Hypokromicitet**
+* **Mikrocytära RBC**
+* **Anemi:** mild eller frånvarande; disproportionell reduktion av MCH och MCV
+  * Hb kommer vara sänkt MEN antalet erytrocyter kommer vara ökat!
+* HbA2 ökad: detta är den viktigaste diagnostiska aspekten; notera att HbA1 är den vanligaste typen, representerar den största fraktionen. 
+  * vanligtvis 5%
+* HbF: ökad 1% till 3%
+* Kan vara förvirrande: minor kan ge mild järnbrist pga hypokromicitet o mikrocytära celler; men kan diffas mha seruum ferritin som är lågt i järnbrist men ÄR EJ LÅG HOS THALASSEMIA MINOR. 
 
 
 
-***Initial utredning***
+**Utredning och handläggning**
 
-* **Labb**: 
-  * **Blodstatus + diff:** essentiell del i utredningen
-  * **leverstatus + njurstatus:** evaluera status av viktiga organ, då möjligt med härdar i respektive organ eller att njurarna tar skada av tumörsjukdomen. 
+* För att undvika onödig järnbehandling behöver man utreda järnstatus hos barnet
+  * föranleder Ferritin som bör vara normalt
 
-
-
-#### ALL
-
-***Presentation***
-
-* 4åå flicka
-  * Beata grinar och gnäller. Hon är petig i maten och lite blek om nosen. 
-  * Helst vill hon sitta i dagisfrökens knä och läsa böcker. 
-  * Igår petade hon in en fiamedknuffpjäs i näsan, så det forsade blod. 
-  * Trots att det bara är i början på september har Beata redan ätit 2 kurer med Kåvepenin pga ”oklar inf”. Mamma har läst på vårdguiden om coxitis simplex, eftersom Beata klagar på ont i benen. Nu sitter de i ditt väntrum.
-  * diffar vid denna punkt? ITP, leukemi, (hemolytisk anemi?)
-  * Prover visar: Hb 80, TPK 50, LPK 50, blaster i diff, PKINR 1.3, APTT ua, lätt förhöjt krea, normalt Na, urat förhöjt, normala-lättstegrade transaminaser, CRP 15
-  * arbetsdiagnos nu: leukemi kanske ALL specifikt
-* Lisa 3 år inkommer till akuten för att hon sedan tre dagar haft små petekier på bålen. Hon har också haft lite lätt feber 38,2 grader utan förkylningssymtom. Ingen blödning från slemhinnor eller tarm. Föräldrarna tycker att hon varit lite tröttare än vanligt och varit gnällig i slutet av dagarna på förskolan sedan cirka 2 veckor. I status kan du notera några få, diskreta petekier på bålen. Hon har fin färg. I buken känner du en resistens till vänster i buken ca 3 cm nedom arcus i mamillarlinjen och du misstänker en mjältförstoring. Hjärta lungor fysikaliskt ua. Du tar ett blodstatus som visar tpk 27 x 10 9 /l, Hb 85 g/l, Lpk 10,8 x 10 9 /l Med bakgrund av symtom, status och lab misstänker du i första hand (2p)
-  * Fel alternativ
-  * a) leukemi och anstaltar om diff, urat samt benmärgsundersökning
-  * b) ITP och kollar diff samt antikroppar mot trombocyter
-  * c) aplastisk anemi och anstaltar om diff
-  * d) aplastisk anemi och anstaltar om diff och benmärgsundersökning
-  * Rätt alternativ: e) leukemi och anstaltar om diff, urat, benmärgsundersökning med kromosomundersökning
-
-
-
-***Etiologi och patofysiologi***
-
-* Blodmaligniteter hos barn: B-ALL vanligast, men T-ALL och AML förekommer liksom MDS
-
-
-
-
-
-### Neutropen feber
-
-
-
-
-
-
-
-### Petekier
-
-***Presentation***
-
-* Pelle 3 år var förkyld för några veckor sedan men har mått bra och gått på dagis sedan dess. Söker nu med sin pappa på barnakuten då han har fått petekier på kroppen, annars mår han bra. I status finner du endast små utslag generellt på kroppen som inte går att trycka bort. Du misstänker ITP (Idiopatisk trombocytopen purpura/Immuntrombocytopeni). Det finns fler tillstånd när barn får petekier.
-  * nämn 2 tilltånd utöver ITP som kan ge petekier
-    * Sepsis
-    * leukemi
-    * HSP
-    * TTP ?
-    * HUS?
-    * läkemedelsinducerad reaktion (vilken?)
-  * beskriv med 1 ord ellr2 grundläggande orsaken bakom dessa 3 tillstånd
-    * Sepsis = kapillärläackate
-    * ITP = antikroppar mot trombocyterna
-    * leukemi = minskad produktinio
-    * HSP = mikroinfarkteR? 
-
-
-
-***Etiologi och patofysiologi***
-
-* **Blödning in i dermis**
-* Påverkan därför av hemostasen resulterar i att petchier sker med olika kliniska kännetecken
-* primära patofysiologin t petekier och purpura
-  * trombocytopen
-  * trombocyt dysfunktion
-  * påverkad koagulation
-  * förlust vakulär integritete
-
-
-
-
-
-***Epidemiologi***
-
-***Kliniska kännetecken***
-
-* Försvinner inte efter tryck
-
-
-
-***Utredning och handläggning***
-
-***Behandling***
-
-
-
-
-
-### Sfärocytos
+#### Sfärocytos
 
 ***Etiologi och patofysiologi***
 
@@ -9245,9 +9044,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
   
 
-
-
-### Sickle cell sjukdom
+#### Sickle cell sjukdom
 
 ***Presentation***
 
@@ -9419,6 +9216,708 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
     * enda botande beh
     * svårt välja rätt kandidater. 
 
+
+
+### Låga vita
+
+
+
+!! 
+
+| <img src="./lectures/ped_lec/imgs/diab_hemat_sem_PDWl5RS1dR.png" alt="PDWl5RS1dR" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+
+
+### Hb fysiologi barn
+
+***Fysiologi***
+
+* **Hematopoes prenatalt**: processen som underhåller livslång produktion av blodceller. 
+  * ***Locale:*** huvudsakliga lokalen är ***levern!***. Postnatalt överförs till benmärgen. 
+* ***hematopoetiska celler***: alla stammar fr plurpotenta hematopetiska stamceller, essentiella för blodcellsproduktion. 
+  * brist på dessa stamceller leder till benmärgssvikt varpå ej kan tillhanadahålla tillräckliga med blodceller. 
+* **Hemoglobin produktion fetalt**
+  * **Mönster hemoglobinproduktion**
+  * **Hemoglobin proteiner utefter stadie:**
+    * **Embryonalt**: Hb Gower 1-2, Hb Portland
+    * **Fetalt**: HbF
+    * **Adult**: HbA och HbA2
+  * **Hemoglobin typer i nyfödd och adult**
+    * **nyfödd**: HbF 74%, HbA 25%, HbA2 1%
+    * **barn över 1 år och adulta**: HbA 97%, HbA2 2%
+* **HbF**: Fetalt hemoglobin har högre affinitet för syrgas, jämfört med HbA. Nyttigt för att väldigt hypoxisk miljö i den fetala cirkulationen. Saturationsnivån är kring 60% i det venösa blodet som kommer tilblaka fr placenta. 
+  * saturationen (alltså att man saturerat loci för syrgas i hemoglobin proteinerna) är högre för lägre tryck syrgas i cirkulationen. 
+* **Graduell ersättning efter födsel**: HbF ersätts graduellt postnatalt med HbA och HBAw. 
+  * **1åå, HbF låg**: vid 1åå är koncentrationen HbF låg hos barnet. 
+
+
+
+***Protektivt med HbF***
+
+* **HbF är protektivt vissa anemier**
+* **Sickle-cell anemi**: förklarar varför nyfödda är asymptomatiska första året, men att symptom utvecklas efter det. 
+* ***Thalassemi och viss typ av benmärgssvikt***: Högre koncentration HbF kan vara indikativt för thalassemi också, 
+
+<img src="./imgs/ped_samman_MSJMVKVxxw.png" alt="MSJMVKVxxw" style="zoom:50%;" />
+
+
+
+### Hemolys
+
+***Etiologi och patofysiologi***
+
+* **Autimmun hemolytisk anemi**
+* **G6PD**
+* **Hereditär sfärocytos relaterad hemoloys**
+* **Sickle-cell anemi**
+
+
+
+### Immunisering
+
+
+
+### Immunbrist
+
+#### Presentation
+
+***Presentation***
+
+* **En pappa kommer med sin 20 månader gamla flicka Ingrid som har täta recidiverande luftvägsinfektioner. Pappans arbetssituation har blivit ansträngd då arbetsgivaren är oroad av hans täta frånvaro från arbetet, nu sammanlagt nästan 10 veckor det senaste halvåret. Ingrid har fått antibiotika för otit vid ett tillfälle och för pneumoni vid ett tillfälle. I övrigt har hon tillfrisknat spontant i det som du bedömer som täta recidiverande övre luftvägsinfektioner av virustyp. Pappa misstänker att det är något fel på immunsystemet. Du är inte lika övertygad.** 
+  * Ange 4 anamnestiska uppgifter som kan föranleda utredning för immunbrist hos barn (4p)** 
+    * 2 ab krävande pneumonier på året
+    * över >=4 ab krävande otiter
+    * över >=2 ab krävande sinuiter
+    * över >=2 ab krävnde pneumonier
+    * Infektioner som inte läker enl förbäntan med adekvat AB
+    * återkommande Hudinfek, mjukdelsinfek, roganabscess, icke-infektiös granulom
+    * infektioner ovanlig lokalisation, ovanlig agens
+    * över >=1invasiv infektion: osteomyelit, meningit, sepsis
+    * candidos: uttalad kronisk oral eller kutan candidos
+    * Multipla autoimmuna sjukdomar:  eller mkt tidig debut autoimmun sjd, >=3åå
+    * omfattande hudförändringar, erytrodermi, eksem som inte svarar på behandling
+    * spädbarn som inte växer som förväntat
+    * Känd primär immunbrist sjd i familj
+* **Alice 18 månader,** 
+  * tidigare frisk, kommer in till barnakuten med sin 6:e förkylning mellan januari och juni. Hon har nästäppa, hosta och ibland lite feber. Hon får i sig hyfsat med mat och dryck. Vikt och längdutveckling normal. Hon behöver ofta vara hemma från förskolan. Föräldrarna är bekymrade över att hon har immunbrist och vill att du utreder henne. Vilket av nedanstående är det mest korrekta svaret att säga till föräldrarna? (1 p) 
+  * Det är normalt men för säkerhetskull tar du några prover för att utesluta immunbrist. 
+  * rätt: Du ger lugnande besked då det är normalt att ha frekventa förkylningar i denna ålder. 
+  * Du tar några prover nu men skickar en remiss till specialist för en uppföljning. 
+  * Du är bekymrad och påbörjar en utredning. 
+  * Du är orolig och remitterar till specialist. 
+  * // man kan ha 12 ÖLI per år som barn. ett varje månad ungefär
+* **En vanlig frågeställning hos föräldrar är att det är något fel på deras barns immunförsvar på grund av att barnet har så många infektioner under småbarnsperioden. Vilket av nedanstående alternativ anger tre korrekta varningstecken på immunbrist?** 
+  * \> 4 otiter per år, autoimmunitet, allergisk astma
+  * Infektioner på ovanliga lokalisationer, IBD, ovanliga smittämnen 
+  * Upprepade djupa infektioner tex meningit, ovanliga smittämnen, långvariga övre luftvägssymtom 
+  * rätt: Infektioner som inte läker på förväntat sätt under antibiotikabehandling, infektioner på ovanliga lokalisationer, upprepade djupa infektioner tex sepsis 
+  * Infektioner som inte läker på förväntat sätt under antibiotikabehandling, >10 luftvägsinfektioner av virustyp per år, svårbehandlade eksem 
+* !! Calle är 3 år och ganska snacksalig. Han har ritat en huvudfoting till dig medan han satt i väntrummet på barnläkarmottagningen. Calles mamma har fått nog! I höstas hade Calle 2 lunginfl och nu har han haft öroninfl ett par gånger. På dagis har de andra mammorna talat om att man kan få rör i öronen. Calles tillväxtkurva är hyfsad. Hans storasyster är glad och frisk.
+  * Hur tolkar du detta: 
+    * abnormalt. 2 lugninflammationer är många djupa inflammationer som man inte ska ta lätt
+  * Differentialdiagnoser
+    * primär immunbrist
+    * !!! cystisk fibros
+    * ciliedysfunktion
+
+
+
+
+
+***Kännetecken***
+
+* Upprepade infektioner, tänk immunbrist
+
+  * ÖLI (otit, sinusit, etc)
+  * frekventa
+  * lunginflammationer
+
+* COLIN, patologisk infektionsKÄNSLIGHET: 
+
+  * Course: återkommande, atypisk
+  * Organism: opportunistiska agens
+  * Localization: polytop, atypisk
+  * Intensity: svår, major infektion eller flera minor infektion
+  * Numbers
+
+* GARFIELD, immundysregulation
+
+  * Granuloma
+  * autoimmunity
+  * Recurrent fevers
+  * Irregular eczema
+  * Lymphoproliferation
+  * DIarre
+
+* Dålig tillväxt: barn
+
+* viktnedgång: vuxna, kronisk diarre
+
+* Avvikande labbfynd: 
+
+  * neutropeni, 
+  * lymofcytopeni
+  * trombocytopeni
+  * immunglobuliner låga: IgA, IgM, IgG
+
+* Positiv SCID-screening, nyfödda, 
+
+* genetiskt fynd
+
+* immunbrist i familjen
+
+  
+
+  
+
+***Utredning***
+
+* Anamnes, enl läk
+  * Hereditet: varifrån världen
+    * norrland
+    * konsanguitet
+    * släkt länder sämre sjukvård: dödfödda bvarn är ett tecken på immunbrist också
+  * infektionskänslighet i familjen
+  * cystisk fibros: 
+  * läkemedel
+* Obligata prover, enl läk
+  * blodsttus + diff
+  * IgA, IgM, IgG
+
+
+
+
+
+| <img src="./lectures/ped_lec/imgs/diab_hemat_sem_TvqrDTuuxx.png" alt="TvqrDTuuxx" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/diab_hemat_sem_TpmMBKxkZV.png" alt="TpmMBKxkZV" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/diab_hemat_sem_ZLM2LDAAYf.png" alt="ZLM2LDAAYf" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
+
+
+
+###  ITP
+
+***Presentation***
+
+* Stefania är 14 år 
+  * och en ganska trulig tonåring. Hennes mamma har nu tvingat iväg henne till VC där du vikar före AT. Stefania har fått ”konstiga prickar” på underbenen och magen sen några dagar tillbaka. Hon är annars fullt frisk, förutom en rejäl förkylning för några veckor sedan.
+  * Hur tolkar du detta
+    * ITP. uteslutningsdiagnos. anamnes viktigt, hos små barn letar efter dysmorfa drag (FANCONI, TAR, WAS, ALport).
+    * få som får kronisk ITP, men akut ITP skov är vanliga
+    * man får petekier vid 30-40TPK, slemhinneblödningar först vid 10-20 TPK
+* s421 i Lassauer har ett fall.
+  * Sian, aged 5 years, developed bruising and a skin rash over 24 hours. She had had an upper respiratory tract infection the previous week. On examination she appeared well but had a purpuric skin rash with some bruises on the trunk and legs (Fig. 23.17). There were three blood blisters on her tongue and buccal mucosa, but no fundal haemorrhages, lymphadenopathy, or hepatosplenomegaly. Urine was normal on dipsticks testing. A full blood count showed Hb 115 g/L with normal indices, WBC and differential normal, platelet count 17 × 10 9 /L. The platelets on the blood film were large; the film was otherwise normal. A diagnosis of ITP was made and she was discharged home. Her parents were counselled and given emergency contact names and telephone numbers. They were also given litera- ture on the condition and advised that she should avoid contact sports but should continue to attend school. Over the next 2 weeks she continued to develop bruising and purpura but was asymptomatic. By the third week, she had no new bruises, and her platelet count was 25 × 10 9 /L; the blood count and film showed no new abnormalities. The following week, the platelet count was 74 × 10 9 /L and a week later it was 200 × 10 9 /L. She was discharged from follow-up.
+* Vilket av nedanstående påståenden om ITP hos barn är sant? 
+  * Benmärgsundersökning genomförs rutinmässigt vid ITP för att utesluta leukemi 
+  * ITP blödningar hos barn brukar ff a drabba leder och muskler 
+  * Kronisk ITP drabbar ff a de barn som har ITP debut < 3 års ålder 
+  * Nyupptäckt ITP skall alltid behandlas med intravenöst immunglobulin om trombocyttalet är <30 x 109 /l (ref 150 – 400 x 109 /l) 
+  * rätt: Trombocyttransfusion bör undvikas till barn med ITP 
+* ITP (immunologisk trombocytopen purpura) och Henoch-Schönlein purpura är två tillstånd som kan orsaka hud-och slemhinneblödningar hos barn, men där patofysiologin, biokemisk bild och kliniken skiljer sig åt.  
+  * Ange ettrelevant exempel för respektive diagnos som belyser skillnader mellan de båda tillstånden avseende...
+  * Laboratoriemässiga fynd (1 p) 
+      * TPK påverkat, ITP
+      * krea påverkat, u-sticka påverkat HSP
+  * KLiniska fynd inspektion hudkostym 
+      * Petekier ITP
+      * Palpabel purpura eller petekier HSP   
+  * Komplikationer (1 p) 
+      * njursvikt
+      * BLödningar
+
+
+
+***Allmänt***
+
+* aka immunologisk trombocytopeni (tidigare idiopatisk trombocytopeni), aka immunmedierad trombocytopen purpura
+
+
+
+***Etiologi och patofysiologi***
+
+* Vanligaste acquired trombocyt abnormaliteten i ungdom
+* Etiologiskt: ITP kan vara viral, läkemedelsinducerad, eller idiopatisk
+* patofysiologiskt: 
+  * ITP följer virala infektion, 
+  * tros att virus trigger antikroppar som korsreagerar med trombicyter
+  * orsakar destruktion
+  * elimination via mjälten
+* Blödnignsbenägenhet: detta varierar mkt fr person t person. Det kan finnas patienter med TPK under 5 som man inte behöver oroa sig för alltför mkt för att den kliniskt mår bra. läkare menade att om man har 
+
+
+
+***Kliniska kännetecken***
+
+* **viral infek**: 1-4 veckor efter viral infektionqtconsole jupyternotebook
+* **börjar abrupt:** 
+  * cutaneous blödning (e.g. petekier, blåmärken)
+  * mukös membran blödnin (e.g. epistaxis, tandköttsblödning)
+  * intern blödning i hjärnan (under 1%), njurar, gastrointestinalt, kan ske men ovanligt
+* **TPK under 30**: behover inte ha symptom
+* **blödningar**: förekommer hud, minhåla, näsa, allvarlig inre blödning
+* **mjältförstoring**?
+* **Sammantaget**: normal blodbild förutom lågt PTK, ingen mjältförstoring eller annan bakomliggande sjd
+* TPK koncentrationer
+  * Petekier: 30-40 i TPK
+  * Slemhinneblödningar: 10-20 TPK
+
+
+
+***Diagnos***
+
+* Primär ITP: TPK under $100 \times 10^9/L$, utan känd etiologi
+* Sekundär ITP: 20% av fallen, tirgger immuinförsvaret, e.g. SLE, HCV, HIV, vaccinationer, imminbrittillstånd (e.g. variabel immunbrist)
+
+
+
+***Differentialdiagnoser***
+
+* CNS-infektioner
+* Sepsis
+* leukemi
+* Henoch-schönleins purpura
+* TP: uteslutnignsdiagnos
+* HUS, 
+* leukemi, 
+* lymfom/myelom, 
+* B12/folsyrabrist, 
+* aplastisk anemi, 
+* splenomegali, 
+* lm, 
+* TTP. 
+* henoch schönlein: vaskulit
+* läkemedel
+* om organomegali och mjälten stor: lymfom eller leukemi
+
+
+
+***Utredning och handläggning***
+
+* ***blodstatus + diff***
+  * Labb visar trombocytopeni
+* ***kan blod-smear (blodutstryk):*** visar "large sticky platelets"
+* ***IPF:*** immature platelet fraction; kan användas för att diffa huruvida det är ett benmärgsproblem, i.e. nybildningsproblem, eller om det handlar om perifer destruering av trombocyterna. 
+* ***blod i citratrör***: 
+* ***Status***: blödningssymptom, palpation lever mjälte lymf, infektionstecken, dysmorfa drag (fanconi, TAR), andra symptom (e.g. njurdysfunk, hörselned vid MYH9 relaterade sjd, exem el immunbrist vid WAS)
+* "In children with immune thrombocytopenic purpura, in spite of impressive cutaneous manifestations and extremely low platelet count, the outlook is good and most  will remit quickly without any intervention"
+* !!! **Enl läk, seminariet**
+  * **Blodstatus + diff**
+  * !! **Blodutstryk**: 
+    * hitta trombocytstorlek
+    * Trombocytmorfologi
+
+
+
+***Behandling***
+
+* ***Steroider***: prednisolon (vuxen 1-2mg/kg x 1 peroralt), vid mistanke ITP
+
+* ***inj gammaglobuliner (aka IvIG)***: många b lödningar, använder injektion gammaglobuliner för ***snabb effekt***. 
+  * e.g. 1.5åå + näsblödningar + benäget att slå sig = behandling med gammaglobuliner.'
+  * e.g. 14åå patient + som inte jätte aktiv = prednisolonkur istället
+  
+* // **trombocytkoncentrat**: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
+
+* !!! ***Behandlingstrappa:*** Föreläsare nämnde behandlingstrappa som missades?
+
+* **Spelenektomi**: 
+
+  * **indikation**: 
+    * livshotande intrakraniell blödning (grad 5)
+    * ITP medför stor påverkan livskvalite, där remission inte lyckats
+  * leder t normalisering trombocyter, 80%
+  * **inför splenektomi**: preoperativ blödningsprofylax: ivig, kombination kortikosteroid
+
+* !! **Enl sem**
+
+  * ivIG: många blödningar, har snabb effekt. 
+  * 1.5åå näsblödningar som dunkar huvet överallt, kan man ge
+  * 
+  * Enl gradering
+    * **Grad 0**: ingen blödning
+    * **Grad 1**: obetydlig, <100 petekier, få hematom
+    * **Grad 2**: mild, >100 petekier, få hematom
+    * **Grad 3**: Måttlig, kortvarlig slemhinneblödning, **utan åtgärd**
+    * **Grad 4**: Svår, pågående slemhinneblödning: åtgärd eller misstänkt inre blödning
+    * **Grad 5**: livshotande, ICH (intrakraniell blödning)
+  
+  
+
+
+
+| <img src="./lectures/ped_lec/imgs/diab_hemat_sem_Lk1Chvkvx1.png" alt="Lk1Chvkvx1" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/diab_hemat_sem_SuRZegbzCH.png" alt="SuRZegbzCH" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+
+
+### Leukemi
+
+***Presentation***
+
+* **Leukemi, ange vanliga debytsymptom (ej labbprover)**
+  * Feber
+  * Petekier
+  * Ledsmärta / skelettsmärta
+* !!! [viktig patientbild] **3 åriga Vera har remitterats från Närakuten p g a svängande subfebrilitet ca 37,8-38,3 i temp och blekhet sedan 2 veckor tillbaka. Hon har inte haft hög feber. CRP 26. Hon har även varit trött, klagat över smärta i kroppen och fått enstaka centimeterstora blåmärken på armar och ben.** 
+  * VIlken diagnos bör primärt uteslutas
+    * leukemi
+  * VIlka blodprover beställder du akut för att få stöd i din diagnosmisstanke
+    * Blodstatus + diff
+  * vad visar de i typfallet, förklara kort
+    * Trombocytopeni
+    * anemi
+    * leukocyutos eller leukopeni
+    * benmörgshömning med ökad proliferation i en cellinje
+  * Hur bekräftas diagnosmisstanken
+    * Benmärgsprov
+  * Du minns en annan diagnos som förkommer i hennes ålder, som kan ge spridda blåmärken och petekier, över hudkostymen, men där barnen som drabbas brukar ha ett gott allmäntillstånd
+  * vilken diagnos
+    * ITP
+  * Hur ställer diagnos
+    * Blodstatus med trombocyter
+  * Vilken mekanism bakom sjd bild
+    * Antikroppsbildning mot trombocyterna
+* !!! Beata har hunnit bli 4 år och storasyster. Lillebror har börjat på dagis, så nu är Beata därför tillbaka på heltid på sitt dagis. Men det är inte som förr. Beata grinar och gnäller. Hon är petig i maten och lite blek om nosen. Helst vill hon sitta i dagisfrökens knä och läsa böcker. Igår petade hon in en fiamedknuffpjäs i näsan, så det forsade blod. Trots att det bara är i början på september har Beata redan ätit 2 kurer med Kåvepenin pga ”oklar inf”. Mamma har läst på vårdguiden om coxitis simplex, eftersom Beata klagar på ont i benen. Nu sitter de i ditt väntrum.
+  * !! Differentialdiagnos: 
+    * Leukemi, då forsande blod, oklar smärta ben, antibiotika behandling oklar infektion måste uteslutas, gnällig
+  * Hur utreder du
+    * Blodstatus + diff
+  * Hb80, LPK 50, TPK50, blaster
+  * Vidare utredning
+
+
+
+#### Allmänt
+
+| <img src="./lectures/ped_lec/imgs/diab_hemat_sem_0GjpOT6SWK.png" alt="0GjpOT6SWK" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/diab_hemat_sem_VHxwGeZqVU.png" alt="VHxwGeZqVU" style="zoom:50%;" /> | <img src="./lectures/ped_lec/imgs/diab_hemat_sem_2hIynloFEo.png" alt="2hIynloFEo" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
+
+
+
+##### Kännetecken
+
+* Anamne
+  * !! Blödningssymptom
+  * !! Bensmärtor
+  * !! infektioner
+  * matleda
+  * !! gnällighet
+  * viktnedgång
+  * oklar feber
+  * svettningar
+* Kliniskt tillstånd
+  * nedsatt AT
+  * blek
+  * blödningstecken
+  * organomegali
+  * stora lymfkörtlar
+* Blodvärden
+  * leukocyter förhöjda
+  * TPK sänkta
+  * Hb sänkta
+  * blaster
+
+
+
+#### Lymfom
+
+***Kliniska kännetecken***
+
+* **vanligaste**: hastigt växande oömma lymfkörtlar
+  * ofta halsen
+  * kan vara bröstkorg, mage
+* **lokalisation relaterat med symptom**
+  * **andningsproblem**: lymfom i bröstkorgen
+  * **smärta**: lymfom i buk
+* **generell påverkan:** trötthet, feber, avmagring, B-symptom generellt. 
+
+
+
+***Initial utredning***
+
+* **Labb**: 
+  * **Blodstatus + diff:** essentiell del i utredningen
+  * **leverstatus + njurstatus:** evaluera status av viktiga organ, då möjligt med härdar i respektive organ eller att njurarna tar skada av tumörsjukdomen. 
+
+
+
+#### ALL
+
+***Presentation***
+
+* 4åå flicka
+  * Beata grinar och gnäller. Hon är petig i maten och lite blek om nosen. 
+  * Helst vill hon sitta i dagisfrökens knä och läsa böcker. 
+  * Igår petade hon in en fiamedknuffpjäs i näsan, så det forsade blod. 
+  * Trots att det bara är i början på september har Beata redan ätit 2 kurer med Kåvepenin pga ”oklar inf”. Mamma har läst på vårdguiden om coxitis simplex, eftersom Beata klagar på ont i benen. Nu sitter de i ditt väntrum.
+  * diffar vid denna punkt? ITP, leukemi, (hemolytisk anemi?)
+  * Prover visar: Hb 80, TPK 50, LPK 50, blaster i diff, PKINR 1.3, APTT ua, lätt förhöjt krea, normalt Na, urat förhöjt, normala-lättstegrade transaminaser, CRP 15
+  * arbetsdiagnos nu: leukemi kanske ALL specifikt
+* Lisa 3 år inkommer till akuten för att hon sedan tre dagar haft små petekier på bålen. Hon har också haft lite lätt feber 38,2 grader utan förkylningssymtom. Ingen blödning från slemhinnor eller tarm. Föräldrarna tycker att hon varit lite tröttare än vanligt och varit gnällig i slutet av dagarna på förskolan sedan cirka 2 veckor. I status kan du notera några få, diskreta petekier på bålen. Hon har fin färg. I buken känner du en resistens till vänster i buken ca 3 cm nedom arcus i mamillarlinjen och du misstänker en mjältförstoring. Hjärta lungor fysikaliskt ua. Du tar ett blodstatus som visar tpk 27 x 10 9 /l, Hb 85 g/l, Lpk 10,8 x 10 9 /l Med bakgrund av symtom, status och lab misstänker du i första hand (2p)
+  * Fel alternativ
+  * a) leukemi och anstaltar om diff, urat samt benmärgsundersökning
+  * b) ITP och kollar diff samt antikroppar mot trombocyter
+  * c) aplastisk anemi och anstaltar om diff
+  * d) aplastisk anemi och anstaltar om diff och benmärgsundersökning
+  * Rätt alternativ: e) leukemi och anstaltar om diff, urat, benmärgsundersökning med kromosomundersökning
+
+
+
+***Etiologi och patofysiologi***
+
+* Blodmaligniteter hos barn: B-ALL vanligast, men T-ALL och AML förekommer liksom MDS
+
+
+
+### Neutropeni
+
+#### Presentation
+
+* Alfred har hunnit bli 6 mån. Han föddes i fullgången tid med FV 3700g och FL 50cm. Föräldrarna är så stolta över sin första lilla guldklimp som du träffar som AT-läkare på närakuten i januari. Pappa kommer med Alfred eftersom han nu haft så hög feber i 4d. Alvedon fungerar sisådär. Alfred vill inte äta så mkt, men dricker iaf på nappflaska. Du tycker att Alfred har en ÖLI men beställde prover för säkerhets skull: CRP 11 och LPK 3,5
+  * LPK är lågt, dock vanligt med lågt LPK vid virala infektioner
+  * Ytterligare prover
+    * Blodstatus + diff
+  * Diff visade neutrofiler 0.5
+  * Handläggning vidare
+    * Viros kan pressa neutrofiler och LPK
+    * Vid gott AT kan man avvakta, så länge ungen äter bra och hydrerar sig väl bör man inte oroa sig. 
+    * Hur mår barnet? äter han, dricker han?
+  * Ytterligare undersöknnig
+    * Undersökning topp till tå, inklusive mjältstatus och leverstatus. inspektera hudkostumen. 
+    * Tillväxtanamnes
+  * Uppföljning: via VC för att åter ta en diff av ungen och följa hur det ligger med neutrofilerna
+* Alfred har hunnit bli 6 mån. Han föddes i fullgången tid med FV 3700g och FL 50cm. Föräldrarna är så stolta över sin första lilla guldklimp du träffar som AT-läkare på ”valfri vecka” vid barnklinikens akutmottagning. Din handledare från VC har träffat Alfred på BVC. Han utreddes för ev komjölksproteinallergi. I rutinproverna sågs bra Hb och TPK, men lågt LPK med neutrofila 0,4.
+  * Hur tolkar du detta: 
+    * !! Neutropeni föreligger
+  * Arbetsdiagnos? 
+    * Autoimmun neutropeni 
+    * man ska dock akut utreda detta..
+  * Hur allvarligt: om det enbart är neutrofilerna som är låga ska man inte vara direkt alarmerad. Så länge det är en frisk gfosse.
+  * däremot om det är flera påverkade cellinjer ska man vara alaermerad
+  * Behövs ytterligare prover
+    * BUMM
+    * 
+
+
+
+#### Allmänt
+
+
+
+***Etiologi***
+
+* Neutrofiler som går ut gör sitt jobb och destrueras: att detta kan vara normalt, och inget alarmerande såvida inte det föreligger andra symptom eller grejer som ska vara cause for alarm. 
+* Virusrelaterad 
+
+
+
+***Utredning***
+
+* ***Enl läk***
+  * !! **Neutrofiler <0.5 e9/L + infektionssymptom**: Behandla
+    * Neutrofielr = 0.5 verkar vara okej?
+  * **Pancytopeni +- splenomegali**: misstänk 
+    * malignitet eller 
+    * hypersplenism
+  * **Läkemedel som kan ge cytopeni:** Avbryt behandling
+  * !! **Utred fagocytdefekt**: 
+    * **Anamnes bölder, **
+    * **bakteriella infektioner, **
+    * **slemhinneinfektioner, **
+    * **dålig tillväxt**
+
+
+
+#### Autoimmun neutropeni
+
+***Presentation***
+
+* Alfred har hunnit bli 6 mån. Han föddes i fullgången tid med FV 3700g och FL 50cm. Föräldrarna är så stolta över sin första lilla guldklimp du träffar som AT-läkare på ”valfri vecka” vid barnklinikens akutmottagning. Din handledare från VC har träffat Alfred på BVC. Han utreddes för ev komjölksproteinallergi. I rutinproverna sågs bra Hb och TPK, men lågt LPK med neutrofila 0,4.
+  * Hur tolkar du detta: 
+    * !! Neutropeni föreligger
+    * Man ska akut utreda detta..
+  * Arbetsdiagnos? 
+    * Autoimmun neutropeni 
+  * Hur allvarligt: om det enbart är neutrofilerna som är låga ska man inte vara direkt alarmerad. Så länge det är en frisk gfosse.
+  * däremot om det är flera påverkade cellinjer ska man vara alaermerad
+  * Behövs ytterligare prover
+    * BUMM
+
+
+
+***Etiologi***
+
+* Antikroppar som går på neutrofilerna..
+* Dock att neutrofilerna fortfarande hinner göra sitt jobb
+
+
+
+
+
+***Epidemiologi***
+
+* !! Vanligatste kroniska neutropenin hos barn
+
+
+
+***Kännetecken***
+
+* Första levnadsåret upptäcks oftast
+* passar in på första patienten ovan
+* friskt barn
+* duration: 2år, spontanläkning 95%
+* Behandling sällan nödvämdog
+
+
+
+***Diagnos***
+
+* Neutrofilspecifika antirkoppar
+
+
+
+***Utredning***
+
+* Enl läk
+  * Blodstatus + diff
+  * Föreligger flera påverkade cellinjer måste man utreda vidare. 
+  * **Neutrofiler under 0.5 (i.e. (0.5, 0])**: ska man till akuten för att evt behndlas och utredas,
+  * **Opåverkad, eller >=0.5 neutrofiler**: skicka hem, förutsatt att barnet mår vra vid besöket. 
+  * **Handläggningstid**
+    * 2-3v uppföljning: förutsatt att barnet forsätter att må bra
+    * om feber, sämre aptit: söka akuten tidigare
+    * om slutsats att det enbart är påverkade neutrofiler: 2-3v uppföljning
+    * Notera att neutrofilerna kommer fortfarande vara låga efter 2-3v, då det är en autoimmun neutropeni
+  * !! **Föreligger neutrofiler under 0.5 (<0.5), e.g. 0.4**: skicka in för att utreda och behandla, man ska alltså behålla barnet på akuten eller lägga in
+  * **Neutrofil antikroppar, kapillärt**: stick i fingret som man kan ta på VC,
+
+
+
+| <img src="./imgs/sam_270421_5qxfS5MNP8.png" alt="5qxfS5MNP8" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+
+
+#### Infektiös neutropeni
+
+***Etiologi***
+
+* Viros kan pressa LPK
+* neutrofilerna kan sjunka ganska lågt
+* även hos febrila patienter
+* patienterna kan vara friska, att det är fysiologiskt pressade neutrofilera av den pågående infektionen
+
+
+
+***Diagnos***
+
+* !! Neutrofiler >=0.5: Notera att man inte har neutrofiler <0.5
+* Föreligger neutrofiler <0.5 (ingen hard bracket alltså) + feber, så ska man lägga in patienten för vidare utredning
+
+
+
+***Kännetecken***
+
+* För övrigt friskt barn
+* utan allvarliga eller upprepade infektioner: 
+  * med allvarliga antar man att det är djupa infektioner som osteomyeliter, meningiter, encefaliter, pneumonier etc
+* ofta samband med eller efter viroser: pga konsumtion leukoctyter och märghämning
+
+
+
+***Handläggning***
+
+* Anamnes + status
+  * Tillväxtanamnes: föreligger sjunkande vikt, som kan leda oss t att tänka på typ 
+* Uppföljning, kontroll: Så länge ungen mår bra, äter, dricker, kan man följa upp denna patient
+  * inom 2-3v ska man följa upp
+* Föreligger neutrofiler under 0.5, e.g. 0.4: skicka in för att utreda och behandla, man ska alltså behålla barnet på akuten eller lägga in
+
+
+
+#### Isolerad neutropeni
+
+***Presentation***
+
+* 
+
+
+
+***Diagnos***
+
+* Att det inte föreligger ngt annat tecken än att neutrofilerna är isolerat låga
+* Detta bör man inte heller vara alarmerad om
+
+
+
+
+
+#### Neutropen feber
+
+
+
+
+
+
+
+### Petekier
+
+***Presentation***
+
+* Pelle 3 år var förkyld för några veckor sedan men har mått bra och gått på dagis sedan dess. Söker nu med sin pappa på barnakuten då han har fått petekier på kroppen, annars mår han bra. I status finner du endast små utslag generellt på kroppen som inte går att trycka bort. Du misstänker ITP (Idiopatisk trombocytopen purpura/Immuntrombocytopeni). Det finns fler tillstånd när barn får petekier.
+  * nämn 2 tilltånd utöver ITP som kan ge petekier
+    * Sepsis
+    * leukemi
+    * HSP
+    * TTP ?
+    * HUS?
+    * läkemedelsinducerad reaktion (vilken?)
+  * beskriv med 1 ord ellr2 grundläggande orsaken bakom dessa 3 tillstånd
+    * Sepsis = kapillärläackate
+    * ITP = antikroppar mot trombocyterna
+    * leukemi = minskad produktinio
+    * HSP = mikroinfarkteR? 
+
+
+
+***Etiologi och patofysiologi***
+
+* **Blödning in i dermis**
+* Påverkan därför av hemostasen resulterar i att petchier sker med olika kliniska kännetecken
+* primära patofysiologin t petekier och purpura
+  * trombocytopen
+  * trombocyt dysfunktion
+  * påverkad koagulation
+  * förlust vakulär integritete
+
+
+
+
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+* Försvinner inte efter tryck
+
+
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
+
+
 ### SCID
 
 ***Presentation***
@@ -9427,6 +9926,12 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * Han föddes i fullgången tid med FV 3700g och FL 50cm
   * som du träffar som AT-läkare på VC. Alfred har inte växt så bra enligt BVC-kurvan. Han hostar och flåsar. Dessutom har han alltid varit lös i magen, trots att det provats Sempers Magdroppar. Du tycker Alfred ser sjuk ut, hör takykardi och lätta ronki. I ljumskarna ser du ett ilsket rött utslag. 
   * Proverna visar CRP 11 och LPK 3,0. Hur tolkar du detta?
+    * lågt LPK. virusinfektion kan sänka LPK och TPK (hur?). DOck farligt lågt LPK
+  * Differentialdiagnoser
+    * SCID: vädligt ovanligt, men viktigt att man upptäcker (ingår i PKU programmet dock)
+  * Behövs ytterligare prover
+    * blodstatus + diff
+  * dif ua utom lymfocyter 0.2 (jtättelågt)
 
 
 
@@ -9443,11 +9948,12 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 ***Kliniska kännetecken***
 
-* Debut: första levnadsmånaderna
-* ofta vaga symptom initialt
-* kronisk hosta, kronisk obstruktivitet, andningsbesvär: p jiroveci och virus
-* diarre, malabsorption
-* recidiverande kandidainfektioner
+* **Debut**: första levnadsmånaderna
+* **ofta vaga symptom initialt**
+* **kronisk hosta, kronisk obstruktivitet, andningsbesvär**: p jiroveci och virus
+* **diarre, malabsorption**
+* **recidiverande kandidainfektioner**: 
+  * Utslaget i ljumskar exempelvis
 * dålig tillväxt
 * hudutslag: mammalymfocyter eller omenn syndrom
 
@@ -9457,101 +9963,13 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 
 * Antimikrobiell behandling
 * rekombinant adenosin deaminas
-* benmärgstransplantation
+* **benmärgstransplantation, SCT **
 
 
 
-
-
-
-
-### Thalassemia
-
-***Presentation***
-
-* !!! Thalassemia major och sicklecellanemi är två av världens vanligaste ärftliga sjukdomar. Nedan anges (först) ett typiskt fynd för obehandlad thalassemi därefter ett typiskt fynd vid sicklecellanemi. 
-  * rätt: Extramedullär blodbildning respektive skelettsmärtor 
-  * Aplasi av benmärg respektive daktylit (svullnad av ett finger) 
-  * Hjärtinsufficiens respektive njurinsufficiens 
-  * Polyendokrin sjukdom respektive glomerulonefrit 
-  * Neutropeni respektive trombocytopeni 
-
-
-
-
-
-***Etiologi och patofysiologi***
-
-* **Hemoglobinopati**
-* **Reduktion produktion Beta-globin**: Thlassemi föranleder **minskad produktion beta-globin**, vilket innebär att man **ej kan producera HbA**. 
-* **Svårighet beror på mängd kvar av HbA och HbF**
-* **Former**
-  * **!! Beta-thalassemia major**: svåraste formen. **HbA** ***kan inte produceras pga abnormal Beta-globin gen***
-  * **Beta-thalassemia intermedia**: denna formen av sjd är mildare med variabel svårighet. Beta-globin mutationenerna tillåter mindre mängd HbA och/eller stor mängd HbF att produceras.
-
-
-
-***Kliniska känntecken***
-
-* !!! **Extramedullär hematopoes**: detta förhindras av regelbundna transfusioner. I frånvaro av blodtansfusoner utvecklar man hepatosplenomegali (hepatomegali, splenomegali) och benmärgsexpansion.
-  * benmärgsexpansionen leder till klassiska ansikten med maxillär övertillväxt och skull-bossing (ovanligt i UK och I-länder)
-* **pallor**
-* **Ikterus**
-* **Bossing of the skull, maxillär övertillväxt**
-* **splenomegali, hepatomegali**
-* **behov repeterade transfusioner**
-
-***Utredning och handläggning***
-
-* Prenatal diagnostik: patienter som är ehterzygota för Beta-thalassemi trait, har en 1:4 chans för att få påverkat barn. 
-  * DNA-analys korion villi, bör ges
-  * genetisk vägledning: för att veta om de bör fortsätta med graviditet eller ej, ska vara ett informerat beslut. 
-
-
-
-***Behandling***
-
-* **Beta-thalassemia major**: fatalt om inte transfunderas regelbundet. 
-  * **livslång blodtransfusioner, månatligen**
-    * målet är att ha Hb över 100g/L. 
-    * reducerar risk för growth-failure och bendeformation 
-    * Komplikationer: diabaetes, lever cirrhos, kardiomyopati, infertilitet, growth-failure.
-  * **järn-kelering:** för att hindra komplikationer fr blodtransfusioner
-    * deferasirox,
-    * börjar fr 2åå-3åå
-  * bra compliance och regelbundna transfusioner, kan pats överleva upp t 40.
-  * ***Mortalitet***: järnoverload, om dålig compliance etc. 
-  * **Benmärgstransplantation**: är ett alternativ. reserverat vanligtvis för barn med HLA-identiska ssykon, för att 90-95% success då, men 5% mortalitet
-
-* **Minor**: ingen behandling utan symptom
-* **Major**: transfusion (oftast), benmärgstransplantation (supposedly inte funkar)
-
-
-
-***sopressors indicated in paediatric sepsis resus?***
-
-
-
-### Thalassemia minor
-
-***Kliniska kännetecken***
-
-* Heterzygoter är vanligtvis asymptomatiska
-* **Hypokromicitet**
-* **Mikrocytära RBC**
-* **Anemi:** mild eller frånvarande; disproportionell reduktion av MCH och MCV
-  * Hb kommer vara sänkt MEN antalet erytrocyter kommer vara ökat!
-* HbA2 ökad: detta är den viktigaste diagnostiska aspekten; notera att HbA1 är den vanligaste typen, representerar den största fraktionen. 
-  * vanligtvis 5%
-* HbF: ökad 1% till 3%
-* Kan vara förvirrande: minor kan ge mild järnbrist pga hypokromicitet o mikrocytära celler; men kan diffas mha seruum ferritin som är lågt i järnbrist men ÄR EJ LÅG HOS THALASSEMIA MINOR. 
-
-
-
-**Utredning och handläggning**
-
-* För att undvika onödig järnbehandling behöver man utreda järnstatus hos barnet
-  * föranleder Ferritin som bör vara normalt
+| <img src="./lectures/ped_lec/imgs/diab_hemat_sem_GVx9jIuxBc.png" alt="GVx9jIuxBc" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 

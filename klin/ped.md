@@ -2726,6 +2726,16 @@ Enligt ABCDE
   * ”Vad är det egentligen för skillnad gällande patogenesen mellan diabetes typ 1 och typ 2”? Kort svar!(1 p) 
       * DM1: antikroppsrelaterat, immunologisk reaktion, insulinbrist
       * DM2: insulinresistens, rel metabola syndromet, betacellspopulation kan också ta skada, men detta i kmbination med resistens och brist bidrar med DM. 
+* Fia 2åå
+  * Fia söker hos dig på vårdcentral med misstanke om UVI eftersom hon har kissat ofta senaste veckan, ***med tunga blöjor.*** 
+  * Fia är opåverkad, men det framkommer att hon varit ovanligt törstig,varför du börjar fundera kring diabetes
+* 11åå Malek kommer medambulans och du är vik läkpå barnakuten. 
+  * Han har diabetes typ 1 sedan 8 års ålder och har pump. 
+  * Nu hittad i sängen efter att ha varit ”magsjuk” med kräkningar under natten. 
+  * Malek är medvetandesänkt och andas tungt
+* Får en DKA-unge dricka kranvatten
+  * NEJ, den får inte dricka kranvatten, för att hypoton vätska som kan driva farlig Hjärnödem bildning?
+  * 
 
 
 
@@ -2744,7 +2754,7 @@ Enligt ABCDE
 * Type 2. Insulin resistance followed later by β-cell failure
     * Usually older children, obesity-related, positive family history, not as prone to ketosis, more common in some ethnic groups (e.g. Black and Asian children)
 * Other types
-    * Maturity onset diabetes of the young
+    * **MODY**: Maturity onset diabetes of the young
     * various types caused by genetic defects in β-cell function. Strong family history.
     * Drugs, e.g. corticosteroids
     * Pancreatic insufficiency, e.g. cystic fibrosis, iron overload in thalassaemia
@@ -2752,6 +2762,78 @@ Enligt ABCDE
     * Genetic/chromosomal syndromes, e.g. Down and Turner
     * Neonatal diabetes: transient and permanent secondary to defective B cell function.
     * Gestational diabete
+* **Sekundär falsk diabetes**: att man har en gastroenterit och dehydrering som höjer glukos räknas inte som diabetes, utan en falsk-positiv
+
+
+
+
+
+***Kännetecken***
+
+* Insjuknande skiljer barn fr vuxna
+  * ***Most common – the ‘classical triad’:***
+    * excessive drinking (polydipsia)
+    * polyuria
+    * weight loss
+  * ***Less common:***
+    * enuresis (secondary)
+    * skin sepsis
+    * candida and other infections
+  * ***Late – diabetic ketoacidosis***
+
+    * Smell of acetone on breath
+    * Vomiting
+    * Dehydration
+    * Abdominal pain
+    * Hyperventilation due to acidosis (Kussmaul breathing)
+    * Hypovolaemic shock
+    * Drowsiness
+    * Coma and death
+  * ***1-4 åå***
+
+    * Ju yngre barnet, desto snabbare förlopp för sjukdomen
+    * barn som insjuk 1-2åå har oftast endast några dagar anamnes på
+      *  ökad törst, 
+      *  ökad urinmängd
+      *  de kan i värsta fall få en snabbt tilltagande ketos + utv ketoacidos
+    * genital svampinfek kan vara ett symptom föröjt blodsocker
+    * små barn kan ha svårt att uttrycka törst. 
+    * kräkningar utan diarre kan vara symptom på ketoacidos
+  * ***Förskolebarn och skolbarn***
+
+    * Insjuknandet är vanligen typiskt med ökad törst och ökade urinmängder 2-3v tid
+    * Nattenures, viktnedgång (som kaske inte uppfattas förrän barnet gått upp i vikt igen efter insulinbeh)
+    * och en ökad trötthhet är också typiska symptom
+    * om barnet inte får behandling f inns det risk för att det utvecklar ketaoacidos
+    * ett barn med förhöjt blodglukos eller glukos i urinen måste därför remitteras akut t barnklinik för bedöm o beh samma dag. 
+  * ***Enl läk***
+
+    * ***Snabbare hos barn vs vuxna***
+      * ***Vanligare att man har ketoacidos vid debut***
+    * **större risk för ketoacidos**
+      * **större risk för hjärnödem pga ketoacidos**
+
+
+
+***Utredning***
+
+* **fB-glukos**
+* **Hba1c**
+* **OGTT:** oral grlukostolerans
+* **c-peptid**
+* **HLA-typning**
+* **antikroppantikroppar**: 
+  * GADA
+  * IA-2A
+  * IAA
+  * ICA
+  * Zink-antikroppar
+  * Dessa antikroppar kan upptäckas långt före klinisk diabetsdebut
+* ***enl läk***
+  * har man ett barn med 11.5mM i glukos, och det har fått kortison innan, för att bedöma om diabetes föreligger:
+    * **HbA1c**: kan man titta på, väldigt bra att kolla på, om den är förhöjd är detta klart att glukoset legat högt en längre tid
+    * **urinprov**: om glukos i urinen. notera att 11-2mM i några timmar innan man utvecklar glukosuri. 
+  * !! ***Om MODY då är det remiss till klinisk genetik som gäller***
 
 
 
@@ -2766,6 +2848,14 @@ Enligt ABCDE
     * indikation
     * fördelar
     * nackdelar
+
+
+
+
+
+| <img src="./imgs/diab_hemat_sem_DQGqSn02E6.png" alt="DQGqSn02E6" style="zoom:50%;" /> | <img src="./imgs/diab_hemat_sem_JEIBDlakPF.png" alt="JEIBDlakPF" style="zoom:50%;" /> | <img src="./imgs/diab_hemat_sem_kv5k2HLS4B.png" alt="kv5k2HLS4B" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./imgs/diab_hemat_sem_NprwAihV3D.png" alt="NprwAihV3D" style="zoom:50%;" /> | <img src="./imgs/sam_270421_CQwSpnUJkw.png" alt="CQwSpnUJkw" style="zoom:50%;" /> |                                                              |
 
 
 
@@ -2806,7 +2896,15 @@ Enligt ABCDE
 
 
 
-#### Diabetes-ketoacidos: DKA
+#### DM2
+
+
+
+
+
+#### DKA
+
+***Diabetes ketoacidos***
 
 ***Presentation***
 
@@ -2817,10 +2915,176 @@ Enligt ABCDE
     * pH 7,42, BE -14, insulin bör ges parallellt med glukosdropp för att förhindra snabb sänkning av blodsockret, behandling bör initialt ske på IVA: 
       * enl abbe att glukosdropp ges parallelt med insulin stämmer, detta överensstämmer med janusinfo också
     * pH 7,47, BE -15, insulinbehandlingen bör starta omgående, risk för hyponatremi och hjärnödem
+* 11åå Malek kommer medambulans och du är vik läkpå barnakuten. 
+  * Han har diabetes typ 1 sedan 8 års ålder och har pump. 
+  * Nu hittad i sängen efter att ha varit ”magsjuk” med kräkningar under natten. 
+  * Malek är medvetandesänkt och andas tungt
+
+
+
+***Etiologi***
+
+* Insulinbrist
+* Hyperglyekemi
+* Kompensatorisk faktorer: kräkningar, tungandning, diures, etc
+* Ketonuppkomst
+  * Insulindropp iv, inget lager: ketoner efter 0.5h. Det är kortverkande insulin
+  * pennbehandling sc, lager fett: 15-30h ketonuppkomst
+  * insulinpump sc, lager fett: 4-5h för uppkomst
 
 
 
 
+
+***Kännetecken***
+
+* ***Enl läk***
+  * **Ketoacidos är lite lurigt**
+    * magont: kan likna andra åkommor, e.g. förstoppning etc.
+    * kräkningar
+  * **medvetandesänkning kan ha orsakats av**
+    * svår dehydrering
+    * kan ha cirkulatorisk chock
+    * ketonerna i sig
+  * **Det som skett i detta fallet**
+    * att insulinpumpen slutat fungera: för att ketoacidosen genes är insulinbrist. 
+  * **att patienten ska göra hemma**
+    * ta blodsocker och ta ketoner hemma
+    * görs på precis samma sätt, är med blodketoenr.
+
+
+
+***Handläggning***
+
+* Enl ABCDE
+* larma narkos evt
+* Prover: blodgas, b-ketoner, b-glukos, kap-Hb, kap-CRP, elektrolyter, osmolalitet i serum, HbA1c, blododling vid feber
+* !! urin: glukos, **ketoner** (notera att man tar ketoner i urin)
+* EKG på alla!
+* vikten, daglig vikt
+* V-sond: för stora mängder sockerhaltiga vätskor
+* **Enl läk**
+  * **Ngn av dessa**
+    * BE under -10
+    * ketoner över 3
+    * pH under 7.29
+  * **Bolus**: Man ger inte addex kalium i bolus
+    * RA eller NaCl
+    * den har ingen kalium
+  * **Snabb rehydrering därefter** (1-2h.. enl seminarium)
+  * **Långsam rehydrering**: där tillsätter man alltid kalium
+* **Sjunker blodoscker för snabbt**
+  * Enl läk
+    * INTE STÄNGA AV DROPPET direkt: då får man tillbaka acidosen
+    * Sänka dosen insulin
+    * Patienten ska inte stå utan insulin
+    * 
+
+
+
+***Behnadnling***
+
+* !! **Börja med Rehydrering, sedan Insulin**
+* **Blodsocker snabbt sjunkande av insulin**
+  * STÄNG EJ AV
+  * sänk insulindos
+  * tillsätt glukos
+* **Insulindropp**: 48h innan subkutan behandling igen
+* 
+
+
+
+
+
+| <img src="./imgs/diab_sem_yO17q8T1Uc.png" alt="yO17q8T1Uc" style="zoom: 67%;" /> | <img src="./imgs/diab_sem_6UPrUlveOZ.png" alt="6UPrUlveOZ" style="zoom: 67%;" /> | <img src="./imgs/diab_hemat_sem_TAlS1llzkc.png" alt="TAlS1llzkc" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
+
+
+
+
+
+#### Hypoglykemi
+
+***Presentation***
+
+* Lina insulinbehandlade
+  * har varit på fotbollsturnering ochspelat flera matcher under dagen. 
+  * På kvällen festar hon med några kompisar och dricker alkohol. 
+  * På natten vaknar föräldrarna av att Linas sensor larmar för lågt blodsocker och de hittar henne krampandes i sängen.
+  * **Vad bör föräldrarna göra**
+    * glukagonspruta
+    * om ingen aspirationsruisk: socker under tunga:
+    * se till att krampen kan fortgå utan att patienten manglas
+    * 
+
+
+
+***Etiologi***
+
+* **Alkoholkonsumtion**
+  * leder till att man får en NADH ackumulation hepatiskt
+  * Överestimerar hur mkt insulin som behövs
+  * Leder till att man konsumerar för mkt.. då alkohole
+  * Enl läk
+    * Alkohol gör en uttorkad
+    * alkohol BLOCKERAR levens omvandling glykogen till glukos, för att man har för mkt NADH som driver ifrån, ingen katabolism alltså
+* **Fysisk träning**
+  * Sänker blodsockret, 
+  * minskar insulinbehovet: för att muskulaturen absorberar en massa socker över tid. 
+  * Måste minska insulindoser före och efter träning
+
+
+
+
+
+***Hnadläggning***
+
+* ABCDE, larma narkos
+* Vårdnivå, sjukhus
+  * Glukosdropp.
+  * Glukos bolusdos: 10% glukos, 3-5mL/kg, till barn
+    * Detta bör upplösa medvetslösheten
+    * Vaknar man inte av detta ska man tänka vidare på annan genes HUSK MIDAS 
+
+
+
+***Behandling***
+
+* **Enl läk**
+  * Ska man dricka alkohol: ät mkt kolhydrater + fett frekvent under dryckepisoden
+  * chips + pizza innan lägger sig
+  * Glukagonspruta: ge den
+  * Glukostabletter: dextro, för att höjga glukoset
+    * verkar 30-45min
+    * höjer B-glukos snabbare än andra kolhydrater
+    * så rent socker som möjligt
+  * Långt ifrån sjukhus: ge så mkt socker som det går, det är hypoglykemin som är farlig initialt. 
+  * 
+* Glukos: 10% 3-5mL/kg bolusdos
+  * patienten bör vakna av detta
+  * om patienten inte vaknar av bolusdosen coh man ser en stegring av b-glukos ska man leta efter annan genes också
+
+
+
+
+
+| <img src="./imgs/sam_270421_jas6y1K9kZ.png" alt="jas6y1K9kZ" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+#### MODY
+
+***Etiologi***
+
+* Maturity onset diabetes of the young various types caused by genetic defects in β-cell function. Strong family history.
+* dominant ärftliga defekter i bet cellens funktion
+* hereditet tydlig
+* MODY2 och MODY3 är vanligast
+* beahandlas olika sätt och prognos
+* // Sekundär diabee
 
 ### Fetma
 

@@ -158,4 +158,4 @@ b. Vad är din omedelbara åtgärd? 1p
 
 insulininfusion rehydrering 1h innan insulininfusion, påbörjar 5%
 
-* Mono övervikt
+* neuroborrelios lp: Mono övervikt, ej så mkt celler mellan 50-100, normalt oscker, normalt laktat, IgM och IgG i livkor Ses vid neuroborrelios.

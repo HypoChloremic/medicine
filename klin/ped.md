@@ -568,14 +568,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Hon är rosslig och hostig, har jobbigt att andas och föräldrarna har noterat att det stundom piper ur luftvägarna när hon andas. 
     * Hennes temp är 39.4. 1.
     * **Diffar**: pneumoni, bronkioloit, krupp, förkylningsastma, infektionsastma
-    
 * ***4 år gammal flicka*** 
     * som söker för andra gången med andningsbesvär i samband med en förkylning, i övrigt frisk. 
     * Hon har 37.8 i temp, har indragningar, ökad  andningsfrekvens och en saturation på 95%. 
     * Hon hostar mycket ffa nattetid nu när hon är förkyld och har då svårt att sova. 
     * Vid lungauskultation noteras ronki basalt bilateralt.
     * ***svar: förkylningsastma, rhinovirus, ventoline och syrgas.***
-    
 * **Mustafa, 18 månader gammal,** 
   
     * **inkommer till barnakuten med sin mamma p g a tilltagande andningsbesvär sedan morgonen. Han har varit förkyld utan feber i 2 dagar. Han har enligt modern alltid varit fullständigt frisk. Vid undersökningen noterar du att Mustafa har svårt att andas. Han har en förhöjd andningsfrekvens (AF 65) och han pressar på expiriet. När du auskulterar lungorna hör du ronki över båda lungfälten. Saturationen är 89% på luft**
@@ -591,20 +589,17 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
             * alltså är detta en episodisk behandlng i anslutning med en till episod obstrktivitet som ungen kan få
             * Notera man behvöer totalt misnt 3 epsidoer för att få diagnosen förkylningsastma. ungen är därför inte där. 
         * Notera i riktlinjen står det att man efter diagnos kommer att behanlda periodiskt i samband med övre luftvägsinfektioner (som jag antar sker **innan** episoderna obstruktivitet)
-    
 * **4 år gammal flicka**
     *  som söker för andra gången med andningsbesvär i samband med en förkylning, i övrigt frisk. Hon har 37,8 i temp, har indragningar, ökad andningsfrekvens och en saturation på 95%. Hon hostar mycket ffa nattetid nu när hon är förkyld och har då svårt att sova. Vid lungauskultation noteras ronki basalt bilateralt. 2 p
     * Diagnos: förkylningstma, men hon har diagnosen astma per definition, då över 2å + förkyld med obstruktivitet
     * agens: virus, ofta rhinovirus
     * Behandling: ventoline, inhalation, NaCl om slem, syras under 92%.
-    
 * **Hur definieras begreppet ¨astma¨ hos ett barn som är < 2år** 
     * Första obstruktiva episoden i samband med förkylning 
     * Första obstruktiva episoden utan förkylning samt att barnet har eksem och/eller astma 
     * Första obstruktiva episoden som utlöses av ett allergen 
     * rätt: ≥3 obstruktiva episoder, eller första obstruktiva episoden om barnet har eksem eller födoämnesallergi 
     * Tredje obstruktiva episoden utan förkylning 
-    
 * **Gustaf, 8 år, kommer till barnmottagningen på grund av att han inte orkar lika mycket som de jämnåriga klasskamraterna, speciellt i gymnastiken och fotbollen. Han måste stanna och vila när de andra kompisarna bara fortsätter att springa. Han har tidigare varit väsentligen frisk men hade komjölksproteinallergi och eksem som spädbarn. Han växer normalt och har inga skolsvårigheter. I status på mottagningen finner du inget avvikande. Du misstänker en diagnos och vill beställa en undersökning för att säkerställa den.** 
     * Vilken sjukdom
         * Astma
@@ -613,7 +608,6 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Undersökningen bekräftar din hypotes
     * Hur behandlar du då tillståndet
         * Initialt SABA, kortverkande B2-agonist vid behov
-    
 * !!! Andningsbesvär med obstruktivitet är en av de vanligaste orsakerna till att barn söker akut vård. Vilket alternativ nedan är mest korrekt gällande definitioner och behandling av astma hos barn?(1p)
 
     * rätt Barn > 2 års ålder med obstruktiva besvär uppfyller kriterier för astma. Inhalation med salbutamol ges oftast i kombination med inhalationssteroider vid konstaterad astma. 
@@ -623,8 +617,9 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
     * Barn < 2 års ålder med tre episoder av obstruktiva besvär uppfyller kriterier för astma. Montelukast kan ges intravenöst som tillägg till salbutamol
     * sammanfattning
       * montelukast är leukotrienantagonist, den ges inte iv, den är peroral (montelukast po)
-
-    
+* !! Pamela, 14 månader, kommer akut på förmiddagen med båda föräldrarna för andningsbesvär med hosta och pip i bröstet. Aldrig haft liknande förut, men har hostat långa perioder efter förkylningar. Nu började det inatt och då fick hon lite av storasysters astmamedicin och somnade, men nu på morgonen är det värre igen. Det piper och rosslar ”och låter förskräckligt om andningen, som om hon skulle kvävas vilken sekund som helst”. Dock har hon på morgonen ätit gröt med god aptit (”stänkt ner hela köket som vanligt”) och verkar inte så sjuk egentligen. Var förkyld i förra veckan och hade feber ett par dagar, men skulle egentligen ha fortsatt invänjningen på dagis idag.Vid undersökning: Afebril. Glad, pigg och intresserad men piper i bröstet och torrhostar, lätta intercostala indragningar, ingen cyanos eller lufthunger. Andningsfrekvens 42/min. Rikligt med sibilanta ronchi.
+    * obstrktiv bronkit
+    * !! champ menar att riktlinjer säger att det är astma om <2år att hereditet för astma exempelvis i föräldrar eller syskon räcker för diagnos,h owever har inte kommit annanstans..
 
 
 
@@ -765,7 +760,7 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
-***Utredningsgång***
+#### Utredningsgång
 
 * **Lyft på tröjan för att titta på andningsmönster**
 * ***Polikliniskt***
@@ -808,6 +803,16 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+#### Tumregler
+
+| <img src="./imgs/sam_280421_sF9pNHsZe9.png" alt="sF9pNHsZe9" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
+
+#### Behandling
+
 ***Behandling***
 
 * Spacer: måste användas på de mindre barnen, för att man ska kunna andas in korrekt. Detta har aman optichamber smo e vanlig
@@ -839,7 +844,10 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * !!! **Om barnet får astma diagnos**: De flesta kommer att gå runt med ICS vid kontaterad diagnos astma, vid periodisk behandling. 
   * SABA tillägg ICS (airomir + flutide?)
 * !! Angående steroider: nedreglerar EOSINOFIL INFLAMMATION men kan INTE NEDREGLERA NEOTRIFL + NEITROFILASSOCIERADE CYTOKINER
-* 
+* BEhandling på sikt
+  * Kan stå kvar på b2-agonister vb. Om upprepade infektioner så kan man följa behandlingstrappan för astma och lägga till inhalationssteroider för dagligt bruk. Remiss till BUMM. 
+  * FÖlja behandlingstrappan
+  * remitteras till BUMM
 
 
 
@@ -852,6 +860,14 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 | <img src="./imgs/ped_sam_110421_gcy6VqAoXG.png" alt="gcy6VqAoXG" style="zoom: 50%;" /> | <img src="./imgs/ped_sam_110421_iQj5b5OOYo.png" alt="iQj5b5OOYo" style="zoom:50%;" /> | <img src="./imgs/sam_170421_H869eIhENv.png" alt="H869eIhENv" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="./imgs/ped_sum_rZbcGneAUQ.png" alt="rZbcGneAUQ" style="zoom:50%;" /> | <img src="./imgs/ped_sum_VaEvlMb9IA.png" alt="VaEvlMb9IA" style="zoom:50%;" /> | <img src="./imgs/sam_170421_qweFCqkLzA.png" alt="qweFCqkLzA" style="zoom:50%;" /> |
+
+
+
+#### Uppföljning o prognos
+
+- **Allergi är den starkaste prognostiska faktorn** för om astma hos småbarn blir bestående när barnet blir äldre, och förekomsten av allergi har ofta betydelse för hur patienten ska behandlas.  
+- **Prognosen är god vid renodlad infektionsastma**, dvs hos barn med besvär enbart vid förkylningar och utan tecken till allergisk komponent i sjukdomen eller eksem. I många fall växer infektionsastma bort vid 2–3 års ålder, men en hel del barn har kvar benägenheten till astmabesvär vid förkylning upp till skolåldern.
+- Även hos barn med allergiska besvär kan prognosen anses vara god. Många får mindre besvär under uppväxten. En del av barnen får dock återfall efter kortare eller längre tid [20]. Allergisk sensibilisering, frekventa besvär, hyperreaktiva luftrör, stort medicineringsbehov och kvinnligt kön är faktorer som talar för att astmabesvären kommer att finnas kvar i vuxen ålder.
 
 
 
@@ -1483,10 +1499,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * <img src="./imgs/sam_170421_0IrgwNCS1S.png" alt="0IrgwNCS1S" style="zoom: 25%;" />
   * Orsak
     * Komjöksallergi: även om tålt det tidigare, tål hon det inte längre, ELLER så kan det vara virus
-    * Histaminfrisättning av okänd orsak: men för llra flesta barn är det okäönt, förklarar att det är virusinfektion
+    * Histaminfrisättning av okänd orsak: men för llra flesta barn är det okänt, förklarar att det är virusinfektion
   * Behandling
     * Antihistamin i några dagar, tills att orsaken i detta fall virusinfektionen lägger sig
   * Bär med att urtikaria kommer och går, med att den flammar upp och lugnar ner sig, flammar upp och lugnar ner sig, att föräldrarna int ska vara oroliga för det
+* Ange tre orsaker till urtikaria
+  * Fysikalisk urtikaria, idiopatisk urtikaria, infektionsutlöst urtikaria
 
 
 
@@ -1494,6 +1512,8 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 * Histmin frisättning
 * Bradykinin
+
+
 
 
 
@@ -1511,16 +1531,16 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 ***Klassifikation***
 
-* Idiopatisk, spontan 50-60%
-* Fysikalisk urtikaria, 30-40%:
+* !! Idiopatisk, spontan 50-60%
+* !! Fysikalisk urtikaria, 30-40%:
   * kolinerg utlöst
   * värme utlöt
   * fysisk ansträng, emotionell stress, varmt bad, temperatur
   * fördröjt utlöst (duration ofta i 24h)
   * köld
   * ovanlitg: vibrationer, solljus
-* Dermografism
-* Allergisk eller icke allergisk
+* !! Dermografism
+* !! Allergisk eller icke allergisk
 
 
 
@@ -3431,8 +3451,8 @@ Pubertetsutveckling
 
 ***Definition:***
 
-* **Flickor**: Brösttillväxt < 8 åå
-* **Pojkar**: Testikelvolym > 4 ml < 9 åå
+* **Flickor**: < 8 åå, Brösttillväxt 
+* **Pojkar**: < 9 åå, Testikelvolym > 4 ml 
 
 
 
@@ -3547,6 +3567,30 @@ Pubertetsutveckling
 
 
 
+#### Vanlig pubertetsutveckling
+
+
+
+
+
+***Flickor***
+
+**Längdspurt:** ökad tillväxthastighet är faktiskt det första pubertets-tecknet (mellan 10-11 års ålder) Maximala tillväxthastigheten infaller i genomsnitt vid 12 års ålder. Stort genomsnittspann, 95% har max tillväxt mellan 9.5-14.5 års ålder.  (drivs av östrogen varför tjejer har spurten före killar)
+
+**Menarche:** +- 2SD,i genomsnitt vid 13-års ålder (spann från 10.5-15-5 utan bakomliggande sjukdom)
+
+**Bröstutveckling**: stadium B2 = definitionen på pubertet för flickor. Normalvariation mellan 8-13 år.  B5 vid 12-16års ålder. Genomsnitt kommer man in i puberteten 10.5 års ålder som tjej.
+
+**Pubesbehåring:** kommer något senare (6-12 mån) än bröstutvecklingen, men utvecklingen av pubeshår sker under kortare tid än bröstutvecklingen. ph2 (pubesbehåring) vid 11-12 års ålder o ph5 vid 14 års ålder.
+
+
+
+| <img src="./imgs/sam_280421_Z9AqJvJZNy.png" alt="Z9AqJvJZNy" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+***Flickor***
+
 ### Thyroidea
 
 ***Presentation***
@@ -3573,7 +3617,7 @@ Pubertetsutveckling
 
 ***Presentation***
 
-* Fall 7. Fatima 10 år Flicka med allergisk astma sedan förskoleåldern. Daglig inhalationsbehandling med Flutide. Varit i kontakt med skolsköterskan p g a trötthet och koncentrationssvårigheter sedan några månader. Remitterad till BUMM p g a avplanad längdtillväxt. ”GHbrist?”
+* Fatima 10 år Flicka med allergisk astma sedan förskoleåldern. Daglig inhalationsbehandling med Flutide. Varit i kontakt med skolsköterskan p g a trötthet och koncentrationssvårigheter sedan några månader. Remitterad till BUMM p g a avplanad längdtillväxt. ”GHbrist?”
   * Provtagning: Basutredning som inkluderar lever, njur, blodsttus, TSH, T4/T3,
       * TPO är ej basutredning
   * <img src="./imgs/sam_240421_0l9kIDWmdV.png" alt="0l9kIDWmdV" style="zoom: 33%;" />
@@ -3594,6 +3638,11 @@ Pubertetsutveckling
       * Högt TSH och lågt T4. Frikostig kontroll!
       * Levaxin -> Längd catch-up – men inte alltid fullständig
       * Andra autoimmuna sjukdomar?
+* **Sara, 15år gammal**
+  * söker tillsammans med far för kortvuxenhet och utebliven menarche (se tillväxtkurvor nedan). Graviditet, partus, småbarnsår okomplicerat förlopp. Begynnande bröstutveckling vid 11 års ålder. Har börjat flacka av i längd och är nu bland de kortaste i klassen. Inga magproblem. Presterar inte lika bra i skolan som tidigare. Inga klara avvikelser i status.
+  * Diffar
+    * Turners, celiaki, prolaktinrubbning, dålig psykosocial situation, våld, övergrepp, Cushings, GH-brist, cystis fibros. 
+  * <img src="./imgs/sam_280421_nReMg9wE38.png" alt="nReMg9wE38" style="zoom:25%;" />
 
 
 
@@ -3652,6 +3701,35 @@ Pubertetsutveckling
       * 2 betydelsefulla konsekvenser på sikt för flickan
         * utebliven pubertet
         * nedsatt fertiltiet
+
+
+
+
+
+### Utebliven tillväxtspurt
+
+***Presentation***
+
+* !! Peter 15,5år Hereditet: Far 180cm, mor 180cm. Soc: Första barnet, en yngre bror. Tid sjd: Frisk frånsett hösnuva. BVC-anamnes visar inga avvikelser. Skol-prestation över det normala, uttalad skolbegåvning. Remitteras nu av skolläkare under frågeställningen ”Tillväxthormonbrist?”. Se tillväxtkurva nästa sida.  Status: God kontakt, allmänt somatiskt status ua. Tanner stadium G2, PH2. Testes 5 ml bilat.
+  * han är per definition INOM PUBERTETEN, men har EN UTEBLVIEN TILLVÄXTSPURT
+  * <img src="./imgs/sam_280421_e136rSPlon.png" alt="e136rSPlon" style="zoom: 33%;" />
+
+
+
+***Etiologi***
+
+* Att man har en utebliven tillväxtspurt TROTS att man har entrat puberteten
+  * Väldigt viktigt att separarea detta fr pubertas tarda där man har inte entrat pubertet. 
+* !! Orsaker till att man har en tillväxtspurt som uteblir, under pubertetsperioden
+  * Celiaki? 
+  * Överträning? 
+  * Hypotyreos
+  * Psykosocial situation?
+  * GH - brist?
+  * IBD?
+  * Hypofystumör???
+
+
 
 
 
@@ -3964,10 +4042,6 @@ Pubertetsutveckling
 
 
 
-
-
-
-
 ***Var handläggs vad***
 
 * VC, BUMM ,Barnsjukhyus, universitetsklinik
@@ -3985,6 +4059,25 @@ Pubertetsutveckling
   * barn o ungdom mde IBD eller pankreassjukdomar
 * BVC, BUMM
   * tremånaderskolik
+
+
+
+### Alarmsymptom
+
+***Alarmsymptom***
+
+* Avvikande tillväxt? 
+* Långvariga (>2 veckor) diarréer? 
+* Blod i avföring? 
+* Nattlig smärta/avföring? 
+* Hereditet för IBD (inflammatorisk tarmsjukdom), celiaki eller ulcussjukdom? 
+* Oförklarlig feber? 
+* Artrit? Lokaliserad smärta? 
+* Svårt eller ont att svälja?
+
+
+
+
 
 ### Biliär atresi, gallvägsatresi
 
@@ -4395,6 +4488,44 @@ Pubertetsutveckling
 
 
 
+
+
+#### Gastroenterit
+
+***Etiologi***
+
+* Rotavirus vanligast:
+  * Kräkningar och diarreer,
+  * bifasiskt förlopp. 
+  * Matleda initialt. 
+* Calicivirus:
+    * Snabbt förlopp,
+    * kaskadkräkningar som kommer plötsligt ej obligat med diarre. Även kallad vinterkräksjukan.
+* Adenovirus:
+    * Ofta med samtidiga ögon/ÖLI symptom.
+* Bakterier:
+    * EHEC,
+    * salmonella,
+    * shigella (röd sot),
+    * campylobacter,
+    * yersinia - feber,
+    * buksmärtor o blodiga avföringar. Ovanliga i Sverige men bör särskilt misstänkas på sommaren och efter utlandsresor. 
+* Parasiter - giardia lambia. diagnostiseras med mikroskopi (avföringsprov för cystor och maskägg)
+* Akut matförgiftning orsakas vanligen av toxiner från stafylokocker eller clostridier. 
+* Antibiotika kan vara indicerat vid verifierad Shigella- och amöbadysenteri,
+* tyfoidfeber (orsakas av Salmonella typhi) eller Giardia lamblia-infektion
+* I andra fall gäller att barn bör stanna hemma från förskola/skola 48 timmar efter sista kräkning eller vattentunn avföring för att hindra smittspridning. Informera om noggrann handtvätt före mat/matning och efter blöjbyten eller toalettbesök
+
+
+
+
+
+***Behandlingsrekommendationer***
+
+* ​	Efter det att kräkningarna upphört är det viktigt att börja ge barnet mer kaloririk mat i små portioner och gärna tillsätta extra fett. Har barnet kraftiga diarréer ska man fortsätta med vätskeersättning, 0,5-1 deciliter/timme. Söta drycker, till exempel läsk bör undvikas, då den höga sockerhalten ökar diarréerna. Dietdrycker är heller inte lämpliga eftersom de inte innehåller något socker alls.
+
+
+
 #### Lymfangiektasi
 
 ***Etiologi och patofysiologi***
@@ -4791,10 +4922,13 @@ Pubertetsutveckling
   * Initialt blir bättre. efter 2 mån skov blodiga diarrer. 
   * Vilket preparat använder du som behandling nu. Ge förslag pp dosering
     * kortison
+*  Lilly är 8 år och kommer i sällskap med mor. Mor har diab mell typ1, fö. finns det inga ärftliga sjukdomar. Det är en sammanhållen familj med en yngre syster 2 år. Lilly föddes i vecka 30, sedvanlig neonatal vård utan komplikationer. Insjuknade för 3 månader sedan efter en förkylning med lösa avföringar, som ibland är blodtillblandade, ej sett slem. Ibland smärta innan tarmtömning som går över efter toabesöket. Inga nattliga tarmtömningar. Blivit tröttare efter skolan. Mor har misstänkt högre kroppstemperatur vid vissa tillfällen, men inte kollat detta. Provtagningar på vårdcentral visar förhöjd sänka och trombocytos, avföringsprov för odling och cystor har varit ua. Man har prövat komjölksfri kost i 4 veckor utan effekt.
 
 
 
 ***Etiologi och patofysiologi***
+
+* Varför sitter inflammationen ileocekalt? Tunntarm sterilt område, där bryter du ned och tar upp. Tjocktarmen tar hand om det som inte kan brytas ned i tunntarmen
 
 
 
@@ -4809,12 +4943,16 @@ Pubertetsutveckling
   * Leverstatus: ALAT, ASAT, PKINR, albumin, 
   * CRP, Hb, u-sticka
   * blodstatus
+  * F-kalprotektin
+* **Enl seminarium**
+  * Höga halter av F-kalprotektin i faeces talar för inflammation i tarmen. Kan ses vid gastroenteriter också. IBD pat brukar ha över 500mg/kg. 
 
 
 
 ***Behandling***
 
-
+* Crohns sjd
+  * Flytande kost i 6v. (Näringsdrycker) Lik effektivt som kortison. Sen går man vidare med immundämpande lkm. Tidigare var kirurgi den dominerande behandlingen. 
 
 ### Ikterus hos barn
 
@@ -5071,6 +5209,28 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
 
 
 ### Kräkningar
+
+
+
+!!! ***Presentation***
+
+* a) Gustaf, 6 veckor, med tilltagande kraftiga kräkningar utan gallfärg. Viktnedgång c:a 500g senaste 2 veckorna.
+  * Pylorusstenos. Har barnet kraftiga kaskadliknande kräkningar kan det bero på pylorusstenos. Det är en förträngning i magens nedre magmun som gör att maten delvis hindras från att passera vidare till tarmen. När magsäcken försöker tömma sig så vänds maginnehållet i stället uppåt och barnet kräks, ofta kraftigt.
+  * Man föds ej med pylorusstenos utan det utvecklas när man exponeras för mat. Lätt att åtgärda. Görs laparoskopiskt. Klassiska är att barnen söker kring 6v. 
+  * Kräkningarna börjar när barnet är mellan två veckor och två månader. Till en början är det små kräkningar, men de blir kraftigare med tiden. Andra symtom är att barnet inte går upp i vikt som hen ska, och att hen är trött och ointresserad av omgivningen.
+  * Komjölksallergi?
+  * lågt k+ o låg cl - hyoklorem,hypokalem metabol alkalos.
+* b) Theodor, 3 månader, med sporadiska kräkningar utan gallfärg. Viktuppgång 500 g senaste 2 veckorna.
+    * Den vanligaste formen av kräkningar hos barn under ett år är så kallade överskottskräkningar. Det är när barn får i sig mer mat än de klarar av att smälta. Barnet kräks då upp överskottet av mat direkt efter måltiden, ofta i samband med en rapning. Vissa barn kräks ibland, andra barn kräks efter varje måltid. Barnet mår annars bra och växer som hen ska.
+* c) Alva, 8 månader, med 2 dagars kräkningar. Idag allt mer smärta som kommer och går, ingen diarré men tilltagande kräkningar, letargi och synbart blodig avföring.
+    * Intervallartad smärta, kräkningar, blodig avföring. = Invagination. 
+    * Bakteriell gastroenterit
+* d) Muhammed, 10 månader, som kräkts i 2 dagar + diarré. Kräkningarna hade i stort sett upphört, men nu börjat om. Endast fått vätskeersättning, ingen mat. Na 145, K 4,3, Cl 101.
+    * Gastroenterit? Ge ORS på akuten, stanna några timmar och se utvecklingen. 
+* e) Päivi, 9 år, med torticollis, dvs håller huvudet på sned, som sedan 1 vecka vid flera tillfällen kräkts oprovocerat före frukost och vid något tillfälle kräkts på natten. På dagen välmående, inget illamående.
+    * Varför håller han huvudet på sned? Andra symptom ataxi, yrsel? Intrakraniell expansivprocess. Gå vidare med DT. Barn med torticollis “högre” risk för expansivprocess. 
+
+
 
 ***Differentialdiagnoser***
 
@@ -5371,6 +5531,16 @@ Differentialdiagnoser för prolongerad ikterus: hypotyreos, metabol sjukdom, hep
   * Pneumokocker
   * Meningokocker
   * H influenzae, tidigare vanligat
+
+
+
+***ENL seminarium, NEDRE LUFTVÄGSINFEKTION***
+
+* 5 dagar: Grupp B streptokocker, E-coli, staph aureus. 
+* 2 månader: Oftast virus, tex RS, Pneumokocker, H influenza, Chlamydia tracomatis
+* 9 månader: ffa virus, Hib, pneumokocker
+* 4 år: ffa virus, pneumokocker, hemophilus, influensa. 
+* 12-år: mykoplasma (OVANLIGT HOS YNGRE), pneumokocker, influensavirus
 
 
 
@@ -5747,6 +5917,14 @@ Fever unknown origin
     * (slät?)rtg-hjärta lungor
 * This 2-year-old boy developed a high fever of 2 days’ duration. Examination showed a miserable child with mild conjunctivitis, a rash, and cervical lymphadenopa- thy. A viral infection was diagnosed and his mother was reassured. When he presented to hospital 3 days later, he was noted to have cracked red lips (Fig. 15.18a). He was admitted and a full septic screen, including a lumbar puncture, was performed and antibiotics started. The following day, he was still febrile and irritable; his C-reactive protein and erythrocyte sedimentation rate were raised considerably above upper limit of normal. Kawasaki disease was suspected and he was treated with intravenous immunoglobulin and high-dose oral aspirin. His clinical condition improved and he became afebrile the following morning. An echocardiogram at this stage showed no aneurysms of the coronary arteries, which are the most serious complication associated with delayed diagnosis and treatment. On the 15th day of the illness there was peeling of the fingers and toes (Fig. 15.18b).
   * <img src="./imgs/ped_sam_090421_PzmA9sNMRG.png" alt="PzmA9sNMRG" style="zoom:50%;" />
+* !! Hedvig 3 år har haft feber i 8 dagar och söker akutmott. Febern har hela tiden varit 40. Det gör ont när hon äter då läpparna har spruckit och är röda och glansiga, tungan är ilsket röd. Ögonen är intensivt röda. På huden finns ett **makulopapulöst utslag**. På halsen finns en stor lymfkörtel 4 x 4 cm, som ömmar. Handflatorna är röda.
+  * Bedömning vidare handläggning: Kawasaki
+  * Uppfyller kriterierna med feber i minst 5 dagar och minst 4 av följande: 
+    * spruckna läppar, 
+    * bilat konjunktivit, 
+    * cervikal lymfadenopati, 
+    * polymorft exantem,
+    * Förändringar perifert på extremiteter (handflator) 
 
 
 
@@ -5810,6 +5988,29 @@ Fever unknown origin
   * **Ekokardiografi**: för att diffa kranskärlspåverkan; 
 * **EKG**: för att diffa kranskärlspåverkan
 * **Uppföljning**: tills de är 10år och fortsätter. arbets-EKG och liknande. 
+* ***ENL SEMINARIUm***
+  * blodstatus + diff: leukocytos med neutrofili
+    * anemi
+    * trombocytos efter 2-3v
+  * blododling
+  * urinstatus, krea, elektrolyter, albumin
+  * CRP, SR
+  * ASAT, ALAT
+  * streptokockserologi
+  * proBNP
+  * utvidgad infektionsprovtagning
+  * akutserum
+  * RTG hjärta, lungor: hjärtförstoring
+  * EKG
+    * förlängd QT
+    * ledningshinder
+    * tecken till ischemi / infarkt
+  * Hjärteko
+    * !! koronärkärlsdilatation, aneurysm
+    * perikardvätska
+    * nedsatt kontraktilitet
+    * myokardit / perikardit / valvulit
+    * trombotisering
 
 
 
@@ -6206,8 +6407,8 @@ Fever unknown origin
 * **Amoxicillin, om barn inte tål smaken**
 * **Neuroborrelios**
   * under 8åå: 
-    * ceftriaxon iv, 10d
-    * gällande **Doxycyklin**: verkar vara som att man kan ge d enl IM, att kort kur liten risk för tänder missfärgning
+    * !! ceftriaxon iv, 10d
+    * !! gällande **Doxycyklin**: verkar vara som att man kan ge d enl IM, att kort kur liten risk för tänder missfärgning
   * över >=8: doxy 10d
 * **borreliaartrit, artrit**
   * under <8åå: amoxicillin 14d
@@ -6770,7 +6971,7 @@ Fever unknown origin
 
 
 
-#### Bronchiolitis
+#### Bronkiolitis
 
 ***Presentation***
 
@@ -6854,6 +7055,8 @@ Fever unknown origin
 
 
 
+##### Kännetecken
+
 ***Kliniska kännetecken***
 
 * ***Onset is gradual***: med övre luftvägssymptom, e.g. rhinorrhe, nasal congestion, feber, hosta
@@ -6897,7 +7100,7 @@ Fever unknown origin
 
 <img src="./imgs/ped_sum_zQMnflOr2I.png" alt="zQMnflOr2I" style="zoom:50%;" />
 
-
+##### Diagnos
 
 ***Diagnos***
 
@@ -6946,7 +7149,7 @@ Fever unknown origin
       * exponering av kikhosta hos späda barn, 
       * då vaccinationsskydd saknas i denna grupp
 
-
+##### Behandling
 
 ***Behandling***
 
@@ -6998,6 +7201,12 @@ Fever unknown origin
 * **Profylaxbehandling**
   * immunsupprimerade eller neuromusk sjd, prematurt födda. 
   * Monoklonala antikroppar, SYNAGIS
+* **Enl seminarium**
+  * !!! **Rehydrering A och O!!** Viktigare än inhalationer hos dessa barn
+  * NaCl inhaleras för att blöta upp slemmet → lättare hosta upp. 
+  * Tolererar lite mer påverkad saturation hos RSV för man vet att det snabbt blir bättre vid behandling (under 90%, annars 92% som gräns)
+  * Synagis- monoklonal antikropp- ges till riskgrupper under högsäsong 
+  * ENORMT hög smittsamhet!! Får ej använda våra egna stetoskop. 
 
 
 
@@ -7309,6 +7518,17 @@ Fever unknown origin
 
 
 
+***Kännetecken enl sem***
+
+* Pneumoni ger inte alltid hosta
+* Basal pneumoni kan simulera akut buk
+* AF - bra hjälpmedel
+* NPH odling speglar nedre luftvägar dåligt
+* Lungrtg - Behöver ej göras på alla. Men BÖR göras på alla väldigt svårt sjuka barn. Recidiverande pneumonier ska rtg (locus minori) Blodgas!! → Kolla om barnet blivit acidotiskt. Metabol komponent? Får lättare en koldioxid retention för de orkar inte ventilera ut. I akutfasen, kan de ha lågt PCO2 och därför lågt pH. Pro-calcitonin ett prov man börjar använda för att skilja virus vs bakterier. 
+* Olika agens i olika åldersgrupper
+
+
+
 **Utredning och handläggning**
 
 * 6åå-5åå: st användbara kriteriet för att bedöma pneunmni
@@ -7467,6 +7687,10 @@ Fever unknown origin
 
 #### Tularemi
 
+***Presentation***
+
+* Pojken hade feber. Supraklavikulära körtlar, brukar ej ses hos barn. Intracellulär parasit, så ingen effekt av penicillin. Sitter i monocyterna. Ciprofloxacin. Om man ska odla denna bakterie måste den skickas till FHM, för den kan spridas i luften. 
+
 
 
 ***Etiologi***
@@ -7517,6 +7741,14 @@ Fever unknown origin
 ***Behandling***
 
 * Ciprofloxacin po
+
+
+
+
+
+| <img src="./imgs/sam_280421_fCh3N2lhUh.png" alt="fCh3N2lhUh" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
 
 
 
@@ -7945,6 +8177,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * vilket prov måste man ta om efter 24h: 
     * CRP
     * för att det är för tidigt med enbart 8h, då CRP potentiellt inte hunnti stiga, samt att CRP är under 70 vilket innebär att vi inte vet mo den stigit beyond den gränsen 
+* !!! Aitan, 4 v gammal, har skött sig fint sedan hemkomsten från BB. Ammas. På e m i dag fick han feber och sög dåligt vid amning. Han verkar trött tycker mor och man söker på akuten, Du finner en ngt stillsam gosse, som dock skriker lite då du undersöker honom men somnar sen till. Mor väcker honom och försöker amma men han somnar strax vid bröstet. Han har inga fokala infektionstecken, ej nackstel, inga utslag, lite blek, men annars gott hull. Temp 39,5. Modern är lugnare nu och vill gå hem med barnet, eftersom hon tror att det går lättare med matningen nu hemma och dessutom finns en 4-årig syster med grannen som barnvakt.
 
 
 
@@ -9875,6 +10108,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 * ***inj gammaglobuliner (aka IvIG)***: många b lödningar, använder injektion gammaglobuliner för ***snabb effekt***. 
   * e.g. 1.5åå + näsblödningar + benäget att slå sig = behandling med gammaglobuliner.'
   * e.g. 14åå patient + som inte jätte aktiv = prednisolonkur istället
+  * !!! om mikrohematuri/makrohematuri är ett tecken på abdominell blödning som är allvarligt för ITP, därför ska behandas
   
 * // **trombocytkoncentrat**: detta fungerar ej väl för de nya trombocyterna destrueras också ganska snabbt.
 
@@ -10578,6 +10812,9 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
       * Invagination
   * b. Nämn en lämplig initial undersökning som kan bekräfta diagnosen. 1p 
       * UL buk. 
+* En pappa söker med sin 13 mån gamla flicka som skrikit mkt under det senaste dygnet. Klockan är 03,30 och du har precis kommit upp till jourrummet när sköterskan ringer. När du ser flickan leker hon fint i väntrummet och man kan undra varför de just varit tvungna att söka nu. Flickan börjar dock plötsligt skrika, slänger sig i pappas famn och verkar faktiskt ha ont. Efter 4 min leker hon igen. Det hela upprepas efter c:a 20 min efter att du har undersökt den ganska stillsamma flickan. Hon har ingen feber, har kräkts 3-4 ggr under dagen och har haft en liten lös avföring. Druckit bra, ätit sämre. Ngt blek, bukstatus u a.
+  * Beställer akut UL frågeställning 
+  * Med tanke på anamnes på intervallartad buksmärta,kräkningar hos en 13mån barn, invagination behövs uteslutas. 
 
 
 
@@ -11202,6 +11439,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * Moraxella Catharalis
   * Pseudomonas aeuriginosa
   * Mykobacterium Abscessus
+* Kira är 1 år och 4 månader, kommer med far på remiss från BVC där man följt henne månadsvis pga viktnedgång sedan 4 månader. Hon har korsat vikt kanal från +1 till -1,5 de senaste 6 månaderna och längdtillväxten planar märkbart av sedan 2 månader. Grav o partus ua, ammades fullt till 9 mån, sedvanliga vaccinationer och introduktion av födoämnen från 4 mån ålder. Kira har haft flertalet övre luftvägsinfektioner och vårdats ngt dygn p.g.a. misstänkt pneumoni vid 1 års ålder. Far berättar att avföringarna har ändrat utseende sista halvåret, blivit större och mer lösa, med starkare lukt och ibland fettglänsande.
 
 
 
@@ -11235,6 +11473,8 @@ En kort lista över kliniska manifestationer av CF:
   * Försenad pubertet
   * Clubbing
   * DM
+* **Fr seminarium**
+  * Illaluktande avföring, mekonium 
 
 
 
@@ -11243,6 +11483,13 @@ En kort lista över kliniska manifestationer av CF:
 * ***Svettest*** (Förhöjda klorinvärden i svett = positivt)
 * ***Genotypning***
 * ***Ev. F-elastas***
+
+
+
+***Differentialdiagnoser***
+
+* Celiaki
+* immunbrist
 
 
 
@@ -13306,6 +13553,16 @@ En kort lista över kliniska manifestationer av CF:
 
 
 
+### EEG
+
+#### Akut EEG
+
+* !! Infantil spasm
+* Status epilepticus
+* Encefalit
+
+
+
 ### Hjärntumör
 
 ***Presentation***
@@ -14006,7 +14263,9 @@ En kort lista över kliniska manifestationer av CF:
   * därefter uttrappning 2-4v
   * otillräcklig effekt: vigabatrin
   * alternativ synacthen är prednisolon. 
-  * 
+* **Enl seminarium**: 
+  * synacthen och 
+  * pyrodoxin infusion under EEG övervak
 
 <img src="./imgs/sam_160421_fvPPMlHghv.png" alt="fvPPMlHghv" style="zoom:50%;" />
 
@@ -14570,6 +14829,15 @@ Syftar till att hitta
 
 
 #### Klavikelfraktur
+
+***Presentation***
+
+* !! Mor kommer med Lillan 2 mån, då hon tycker att flickans vänstra axel verkar svullen och öm sedan någon dag. Du finner också en diskret svullnad samt suspekt ömhet och värmeökning men ingen rodnad. Mororeflexen är asymmetrisk. Flickan är pigg och äter bra.
+  * Differentialdiagnos
+    * Bruten klavikel
+    * misshandel
+
+
 
 ***Etiologi***
 
@@ -16475,6 +16743,22 @@ Elsa 13 månader inkommer till barnakuten pga kräkningar och diarré. Ärftligh
 * kontakt socialtjänst (orosanmälan) + polis (kontakt med polis ang skydd av syskon eller andra som kan far illa)
 
 
+
+***Enl Seminarium***
+
+
+
+Barnjouren tar emot barnet. Undersök hela barnet avklätt samt dokumentera alla skador. Gärna om en till vårdpersonal kan vara med så man inte blir ifrågasatt senare. Kontakta sjukhusfotograf, använd måttband/linjal. Om barnet är så skadat/sjukt att det behöver akut sjukvård, så får dokumentation och anmälan komma i andrahand. Kontakta bakjouren!!
+
+
+
+
+
+#### Skyldigheter
+
+Skyldigheter som läkare är att göra en orosanmälan (SoL-anmälan). Om vi tror att det är akut fara för barnets liv så ring polisen?. INTE lämna barnet ensamt med föräldrarna. 
+
+Rättsläkare utför rättsmedicinsk undersökning på begäran av förundersökningsledare
 
 
 

@@ -323,6 +323,25 @@
 
 ### Ovarietorsion, torsion
 
+***Presentation***
+
+* Olga 42-årig 2-grav, 1-para med regelbundna menstruationer, använder spiral som
+  preventivmedel. Hon söker akut pga att hon sedan ett halvt dygn haft intermittenta,
+  kraftiga smärtor och trängningar i nedre delen av buken. Vid gyn undersökning, som är
+  mycket smärtsam, palperar du en drygt apelsinstor, rund, fast resistens, lateralt om
+  uterus. Ultraljud visar en cystisk resistens med varierande ekogenicitet varav några
+  ekotäta områden, varav en liten extremt ekotät förändring.
+  * Vilken typ av ovarialtumör misstänker du med anledning av ultraljudsfyndet och
+    symptomen? (1p)
+  * Vilken är den sannolika orsaken till smärtan? (1p)
+    * torsion av dermoid
+  * Den är apelsinstor och tagit över ovariet, hur behandlar du
+    * Med att plocka ovariet också. 
+
+
+
+
+
 ***Riskfaktorer för ovarietorsiob***
 
 * Cystor över 5-6cm: ovariet får mer tyngd, och blir enklare för den att torkvera runt sin egen axel
@@ -399,9 +418,11 @@
 
 
 
-<img src="./lectures/gyn_lec/imgs/gyn_fl_IgAIWdaWpY.png" alt="IgAIWdaWpY" style="zoom:50%;" />
+***Biverkningar och associerade risker***
 
-
+* TOA
+* Infertilitet
+* X-grav: påverkade cilietransport och funktion i tuba kan vara bidragande. 
 
 
 
@@ -427,15 +448,17 @@
 
 
 
+| <img src="./lectures/gyn_lec/imgs/gyn_fl_OC9FazrLWR.png" alt="OC9FazrLWR" style="zoom:50%;" /> | <img src="./lectures/gyn_lec/imgs/gyn_fl_kGwhtiqa3E.png" alt="kGwhtiqa3E" style="zoom:50%;" /> | <img src="./lectures/gyn_lec/imgs/gyn_fl_IgAIWdaWpY.png" alt="IgAIWdaWpY" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
 
 
-<img src="./lectures/gyn_lec/imgs/gyn_fl_OC9FazrLWR.png" alt="OC9FazrLWR" style="zoom:50%;" />
 
 
 
 
 
-<img src="./lectures/gyn_lec/imgs/gyn_fl_kGwhtiqa3E.png" alt="kGwhtiqa3E" style="zoom:50%;" />
+
 
 
 
@@ -865,6 +888,17 @@ cerivicit
 
 
 
+***Presentation***
+
+* Karin 57åå
+  * 2para söker med ca ett årsa anamnes på urinträngningar både dag o natt samt ibland läckage. Läcker oftast inte vid hosta och nysning. Ange tre tänkbara orsaker till hennes symptom
+    * Tumör, tex i uriblåsan
+    * Cystit
+    * Neurologiska sjukdomar(: Parkinson, )
+    * Blåssten
+
+
+
 ***Definition***
 
 * **overactive bladder OAB, ett syndro**
@@ -1128,6 +1162,22 @@ cerivicit
 * abdominell peritoneum
 * pelvis peritoneum
 * uterina muskler
+
+
+
+***Metoder***
+
+* Pfannenstiels snitt
+
+
+
+
+
+| <img src="./imgs/sam_280421_H2JsejPIUX.png" alt="H2JsejPIUX" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+
+
 
 ### Livmodern uterus
 
@@ -1514,7 +1564,7 @@ cerivicit
 
 
 
-<img src="./imgs/gyn_sam_160321_ZusmGIMogL.png" alt="ZusmGIMogL" style="zoom: 33%;" />
+
 
 
 
@@ -1547,7 +1597,7 @@ cerivicit
 
 
 
-<img src="./lectures/gyn_lec/imgs/gyn_lec_jpRyC9DkyL.png" alt="jpRyC9DkyL" style="zoom:50%;" />
+
 
 
 
@@ -1609,11 +1659,11 @@ cerivicit
 
 
 
-| <img src="./lectures/gyn_lec/imgs/gyn_lec_1un3q6TpaP.png" alt="1un3q6TpaP" style="zoom:50%;" /> | <img src="./imgs/200421_sam_yQw2gdPtkY.png" alt="yQw2gdPtkY" style="zoom:50%;" /> |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-|                                                              |                                                              |      |
-|                                                              |                                                              |      |
-|                                                              |                                                              |      |
+| <img src="./lectures/gyn_lec/imgs/gyn_lec_1un3q6TpaP.png" alt="1un3q6TpaP" style="zoom:50%;" /> | <img src="./imgs/200421_sam_yQw2gdPtkY.png" alt="yQw2gdPtkY" style="zoom:50%;" /> | <img src="./imgs/sam_280421_3eoVDryinS.png" alt="3eoVDryinS" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./lectures/gyn_lec/imgs/gyn_lec_jpRyC9DkyL.png" alt="jpRyC9DkyL" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_160321_ZusmGIMogL.png" alt="ZusmGIMogL" style="zoom: 33%;" /> |                                                              |
+|                                                              |                                                              |                                                              |
+|                                                              |                                                              |                                                              |
 
 
 
@@ -2310,7 +2360,7 @@ cerivicit
   * **Stadie1**
     * laparotomi
     * peritoneal tvätt
-    * TAH, BSO
+    * TAH, BSO: total abdominal hysterektomi (TAH), BSO bilateral salpingo-ooferektomi
     * Selekterad paraoartala o pelvis lyumf nod sampling
     * i typ2 och klarcells carcinom: omentum resektion
 * **Lymfkörtelutrymning:** ingen evidens för overall eller recidiv fri överlevnad för pelvis lymfadenektomi med tidig EC
@@ -2989,8 +3039,8 @@ cerivicit
   * Distal pankreasresektion
   * Bakre modifierad exenteration, tarmresektion
 * **Radikal kirurgi**: näst överlevnad
-* SOE: detta verkar vara indikerat när man har Ovarialcancer
-* HNPCC-Lynch syndrome: De med familjär cancer syndrom bör genomgå hysterektomi?
+* **SOE**: detta verkar vara indikerat när man har Ovarialcancer
+* **HNPCC-Lynch syndrome**: De med familjär cancer syndrom bör genomgå hysterektomi?
   * Hysterektomi
 * **Stadiebaserat**
   * **Stadium1**: komplett staging, pelvin lymfadenektomi, paraaortal lymfadenektomi
@@ -4528,7 +4578,7 @@ cerivicit
   * rätt: prematur ovariell insufficiens
   * prolaktinom
   * turners syndrom
-* Britta 39år har inte haft mens på 7 månader. frisk. Hennes mamma hade blodpropp under sin graviditet, men i övrigt finns inget avvikande i anamnesen Labmässigt normalt Hb och crp, högt fsh. Hon remittersa till endokrinmottagning där proverna upprepas med samma resultat en månad senare.
+* !! Britta 39år har inte haft mens på 7 månader. frisk. Hennes mamma hade blodpropp under sin graviditet, men i övrigt finns inget avvikande i anamnesen Labmässigt normalt Hb och crp, högt fsh. Hon remittersa till endokrinmottagning där proverna upprepas med samma resultat en månad senare.
   * Va där det troligaste diagnosen?
       * svar: prematur ovariell insufficiens.
   * Vilken typ av preperat bör Britta få behandling med. Motiviera preperatet, preperaten?
@@ -4585,6 +4635,7 @@ cerivicit
   * behandla vasomotoriska symptom
   * återställa torra sköra slemhinnor
   * motverka osteoporos; försämrad kognition; ökad risk CVD
+  * behandling ska fortgå till menopaus
 * **Graviditetsönskan**
   * hormonstimulering
   * frysning ovarievävnad, befruktade ägg
@@ -5005,7 +5056,7 @@ En del av källorna är fr Bernebrandt
 * **Först trimester etc**: att BT sjunker, pga sänkt total perifer kärlresistens. Relateras med progesteronets relaxerande effekt på kärlbäddarna och uterus. 
 * !!! **Andra trimestern**: BT når sin lägsta punkt under andra trimestern. viktig klinisk konsekvens är att en kronisk hypertoni kan maskeras 
     * trots ökning av hjärtminutvolymen
-    * perifera kärldilatationen leder t minskning ***systoliska trycket***, som når sin lägsta punkt i tredje trimestern. 
+    * perifera kärldilatationen leder t minskning ***systoliska trycket***, som når sin lägsta punkt i tredje trimestern (är det inte andra trimestern?).  
 * **Korotkof fas V**: Hur man mäter turbulens enl Sarah, har att göra med mätning av blodtrycket, när man lyssnar för blodtyrcket sedvanligt. 
 * **Ligga på rygg:** 5-10% av gravida kvinnro drabbas av symptomatiskt BT fall, uppkommer gm att den gravida livmodern obstruerar venösa återflödet t hjätat (Vena cava syndromet)
     * reduktion upp t 30% reduktion hjärtminutvolymen
@@ -6669,8 +6720,19 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
       * !! Kalciumblockare
     * 3e hand hydralazin (Apresolin): 25mgx3. kan höjas t 50mgx4
     * kan överväga: metoprolol, visken, amlodipin
-* **Akut förlossning**
-  * 
+
+
+
+##### Akut förlossning
+
+* Provtagning:  Hb, TPK, INR och APTT tas vid värkstart eller induktion. Inför EDA krävs APTT och INR inom normalområdet och TPK >75x109/L. Prover tagna max 6 timmar före EDA om tidigare normalvärden, men vid svårpreeklampsi prover tagna max 2 timmar före EDA.
+* **Trombosprofylax**: 
+  * Före partus
+    * S-albumin under 20
+    * sänkt antitrombin
+  * alltid vid sectio
+  * **Efter partus**
+    * **Förlängd trombosprofylax tid**: LMWH, fragmin
 
 
 
@@ -8618,6 +8680,8 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 ***Etiologi***
 
 * Svullen salpinx
+* PID kan leda till detta
+* salpingit: relatert med uppåtstigande infektioner. 
 
 ### Spiralrelaterad infektion
 
@@ -10321,7 +10385,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 
 - **Konservativ behandling prolaps**
   - **Bäckenbottenträning**: risken att om man gör för mkt och levatorskada att de får ont. 
-  - **Ringbehandling**: ffa äldre kvinnor; funkar inte bra på cystocele och rektocele
+  - **Ringbehandling**: ffa äldre kvinnor; funkar inte bra på rektocele
   - **Östrogenbeh**: lokalt östrogen till perimenopaus och postmenopausala kvinnor. 
     - östrogen med bäckenbottenträning kan ha effekt, m
     - men östrogen ensamt har inte så stor effekt enl FL
@@ -10343,6 +10407,15 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
     - !! symptomorienterat: 
       - vidhetskänsla: främre plastik kan man göra
       - prolaps: att man gör lite större  kirurgier etc. 
+- **Enl SFOG**
+  - **Rektocele**
+    - **Konservativt**
+      - krystteknik
+      - vattenlavemang
+      - tarmreglerande: laxerande
+      - dietteknik
+    - **Kirurgiskt**
+      - bakre plastik. 
 
 
 
@@ -10435,6 +10508,28 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 * Inte missa sfinkterskador: Palpera rektalt, ska föreligga god smärtlindring
 * **åtgärdas av läkare i operation**: <u>sfinkter</u>skador, svåråtkomliga grad2 skador
 * **återuppbygg perineum**
+
+
+
+
+
+***Biverknignar***
+
+* **Kort sik**
+  * Infektion
+  * blödnings
+  * smärta
+  * tarmtömningssvårigheter
+* **Lång sikt**
+  * Inkontinens
+  * Tarmtömningssvårigheter
+* **Total sfinkterruptur ger mest besvär**
+
+
+
+***Behandling***
+
+* 
 
 
 
@@ -12052,7 +12147,6 @@ FD
 ***Preterminalt***
 
 * Så gott som eller helt upphävd variablitet +- decelerationer
-* 
 
 
 
@@ -13217,14 +13311,23 @@ ENL FL
 
 
 
-
-
-
-
 ***Metod och snitt***
 
 * Pfennenstiel
   * Ett ca 15cm lätt bågformat snitt 4-5cm ovan symfysen, likt det vid sectio..
+
+
+
+***Handläggning***
+
+* **Före kejsarsnitt**
+  * Kontakt narkos för smärtlindring
+  * informerar patient
+  * **Antibiotikaprofylax**: 
+    * reducerar postop infektion, inflammation uterusslemhinnan, efter akut och planerat kejsarsnitt 
+    * cefuroxim
+    * om pc allergi ges klindamycin
+  * **Ger trombosprofylax**: 
 
 
 
@@ -14567,7 +14670,8 @@ Spinalbedövning
       * spontan prematurförlossning
       * uterusruptur
       * vasa previa 
-* 
+* Anna 32åå
+  * vänta första barn v36. grav normal. vaknar på antten kraftigt akut insättande buksmärta samt blödning. Vid inkomst till förlossningen är uterus hård och blödningen pågår fortfarande
 
 ***Etiologi och patofysiologi***
 
@@ -14580,10 +14684,23 @@ Spinalbedövning
 * Preeklampsi
 * Graviditetshypertoni
 * GDM
-* Rökning
+* Rökning: stark riskfaktor för ablatio
 * antifosfolipidsyndrom
 
 
+
+***Kännetecken***
+
+* Uterus palperas hård
+* CTG takykardi
+* färska blödningar
+* inget tydligt värkmönster
+
+
+
+***Behandling***
+
+* Kejsarsnitt om det föreligger
 
 
 
@@ -14605,6 +14722,12 @@ Spinalbedövning
 * Placenta previa
 * Tidigare kejsarsnitt
 * Uteruskirurgi inkl exeres 
+
+
+
+***Behandling***
+
+* Kejsarsnitt: risk uterusruptur
 
 
 
@@ -14641,11 +14764,15 @@ Spinalbedövning
 
 ***Kliniska kännetecken***
 
+* Vaginal blödning
+
+
+
 ***Utredning och handläggning***
 
 ***Behandling***
 
-
+* Kejsarsnitt, planerat
 
 
 

@@ -22,7 +22,7 @@
 
 ## Allmänt
 
-### Allmänvården
+### Allmänvården och BB
 
 ***Presentation***
 
@@ -30,6 +30,18 @@
   * Vaccination
   * Föräldragrupper
   * Hälsokontroller av barn
+
+
+
+#### BB undersökningen
+
+
+
+Titta neonatologi
+
+
+
+* 
 
 
 
@@ -1659,6 +1671,33 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 
 
 
+### Hjärnödem
+
+***Presentation***
+
+* a) Vilken allvarlig och livshotande komplikation måste du ha i bakhuvudet då du börjar behandla ett barn med
+  diabetes mellitus och ketoacidos? (1p) 
+  * b) Ange också två undersökningar du skall följa samt två laboratorieprover som är viktiga att följa för att
+    undvika den livshotande komplikationen. (2p)
+  * S-osmolalitet, P-blukos
+  * GCS, 
+
+
+
+***Kännetecken***
+
+* Detta är mycket ovanligt hos vuxna, men finns beskrivet. Symtom uppstår inom 4-24 tim efter det att behandlingen har påbörjats. Risken ökar vid snabb sänkning av P-Glukos och osmolalitet. 
+* DT hjärna ingår i diagnostiken, men normala röntgenfynd utesluter inte diagnosen. 
+
+
+
+***Behandling***
+
+* 
+* Behandling av hjärnödem omfattar mannitol och mekanisk hyperventilation.
+
+
+
 ### Livlöshetsattack
 
 ***Presentation***
@@ -1705,6 +1744,31 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
   * 5 inblåsningar, tryck 5 ggr på bröstbenets nedre del,titta i mun, upprepa om ej hjälpt
   * Rätt: Lägg barnet på mage längs armen med huvudet ner, Slå 5 ggr mellan skulderbladen, vänd barnet och tryck 5 ggr på bröstbenets nedre del, titta i mun. Upprepa om luftvägshindret kvarstår
   * Notera: "om luftvägshindret kvarstår", om problemet kvarstår ska man göra inblåsningar...
+
+
+
+***Metod***
+
+* Under 1år
+  * Lägg barnet på mage längs armen med huvudet ner, Slå 5 ggr mellan skulderbladen, vänd
+  * barne: och tryck 5 ggr på bröstbenets nedre del, titta i mun. Upprepa om luftvägshindret
+    !kvarstar
+* Över 1år
+  * 5 rygg, 5buk
+* ring 112 om en minut
+* upprepa om luftvägshindret kvarstår, inte medvetslöshet för då HLR. 
+
+
+
+
+
+| <img src="./imgs/sam_280421_wppVJyhDUJ.png" alt="wppVJyhDUJ" style="zoom:50%;" /> |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+|                                                              |      |      |
+|                                                              |      |      |
+|                                                              |      |      |
+
+
 
 
 
@@ -2919,6 +2983,10 @@ Enligt ABCDE
   * Han har diabetes typ 1 sedan 8 års ålder och har pump. 
   * Nu hittad i sängen efter att ha varit ”magsjuk” med kräkningar under natten. 
   * Malek är medvetandesänkt och andas tungt
+* a) Vilken allvarlig och livshotande komplikation måste du ha i bakhuvudet då du börjar behandla ett barn med
+  diabetes mellitus och ketoacidos? (1p) b) Ange också två undersökningar du skall följa samt två laboratorieprover som är viktiga att följa för att
+  undvika den livshotande komplikationen. (2p)
+  * GCS, puls, BT, EKG, 
 
 
 
@@ -2978,11 +3046,25 @@ Enligt ABCDE
     * INTE STÄNGA AV DROPPET direkt: då får man tillbaka acidosen
     * Sänka dosen insulin
     * Patienten ska inte stå utan insulin
-    * 
+* **Övervak**
+  * !! EKG
+  * GCS
+  * BT, 
+  * puls
 
 
 
-***Behnadnling***
+***Komplikationer***
+
+* Cerebral edema: följ GCS och PEWS.
+  * Usually occurs 6–12 hours into therapy and rarely after 24 hours
+  * Risk factors include patients younger than 5 years, initial drops in serum glucose levels faster than 100 mg/dL per hour, bicarbonate administration, and fluid administration greater than 4 L/m 2 per 24 hours. 224c. Patients present with worsening mental status and abnormal neurologic examinations in severe cases.
+* Severe hypokalemia
+* Hypocalcemia
+
+
+
+***Behandling***
 
 * !! **Börja med Rehydrering, sedan Insulin**
 * **Blodsocker snabbt sjunkande av insulin**
@@ -2990,7 +3072,6 @@ Enligt ABCDE
   * sänk insulindos
   * tillsätt glukos
 * **Insulindropp**: 48h innan subkutan behandling igen
-* 
 
 
 
@@ -5676,9 +5757,9 @@ Fever unknown origin
 * Minst 4 av 5 följande 
   * Konjunkivit, bilateralt
   * Förändringar läppar, munhåla: examtem? stora läppar 
+    * Exantem läppar och i munhåla: torra läppar, röd tunga (smultrontunga?)
   * Förändringar extremiteter: exantem? röda fingertoppar, palmarerythem, etc.
   * utslag, polymorft
-  * Exantem läppar och i munhåla: torra läppar, röd tunga
   * Halsadeniter: ofta ensidgit
 * Atypisk kawasaki
   * under 4 kriterier, drabbar ofta små barn
@@ -5729,6 +5810,7 @@ Fever unknown origin
 * **Radiologiskt**:
   * **Ekokardiografi**: för att diffa kranskärlspåverkan; 
 * **EKG**: för att diffa kranskärlspåverkan
+* **Uppföljning**: tills de är 10år och fortsätter. arbets-EKG och liknande. 
 
 
 
@@ -5811,6 +5893,11 @@ Fever unknown origin
 
 
 
+***Behandling***
+
+* Kåvepenin behandling, behandla syskon också 
+* pc-allergi: erytromycin, klindamycin
+
 
 
 #### Tredagarsfeber; subitum
@@ -5869,6 +5956,14 @@ Fever unknown origin
   * inte ömmande
   * kvarstår timmar upp till 2-3d
 * Buktande fontanell kan vara ett tecken
+
+
+
+
+
+***Behandling***
+
+* Verkar inte finnas ngn behandling per se
 
 
 
@@ -6647,7 +6742,7 @@ Fever unknown origin
 
 ***Presentation***
 
-* !!! **Hos barn som söker med buksmärtor och feber skall man alltid utesluta appendicit. En viktig diffentialdiagnos****som går med liknande symptombild och som inte utgår från bukorganen missas ibland. Vilken är denna? Hur****ska den bekräftas?**
+* !!! Hos barn som söker med buksmärtor och feber skall man alltid utesluta appendicit. En viktig diffentialdiagnos som går med liknande symptombild. Vilken är denna? Hur ska den bekräftas?
   * Körtelbuk
   * Ultraljud
 
@@ -6998,10 +7093,33 @@ Fever unknown origin
 * **Olle 15 år kommer till husläkarmottagningen då han har haft ca 38,5C feber i och torr hosta sedan 8 dagar. Storebror och mamman har varit sjuka under en längre tid med liknande symtom men har blivit bättre nu utan behandling. Efter kontakt med KRY förskrevs Kåvepenin för 3 dagar sedan men Olle har inte förbättrats sedan dess. I status noteras rassel basalt bilateralt, blodstatus och diff ua. CRP 65. Lungrtg visar interstitiella infiltrat ffa basalt bilateralt. Saturation 95%.** 
   * **a. Vilket agens misstänker du i första hand? 1p**
     * **Mycoplasma pneumoniae?**
-  * b. Hur bekräftar du diagnosen? 1p** **
+  * b. Hur bekräftar du diagnosen? 1p
     * **NPH -PCR**
   * c. Hur behandlar du Olle? 1p
-    * ** Erytromycin/Azitromycin 
+    * ** Erytromycin/Azitromycin**
+
+
+
+
+
+***Kännetecken***
+
+* Långvarig hosta, torr hosta. 
+* Epidemiologi, kan vara tydlig
+* pneumonistatus + influensasymptom
+* Tonåren
+
+
+
+***Utrending***
+
+* NPH-PCR
+
+
+
+***Behandling***
+
+* makrolider: azitromycin, erytromyciner
 
 
 
@@ -7147,6 +7265,9 @@ Fever unknown origin
     * när iv antibiotika: 
       * bensylpenicillin iv.
       * eller cefotax
+* os barn som söker med buksmärtor och feber skall man alltid utesluta appendicit. En viktig diffentialdiagnos som går med
+  liknande symptombild och som inte utgår från bukorganen missas ibland. Vilken är denna? Hur ska den bekräftas? 1p
+  * Basal pneumoni, lungrtg
 
 
 
@@ -9543,6 +9664,24 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   
 
   
+  
+  
+
+***Varningstecken immunbrist***
+
+* Upprepade antibiotikakrävande otiter (≥4/år), sinuiter (≥2/år)eller pneumonier (≥2/år)
+* Infektioner som inte läker på förväntat sätt med adekvatantibiotikabehandling
+* Återkommande hud- och mjukdelsinfektioner, organabscessereller icke-infektiösa granulom
+* Infektioner med ovanlig lokalisation eller orsakade av ovanligaagens
+* över likamed ≥1 invasiv infektion såsom osteomyelit, meningit eller sepsi
+* Uttalad kronisk oral eller kutan candidos
+* Multipla autoimmuna sjukdomar eller mycket tidig debut avautoimmun sjukdom (≤3år)
+* Omfattande hudförändringar, erytrodermi eller eksem som intesvarar på behandling
+* Spädbarn som inte växer som förväntat
+* Känd primär immunbristsjukdom i familjen
+* !! INGET om luftvägsbesvär, tenta: verkare som, kanske man ska tänka cystisk fibros i det fallet.. 
+
+
 
 ***Utredning***
 
@@ -9556,7 +9695,7 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * läkemedel
 * Obligata prover, enl läk
   * blodsttus + diff
-  * IgA, IgM, IgG
+  * !! IgA, IgM, IgG
 
 
 
@@ -10102,6 +10241,12 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
   * Behövs ytterligare prover
     * blodstatus + diff
   * dif ua utom lymfocyter 0.2 (jtättelågt)
+* De allra svåraste immunbristsjukdomarna är mycket ovanliga, t.ex. föds det bara 1-2 barn/år i Sverige med SCID – severe combined immunodeficiency (svår kombinerad immunbrist). Andra immunbrister är vanligare men ibland svåra att hitta bland alla friska förskolebarn med återkommande viroser. För att finna de barn som behöver utredas för misstänkt immunbrist finns det 10 varningstecken. Vilket av följande alternativ ska inte primärt inge misstanke om immunbrist hos ett i övrigt friskt barn. Välj ett alternativ:
+  * Infektioner som inte läker på förväntat sätt trots adekvat antibiotikabehandling.
+  * Spädbarn som inte växer som förväntat.
+  * rätt, alltså att denna inet är en del: Kraftig andningspåverkan i samband med förkylning och hosta flera veckor efter varje förkylning.
+  * 1 eller flera invasiva infektioner t.ex. osteomyelit, meningit, sepsis.
+  * Omfattande hudförändringar eller eksem som inte svarar på behandling.
 
 
 
@@ -10124,8 +10269,8 @@ Enl PM Urinvägsinfektion Hos barn, reviderat 2018, ALB, sachsska, Eva Broström
 * **diarre, malabsorption**
 * **recidiverande kandidainfektioner**: 
   * Utslaget i ljumskar exempelvis
-* dålig tillväxt
-* hudutslag: mammalymfocyter eller omenn syndrom
+* **dålig tillväxt**
+* **hudutslag**: mammalymfocyter eller omenn syndrom
 
 
 
@@ -13926,7 +14071,13 @@ En kort lista över kliniska manifestationer av CF:
   * Kongenital katarakt
   * Retinoblastom
 
+#### BB undersökningen
 
+Syftar till att hitta
+
+* Coarctio aortae: palpera femoralispulsarna
+* Höftledsluxation
+* Retinoblastom
 
 ### Andningsstörning
 
@@ -16414,7 +16565,7 @@ Ataxic cerebral palsy is due to [...] damage.
 * **Polyartikulär**: RF-positiv, Rheumapositiva och negativa kommer hos polyartikulära. 
 * **Oigoartrit, vanligast**: 
   * 4 och färre leder
-  * Den vanligaste formen är oligoartrit formen. 
+  * !! Vanligaste formen är oligoartrit, (typisk form)
 * **systemisk JIA**: 
 
 
@@ -17229,7 +17380,86 @@ Ataxic cerebral palsy is due to [...] damage.
 
   * risk hyponatremi stört första timmarna av behandling, men kvarstår under hela behandlingen
 
-    
+
+### Föda, nutrition och vikt
+
+##### Presentation
+
+*  **Modersmjölksersättningar produceras för att likna bröstmjölken så mycket som möjligt. Föräldrarna vill veta vad skillnaden är mellan modersmjölkersättning och komjölk? Vilket av följande påståenden om modersmjölksersättning stämmer inte? (1 p)** 
+   * De är komjölksbaserade 
+   * Kolhydraten är laktos 
+   * rätt: Proteinnivån är densamma som i komjölk [i.e. att det är ersättning har olika proteinnivåer jfr bröstmjölk]
+   * De är järnberikade 
+   * Har tillsats av mineraler och vitaminer 
+   * // komjölk har mer salt och protein, som inte njure vs tarm klarar av när man är bebisi Ersättning har man reducerad saltnivå och reducerad proteinnivå. Tillsatt jarn
+*  **Veronika, 3 veckor gammal, blir inlagd på barnavdelningen som ’vårdbarn’, då hennes mamma vårdas på psykavdelning för en psykos. Pappan kan inte närvara. Du skall nu ordinera mat åt barnet. Barnet väger ca 4 kg. Ange typ av mat (Fråga A o B):** 
+   * Om barnet inte har en komjölksallergi
+     * Bröstmjölksersättning = Baby semp
+   * Om barnet har en komjölksallergi
+     * Nutramigen: hydrolyseade bröstmjölksersättningar där mjölkproteiner har sönderdelats
+   * ungefärliga mL per d, hur mga mål per d
+     * Ska äta var 4e timme-3e timme
+     * 150mL/kg/d => 600mL/d
+*  **Elsa 8 månader är med sin mamma på BVC för viktkontroll. Hon följer sin viktkurva och även utvecklingen. Mamman undrar lite om vad Elsa kan äta och om det finns något som hon måste undvika i Elsas kost.** 
+   * Vilket påstående stämmer bäst med de svenska näringsrekommendationerna för barn < 1 år? Barn yngre än 1 år skall inte äta: 
+   * Grönsaker, jordnötssmör, ägg, fisk. 
+   * Grönsaker, sirap, jordnötssmör, glutenfritt. 
+   * Socker, jordnötssmör, peppar, kött 
+   * Rätt: Hela nötter, honung, opastöriserad mjölk, extra salt. 
+   * Saft, sirap, fisk, ägg 
+*  !!! **Sune, 6 veckor** 
+   * kommer till BVC. Barnet kräks fler gånger per dag, vanligast efter måltider och har några lösa avföringar. Mamman har inte sett något blod i vare sig kräkningar eller avföring. Gossen föddes fullgången, födelsevikt 3,2 kg (-1 SD). Det var svårt för mamman att amma varför barnet fått bröstmjölksersättning sedan 5 veckor tillbaka. Mamman ger 175-200 ml var 3:e timme, ca 8 mål per dygn. Ibland har han svårt att ta hela matmängden. Sover bra men mor väcker barnet för att äta på natten. Status: Gott allmäntillstånd, pigg och ger fin kontakt. Ingen feber. Vikt 5,65 kg (+1,8 SD). Cor: RR, 125/min, 0 biljud. Pulm: Normala andningsljud bilat. Buk: Litet utputande. Aktiva tarmljud. Bajsar vid palpation. Ingen ömhet. Yttre genitalia: Descenderade testes bilat. Inga bråck. Inga eksem.
+   * Vilken är den troligaste förklaringen och bästa åtgärden för Sunes besvär?
+   * Misstänkt komjölksallergi, byt till komjölksfri ersättning (så kallat hydrolysat)
+   * Misstänkt pylorusstenos, remittera barnet för passageröntgen
+   * Misstänkt gastroenterit, ta prov för bakterier och virus från avföring och kräkningar
+   * rätt: Misstänkt övermatning, ge råd om matmängder och matningsfrekvens
+*  !!! **Felix 7 månader har börjat äta måltider enligt rekommendationer från BVC. Föräldrarna frågar om de kan ge vanlig mjölk som måltidsdryck. De får som svar att man inte rekommenderar komjölk till barn under ett år.Vilketalternativav nedanstående är anledningen till rekommendationen att man skall undvika komjölk till barn < 1 år?(1p)**
+   * Rätt: För hög koncentration av protein och salt
+   * För hög koncentration av protein och för lågt av salt
+   * För låg koncentration av fett och protein
+   * För lite kalorier
+   * För låg koncentration av protein och för hög av fett
+
+
+
+#### !! Introduktion födoämnen
+
+* Honung: efter 1åå
+* **Välling**: ungen kan dricka detta fram till 2åå
+
+
+
+#### Bröstmjölk och amning
+
+* Optimal sammansättning
+
+* reducerar infektionsrisk
+
+* förstoppar inte
+
+* mer hygieniskt
+
+* ekonomiskt
+
+* tillgängligt
+
+* anknytning
+
+  
+
+***Rekommendera: upp t 6mån ålder***
+
+
+
+### Födoämnen när
+
+***Barn under 1år får inte äta***
+
+* Hela nötter
+* honung
+* opastöriserad mjölk
+* extra salt (komjölk; har omogna njurar)
 
 ### Tillstånd
 

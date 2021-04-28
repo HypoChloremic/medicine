@@ -136,3 +136,21 @@ normokrom är akut blodning eller hemolys,
 
 The most common causes of ovulatory factor infertility are
 PCOS and advanced maternal age.
+
+* 5v ikterus, checka this out. 
+
+* kejsarsnitt: placenta ablatio, placenta previa 
+
+* MPR-vaccin kan utlösa ITP.
+
+* GBS erytromycin profylax innan 
+
+* RIklig flytning under graviditet: de kan habituellt få rikligare flytningar under en graviditet
+
+* Hormonspiral
+
+* Ett nyfött barn har vid 1 minuts ålder följande fynd:
+Puls 80/min; slapp, blek och cyanotisk. Grimaserar men skriker inte när du suger i svalget. Oregelbunden ytlig
+andning ca 20/min.
+a. Vilken Apgar har barnet vid 1 min ålder? 1p
+b. Vad är din omedelbara åtgärd? 1p

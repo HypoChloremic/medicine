@@ -154,3 +154,8 @@ Puls 80/min; slapp, blek och cyanotisk. Grimaserar men skriker inte när du suge
 andning ca 20/min.
 a. Vilken Apgar har barnet vid 1 min ålder? 1p
 b. Vad är din omedelbara åtgärd? 1p
+
+
+insulininfusion rehydrering 1h innan insulininfusion, påbörjar 5%
+
+* Mono övervikt

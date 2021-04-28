@@ -941,13 +941,12 @@ Man kan screena barnet för flera saker, under dess utvecklingsperiod:
 * Edvin 1åå
   * alltid haft torr hud. Successiv rodnad, kliande hud ansikte och bål, smo nu vätskar. Inte fått ngn ny sorts mat senaste tiden.
   * Diangos: Atopisk eksem, atopisk dermatit
-  * 
-  * 
+
+
 
 ***Allmänt***
 
 * analogt med böjveckseksem
-* 
 
 
 
@@ -7470,6 +7469,55 @@ Fever unknown origin
 
 
 
+***Etiologi***
+
+* Regionalt till såret finns ömma lymfkörtlar. Vid försenad eller utebliven antibiotikabehandling förstoras körtlarna ytterligare (kan bli hönsäggsstora) samt smälter och rupturerar med rikligt varflöde. Se bilder.
+* Aerosolsmitta via luftvägarna ger risk för pneumoni, men kan även ge övriga symtombilder.
+* Aerosolsmitta till ögonen ger ökad risk för konjunktivit. Svullna körtlar kan uppträda framför örat och på halsen (oculoglandulär form)
+* Om smittan sker oralt, t ex via vatten, kan patienten besväras av faryngit eller tonsillit.
+* Neurologiska symtom finns också beskrivna.
+* **Transmission**
+  * !! Orsakas av en intracellulärt växande gram-negativ bakterie, *Francisella tularensis*. 
+  * Reservoaren är smågnagare och harar. 
+  * Koppling finns till lämmelår. 
+  * En teori gör gällande att bakterien kan överleva bland vattenlevande amöbor mellan år med mycket smågnagare.
+* **inkubationstid**: 1-10d, snitt 3d
+* **Agens**: Francisella tularensis
+
+
+
+***Kännetecken***
+
+* Hög feber
+* Torrt sår som ibland kan vara obetydligt
+* Svullna regionala lymfkörtlar
+* Huvudvärk
+* Illamående
+* Hosta vid pulmonellt engagemang
+
+
+
+***DIfferentialdiagnoser***
+
+* Eythema nodosum
+* Erythema multiforme
+
+
+
+***Utredning***
+
+* Diagnos
+  * klinisk
+* Serologi: serokonversion sällan detekterbar förrän 14d med sy
+* Sårodling: skickas till FHM
+* Odling eller DNA-extraktion som misstänks innehålla bakterierna,.
+
+
+
+***Behandling***
+
+* Ciprofloxacin po
+
 
 
 ### Nefrologiskt Urologiskt
@@ -12933,16 +12981,16 @@ En kort lista över kliniska manifestationer av CF:
 
 ***Differentialdiagnoser***
 
-* GI-reflux
-* kramp
-* NLI: nedreluftvägsinfektion, pneumoni
-* hjärtrytmrub
-* Sepsis-meningit
-* Hypoglykemi
-* Lipidoxidationsdefekt
-* Elektrolytrubbningar
-* Neurologiska sjukdomar
-* Respiratoriska sjukdomar (andra än nedre luftvägsinfektion)
+* **GI-reflux**
+* **kramp**
+* **NLI**: nedreluftvägsinfektion, pneumoni
+* **hjärtrytmrub**
+* **Sepsis-meningit**
+* **Hypoglykemi**
+* **Lipidoxidationsdefekt**
+* **Elektrolytrubbningar**
+* **Neurologiska sjukdomar**
+* **Respiratoriska sjukdomar** (andra än nedre luftvägsinfektion)
 
 
 
@@ -17461,6 +17509,15 @@ Ataxic cerebral palsy is due to [...] damage.
 * opastöriserad mjölk
 * extra salt (komjölk; har omogna njurar)
 
+
+
+***4-6månaders ålder, introduktion***
+
+* Rotfrukter, grönsaker
+* frukt
+* kött, fisk, ägg, gluten
+* smaksensationer, små mängder av mkt
+
 ### Tillstånd
 
 #### Chock
@@ -17725,7 +17782,7 @@ Ataxic cerebral palsy is due to [...] damage.
 * Symptomgivande hyponatremi
   * **hyperton NaCl lösning**: beredning 3% NaCl; notera att vi tillför natrium till ECV, detta ntrium kommer att stanna här såvida inte diuresen och elimiationen är väldigt snabb. Detta leder till att vi ökar osmolalitetn i plasma, varpå vi drar in vätska fr ICV till ECV!
   * Efter symptom bättre encefalopati, att man långsamt fortsatt korrigerar för att undvika osmolär demyelinisering
-  * Åtgärder vid symptomgivande hyponatremi
+  * **Åtgärder vid symptomgivande hyponatremi**
     * säkra fri luftväg + andning
     * Behandla kramper med antiepileptika
     * 2mL/kg max 100mL, 3% NaCl under 10-20min
@@ -17734,7 +17791,7 @@ Ataxic cerebral palsy is due to [...] damage.
     * höjning 4-6mM räcker normalt för att förbättra symptom.
     * Avbryt infusion när symptom bättre ELLER när p-na ökat med högst 8mM. 
     * vid upphävt akut tillstånd övergång långsam fas höjning p-na 8-12mM/d under noggrann monitor
-  * Föranleder intensivvård: dock beh inleds innan detta
+  * **Föranleder intensivvård**: dock beh inleds innan detta
 * ***Enl Kalle***
   * Lätt till måttlig hyponatremi (Na 125-135mM)
     * Reducering underhållsvätska, plasmalyte glukos: till 50-80% av normalt intravenöst vätskebehov

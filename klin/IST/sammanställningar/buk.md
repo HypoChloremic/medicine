@@ -226,3 +226,95 @@
 
 ***Behandling***
 
+
+
+## Smärta epigastriskt
+
+### Fall 1
+
+***Presentation***
+
+* 64-årig man/kvinna som söker VC pga smärta i epigastriet sedan ett par veckor. Anamnestiskt sura uppstötningar, brännande smärta retrosternalt, viss matlindring men också viss matleda pga lätt illamående intermittent, något oklart om viktnedgång, trötthet. Ingen övrig symptomatologi, miktion/avföring ua. Frisk i övrigt.
+
+
+
+
+
+***Utredning och handläggning***
+
+* Patientkommunikation
+  * Öppen fråga
+  * Tankar, oro, önskan
+  * sammanfattar tillämpligt
+* Anamnes
+  * smärtanamnes
+    * debut
+    * akut, subakut debut
+    * lokalisation vid debut
+    * eventuell smärtvandring
+    * karaktär
+      * konstant, intermittent
+      * utveckling över tid
+      * intensitet, ev VAS
+      * ngt som förvärarr förbättrar: evt matlidnring
+  * Associerade symptom
+    * illamående
+    * kräkningar
+    * sura uppstötningar
+    * bröstsmärtor
+    * förändrade avföringsvanor
+    * diarre, förstoppning
+    * blod i avföring
+  * Allmänna symptom
+    * feber, subfrebril
+    * viktnedgång
+    * trötthet
+  * Tidg nuv sjd
+    * ev tidigare op
+    * ikterus
+    * tidg undersökning magsäck tarm
+    * screening f-Hb
+  * Lkm, allergi
+    * inkl naturläkemedel
+    * överkänslighet
+  * Tobak, alkohol
+* Status
+  * Bukstatus
+    * Första del
+      * auskulterar
+      * perkuterar
+      * dunkömhet njurloger och arkii
+      * nämner PR: bedömmare anger UA
+      * förklarr undersökning för pat o är varsam vid undersökningen
+    * andra del
+      * Punktum maximum
+      * palperar systematiskt 2 varv
+      * ljumskar
+      * !! indirekt, direkt ömhet och släppömhet
+      * förklarr undersökning för pat o är varsam vid undersökning
+  * Hjärta
+    * 4 statuiner
+    * axiller
+    * carotider
+  * Lunga
+    * auskulterar o perkutterar
+* Kliniskt resonemang
+  * Stud ska mot bg av ålder, oklara symptom, presentera DD resonamng hos apat med möjlig
+    * dyspepsi
+    * reflux
+    * !! ulcus
+    * gallbesvär
+    * malignitet
+  * samt i anamnes i status ha identifierat riskfaktorer o symptom för detta
+* Bedömning o åtgärd
+  * stud gör en rimlig prel bedömning
+    * misstänka att besvären kmr fr magsäcken o att utredningen behöver göras snarast, samt att tap rover för att utesluta anemi samt elverpåverkan
+  * adekvat åtgärder
+    * blodstatus
+    * leverstatus: ASAT, ALAT, bilruv, ALP, pankreasamylas
+    * LPK
+    * CRP
+    * F-Hb
+    * gastroskopi
+* Pat kom
+  * involverar o motiverar för pat planering o beslut

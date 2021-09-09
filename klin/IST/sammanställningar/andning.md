@@ -147,3 +147,96 @@ Ont i halsen
     * KOL,
     * interstitiell/annan lungsjd inkl malignitet,
     * hjärtsvikt/angina, anemi 
+
+
+
+
+
+
+
+## ! Lungemboli
+
+### Fall 1
+
+***Presentation***
+
+* 51-årig kvinna, 
+  * gift 2 friska barn, går på Friskis pass 1-2 ggr per vecka. anamnesen gallop för 20 år sedan, varit besvärsfri sedan dess avseende detta. Pollenallergi. Loratadin vb. I övrigt väsentligen frisk. Aldrig rökt. Sparsamt alkohol, vin til fest i övrigt Ramlösa. För 7 dagar sedan kört ned till Skåne för att fira släktings födelsedag. Åter till Stockholm för 3 dagar sedan. Körde hem på natten, vaknade sedan med smärta i höger axel/bakom nyckelbenet till höger ut mot axeln. Smärtan lättar något när patienten sitter framåtlutad, patienten har ej kunnat sova i natt på grund av smärtan i vissa lägen, vilken även exaecerberas vid djupandning. Senaste 2 dagarna erfarit tilltagande andfåddhet och hjärtklappning i samband med gång i trappor. Ingen bröstsmärta. Under vistelsen i Skåne erfarit rethosta vilken tilltagit. Fullgod ROM och ingen som helst palpömhet skuldra. 
+
+***Utredning och handläggning***
+
+* **Pat kommunikation**
+  * Starta öppen fråga, bereder pat talutrymme för berättelse
+  * Tankar, oro, önskan
+    * klargör vad pat sj tänker kring symptom o problem
+    * klargör pats oro kring symptom o problem
+    * utforskar avad pat fill få ut av besöket
+  * Bekräftar pat känslomässigt, verbalt, icke verbalt
+  * gör rel sammanfatt
+  * förklarr o motvierar för pat de riktade med frågor som ställs
+  * förklarr o motiv utan med jargong, under klin undersök skeendet för pat
+  * !!för vissar sig om att pat fått disk sina frågor o ger ytryumme för pat att ställa ev kompletterande frågor
+* **Anamnes**
+  * **!! Inhämtar info ang smärta**
+    * debut (1 vecka sedan)
+    * karaktär (molvärk, skärande rörelsekorrelerad smärta med inslag av skärande värk vid djupandning)
+    * Progression över tid: tilltagit
+    * Förvärrar o förbättrar: stillhet, lätt framåtlutad
+  * **Inhämtar info avseende andfåddhet**
+    * tilltagit under veckan
+    * kaaraktär: jättedålig kondition
+    * förbvärrar förbättrar: tagit bilen t jobbet, orkar ej trapport
+  * **!! Inhämtar info om rethosta**
+    * torrhosta
+    * inga upphostningar
+  * Övriga hjärtkärl symptom
+    * bröstsmärta? nej
+    * ödem underben, fötter? ej förvärrats
+    * Tryck över bröstet?
+    * Nattliga symptom?
+  * Tidg nuv sjd:
+    * väs frisk, op lapgalla 20 år sedan, mindre hiatus hernia
+  * Övriga allmänna symptom
+    * viktnedgång
+    * feber
+    * nattlgia svetningar
+    * övriga infektionssymptom
+  * Tobak, alkohol
+  * Socialt
+    * yrke, ef tidg yreksexposition, radon
+  * Hereditet
+  * Aktuell medicinering 
+    * !! inkl receptfritt + naturläkemedle
+* Status
+  * Skulderregionen
+    * inspektion
+    * palpation
+    * pat instruear vid palp stud att eg palpsmärta ej föreligger o att fullständigt ROM finns
+  * Hjärta
+    * Korrekt auskultationsteknik 4 punkter, ausk carotider, axill
+  * Lungor
+    * Inkl perkussion lungor
+  * PP
+    * dekliva ödem
+    * halsvenstas
+  * Lymfkörtlar
+  * !! palpation underben
+* **kliniskt resonemang**
+  * Stud ska pres DD respnemang hos pat med möjlig 
+    * pulmonell etiologi
+      * LE, 
+      * pneumothorax
+      * malignitet
+      * infektion
+    * Muskuloskeletal etiologi
+    * kardiell etiologi
+  * samt i anamens ostatus ha identifierat risfaktorer o symptom för detta
+* **bedömning o åtgärd**
+  * Stud gör rimlig prel bedömning
+  * MÅste ha lungemboli som arbetshypotes
+  * Studentet föreslår adekvata åtgärder
+    * remiss till akutmottagningen
+* **Patientkommunikation**
+  * Mot bakgrund av vad som framkommit i anamenso s status
+  * motiverar  involverar patienten i fortsatt planering o beslutsfattande
+

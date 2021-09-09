@@ -589,7 +589,117 @@ Trötthet
   * gör relevanta sammanfattningar
   * förvissar sig om att patienten fått diskutera sina frågor o ger utrymme för patienten att ställa ev kompletterande frågor
 
-## ! Utmattningssyndrom
+
+
+
+
+### Fall 3
+
+***Presentation***
+
+* 57-årig man med stor stress i yrke, trivs på arbetet. Söker pga sömnsvårigheter sedan ett halvår. Snarkar ej. Bor med partner, mor och syskon i livet, syster hypothyreos, far död i arbetsplatsolycka så pat var 4 år. Har hund, i övrigt begränsat med fysisk aktivitet, riskbruk alkohol. Insomnia samt fragmenterad sömn. 
+
+
+
+***Utredning och handläggning***
+
+* Pat kommunikation
+
+  * Startar med öppen fråga, bereder pat talyutrymme för sberättelse
+  * Tankar, oro, önskan
+    * önskan: vad pat vill få ut av besöket
+  * Bekräftar, känslo, verb icke verb
+  * gör rel sammanfattningar
+  * förklararo motiverar för pat de riktade med frågor som ställs
+  * förklarar o motiv utan med jargong under klin undersök skeender för pat
+  * förvissar sig om att pat fått diskutera sina frågor o ger utrymme att ställa ev kompletterande frågor
+
+* Anamnes
+
+  * Huvudsymptom sömnsvårigheter
+    * Debut: ett par mån sedan, initialt intermittent
+    * karaktär: 
+      * somnar, 
+      * fraktionerad sömn
+      *  vaknar x flera, 
+      * ej utsövd, 
+      * ej egentligt tidigt uppvaknande
+    * progression över tid: nu varje natt
+  * Associerade symptom
+    * dagtrötthet
+    * inga övriga symptom
+    * stress
+  * Övriga symptom
+    * frusenhet
+    * svettningar
+    * hjärtklappning
+    * förstoppnig
+    * viktuppgång
+  * kartlägger lev vanor
+    * kost dryck: e.g. läsk, sportdryck, motion/träning
+  * inhämt alk anamnes
+  * tobak
+  * !! depressivitet
+    * kartlägger tidigt uppvaknande?
+    * aptitlöshet?
+    * nedstämdhet?
+    * pat förnkear bestämt nedstämdhet, suciidtrappa krävs ej för full poäng
+  * utforskar ev OSAS
+    * snarkning
+  * Tidg nuv sjd
+  * hereditet
+  * aktuell medicinering, inkl receptfritt o naturlkm
+    * T enalapril
+  * !! efterhör rökning, snus, nikotin
+    * aktiv, passsiv mängd
+
+* **Status**
+
+  * **Hjärta**
+    * korrekt auskultationsteknik
+    * 4 punkter
+    * auskulterar carotider, axiller
+  * **Lunga**
+    * perkussion
+    * auskultation
+  * **Mäter BT**
+    * sittande, arm i hjärthöjd, palpatoriskt försts
+  * **Thyroidea**
+    * Undersöker
+  * **!! Bukstatus**
+    * undersöker korrekt teknik
+    * 4 kvadranter
+    * ytlig o djup palp
+    * dunkömhet
+    * !! perkuterar arcus/hepar
+
+* **Pat kommuikation**
+
+  * mot bakgrund framkommit anamnes status, motiv o involv pat i fplanering
+
+* **bedömning o åtgärd**
+
+  * studenten gör en rimlig prel bed
+
+    * identifierar alkohol som potentiell orsak t sömnsvårt
+
+  * För full poäng: studenten föreslår adekvata åtgärder
+
+    * vårdnivå PV
+    * rek halvera mängd alkohol
+    * Hb, Tsh, T4
+    * om studentetn föreslår CDT, leverprover o diskuterar kring detta med pat på adekvat sätt kan även det inkluderas
+
+  * Studenten ger pat rimlig plan för uppföljning
+
+    * återbesök 3-4v
+    * 
+
+    
+
+
+
+## ! Utmattningssyndr
 
 ### Fall 1
 

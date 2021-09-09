@@ -102,6 +102,97 @@ Svullnad i extremitet
 
 <img src="./figs/sam_5luVFB4VdP.png" alt=5luVFB4VdP style="zoom:35%">
 
+## Bröstsmärta
+
+### Fall 1
+
+***Presentation***
+
+* 60-årig kvinna/man 
+  * med kontorsarbete, normalviktig, sparsamt fysisk aktivitet, gift. Delar en flaska vin med make/maka per vecka, rökare (5 cig/dag) fram tills för 4 år sedan då barnbarn fötts. Söker med 4-5 veckors anamnes med 5 episoder med initialt lättare kramande tryckande central bröstsmärta vid lättare ansträngning, initialt kommit vid promenad, symptomen exaecerberats över tid, igår tillkomst av vegetativa symptom med illamående, kallsvettighet i samband med att patienten skyndat fram till bussen, VAS 7 som värst, smärtan satt i över 20 minuter. Söker nu på VC. Inga besvär i vila. I anamnesen tablettbehandlad hypertoni, varit välreglerad. Patienten själv hade även fråga kring glutenintolerans. 
+
+
+
+
+
+***Utredning och anamnes***
+
+* pat kom
+  * Status med öppen fråga o bereder patienten talutrymme
+  * klargör vad pat sj tänker kring symptom o problem
+  * Tankar, oro, önskan
+  * bekräftar känslmässigt
+  * etc etc
+* Anamnes
+  * huvudsymptom, smärtan
+    * Socrates
+    * lokalisation: retrosternalt
+    * Karaktär: tryckande, kramande
+    * Intensitet: VAS 6-7, vid max
+    * Duration: va 15min
+    * Förlopp över tid: förvärrats
+  * Utlösande faktorer
+    * Förbättrar, försämrar? vila aktiviett
+    * klarlägger ansträngningskorrelation
+  * associerade symptom, vegetativa symptom
+    * kallsvettig: ja
+    * illlamående: ja
+    * smärtutstrålning: nej
+  * Associerade symptom
+    * Hjärtrytm, känsla av arrytmi: nej
+    * bensvullnad: nej
+    * andfåddhet: ej ökad
+    * utforskar stressnivå
+    * trötthet
+    * viktnedgång
+    * feber
+  * förändrade avföringsvanor
+    * Förstoppning, diarre
+    * inget som ändrats, normala avföring, gaser då  o då
+  * tobak, alkohol
+  * hereditet: kardiovaskulärt
+  * Socialt
+    * yrke
+    * fysisk aktivitet
+  * Medicinering
+    * dosering, frekvens, compliance
+    * naturlkm
+    * receptfria lkm
+* Status
+  * Hjärta
+    * korrekt 4 stationer
+    * carotider
+    * axill
+  * halsvensstas
+  * perifera ödem: dekliva ödem
+  * lungor
+    * auskultation
+    * perkussion
+  * Bukstatus
+    * adekvat teknik
+* Kliniskt resonemang
+  * 2 min efter avslutad konsultation
+    * hos pat med retrosternal smärta förstå att i ett initialt skede inkludera röda flagga avseende kardiell vid diffdiagnostik
+    * att kunna värdera anamens o statusfynd
+    * identifiera ev riskafktor: gm efterhåra ang
+      * rökning
+      * fysisk aktivitet
+      * hereditet
+      * psykosocial stress
+    * samt prioritera avseende akut, allvarligtm vankligt
+    * korrekt vårdnivp
+* Patkommunikation
+  * inkluderar o involverar pat
+* Bedömning o åtgärd
+  * rimlig prel bedömning
+    * Beaktar anamnes
+    * misstänka instabil angnia tills motsatsen bevisad
+  * föreslår rimlig handläggning
+    * EKG
+    * inremitterar patienten till AKM
+
+
+
 ## Bukaorta
 
 ### Bukaorta aneurysm

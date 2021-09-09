@@ -1,0 +1,111 @@
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
+### Diagnoser
+
+Blekhet
+Blödningsbenägenhet
+Feber
+Förstorade lymfkörtlar
+Knöl i ljumsken
+Knöl på halsen
+
+
+
+## B symptom
+
+### Fall 1
+
+***Presentation***
+
+* 70-årig änka med hypothyreos, Levaxinbehandling sedan 5 år tillbaka söker pga nattsvettningar sedan 2 månader vaknar så gott som varje natt genomsvettig får byta lakan och nattlinne. I samband med detta även hjärtklappning vilken sitter i upp till en halvtimme. Ett par kilos viktnedgång i samband med väninnas bortgång i hjärtinfarkt för 3 månader sedan. Inga övriga symptom
+
+
+
+***Utredning och handläggning***
+
+* **Patientkommunikation**
+  * öppen fråga
+  * tankar, oro, önskan
+  * bekräftar, verbalsierar
+  * sammanfattningar
+  * förklarr, motiverar de riktade medicinska frågor som ställs
+    * e.g. motiverar frågor om tobak och alkohol
+  * förkalarr o motiverar utan med jargong klinisk undersökning skeender för patientn
+  * förvissar sig om att patientn fått diskutera sina frågor o ger utrymme för pat att ställa ev kompletterande frågor
+* **Anamnes**
+  * Huvudsymptom	
+    * nattsvettningar, duraton, förlopp över tid?
+    * hjärtklappning?
+    * Rytm karaktär: regelbunden, oregelbunden
+    * duration förlopp över tiden
+  * Associerade symptom
+    * Bröstsmärta
+    * andfåddhet
+    * yrsel
+    * !! onormala blåmärken
+    * !! blödning i munslemhinnan
+  * !! Allmänna symptom
+    * Trötthet
+    * viktnedgång
+    * feber
+  * Tidg nuv sjd
+    * hypothyreos
+  * Hereditet
+    * kardiovaskulärt,
+    * endokrint
+  * Tobak, alkohol
+  * medicin: dosering, typ, frekvens, 
+    * naturlkm
+    * receptfria på apoteket
+* Status
+  * Hjärta
+    * 4 stationer
+    * carotider
+    * axill
+  * lungor
+    * inkl perkussion
+  * Lymfkörtlar, palpation
+  * mun o svalg, MoS
+  * Thyroidea: palpation
+  * bukstatus
+* Kliniskt resonemang
+  * i 2 minuter efter avsltuadk onsultation:
+    * hos pat med nattsvettning, hjärtklappning, trötthjet
+  * inkluderar
+    * malignitet e.g. lymfom
+    * ev kardiell etiologi
+    * infektion
+    * endokrin etiologi
+    * psykogen etiologi, 
+    * ångest
+    * risk, missruk alkoholkonsumtion
+* Bedömning o åtgärd
+  * rimlig prel bedömning
+    * malignitet måste utesltuas
+    * kontrolera thyroidea substitutionsnivå
+    * initiera provtagning
+  * Adekvata åtgärder
+    * initial provtagning + EKG
+    * Labb (för full poäng): CRP, SR, Hb, TSH, frit T4, LPK, TPK, B-celler, B-glukos, elektrolyter
+  * rimlig plan för uppföljning
+    * telefonuppföljning om ngåra dagar
+    * beroende av provsvar
+    * ställningstagande till nästa åtgärd
+* Patientkommunikation
+  * mot bg av vad som framkommit i anamenso status
+    * motiverar o involvear pat i fortatt plan o beslutsfattande
+
+
+

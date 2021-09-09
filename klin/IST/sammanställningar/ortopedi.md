@@ -318,9 +318,178 @@ Omedelbart fortsatt åtg
 
 
 
+
+
+### UCL
+
+#### Fall 1 
+
+***Presentation***
+
+* Man/kvinna vilken en vecka tidigare fallit på blöt berghäll i samband med att hen bar en stor gren. Tog emot sig med öppet tumgrepp. Initiala smärtan klingat av något, söker nu med kvarstående värk vilken ökar vid användning av handen. Distinkt palpömhet över UCL. Uttalad smärta samt stabilt vid ulnarvackling. Smärta vid abduktion, vissa svårigheter att hålla tumme/pekfingergrepp samt opposition, ffa pga smärta
+
+
+
+***Utredning och handläggning***
+
+* Pat kom
+  * sedvanligt
+  * tankar oro önskan
+  * sammanfattar
+* Anamnes
+  * !! Huvudsymptom
+    * smärta, 
+    * lokalisation, 
+    * debut, 
+    * duration
+    * kvalitet, 
+    * utstrålning
+    * förbättrar, 
+    * försämrar
+  * !! ev domningar, lokalisation, duratio, dygnsvariation
+    * pat har ej domningar
+  * Kraft: 
+    * !! upplevd försvagning påverkan på muskelkraft
+  * domniant hand yrke
+  * socialt: 
+    * nuvarande arbetsförmåga
+    * behov av ss
+  * Tobak, alkohol
+  * tidg nuv sjd
+  * LKM, allergi
+* Status
+  * handled
+    * inspektion
+    * rörlighet
+    * flexion
+    * extension
+    * pronation, supination
+    * test av tummens rörlighet: flexion, extension, samt abduktion addukton
+  * palpaton
+    * generell palpation handled o hand 
+    * över ulnara kollaterala ligamentet
+  * !! specifika test
+    * !! radialvackling semiflekterad och extenderad tumme
+    * jfr med frisk sida
+  * !! distalstatus
+    * cirkulationm
+    * sensorik + motorik
+      * medianius
+      * radialis
+      * ulnaris
+* Kliniskt resonemang
+  * mot bg av anamens o status, förmåpr identiifera antosimka strukturer o givet dessa samt traumats karaktär an formulera en relevant arbetshypoptes
+* patkom
+  * mot bg av vad som framkommit i anamnes o status, motiverar o involverar i plan
+* bedömning o åtgärd
+  * adkevata åtgärder
+    * immobiliserande örband
+    * ordinerar immobilisering
+    * remiss t AKM: bedömning, gipsskena, handskgips
+      * föregånget av rtg
+      * adekvat frågeställning
+      * gupstuid behöver ej anges
+    * Remiss t ortmottagning samt handkirurg
+      * adekvat med rele frågeställning 
+    * även remiss för immob skena hos arbetsterapeut godkäns vid klar diagnos o ordinatioin immobilisering
+    * stud disk behov smärtlindring: paracetamol
+  * Utför adekvat
+    * identifierar misstänkt ledbandsskada
+    * immobiliserande förband
+    * remiss t ortoped alt handkirurg för bedömbnibng (akm / mottanging)
+    * gipstid: 1v+3v skena, 4v gips, 6v gips... (behöver ej anges)
+
+## Höft
+
+### Höftfraktur
+
+#### Fall 1
+
+***Presentation***
+
+* Tidigare frisk 63-årig man vilken för en vecka sedan kommit gående på trottoar för att korsa gatan, initialt över cykelbana, kom då cyklist i mycket hög hastighet varvid patienten hoppade undan och tog ett felsteg mot trottoarkanten och föll på sidan. Fick ett stort hematom på utsidan av höften. Sökte på närakuten och man röntgade höften. Man fann ingen fraktur och patienten har därefter mest suttit i sängen och arbetat hemifrån. Söker nu då belastningssmärtan kvarstår oförändrad snarast något värre, även värk i vila efter att ha gått lite. Patienten är orolig över värk samt planerat att resa på en arbetsresa till Japan nästa vecka, undrar om detta är görligt. Patienten går mycket försiktigt och haltar avlastande. Distalstatus ua. Smärtar vid tryck över ljumske/höft, vid rörelse ffa vid inåtrot, något mindre vid utåtrot. Flexion/extension
+
+
+
+***Utredning och handläggning***
+
+* **Patkom**
+  * öppna frågor
+  * tankar, oro, önskan
+  * sammanfattar
+* **Anamens**
+  * **Trauma anamnes**
+    * lokalisation
+    * debut
+    * tid lkn besvär
+    * typ av våld: fall i samma plan
+    * ev vridvåld, fallriktning
+  * **Smärtanamnes**
+    * karaktär
+    * utveckling över tid
+    * utstrålning
+    * förbättrar förvärrar
+    * VAS
+  * **Associerade symptom**
+    * Andra symptom
+    * smärta ngn annanstans
+  * **Tidg nv sjd,**
+  * **aktuell medicinerng**
+  * **allergi**
+  * **socialt**
+    * ex ensamboende, trappor, hiss, yrke
+  * **hereditet**
+    * fraktur, osteoporos
+  * **tobak alk**
+  * **!! tidg gångfunktion o ADL**
+* **Status**
+  * **Höftstatus**
+    * inspektion
+    * tittar efter benlängsskillnad: förkortat, utåtroterat ben, dock sällan vid inkilad fraktur
+    * hematom
+    * palpation
+    * motorik, ROM: 
+      * flektion, 
+      * rotation in ut, 
+      * abduktion adduktion, 
+    * palp 
+      * ljumske 
+      * trokanter maj
+      * femur
+  * **Status ljumske, höft, buk**
+    * palperar crista
+    * ala
+    * symfys
+    * utför kompressionstet
+    * palperar buk, ljumske: tillämpligt
+  * **Distalstatus**
+    * pulsar samt känner på hudtermp jmfr vä hö
+  * **Känsel o funktion**
+    * känselpröv grovt
+    * pat är gående
+  * **patkom**
+    * Involverar fortsatt plan o beslut
+* **Bedömning o åtgärd**
+  * Stud gör adekvat prel bedömning
+    * förestår fraktur måste uteslutas
+    * planerar rtg på VC idag
+    * OK om remitterar direkt t AKM
+    * !! besvara pat fråga om möjligt åka tjänstresa om slätrtg är ua
+      * stug bör ge svar att MRT, annan rtg, i så fall behöver göras, pga status
+  * Ta ställnig t behov av smärtlindring
+    * paracetamol fulldos, eller morfin derivat
+* **Klinsiskt resonamng**
+  * falltrauma pat
+  * tilltagande smärta
+  * resonera kring akut allvar 
+  * behöver ändå utesltua fraktur
+  * ingen misstanke annan skada, sjd
+
+
+
 ## Knä
 
-### Knäbesvär
+### Fall 1
 
 ***Presentation***
 
@@ -405,7 +574,7 @@ Omedelbart fortsatt åtg
 
 
 
-### Knäbesvär 2
+### Fall 2
 
 
 
@@ -485,4 +654,159 @@ Omedelbart fortsatt åtg
 * Modifera träning
 * Remiss t sjg
 * Ev rtg
+
+
+
+### Fall 3
+
+***Presentation***
+
+* Tidigare väs frisk 60-årig kvinna vilken i samband med vandring för 3 år sedan erfor smärta och svullnad i vänster knä medialt. Besvären gick i regress. Söker nu då hon för ca en månad sedan fått ett felskär i samband med skridskoåkning, hamnat i pronationsläge med hö knä. I samband med detta smärta och lätt svullnad medialt, lånat krycka av dotter. Erfar kvarstående smärta medialt efter ca 500 m gång. Ingen svullnad nu. 
+
+
+
+
+
+***Utredning och handläggning***
+
+* **Patientkommunikation**
+  * Startar med öppen fråga och bereder patienten talutrymme för sin berättelse
+  * klargör vad pat sj tänker kring symptom o problem
+  * klargör pats oro kring symptom o problem
+  * utforskar vad pat vill få ut av besäket
+  * bekräftar pat känslomässigt, verbalt icke verbalt
+  * gör relevanta sammanfattningar
+  * förvissar sig om att patientne fåt tdiskutera sina frågor o ger utrymme för pat att ställa ev kompletterande frågor
+  * mot bakgrund av vad som framkommit i anamnesen o status, förklarar moiverar o involverar pat i fortsatt planering o beslutsfattande
+  * delaktighet enl patientlagen
+* **Status**
+  * !! föreslår besvärsritning o tolkar denna
+  * **fysisk undersökning**
+    * **inspektion ben framifrån, bakifrån,**
+      * ev atrofier
+      * konfiguration: varus, valgus
+      * stående, gående
+      * knäböj x flera
+      * postural kontroll
+    * **inspektion underben, knä**
+      * **palpation knä, underben**
+        * kompressionsömhjet
+        * instabilitet
+        * patellae
+        * palpationsömhet över mediala ledspringan
+      * **undersöker rörlighet**
+        * pat egen aktiva
+        * fynd lätt extensionsdefekt
+        * testar isometriska kontraktionstest
+        * pröver stabilitet
+          * sidovackling
+          * draglåda, lachman
+        * menisktest
+    * **Distalstatus, nerv, nedre extremitet**
+      * peridera pulsar
+      * grovkraft
+      * sensibilitet
+    * **höfter**: 
+      * översiktligt status, palpation, ROM axial kompressionsömhet
+    * **fot**: 
+      * inspektion led, ROM
+  * **Preliminär diagnos o bedömning**
+    * **gör rimlig prel bed**
+      * !! aktuellt: status post lindrig skada mediala kollaterala ligament
+      * DD: 
+        * sannolikt även artros (fleråriga besvär)
+        * ev skelettskada, skelettaffektion?
+        * ev systemsjukdom
+    * **Föreslår adekvata åtgärder**
+      * vårdnivå: 
+        * PV, 
+        * konservativ behandling, 
+        * sjukgymnastik
+          * eccentrisk träning
+      * Ev smärtlindring ex alvedon, NSAID
+      * ha knäet lindat, ev ortos
+        * för att motverka svullnad vid ansträngning
+    * **Ger rimlig plan för uppföljning**
+      * sjukgymnstik
+      * uppfölj efter rtg tele
+      * därefter ev ytterligare åtgärd om tex artros. 
+
+## Ledvärk
+
+### Borreliaartrit
+
+#### Fall 1
+
+***Presentation***
+
+* 64-årig kvinna/man söker på VC pga 3-4 veckors anamnes med sjukdoms- /feberkänsla och senaste dagarna tillkomst av artralgi i knä- och armbågsregion. I  riktad anamnes framkommer tidigare fästingbett. Status underben; exantem ca 10 cm i diameter med central rodnad, utanför detta blekare rött med rodnad yttre randzon.
+
+
+
+***Utredning och handläggning***
+
+* **Patkom**
+  * öppna frågor
+  * tankar oro önskan
+  * sammanfattningar
+* **Anamnes**
+  * **Huvudsymptom**	
+    * ont i leder o trötthet feberkäönsla
+      * ont i leder: duration. förlopp över tid
+      * trötthet, feberkäönsla: duration, förlopp över tid
+      * utlösande faktorer: förbättrar försämrar
+  * **associerade symptom**
+    * svullnad
+    * rodnad,
+    * värmeökning
+    * morgonstelhet
+    * magtarmsymptom
+    * infektionssymptom
+  * **Associerade symptom Hud**
+    * fästingbett
+    * hudutslag
+  * **Associerade symptom: Huvudvärk**
+  * **Allmänna symptom**
+    * viktnedgång
+    * feber
+  * **Tidg nuv sjd**
+  * **hereditet**
+  * **social inklt**
+    * yrke
+    * fys akt
+  * **tobak, alk**
+  * **medicinering**: 
+    * typ, dos, compliance, naturlkm
+* **Status**
+  * **Ledstatus**:
+    * knä/armbåge 
+    * screenar övriga leder
+    * !! inspekterar, palperar, undersöker ROM
+  * **Hudstatus**
+    * inspekterar hudkostym
+  * **Palperar lymfkörtlar**
+  * **Hjärta, lungor**
+  * **Thyroidea**
+* **Patkom**
+  * samtycke, delaktighet
+* **Bedömning, åtgärd**
+  * studenten msstänker borrelia men annan etiologi kan ej säkert uteslutas
+  * **Adekvata åtgärder**
+    * **Provtagning**
+      * CRP, 
+      * SR
+      * TSH, fritt T4
+      * blodstatus
+    * **Behandling**
+      * Doser krävs ej
+      * vid tolkning som borrelia artrit o tar serologi
+        * PcV 1gx3 i 10d
+      * behandling med doxyferm är detta ok
+    * **Rimlig plan o uppföljning**
+      * efterhör arbetsförmåga
+      * teleuppföljning prover
+      * uppmar pat att höra av sig, söka vid försämring
+  * **Kliniskt resonemang**
+    * hos pat med sjd känsla, ledvärk, hudutslag resonerar borrelia
+    * DD hypothyreos, annan infektion / ledinflammation
 

@@ -1,3 +1,17 @@
+***Presentation***
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+***Behandling***
+
+
+
 ### Diagnoser
 
 Blekhet

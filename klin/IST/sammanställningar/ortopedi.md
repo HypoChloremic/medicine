@@ -202,7 +202,59 @@ Omedelbart fortsatt åtg
 
 
 
-## Hand
+## ! Allmänt
+
+* 
+
+## Hand Arm
+
+
+
+### Armbåge
+
+#### Fall 1
+
+***Presentation***
+
+* Studentinstruktion Du är AT-läkare på akutmottagningen och ska bedöma en patient, som söker för besvär med sin armbåge. Genomför en konsultation! Examinator kommer då 3 minuter återstår att ställa ett par frågor. 
+
+
+
+***Översikt***
+
+* Studenten ska för godkänt inhämta en adekvat anamnes och genomföra ett adekvat status samt förklara för patienten och överenskomma om fortsatt åtgärd.
+* Studenten ska komma fram till diagnosen tendinos i laterala epikondylen (tendinit kan godkännas med viss tvekan).
+* !! ?? Studenten ska kunna förklara skillnad mellan tendinit och tendinos –
+
+
+
+***Utredning o handläggning***
+
+* Anamnes och status
+  * När/var/hur uppkommer besvären?
+  * Domningar/parestesier i hand eller fingrar?
+  * Socialt: Dominant hand, yrke
+  * Rökning och alkohol
+  * Tidigare och nuvarande sjukdomar
+  * Läkemedel och allergi
+  * Inleder med öppna frågor
+* Handstatus
+    * Inspektion: svullnad, rodnad
+    * Rörlighet: Flexion+extension, pro-och supination armbåge
+    * !! Palpation: Laterala epikondylen, extensormuskulatur
+    * Specifika test: Dorsalextension handled mot motstånd, supination mot motstånd
+    * Distalstatus: Motorik och Sensorik - Nn radialis, medianus och ulnaris,
+    * Kärlstatus: A radialis (a ulnaris),
+* Bedömning
+    * !! Informerar patienten om rimlig diagnos (tendinos/lateral epikondylit)
+    * Föreslår remiss till sjukgymnast för eccentrisk träning
+    * Föreslår analgetica (0.25), nekar kortisoninjektion (0.25)
+    * Diskuterar arbetssituation/sjukskrivning
+    * I samråd med pat överenskommer om fortsatt handläggning
+* Patofysiologi
+    * Orsakas av strukturella förändringar i senan. 
+    * !! Kärl och nervinväxt i extensormuskulaturens
+    * sena, ffa extensor carpi radialis brevis, där retraktion av dessa strukturer uteblir jämfört med normal inflammatorisk process
 
 ### Domningar hand
 
@@ -318,6 +370,112 @@ Omedelbart fortsatt åtg
 
 
 
+### Scaphoideum
+
+***Presentation***
+
+* du är AT-läkare åp akuten, 
+* ska bedöma en pat som idag ramlat ute o tagit emot med höger hand
+
+
+
+***Utredning och handläggning***
+
+* Inhämtar anamens o fkouserat status
+* Anamnes
+  * Hur var skedde skadan
+  * Smärtanamnes
+    * SOCRATES
+    * locale
+  * domningar, parestesier i hand eller fingrar
+  * Socialt
+    * dominant hand
+    * yrke
+  * Tobk, alkohol
+  * Tidg, nuv sjd, frakturer
+  * Lkm, allergi
+* !! Status
+  * Inspektion
+    * kontroll för hematom
+    * sår
+    * felställning, rotationsfelställning
+  * Rörlighet
+    * flexion + dorsalextension handled
+    * flexion + extension fingrar
+  * Palpation
+    * fossa tabtiere
+    * volart scaphoideum
+    * axiell kompression
+    * distala radius
+    * !! UCL
+    * !! CMC1
+  * Distalstatus
+    * Motorik + sensorik 
+      * radialis
+      * medianus
+      * ulnaris
+    * 2PD
+    * pulsationer i a radialis (a ulnaris)
+* Prel bedömning o åtgärd
+  * Kompletterar status med skriven rtg remiss
+    * Önskad undersökning
+    * frågeställnign
+    * anamens o status
+  * Bedömer rtgbild o ger pat info o bg av anamnes, status, och rtgfynd
+  * Diskuterar o informerar pat om rimlig diagnos
+    * scaphoideumfraktur trots normal rtg
+    * efterhör om pat har frågor
+  * gipsbehandling trots neg rtg
+  * beskriver uppföljning med MR eller återbesök om ca 10d  med rtg utan gips o nytt status över scapoideum
+  * överenskommer i samråd med patienten om planering för fortsatt handläggning
+  * Rörelseinstruktioner, sjukgymnastik
+  * Diskuterar smärta, ev medicinering
+  * diskuterar arbetsförmgåga, sjukskrivning
+  * beskriver anatomin o dess relevans för möjlig komplikation för tänkbara diagnos samt namnger strukturerna A-D
+  * !!! **anger rätt namens på angivna carpalben**
+    * beskriver att kärlförsörjninen t scaphoideum kmr fr distala polen o löper intraosseöst mot proximala polen
+    * en fraktur i scaph kan riskera kärlförsörning t proximala fragment med risk för pseudoartros
+
+
+
+***Återkoppling***
+
+* De flesta inhämtade en god anamnes. 
+  * Viktigt att beakta frågor avseende distalstatus vilket många studenter glömde. 
+  * Vid handskador ska även fråga om dominant hand vara med vilket någon enstaka student kom ihåg. 
+  * De allra flesta frågade om tidigare sjukdomar, mediciner och allergi som förstås alltid ska finnas med i anamnesen. 
+  * Det var endast enstaka studenter som frågade om rökning och alkohol, detta bör ingå i all anamnes.
+* Statusdelen
+  * De flesta studenterna genomförde ett adekvat generellt status med Inspektion, Rörlighet, Palpation och Distalstatus. 
+  * För scaphoideum skulle helst 3 test utföras dvs 
+    * palpation i Fossa Tabetiere, 
+    * palpation volart över scaphoideum och 
+    * axiell kompression 
+    * dvs att med hjälp av metacarpale 1 trycka mot trapezium och mot scaphoideum. 
+  * !! Flera studenter stannade av i palpation när de väl hade ett positivt fynd- obs-hela handen och underarm måste palperas igenom
+* **Rtgremiss**
+  * undersökning av handled hand o scaphoideum bör ha begärts
+    * för caph tas särskilda bilder
+  * anamnes ska kort beskriva vad som hänt o sedan VAR pat är palpöm så att rtgsktöerskan radiologen kan fokusera just på d området
+  * det är viktigt att veta vilke anatomisk stuktur som är om under huden
+* **Behandling**
+  * aktuell pat var öm över scaph vid alla tre test o hade en rtg som var normal
+  * i konsult ska det då ingå att förklara för pat vilket ben som kan var askadata o att det trots negativa rtg är indicerat att beh med gips
+  * mga stud har angivit alldeles för kort gipstid allt fr 2-6v. i dessa fall msåte man informera att gipstid kan bli 12v o ibland mer
+  * här ska också beskrivas för pat hur den ska öljas upp ca 10d t ortopedmottagning med ny rtg el MR samt klinisk ctrl, då ställningstagande t fortsatt gipstid eller avgips
+  * flesta kom ihåg smärtlindring inför pats hemgång, 
+    * paracetamol föredras
+  * några studenter kom ihåg sjukskriv o enstaka gav rörelseinstruk hur pat ska röra fingrar, armbåge, axel, efter gips
+  * båda är viktiga inför pats hemgång. 
+* **Anatomi**
+  * för att kina så precist så rär anatomi kunskaper A o O
+  * som doktor bör förklara för pat vf just den här fraktur räver minst dubbelt så lång läkningstid jfr andra frakturer som pat kanske haft ökar compliance för den långa gipstiden
+  * en beskrivning om hur kärlförsörj komr distalt fr o löper intraosseöst t proximal pol. 
+  * midjefraktur klipper av färl t proximal pol
+  * o därmed ökar risk för pseudoartros o nekros
+  * vilket kan orsaka smärttillstånd för pat
+  * aktuella carpalben: trapezium, scaph, lunatum, pisiforme. 
+
 
 
 ### UCL
@@ -398,6 +556,12 @@ Omedelbart fortsatt åtg
     * immobiliserande förband
     * remiss t ortoped alt handkirurg för bedömbnibng (akm / mottanging)
     * gipstid: 1v+3v skena, 4v gips, 6v gips... (behöver ej anges)
+
+
+
+
+
+
 
 ## Höft
 
@@ -484,6 +648,89 @@ Omedelbart fortsatt åtg
   * resonera kring akut allvar 
   * behöver ändå utesltua fraktur
   * ingen misstanke annan skada, sjd
+
+
+
+
+
+### Fall 1
+
+***Presentation***
+
+* Tidigare väs frisk 62-årig kvinna vilken för 2 dagar sedan halkat på isfläck ute vid promenad. Halkade och föll bakåt åt vänster sida. Har fortsatt ont ffa vid belastning. Smärta känns mest i ljumsken. Patienten har lånat krycka och gått med. Ingen domning, ingen annan symptomatologi. Patienten varit på röntgen för några dagar sedan via vårdcentralen och fick då veta att det ej var något brutet. Söker då värken kvarstår och snarast ökat. VAS 4
+
+
+
+***Utredning o handläggnign***
+
+* Patkom
+  * tankar, oro, önskan
+  * sammanfattar
+  * öppna frågor
+* Anamnes
+  * Traumaanamens
+    * typ våld
+    * fall samma plan
+    * ev vridvåld, fallriktning
+  * Smärtanamnes
+    * karaktär
+    * utv över tid
+    * VAS
+    * vad förbättrar försämrar
+  * associerade symptom
+    * !! smärta ngn annanstans
+  * tidg sjd, aktuella lkm, allergier
+  * ! tidg frakturer
+  * socialt
+    * ensamboende
+    * trappor, hiss, yrke
+  * Hereditet
+    * fraktur
+    * osteoporos
+  * tobak alk
+  * tidigare gångfunk ADL
+* Status
+  * Höftstatus
+    * förkortat el utåtrot ben
+    * dock sällan vid inkilad fraktur
+    * inspektion
+    * hematom?
+    * palpationbenlängsskillnad
+    * motoriskt test
+      * flexion
+      * rotation
+      * in ut
+      * abduktion adduktion
+      * palpation 
+        * ljumske
+        * trokanter major
+        * femur
+  * Bäcken palpation
+    * crista
+    * ala
+    * symfys
+    * kompressionstest
+  * Distalstatus
+    * pulsar
+    * hudtemp
+    * jmf hö vä
+  * Känsel o funktion
+* Kliniskt resonemang
+  * felställning?
+  * behöver utesltua fraktur
+  * ingen misstanke annan skada sjd
+* patkom
+  * inolverar beslut
+  * förklarar diagnos, ger underlag att vara med beslut
+  * efterhör fler frågor
+* Bedömning o åtgärd
+  * misstänker fraktur
+  * planerar MR/DT
+  * ok både emd inläggning alt hemgång med kryckor o avlastning av benet, åter nästa dag
+  * erbjuder smärtlindring
+    * paracetamol/citodon
+    * eller morfinderivat är ok
+    * utifrån vald handläggning motivation planering
 
 
 

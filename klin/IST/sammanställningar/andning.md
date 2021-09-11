@@ -189,20 +189,20 @@ Ont i halsen
   * **!! Inhämtar info om rethosta**
     * torrhosta
     * inga upphostningar
-  * Övriga hjärtkärl symptom
+  * **Övriga hjärtkärl symptom**
     * bröstsmärta? nej
     * ödem underben, fötter? ej förvärrats
     * Tryck över bröstet?
     * Nattliga symptom?
-  * Tidg nuv sjd:
+  * **Tidg nuv sjd:**
     * väs frisk, op lapgalla 20 år sedan, mindre hiatus hernia
-  * Övriga allmänna symptom
+  * **Övriga allmänna symptom**
     * viktnedgång
     * feber
     * nattlgia svetningar
     * övriga infektionssymptom
-  * Tobak, alkohol
-  * Socialt
+  * **Tobak, alkohol**
+  * **Socialt**
     * yrke, ef tidg yreksexposition, radon
   * Hereditet
   * Aktuell medicinering 

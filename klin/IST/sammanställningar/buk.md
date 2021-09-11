@@ -228,9 +228,9 @@
 
 
 
-## Smärta epigastriskt
+## Buksmärta
 
-### Fall 1
+### Fall 1 - GERD
 
 ***Presentation***
 
@@ -318,3 +318,451 @@
     * gastroskopi
 * Pat kom
   * involverar o motiverar för pat planering o beslut
+
+
+
+
+
+### Fall 2 - pankreatit
+
+***Presentation***
+
+* 61åå man
+  * med buksmärta
+  * inkomstprover
+    * BT 110/75.
+    * puls 88
+    * T 37.8
+    * AF 19
+    * U-stick: ua
+* genomför pat konsultation innefattande
+  * anamnes, statsu, besked, förklara i din dialog med pat hur du resonerar kliniskt, vad du vill utreda o hur
+
+
+
+***Översikt***
+
+* Stud ska göra en konsultation
+  * hälsa
+  * inhämta anamnes
+  * genomföra status
+  * o i dialog med pat berätta vad som ska hända nu 
+    * dropp
+    * mediciner
+    * fasta
+    * inlähhnin
+    * bilddiagnostik
+* Prel diagnos akut pankreatit
+* DD
+  * gallstensanfall
+  * ulkus
+  * kolecystit och (divertikulit)
+* Bilddiagnostik: 
+  * UL: 
+    * gallsten i fallvägar 
+    * gallblåsa
+    * ev akut papillotomi
+  * IDT, godkänns som bilddiagnostik
+  * DT bör dock optimalt utföras efter 2 dygn för att se om nekroser, cystor, mfl komplikationer
+* Frågor t studenten då det är 3 minuter kvar (om inte svar redan berörts av stud i dialog med pat)
+* Prover
+  * serumamylas: 3ggr vöver bnormalgräns vid totalamylas
+  * tsmns anamnes o status ger diagnos
+  * komplettering med 
+    * elstatus
+    * infektionsprover
+    * leverprover
+    * Hb
+    * kreatinin
+* Behandling
+  * Vätska, behöver mkt vätska (ofta ödem i viscera o förluster)
+  * e.g. 4L för en 70kg man. 
+  * fasta pga paralys o illamående
+  * smärtlindring cv e.g. 5-10mg morfin.  även före transport t bilddiagnostik avd
+* prognos
+  * enkel pankreatit, ödematös: god
+  * svår, hemorrhagisk, nekrotisk: 50% mortalitet, 
+    * efter va 2d stigande feber, CRP o multipel organsvikt. 
+
+
+
+***Utredning och handläggning***
+
+* Anamnes, status, och handläggning
+* låter pat berätta om symptomen o tar reda på pats tankar, önskan, oro
+* Fokuserad smärtanamnes
+  * Debut o nuvarande PM
+  * smärtutv
+  * intensitet
+  * molande, intensiv
+  * utrstrålning
+* övriga symptom
+  * gastrointest problem
+  * ex illampende, kräkningar
+  * avföring
+  * födointolerans
+  * miktion
+* tidg nuv sjd, operationer
+* aktuella lkm
+* allergier
+* AT, cor, pulm
+* Bukstatus 1
+  * frågar om smärtmax
+  * tittar på pats mimik vid us
+* Bukstatus 2
+  * inspek
+  * ausk
+  * perkussion
+  * dunköm
+* Bukstatus 3
+  * palp ytligt varv
+  * palp djupt varv
+  * påpekar PR
+* Trolig diagnos
+* fotrsatt utred
+* smärtlindr
+* inlägg
+* dropp
+* frågar om pat har några frågor el funderingar, säger adjö
+* prover
+  * S-amylas
+  * elstatus
+  * krea
+  * CRP
+  * leversatus
+  * Hb
+  * ?? U-sticka [a suggestion fr min sida]
+* bilddiagnostik UL DT
+* smärtlindr
+* vätska o fsata
+* prognos
+
+
+
+
+
+***Återkoppling***
+
+* Denna återkoppling verkar gälla ett annat fall, som hade att göra med stensmärtor..
+* Det rörde sig alltså om en 62åå tid väs frisk man, som söker med 2h ananes med plöts debuterande högersd buksmärta högt upp höger i buk, stlande ut i hö flank
+* smärtorna steg under 15min tid o ligger sedan dess oförändrat hög nivå
+* VAS 7
+* !! Fokuserad smärtanamnes
+  * väsentligaste i utred av akut buk
+  * många duktiga inämta detta
+* Urinsticka för Hb
+* palpationsöm dunköm höger flank ner mot höger ljunsken
+* Diagnos
+  * typisk anamnes os tatus för uretärsstensanfall, vilket stärks av blod i sticka, men beakta 25% av njurstensanfall har inte hematuri
+* diffar
+  * gallstensanfall
+  * appendicit
+  * aortaruptur
+  * a iliaca dissektion
+  * !! Hos män i denna ålder är iliacadissektion en viktig differentialdiagnos vid buksmärta, patientens AT viktigt- denna patient hade ont men var inte på något vis allmänpåverkad vilket talar emot dissektion. 
+* Behandling
+  * Smärtlindring med NSAID i 1a hand, 2a hand morfin
+* bilddiagnostik
+  * DT-urinvägar, ev urografiktrl görs sällan
+    * om ca 12d
+    * en totalavstängd njure tål 2-3v avflödesstopp med svar t o  uppföljning av husläkare
+* Akut urografi, ultrajud, DT endast om ebsvären inte släpper på upprepad smärtlindr o diagnostiska svårigheter
+* den aktua utredningsågngen varierar ngt mellan sjukhus återspeglas isätt att hantera pat
+
+
+
+
+
+
+
+### Fall 3 - sten
+
+***Presentation***
+
+* Du är vikarierande underläkare på akutmottagningen: Din nästa patient, en 63-årig man, söker på grund av buksmärta. Genomför en konsultation! Efter 20 minuter (2 min kvar) bryter examinatorn för att ställa en fråga. Inkomstvärden: BT 130/85 Puls 76 Temp 37,6o AF 19
+
+
+
+***Översikt***
+
+* Patient vilken erfarit akut debut av buksmärta höger flank vilken radierar ut i ryggen. Patienten är smärtpåverad, har svårt att vara stilla. Studenten skall inhämta anamnes, undersöka patienten, föra ett differentialdiagnostiskt resonemang och i samråd med patienten överenskomma om fortsatt behandling/åtgärd.
+
+
+
+***Utrending och handläggning***
+
+* Anamnes:
+  * Låter pat berätta om sina symptom. Efterhör pat´s oro, tankar o önskan
+  * Fokuserad smärtanamnes: Debut o nuvarande PM. Smärtutveckling o intensitet. Smärtkaraktär.
+  * Utstrålning.
+  * Tidigare sjukdomar, aktuella läkemedel och allergier?
+  * Miktion och avföring?
+  * Tobak och alkohol?
+* Status:
+    * Frågar/us: Cor, pulm samt se inkomstvärden
+    * Frågar PM före palp. Tittar på patientens mimik under undersökningen
+    * Palperar ett ytligt och ett djupt varv. Dunkömhet
+    * Markerar PR ( Ej ont, normalfärgad avföring på handsken)
+    * Urinsticka – Säg: Hb 2+
+* Bedömning
+    * Förklarar diagnosen (misstänkt njursten). Överenskommer med pat om fortsatt handläggning
+    * Erbjuder/efterfrågar smärtlindring: NSAID eller morfin/derivat
+    * Förvissar sig om pat förstått och efterhör om pat har ngr ytterligare frågor
+    * Ordnar med kontrollurografi samt åb hos dl för rtg-svar
+    * Informera om att smärtorna kan återkomma: Rec smärtstillande, supp
+
+
+
+### Fall 4 - kolecys
+
+***Presentation***
+
+* Du är vikarierande underläkare på akutmottagningen: Patienten är en 64-årig man som söker på grund av buksmärta. Genomför en konsultation! Efter 20 minuter får du redogöra för hur du har resonerat kring diagnos och handläggning. Inkomstvärden: BT 140/85 Puls 84 Temp 38,3o AF 22 Pat med buksmärtor vilka debuterade igår kväll. Subfebril. Smärtan accentuerats över natten pm under hö arcus, strålar ut i ryggen intermittent. Ej kräkts men vill ej äta, rör sig försiktigt. Ej tagit några läkemedel. Studenten ska inhämta anamnes, undersöka patienten, föra ett differentialdiagnostiskt resonemang och i samråd med patienten överenskomma om fortsatt behandling/åtgärd enligt nedan
+
+
+
+***Översikt***
+
+* Studenten ska inhämta en adekvat anamnes och utföra ett adekvat status avseende handläggning. 
+* Samt med ledning av patientens symtompresentation resonera kliniskt med fokus på smärtutvecklingen etc. 
+* Provtagning: CRP, LPK, elstatus samt leverprover. 
+* Smärtlindring (NSAID, paracetamol el morfin/derivat) samt bilddiagnostik primärt UL. 
+
+
+
+***Utrending och handläggning***
+
+* Anamnes:
+  * Låter pat berätta om sina symptom. Efterhör pat´s oro, tankar o önskan
+  * Smärtanamnes: Smärtutveckling o intensitet.
+  * Efterhör tidigare susp gallstenssjd
+  * Tidigare sjukdomar, aktuella läkemedel och allergier?
+  * Ikterus, feber och frossa
+  * Tobak och alkohol?
+* Status:
+    * AT, cor, pulm, BT. Påpekar åtminstone att detta ska utföras
+    * Bukstatus1: Inspektion, perkussion, auskultation
+    * Bukstatus2: Palpation – ytligt och djupt varv
+    * PR
+* Bedömning:
+    * Förklarar diagnosen för SP
+    * Erbjuder/efterfrågar smärtlindring: NSAID, paracetamol el morfin/derivat
+    * Överenskommer med pat om fortsatt handläggning. Förvissar sig om pat förstått och efterhör om
+    * pat har ngr ytterligare frågor Förordar inläggning.
+    * Frågar om lab: Lever-, inf.- och el.statusprover
+    * Ordnar med bilddiagnostik
+
+
+
+***Återkoppling***
+
+* I fallet m patienten med buksmärta var det viktigt att efterhöra hur symptomen utvecklats, patientens egna tankar avseende symptomen samt att ställa specifika frågor för att komma vidare i det differentialdiagnostiska resonemanget. Hos en man i denna ålder alltid ha i bakhuvudet ev annan allvarlig sjukdom såsom begynnande diss aorta, denna patient uppvisade dock inte allmänpåverkan vilket gör att detta inte var den primärt troligaste etiologin till pat's besvär. 
+* Diffdiagnoser att beakta i övrigt ffa gallsten, pankreatit, cholecystit/cholangit ev infektion, malignitet. 
+* Provtagning bör innehålla CRP, LPK, el-status samt leverprover, 
+* Adekvat smärtlindring 
+* samt bilddiagnostik i form av ultraljud primärt. 
+  * Datortomografi bör inte vara det primära i detta fall då man för att minimera strålning i sb m undersökningen ofta gör snitten ngt större varvid ev gallvägskonkrement kan missas. 
+* Inläggning med fasta och dropp varvid förloppet följs. 
+  * De flesta kolecystiter klingar av inom ett par dagar. 
+  * Ställningstagande till kolecystektomi inom fem dagar från debut (förordas av flesta kirurger). 
+  * Ej a.b. de första två dagarna (aseptisk infl). 
+* Prognos: Ett gallstensanfall: 50 % -ig risk nytt anfall/kolecystit inom tre år. 
+* Övergripande återkoppling 
+  * Studenterna var duktiga på att tillämpa patientcentrering, även medicinsk specifik anamnes klarade de flesta bra. 
+  * !!!! En hel del glömde efterhöra om feber/frossa/ikterus, som ev tecken på ev uppseglande cholangit (i fall av choledochus sten). 
+  * Många hade en god teknik att palpera buken systematiskt med ytlig och djup palpation samt gav patienten ett gott underlag att vara med och fatta beslut. 
+  * De flesta ordnade med adekvat provtagning och bilddiagnostik och erbjöd patienten smärtlindring.
+
+
+
+
+
+### Fall 5 - diveritikulit
+
+***Presentation***
+
+* Studentinstruktion Du är vikarierande underläkare på akutmottagningen: Patienten söker på grund av buksmärta. Genomför en konsultation! Efter 20 minuter får du redogöra för hur du har resonerat kring diagnos och handläggning. Inkomstvärden:BT 135/80 Puls 74 Temp 38,3, AF 20
+
+
+
+***Översikt***
+
+* Patient med subakut insjuknande, 
+* initialt något diffus värk kring solar plexus, pm vä fossa. 
+* Feber. 
+* Förstagångsinsjuknande. 
+* Studenten skall inhämta anamnes, undersöka patienten, föra ett differentialdiagnostiskt resonemang och i samråd med patienten överenskomma om fortsatt behandling/åtgärd
+
+
+
+***Utredning o handläggning***
+
+* Patientkommunikation:
+  * Låter pat berätta om sina symptom. Efterhör pat´s oro, tankar o önskan
+  * Förklarar diagnosen för pat och ger underlag för att vara delaktig i beslut om fortsatt handläggning
+  * Förvissar sig om att pat förstått/ efterhör ev. ytterligare frågor?
+* Anamnes:
+    * När och var började smärtan (igår kväll)
+    * Var är smärtan nu? Utstrålning? Ändrat karaktär? (vänster fossa)
+    * Hur har smärtan utvecklas? Molande? Intensiv? Intervall? (molande, ökad intensitet)
+    * !! Efterhör tidigare susp divertikelsjd och övriga sjd
+    * Aktuella läkemedel och allergier?0
+    * Avförings- och miktionsanamnes (normal avföring igår)
+    * Tobak och alkohol? (Måttligt alkohol, icke rökare)
+* Status:
+    * AT, cor, pulm, BT. Påpekar åtminstone att detta ska utföras
+    * Bukstatus1: Inspektion, perkussion, auskultation
+    * Bukstatus2: Palpation – ytligt och djupt varv
+    * PR: skall nämnas!
+* Bedömning/åtgärd
+    * Överenskommer om inläggning då detta är ett förstagångsinsjuknande av misstänkt divertikulit.
+    * Smärtlindring. Fasta. Vätska iv.
+    * Lab: Inf- (Lpk+CRP) Lever- och el.statusprover
+    * Ordnar med bilddiagnostik
+* Sammanfattning
+  * Sammanfattning: Stud gör en rimlig preliminär bedömn Studenten föreslår adekvata åtgärder Stud ger en rimlig plan för uppföljning
+
+
+
+### ! Fall 6 - nedre buksm, div?
+
+***Presentation***
+
+* 61-årig kvinna/man med väl reglerad tablettbehandlad hypertoni söker på grund av smärta i nedre delen av buken sedan två dagar. Initialt VAS 4 nu 7. Smygande debut, konstant molande värk nedom naveln. Strålar ej ut. Patienten har ej velat äta mat på 2 dagar, tagit yoghurt, juice i förrgår, ej ätit något sedan igår, druckit vatten. Miktion ua, haft en liten normalfärgad avföring igår, något lösare än vanligt. Känt sig frusen tagit febern i imorse 37,9. (Kvinnlig patient, inga blödningar eller flytningar). Viktnedgång 2 kilo senaste månaderna, lagt om kosten äter mera grönsaker. Inga övriga symptom. 
+
+
+
+***Utredning o handläggning***
+
+* Patkom
+  * tankar, oro önskan
+  * sammanfattar
+  * öppna frågor
+* Anamens
+  * Smärtanamens
+    * Socrates
+    * locale
+    * debute
+    * tid likn besvär
+    * tid op
+  * smärtanamnes 2
+    * utstrål
+    * utveckl
+    * kvalitet
+  * smärtanamnes 3
+    * förbättrar el försvämrar
+  * illamående, kräk
+  * feber, subfeb, viktnedgång
+  * dysuri, inkontinens, retention
+  * avföringssymptom
+  * tid sjd, lkm, allergier
+  * tobak, alk
+* Status
+  * Bukstatus 1
+    * auskutlerar
+    * perkuterar
+    * dunköm njurloger arkii
+    * PR
+  * Bukstatus 2
+    * PM
+    * palp systematiskt 2 varv, samt ljunmskar
+    * indirekt, direkt ömhet släppömhet
+* Patkom
+  * involverar pat
+  * ger utrymme för fler frågor
+* Bedömning o åtgärd
+  * Studenten gör rimlig prel bedöm
+  * resonemang kring sannolik diagnos med bakgrund av 
+    * åler
+    * kön
+    * oklara symptom
+    * mm
+    * behov av att om möjligt komma t diagnos före ev akutoperation
+  * DD
+    * Dibertikulit
+    * appendicit
+    * koloncancer
+    * UVI
+    * idenfitifera riskfaktorer o symptom för detta o kan prioritera
+  * !! föreslår adekvata åtgfärder
+    * DT
+    * smärtlindring
+      * morfin-prep
+    * trolig inläggning
+    * fasta
+    * vätsak iv
+    * ordinerar prover
+      * urisntatus
+      * CRP
+      * LPK
+
+
+
+
+
+### Fall 7 - divert
+
+***Presentation***
+
+* 64-årig kvinna/man söker på akutmottagningen med ett knappt dygns anamnes på tilltagande molande smärta väsentligen centralt nedom naveln. Ingen utstrålning. VAS 6-7. Känner inte igen denna värk. Druckit vatten, mår illa ej kräkts. Avföring igår väs ua. Miktion ua. Ej noterat blod i avföringen. Inga ändrade avföringsvanor. Inga allergier, alkohol sparsamt, tobak aldrig rökt. Ingen övrig symptomatologi. Rejält ömmande vid palpation samt släppömhet. Ingen dunkömheet över njurloger, ljumskar/bråckportar palperas ua. Temp 38,0. 
+
+
+
+***Utredning och handläggning***
+
+* patkom
+  * tankar oro önskan
+  * sammanfattar
+  * öppna rfrågor
+* Anamnes
+  * Smärtanamens
+    * locale
+    * debut
+    * likn besvär tidg
+    * utstrål
+    * utv
+    * kvaltiet
+    * förbättrar 
+    * försämrar
+  * Associerade symptom
+    * illamående kräk
+    * feber
+    * viktnedgång
+    * dysuri, inkontinens, retension
+    * avföringssymptom
+  * tidg sjd, nuv
+  * lkm: naturlkm, receptfria
+  * allergier
+  * tobak alk
+* Status
+  * bukstatus
+    * inspek
+    * auskult
+    * perkuterar
+    * dunköm njurar o arkii
+    * nämner PR
+    * PM 
+    * palp system 2 varv 
+    * ljumskar
+    * undersöker indir o dir ömhet samt släppömhet
+* Kliniskt resonemang
+  * Stud ska pres ett DD
+    * divertikulit
+    * appendicit
+    * koloncancer
+    * UVI
+  * i anamens ID riskfaktorer för detta o prio o värderat pats symptom
+* Bedöm åtgärd
+  * ytterligare utredning krävs innan ngn akutop
+  * DT
+  * Smärtlindring (opioider
+  * efter DT
+    * trolig inläggning
+    * fasta
+    * vätska iv
+  * ordinerar prover
+    * LPK
+    * Elstatus
+    * CRP
+    * blodstatus
+  * ev bladdersca på män

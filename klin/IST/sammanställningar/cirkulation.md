@@ -193,7 +193,87 @@ Svullnad i extremitet
 
 
 
-## Bukaorta
+
+
+### Fall 2 - infarkt
+
+***Presentation***
+
+* 57-årig kvinna kontorsarbetande kvinna med tablettbehandlad diabetes mellitus typ II söker på akutmottagningen med ett par dagas anamnes på tilltagande obehagskänsla i nedre delen av bröstet centralt. Initialt i samband med ansträngning. Sedan ankomst till akutmottagningen anger patienten att hon känt tryck och viss smärta över bröstet, även illamående och kallsvettighet i vila. EKG visar inferior infarkt (STEMI) med ST-höjning inferiort (II, III, aVF).
+
+
+
+
+
+***Utredning o handläggning***
+
+* Patkom
+  * tankar oro önskan
+  * öppna frågor
+  * sammanfattar
+* Anamnes
+  * Huvudsymptom obehag bröstet
+    * SOCRATES
+    * debut
+    * locale
+    * duration
+    * utstrålning'
+    * intensitet
+    * kaaraktär
+    * utlösande faktor
+    * förbättra försämra
+  * illamående kräkning
+  * ! andfåddhet
+    * duration
+    * utlösande faktorer
+    * förbättras vid
+  * associerade symptom
+    * övriga symptom
+    * bensvullnad 
+    * infektion
+  * tidg sjd, nuv sjd
+  * hereditet
+  * tobak, alk
+  * fys aktivitet
+  * lkm
+    * naturlkm
+    * receptfritt
+  * allergi
+* Status
+  * hjärta
+    * 4 punkter
+    * axill
+    * apex
+    * samtidig palp a radialis
+    * carotider
+  * lunga
+    * auskutlation
+    * perkussion
+  * undersöker dekompensationstecekn
+    * halsvenstas
+    * ödem
+  * Bukstatus
+    * adekvat
+    * !! palperar aorta
+  * Tolkning EKG
+    * !! STEMI
+* Kliniskt resonemang
+  * Stud ska pres hur hen har prio o reson
+* Bedömning o åtgärd
+  * Stud gör rimlig prel bedöm
+    * identifierar STEMI
+  * Adekvat ågärder
+    * kontakt PCI jour
+      * för akut cor angio
+    * laddningsdos 
+      * ASA + Brilique
+      * alt ASA + Klopidogrel
+      * morfin
+      * nitro
+      * furix
+* Patkom
+
+## Aorta
 
 ### Bukaorta aneurysm
 
@@ -302,6 +382,65 @@ Svullnad i extremitet
   * I dessa fall kom också undersökaren att validera undersökningsfyndet vid ryggstatus, där inget smärtsvar överhuvudtaget uppstod utan kom först då bukpalpation utfördes, varvid ev. allvarlig åkomma vilken krävde ytterligare utredning snabbt befarades. 
   * Avseende bukstatus saknades i flera fall systematik vid undersökningen. 
 * ! 400 fall av rupturerat aortaaneurysm förekommer årligen i Sverige med 90% mortalitet varför det är viktigt att känna till att varierande och tidig symptomatologi förekommer
+
+
+
+
+
+
+
+### Fall 1
+
+***Presentation***
+
+* 64-årig manlig patient vilken söker på grund av tilltagande ryggsmärta senaste dygnet. I vitalparametrar noteras något lågt BT, hög puls och patienten äv erfarit yrsel i hemmet innan mannen åkt till akutmottagningen
+
+
+
+***Utredning o handläggniign***
+
+* Låter pat berätta om symptom, Tankar, oro, önskan
+* Anamnes
+  * Smärtanamnes
+    * utstrålning
+    * utveckling
+    * kvalitet
+    * förbättrar försämrar (inget)
+  * tidg sjd, operationer
+  * lkm allergier
+  * feber (nej)
+  * viktnedgång (nej)
+  * trötthet (nej)
+  * yrsel (ja)
+  * miktionsproblem, avföringsproblem: nej
+  * bensvagjet: nej
+* Status
+  * Bukstatus: ytligt djupt, 
+  * perifera pulsar, 
+    * spec ljumskar, 
+  * distalstatus
+  * rygg 
+    * pat anger att han ytterst ogärna reser sig , 
+    * gör en ansats att resa sig, 
+    * !!! stud som snabbt går över t framsida ist ges full päng. 
+* Bedömning o åtgärd
+  * rimlig prel bedömning
+    * förstår hotande blödning
+    * behov akut operation
+  * Föreslår adekvata åtgärder
+    * smrätlindirng
+    * rtg
+    * narkos
+    * operation
+  * förklarar diagnos
+    * blir rtg
+    * troligen akut op efter rtg
+* Kliniskt resonemang
+  * kan resonera akut allvar vanl
+  * bed korrekt bårdnivå;
+    * urakut omhändertagande
+* Patkomm
+  * motivrear involverar pat
 
 
 

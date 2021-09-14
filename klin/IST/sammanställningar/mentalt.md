@@ -1,4 +1,4 @@
-***Presentation***
+***daPresentation***
 
 ***Etiologi och patofysiologi***
 
@@ -473,7 +473,34 @@ Trötthet
 
 
 
+## Huvudvärk
 
+
+
+### Migrön
+
+#### Fall 1
+
+. Du tar emot Maria Karlsson, som är 45 år och som vill ha ett läkemedel mot migrän. Hon har ensidig huvudvärk med aura någon gång per månad sedan många år. Huvudvärken har inte ändrat karaktär. Vid val av läkemedel är det viktigt att väga nytta mot risk och fundera kring behov av profylax och/eller anfallskupering. Vissa preparat används endast som profylax och är ej indicerade vid ett migränanfall.
+
+Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för beroende föreligger, samt om risk för ökad blödningrisk föreligger. (1,5p)
+
+* NSAID, e.g. naproxen, ibuprofen
+  * anfallskupering: lämplig
+  * blödningsrisk
+* alvedon
+  * anfallskupering
+* ASA
+  * anfallskupering, 
+  * blödningsrisk
+* triptaner
+  * anfallskupering
+* Betablock
+  * profy
+* opioider
+  * beroende
+
+<img src="./figs/sam2_IyvhKLk46L.png" alt=IyvhKLk46L style="zoom:50%">
 
 ## Sömnbesvär
 
@@ -848,3 +875,46 @@ Trötthet
   * Då suicidriskbedömningen kan vara svår, bör även erfaren kollega konsulteras.
     * ok att föreslå vårdnivå kvar på VC
     * äv möjligt att remittera t psyk öv för vidare suicidriskbedömning
+
+
+
+
+
+## Farmakologi
+
+### Fall 1
+
+***Presentation***
+
+* Sofia Nilsson född 1989 söker p.g.a. nedstämdhet och minskad energi. Hon har astma sedan barndomen, för närvarande välkontrollerad med den behandling hon har. Hon hade en depression i sena tonåren och en depression för fem år sedan, bägge gångerna med måttliga symptom som kunde behandlas i öppenvården, Farmakologisk behandling hade god effekt båda gångerna. Hon har aldrig haft maniska eller hypomana symptom. I övrigt frisk. Sambo. Arbetar som löneassistent. Röker inte. Dricker ca en flaska vin per vecka. 
+* Aktuella läkemedel: Giona Easyhaler (budesonid, glukokortikoid) 200 mikrogram/dos, 2 inhalationer på kvällen Buventol Easyhaler (salbutamol, kortverkande beta-2-agonist, SABA) 200 mikrogram/dos 1 inhalation vid behov, högst 4 inhalationer per dygn 
+* Hon använder inga andra läkemedel eller naturmedel. Efter utredning ställer du diagnosen depression och ni kommer tillsammans fram till att hon ska inleda samtalskontakt hos kurator samt påbörja farmakologisk behandling med SSRI (Tablett Citalopram Bluefish 20 mg 1x1). Patienten vill inte vara sjukskriven. 
+
+
+
+***SSRI-beh assoc biverkningar som illamående, minskad aptit, minskad libido. Allvarliga symptom särksilt uppmärksam åp när beh inleds***
+
+* Suicidrisk
+* initial försämring
+* stegrad pngest
+* uppvarvning
+
+
+
+***Om hur lång tid första återbesök***
+
+* efter 7-10d, upp t 14d accepteras, inte kortare än 1v
+
+
+
+***Fortsättning fallet***
+
+* Du och Sofia har regelbundna kontakter där du följer upp den antidepressiva behandlingen. Effekten är god och biverkningarna acceptabla. Hon känner stor skillnad i humör och livsglädje jämfört med före samtalskontakten och läkemedelsbehandlingen.
+* Efter fyra månaders antidepressiv behandling ringer Sofia på din telefontid. Hon är gravid i vecka 7 och undrar därför om hur hon ska göra med sina läkemedel. Hon berättar att hon tagit halv dos av citalopram sedan i går för att hon vill minska risken för att medicinen ska påverka fostret. Samtidigt är hon orolig att hon ska må sämre psykiskt om hon har för låg dos. Ni kommer överens om att ta en serum-koncentration av citalopram. Du läser FASS-texten nedan och kommer fram till att serumkoncentration ska tas om sex dagar
+* ***Varför lämpligt ta provet om sex dagar***
+  * 4-5 halveringstider, första halveringstiden ligger pp 1.5d
+  * hon har uppnått steady state vid den punkten
+* ***När under dosintervallet ska provet tas? ***
+  * !! dalkoncentration, i.e. taget precis före man tar sin dos (morgondos?)
+  * dalkonc är oftast studerat, eftesom variationen är minst i dalkonc
+

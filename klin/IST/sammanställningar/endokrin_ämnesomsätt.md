@@ -130,6 +130,32 @@ Viktökning/övervikt
 
 
 
+
+
+#### Behandling
+
+***Presentation***
+
+* 73åå man
+  * DM2, tablettbeh med metofrmin, funderar över om blodsockersänkande behandling behöver justeras
+  * vid metforminbeh av DM2, viktigaste indikation för att:
+    * sätta in insulin utöver metformin
+      * otillräckligt blodsockerkontroll
+      * för högt HbA1c
+      * otillräcklig metabol kontroll
+    * Avsluta metformin, övergå till insulin
+      * uppfyller kontraindikationer mot metformin
+      * e.g. njursvikt, dåligt GFR
+      * samt biverkningar
+  * Kardiovaskulära riskfaktorer
+    * Hypertoni: RAAS påverkande, ACE-h/ARB 
+    * !! dyslipidemi/hyperlipidemi, eller dålig kolesterolkontrll: statiner
+      * notera att det just är dyslipidemi
+
+
+
+
+
 ### !! Fall 1
 
 ***Presentation***
@@ -202,3 +228,57 @@ Viktökning/övervikt
   * Studenten gör en rimlig prelim bedömning
 * **Adekvata åtgärder**
   * studenten föreslår adekvata åtgärder
+
+
+
+
+
+### Fall 2
+
+För behandling av hypertoni, vilka möjliga fördelar respektive nackdelar finns för var och en av de fyra läkemedelsgrupperna nedan för patienter med diabetes? Ange kortfattat en relevant fördel och en relevant nackdel per läkemedelsgrupp. Även svaret ”inga specifika fördelar” respektive ”inga specifika nackdelar” kan vara rätt. (4p)
+
+* Ace-h, ARB
+  * Fördelar: 
+    * nefroprotektivt, 
+    * bra vid albuminuri, 
+    * metabolt gynnsamma
+  * Nackdelar. 
+    * inga specifika nackdelar
+* Betablockerare
+  * Fördelar
+    * Bra vid samtidig ischemisk hjärtsjd, eller hjärtsvikt
+    * bra vid migrän eller hjärtklappning
+  * Nackdelar
+    * maskera hypoglykemisymptom
+    * viktuppgång
+    * mteabolt ogynnsamma spec i komb tiazid
+    * importens
+    * svårare att träna
+* Kalciumantagonister
+  * Fördelar
+    * metabolt neutrala
+    * inga specifika fördelar
+  * Nackdelar
+    * inga spec nackdelar
+* Tiaziddiuretika
+  * inga spec fördelar
+  * nackdelar
+    * metabola effekter särskilt i komb med betablock
+
+
+
+## Thyroidea
+
+### Hyperthyreos
+
+#### Fall 1
+
+* Lågt TSH-värde, förhöjd S-T3 och S-T4 bärden, förenlig med hyperthyreos
+* varför är det viktigt att mäta S-TSH och S-T3, S-T4 vid hyperthyreos	
+  * nivådiagnostiskt med hypofys och thyroidea
+  * urskilja vilken nivå det är. 
+
+
+
+
+

@@ -22,18 +22,62 @@
 * Tidigare exponering: detta viktigt för asbest och liknande
 * ! Tandinfektion, tandstatus
 
+## Behandlingar
+
+### Hjärtsviktare
+
+***Livsstilsåtgärder***
+
+* **NOTERA**: hypernatremi är INTE ett tecken på att patienten överkonsumerar natrium, så det ska inte användas som ett mått på natriumintag.  
+* **Vätskerestriktion och hjärtsviktpatienter**: ÄR DET EN KOMPENSERAD PATIENT ska man INTE rekommendera vätskerestrktion
+  * Vid dekompensation ska man rekommendera vätskerestriktion
 
 
-## Status
 
-* Alltid lyssna axill + carotider
-* Mäta blodtryck
-* Bukstatus vid ryggvärk
-* Bukstatus: dunka njurar, se till att göra detta
-* Vid andfåddhet:
-  * Palpera vaden för DVT
-* !! Palpera Thyroidea och lymfkörtlar
-* Leta uveit
+## Ortopedi
+
+***Status***
+
+* !! Besvärsritning
+
+
+
+
+
+## Preklin
+
+### Inflammation
+
+#### Fall 1
+
+* T-hjälparceller stimulerar immunförsvaret, bland annat till bildning av allergenspecifika antikroppar av IgE-typ. Dessa antikroppar binds till receptorer på mastceller och basofiler. Nämn två inflammationsmediatorer som kan frisättas från dessa. (1 p)
+  * Histamin
+  * eikosanoider prostaglandiner, leukotriener
+  * proinflammatoriska cytokiner
+  * IL4, IL5, IL13, kemokiner
+
+
+
+
+
+### Anemi
+
+#### Fall 1
+
+Typisk erytrocytindex o utseende vid följande tillstånd
+
+* Renal anemi: 
+  * normocytär; 
+  * normalt el minskat retikulocyt
+* anemi pga mens: 
+  * mikrocytär; 
+  * normalt el minskat retikulocyt
+* anemi pga atrofisk gastrit: 
+  * makrocytör; 
+  * normalt el minskat retikulocyt
+* talassemi: 
+  * mikrocytär; 
+  * ökat antal retikulocyter
 
 
 
@@ -49,67 +93,16 @@
 
 
 
-## Behandlingar
+## Status
 
-### Hjärtsviktare
-
-***Livsstilsåtgärder***
-
-* **NOTERA**: hypernatremi är INTE ett tecken på att patienten överkonsumerar natrium, så det ska inte användas som ett mått på natriumintag.  
-* **Vätskerestriktion och hjärtsviktpatienter**: ÄR DET EN KOMPENSERAD PATIENT ska man INTE rekommendera vätskerestrktion
-  * Vid dekompensation ska man rekommendera vätskerestriktion
-
-
-
-
-
-## Farmakologi
-
-### Biverkan
-
-***Typ A***
-
-* Förväntade utifrån farmakodynamiken
-* dosberoende
-* e.g.: blodtrycksfall med betablockerare
-
-
-
-***Typ B***
-
-* Oväntade
-* Sällan dosberoende
-* Ofta ngn immunologisk verkan
-  * Reaktion fortsätter även vid utsättning
-* E.g.: Steven-johnsons
-
-
-
-***Typ C***
-
-* Ökad risk insjuknande annan sjd
-* Mekanismen oftast okänd
-* inget tydligt tidssamband
-* E.g.: ökad risk hjärtinfarkt långvarig NSAID-användning
-
-
-
-### Utredningsmässigt
-
-* Positiv dechallenge – utsättning av ett läkemedel medför förbättring av symtomen.
-* Positiv rechallenge – återinsättning av ett läkemedel gör att biverkningen återkommer.
-
-
-
-## Ortopedi
-
-***Status***
-
-* !! Besvärsritning
-
-
-
-
+* Alltid lyssna axill + carotider
+* Mäta blodtryck
+* Bukstatus vid ryggvärk
+* Bukstatus: dunka njurar, se till att göra detta
+* Vid andfåddhet:
+  * Palpera vaden för DVT
+* !! Palpera Thyroidea och lymfkörtlar
+* Leta uveit
 
 
 

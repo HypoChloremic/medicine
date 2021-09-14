@@ -202,9 +202,7 @@ Omedelbart fortsatt åtg
 
 
 
-## ! Allmänt
 
-* 
 
 ## Hand Arm
 
@@ -736,7 +734,7 @@ Omedelbart fortsatt åtg
 
 ## Knä
 
-### Fall 1
+### Fall 1 - artros
 
 ***Presentation***
 
@@ -821,7 +819,7 @@ Omedelbart fortsatt åtg
 
 
 
-### Fall 2
+### Fall 2 - schlatter
 
 
 

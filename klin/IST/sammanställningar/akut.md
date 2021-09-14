@@ -17,35 +17,35 @@
 ***Återkoppling***
 
 * Syftet med denna station var att exmainera förmåga omhänderta **akut andningsinsuff beroende på främmande kropp samt opiatöverdos**
-* Kliniska kompetenser
+* **Kliniska kompetenser**
   * sätta nål
   * koppla dropp
   * resonera kring effektera av opiatöverdos
-* Poänggivande moment
+* **Poänggivande moment**
   * larma
   * ska arbeta enl ABCDE
-* Airways
+* **Airways**
   * Luftvägen säkras o frias fr främmande kropp
-* Breathing
+* **Breathing**
   * kontrollera att pat andas spontant, i detta fall inte tillräckligt, varför man måste ge maskventil med tillägg av syrgas
-* Circulation
+* **Circulation**
   * Man ber en person ta BT o Puls för att kontrollera cirkstatus
   * i detta fall inte nämnvärt påverkat
-* Disability
+* **Disability**
   * pat var okontaktbar
-* Exposure
+* **Exposure**
   * inte högprioriterat i denna situation
-* Nästan alla fatta att d kunde vara en överdosering av opiat
-* för att admin antidot (naloxon) behövs iv infart
+* **Nästan alla fatta att d kunde vara en överdosering av opiat**
+* **för att admin antidot (naloxon) behövs iv infart**
   * här använde de flesta en mkt adekvat teknik
   * när d gällde koppla dropp, var kunskaperna skiftande o här behövs ytterligare träning
   * några glömde att kontrollera att det inte fanns luft i droppslangen
   * detta är förstås mkt viktigt då stora luftembolier kan vara farligt
-* Den teoretiska delen handlade om VAS-skalan,
+* **Den teoretiska delen handlade om VAS-skalan,**
   * opioiders analgetiska effekt
   * halveringstidens betydelse för effekten av naloxon
   * kunskapsnivån kring dessa frågor var hög
-* Sammanfattningsvis så testade denna station kunskaper kring omhändertagande av akut andningssvikt, men de åtgärder som krävdes (fri luftväg, maskventilation, iv infart, sätta dropp, samt admin lkm)
+* **Sammanfattningsvis så testade denna station kunskaper kring omhändertagande av akut andningssvikt, men de åtgärder som krävdes (fri luftväg, maskventilation, iv infart, sätta dropp, samt admin lkm)**
   * är giltiga för en rad tillstånd inom akut medicinskt omhändertagande
 
 

@@ -240,3 +240,62 @@ Ont i halsen
   * Mot bakgrund av vad som framkommit i anamenso s status
   * motiverar  involverar patienten i fortsatt planering o beslutsfattande
 
+## !! Farmakologi
+
+### ?? Astma
+
+#### Fall 1
+
+* **Du ska ha astma/KOL-mottagning och förbereder dagens arbete. Behandlingen för de fyra patienter som du kommer att träffa innebär olika kombinationer av läkemedel. För varje individ nedan, välj det bästa behandlingsalternativet från listan. 3 p**
+  * Kortverkande antikolinergikum eller SABA
+  * LAMA + LABA+ SABA
+  * SABA vid behov
+  * Inhalationssteroid + LABA+SABA
+  * Kortverkande antikolinergikum + LAMA
+  * LAMA + LABA + peroral steroid
+* **SABA vb**: Christoffer 30 år, icke rökare, astma, kattallergiker, känner symptom från luftvägarna någon gång per månad
+* **inhalationssteroid + LABA + SABA**: Shirin 50 år, astma sedan barndomen. Utan behandling upplever hon astmasymptom i stort sett dagligen, särskilt vid ansträngning.
+* **kortverkande antikolinergikum + LAMA**: Bengt 60 år, tidigare rökare. Har nyligen fått diagnosen KOL. Är oftast besvärsfri, men har besvärlig morgonhosta vissa dagar. Upplever inte andningsbesvär. I övrigt frisk, arbetar som mäklare
+* **LAMA + LABA + SABA**: Märit 80 år, tidigare rökare. KOL med dagliga symptom av hosta och dyspné redan vid lätt ansträngning, en exacerbation för 9 månader sedan, en exacerbation för 4 månader sedan.
+
+
+
+### !! Fall 2
+
+***Presentation***
+
+* Din nästa patient är en 19-årig kvinna som söker p.g.a. att hon upplever andfåddhet vid  ansträngning. Det framkommer att hon ända från mellanstadiet uppfattat att hon inte är lika löpstark som sina kompisar. Hon har också vid förfrågan märkt att det kan pipa lite när hon andas och kännas lite tungt i bröstet då hon blir förkyld. Hon har inte tyckt att andfåddheten besvärat henne så mycket, och det har inte förändrats över tiden, och hon har nog anpassat sin fysiska aktivitet utifrån detta, (får alltid flåsa när hon springer efter buss och i trappor t ex) men har nu börjat träna inför tjejmilen med några kompisar och märker att de övriga deltagarna orkar mer än hon gör och funderar kring detta. En i gruppen har ett syskon med astma och har rått henne att kolla om det kan vara det
+* Hon har inga allergier. Du misstänker astma. Patienten får därför göra spirometri. Ur resultatet från undersökningen:
+  * Parameter, Enheter, Referens, Patientens värde, % av referens
+  * FVC L 4.58 3.34 72.9 %
+  * FEV1 L 3.79 2.25 59.4 %
+  * FEV1% % 83.5 67.4 80.7 %
+* Hur bör du komplettera denna spirometri för att ytterligare klargöra diagnosen
+  * Reversibilitetstest
+* Beskriv FEV1
+  * FEV1 är den volym som andas ut under 1 sekund i vid forcerad (maximal) utandning. Undersökningen kallas dynamisk spirometri (behöver ej ingå i svaret) 
+* Patienten ska till att börja med ha två läkemedel mot astma. Välj de två bästa läkemedlen bland alternativen nedan. / Välj de två läkemedel hon bör ha bland alternativen nedan
+  * SABA + Inhalationssteroid
+
+
+
+
+
+### !! Fall 3
+
+Till din vårdcentral kommer även Agata Ståhl som är 70 år. Hon har sedan många år besvär med hosta. Det är inte klarlagt huruvida hon har bedömts ha astma eller kronisk obstruktiv lungsjukdom. Hon har tagit med sig alla inhalatorer hon har fått via olika läkare under de senaste åren och undrar vilka hon ska använda
+
+Vilka lkm indicerat vid astma o eller KOL
+
+* SABA, e.g. salbutamol
+  * KOL + astma
+* LABA, e.g. formoterol
+  * KOL + astma
+* inhalationssteroider, e.g. budesonid
+  * KOL + astma
+* antikolinergika e.g. ipratropium
+  * KOL + astma
+
+
+
+<img src="./figs/sam2_90SkX5cqlT.png" alt=90SkX5cqlT style="zoom:50%">

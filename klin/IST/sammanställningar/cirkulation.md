@@ -24,6 +24,37 @@ Svullnad i extremitet
 
 
 
+
+
+
+
+## Allmänt
+
+### Slagvolym
+
+#### Fall 1
+
+<img src="./figs/sam2_9MIjQaZHc6.png" alt=9MIjQaZHc6 style="zoom:50%">
+
+Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminutvolymen är produkten av hjärtfrekvens (HR) och slagvolym (SV) HRxSV. Slagvolymen regleras i huvudsak av två faktorer som åskådliggörs i Frank Starling-kurvan nedan..
+
+* **variabel på x-axel**: 
+  * preload
+  * alt vänsterkammarfyllnad
+  * LV EDV: slutdiastoliskt vänsterkammarvolym
+  * LV EDP: slutdiastoliskt vänsterkammatryck
+  * dvs ju mer fylld, desto mer pumpas ut
+* **Kurvans förskjutning på y-axeln illustrerar ytterligare en variabel av betydelse för slagvolymen** 
+  * Inotropi
+* Farma orsak till B på figuren
+  * inotrpa lkm
+* orsak t C enl figur
+  * minskad inotropi, nedsatt myokardfunktion
+
+
+
+
+
 ## Blodtryck
 
 ### Standardiserad utredning
@@ -101,6 +132,20 @@ Svullnad i extremitet
 
 
 <img src="./figs/sam_5luVFB4VdP.png" alt=5luVFB4VdP style="zoom:35%">
+
+
+
+#### Fall 1
+
+* Följande patienter behöver inleda eller ökar behandling BT
+  * Pat med DM2 + albuminuri, insättning ACE-h? Ja, lämåligt
+  * Pat astma, insättning betablockerare? olämpligt mindre lämpligt
+  * Pat kompenserad hjärtsvikt, behandlas med ACE-H, tillägg betablock? Ja lämpligt
+  * Kombination ACE-h + tiazid i maxdos, tillägg kalciumantagonist? 
+  * Pat har claudicatio intermittens, insättning betablockerare? olämpligt
+  * Pat har gikt, insättning tiazid? Olämpligt
+
+
 
 ## Bröstsmärta
 
@@ -579,11 +624,9 @@ Svullnad i extremitet
 
 
 
-## Flimmer, arrytmier
+## Arrytmier
 
 ### Förmaksflimmer
-
-***Presentation***
 
 ***Etiologi och patofysiologi***
 
@@ -614,7 +657,100 @@ Svullnad i extremitet
 
 
 
+#### Fall 1 - KF
 
+***Presentation*****
+
+* **66åå pat**
+  * **trötthet VC**
+  * **tagit EKG, som visar FF med 100-115 frekvens**
+  * **Återbesök 4 månader senare.** 
+    * eko visar lätt förstorade förmak 
+    * elkonvertering har gjorts
+    * inför elkonvertering lades ni waran
+    * trombyl sattes ut
+    * metoprolol sattes in för frekvensreglering
+    * patienten har dock nu återfått förmaksflimmer
+  * **Aktuella lkm**
+    * Waran 2.5mg, enl behschema för att förebygga proppar
+    * Metoprolol orion 200mg 1+0+0 mot hög hjärtfrekvens
+    * Simvastatin 20mg 0+0+1 för blodfetterna
+    * Enalapril actavis 10mg 1+0+0 mot högt BT
+  * **Ta ställning till fortsatt antikoag motivera, chadsvasc lathund**
+    * Ålder
+    * Hypertoni
+
+
+
+***Patofysiologi***
+
+* **Ökade besvär vid fysisk ansträngning vid FF**
+  * frånvaro sinus vid ökande frekvens
+  * ger varierad fyllnad av kamrarna
+  * inget effektivt hjärtminutvolym
+  * förmakskontraktionens relativa betydelse för kamrarnas fyllnad ökar vid ökar hjärtfrekvens, varpå detta inte finns vid FF
+  * Förkortad kammarfyllnad, varpå diastole förkortad
+
+
+
+***Utredning***
+
+* **Snarast utredning**
+  * EKO: utesluta strukturell orsak till flimret
+  * remiss för elkonvertering eftersom pat har sympotm av sitt FF och 
+  * insättning anitkoag som skydd mot embolier
+  * betablockad för frekvensreglering
+  * därmed trolig symptomlindring
+* **CHA2DS2-VASc**
+  * 1 Congestive heart failure
+  * Age
+    * 2: över >=75åå
+    * 1: 65-74
+  * 1 Diabetes
+  * 2 Stroke, TIA, Trombembolism
+  * 1 Vascular disease: Kärlsjukdom
+  * 1 Sex: kvinna
+
+#### Fall 2
+
+Du arbetar som AT-läkare på vårdcentral. Du förbereder nu morgondagens mottagning då Magnus Lindgren ska komma för uppföljning. Magnus Lindgren född 410428-1234 (76 år) sökte dig för 4 veckor sedan på grund av hjärtklappning som kommer och går, samt trötthet och lätt andfåddhet vid ansträngning. I anamnesen -välreglerad diabetes typ 2 sedan 72 års ålder, -läkemedelsbehandlad hypertoni sedan 70 års ålder, -knäledsartros med värk vid fysisk aktivitet, ej nattlig smärta. I status fann du normalvikt, normal andning 15/min, ingen ortopné, diskreta pittingödem, RR ca 80/min, normala toner inga biljud, carotider ausk ua. BT 155/100, buk mjuk, oöm. EKG visade sinusrytm och lätt vänsterkammarbelastning. 
+
+LKM lista
+
+* Trombyl (acetylsalicylsyra, trombocytaggregationshämmande) 75 mg 1 tablett på morgonen
+* Amlodipin (Ca-flödeshämmare) 10 mg 1 tablett på morgonen
+* Metformin (antidiabetikum) 850 mg 1 tablett till frukost, 1 tablett till middagen
+* Simvastatin (blodfettssänkare) 40 mg 1 tablett till kvällen.
+* Ibuprofen (COX-hämmare/NSAID) 400 mg 1 tablett på morgonen, samt 1 tablett vid behov
+
+
+
+i status fann du
+
+* normalvikt, normal andning 15/min, ingen ortopné, diskreta pittingödem,
+* RR ca 80/min, normala toner inga biljud, carotider ausk ua.
+* BT 155/100, buk mjuk, oöm.
+
+
+
+Du beställde prover och remitterade patienten för 24 h-EKG, hjärt-EKO, arbetsprov och blodtryck x 3 hos distriktssköterska. Du har nu svar på prover och undersökningar: Lab: Pro-BNP: 519 (ref <194 ng/L) Hb: 141 (ref 134-170) eGFR: 65 ml/min (ref >90ml/min) HbA1c: 46 mmol/mol (målvärde <52 mmol/mol) P-HDL/P-LDL/P-TG: tecken till dyslipidemi TSH och frittT3/T4: normala värden Na, K, Ca: normala värden
+
+24-h-EKG: Intermittent förmaksflimmer Hjärt-EKO: Ejektionsfraktion 40–45%, inga klaffskador, ingen dyskinesi Arbetsprov: lätt sänkt arbetsförmåga, inga hållpunkter för ischemi.
+
+
+
+Din samlade bedömning blir att Magnus Lindgren har ett intermittent förmaksflimmer och vänsterkammarsvikt, NYHA I, inga hållpunkter för kliniskt signifikant kranskärlssjukdom. Du har också fått resultat från blodtryckskontroller hos distriktssköterska: 157/99, 153/95, 155/ 103
+
+Enligt Chads-Vasc finns indikation för antikoagulantia och du planerar att sätta in apixaban (Eliquis) i dosen 5 mg x 2 och Enalapril 20mg 1 x 1 
+
+Förändringar t lkm lista:
+
+* Trombyl: utsättning; för att inte dubbelbehandling mtp blödniing
+* amlodipin kvar: ace-h in men tryck ej optimalt nu
+* metformin: kvar, har okej gfr, bra DM kontroll
+* simvastatni: kvar, ev doshöja
+* ibuprofen: ut, ej dubbelbeh. 
+  * generellt risk-lm för äldre, för han har njurfunktionsnedsättning
 
 ## Hjärtklappning
 
@@ -781,6 +917,41 @@ Svullnad i extremitet
 * Små regelbundna måltider (stora måltider kan ge blodtrycksfall).
 * Trampa på stället i sittande före uppresning och därefter en stund i stående.
 * Lätt fysisk aktivitet efter förmåga.
+
+
+
+
+
+## Farmaka
+
+### Waran
+
+***Farmakodynamik***
+
+* Molekyl, racemisk
+* blockerar vit-K cykeln
+* Vit-K nödvändigt för koagfaktorer i levern
+  * faktor 2
+  * faktor 7
+  * faktor 9
+  * faktor 10
+  * koaghämmare protein C samt protein S
+* Koagfaktorerna för att bli aktiva behöver karoboxyleras. Sker gm att vit-K1 fr födan reduceras t vit-k av vit-k reduktas, till KH2. 
+* vit kh2 oxideras därefter t k2,3-epoxid i en reaktion där glutaminsyran i f2, f7, f9, f10 karboxyleras. 
+* vit k2,3-epoxidreduktas reduceras därefter tillbaka t vit-k1 av k-epoxidreduktas
+* waran blockar k-epoxidreduktas.
+* Alltså får man ansamling av k2,3-epoxidreduktas, som inte reduceras tillbaka till vit-k1, som i sin tur inte kan delta i karobyxleringen och därmed aktiveringen av ovannämnda koagfaktorer
+
+
+
+***Farmakokinetik***
+
+* Äter vit k
+  * då det inte är steget innan karboxyleringen som waran hämmar, utan steget efter, 
+  * innebär att om man äter vit K så kommer man att karboxylera fler koagfaktorer
+  * därför rekas man inte att äta vit K samtidigt som man äter waran. 
+
+
 
 
 

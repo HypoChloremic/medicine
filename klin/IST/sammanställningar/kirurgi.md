@@ -337,3 +337,19 @@
   * info tejpa sår, solskydda
 * Sammanfattning, bedömning, åtgärd, plan uppfölj
   * rimlig prel bendöm, adkvat åtgärd, riml uppfölj
+
+
+
+
+
+### Fall 4 - sår hud infe
+
+***Presentation***
+
+* En patient som sökt pga sårskada på benet suturerades på vårdcentralen för 3 dagar sedan. Patienten söker igen efter tre dagar därför att det gör ont runt såret och rodnad samt litet feber har tillkommit. Du misstänker bakteriell sårinfektion. (2 p)
+* **vilken bakterie**
+  * staph aureus
+* vilket antibiotika: flukloxacillin, 
+* dos: 750mg
+* intervall: 7-10d
+* 

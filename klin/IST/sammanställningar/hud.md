@@ -22,3 +22,4 @@ Klåda
 Nagelförändringar
 Sår som inte läker
 Sår/sårskada
+

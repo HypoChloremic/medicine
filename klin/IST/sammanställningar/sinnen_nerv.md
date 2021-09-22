@@ -80,3 +80,20 @@ Yrsel
 ***Kärlgren oftast involverad i stroke***
 
 * A cerebrii media
+
+## Metabol påverkan
+### Osmotisk Demyelineringssyndrom 
+***Presentation***
+* 50åå pat
+  * Presenterar med hyponatremi, 110Na, har haft detta ett tag
+  * Varpå på enheten väljer att korrigera natrium över 0.4mM per timme
+  * Patienten utvecklar locke in syndrome
+
+
+***Patofysiologi***
+* Kronisk hyponatremi
+* Leder till att cellerna i relation till ISV förlorar osmolyter, de blir också hypoosmolära 
+* för att vara stabila gentemot omgivningen
+* När man höjer Na för snabbt, osmolalitetn för hög
+* Cellerna (specifikt pontina nervceller vars axon) börjar ***förlora*** en massa vätska
+* Tappar så pass mkt vätska att de dör. 

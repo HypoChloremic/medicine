@@ -176,7 +176,33 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
   * om intaget vit K varierar blir effekt av  Waran också varierande
   * äta grönsaker är bra man ska eftersträva ett jämnt intag. 
 
+#### COX-hämmare
 
+***Waran***
+
+* NSAID-preparat ochwaran metaboliseras av samma enzym, CYP2C9
+* plasmakoncentrationen av waran ökar, varpå ökad blödningsrisk
+
+
+
+***Methotrexate***
+
+* NSAID minskar clearance av methotrexate
+* tubulär sekretion methotrexate hämmas
+* högdosbehandling med methotrexate undviker man NSAIDs
+
+
+
+***Probenicid***
+
+* ASA-specifik
+* ASA minskar utsöndring urat motverkar därför effekten av probenicid
+
+
+
+#### Paracetamol
+
+<img src="../../../preklin/figs/sam5_Zg3Kr71IaZ.png" alt=Zg3Kr71IaZ style="zoom:90%">
 
 
 

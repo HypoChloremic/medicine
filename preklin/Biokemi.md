@@ -1,11 +1,164 @@
 
 # Biokemi
 
+## Antiinflammation och analgetika
+
+### COX-Inhibitors
+
+***Allmänt***
+
+* Termen ***coxibs*** används också för att benämna vyxlooxygenas inhibitorer
+
+
+
+***Allmän fysiologi av COX***
+
+* Agerar på cyklo-oxygenas enzymet. 
+* COX1: konstitutiv, uttrycks i alla celler 
+  * inklusive trombocyter
+  * enterocyter: viktig för mucin produktion
+* COX2: inducerbart, produceras i samband med inflammation
+  * endotelceller
+  * Konstitutivt i vissa celler
+    * njjjur
+    * testis
+    * CNS
+* COX3: enbart i CNS
+* **Prostacyklin i.e. PGI2**
+* **Tromboxan (i.e. PGA2?)**
+  * agerar på tromboxan receptorer på trombocyter
+  * triggar in-ut vändhet
+  * degranulation
+  * orsakar vasokonstriktion
+
+
+
+***COX hämmare***
+
+* Traditionella COX-h (NSAIDs):
+  * Oselektiva, icke-selektiva cox-hämmare
+  * varierar graden t varje isoform
+* **Antiinflammatorisk effekt**
+  * attribueras till block av COX2 (den cox som produceras i samband med inflammation)
+  * **reducerad prostaglandin PGE2 och reducerad prostacyklin**: leder till att man får ingen vasodilatation, i.e. minskad vasodilatation, vilket i sin tur minskar ödembildning. 
+    * ackumulation inflammatoriska celler reduceras inte direkt
+* **Analgetisk effekt**
+  * minskad prostaglandin syntes
+  * betyder mindre sensitisering av nocicepiva nervändar
+  * och mindre inflammatoriska mediatorer som
+    * bradykinin
+    * och 5-hydroxytryptamin (serotonin)
+  * **minskad huvudvärk**
+    * !! resultat av minskad prostaglandin vasodilatation
+* **Antipyretisk effekt**
+  * interleukin-1 (IL1) frisläpper prostaglandiner i CNS
+  * dessa leder till elevation av set point för temperatur kontroll
+  * därför feber
+  * COX-h hindrar detta
+
+
+
+
+
+<img src="./figs/sam5_q8eUjnh2wq.png" alt=q8eUjnh2wq style="zoom:50%">
+
+
+
+***Trombosbenägenhet och antitrombos***
+
+* Fysiologiskt
+  * protrombotiskt tromboxan och antitrombotiskt prostacyklin
+  * !! **Tromboxan COX1**: behöver hämmas för antitrombotisk effekt av cox-hämmare
+    * tromboxan är trombocytstimulerande och kärlsammandragande och 
+    * bildas främst i trombocyter via COX-1-medierad arakidonsyrametabolism
+    * !! mer än 95–98 procents hämning av trombocytens COX-1 krävs för god effekt på trombocytaggregation på grund av enzymets stora överkapacitet 
+* **Antritrombotiska effekten**
+  * lasts 4-7d, alltså samma längd som trombocyterna omsätts. 
+
+
+
+<img src="./figs/sam5_oicns0n5tm.png" alt=oicns0n5tm style="zoom:50%">
+
+
+
+***Gastrointestinala effekter***
+
+* Av NSAID kan man få
+  * Gastrisk dyspepsi: magsmärtor, obehag, illamående, sura uppstötningar
+  * peptiskt ulcus: slemhinneblödngar i magsäck eller tolvfingertarm
+  * Orsak
+    * lokal hämning PGI2 och PGE2: dessa vasodilaterar i tarmslemhinnan samt stimmar mucus produktion
+    * NSAIDs brukar vara sura metaboliter, som kan därför agera på slemhinnan direkt
+* **Skydd mot GI-biverkningar**
+  * **omeprazol:** protonpumpshämning
+  * **Prostaglandinanalog**: misoprostol (används hos aborter osså, i form av cytotec, efter att man använt mifepriston, notera att man kan använad misoprostil för förlossningsinduktion )
+
+
+
+***Renala effekter***
+
+* NSAID leder till vasokonstriktion i njuren
+* minskad njurgenomblödning
+* orsak
+  * reducerad lokal PGE2 och PGI2
+  * minskad vasodilatation
+
+
+
+***Kardiella effekter***
+
+* minskad njurgenomblödning -> ökad RAAS
+* alltså ökad vaskonstriktion generellt i kroppen
+
+
+
+
+
+***Astma effekter***
+
+* exacerbation av astma
+* Orsak: ansamling leukotriener pga COX-hämning -> bronkkonstriktion
+* arakidonsyra ackumuleras för att man hämmat cox
+  * arakidonsyra -> leukotriener (i syntesen)
+  * konsekvens är att man får mer leukotriener -> bronkkonstriktion
+
+
+
+
+
+### Paracetamol
+
+
+
+***Allmänt***
+
+* Inte anti-inflammatoriskt (inte en NSAID)
+
+
+
+***Mekanism och effekter***
+
+* Mekanism: inte helt känd
+* Effekter
+  * hämmar feber
+  * hämmar smärta
+
+
+
+***Biverkningar***
+
+* Inga effekter på 
+  * GI-systemet
+  * trombocyter
+
+
+
 ## Vitaminer
+
 ### B12 – Kobalamin
 
 #### Biokemisk användning
-* Vattenlöslig. 
+*   Vattenlöslig. 
 * Methionine synthesis: kofaktor methionine synthase (transfers methyl groups, as methylcovalamin), 
 * methylmalonyl-CoA mutase
 

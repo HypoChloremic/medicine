@@ -217,3 +217,35 @@ Typisk erytrocytindex o utseende vid följande tillstånd
 * Kriterium F
   * autism eller kommunikation åpverkad: om pat sedan tidigare är autist el komm påverkad, då additional schiz diagnos kräver prominenta vanförestllningar o hallucinationer, med de  andra symptomen för schiz, minst 1 månad. 
 
+## Frågor
+* Fara med diuretika och användning hos hjärtsviktare: RAAS aktiveras för mkt, drf försöker man minimera dos så mkt som möjligt. 
+* Hur funkar Kapnografi: Mäter co2 i luftflöden ur luftvägarna (via mun o näsa). 
+  * inandning, ingen co2, därför zero-baseline
+  * utandning: 
+    * initialt ökande, då det är deadspace  blandad med co2 fr alveoli, därför inte maxat diretj
+    * sedan platå, då det är pure alveolär luft, som är co2 rik
+    * !! Slutet av platån är end-tidal co2 reading, detta är ETCO2
+
+
+
+***Hjärta***
+
+* Instabil angina som får högersidigt skänkelblock under arbetsprov: inte direkt PCI, utan läggs in på HIA, med PCI beredskap.
+* Vilka situationer direkt indikation for PCI utöver STEMI
+  * NSTEMI och instabil angina? 
+  * Finns det ingen situation med NSTEMI och angina att man skickar på PCI direkt
+
+
+
+***Farmakologi***
+
+* Selektiva och icke-selektiva cox-hämmare
+* Reyers syndrom
+
+
+
+***Blodkroppar***
+
+* Omsättningen, turnover rate för trombocyter: 7-10d
+* Omsättningen, turnover rate för erytrocyter: 120d
+

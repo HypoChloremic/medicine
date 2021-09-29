@@ -109,3 +109,50 @@ Knöl på halsen
 
 
 
+## Autoimmunt
+
+### Reumatisk feber
+
+***Etiologi***
+
+* **Grupp A streptococcus**: 1-4 veckor oftast
+  * dåligt behandlad streptococcal infektion: halsfluss, scharlatans feber
+  * !! is a disease that develops in <3% of persons with ***untreated*** group A *Streptococcus* (GAS) pharyngitis
+* **Angriper kollagen vävnad**
+  * endokard
+  * myokard
+  * perikard
+  * lungvävnad
+  * ledkapslar
+  * lungsäck: pleura
+* **Vid endokard engagemang**
+  * Mitralis angrips: 80% av fallen
+  * Aortaklaff angrips: 20% av fallen
+
+
+
+***Komplikationer***
+
+* cardiac failure, 
+* stroke, and 
+* early death
+
+
+
+***Kliniska kännetecken***
+
+* Ålder: oftast barn, kan ske hos vuxna
+
+
+
+***Behandling***
+
+* Penicillin 10-14d
+* antiinflammatoriska lkm: 
+  * ASA högdos
+  * snabbt avtrappade steroider, högdos
+* Artrit: steroidinjektioner
+* Exudativ perikardit: perikardtappning
+
+
+

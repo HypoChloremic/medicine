@@ -156,7 +156,17 @@ Ont i halsen
 
 ## ! Lungemboli
 
-### Fall 1
+
+
+### Allmänt
+
+
+
+
+
+### Fall
+
+#### Fall 1
 
 ***Presentation***
 
@@ -239,6 +249,19 @@ Ont i halsen
 * **Patientkommunikation**
   * Mot bakgrund av vad som framkommit i anamenso s status
   * motiverar  involverar patienten i fortsatt planering o beslutsfattande
+
+
+
+
+
+#### Fall 2
+
+***Presentation***
+
+* 57åå man
+  * "Till akutmottagningen söker en 57 årig man efter att han svimmade imorse vid frukostbordet. För 2 veckor sedan opererade han ett ljumskbråck. EKG enligt nedan. (OBS ej i skala)"
+
+
 
 ## !! Farmakologi
 

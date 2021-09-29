@@ -55,6 +55,458 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 
 
+## Aorta
+
+### Fall
+
+#### Fall 1 Bukaorta aneurysm
+
+
+
+***Presentation***
+
+* 64åå man
+  * akut debut
+  * ihållande smärta ländrygg
+  * debut 6-9h sedan. 
+  * lätt episod yrslelkänsla
+  * ingen trauma i anamnes
+  * VAS 8
+  * ingen utstrålning
+  * ingen feber
+  * inga bröstsmärtor
+  * ingen andfåddhet, inga miktionssvårigheter, ingen svag extrem, 
+  * anamnes: tablettbeh HT, bälreg, övr frisk
+
+
+
+***Etiologi och patofysiologi***
+
+***Epidemiologi***
+
+***Kliniska kännetecken***
+
+***Utredning och handläggning***
+
+* Enl facit
+
+  * Fokuserad anamnes 
+
+    * Allmänna symptom
+
+      * Feber (nej)
+
+      2. Viktnedgång (nej)
+      3. Trötthet (nej)
+      4. Yrsel (ja)
+
+    * Medicinsk kirurgisk anamnes
+
+      4. tidg. sjd
+      4. bröstsmärtor, andnöd
+      4. hypertoni, 10 års anamnes, aktuella mediciner
+      4. ej genomgått ngt kirurgiskt ingrepp
+
+    * Smärtbeskrivning
+
+      * Lokalisation(medellinje, ländrygg)
+
+      2. Duration (6-9h)
+      3. Kvalitet (konstant, djupt liggande)
+      4. Tidigare erfarit denna smärta?
+
+    * Smärtmedicinering
+
+      4. Typ, dosering, frekvens: ipren 200mg 2x2
+
+    * Kompletterande anamnes
+
+      * Något som förbättrar? (inget)
+
+      2. Något som förvärrar? (inget)
+      3. Intensitet ( 8 på skala 1-10)
+
+    * Radierande symptom
+
+      * Smärtutstrålning till ben? (nej)
+
+      2. Stickningar/nedsatt känsel? (nej)
+
+    * Övriga symptom
+
+      2. Vattenkastningssymptom/inkontinens?(nej)
+      3. Avföringssymptom/inkontinens?(nej)
+      4. Bensvaghet (nej)
+
+    3. Ev trauma
+
+  * Status
+
+    * Blodtryck: sittande hjärtnivå
+    * Bukpalpation: 
+      * liggande pat
+      * palp sysetmatiskt 4 kvadranter samt centralt runt navel
+      * pat hade central smärta
+    * SLR: Liggande el sittande, en sida i taget
+    * Nedre extremiteter
+      * Ödem
+      * PP
+    * Rygg: inspektion, palpation, rörelseomfång
+    * Nerv
+      * sensibilitetsprövning
+      * grovt
+      * senreflexer
+      * babinski
+      * gångprov
+      * tå, hälgång
+    * Neurostatus
+      * grovkraft nedre
+
+
+
+***Behandling***
+
+* Diskussion handläggning
+  * diskuterar indik för rtg: UL, DT/MR
+
+
+
+***Återkoppling***
+
+* Patienten som sökte på närakuten med ryggsmärta hade ett aortaaneurysm. 
+* Detta var var ett autentiskt fall med just denna smärtpresentation. 
+* Smärta presenterar sig inte alltid explicit utan även genom 
+  * t.ex. frustration, 
+  * irritation, 
+  * ge akt på att efterhöra t ex VAS. 
+* Stationen testade konsultationsfärdigheter men även förmåga att misstänka allvarlig sjukdom. 
+* En viktig del av läkaruppgiften är att vara vaksam för "röda flaggor", 
+  * dvs identifiera och utesluta akut allvarlig åkomma. 
+* Ryggundersökning i fallet var helt u a inkl. gångprov tå/hälgång etc. 
+* För de allra flesta studenter uppstod genom lyhördhet i kommunikationen en allians med patienten 
+  * varvid den somatiska undersökningen blev riktad och utförlig visavi patientens symptompresentation. 
+  * I dessa fall kom också undersökaren att validera undersökningsfyndet vid ryggstatus, där inget smärtsvar överhuvudtaget uppstod utan kom först då bukpalpation utfördes, varvid ev. allvarlig åkomma vilken krävde ytterligare utredning snabbt befarades. 
+  * Avseende bukstatus saknades i flera fall systematik vid undersökningen. 
+* ! 400 fall av rupturerat aortaaneurysm förekommer årligen i Sverige med 90% mortalitet varför det är viktigt att känna till att varierande och tidig symptomatologi förekommer
+
+
+
+#### Fall 1
+
+***Presentation***
+
+* 64-årig manlig patient vilken söker på grund av tilltagande ryggsmärta senaste dygnet. I vitalparametrar noteras något lågt BT, hög puls och patienten äv erfarit yrsel i hemmet innan mannen åkt till akutmottagningen
+
+
+
+***Utredning o handläggniign***
+
+* Låter pat berätta om symptom, Tankar, oro, önskan
+* Anamnes
+  * Smärtanamnes
+    * utstrålning
+    * utveckling
+    * kvalitet
+    * förbättrar försämrar (inget)
+  * tidg sjd, operationer
+  * lkm allergier
+  * feber (nej)
+  * viktnedgång (nej)
+  * trötthet (nej)
+  * yrsel (ja)
+  * miktionsproblem, avföringsproblem: nej
+  * bensvagjet: nej
+* Status
+  * Bukstatus: ytligt djupt, 
+  * perifera pulsar, 
+    * spec ljumskar, 
+  * distalstatus
+  * rygg 
+    * pat anger att han ytterst ogärna reser sig , 
+    * gör en ansats att resa sig, 
+    * !!! stud som snabbt går över t framsida ist ges full päng. 
+* Bedömning o åtgärd
+  * rimlig prel bedömning
+    * förstår hotande blödning
+    * behov akut operation
+  * Föreslår adekvata åtgärder
+    * smrätlindirng
+    * rtg
+    * narkos
+    * operation
+  * förklarar diagnos
+    * blir rtg
+    * troligen akut op efter rtg
+* Kliniskt resonemang
+  * kan resonera akut allvar vanl
+  * bed korrekt bårdnivå;
+    * urakut omhändertagande
+* Patkomm
+  * motivrear involverar pat
+
+
+
+
+
+
+
+## Arrytmier
+
+
+
+### Allmän fysiologi
+
+#### EKG
+
+<img src="./figs/sam7_Z20m82rJH4.png" alt=Z20m82rJH4 >
+
+
+
+### Förmaksflimmer
+
+***Etiologi och patofysiologi***
+
+* **Alkoholutlöst**
+
+
+
+***Epidemiologi***
+
+
+
+***Kliniska kännetecken***
+
+
+
+***Utredning och handläggning***
+
+* Identifiera orsak
+  * Hyperthyroidism
+  * elektrolytrubbningar
+  * okontrollerad hypertension
+  * mitralissjd
+* Precipiterande orsaker
+  * KOL,
+  * Nyligen kirurgi
+  * Thorakal infektion
+  * astma
+  * akut infarkt
+  * stark alkohol konsumption
+* Bedöm ventrikulär frekvens och kontroll
+* evaluera hjärtsvikt och förmaksflimmer
+
+
+
+***Behandling***
+
+
+
+#### Fall 1 - KF
+
+***Presentation*****
+
+* **66åå pat**
+  * **trötthet VC**
+  * **tagit EKG, som visar FF med 100-115 frekvens**
+  * **Återbesök 4 månader senare.** 
+    * eko visar lätt förstorade förmak 
+    * elkonvertering har gjorts
+    * inför elkonvertering lades ni waran
+    * trombyl sattes ut
+    * metoprolol sattes in för frekvensreglering
+    * patienten har dock nu återfått förmaksflimmer
+  * **Aktuella lkm**
+    * Waran 2.5mg, enl behschema för att förebygga proppar
+    * Metoprolol orion 200mg 1+0+0 mot hög hjärtfrekvens
+    * Simvastatin 20mg 0+0+1 för blodfetterna
+    * Enalapril actavis 10mg 1+0+0 mot högt BT
+  * **Ta ställning till fortsatt antikoag motivera, chadsvasc lathund**
+    * Ålder
+    * Hypertoni
+
+
+
+***Patofysiologi***
+
+* **Ökade besvär vid fysisk ansträngning vid FF**
+  * frånvaro sinus vid ökande frekvens
+  * ger varierad fyllnad av kamrarna
+  * inget effektivt hjärtminutvolym
+  * förmakskontraktionens relativa betydelse för kamrarnas fyllnad ökar vid ökar hjärtfrekvens, varpå detta inte finns vid FF
+  * Förkortad kammarfyllnad, varpå diastole förkortad
+
+
+
+***Utredning***
+
+* **Snarast utredning**
+  * EKO: utesluta strukturell orsak till flimret
+  * remiss för elkonvertering eftersom pat har sympotm av sitt FF och 
+  * insättning anitkoag som skydd mot embolier
+  * betablockad för frekvensreglering
+  * därmed trolig symptomlindring
+* **CHA2DS2-VASc**
+  * 1 Congestive heart failure
+  * Age
+    * 2: över >=75åå
+    * 1: 65-74
+  * 1 Diabetes
+  * 2 Stroke, TIA, Trombembolism
+  * 1 Vascular disease: Kärlsjukdom
+  * 1 Sex: kvinna
+
+#### Fall 2
+
+Du arbetar som AT-läkare på vårdcentral. Du förbereder nu morgondagens mottagning då Magnus Lindgren ska komma för uppföljning. Magnus Lindgren född 410428-1234 (76 år) sökte dig för 4 veckor sedan på grund av hjärtklappning som kommer och går, samt trötthet och lätt andfåddhet vid ansträngning. I anamnesen -välreglerad diabetes typ 2 sedan 72 års ålder, -läkemedelsbehandlad hypertoni sedan 70 års ålder, -knäledsartros med värk vid fysisk aktivitet, ej nattlig smärta. I status fann du normalvikt, normal andning 15/min, ingen ortopné, diskreta pittingödem, RR ca 80/min, normala toner inga biljud, carotider ausk ua. BT 155/100, buk mjuk, oöm. EKG visade sinusrytm och lätt vänsterkammarbelastning. 
+
+LKM lista
+
+* Trombyl (acetylsalicylsyra, trombocytaggregationshämmande) 75 mg 1 tablett på morgonen
+* Amlodipin (Ca-flödeshämmare) 10 mg 1 tablett på morgonen
+* Metformin (antidiabetikum) 850 mg 1 tablett till frukost, 1 tablett till middagen
+* Simvastatin (blodfettssänkare) 40 mg 1 tablett till kvällen.
+* Ibuprofen (COX-hämmare/NSAID) 400 mg 1 tablett på morgonen, samt 1 tablett vid behov
+
+
+
+i status fann du
+
+* normalvikt, normal andning 15/min, ingen ortopné, diskreta pittingödem,
+* RR ca 80/min, normala toner inga biljud, carotider ausk ua.
+* BT 155/100, buk mjuk, oöm.
+
+
+
+Du beställde prover och remitterade patienten för 24 h-EKG, hjärt-EKO, arbetsprov och blodtryck x 3 hos distriktssköterska. Du har nu svar på prover och undersökningar: Lab: Pro-BNP: 519 (ref <194 ng/L) Hb: 141 (ref 134-170) eGFR: 65 ml/min (ref >90ml/min) HbA1c: 46 mmol/mol (målvärde <52 mmol/mol) P-HDL/P-LDL/P-TG: tecken till dyslipidemi TSH och frittT3/T4: normala värden Na, K, Ca: normala värden
+
+24-h-EKG: Intermittent förmaksflimmer Hjärt-EKO: Ejektionsfraktion 40–45%, inga klaffskador, ingen dyskinesi Arbetsprov: lätt sänkt arbetsförmåga, inga hållpunkter för ischemi.
+
+
+
+Din samlade bedömning blir att Magnus Lindgren har ett intermittent förmaksflimmer och vänsterkammarsvikt, NYHA I, inga hållpunkter för kliniskt signifikant kranskärlssjukdom. Du har också fått resultat från blodtryckskontroller hos distriktssköterska: 157/99, 153/95, 155/ 103
+
+Enligt Chads-Vasc finns indikation för antikoagulantia och du planerar att sätta in apixaban (Eliquis) i dosen 5 mg x 2 och Enalapril 20mg 1 x 1 
+
+Förändringar t lkm lista:
+
+* Trombyl: utsättning; för att inte dubbelbehandling mtp blödniing
+* amlodipin kvar: ace-h in men tryck ej optimalt nu
+* metformin: kvar, har okej gfr, bra DM kontroll
+* simvastatni: kvar, ev doshöja
+* ibuprofen: ut, ej dubbelbeh. 
+  * generellt risk-lm för äldre, för han har njurfunktionsnedsättning
+
+
+
+
+
+
+
+### Infarkt
+
+***Etiologi och patofys***
+
+* **RCA-infarkt**
+  * försörjer SA-nod, AV-nod
+  * bradykardi
+  * AV-block
+* **LAD-infarkt**
+  * Vänstergrenblock
+
+
+
+## Chock
+
+### Allmänt
+
+***Definitionsmässigt***
+
+* Chock definieras som otillräcklig vävnadsperfusion
+* delas in i fyra typer
+  * kardiogen
+  * obstruktiv
+  * distributiv
+  * hypovolem
+
+
+
+
+
+***Kliniska kännetecken***
+
+* Blodtryck
+  * Liggande: under 90mmHg systoliskt
+  * Ortostatiskt: sjunker över 10mmHg
+* Puls
+  * pulsstegring över 15 slag
+* Takykardi: över 100s/min
+* Andning påverkad
+* Dåliga pulsar perifert
+* Perifer påverkan: blekhet, trötthet, letargiskt etc
+* Medvetandepåverkan
+* minskad diures: oliguri, anuri
+
+
+
+
+
+***Åtgärder***
+
+* Bedömning enligt ABCDE
+  * Syrgas
+  * Vätska: två grova infarter 
+
+
+
+### Kardiogen
+
+***Etiologi***
+
+* Hjärtinfarkt
+* Hjärtarrytmi
+
+### Obstruktiv
+
+***Etiologi***
+
+* Lungemboli
+
+### Distributiv
+
+***Etiologi***
+
+* Septisk chock
+* Anafylaktisk chock
+
+### Hypovolem
+
+***Etiologi***
+
+* Hemorrhagisk chock
+* icke-hemorrhagisk chock
+
+
+
+#### Fall 1
+
+* Du misstänker att Lars drabbats av en angina pectoris på grund av en restenos i det stentade området, vilket också bekräftas av en förnyad coronarangiografi och åtgärdas med förnyad PCI.  
+* Tre veckor sedan inkommer Lars under dramatiska former till akutmottagningen där du är jour. Medföljande anhörig berättar att Lars haft ont i magen av och till senaste veckan och nu vid lunchtid började han kräkas blod. AT: Vaken, men svag och slö Cor RR 120 slag/min Pulm ves ua. Förhöjd andningsfrekvens. Blodtryck: 85/60 mmHg
+* Orsak
+  * Vi har en blödningskomplikation till **vår medicinering**, i.e. antitrombotiska och antikoag. 
+
+
+
+### Övriga chockar
+
+***Etiologi***
+
+* Addison kris
+* Grab hypothyreos
+
+
+
+
+
 ## Blodtryck
 
 ### Standardiserad utredning
@@ -149,7 +601,112 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 ## Bröstsmärta
 
-### Fall 1
+### Hjärtinfarkt
+
+#### Allmänt
+
+***Etiologi***
+
+<img src="./figs/sam6_dZvWSqniyH.png" alt=dZvWSqniyH style="zoom:50%">
+
+
+
+
+
+***Utredning och handläggning***
+
+* Indikation **akut cor-angio, primär PCI, eller trombolys** (både 1 och 2 ska uppfyllas): Alltså de mest akuta behandlingarna, för det finns ett alternativ där man lägger in patienten på övervak på HIA
+  * **Infarktmisstanke + smärtdeb ut <12h**
+    * tecken på pågående ischemi kan tidsgrnsen förlängas
+  * **ST-höjningar i EKG**
+    * **EKG kriterier för ST-höjning:**
+      * **ST-höjning i 2 angränsande avledningar,** 
+        * i >=1mm
+        * i V2, V3:
+          * i >=2mm män (>=2.5mm män under 40år), 
+          * i >=1.5mm kvinnor
+      * i frånvaro tecken av vänsterkammarhypertrofi, eller stor Q-vågsinfarkt i samma område
+      * jämför med tidigare EKG
+  * Då går man vidare oavsett troponin. 
+
+
+
+### Instabil angina
+
+#### Allmänt
+
+
+
+***Kliniska kännetecken***
+
+* Bröstet
+  * Smärta
+  * tryck
+  * sveda
+  * duration mer än 20min
+* Nydebuterad angina, ökande symptom senaste 4 veckorna
+
+
+
+***Utredning och handläggning***
+
+* Akut remiss till sjukhus för dessa patienter
+
+
+
+### Stent komplikationer
+
+***Typer***
+
+* In-stent restenos
+  * 6mån efter stentning
+  * orask
+    * neointima hyperplasierar
+    * glatta muskelceller prolifererar alltså
+  * risk: några procent. 
+    * högre risk för de med enbart ballongvidgning
+    * lägre risk för lkm stents
+  * Riskfaktoer
+    * mindre kärl, mindre diameter
+    * diabetiker
+* Stent trombos
+  * 2-4v efter stent; kan ske senare
+  * ger ny infarkt
+  * under 1% risk om dubbel trombocythämning
+  * Orsaker
+    * compliance dubbel trombocythämning
+    * resistens mot klopidogrel
+
+#### Restenos
+
+***Kliniska kännetecken***
+
+* Angina efter stent
+
+
+
+
+
+### Takutsubo
+
+***Kliniska kännetecken***
+
+* STEMI men inget på cor-angio under PCI
+  * Kan leda till misstanke om takutsubo
+* Hypokinesi, apikalt på UL
+
+
+
+***Utrendning och handläggning***
+
+* Anamnes
+  * Stressfaktorer: viktigt att få med i anamnesen
+
+
+
+### Fall
+
+#### Fall 1
 
 ***Presentation***
 
@@ -238,9 +795,7 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 
 
-
-
-### Fall 2 - infarkt
+#### Fall 2 - infarkt
 
 ***Presentation***
 
@@ -318,174 +873,24 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
       * furix
 * Patkom
 
-## Aorta
-
-### Bukaorta aneurysm
-
-
-
-***Presentation***
-
-* 64åå man
-  * akut debut
-  * ihållande smärta ländrygg
-  * debut 6-9h sedan. 
-  * lätt episod yrslelkänsla
-  * ingen trauma i anamnes
-  * VAS 8
-  * ingen utstrålning
-  * ingen feber
-  * inga bröstsmärtor
-  * ingen andfåddhet, inga miktionssvårigheter, ingen svag extrem, 
-  * anamnes: tablettbeh HT, bälreg, övr frisk
-
-
-
-***Etiologi och patofysiologi***
-
-***Epidemiologi***
-
-***Kliniska kännetecken***
-
-***Utredning och handläggning***
-
-* Enl facit
-  * Fokuserad anamnes 
-    * Allmänna symptom
-      * Feber (nej)
-      2. Viktnedgång (nej)
-      3. Trötthet (nej)
-      4. Yrsel (ja)
-    * Medicinsk kirurgisk anamnes
-      4. tidg. sjd
-      4. bröstsmärtor, andnöd
-      4. hypertoni, 10 års anamnes, aktuella mediciner
-      4. ej genomgått ngt kirurgiskt ingrepp
-    * Smärtbeskrivning
-      * Lokalisation(medellinje, ländrygg)
-      2. Duration (6-9h)
-      3. Kvalitet (konstant, djupt liggande)
-      4. Tidigare erfarit denna smärta?
-    * Smärtmedicinering
-      4. Typ, dosering, frekvens: ipren 200mg 2x2
-    * Kompletterande anamnes
-      * Något som förbättrar? (inget)
-      2. Något som förvärrar? (inget)
-      3. Intensitet ( 8 på skala 1-10)
-    * Radierande symptom
-      * Smärtutstrålning till ben? (nej)
-      2. Stickningar/nedsatt känsel? (nej)
-    * Övriga symptom
-      2. Vattenkastningssymptom/inkontinens?(nej)
-      2. Avföringssymptom/inkontinens?(nej)
-      3. Bensvaghet (nej)
-    3. Ev trauma
-  * Status
-    * Blodtryck: sittande hjärtnivå
-    * Bukpalpation: 
-      * liggande pat
-      * palp sysetmatiskt 4 kvadranter samt centralt runt navel
-      * pat hade central smärta
-    * SLR: Liggande el sittande, en sida i taget
-    * Nedre extremiteter
-      * Ödem
-      * PP
-    * Rygg: inspektion, palpation, rörelseomfång
-    * Nerv
-      * sensibilitetsprövning
-      * grovt
-      * senreflexer
-      * babinski
-      * gångprov
-      * tå, hälgång
-    * Neurostatus
-      * grovkraft nedre
-
-
-
-***Behandling***
-
-* Diskussion handläggning
-  * diskuterar indik för rtg: UL, DT/MR
-
-
-
-***Återkoppling***
-
-* Patienten som sökte på närakuten med ryggsmärta hade ett aortaaneurysm. 
-* Detta var var ett autentiskt fall med just denna smärtpresentation. 
-* Smärta presenterar sig inte alltid explicit utan även genom 
-  * t.ex. frustration, 
-  * irritation, 
-  * ge akt på att efterhöra t ex VAS. 
-* Stationen testade konsultationsfärdigheter men även förmåga att misstänka allvarlig sjukdom. 
-* En viktig del av läkaruppgiften är att vara vaksam för "röda flaggor", 
-  * dvs identifiera och utesluta akut allvarlig åkomma. 
-* Ryggundersökning i fallet var helt u a inkl. gångprov tå/hälgång etc. 
-* För de allra flesta studenter uppstod genom lyhördhet i kommunikationen en allians med patienten 
-  * varvid den somatiska undersökningen blev riktad och utförlig visavi patientens symptompresentation. 
-  * I dessa fall kom också undersökaren att validera undersökningsfyndet vid ryggstatus, där inget smärtsvar överhuvudtaget uppstod utan kom först då bukpalpation utfördes, varvid ev. allvarlig åkomma vilken krävde ytterligare utredning snabbt befarades. 
-  * Avseende bukstatus saknades i flera fall systematik vid undersökningen. 
-* ! 400 fall av rupturerat aortaaneurysm förekommer årligen i Sverige med 90% mortalitet varför det är viktigt att känna till att varierande och tidig symptomatologi förekommer
 
 
 
 
-
-
-
-### Fall 1
+#### Fall 3 - chordaruptur
 
 ***Presentation***
 
-* 64-årig manlig patient vilken söker på grund av tilltagande ryggsmärta senaste dygnet. I vitalparametrar noteras något lågt BT, hög puls och patienten äv erfarit yrsel i hemmet innan mannen åkt till akutmottagningen
+* Tidigt på morgonen kl. 07.00 blir du kontaktad av sjuksköterskapå HIA. Patienten har mått bra hela natten men för halvtimme sedan började hon få andningssvårigheter och saturationen ligger på 80 % med syrgas 15 l/min på mask. Du springer till HIA och status är: AT: kallsvettig, takypnoisk dock fullt pratbar, BT: 120/80mmHg, puls: 110/ minut. Lungor: Tydliga basala rassel bilateralt.
+* När du auskulterar hör du regelbunden rytm och ett tydligt nytillkommet systoliskt blåsljud som hörs över hela prekordiet. Du bedömer patientens tillstånd som akut vänstersvikt och du tillkallar hjärtjouren för att genomföra hjärteko
 
 
 
-***Utredning o handläggniign***
+***Etiologi***
 
-* Låter pat berätta om symptom, Tankar, oro, önskan
-* Anamnes
-  * Smärtanamnes
-    * utstrålning
-    * utveckling
-    * kvalitet
-    * förbättrar försämrar (inget)
-  * tidg sjd, operationer
-  * lkm allergier
-  * feber (nej)
-  * viktnedgång (nej)
-  * trötthet (nej)
-  * yrsel (ja)
-  * miktionsproblem, avföringsproblem: nej
-  * bensvagjet: nej
-* Status
-  * Bukstatus: ytligt djupt, 
-  * perifera pulsar, 
-    * spec ljumskar, 
-  * distalstatus
-  * rygg 
-    * pat anger att han ytterst ogärna reser sig , 
-    * gör en ansats att resa sig, 
-    * !!! stud som snabbt går över t framsida ist ges full päng. 
-* Bedömning o åtgärd
-  * rimlig prel bedömning
-    * förstår hotande blödning
-    * behov akut operation
-  * Föreslår adekvata åtgärder
-    * smrätlindirng
-    * rtg
-    * narkos
-    * operation
-  * förklarar diagnos
-    * blir rtg
-    * troligen akut op efter rtg
-* Kliniskt resonemang
-  * kan resonera akut allvar vanl
-  * bed korrekt bårdnivå;
-    * urakut omhändertagande
-* Patkomm
-  * motivrear involverar pat
+* RCI infarkt
+  * Chordaruptur: mitralisinsufficiens
+  * Apikal septumruptur
 
 
 
@@ -624,133 +1029,9 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 
 
-## Arrytmier
-
-### Förmaksflimmer
-
-***Etiologi och patofysiologi***
-
-***Epidemiologi***
-
-***Kliniska kännetecken***
-
-***Utredning och handläggning***
-
-* Identifiera orsak
-  * Hyperthyroidism
-  * elektrolytrubbningar
-  * okontrollerad hypertension
-  * mitralissjd
-* Precipiterande orsaker
-  * KOL,
-  * Nyligen kirurgi
-  * Thorakal infektion
-  * astma
-  * akut infarkt
-  * stark alkohol konsumption
-* Bedöm ventrikulär frekvens och kontroll
-* evaluera hjärtsvikt och förmaksflimmer
 
 
 
-***Behandling***
-
-
-
-#### Fall 1 - KF
-
-***Presentation*****
-
-* **66åå pat**
-  * **trötthet VC**
-  * **tagit EKG, som visar FF med 100-115 frekvens**
-  * **Återbesök 4 månader senare.** 
-    * eko visar lätt förstorade förmak 
-    * elkonvertering har gjorts
-    * inför elkonvertering lades ni waran
-    * trombyl sattes ut
-    * metoprolol sattes in för frekvensreglering
-    * patienten har dock nu återfått förmaksflimmer
-  * **Aktuella lkm**
-    * Waran 2.5mg, enl behschema för att förebygga proppar
-    * Metoprolol orion 200mg 1+0+0 mot hög hjärtfrekvens
-    * Simvastatin 20mg 0+0+1 för blodfetterna
-    * Enalapril actavis 10mg 1+0+0 mot högt BT
-  * **Ta ställning till fortsatt antikoag motivera, chadsvasc lathund**
-    * Ålder
-    * Hypertoni
-
-
-
-***Patofysiologi***
-
-* **Ökade besvär vid fysisk ansträngning vid FF**
-  * frånvaro sinus vid ökande frekvens
-  * ger varierad fyllnad av kamrarna
-  * inget effektivt hjärtminutvolym
-  * förmakskontraktionens relativa betydelse för kamrarnas fyllnad ökar vid ökar hjärtfrekvens, varpå detta inte finns vid FF
-  * Förkortad kammarfyllnad, varpå diastole förkortad
-
-
-
-***Utredning***
-
-* **Snarast utredning**
-  * EKO: utesluta strukturell orsak till flimret
-  * remiss för elkonvertering eftersom pat har sympotm av sitt FF och 
-  * insättning anitkoag som skydd mot embolier
-  * betablockad för frekvensreglering
-  * därmed trolig symptomlindring
-* **CHA2DS2-VASc**
-  * 1 Congestive heart failure
-  * Age
-    * 2: över >=75åå
-    * 1: 65-74
-  * 1 Diabetes
-  * 2 Stroke, TIA, Trombembolism
-  * 1 Vascular disease: Kärlsjukdom
-  * 1 Sex: kvinna
-
-#### Fall 2
-
-Du arbetar som AT-läkare på vårdcentral. Du förbereder nu morgondagens mottagning då Magnus Lindgren ska komma för uppföljning. Magnus Lindgren född 410428-1234 (76 år) sökte dig för 4 veckor sedan på grund av hjärtklappning som kommer och går, samt trötthet och lätt andfåddhet vid ansträngning. I anamnesen -välreglerad diabetes typ 2 sedan 72 års ålder, -läkemedelsbehandlad hypertoni sedan 70 års ålder, -knäledsartros med värk vid fysisk aktivitet, ej nattlig smärta. I status fann du normalvikt, normal andning 15/min, ingen ortopné, diskreta pittingödem, RR ca 80/min, normala toner inga biljud, carotider ausk ua. BT 155/100, buk mjuk, oöm. EKG visade sinusrytm och lätt vänsterkammarbelastning. 
-
-LKM lista
-
-* Trombyl (acetylsalicylsyra, trombocytaggregationshämmande) 75 mg 1 tablett på morgonen
-* Amlodipin (Ca-flödeshämmare) 10 mg 1 tablett på morgonen
-* Metformin (antidiabetikum) 850 mg 1 tablett till frukost, 1 tablett till middagen
-* Simvastatin (blodfettssänkare) 40 mg 1 tablett till kvällen.
-* Ibuprofen (COX-hämmare/NSAID) 400 mg 1 tablett på morgonen, samt 1 tablett vid behov
-
-
-
-i status fann du
-
-* normalvikt, normal andning 15/min, ingen ortopné, diskreta pittingödem,
-* RR ca 80/min, normala toner inga biljud, carotider ausk ua.
-* BT 155/100, buk mjuk, oöm.
-
-
-
-Du beställde prover och remitterade patienten för 24 h-EKG, hjärt-EKO, arbetsprov och blodtryck x 3 hos distriktssköterska. Du har nu svar på prover och undersökningar: Lab: Pro-BNP: 519 (ref <194 ng/L) Hb: 141 (ref 134-170) eGFR: 65 ml/min (ref >90ml/min) HbA1c: 46 mmol/mol (målvärde <52 mmol/mol) P-HDL/P-LDL/P-TG: tecken till dyslipidemi TSH och frittT3/T4: normala värden Na, K, Ca: normala värden
-
-24-h-EKG: Intermittent förmaksflimmer Hjärt-EKO: Ejektionsfraktion 40–45%, inga klaffskador, ingen dyskinesi Arbetsprov: lätt sänkt arbetsförmåga, inga hållpunkter för ischemi.
-
-
-
-Din samlade bedömning blir att Magnus Lindgren har ett intermittent förmaksflimmer och vänsterkammarsvikt, NYHA I, inga hållpunkter för kliniskt signifikant kranskärlssjukdom. Du har också fått resultat från blodtryckskontroller hos distriktssköterska: 157/99, 153/95, 155/ 103
-
-Enligt Chads-Vasc finns indikation för antikoagulantia och du planerar att sätta in apixaban (Eliquis) i dosen 5 mg x 2 och Enalapril 20mg 1 x 1 
-
-Förändringar t lkm lista:
-
-* Trombyl: utsättning; för att inte dubbelbehandling mtp blödniing
-* amlodipin kvar: ace-h in men tryck ej optimalt nu
-* metformin: kvar, har okej gfr, bra DM kontroll
-* simvastatni: kvar, ev doshöja
-* ibuprofen: ut, ej dubbelbeh. 
-  * generellt risk-lm för äldre, för han har njurfunktionsnedsättning
 
 ## Hjärtklappning
 
@@ -863,24 +1144,164 @@ Förändringar t lkm lista:
 
 ***Etiologi och patofysiologi***
 
-* Förmaksflimmer FF: 
+* **Etiologiskt**
+  * **Ischemisk hjärtsjd**: minskad myokardfunktion
+  * **Hypertoni**: leder till vänsterkammarhypertrofi som orsak till hjärtsvikten (vanligast)
+  * **Strukturella orsaker**
+    * Kardiomyopati
+      * **DCM**: dilateradkardiomyopati
+      * **Hypertrof**
+    * **Klaffsjd**
+      * **Aortastenos:** Dessa är ganska viktiga att ha i åtanke när man tänker svikt. 
+  * **Sekundär hjärtsvikt**
+    * **Anemi**
+    * **Metaboliska rubbningar**
+    * **Diabetes**
+    * **Infektioner**
+    * **Rytmrubbningar, arrytmier**: förmaksflimmer
+    * **Amyloidos**
+* **Förmaksflimmer FF:** 
   * hjärtsvikt pga FF har en bra prognos
-* Hjärtsviktare som sen får FF:
+* **Hjärtsviktare som sen får FF:**
   * sämre prognos, för att man försämrar hjärtfunktionen ännu mer. 
+
+
+
+***Typer av svikt***
+
+* **Torr** 
+  * inte samlar på sig vätska, 
+  * i.e. ingen bakåtsvikt
+* **Våt**
+  * om det är bakåtsvikt,     
+  * att man ansamlar en massa vätska
+* **Varm**
+  * att man har perifer 
+  * perfusion, utesluter framåtsikt, (nästan)
+* **Kall**
+  * att man inte har  perifer perfusion, 
+  * indikativt för framåtsvikt
+
+
 
 ***Epidemiologi***
 
 ***Kliniska kännetecken***
 
+* Fr huvud ner
+* Halsvenstas
+* Cyanos
+* Takypne
+* Torrhosta
+* Rassel
+* basal dämånning
+* takyakrdi; flimmer, fladder, 
+* kardiomegali
+* 3e hjärtton, 4e hjärtton
+* hepatomegali
+* ascites
+* Fuktig, kall hud
+* dekliva ödem; ankelödem
+
+
+
+
+
+
+
 ***Utredning och handläggning***
+
+* **Stegvis**
+  * **Anamnes**: samla anamnes
+  * **Blodprover**: NTproBNP: väldigt bra specificitet
+  * **Ekokardiografi**: påverkad EF
+* **Utreda bakomliggande orsak till hjärtsvikten**: hypertoni, hjärtinfarkt, strukturell hjärtsjukdom, degenerativ hjärtsjd, etc. 
+
+
 
 <img src="./figs/sam2_wCB3FnaD7b.png" alt=wCB3FnaD7b style="zoom:70%">
 
 ***Behandling***
 
+* **Akut vänstersvikt**
+  * **CPAP**
+  * **Hjärtläge**
+  * **Nitro**: över 110 systoliskt
+  * **Morfin**: associeras med ökad mortalitet...
+  * **Furix**: över 85 systoliskt
+  * (**betablockad**)
+
+
+
+### Fall
+
+* 48-årig man
+  * remitteras till dig på hjärtmottagningen från husläkare pga. nyupptäckt hjärtsvikt. Bakgrund: Ensamboende, icke rökare, arbetar på kontor. Behandlas för högt blodtryck med amlodipin sedan flera år som enda medicinering. Aktuellt: Tilltagande andfåddhet sedan minst ett halvår. Blir nu påtagligt andfådd bara av att promenera även om han inte går speciellt fort. Inte haft bröstsmärta. Ingen andfåddhet i vila eller liggande. Utredd via husläkare där hjärt-EKO visar lätt dilaterad vänsterkammare med generellt nedsatt rörlighet. EF: 35%. Inga signifikanta klaffvitier. Status: Opåv i vila. Inga ödem. Hjärta: Rgb rytm 80/min. Normala toner, inga blåsljud. BT: 140/80. Lungor: ingen dämpning, vesikulärt andningsljud, inga rassel.
+  * För att utreda
+    * ischemisk hjärtsjd
+    * hypertoni
+    * alkohol
+
+
+
+## Scores
+
+
+
+### CHADSVASc
+
+* **Congestive heartfailure**
+* **Hypertoni**
+* **Age**:
+* **Diabetes**: 
+* **Stroke, TIA, trombembolism**
+* **Vaskulit**
+* **Age2**: 65-74
+* **Sex category**
+
+
+
+### Heart score
+
+***Står för***
+
+* History: infarctions? tidg sjd
+* EKG
+* Age
+* Risk factors
+* Troponin
+
+
+
 
 
 ## Undersökningar
+
+### Auskultation
+
+#### Hjärtton
+
+##### Tredje hjärtton
+
+***Orsaker till tredje hjärtton***
+
+1. **sänkt** **pumpfunktion** hos hjärtat, i.e. det ska vara något fel på hjärtat
+2. (Anemi)
+3. Hjärtsvikt
+4. kardiomyopati
+5. diabetes
+6. akut infarkt
+
+
+
+##### Fjärde hjärtton
+
+1. **Minskad compliance** vänster kammare (preserved ejection fraction?)
+2. Hypertoni
+3. Hypertrofi
+4. Ischemisk kardiomyopati
+
+
 
 ### Blodtrycksmätning
 
@@ -922,7 +1343,9 @@ Förändringar t lkm lista:
 
 
 
-## Farmaka
+
+
+## Ö Farmaka
 
 ### Waran
 
@@ -950,8 +1373,4 @@ Förändringar t lkm lista:
   * då det inte är steget innan karboxyleringen som waran hämmar, utan steget efter, 
   * innebär att om man äter vit K så kommer man att karboxylera fler koagfaktorer
   * därför rekas man inte att äta vit K samtidigt som man äter waran. 
-
-
-
-
 

@@ -62,22 +62,38 @@
 
 ### Anemi
 
+
+
+
+
+***Diagnostik***
+
+<img src="./figs/sam6_Mvt04lvYCf.png" alt=Mvt04lvYCf style="zoom:90%">
+
+
+
 #### Fall 1
 
 Typisk erytrocytindex o utseende vid följande tillstånd
 
-* Renal anemi: 
+* **Renal anemi**: minskad produktion RBC pga minskad EPO. Relateras till kronisk njursjukdom och dess sviktande funtkion. Icke klarlagd mekanism bakom minskad insöndring EPO. https://doi.org/10.1016/j.semnephrol.2006.06.001
   * normocytär; 
   * normalt el minskat retikulocyt
-* anemi pga mens: 
+* **anemi pga mens:** 
   * mikrocytär; 
   * normalt el minskat retikulocyt
-* anemi pga atrofisk gastrit: 
+* **anemi pga atrofisk gastrit:** 
   * makrocytör; 
   * normalt el minskat retikulocyt
-* talassemi: 
+* **thalassemi:** 
   * mikrocytär; 
-  * ökat antal retikulocyter
+  * ökat antal retikulocyter: ökad förstörelse av RBC leder till ökade retikulocyter?
+
+
+
+
+
+
 
 
 

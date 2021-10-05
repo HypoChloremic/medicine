@@ -30,6 +30,16 @@ Ont i halsen
 
 ### Allmänt patient
 
+***Fysiologi***
+
+* Andningsfrekvens: normalt 10-16
+
+### Fall
+
+#### Fall 1
+
+
+
 ***Presentation***
 
 * 62-årig man
@@ -150,7 +160,97 @@ Ont i halsen
 
 
 
+#### Fall 2 - Lungemboli
 
+
+
+
+
+
+
+***Utredning och anamnes***
+
+* Spontananamnes: 
+  	* Vad söker du för? Kanske lite hårt?
+  		* "Det låter väldigt besvärligt, bekräftande"
+  	* Hur började det?
+  		* Tre veckor sedan, stannar i trappan
+  	* Liknande besvär tidigare: Inne i patientens del
+  	* Sedan Tankar: Tänker att d förkylning
+  	* Frågar inte efter Oro, utan förväntningar: 
+  	* Oro: patienten spontant ger oro
+  	* Sammanfatta: Om jag ska försöka förmedla o återkoppla din besöksorsak, sammanfattar väl. 
+  		* Återkopplar Tankar, oro, önskan, 
+
+  * Läkarens del, riktade med frågor
+    	* Andfåddheten ter sig: sökorsaken
+    		* Intervaller etc
+    		* pat: bara vid ansträngning. Andas snabbare för att få luft
+    		* Får ont i sidan när hon djupandar, kan inte djupanda då det gör ont
+    		* När hon vilar sedan blir det bra. 
+    		* Hon har tränat tidigare. 
+    		* Sammanfattar: så fort du anstränger dig, känner du ansträngningen. '
+    		* Förvärrande förlättande. 
+    		* Hur långt behöver du gå för att sluta andfåddheten
+    		* Peka var det gör ont, när du får ont
+    	* Associerade symptom
+    		* Bröstsmärta
+    		* Smärta: bara smärtan sida revben
+    		* Ingen trycksmärta
+    		* Heshet
+    		* Bara rethosta
+    		* hJÄRTA inte oregelbunden
+    		* Ingen B symptom
+    		* ibnga dekliva ödem
+    		* inga tidigare astma
+    		* P-piller sedan två år
+    	* Allmänna symptom
+    		* Illamående kräkning: inga
+    		* Avföring normal
+    	* Andra sjukdomar, tidigare sjd: tidg frisk
+    	* Socialt: jurist, har barn,
+    		* Känneru besvär i samband med arbetet? försöker fånga psykiatriska
+    	* Tobak, alkohol: röker ej eller knappt alkohol. 
+    	* Sammanfattar innan status
+    		* Ansträngningsrelaterad dyspne. 
+    		* Ingen smärtor, förutom smärtan vid sidan. 
+    		* Förbättrar och försämrar. 
+    	* Nämner inte du delen med tankar oro önskan. 
+  * Status
+     * Saturtion: Sjunker saturation när hon går. 
+      * Sammanfattar efter status
+      	* Baserat åp informationen han fått,  skulle vilja utreda lite mer för att vara på den säkra sidan
+      	* Ber henne besöka akutmottagning. För att få svar på. 
+      	* Skickar en remiss till akutmottagniingen, där de gör en bättre utredning på besvären och andfåddhet
+      * Hur låter detta. 
+  * Gemensam del
+     * Troru det är ngt farligt: för lite information. Säger att du kommer få det farliga uteslutet på akuten. 
+      * Ringer och bokar en transport
+      * Kunskapsöverföringen:
+   * **Vidare utredning**
+      * Skicka för DT-lungartärer
+
+  
+  
+  
+  
+  
+
+## Bronk
+
+### Bronkiektasi
+
+***Definition***
+
+* Irreversibel dilatation av bronker
+* Pga destruktion muskulära o elastiska elementen i bronkväggen
+
+
+
+***Patogenes***
+
+* Mekanisk: obstruktiv
+* Non-obstruktiv
 
 
 
@@ -161,6 +261,27 @@ Ont i halsen
 ### Allmänt
 
 
+
+***Kliniska kännetecken***
+
+* !! **Andningsfrekvens**: Den kan förändras
+* 
+
+
+
+***Utredning - IST-relaterat***
+
+* **Anamnes:** Lyssna på spontananamnesen, för att man får då diagnosen direkt
+  * Du söker pga andfåddhet i samband med ansträngnign och rethosta, 
+  * Ju mer man sammanfattar, desto mer man läser en beskrivning för hur en lungemboli ter sig. 
+* **D-dimer**: endast vid låg klinisk sannolikeht
+  * När man har lång anamnes, är den särskilt dålig
+  * Då är den falskt negativ. 
+* ?? **Wells-score**: Värdet med denna
+* !! **POX-promenad**: viktigt att göra detta
+  * !! Patienten kan kompensera för syrgasnedsättning gm att andas lite fortare. 
+  * Var kreativa, man kan sätta de på cykel. 
+* // Tänk på allmäntillståndet, andningsfrekvensen kan vara det enda som är påverkat. 
 
 
 

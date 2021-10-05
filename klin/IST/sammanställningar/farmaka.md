@@ -65,6 +65,15 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
 
 
 
+### Läkemedel
+
+#### Flumazenil
+
+* **Ska användas varsamt**
+* **Sänker kramptröskel**: ökad risk för att få kramper, varpå farligt. 
+
+
+
 ### Tenta
 
 #### Fall 1 - typer biverk
@@ -89,22 +98,22 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
 
 
 
-* Escitalopram
+* **Escitalopram**
   * hyponatremi
   * hypokalemi
-* Tiaziddiuretikum
+* **Tiaziddiuretikum**
   * Hypokalemi
   * Hyponatremi
   * Hyperkalcmei
-* Spironolakton
+* **Spironolakton**
   * Hyperkalemi
   * Hyponatremi
-* Enalapril
+* **Enalapril**
   * Hyponatremi
   * Hyperkalemi
-* Karbamazepin
+* **Karbamazepin**
   * Hyponatremi
-* Kolekalciferol
+* **Kolekalciferol**
   * Hyperkalcemi
 
 

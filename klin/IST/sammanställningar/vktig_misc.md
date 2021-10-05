@@ -12,7 +12,7 @@
 
 
 
-## Frågor
+## Frågor t pat
 
 * Nyligen tandinfektion
 * Tobak + alkohol
@@ -23,6 +23,13 @@
 * ! Tandinfektion, tandstatus
 
 ## Behandlingar
+
+### Akuta åtgärder
+
+#### Hemoptys
+
+* **Sänka huvudända**: så att blod inte ackummulerar luftvägar, utan mha gravitation, driver blodet ut, via munhåla. 
+* **Lägga på samma sida som blödningskälla**: om möjligt avgöra vilken sida blödningen kommer ifrån och lägga patienten på den sidan, så att blodet glider med och inte droppar.. (blöningskälal ska vara golvet) (s183 SDT)
 
 ### Hjärtsviktare
 
@@ -233,7 +240,7 @@ Typisk erytrocytindex o utseende vid följande tillstånd
 * Kriterium F
   * autism eller kommunikation åpverkad: om pat sedan tidigare är autist el komm påverkad, då additional schiz diagnos kräver prominenta vanförestllningar o hallucinationer, med de  andra symptomen för schiz, minst 1 månad. 
 
-## Frågor
+## Gen frågor
 * Fara med diuretika och användning hos hjärtsviktare: RAAS aktiveras för mkt, drf försöker man minimera dos så mkt som möjligt. 
 * Hur funkar Kapnografi: Mäter co2 i luftflöden ur luftvägarna (via mun o näsa). 
   * inandning, ingen co2, därför zero-baseline
@@ -264,4 +271,15 @@ Typisk erytrocytindex o utseende vid följande tillstånd
 
 * Omsättningen, turnover rate för trombocyter: 7-10d
 * Omsättningen, turnover rate för erytrocyter: 120d
+
+
+
+***Alkoholbruk***
+
+* **Motiverande samtal**
+  * Till en början behöver inte veta så mkt om detta
+  * Kan ta det stegvis
+  * **Lkm minskar sug**: Informera om att det finns möjligheter att minskar suget. 
+
+
 

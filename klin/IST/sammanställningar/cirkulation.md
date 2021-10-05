@@ -262,6 +262,12 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 
 
+
+
+
+
+
+
 ### Förmaksflimmer
 
 ***Etiologi och patofysiologi***
@@ -415,93 +421,161 @@ Förändringar t lkm lista:
 
 
 
-## Chock
 
-### Allmänt
 
-***Definitionsmässigt***
+### Utredningar
 
-* Chock definieras som otillräcklig vävnadsperfusion
-* delas in i fyra typer
-  * kardiogen
-  * obstruktiv
-  * distributiv
-  * hypovolem
+#### Alarmsymptom
+
+* Svimnign
+* Bröstsmärta
+* Dyspne
+* Kraftig Yrsel
 
 
 
-
-
-***Kliniska kännetecken***
-
-* Blodtryck
-  * Liggande: under 90mmHg systoliskt
-  * Ortostatiskt: sjunker över 10mmHg
-* Puls
-  * pulsstegring över 15 slag
-* Takykardi: över 100s/min
-* Andning påverkad
-* Dåliga pulsar perifert
-* Perifer påverkan: blekhet, trötthet, letargiskt etc
-* Medvetandepåverkan
-* minskad diures: oliguri, anuri
+// Då gör man utredningen även på en yngre person
 
 
 
+#### Långtids-EKG, Holter
+
+***Indikationer***
+
+* Förmaksflimmer: vanligaste orsaken till att man letar efter detta. 
+* VES
+* SVES
 
 
-***Åtgärder***
 
-* Bedömning enligt ABCDE
-  * Syrgas
-  * Vätska: två grova infarter 
+***Notera***
 
-
-
-### Kardiogen
-
-***Etiologi***
-
-* Hjärtinfarkt
-* Hjärtarrytmi
-
-### Obstruktiv
-
-***Etiologi***
-
-* Lungemboli
-
-### Distributiv
-
-***Etiologi***
-
-* Septisk chock
-* Anafylaktisk chock
-
-### Hypovolem
-
-***Etiologi***
-
-* Hemorrhagisk chock
-* icke-hemorrhagisk chock
+* Ålder
+  * Yngre patienter: Sannolikheten att det är ett förmaksflimmer är mindre, därför kanske inte den direkta indikationen för att göra ett Holter
+    * den andra läkaren säger sig vara friskostig att skicka på långtids-EKG ändå, för att man ska ge svar på patienten även mo det är SVES som är godartade, då kan man förklara för patienten,
+    * evt ge Betablockad
+    * Alltså the jury is split, men andra läkaren säger att det inte är den största indikationen om patienten är yngre att skicka iväg en patient på EKG. 
+    * **Fall där det är farligt**: 
+      * **Alarmsymptom**: svimning, bröstsmärta, dyspne, biljud, klaffljud..
 
 
+
+***Typ av långtidsregistrering***
+
+* Kan välja upp t 72h, beställa på klinfys
+
+
+
+
+
+#### !! Thyroidea
+
+* OBLIGAT att göra på IST för dessa patienter
+* !! Notera att man ska titta på film för att se hur denna status utförs. 
+
+
+
+### Fall
 
 #### Fall 1
 
-* Du misstänker att Lars drabbats av en angina pectoris på grund av en restenos i det stentade området, vilket också bekräftas av en förnyad coronarangiografi och åtgärdas med förnyad PCI.  
-* Tre veckor sedan inkommer Lars under dramatiska former till akutmottagningen där du är jour. Medföljande anhörig berättar att Lars haft ont i magen av och till senaste veckan och nu vid lunchtid började han kräkas blod. AT: Vaken, men svag och slö Cor RR 120 slag/min Pulm ves ua. Förhöjd andningsfrekvens. Blodtryck: 85/60 mmHg
-* Orsak
-  * Vi har en blödningskomplikation till **vår medicinering**, i.e. antitrombotiska och antikoag. 
+***Presentation***
+
+* 61-årig kvinna, 
+  * idrottslärare, fysiskt aktiv. Patienten söker nu med 2 månaders anamnes på intermittent hjärtklappning cirka 10 min ej direkt korrelation till fys akt. Igår känt efter spinning pass varför pat kommer idag. Svettningar i samband med menopaus, ej längre. Ingen övrig symptomatologi. Ingen viktnedgång. Mår bra i övrigt trivs på arbetsplatsen. Sparsamt alkohol, aldrig rökt. En bror tablettbeh hypertoni. Mor och far i livet, mor 87 år spinalstenos, far 86 år, höftop x 2 förhållandevis pigg för sin ålder. 
 
 
 
-### Övriga chockar
+***Utredning och handläggning***
 
-***Etiologi***
+* **Patientkommunikation**
+  * Startar öppen fråga, bereder patienten talutrymme för sin berättelse
+  * klargör vad pat sj tänker kring symptom o problem
+  * klargör pats oro kring symptom o problem
+  * utforskar vad pat vill få ut av besök
+  * bekräftar pat känslomässigt, verbalt, icke verbalt
+  * gör relevanta sammanfattningar
+  * förvissar sig om att patienten fått diskutera sina frågor o ger utrymme för patienen att ställa ev kompletterande frågor
+* ***Delaktighet enligt patientlagen §5***
+  * !! mot vad bagkrund av vad som framkommit i anamnes o status, förkalrar motiverar o involverar patienten i fortsatt planering o beslutsfattande
+* **Anamnes**
+  * **SOCRATES, hjärtklappningen**
+    * karaktär
+    * duration
+    * förlopp över tiden
+    * utlösande faktorer, förbättrar, försämrar
+  * **Associerade symptom**
+    * bröstsmärta
+    * andfåddhet
+    * bensvullnad
+    * tecken katekolamin påslag, 
+    * tecken thyroidea
+    * flush
+    * tremor
+    * muskelsvaghet
+    * utforskar stressnivå: Vad jobbar du med, trivs du? Är det stressigt på jobbet?
+  * **Allmänna symptom**
+    * trötthet
+    * feber
+    * viktnedgång
+    * aptit
+    * avföringsvanor
+    * blod i avföring
+    * hereditet
+      * kardiovaskulär
+      * endokrint
+      * annat
+  * **socialt**: yrke, fysisk aktivitet
+  * **tobak, alkohol**
+  * **medicinering**
+    * typ, dosering, effekt, inkl naturpreparat
+    * Receptfria läkemedel
+* **Status**
+  * **Hjärta**
+    * 4 locales
+    * carotider
+    * axill
+    * papill ictus
+  * **halsvensstas**
+  * **perifer öderm**
+  * **Lunga**
+    * perkussion
+    * auskultation
+  * **Lymfkörtlar**
+  * **Thyroidea**
+  * **bukstatus**
+* **Kliniskt resonemang**
+  * kan resonera, akut, allvarligt, vanligt
+  * att värdera o priotera utifrån patientens symptompresentation
+    * hjärtklappning
+    * svettningar
+  * utesluta kardiell etiologi
+  * bekta endokrin/thyroidea
+  * övriga ev malignitetstecken
+  * psykisk etiologi
+  * alkoholsm
+  * bed korrekt vårdnivå
+* **Gör rimlig prel bedömning**
+* **Åtgärder: föreslår adekvata åtgärder**
+  * planerar adekvat o riktat
+  * provtagning
+    * Hb
+    * K
+    * krea
+    * p-glukos
+    * TSH
+    * T3,T4
+    * NT-proBNP
+    * 24h EKG, holter
+    * Ger inga extra poäng
+      * PK/INR
+      * EKO
 
-* Addison kris
-* Grab hypothyreos
+
+
+#### Fall 2 - Paroxysmal SVT
+
+* Läkare: Din nästa patient är en 62-årig kvinna/man som söker pga hjärtklappning. Patienten har inte varit på mottagningen tidigare.  EKG visar sinusrytm ua, frekv 60 BT 120/65
 
 
 
@@ -597,9 +671,28 @@ Förändringar t lkm lista:
   * Pat har claudicatio intermittens, insättning betablockerare? olämpligt
   * Pat har gikt, insättning tiazid? Olämpligt
 
+## Blödning
+
+### Hemoptys
+
+***Etiologi***
+
+* Enl (s184, SDT)
+  * Akuta, brådskande fall
+    * Lungemboli
+    * Pneumoni
+    * Mitralisstenos
+    * Hjärtsjukdom
+  * Vanliga orsaker
+    * Bronkial-cancer
+    * Bronkit
+    * !! Bronkiektasi: irreversibel dilatation av bronker, pga destruktion muskulära + elastiska element bronkväggen
+
 
 
 ## Bröstsmärta
+
+
 
 ### Hjärtinfarkt
 
@@ -634,6 +727,18 @@ Förändringar t lkm lista:
 ### Instabil angina
 
 #### Allmänt
+
+***Definition***
+
+* **Nydebuterad angina**
+  * **All nydebuterad angina pectoris** med progredierande symptom senaste 4 veckorna
+  * **Känd angina med förvärrat smärtmönster**: de senaste 4 veckorna
+    * blivit dagliga
+    * mer lättlutlösta
+    * mer långdragna
+    * svar sämre på nitro
+    * uppträder i vila
+  * **Lättutlöst angina pectoris** de förstra 4v efter akut hjärtinfarkt. 
 
 
 
@@ -712,8 +817,6 @@ Förändringar t lkm lista:
 
 * 60-årig kvinna/man 
   * med kontorsarbete, normalviktig, sparsamt fysisk aktivitet, gift. Delar en flaska vin med make/maka per vecka, rökare (5 cig/dag) fram tills för 4 år sedan då barnbarn fötts. Söker med 4-5 veckors anamnes med 5 episoder med initialt lättare kramande tryckande central bröstsmärta vid lättare ansträngning, initialt kommit vid promenad, symptomen exaecerberats över tid, igår tillkomst av vegetativa symptom med illamående, kallsvettighet i samband med att patienten skyndat fram till bussen, VAS 7 som värst, smärtan satt i över 20 minuter. Söker nu på VC. Inga besvär i vila. I anamnesen tablettbehandlad hypertoni, varit välreglerad. Patienten själv hade även fråga kring glutenintolerans. 
-
-
 
 
 
@@ -894,6 +997,115 @@ Förändringar t lkm lista:
 
 
 
+
+
+#### Fall 4 - Instabil angina
+
+***Presentation***
+
+* Katrin berättar att besvären uppstod för ca en vecka sen, att hon aldrig haft dessa symtom tidigare. Att värken känns som ett band runt bröstet och går över då hon vilar, ev är andningen är ngt tyngre nattetid och att besvären kommer oftare nu än i början. Hon har tidigare arbetat som svetsare vid Skanska men pensionerades för 7 år sedan. Har aldrig rökt. Upp till 5-6 glas vin per vecka men aldrig mer. Inte legat på sjukhus och enda läkarkontakten är vårdcentralen. Hon är gift och har en dotter som är sjuksköterska i Malmö och som rekommenderat henne söka snarast möjligt för sina besvär.
+* I status noterar du: AT gott och opåverkad. Inga perifera inkompensationstecken. Cor: Regelbunden rytm, frekvens c.a. 80. Bltr: 130/70. Pulm: Du anar diskreta rassel basalt bilateralt. Buk: Mjuk och oöm. Ingen hepato-splenomegali.
+
+
+
+
+
+## Chock
+
+### Allmänt
+
+***Definitionsmässigt***
+
+* Chock definieras som otillräcklig vävnadsperfusion
+* delas in i fyra typer
+  * kardiogen
+  * obstruktiv
+  * distributiv
+  * hypovolem
+
+
+
+
+
+***Kliniska kännetecken***
+
+* Blodtryck
+  * Liggande: under 90mmHg systoliskt
+  * Ortostatiskt: sjunker över 10mmHg
+* Puls
+  * pulsstegring över 15 slag
+* Takykardi: över 100s/min
+* Andning påverkad
+* Dåliga pulsar perifert
+* Perifer påverkan: blekhet, trötthet, letargiskt etc
+* Medvetandepåverkan
+* minskad diures: oliguri, anuri
+
+
+
+
+
+***Åtgärder***
+
+* Bedömning enligt ABCDE
+  * Syrgas
+  * Vätska: två grova infarter 
+
+
+
+### Kardiogen
+
+***Etiologi***
+
+* Hjärtinfarkt
+* Hjärtarrytmi
+
+### Obstruktiv
+
+***Etiologi***
+
+* Lungemboli
+
+### Distributiv
+
+***Etiologi***
+
+* Septisk chock
+* Anafylaktisk chock
+
+### Hypovolem
+
+***Etiologi***
+
+* Hemorrhagisk chock
+* icke-hemorrhagisk chock
+
+
+
+#### Fall 1
+
+* Du misstänker att Lars drabbats av en angina pectoris på grund av en restenos i det stentade området, vilket också bekräftas av en förnyad coronarangiografi och åtgärdas med förnyad PCI.  
+* Tre veckor sedan inkommer Lars under dramatiska former till akutmottagningen där du är jour. Medföljande anhörig berättar att Lars haft ont i magen av och till senaste veckan och nu vid lunchtid började han kräkas blod. AT: Vaken, men svag och slö Cor RR 120 slag/min Pulm ves ua. Förhöjd andningsfrekvens. Blodtryck: 85/60 mmHg
+* Orsak
+  * Vi har en blödningskomplikation till **vår medicinering**, i.e. antitrombotiska och antikoag. 
+
+
+
+### Övriga chockar
+
+***Etiologi***
+
+* Addison kris
+* Grab hypothyreos
+
+
+
+
+
+
+
+
+
 ## Fall (ramla)
 
 ### Fall i hemmet
@@ -1035,101 +1247,6 @@ Förändringar t lkm lista:
 
 ## Hjärtklappning
 
-### Fall 1
-
-***Presentation***
-
-* 61-årig kvinna, 
-  * idrottslärare, fysiskt aktiv. Patienten söker nu med 2 månaders anamnes på intermittent hjärtklappning cirka 10 min ej direkt korrelation till fys akt. Igår känt efter spinning pass varför pat kommer idag. Svettningar i samband med menopaus, ej längre. Ingen övrig symptomatologi. Ingen viktnedgång. Mår bra i övrigt trivs på arbetsplatsen. Sparsamt alkohol, aldrig rökt. En bror tablettbeh hypertoni. Mor och far i livet, mor 87 år spinalstenos, far 86 år, höftop x 2 förhållandevis pigg för sin ålder. 
-
-
-
-***Utredning och handläggning***
-
-* **Patientkommunikation**
-  * Startar öppen fråga, bereder patienten talutrymme för sin berättelse
-  * klargör vad pat sj tänker kring symptom o problem
-  * klargör pats oro kring symptom o problem
-  * utforskar vad pat vill få ut av besök
-  * bekräftar pat känslomässigt, verbalt, icke verbalt
-  * gör relevanta sammanfattningar
-  * förvissar sig om att patienten fått diskutera sina frågor o ger utrymme för patienen att ställa ev kompletterande frågor
-* ***Delaktighet enligt patientlagen §5***
-  * !! mot vad bagkrund av vad som framkommit i anamnes o status, förkalrar motiverar o involverar patienten i fortsatt planering o beslutsfattande
-* **Anamnes**
-  * SOCRATES
-    * karaktär
-    * duration
-    * förlopp över tiden
-    * utlösande faktorer, förbättrar, försämrar
-  * Associerade symptom
-    * bröstsmärta
-    * andfåddhet
-    * bensvullnad
-    * tecken katekolamin påslag, 
-    * tecken thyroidea
-    * flush
-    * tremor
-    * muskelsvaghet
-    * utforskar stressnivå
-  * allmänna symptom
-    * trötthet
-    * feber
-    * viktnedgång
-    * aptit
-    * avföringsvanor
-    * blod i avföring
-    * hereditet
-      * kardiovaskulär
-      * endokrint
-      * annat
-  * socialt: urke, fys aktivitet
-  * tobak, alkohol
-  * medicinering
-    * typ, dosering, effekt, inkl naturpreparat
-* **Status**
-  * **Hjärta**
-    * 4 locales
-    * carotider
-    * axill
-    * papill ictus
-  * **halsvensstas**
-  * **perifer öderm**
-  * **Lunga**
-    * perkussion
-    * auskultation
-  * **Lymfkörtlar**
-  * **Thyroidea**
-  * **bukstatus**
-* **Kliniskt resonemang**
-  * kan resonera, akut, allvarligt, vanligt
-  * att värdera o priotera utifrån patientens symptompresentation
-    * hjärtklappning
-    * svettningar
-  * utesluta kardiell etiologi
-  * bekta endokrin/thyroidea
-  * övriga ev malignitetstecken
-  * psykisk etiologi
-  * alkoholsm
-  * bed korrekt vårdnivå
-* **Gör rimlig prel bedömning**
-* **Åtgärder: föreslår adekvata åtgärder**
-  * planerar adekvat o riktat
-  * provtagning
-    * Hb
-    * K
-    * krea
-    * p-glukos
-    * TSH
-    * T3,T4
-    * NT-proBNP
-    * 24h EKG, holter
-    * Ger inga extra poäng
-      * PK/INR
-      * EKO
-
-
-
 
 
 
@@ -1142,7 +1259,9 @@ Förändringar t lkm lista:
 
 ***Presentation***
 
-***Etiologi och patofysiologi***
+
+
+***Etiologi***
 
 * **Etiologiskt**
   * **Ischemisk hjärtsjd**: minskad myokardfunktion
@@ -1167,6 +1286,21 @@ Förändringar t lkm lista:
 
 
 
+***Patofysiologiskt***
+
+* **Ökad ventilatorisk drive**
+  * While the production of lactate benefits the patient by allowing him to walk limited distances at work levels above which the cardiovascular system is capable of supplying the entire oxygen need, it has disturbing effects on breathing in two ways: 
+    * **Ökad co2 fr buffrat laktat**
+      * The added amount of C02 produced from the buffering of lactic acid by bicarbonate adds an additional C02 load to the respiratory system that must be eliminated to prevent arteri¬ al Pco2 from rising, and 
+    * **the increased hydrogen ion concentration** 
+      * caused by the reduction of blood bicarbonate stimulates the respiratory control mechanism (carotid bodies) to 
+      * cause a further ventilatory increase, 
+      * thereby lowering arterial Pco2 and 
+      * providing respiratory compensation for the metabolic acidosis.
+  * doi:10.1001/jama.1982.03330160083033
+
+
+
 ***Typer av svikt***
 
 * **Torr** 
@@ -1186,6 +1320,8 @@ Förändringar t lkm lista:
 
 ***Epidemiologi***
 
+
+
 ***Kliniska kännetecken***
 
 * Fr huvud ner
@@ -1202,6 +1338,7 @@ Förändringar t lkm lista:
 * ascites
 * Fuktig, kall hud
 * dekliva ödem; ankelödem
+* nattlig hosta: lungödem bildning
 
 
 
@@ -1216,6 +1353,17 @@ Förändringar t lkm lista:
   * **Blodprover**: NTproBNP: väldigt bra specificitet
   * **Ekokardiografi**: påverkad EF
 * **Utreda bakomliggande orsak till hjärtsvikten**: hypertoni, hjärtinfarkt, strukturell hjärtsjukdom, degenerativ hjärtsjd, etc. 
+* **Det förekommer ett antal graderingar av hjärtsvikt där EKO bedömningen är central.** 
+  * **HFREF**: Vi har  hjärtsvikt med reducerad EF, 
+  * För den första      typen av hjärtsvikt **behövs inte NT-proBNP (eller      avbildning),**      utan **enbart kliniska tecken** och **en siffra på EF**
+* **Resterande kräver** 
+  * **också proBNP** samt 
+  * **vänsterkammar hypertrofi** 
+  * eller **förmaks dilatation på eko**, 
+  * alternativt nedsatt diastolisk funktion. 
+  * **Diagnoser**
+    * **HFMREF**: hjärtsvikt med midrange reduktion EF och 
+    * **HFpEF**: hjärtsvikt med preserverad EF. 
 
 
 
@@ -1241,6 +1389,163 @@ Förändringar t lkm lista:
     * ischemisk hjärtsjd
     * hypertoni
     * alkohol
+
+## Perifer Cirkulation
+
+### Claudicatio intermittens
+
+
+
+#### Allmänt
+
+***Utredning***
+
+* Status
+  * Minskad behåring
+  * kallt
+  * distalt status
+* Ankeltryck, tåtryck
+* PCU: perifer cirkulationsutredning. 
+
+
+
+***Differentialdiagnoser***
+
+* Ryggbesvär, centralt påverkat
+* Kritisk ischemi
+* Spinal stenos: Denna är viktigt att komma ihåg. 
+  * Strålande smärta
+  * Bättre när de böjer sig: bättre när du cyklar, skjuter kundvagnen, rullator. 
+  * Lasegue kan vara positivt. 
+  * Äldre patienter också . 
+* Höftartros
+* Knäartros
+* Lumbago ischias: kan efterlikna claudicatio. 
+* // Diskbråck: oftast är diskbråck ensidigt, det är ovanligt att det är symmetriskt
+
+
+
+***Relaterade diagnoser***
+
+* Att man tänker bredare rent diagnostiskt, att man ska tänka på en kärlsjuka.
+
+
+
+***Behandling***
+
+* Riskfaktorsanering
+  * Rökstopp
+  * Kostråd
+* Farmakologiskt
+  * !! Trombyl insättning (IST)
+* Fysioterapi
+* Fysisk aktivitet på recept
+
+
+
+### Utredning
+
+#### !! Ankeltryck, tåtryck
+
+***Var***
+
+* Kan göra detta på plats
+* Använda en doppler 
+
+
+
+***Svårtolkade fall***
+
+* Diabetiker: att det blir högre tryck ankel brachi index, att man får lite mer tryck, 
+  * därför tar tåtryck. 
+
+
+
+***Tolkning***
+
+* Ankel arm index på 0.5 = dåligt
+
+
+
+
+
+#### Doppler undersökning
+
+***Allmänt***
+
+* Kan göra detta på alla vårdcentraler
+* Ta 
+
+
+
+#### Ultraljud
+
+Remiss till Klinfys
+
+
+
+
+
+
+
+### Fall
+
+#### Fall 1 - claudicatio
+
+***Utredning och handläggning***
+
+* Anamnes
+  * Patientens del
+    * Varför söker du idag
+    * 72åå, Per-Wester
+    * Smärtor båda hans ben, senaste halvåret. 
+    * Vet inte riktigt vad det beror på, har bara kommit
+    * Har inte blivit värre, men kommer när han är aktiv
+    * Särskilda tankar om vad det kan vara? Vet inte, tror att det kan ah att göra med ryggen
+    * Orolig för, särskilt? Kan utvecklas till ngt handikappande, att ha ninte komme rkunna gå i framtiden
+      * Förstår att du är orolig när du har såhär ont i benen
+    * Önskemål: 
+      * Ta en röntgen
+    * Sammanfattar här. 
+  * Läkarens del
+    * Bensmärtorna
+      * Båda benen du har ont i
+      * Utveckligen av bensmärtorna: har inte blivit bättre
+      * Tycker förvärras vid aktivitet: smärtorna kommer bara under aktivitet. 
+      * Så fort han använder sin aben som det gör ont. Både under promenader eller springer etc.
+      * Uppskatat hur långt behöver gå innan det gör ont: efter ett par hundra meter. 
+      * Vad händer nrä det gör så ont: Måste stanna såklart, kan inte gå näre gör ont, blir bättre i vila
+      * Karaktär på smärta: Generell smärta, heltäckande, inte en punkt. 
+      * Lokalisation: Mest i vaderna. 
+    * Associerade symptom
+      * Inga smärtor ngn annanstans i kroppen
+      * Svullnad eller bensår: tkr inte det, ser helt normalt ut tkr pat. 
+      * 
+    * Frisk annars:
+      * Diabetes
+      * Hypertoni
+    * Mediciner
+      * Enalapril
+      * Statiner
+      * Metformin
+    * Ärftlighet hjärtkärlsjd
+      * Släkting med diskbråck
+    * Socialt
+      * Pensionär
+      * Jobbat på antikvariet. Böcker
+      * Hur bor du: bor sj just nu. 
+    * Rökning: röker cigariller, röker ngn gg per vecka. Feströker. 
+      * Inte regelbunden rökare tidigare
+    * Alkohol
+      * Blir ett glas till helgen
+    * Aktivitet
+      * Promenader
+      * Tränar med vikter etc
+      * Hur ofta tränar du: blir ett par gånger per vecka
+
+
+
+
 
 
 

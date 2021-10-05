@@ -30,7 +30,299 @@ Trötthet
 
 
 
+
+
+## Alkohol
+
+
+
+### Alkoholbrukssyndrom
+
+
+
+**Patofysiologiskt**
+
+1. **akut affekter alkohol**
+
+2. 1. eufori,  
+   2. ångestdämp, 
+   3. hämning, 
+   4. ökat självförtroende, 
+   5. sluddrigt tal,      
+   6. koordinationsstörning, 
+   7. affektlabil, 
+   8. aggressivitet, 
+   9. melankoli, 
+   10. trötthet      
+   11. (sedation, koma, död).
+
+ 
+
+**Handläggning och utredning**
+
+1. Patient med  misstänkta alkoholproblem
+
+2. **Läkemedel minskar sug**:     
+
+   1. fråga om känner till lkm som kan minska sug, 
+   2. ökar intresse hos pat, 
+   3. inger hopp; 
+   4. !! **om pat vill veta mer -> innebär att de tror d finns ett problem**
+
+3. **Inte för mkt info på en gång**: TIll att börja med inte  nödvändigt att veta så mkt om drickandet
+
+4. **Fortsatta samtal** ->     tryggare -> vid behov kan göra **AUDIT-C**
+
+5. 1. **AUDIT-C** efterfrågar osså negativa konsekvenser av drickandet
+   2. dessa neg      konsekvenser -> grund för motiverande samtal (MI nterviewing)
+
+6. **Hälsokoll alkohol, som man sen sammanställer för att presentera för pat vid återbesök:** pat intresserad av veta mer, eller ändra vanor, föreslår     detta
+
+7. 1. **beställer**: transaminaser, GT, MCV, och evt PEth/CDT
+   2. **frågeformulär fylla i hemma**
+   3. bokar 30 min besök någraveckor för att diskutera sammanställningen
+   4. **hittills:** detta      kan ha god effekt för pat, för att den får överblick, kan räcka som beh i      vissa fall
+
+8. **Vad gäller behandling**
+
+9. 1. **Pat väljer sj:** 
+      1. information om alla alternativ, 
+      2. evidens svag för att läk bestämmer
+   2. **KBT**: erbjudas
+
+10. 1. **kommunen**: återfallsprevention, eller annan
+    2. **AA**:  frivillig organisation för att bli helt nykter
+    3. **alkoholhjälpen.se**: anonymt
+    4. **Läkemedel:** nära till hands, lätta använda, ibland men inte alltid påtagliga      effekter, gm många uppföljningar förbättrar osså
+
+ 
+
+**Diagnos**
+
+1. Oavset vilken substans, ska föreligge 3 ja svar senaste 12 månader = beroende
+
+2. 1. gradering
+
+   2. 1. 2-3       kriterier = mild
+      2. 4-5 måttlig
+      3. \>5 kriterier = svår
+
+3. 1. **tolerans**
+
+4. 1. **abstinenssymptom**, eller fortgår bruk för att hindra sådana
+   2. **Kontrollförlust.** drog används längre tid än avsågs prioriterat. 
+   3. **minska intag**: önskat, eller misslyckat
+   4. **livet dedikerat åt bruket**: att skaffa, konsumera, återhämta fr vru
+   5. **Socialt**:      viktiga sociala aktiviteter försummas
+   6. **trots skadeeffekt**: fortgår bruket
+   7. **skyldigheter**: försummar skuldigheter, pga substansbruk
+
+5. 1. **bruk i farliga situationer**
+
+6. 1. **sug/begär**: efter substans
+   2. **fortsatt bruk**: trots återkommmande proble, socialt, pga drogeffekter
+
+ 
+
+**Bruksnivåer**
+
+1. **skadligt bruk**
+
+2. 1. Skadligt bruk      innebär ett mönster av användning av psykoaktiva substanser, till exempel      alkohol, som skadar hälsan. Skadan kan vara fysisk (som i fall av hepatit      efter injektion av psykoaktiva substanser) eller psykisk (till exempel      perioder av depression sekundärt till stort intag av alkohol).      Nedanstående är en sammanfattning av kriterierna i ICD-10:
+
+   2. 1. Klara bevis för       psykiska eller fysiska skador.
+      2. Skadans natur ska vara       tydligt identifierbar (och specificerad).
+      3. Mönstret av bruket har       varit ihållande under minst 1 månad eller har förekommit upprepade       gånger under en 12-månadersperiod.
+      4. Störningen uppfyller inte       kriterier för någon annan psykisk störning eller beteendestörning       relaterad till samma drog under samma tidsperiod (utom för akut       intoxikation)
+
+
+
+### Riksbruk
+
+***Allmänt***
+
+* Äldre är inte riktigt beforskat på samma sätt, därför är det möjligen ännu värre, att gränserna är lägre för äldre vad gäller riskbruk. 
+
+
+
+***Män***
+
+* 14 standardglas per vecka
+
+
+
+***Kvinnor***
+
+* 9 standardglas per vecka
+
+
+
+
+
+### Motiverande samtal
+
+***Tillvägagångssätt***
+
+* Vad tkr patienten sj om att ändra på bruket v.g. alkohol
+* Vilka mål har patienten sj
+* Att alkoholen är relaterat till pats hälsobesvär och skulle kunna bli hjälpt av att minska pp konsumtionen
+* **Börja med att försöka halvera konsumtionen, motivera patienten till detta**
+  * de som inte kan minska t hälften blir tydligt för alla, 
+  * att det är ett lite större problem, 
+  * varpå att man kan remittera för mer hjälp
+
+
+
+***Uppföljnign***
+
+* Man märker på uppföljning hur det gick
+
+
+
+
+
+## Affektivt
+
+### Mani
+
+#### Fall 1
+
+***Presentation***
+
+* Du är vik underläkare och går jour på psykakutmottagningen i Västerås. Din nästa patient är Linda Berg, född 1973. Du har fått en konsultremiss från medicinkliniken
+* Diagnos/fråga: Psykos? Önskad åtgärd: Psykiatrisk bedömning, behov av psykiatrisk vård? Anamnes: Tidigare frisk kvinna, 40 år, har sökt pga overklighetskänsla utan medvetandeförlust under bilkörning. CT-hjärna u a, Neurologstatus u a. Inga avvikelser i lab. Hjärt-kärlfrisk. Ensam vårdnad om två barn i tonåren. Pat beskriver förvirring, viss oförmåga att redogöra för tidsförlopp under bilkörning under dagen. Bror har schizofreni. Pat upplever sig ha blivit ”knäpp”. Patienten förefaller något uppjagad men adekvat. Tacksam bedömning, fortsatt handläggning. Patienten är färdigbedömd på medicinakutmott
+* Din uppgift är att värdera frågeställningen enligt remissen, ställa en preliminär diagnos och föreslå handläggning; eventuell behandling och vårdnivå.
+
+
+
+***Lärandemål***
+
+* Skapa förtroende hos patienten och tillämpa ett patientcentrerat förhållningssätt.
+* Anpassa förhållningssätt till patientens aktuella tillstånd, med beaktande av emotionell påverkan och kognitiv funktion (nivå och innehåll)
+* Skilja normala från komplicerade reaktioner på trauma, relationsproblem eller långvarig stress
+* Identifiera och värdera riskfaktorer och sjukdomsbildens betydelse för suicidrisk
+* Värdera den suicidala intentionen’
+* Särskilja depression från ledsnad, sorg och stress
+* Urskilja depressiv symptomatologi vid somatisk sjukdom
+* Värdera förekomst av bipolaritet, melankoliska och psykotiska drag
+* Avgöra vårdnivå och huruvida specifik behandling är indicerad.
+* Föreslå behandling utifrån ett patogenetiskt, psykologiskt och socialt perspektiv
+
+
+
+***Utredning och handläggning***
+
+* Patientkommunikation
+* Professionell känslomässig bekräftelse
+* Föreställningar, förväntningar och farhågor
+* Pedagogisk förmåga
+* Samverkar med patienten om beslut och handläggning
+* Förmedlar hopp
+* Struktur
+* Anamnes
+* Symtombild
+* Psykosocial situation
+* Suicidalitet
+* Alkohol/droger
+* Tid. sjukdom, hereditet
+* Somatisk sjukdom
+* Diagnos och behandling
+* Diagnos
+* Psykosocial situation
+* Föreslår adekvat
+* behandling/åtgärd
+* Vårdnivå
+
+
+
+
+
+### Fall 2
+
+***Presentation***
+
+* Du arbetar som AT-läkare på vårdcentral i Stockholm. Under öppen mottagning söker Daniel, 40 år, för nedstämdhet. Han har inte någon tidigare journal hos er. Genomför en konsultation och planera för handläggning med patienten
+* Pat vilken uppmanats av sambo att söka VC. Tilltagande uppgivenhet, konflikt på arbetet. I anamnesen perioder med mera uppvarvat aktivt beteende samt perioder med viss deppighet. Ej inverkat på arbetsförmåga. Ej varit sjukskriven bortsett från period vid 20 års ålder då vårdad ett par veckor p.g.a. akut psykostillstånd. Därefter ingen kontakt med psykiatrin. Hereditet far: alkoholöverkonsumtion, ev bipolaritet, suiciderat då pat var 15 år. Anamnes. Identifiera och värdera nedstämdhet, hereditet, identifiera riskfaktorer, aktuell suicidalitet, Uppfatta den höga suicidrisken och väga in den i bedömning och handläggning. Klarlägga ev. tidigare bipolaritet och hereditet. Identifiera vårdnivå.
+
+
+
+### Psykos
+
+#### !! Fall 1
+
+***Presentation***
+
+* Du är AT-läkare på vårdcentral. Mats Olsson, 40 år, söker dig. Som sökorsak har angivits sömnbesvär. Pat har tidigare av kollega som slutat på mottagningen fått Zopiklon utskrivet vid några tillfällen de senaste åren. Inga sjukdomar enligt journalen, inga andra mediciner. Har sökt några gånger för ÖLI och hösnuva. Din uppgift är att ta ställning till vilken hjälp du kan erbjuda patienten. Genomför en konsultation. Examinerande lärare kommer att avbryta konsultationen efter ca 17 min, du får då svara på några frågor om diagnos och behandling
+* Översikt
+  * Patient med sviktande förmåga att klara arbete, uppmanats av arbetsgivare att söka mottagning. Framkommer oförmåga att ta till sig kritiken avseende arbetet, grandiosa vanföreställningar samt sömnstörning. 
+  * Studenten bör identifiera 
+    * behov av psykiatrisk slutenvård 
+    * samt ev antipsykotisk behandling. 
+    * Om studenten inte informerat patient om diagnos och behandling då 17 min förlöpt, avbryt och meddela att du kommer att ställa några kompletterande frågor till studenten (diagnos, behandling, vårdnivå). 
+
+
+
+***Lärandemål***
+
+* Skapa förtroende hos patienten och tillämpa ett patientcentrerat förhållningssätt. – Anpassa förhållningssätt till patientens aktuella tillstånd, med beaktande av emotionell påverkan och kognitiv funktion (nivå och innehåll) – Skilja normala från komplicerade reaktioner på trauma, relationsproblem eller långvarig stress – Identifiera och värdera riskfaktorer och sjukdomsbildens betydelse för suicidrisk – Värdera den suicidala intentionen’ – Särskilja depression från ledsnad, sorg och stress – Urskilja depressiv symptomatologi vid somatisk sjukdom – Värdera förekomst av bipolaritet, melankoliska och psykotiska drag – Avgöra vårdnivå och huruvida specifik behandling är indicerad. – Föreslå behandling utifrån ett patogenetiskt, psykologiskt och socialt perspektiv
+
+
+
+***Utredning och handläggning***
+
+* Samma kriterier som vanligt (se andra fall)
+
+
+
+***Återkoppling***
+
+* De för stationen centrala kompetensmålen från psykiatrimomentet:  Identifiera störd verklighetsuppfattning, e.g. tankestörnignar, vanföreställningar och hallucinationer, och andra psykossjukdom assocerade symptom
+* Föreslå medicinsk behandling utifrån patogenetiskt, farma, psykosoc perspektiv
+* vårdnivå
+* hantera misstro, trädsla, fientlighet som patienten kan ha inför vård
+* skapa förtriende hos pat, tillmämåa ett patientcentrerat förhållningssätt
+* anpassa förhållningssät t patientens aktuella tillstånde, med beaktande av emotionell påverkan o kognitiv funkion
+* självständigt ta en bred, detaljerad, riktad psykiatrisk anamnes, samt bedöma + dokumentera psykiatriskt status
+* Vad gäller fallet
+  * Ni träffade en patient som skickats av sin arbetsledare till läkare, med hot om uppsägning om detta inte skett, men patienten upplevde själv inga egentliga hälsoproblem. Det fanns en uppgift på den skriftliga information ni fått om att sökorsaken var ”sömnproblem”. Patienten hade för en tid sedan förlorat sitt arbete som handläggare på försäkringskassan, hade nu ett arbete som städare och hade inte längre något socialt nätverk utöver sin åldriga mor. Patienten misskötte sitt nuvarande arbete och ägnade så gott som all tid på att tänka på ”sin plan”, som rörde en idé om att hela samhället skulle göras om så att Försäkringskassan, Arbetsförmedlingen mm skulle sortera under samma myndighet- Riksbanken. För att detta skulle ske tänkte patienten bli vald till riksdagen och kanske bli statsminister – utan att på något sätt vara partipolitiskt engagerad. 
+  * De flesta studenter inledde öppet och uppfattade att det var en underlig situation. 
+  * Många gav patienten möjlighet att berätta om sina planer och fick även klart för sig att han/hon hade förlorat en hel del funktion. 
+  * !! Flera uppfattade att patienten hade vanföreställningar, och ställde goda realitetsprövande frågor, liksom skaffade sig en bild av patientens situation i stort. 
+  * Många kom ihåg att fråga efter hallucinos. 
+  * Depressionsdiagnostiken verkar också många ha klar för sig. 
+  * Att låta patienten tala fritt och att ställa öppna frågor i dialog med patienten gav en bättre bild av problemet än att direkt ”bocka av” symtom
+* Fallgropar
+  * Sammanfatta utan riktigt relfketera över vad som sagts
+  * hindrande av pateintens berättelse. At endast användna slutnai frågor, avbryta patienten gjorde att bilden inte blev kar
+  * begränsning t symptomdetektion, ser inte hela bilden. Behöver väga samman symptombild med livssituation, göra rimlighetsbedömingar
+  * Bristande efterfrågan av symptom: känner du dig deprimerad. om pat svarar nej tror man sig ha uteslutit depression
+  * Eget obehag inför det psykotiska: leder t att man avbryter patienten blir så chockad att man väljer att inte se det
+  * Låst hypotes: om inte depression så är pat nog frisk, pat har framtidsplaner då kan jag vara lugn
+  * behandla utifrån vad jag behärskar: skriva ut hypnotika fast pat hinte har sömnbesvär. Föreslå antidepressiva för jag kan en ort (mkt riskabelt t en psykotisk patient)
+  * Bristande kunskap: "det är något psykiatriskt"
+* Mer återkoppling
+  * !! Att identifiera att det var en psykos
+    * Det centrala var att identifiera psykos och att se det allvarliga i situationen med funktionsförlust och risk för att pat nu skulle förlora sitt arbete. Många misstänkte mani, trots att statusfynd och anamnestiska fynd, utöver det grandiosa inslaget i patientens vanföreställning, saknades
+  * I förlängningen bör denna patient förstås bedömas av psykiater och helst få antipsykotika, men det kan vara svårt att motivera till detta för en person utan sjukdomsinsikt
+  * Om man med finkänslighet lyckas motivera patienten till psykiatri är det förstås alldeles utmärkt. Centralt är att fånga upp patienten. Att ta tillbaka honom/henne till vårdcentralen, bygga allians och utreda vidare är i praktiken rimligt
+  * Naturligtvis bör man som AT-läkare inför ett återbesök diskutera med erfaren kollega och helst konsultera psykiater via telefon för att få hjälp att gå vidare.
+  * Om möjligt bör man försöka få information och mer anamnes från patientens mor eller t o m arbetsledaren, vilket dock kan vara svårt.
+  * Gällande LPT, det var inte fallet: Situationen bedömes inte vara akut i den grad att det andra kriteriet för psykiatrisk tvångsvård (oundgängligt behov av psykiatrisk heldygnsvård) är uppfyllt. 
+  * Suicidfrågorna ska ställas direkt, om man tänkt ta sitt liv: Till sist – att fråga efter suicidtankar görs bäst genom att fråga efter just det, eller eventuell via frågor om pat har tänkt att han/hon inte vill leva längre och därifrån gå vidare. Att ställa diffusa, kringgående frågor om patienten tänkt på ”livet” eller ”döden” eller ”haft mörka tankar” skapar ofta mest förvirring.
+
+
+
+
+
 ## Depression
+
+
+
+### Allmänt
+
+
+
+
 
 ### Fall 1
 
@@ -342,135 +634,6 @@ Trötthet
 
 
 
-## Affektivt
-
-### Mani
-
-#### Fall 1
-
-***Presentation***
-
-* Du är vik underläkare och går jour på psykakutmottagningen i Västerås. Din nästa patient är Linda Berg, född 1973. Du har fått en konsultremiss från medicinkliniken
-* Diagnos/fråga: Psykos? Önskad åtgärd: Psykiatrisk bedömning, behov av psykiatrisk vård? Anamnes: Tidigare frisk kvinna, 40 år, har sökt pga overklighetskänsla utan medvetandeförlust under bilkörning. CT-hjärna u a, Neurologstatus u a. Inga avvikelser i lab. Hjärt-kärlfrisk. Ensam vårdnad om två barn i tonåren. Pat beskriver förvirring, viss oförmåga att redogöra för tidsförlopp under bilkörning under dagen. Bror har schizofreni. Pat upplever sig ha blivit ”knäpp”. Patienten förefaller något uppjagad men adekvat. Tacksam bedömning, fortsatt handläggning. Patienten är färdigbedömd på medicinakutmott
-* Din uppgift är att värdera frågeställningen enligt remissen, ställa en preliminär diagnos och föreslå handläggning; eventuell behandling och vårdnivå.
-
-
-
-***Lärandemål***
-
-* Skapa förtroende hos patienten och tillämpa ett patientcentrerat förhållningssätt.
-* Anpassa förhållningssätt till patientens aktuella tillstånd, med beaktande av emotionell påverkan och kognitiv funktion (nivå och innehåll)
-* Skilja normala från komplicerade reaktioner på trauma, relationsproblem eller långvarig stress
-* Identifiera och värdera riskfaktorer och sjukdomsbildens betydelse för suicidrisk
-* Värdera den suicidala intentionen’
-* Särskilja depression från ledsnad, sorg och stress
-* Urskilja depressiv symptomatologi vid somatisk sjukdom
-* Värdera förekomst av bipolaritet, melankoliska och psykotiska drag
-* Avgöra vårdnivå och huruvida specifik behandling är indicerad.
-* Föreslå behandling utifrån ett patogenetiskt, psykologiskt och socialt perspektiv
-
-
-
-***Utredning och handläggning***
-
-* Patientkommunikation
-* Professionell känslomässig bekräftelse
-* Föreställningar, förväntningar och farhågor
-* Pedagogisk förmåga
-* Samverkar med patienten om beslut och handläggning
-* Förmedlar hopp
-* Struktur
-* Anamnes
-* Symtombild
-* Psykosocial situation
-* Suicidalitet
-* Alkohol/droger
-* Tid. sjukdom, hereditet
-* Somatisk sjukdom
-* Diagnos och behandling
-* Diagnos
-* Psykosocial situation
-* Föreslår adekvat
-* behandling/åtgärd
-* Vårdnivå
-
-
-
-
-
-### Fall 2
-
-***Presentation***
-
-* Du arbetar som AT-läkare på vårdcentral i Stockholm. Under öppen mottagning söker Daniel, 40 år, för nedstämdhet. Han har inte någon tidigare journal hos er. Genomför en konsultation och planera för handläggning med patienten
-* Pat vilken uppmanats av sambo att söka VC. Tilltagande uppgivenhet, konflikt på arbetet. I anamnesen perioder med mera uppvarvat aktivt beteende samt perioder med viss deppighet. Ej inverkat på arbetsförmåga. Ej varit sjukskriven bortsett från period vid 20 års ålder då vårdad ett par veckor p.g.a. akut psykostillstånd. Därefter ingen kontakt med psykiatrin. Hereditet far: alkoholöverkonsumtion, ev bipolaritet, suiciderat då pat var 15 år. Anamnes. Identifiera och värdera nedstämdhet, hereditet, identifiera riskfaktorer, aktuell suicidalitet, Uppfatta den höga suicidrisken och väga in den i bedömning och handläggning. Klarlägga ev. tidigare bipolaritet och hereditet. Identifiera vårdnivå.
-
-
-
-### Psykos
-
-#### !! Fall 1
-
-***Presentation***
-
-* Du är AT-läkare på vårdcentral. Mats Olsson, 40 år, söker dig. Som sökorsak har angivits sömnbesvär. Pat har tidigare av kollega som slutat på mottagningen fått Zopiklon utskrivet vid några tillfällen de senaste åren. Inga sjukdomar enligt journalen, inga andra mediciner. Har sökt några gånger för ÖLI och hösnuva. Din uppgift är att ta ställning till vilken hjälp du kan erbjuda patienten. Genomför en konsultation. Examinerande lärare kommer att avbryta konsultationen efter ca 17 min, du får då svara på några frågor om diagnos och behandling
-* Översikt
-  * Patient med sviktande förmåga att klara arbete, uppmanats av arbetsgivare att söka mottagning. Framkommer oförmåga att ta till sig kritiken avseende arbetet, grandiosa vanföreställningar samt sömnstörning. 
-  * Studenten bör identifiera 
-    * behov av psykiatrisk slutenvård 
-    * samt ev antipsykotisk behandling. 
-    * Om studenten inte informerat patient om diagnos och behandling då 17 min förlöpt, avbryt och meddela att du kommer att ställa några kompletterande frågor till studenten (diagnos, behandling, vårdnivå). 
-
-
-
-***Lärandemål***
-
-* Skapa förtroende hos patienten och tillämpa ett patientcentrerat förhållningssätt. – Anpassa förhållningssätt till patientens aktuella tillstånd, med beaktande av emotionell påverkan och kognitiv funktion (nivå och innehåll) – Skilja normala från komplicerade reaktioner på trauma, relationsproblem eller långvarig stress – Identifiera och värdera riskfaktorer och sjukdomsbildens betydelse för suicidrisk – Värdera den suicidala intentionen’ – Särskilja depression från ledsnad, sorg och stress – Urskilja depressiv symptomatologi vid somatisk sjukdom – Värdera förekomst av bipolaritet, melankoliska och psykotiska drag – Avgöra vårdnivå och huruvida specifik behandling är indicerad. – Föreslå behandling utifrån ett patogenetiskt, psykologiskt och socialt perspektiv
-
-
-
-***Utredning och handläggning***
-
-* Samma kriterier som vanligt (se andra fall)
-
-
-
-***Återkoppling***
-
-* De för stationen centrala kompetensmålen från psykiatrimomentet:  Identifiera störd verklighetsuppfattning, e.g. tankestörnignar, vanföreställningar och hallucinationer, och andra psykossjukdom assocerade symptom
-* Föreslå medicinsk behandling utifrån patogenetiskt, farma, psykosoc perspektiv
-* vårdnivå
-* hantera misstro, trädsla, fientlighet som patienten kan ha inför vård
-* skapa förtriende hos pat, tillmämåa ett patientcentrerat förhållningssätt
-* anpassa förhållningssät t patientens aktuella tillstånde, med beaktande av emotionell påverkan o kognitiv funkion
-* självständigt ta en bred, detaljerad, riktad psykiatrisk anamnes, samt bedöma + dokumentera psykiatriskt status
-* Vad gäller fallet
-  * Ni träffade en patient som skickats av sin arbetsledare till läkare, med hot om uppsägning om detta inte skett, men patienten upplevde själv inga egentliga hälsoproblem. Det fanns en uppgift på den skriftliga information ni fått om att sökorsaken var ”sömnproblem”. Patienten hade för en tid sedan förlorat sitt arbete som handläggare på försäkringskassan, hade nu ett arbete som städare och hade inte längre något socialt nätverk utöver sin åldriga mor. Patienten misskötte sitt nuvarande arbete och ägnade så gott som all tid på att tänka på ”sin plan”, som rörde en idé om att hela samhället skulle göras om så att Försäkringskassan, Arbetsförmedlingen mm skulle sortera under samma myndighet- Riksbanken. För att detta skulle ske tänkte patienten bli vald till riksdagen och kanske bli statsminister – utan att på något sätt vara partipolitiskt engagerad. 
-  * De flesta studenter inledde öppet och uppfattade att det var en underlig situation. 
-  * Många gav patienten möjlighet att berätta om sina planer och fick även klart för sig att han/hon hade förlorat en hel del funktion. 
-  * !! Flera uppfattade att patienten hade vanföreställningar, och ställde goda realitetsprövande frågor, liksom skaffade sig en bild av patientens situation i stort. 
-  * Många kom ihåg att fråga efter hallucinos. 
-  * Depressionsdiagnostiken verkar också många ha klar för sig. 
-  * Att låta patienten tala fritt och att ställa öppna frågor i dialog med patienten gav en bättre bild av problemet än att direkt ”bocka av” symtom
-* Fallgropar
-  * Sammanfatta utan riktigt relfketera över vad som sagts
-  * hindrande av pateintens berättelse. At endast användna slutnai frågor, avbryta patienten gjorde att bilden inte blev kar
-  * begränsning t symptomdetektion, ser inte hela bilden. Behöver väga samman symptombild med livssituation, göra rimlighetsbedömingar
-  * Bristande efterfrågan av symptom: känner du dig deprimerad. om pat svarar nej tror man sig ha uteslutit depression
-  * Eget obehag inför det psykotiska: leder t att man avbryter patienten blir så chockad att man väljer att inte se det
-  * Låst hypotes: om inte depression så är pat nog frisk, pat har framtidsplaner då kan jag vara lugn
-  * behandla utifrån vad jag behärskar: skriva ut hypnotika fast pat hinte har sömnbesvär. Föreslå antidepressiva för jag kan en ort (mkt riskabelt t en psykotisk patient)
-  * Bristande kunskap: "det är något psykiatriskt"
-* Mer återkoppling
-  * !! Att identifiera att det var en psykos
-    * Det centrala var att identifiera psykos och att se det allvarliga i situationen med funktionsförlust och risk för att pat nu skulle förlora sitt arbete. Många misstänkte mani, trots att statusfynd och anamnestiska fynd, utöver det grandiosa inslaget i patientens vanföreställning, saknades
-  * I förlängningen bör denna patient förstås bedömas av psykiater och helst få antipsykotika, men det kan vara svårt att motivera till detta för en person utan sjukdomsinsikt
-  * Om man med finkänslighet lyckas motivera patienten till psykiatri är det förstås alldeles utmärkt. Centralt är att fånga upp patienten. Att ta tillbaka honom/henne till vårdcentralen, bygga allians och utreda vidare är i praktiken rimligt
-  * Naturligtvis bör man som AT-läkare inför ett återbesök diskutera med erfaren kollega och helst konsultera psykiater via telefon för att få hjälp att gå vidare.
-  *  Om möjligt bör man försöka få information och mer anamnes från patientens mor eller t o m arbetsledaren, vilket dock kan vara svårt.
-  * Gällande LPT, det var inte fallet: Situationen bedömes inte vara akut i den grad att det andra kriteriet för psykiatrisk tvångsvård (oundgängligt behov av psykiatrisk heldygnsvård) är uppfyllt. 
-  * Suicidfrågorna ska ställas direkt, om man tänkt ta sitt liv: Till sist – att fråga efter suicidtankar görs bäst genom att fråga efter just det, eller eventuell via frågor om pat har tänkt att han/hon inte vill leva längre och därifrån gå vidare. Att ställa diffusa, kringgående frågor om patienten tänkt på ”livet” eller ”döden” eller ”haft mörka tankar” skapar ofta mest förvirring.
-
 
 
 ## Huvudvärk
@@ -504,6 +667,29 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 
 ## Sömnbesvär
 
+
+
+### Allmänt
+
+***Etiologi***
+
+* **Alkoholrelaterat**
+* **Sömnapne, OSAS**
+* **Depression**
+* **Ångest**
+* **Stressrelaterat**
+* **Hyperthyreos, hypothyreos**: Glöm inte sköldkörteln, IST
+
+
+
+
+
+***Behandling***
+
+* Alkoholen: kan använda av pat som självmed insomningsmedel. Därför kan det bli lite svårare att somna in i början, men efter 1-2v bör patienten ha blivit lite bättre. 
+
+
+
 ### ! Fall 1
 
 ***Presentation***
@@ -518,9 +704,9 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 * Hereditet rörande psykiatri inkl 
   * !! substanssyndrom, 
   * hjärtkärlsjukdom (diabetes)
-* Efterhör snarkning
+* !! Efterhör **snarkning**
 * Gör en sammanvägd bild av relevanta fynd.
-* Riskbruk alkohol. Väger in blodtrycket, alkoholvanor och utesluter depression
+* Riskbruk **alkohol**. Väger in blodtrycket, alkoholvanor och utesluter depression
 * Föreslår adekvata behandlingsalternativ och ger relevant information samt planerar för uppföljning
 * Prova minska alkohol, uppföljning om ett par veckor avseende sömn och BT, ev. provtagning
 * Förklarar samband mellan livssituation och symtom på ett adekvat sätt
@@ -723,6 +909,96 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
     * 
 
     
+
+### Fall 4 - sömnbesvär seminari
+
+***Presentation***
+
+* Chat 3 Sömnsvårigheter LÄKARE: Din nästa patient är en: 63-årig man/kvinna som söker pga sömnsvårigheter. 
+  Det finns ingen tidigare journal.
+
+
+
+***Utredning***
+
+* Anamnes
+  * Tankar: trött på dagarna, nickar till. Hållit i ganska länge
+    * Jättebra att du kommit hit
+    * beskrivera tt det är svårt att sova, påverkar dig och ditt jobb
+    * Kan du berätta mer detta: egentligen inte. Den senaste månaden. Besvärats av detta.
+    * Tänkte att det var stress: men nu är det lugnt på jobbet, men fortfarande svårt att sova
+  * Oro: Ngt du oroat dig för vad det kunnat vara
+    * Största oro är att inte klara av jobbet. Det är viktitg för henne att hon klarar av jobbet
+  * Önskemål:
+    * Önskningar mo vad du vill att vi ska göra för att ta reda på va du vill ha.  
+  * Sammanfattning
+    * pågått en månad, sömbesvär, vakknat om natten, kan påverka ditt jobb. 
+    * låter inte som att har en specifik tanke om vad det kan vara
+    * att sömntabletter kan vara en ide. 
+* Läkarens del
+  * **Socialt**: Vad jobbar du med
+    * Ldeningsuppdrag som ekonom. 
+  * **Om besvären**
+    * Hur mga timmar sover du: lägger sig 11 och alarm 7. Sover inte riktigt 8 timmar. Sover ytligt
+    * Lägger dig varje dag? Ja
+    * Sover ytligt, hur länge har det varit så: ffa senaste månaden, sov hyfsat innan. Hänger ihop ytlig sömn o sömnbesvären
+    * !! **Svårt att somna**: inte svårt att somna: (kan vara alkoholrelaterat...)
+    * När du vaknar, vaknar du till ordentligt? tanke varför du vaknar?
+      * Nej inte riktigt
+      * medveten mo att det är svårt att somna om. 
+    * Mardrömmar, eller drömmer ngt: Nej inte riktigt
+    * Inget oljud som stör: nej inte riktigt
+  * **Sömnhygien**
+    * Druckit kaffe eller liknande
+    * dricker tre koppar kaffe om dagen men inte på kvällen
+    * sett likadant ut med kaffet tidigare: ja
+  * **Associerade sympotm**
+    * svettig  när du vaknat till
+    * märkt av ngt annat som förändrats: viktnedgång, 
+    * Lugnt på jobbet, men fortfarande den här ytliga sömnen
+    * Vaknat på natten kissnödig
+  * **Socialt**
+    * Bor du sj el familj: med sambo
+    * ! Upplever du att det är ngn som snarkar: fått höra av sin sambo att hon inte snarkar, sambo är väldigt tyst
+  * **Friskhet, tidigare sjd, nuv sjd**
+    * högt BT: enalapril, 5 år
+  * **Psyk**
+    * Ngt jobbigt som har hänt
+    * familjen eller ansvar på jobbet
+    * Tycke att hon mår bra. 
+  * **Har du märkt att du gått upp i vikt, tappat hår**
+  * **Alkohol**: tar några glas vin till middagen
+    * dricker vin till maten, dagligen. 
+    * 2-3 flaskor vin i veckan? ja
+  * **Rökning: slutat för fyra år sedan**
+  * **Ngt annat som du tycker är jobbigt, utöver sömnsvårigheternea:** 
+  * **Sammanfattning**
+    * Senaste månaden svårt
+    * inte riktigt stressigt på jobbet
+    * ytlig sömn, vaknar ofta i sömnen
+    * inga mardrömmar
+    * Ytliga störda nattsömnen som påverkar jobbet 
+  * **Utredning**
+    * Blodprover: bristtillstånd. rutinkoller
+  * **Handläggning**
+    * Kan absolut prata om sömnmedicinering
+  * **!! Patienten spontant säger att hon tar alkohol för att försöka sova**
+    * senaste halvåret
+    * !!"Hur kommer det sig att du tkr att det är bättre med alkohol": även om du inte hade sömnbesvär för 6 månader sedan för att somna, när du inte hade sömnbesvär
+      * BRA pickup, noterade att sömnbesvären kommer efter intro alk trots att pat tagit alk för att somna lite bättre. 
+    * "Finns ett prob man kan ta för att se alkoholvanor, även om du inte haft problem, kan framgå att din lever är lite känsligare" 
+    * "Tack för att du nämner det här med alkoholen, och det är sant att man kan till en början sova lite bättre med alkohol"
+    * Jättebra att du säger det. 
+    * Det som du beskriver, är lite varningsflagga för att använda alkohol för att sova. Mkt sömnmedicin har beroendeframkallande effekt som man måste tänkta på. 
+    * Sömnmedicin ändå: kommer att få lite sömnmedicin kortvarigt, även om det är lite mkt alkoholkonsumtion. 
+    * Inget du berättar om oroar mig akut. Såklart ska du kunna sova. 
+  * **Vad tänker du om det, har jag förstått saken rätt.** 
+  * **Hur är det med din sambo, dricker han på samma sätt som du?**
+    * Han dricker bara vid middagen
+  * **Det finns en beroende risk med denna sömnmedicinen, därför är det enbart en kort behandling.** 
+  * **Viktigt att du hör av dig om du känner att ngt är jobbigt.** 
+  * **Sedan tar vi diskussion om 7-10d.** 
+  * **Har du några andra frågor, ngt som jag missat?** 
 
 
 

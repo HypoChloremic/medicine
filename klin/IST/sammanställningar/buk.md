@@ -141,6 +141,24 @@
 
 ## Blod i avföring
 
+### Allmänt
+
+***Utredning***
+
+* Låg tröskel för att gå vidare med utredning för kolorektal cancer
+  * "Ändrade avföringsvanor **i** **kombination med** anemi eller blod i avföringen ger stark misstanke om tjock- och ändtarmscancer och ska utredas enligt standardiserat vårdförlopp."
+  * https://viss.nu/kunskapsstod/vardprogram/tjock--och-andtarmscancer
+* Ser man tydlig blödningskälla på proktoskopi, ska man behandla den innan man går vidare
+  * Alltså att behandla hemorrojdern exempelvis, innan man går vidare. 
+* Koloskopi enl SVF: 1-2v att man får remissen färdig
+* // Tala om för patienten att man ska starta SVF, att man ringer samma vecka för att göra en koloskopi. 
+  * Lämnar patientens telefonnummer i journalen. 
+  * // säger till patienten att man ska utesluta cancern. 
+
+### Fall
+
+#### Fall 1
+
 ***Presentation***
 
 * 63åå man
@@ -161,14 +179,22 @@
 
 ***Etiologi och patofysiologi***
 
+
+
 ***Epidemiologi***
 
+
+
 ***Kliniska kännetecken***
+
+
 
 ***Differentialdiagnostik***
 
 * Blödningens utseende, frekvens, duration
-* avföringsv
+* avföringsvanor
+
+
 
 ***Utredning och handläggning***
 
@@ -178,7 +204,7 @@
     * konstant, intermittent
     * karaktär: 
       * färskt, 
-      * levrat, 
+      * levrat: koagulerat blod
       * blodtillblandad avföring, 
       * utanpå
       * tex blod på papper
@@ -224,7 +250,46 @@
     * leverstatus
     * ev ytterligare anemiutredning 
 
+
+
+
+
 ***Behandling***
+
+
+
+#### Fall 2
+
+* Stig
+
+  * 63åå
+  * gift
+  * Socialsekreterare
+  * Frisk i livet
+  * Inga spec sjd, bara hemorrojder, fick gummiligatur 5åå sedan, bra effekt
+  * Besvär med blod i avföring 2-3mån
+  * Första tanke: hemorrojder igen, kanske ny behandling med gummiligatur
+  * Oro: an vara allvarligt, har blivit äldre, bestämmer söka VC
+  * Öppningsreplik: kommer för att jag tror jag fått hemorrojder igen, hade flera år, fick gummisnoddar, blöda igen. inte ont, men en hel del blod. 
+  * Om mer talutrymme spontant: berätta om tankar o önskan. Vänta med oron om de inte frågar uttryckligen. 
+  	* Oron: jage ju 60åå, oro att det är ngt annat. Frågar vidare vad är annat: cancer är det jag tänker på, måste vara riktad fråga
+  * Önskan: ny behandling med gummisnoddar
+  * Andra frågor
+  	* inte ont ngnstans
+  	* Oregelbunden avföring nu, hård av o till, tidigare bra
+  	* Inga diarrer
+  	* Blodet ligger utanpå avföringen, kan vara lite levrat
+  	* Ingen slem i avföringen
+  	* Ingen viktförändring
+  	* Ingen feber eller nattlig svettning
+  	* Inte känner sig sjuk, men trött
+  	* Inga besvär fr magen i övrigt
+  	* Lämnade screning F-Hb tidigare som var normalt
+  	* Ingen ärftlighet cancer eller magtarm
+  	* Gift, inga barn, 
+  	* Inga mediciner
+  	* Aldrig rökt
+  	* Alk ngn gg t fest annars inte, inte så ofta fest
 
 
 

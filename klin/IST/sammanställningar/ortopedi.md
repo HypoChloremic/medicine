@@ -210,6 +210,13 @@ Omedelbart fortsatt åtg
 
 ### Armbåge
 
+#### Status
+
+***Lateral epikondyl***
+
+* Dorsalextension mot motstpnd
+* Supination mot motstånd
+
 #### Fall 1
 
 ***Presentation***

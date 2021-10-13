@@ -283,3 +283,6 @@ Typisk erytrocytindex o utseende vid följande tillstånd
 
 
 
+***Elektrolyter***
+
+* Vf hyperkalcemi vid kronisk njursvikt: minskad D-vitamin aktivering, därför upstream ökat påslag PTH

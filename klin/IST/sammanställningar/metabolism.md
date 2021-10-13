@@ -2,6 +2,36 @@
 
 
 
+### Kalcium
+
+#### Hyperkalcemi
+
+***Etiologi***
+
+* **Efter frekvens**
+  * **Malignitet**
+  * **Hyperparathyroidism**: 
+    * PTH leder till ökad benresorption
+    * Ökad vit-D aktivering
+    * Ökad resorption kalcium fr tarm. 
+  * **Kronisk njursvikt**: kan ge sekundär hyperparathyroidism (minskad aktivering av vit-D i njure, varpå ökad PTH)
+  * **Mjölkalkalisyndromet**
+  * **Lkm**: litium, tiazider, Vit-D
+  * **Granulomatösa sjd**: sarkoidos
+  * **Immobilisering**
+  * **FHH**: Familjär hypokalcurisk hyperkalcemi
+  * **Tertiär HPT**: tertiör hyperparathyroidism, utv tertiär efter längre tids sekundär hyperparathyroiduism
+
+
+
+***Behandlingar***
+
+* **Uppvätskning**: akut rehydrering
+* **Bisfosfonat**: alendronat
+* **Calcitonin**: 
+* **Prenisolon**: man ger detta för vissa maligna hyperkalcemier, maligna lymfomer och myelom
+* **Kirurgi**: för primär hyperparathyroidism
+
 ### Kalium
 
 #### Hyperkalemi
@@ -15,11 +45,14 @@
 
 
 
-
-
 ***Behandling***
 
+* Kalcium iv: hjärtstabiliserande effekt
+* Glukos-insulin iv
+* natriumbikarbonat bikarbonat vid acidos
+* resonium
 * Dialys: förekommer indikation för dialys. 
+* 
 
 ### Natrium
 #### Hypernatremi
@@ -39,6 +72,41 @@
     * Sänkt ECV
         * Rehydrering
 * ! Notera: ingen dialysbehandling verkar det som när man har natrium påverkan, utan man kan göra detta mha vätskor. 
+
+
+
+
+
+#### Hyponatremi
+
+##### Enl EM clerkship
+
+***Allmänt***
+
+* I akuta sammanhang måste man fråga om patienten ens har symptom av sin hyponatremi
+* Möjligt att det är en kronisk hyponatremi (karak till äldre patienter), som inte behöver korrigeras akut
+* Om patieten inte har symptom fr sin hyponatremi, kan den handläggas under en mindre stressad miljö och icke-akut
+
+
+
+***Utredning och handläggning***
+
+* Fyra frågor
+  * Har patienten symptom
+  * Om natrium väldigt sänkt, har de *svåra symptom*
+    * Medvetandepåverkan
+    * kramper
+    * Behandling i detta fallet: hypertonisk salin (3% NaCl):
+    * Dock fortfarande risk för pontin demyeliniseirngssyndorm, Locked-in syndrom, så man ska vara varsam och försiktig när man sänker Na. 
+  * S-osmolalitet: detta kommer att belysa om det är en sanna hyponatremi eller en pseudo-hyponatremi
+    * Möjligt att det är andra komponenter i blodet som leder till att patienten fått hyponatrmei
+    * Hyperlipidemi
+    * Hyperglykemi
+    * Därför om S-osm är faktiskt lägre, då kan man säga att det är en sann hyponatremi
+* Är patienten dehydrerad
+  * Tecken åp detta: kännetekcen med spruckna läppar , tott MoS, dålig turgor, kräkningar, ökat intag diuretika
+  * Behandling: normal Saline för att behandla hyponatremin
+  * Om ser ut fluid-overloaded: då är det vätskerestriktion som e name of the game. 
 
 
 

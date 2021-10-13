@@ -3604,6 +3604,10 @@ cerivicit
 * **Benign kriterier**: Uniockulär, inget blodflöde, uniform, liten storlek
 * **Maligna kriterier**: Solida delar, papillära projektioner, excerenser, ökat blodflöde, stor storlek, multilockulerade, ascites. 
 
+
+
+
+
 ## Endokrinologi
 
 
@@ -6474,7 +6478,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * akut uteroplacental insufficiens
   * resulterar i placentar ablatio eller fetal hypoxi
 * 
-***Systemisk vasokonstriktion, maternellt***: generealiserade arteriolär vasokonstriktion
+  ***Systemisk vasokonstriktion, maternellt***: generealiserade arteriolär vasokonstriktion
   * **kramper**
   * **stroke**
   * **njurar**: oliguri, njursvikt
@@ -6482,7 +6486,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
   * **lever**: ödem, subkapsulär hematom
   * **små blodkärl:** trombocytopeni, DIC
 * 
-***Tidmässigt***: definieras som efter v20, men sker 5%-6% av alla live births. 
+  ***Tidmässigt***: definieras som efter v20, men sker 5%-6% av alla live births. 
   * vanligast efter tredje trimestern,. near term
 
 
@@ -6639,7 +6643,7 @@ ICP är förenat med fetal risk i form av ökad frekvens av prematurbörd, fetal
 **SCREENING + MÄTMETODER**
 
 * 
-***Proteinuri***
+  ***Proteinuri***
   * **BT**: varje besök MVC; sittande, arm hjärthöjd, vila, adekvat bredd, automatisk är rekommenderad
   * **PROTEINURI**: först på MHV (MHV1-2), 
   * **RISKFAKTORER FÖR PREEKLAMPSI**: 
@@ -12694,9 +12698,9 @@ ENL FL
    *  Svårare passenge för att mer fett i o kring underliv,  kring muskler
    *  **Bättre buktryck:** krystar bättre, effektivare, smidigare förlossning, mindre bristningar
    
-
    
-
+   
+   
    
    | <img src="./imgs/gyn_sam_230321_Y83hJjALx8.png" alt="Y83hJjALx8" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_PaFNuIIsAm.png" alt="PaFNuIIsAm" style="zoom:50%;" /> | <img src="./imgs/gyn_sam_230321_AoZ3Ul0TnF.png" alt="AoZ3Ul0TnF" style="zoom: 80%;" /> |
    | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |

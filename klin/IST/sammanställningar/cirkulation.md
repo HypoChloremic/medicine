@@ -421,6 +421,8 @@ Förändringar t lkm lista:
 
 
 
+### Kammartakykardier
+
 
 
 ### Utredningar
@@ -1065,6 +1067,34 @@ Förändringar t lkm lista:
 ***Etiologi***
 
 * Lungemboli
+* Hjärttamponad
+
+
+
+
+
+#### Hjärttamponad
+
+
+
+#### Fall
+
+##### Fall 1
+
+***Presentation***
+
+* 55åå man
+  * söker akut pga trötthet och dåsighet de senaste 2 dagarna. Alla i familjen har varit sjuka med en 3åå son som kräkts senaste dagen, 1åå son som har stridor och hög AF. 
+  * Anamnestiskt
+    * Tkr att det finns smärtor vid andningen, men inga specifika lcoales som gör ont, att det gör ont vid djupandning
+  * Airways: Fri luftväg
+  * Breathjing: 95% sat, 20 AF
+  * Circulation: 80/60 BT
+    * Dekompensationstecken, i form av **halsvenstas**.
+    * FAST, point-of-care-ultrasound (POCUS): visar högersidig dekompensation och svikt, samt perikardvätska (effusion perikardiet)
+  * 
+
+
 
 ### Distributiv
 

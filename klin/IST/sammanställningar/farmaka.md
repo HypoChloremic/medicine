@@ -273,7 +273,7 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
 
 
 
-***Lasix***
+***Lasix furosemid***
 
 * Utsättning tillfälligt
 * hypotoni, dehydrering

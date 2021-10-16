@@ -5161,7 +5161,10 @@ Pubertetsutveckling
 
 ***Behandling***
 
-* BEHANDLING MED P.O konakion ska ges till ALLA med påvisad KOLESTAS, och fortgå så länge kolestasen kvarstår. 
+* BEHANDLING MED P.O konakion ska ges till ALLA med påvisad KOLESTAS, och fortgå så länge kolestasen kvarstår.
+  *  Decreased bile flow and subsequent decreased intraluminal bile salt concentrations below critical micellar concentration result in malabsorption of fat-soluble molecules, with the degree of malabsorption generally correlating with severity of cholestasis
+  * Vitamin K is rapidly metabolized so malabsorption may lead to rapid depletion of limited stores, leading to clinically significant deficiency. Vitamin K serves as a cofactor for the enzyme γ-glutamylcarboxylase, which supports posttranslational carboxylation of glutamic acid residues in many proteins, including coagulation factors such as factors II (prothrombin), VII, IX, X, protein C, protein S, and proteins involved in bone homeostasis, specifically osteocalcin and matrix gla protein. Most of these proteins have multiple carboxylations, and these carboxylated glutamic acid residues have the ability to bind calcium, making the proteins functionally active (1,5). In vitamin K deficiency, there is an increase in abnormal undercarboxylated or partially carboxylated forms of these proteins, which are functionally defective. After these undercarboxylated proteins, particularly undercarboxylated prothrombin, reach a poorly defined level, vitamin K deficiency results in coagulopathy, as measured by prolongation of prothrombin time (PT)
+  * doi: 10.1097/MPG.0b013e31819a61ff
 * MINST en dos iv konakion ska snarast ges till alla med samtiidg kolestas och PKINR på 1,5 eller högre. 
 
 En vanlig orsak till prolongerad ikterus är bröstmjölksinducerad ikterus. 

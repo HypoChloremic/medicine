@@ -286,3 +286,23 @@ Typisk erytrocytindex o utseende vid följande tillstånd
 ***Elektrolyter***
 
 * Vf hyperkalcemi vid kronisk njursvikt: minskad D-vitamin aktivering, därför upstream ökat påslag PTH
+
+
+
+***Insulinökande, hypoglykemirisk***
+
+* Sulfonylurea
+  * Dessa patienter måste observeras mer än 1d, för att det föreligger hypoglykemirisk ett tag. 
+  * Sulfonylurea medications inhibit ATP-sensitive potassium channels in pancreatic beta cell membranes. These potassium channels normally allow for potassium efflux from the cell. Inhibition leads to elevated intracellular potassium levels, which results in depolarization. Depolarization causes calcium influx, which activates the secretory system that releases insulin. Sulfonylureas also promote exocytosis of insulin through distinct mechanisms involving direct binding of pancreatic beta cell receptors. In summary, sulfonylurea medications promote hypoglycemia by increasing the release of endogenous insulin
+
+
+
+***Metabolism frågor***
+
+* Varför inte allopurinol akut: allopurinol kan vid insättande leda till en gout/giktattack, då sjunkande konc urat i kroppsvätskor för att minskad upstream influx sådan molekyl, leder till att kristallerna börjar lösa upp sig, som gör ont. Detta vill man inte få akut. 
+* Skillnad urea och urat: urea och urat är fundamentalt skiljda molekyler. Båda är kväve-bärande, nitrogen-carriers, men ursprungar fr skiljda pathways
+  * urea: aminosyra metabolismen. Producerar en  CH₄N₂O,
+  * urat: nukleotidmetabolismen, purin degradation, C5H4N4O3, innehåller en massa cykliska strukturer. heterocyklisk molekyl.
+* Problemet med urat: urat är inte en väldigt löslig molekyl. Problemet därför blir att den ackummulerar om den ökar i koncentration, och precipiterar o kroppsvätskor, varpå leder till inflammation.
+  * Dock är upstream metaboliter som hypoxanthine och xanthine mer vattenlösliga och kan än mer utsöndras via urinen. Därför funkar allopurinol så väl
+* Riskfaktorer för gikt: inkluderar all diuretika (att man får modda diuretika dosen uutefter giktattacker). 

@@ -28,11 +28,144 @@ Ont i halsen
 
 ## Andfåddhet
 
-### Allmänt patient
+
+
+### Astma
+
+***Behandling***
+
+* Kontrollera inhalationsteknik vid utebliven effekt
+* Över 12år
+  * **Steg 1 i behandlingen**
+    * **Bufomix**: LABA + ICS (kloka lista 2021)
+      * Man har alltså gått över till att ge ICS och LABA vb. Så även om besvären är sporadiska så ska man ge LABA + ICS
+    * Andrahandsvalet är att man kan ge
+      * ICS + SABA, om patienten inte pallar pulverinhalatorer typ.
+  * **Steg 2 i behandlingen**: kontinuerligt eller återkommande astmabesvär <2gg per månad. 
+    * ICS + LABA vb 
+  * **Steg 3 i behandlingen**: Kontinuerlig beh kvarstående astmabesvär
+    * LABA + ICS kontinuerligt
+* **6mån-5år**
+  * Lindrig infektionsutklöstabesvär, vid behov: SABA vb, salbutamol
+  * Episodisk astma, 10d beh: 
+    * ICS flutikason
+    * andra hand: montelukast (leukotrienantagonist)
+  * Konsultera barnläkare om besvär över 10d; om behov av beh över 4ggr per år, kontakt med barnläkare indicerad. 
+* **6-11år**
+  * **Steg 1**: astmabesvär enstaka ggr i månaden
+    * SABA: salbutamol
+    * om svårighet, kan ge en SABA med spacer
+  * **Steg 2**: kontin el återkommande astmabesvär över 2ggr per månad
+    * steg 1
+    * tillägg ICS: budesonid
+    * andra hand: leukotrienantag, montelukast
+  * **Steg 3**: kvarstående besvär, kontakt barnläkare. 
+
+### Allmänt
 
 ***Fysiologi***
 
 * Andningsfrekvens: normalt 10-16
+* 
+
+
+
+### KOL
+
+
+
+***Presentation***
+
+* På akutmottagningen bedömer du en 67-årig kvinna med känd KOL. Hon har sökt akuten pga dyspné sedan en vecka tillbaka. Hosta har hon sedan tidigare pga sin kroniska bronkit, men den har blivit värre och nu hostar hon upp rikligt med gult slem. Rökstopp sedan 5 år och medicinerar med tiotropium (Spiriva®) och vid behov salbutamol (Ventoline®). Hon har aldrig tidigare haft behandlingskrävande KOL-exacerbation. AT: Orienteradx3, inga pittingödem, ingen cyanos. 95% saturation. AF 22. Hjärta auskulteras utan bieller blåsljud. Puls regelbunden 92 slag/min. BT: 135/85 mm Hg. Lungor: Rikligt med sibilanta rhonki. Patienten är tydligt förbättrad efter inhalation med salbutamol och ipratropium (Combivent®). Du ska nu skriva hem patienten från akuten. Vilken läkemedelsbehandling är bäst i detta fall? Endast ett svar ska markeras (1p) 
+
+  * Kortisonkur + antibiotika.. gamla tentor. 
+
+    * missfärgat slem relateras med infektion i luftvägarna. 
+
+      
+
+
+
+***Patofysiologi***
+
+* Akuta exacerbationer
+  * Oftast infektionsrelaterade: haemofilus, moraxella, pneumokocker
+
+
+
+***Kliniska kännetecken***
+
+* Barrel-chest
+* Rökare lång tid
+* Dyspne, svårigheter att få luft. 
+
+
+
+***Utredning och handläggning***
+
+* Spirometri: reversibilitetstest är obligat. 
+  * FEV1/FVC <0.7: bekräftar persisterande luftflödesbegränsning
+* CAT: Copd assessment test
+  * Inkluderar frågor om hosta, tryuck över bröst, aktiviteter, sömn, energi, ansträngningsrelaterad dyspne. 
+* mMRC, modified british medical research council
+* GOLD-klasser: 
+  * GOLD1: FEV1 >80% predicted, mild KOL
+  * GOLD2: FEV1 50%<x<80%
+  * GOLD3: FEV1 30<x<50%
+  * GOLD4: FEV1 <30%, väldigt vår
+
+
+
+***Behandling***
+
+* Målet med behandlingen är att minska symtomen, förhindra exacerbationer och förbättra livskvaliteten
+* Antikolinergika: funktionen med antikolinergika är att acetylkoline (ACh) i luftvägarna stimmar glattmuskulatur till kontraktion, aktiverar inflammatoriska celler, mucinproduktion. Med antikolinergika får man alltså en net dilaterande effekt, antiinflam effekt, samt antimucin effekt. 
+* **Underhållsbehandling**
+  * GOLDA: lindriga sporadiska symptom, 0-1 exacerbation i *öppenvård* senaste året
+    * SABA vb
+    * SAMA vb: kortverkande antikolinergikum, kombineras inte med långverkande
+  * GOLDB: betyande symptom, 0-1 exacerbationer i öppenvård senaste året
+    * LAMA underhållsbehandling, 1a hand: 
+    * 2a hand, LABA
+    * 2a hand, LABA + LAMA
+  * GOLDC: Lindriga symptom, >=2exaerbationer i öppenvård, eller >=1 slutenvård, senaste året
+    * LAMA underhåll, 1a hand
+    * LAMA + LABA, 2a hand
+  * GOLDD: betyade symptom, >=2exacerbationer öppenvård eller >=1 slutenvård, senaste året
+    * LAMA + LABA, 1a hand
+    * LAMA + LABA + ICS, 2a hand
+* ***Akutbehandling***
+  * Syrgas på grimma eller mask: notera att man är rädd för koldioxidretention, så om man ska sätta in syrgas, måste den stiga syrgas inte så högt. 
+  * Bronkdilaterare
+    * via nebulisator inhalation
+    * Ventoline (salbutamol, i.e. SABA) + ipratropiumbromid (atrovent) + NaCl
+    * Vid problem inhalation: inj terbutalin (bricanyl)
+  * Steroider
+    * T betametason 6x0.5mg, eller predn
+  * Vätska
+    * RA 1L om klin dehydrering, och eller cirk instabilitet
+  * Diuretika
+    * inj furix, 2-4mL vid tecken högersvikt
+  * Antibiotika
+    * vid missfärgade upphostningar + ökad dyspne: oavsett infektionstecken (i.e. även om pat inte ter sig infekterad) är antibiotika indicerat
+    * amoxicillin eller doxycykllin
+    * 5-7d
+    * 2a handsval amoxiklav (spectramox) eller cefotaxim
+    * svårt sjuk: bred täckning, inj piptaz
+  * Svårt eller livshotande anfall
+    * IVA-läkare
+    * assistera vent med mask o blåsa
+    * vb inj terbutalin
+    * sista hand adrenalin var 3e-5e minut
+    * övervak: EKG, puls, andning, BT
+  * Allvarlig försämring KOL
+    * svår KOL, PaCo2 >6.5, pH under 7.35 o AF 25, överväg NIV
+    * livshotande insuff trots behandling, sat under 90%, paco2 >9, starta NIV (inte CPAP) eller respiratorbehandling
+    * 
+
+
+
+
 
 ### Fall
 
@@ -138,9 +271,6 @@ Ont i halsen
     * halsen
     * supraklavikulärt, infraklavikulärt
     * axiller
-* 
-
-
 
 ***Behandling***
 
@@ -161,10 +291,6 @@ Ont i halsen
 
 
 #### Fall 2 - Lungemboli
-
-
-
-
 
 
 
@@ -216,14 +342,14 @@ Ont i halsen
     		* Ingen smärtor, förutom smärtan vid sidan. 
     		* Förbättrar och försämrar. 
     	* Nämner inte du delen med tankar oro önskan. 
-  * Status
+  * **Status**
      * Saturtion: Sjunker saturation när hon går. 
       * Sammanfattar efter status
       	* Baserat åp informationen han fått,  skulle vilja utreda lite mer för att vara på den säkra sidan
       	* Ber henne besöka akutmottagning. För att få svar på. 
       	* Skickar en remiss till akutmottagniingen, där de gör en bättre utredning på besvären och andfåddhet
       * Hur låter detta. 
-  * Gemensam del
+  * **Gemensam del**
      * Troru det är ngt farligt: för lite information. Säger att du kommer få det farliga uteslutet på akuten. 
       * Ringer och bokar en transport
       * Kunskapsöverföringen:
@@ -386,9 +512,9 @@ Ont i halsen
 
 ## !! Farmakologi
 
-### ?? Astma
+### ?? Astma (litet KOL)
 
-#### Fall 1
+#### Fall 1 astma+kol
 
 * **Du ska ha astma/KOL-mottagning och förbereder dagens arbete. Behandlingen för de fyra patienter som du kommer att träffa innebär olika kombinationer av läkemedel. För varje individ nedan, välj det bästa behandlingsalternativet från listan. 3 p**
   * Kortverkande antikolinergikum eller SABA

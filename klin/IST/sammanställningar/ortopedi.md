@@ -14,6 +14,16 @@
 
 ## Axel
 
+### Fysiologi biomek
+
+***Biomekanism modell***
+
+| <img src="./figs/sam14_ryuMM2tr0u.png" alt=ryuMM2tr0u style="zoom:50%"> |      |
+| ------------------------------------------------------------ | ---- |
+|                                                              |      |
+
+
+
 ### Smärta axel
 
 ***Presentation***

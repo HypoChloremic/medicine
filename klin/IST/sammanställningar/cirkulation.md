@@ -1012,6 +1012,52 @@ Förändringar t lkm lista:
 
 
 
+
+
+#### Fall 5 - IPK
+
+***Presentation***
+
+* Du är nyexaminerad läkare och vikarierar på Medicinkliniken på ett medelstort sjukhus. Du har börjat gå egna jourer sedan 2 veckor tillbaka. På natten är du ensam ansvarig för medicin och hjärtavdelningarna samt för akut inkomna patienter på din klinik. Du har en bakjour i hemmet med inställningstid 30 min. Du har precis påbörjat ditt nattpass och får veta att en ambulans med medvetslös patient, är på väg in. Beräknad ankomsttid är ca 10-15 min. Akutmottagningen ligger nära IVA men det tar ca 5 min att komma till de flesta medicinavdelningar. När du får klartecken att gå in på denna station ska du genomföra ett telefonsamtal med en sjuksköterska på en avdelning. Denna informationstext samt papper och penna finns på rummet Säg till när du är beredd att ta emot samtalet
+* Intagningsorsak TIA
+  * Socialt Lärare på gymnasiet. Gift, vuxna barn
+  * Tobak Icke rökare
+  * Tidigare/nuvarande
+  * sjukdomar
+  * Lindrig astma Hypertoni Hyperlipidemi
+  * Tablettbehandlad DM sedan 2005
+* Överkänslighet Ingen känd mot läkemedel. Aktuellt Söker pga. övergående svaghet i vä arm samt hängande mungipa. Besvären höll i sig i 20 minuter för att därefter försvinna helt.
+* Kommer till AKM en timme senare helt återställd. Aldrig liknande besvär tidigare.
+* Aktuella läkemedel 
+    * Metformin 500mg 2x2 Enalapril 10 mg 1x1 Simvastatin 40 mg 1tn Bricanyl vb
+* Status
+    * Allmän tillstånd Lätt överviktig. Cirkulatoriskt och respiratoriskt stabil. Perifert kompenserad. Orienterad x 3. Sat 98 % på luft. Temp 36,8C.
+    * Andnings frekvens 16
+    * Hjärta RR, inga hörbara biljud
+    * Lungor Vesikulara andningsljud
+    * Buk Mjuk, oöm
+    * Blodtryck 170/90
+    * Neurologiskt Isokori. Pupuller reagerar prompt på direkt och indirekt ljus. Ögonrörelser ua. Synfält enl. Donders ua. Ej nackstyv.
+    * Ingen facialispåverkan. Grov kraft extremiteter god symmetrisk. Grasset ua bilat. Finger-näs och knä-häl ua bilat.
+    * Biceps, brachio-radialis, patella ordinärutlösta sidlika.
+    * NIHSS 0p
+    * EKG Sinus rytm. Frekvens 76/min. Inga akuta tecken på ishemi
+    * Lab Hb 146, LPK 7,8, TPK 376, Na 140, K 3,6,
+    * Krea 76, CRP 8, p-glukos 7,3
+* Preliminär bedömning 
+    * Bedöms som TIA. Läggs in för snabb utredning. Beställer DT- hjärna. Om ingen blödning laddningsdos Magnecyl 500mg.
+    * Lipidstatus imorgon bitti. HbA1C taget, svar föreligger ej.Remiss till carotis –duplex får ombesörjas från avdelningen.ställningstagande till EKO samt Holter via avd.
+
+
+
+***Utredning och handläggning***
+
+
+
+***Behandling***
+
+
+
 ## Chock
 
 ### Allmänt
@@ -1397,7 +1443,7 @@ Förändringar t lkm lista:
 
 
 
-<img src="./figs/sam2_wCB3FnaD7b.png" alt=wCB3FnaD7b style="zoom:70%">
+<img src="./figs/sam2_wCB3FnaD7b.png" alt=wCB3FnaD7b >
 
 ***Behandling***
 
@@ -1408,6 +1454,14 @@ Förändringar t lkm lista:
   * **Morfin**: associeras med ökad mortalitet...
   * **Furix**: över 85 systoliskt
   * (**betablockad**)
+* **Underhållsbehandling, trappa**
+  * 
+
+
+
+| <img src="./figs/sam12_IhN0VHwc9d.png" alt=IhN0VHwc9d style="zoom: 67%;"> | <img src="./figs/sam12_LFHghFRWRQ.png" alt=LFHghFRWRQ style="zoom: 67%;"> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              | ![image-20211015205649617](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20211015205649617.png) |      |
 
 
 
@@ -1681,6 +1735,17 @@ Remiss till Klinfys
 
 
 ## Ö Farmaka
+
+
+
+### COX-hämmare
+
+***Presentation***
+
+* 76åå man
+  * tidg STEMI, nu hjärtsvikt med försämring. Medicinerar med ASA, furix, metoprolol, 
+
+
 
 ### Waran
 

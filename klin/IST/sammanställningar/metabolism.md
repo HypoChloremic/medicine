@@ -169,3 +169,18 @@
 * Miosis: små pupiller
 * Andningsdepression
 * Medvetandesänkning
+
+
+
+### Järnmetabolism
+
+***General takes***
+
+* Att det börjar med glycin + succinyl-CoA
+* Vid nedbrytning av hem till bilirubin kommer järnet att återanvändas, den kommer inte att göra av med. 
+* Notera porphyrier: att det sker under hemsyntesen, upstream metaboliter. 
+  * enzymbrister som leder till ackummulation av porphyr-metaboliterna
+  * leder till hepatiska eller erytropoetiska porfyrier. 
+
+<img src="./figs/sam14_hna0gKeHri.png" alt=hna0gKeHri style="zoom:100%">
+

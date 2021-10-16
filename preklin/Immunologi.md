@@ -28,3 +28,12 @@
 ### Definiton
 
 * 
+
+# Inflammation
+
+## Mekanistiskt
+
+### Fosfolipid inflammation, viktigt
+
+<img src="../klin/IST/sammanställningar/figs/sam12_wiY1lfDFnm.png" alt=wiY1lfDFnm >
+

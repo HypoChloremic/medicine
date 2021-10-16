@@ -37,3 +37,53 @@
   * antagligen för att detta har att göra med meningokocker
   * Noetrat att betametason haft störst effekt på pneumokock-orsakade meningiter
 
+
+
+
+
+## Lunginfektioner
+
+### Pneumoni
+
+***Behandling***
+
+* Inläggningsfall: 
+  * Bensyl-penicillin, bensyl-PC, iv. 
+
+
+
+### Fall
+
+#### Fall 1 - pneumoni
+
+***Presentation***
+
+* Hon har bestämt att det är ett inläggningsfall men hon har inte hunnit att vare sig ordinera några läkemedel eller rapportera patienten till avdelningen. Den information som du har fått i rapport av avgående jouren finns att tillgå i journalutskriften som finns på nästa sida. Du ska både komplettera provtagning om du finner det nödvändigt och ordinera läkemedel samt rapportera patienten till avdelningen på ett tydligt och medicinsk säkert sätt. Det finns risk att patienten inte kommer att rondas under dagen så alla ordinationer ska täcka första dygnet.
+* Mona Larsson 400314-XXXX
+  * Besöksorsak Hosta och feber
+  * Socialt Pensionär. Ensamstående, vuxna barn.
+  * Rökning Fd rökare, rökstopp 3 år sedan
+  * Alkohol Ytterst sparsamt
+  * Tid/nuv. sjukdomar Op carpaltunnelsyndrom -95
+      * Hypertoni.
+      * Hyperlipidemi
+  * Akuellt 
+      Insjuknat för knappt en vecka sedan med hosta och feber. Inte sökt vård men tagit T.Alvedon samt mixt. Mollipect hemma. Senaste dagarna har hon blivit betydligt sämre, feber upp mot 39,0 C trots regelbunden Alvedonmedicinering samt besvärlig hosta med mycket slem. Har tagit sina blodtrycksläkemedel som vanligt
+  * Aktuella läkemedel T Metoprolol 50mg 1x1
+      * T Enalapril 10 mg 1x1
+      * Mixt Mollipect 10 ml x 3
+      * T Alvedon 500 mg 2x4
+
+
+
+***Handläggning och utredning***
+
+* Blododlingar
+* Blodprover
+* Dropp
+
+
+
+***Behandling och handläggning***
+
+* Antibiotika: bensyl-PC

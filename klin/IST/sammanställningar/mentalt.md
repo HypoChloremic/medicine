@@ -640,7 +640,32 @@ Trötthet
 
 
 
-### Migrön
+### Migrän
+
+***Kliniska kännetecken***
+
+* Aurafenomen
+* Unilateral
+* Pulserande, bultande
+* Måttlig eller svår intensitet
+* försämras av fysisk aktivitet
+* varar obehandlad 4-72h
+* förekommer i komb: 
+  * illamående
+  * ljuskänslighet
+  * ljudkänslighet
+
+
+
+
+
+***Behandling***
+
+* Anfallskuperande behandling
+  * NSAID + Alvedon
+  * Triptaner: olika beredningsformer. Notera att triptaner har väldigt många biverkningar 
+
+
 
 #### Fall 1
 
@@ -1081,27 +1106,33 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 
 ***Etiologi och patofysiologi***
 
+
+
 ***Epidemiologi***
+
+
 
 ***Kliniska kännetecken***
 
+
+
 ***Utredning och handläggning***
 
-* Patientkommunikation
+* **Patientkommunikation**
     * Professionell känslomässig bekräftelse
     * Föreställningar, förväntningar och farhågor
     * Pedagogisk förmåga
     * Samverkar med patienten om beslut och handläggning
     * Förmedlar hopp
     * Struktur
-* Anamnes
+* **Anamnes**
     * Symtombild
     * Psykosocial situation
     * Suicidalitet
     * Alkohol/droger
     * Tid. sjukdom, hereditet
     * Somatisk sjukdom
-* Diagnos och behandling
+* **Diagnos och behandling**
     * Diagnos
     * Psykosocial situation
     * Föreslår adekvat
@@ -1132,7 +1163,7 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 
 ***Översikt***
 
-* Ska identifiera
+* **Ska identifiera**
   * socialt välfungerande 2-barns mor
   * socialt sammanboende med partner
   * sen ett par månader erfarit accenteurade besvär atackvis påkommande hjärtklappning + dödsångest
@@ -1142,7 +1173,7 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
     * episod överdos tavletter samband patientens partner gjrort slut i 20åå
   * Utesluta depression: Antagligen frågor om nedstämdhet, livsglädje, anhedoni, ork..
   * Föreslå adekvat behandling
-* Studenten ska
+* **Studenten ska**
   * ställa korrekt diagnos: paniksyndrom
   * utesluta depression
   * kunna göra en suicidbedömning

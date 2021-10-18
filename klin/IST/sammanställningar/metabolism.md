@@ -1,4 +1,168 @@
+## Ben
+
+### Osteoporos
+
+***Etiologi***
+
+* **Primär osteoporos**
+
+  * !! **Postmenopausal**
+  * Åldersrelaterat
+  * Benarkitektur påverkan: försämrad skelettmikroarkitektur
+
+* **Sekundär osteoporos**
+
+  * **Läkemedelsrelaterade orsaker, tenta**
+
+    * Glukokortikoider
+    * Antihormonell behandling: cancerbehandlingar
+    * antiepileptika
+    * SSRI
+    * PPi: oklart evidensläge.
+      * ökad gastrinproduktion
+      * Hypochlorhydria
+
+  * **GI associerade**
+
+  * 1. Inflammatoriska  tarmsjukdomar
+    2. Celiaki
+    3. IBD
+    4. gastrektomi
+    5. malabsorptions syndrom
+
+  * **Endokrina**
+
+  * 1. D-vitaminresistent  rakit
+    2. hyperparathyroidism
+    3. hyperthyreos, tyreotoxikos,      factitia
+    4. D-vitamin brist
+    5. **prolaktinom**
+    6. hypofysinsufficiens
+    7. Cushings
+    8. osteomalaci
+    9. rakit
+    10. kortison
+    11. träningsinducerad amenorre
+
+  * **Andra**
+
+  * 1. heparinbehandling      under graviditet
+    2. Mb paget: onormal      benbildning
+    3. RA
+    4. mastocytos
+
+  * **malignitet**
+
+  * 1. myelom
+    2. Epilepsi med      fenatoinbehandling
+
+
+
+#### Behandling
+
+**Livsstil**: ökad mobilisering, sluta rökning, alkohol, nutrition
+
+ 
+
+**Kalcium + D-vitamin**
+
+1. Indikationer
+   1. Alla med D-vit brist
+   2. alla som medicineras med     osteoporosläkemedel, e.g. bisfosfonater, 
+   3. Över 80 år och det inte     fungerar med osteoporosläkemedel pga medförda biverkningar, kan man ge     kalcium + d-vitamin kombinationen
+   4. **kortisonbehandlade**
+2. "kalcipos-D-forte"
+3. "calcichew": både kalcium + vit-D
+
+ 
+
+**Denosumab**
+
+1. antikroppar     mot RANK-liganden och 
+2. reducerar benresorptionen     mkt. 
+3. Indicerad för postmenopausal     osteoporos, samt för män som antihormonellbehandlas mot prostatacancer. 
+
+ 
+
+**Bisfosfonat**
+
+1. hämmar     osteoklasterna (om inte inducerar fusion med benväv. . .); hämmar     resorption och mineralisering av skelett, tenta
+
+2. analog pyrofosfat
+
+3. "**Alendrontabletter**" veckoliga
+
+4. 1. bra mot      icke-symtomgivande kotfrakturer, inte mga andra
+
+5. **Zoledronsyra** infusion var sjätte månad. 
+
+6. 1. ökar bra      med bentäthet utöver minskade kotfrakturer
+
+7. Sen har vi
+
+8. 1. Didronat
+   2. Bone-fos
+   3. Rise-dronat
+   4. Iban-dronat
+
+9. **Biverkningar**: **stressfrakturer**, samt subtrokantär kortikal     förtjockning.
+
+10. Indikation: 
+
+11. 1. hög      frakturrisk: indikerat med alendrontabletter evt zolendronsyra om låg      compliance. 
+    2. Låg frakturrisk (FRAX under      20%): inte förstahandsprio med alendron eller zoledron
+
+ 
+
+!!! **PTH, intermittent injektion**: Intermittent tillförsel har en positiv effekt vad gäller bentäthet, och minskad resorption. konstant tillförsel såsom vid hyperparathyroidism ser man ökad resorption. 
+
+1. **Metodik**
+   1. Dagliga injektioner
+   2. Dyrt
+   3. Bra **mot vertebrala frakturer**
+2. **Effekter**
+   1. ökad trabekulär bendensitet. 
+3. Teriparatide (a recombinant form of parathyroid hormone [PTH]) and abaloparatide (a synthetic analogue form of PTH-related protein [PTHrP]) exert their effects via binding to the PTH-1 receptor. Whereas continuous exposure to high levels of PTH or PTHrP results in increased bone resorption, intermittent administration stimulates bone formation earlier and to a greater degree than resorption, resulting in a net gain in bone mineral density (BMD).
+   1. doi:10.1001/jama.2021.0233
+4. **Kontraindikationer**
+   1. Primär eller sekundär hyperparathyroidism
+
+ 
+
+**SERM:** 
+
+ 
+
+**strontium-ranelat** 
+
+1. Ökar 
+
+2. 1. benbildning      i benvävkultur
+   2. Osteoblastprekursorreplikation
+   3. Kollagensyntes
+
+3. Reducerar benresorption
+
+4. 1. Gm att      minska osteoklastdifferentiering
+   2. Osteoklasternas resorberande      aktivitet
+
+ 
+
+**vertebro-kyfoplastik**: intro av cement i kotkropparna. Har visat sig inte minska smärta så värst. 
+
+
+
 ## Elektrolyter
+
+
+
+
+
+### Fosfat
+
+#### Hyperfosfatemi
+
+wn
 
 
 
@@ -31,6 +195,61 @@
 * **Calcitonin**: 
 * **Prenisolon**: man ger detta för vissa maligna hyperkalcemier, maligna lymfomer och myelom
 * **Kirurgi**: för primär hyperparathyroidism
+
+
+
+
+
+#### Hypokalcemi
+
+***Etiologi***
+
+* Vit-D brist
+* Hypoparathyroidism
+  * agenesi parathyroidea
+  * autoimmun hypoparathyroidism
+  * iatrogen hypoparathyroidism: kirurgi
+* autosomalt dominant hypokalcemi
+* blödningschock
+* hypomagnesemi
+* kronisk respiratorisk alkalos
+* nekrotiserande pankreatit: 
+  * LPK release leder till ackummulation fria fettsyror
+  * fria fettsyror binder upp kalcium
+* pseudo-hypoparathyroidism
+  * defekt PTH receptor
+  * Höga konc PTH men ingen effekt då defekt PTH receptor
+* Sepsis
+* Sjukdom med allmänpåverkan
+
+
+
+
+
+***Kliniska kännetecken***
+
+* Kramper: inte muskelsvaghet
+* Hyperreflexivitet
+* Stickningar
+* Parestesi
+* Tetani
+* Förvirring
+* Koma
+* Katarrakt
+
+
+
+***Behandling***
+
+* kalcium + vit-D: kalcichew + vit-D
+* Akut hypokalcemi: 
+  * injektion kalciumglukonat
+* INfusionsbehandlnig
+  * kvarvarande hypokalcmi
+* Hypomagnesemi
+  * addex magnesium
+
+
 
 ### Kalium
 

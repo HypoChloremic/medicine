@@ -24,7 +24,58 @@
 
 
 
-### Smärta axel
+
+
+### Frozen shoulder
+
+***Presentation***
+
+* En 60-årig kvinna med tablettbehandlad typ 2 diabetes söker med successivt tilltagande smärta, dag– och nattetid, i vänster axel sedan 6 veckor. Hon uppger tilltagande nedsatt rörelseomfång generellt i alla rörelseriktningar med distinkt stopp innan maxuttag i rörelsen. Inget känt trauma i anamnesen. Patienten har inga andra symptom och slätröntgen av skuldran är ua liksom blodstatus.
+  Givet de anamnestiska uppgifterna, vilken är den mest sannolika diagnosen?
+  * frozen shoulder.
+
+
+
+***Etiologi och patofys***
+
+* Skrumpning av ledkapseln, men exakt orsak är okänd
+* adhesiv kapsulit
+* periartrit
+
+
+
+***Kliniska kännetecken***
+
+* Amens hålls intill kroppen
+* ROM inskränkning som tydligast syns vid rotationsförsök
+
+
+
+***Utredning och handläggning***
+
+* Rtg av axeln, för att utesluta annan åkomma
+
+
+
+***Differentialdiagnoser***
+
+* Tillståndet kan ibland vara svårt att skilja fr rotatorkruffsyndrom
+
+
+
+***Handläggning***
+
+* Initialt, då tillstånet kan likna rotatorkuffsyndrom, pröva att ge en subakromial injektion med kortison/lokalbedövning
+* informera om godartat förlopp
+* Något sämre prognos fr patienter med diabetes
+* Akutskede är det tveksamt om sjukgymnastik har någon effekt, men i ett senare skede då smärtan har klingat av bör pat få en remiss t fysioterapeut
+* Sent skede remiss ortoped ställningsstagande mobilisering i narkos om inte stelhet släpper. 
+
+
+
+### Fall
+
+#### Fall 1 - Smärta axel
 
 ***Presentation***
 
@@ -104,7 +155,7 @@ Omedelbart fortsatt åtg
 
 
 
-### Smärta axel 2 - PMR
+#### Fall 2 - Smärta axel, PMR
 
 
 

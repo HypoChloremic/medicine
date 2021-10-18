@@ -15,6 +15,33 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
 
 
 
+### Lärandemål
+
+sdsd
+* Värdera en patients läkemedelsbehandling genom att ta ställning till indikation, effekt och biverkningar. 
+* Kunna väga in faktorer såsom njurfunktion, ålder, graviditet, amning och samsjuklighet  vid val av läkemedel och dos.
+* !! Känna till grundläggande farmakokinetiska begrepp 
+    * ADME,
+    * absorption,
+    * distribution,
+    * metabolism och exkretion) och kunna tillämpa dem vid val av läkemedel,
+    * dos och uppföljning. 
+* Förstå grundläggande principer för läkemedelsinteraktioner 
+* Vara förtrogen med vad som ingår i en läkemedelsgenomgång samt en läkemedelsberättelse 
+* Översiktligt kunna vilka läkemedel som används för behandling av vanliga sjukdomar  (Ej doser) 
+* Kunna indikation och doser för läkemedel i A-HLR situation 
+* Kunna identifiera kliniskt betydelsefulla biverkningar och läkemedelsrelaterade symptom som kan förekomma vid behandling av  vanliga diagnoser  (t.ex. elektrolytrubbningar) 
+* Kunna hitta relevant information i FASS-text och tillämpa den vid ordination och uppföljning av behandling 
+* Utfärda korrekta recept 
+* Vara förtrogen med biverkningsrapportering –vem ska rapportera, vad ska rapporteras? Hur gör man?
+* Läkemedelskoncentrationsmätning (TDM) –känna till grundläggande principer för provtagning och tolkning.
+* Kunna tillgodogöra sig en vetenskaplig läkemedelsstudie utifrån PICO 
+* Kunna granska en vetenskaplig läkemedelsstudie och identifiera dess främsta styrkor/svagheter 
+* Kunna skilja mellan evidensbaserad och kommersiellt obunden läkemedelsinformation och information som är osaklig eller kommersiellt driven, samt ha förståelse för varför detta är viktigt.
+* Känna till de viktigaste källorna till evidensbaserad och producentobunden läkemedelsinformation (exempelvis Läkemedelsverket, Socialstyrelsen, SBU (Statens beredning för medicinsk och social utvärdering), Tandvårds-och läkemedelsförmånsverket (TLV), Strama och läkemedelskommittéer i olika landsting)
+
+
+
 ## Biverkan
 
 
@@ -44,7 +71,7 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
 
 
 
-### Utredningsmässigt
+### Utredningsmäss
 
 * Positiv dechallenge – utsättning av ett läkemedel medför förbättring av symtomen.
 * Positiv rechallenge – återinsättning av ett läkemedel gör att biverkningen återkommer.
@@ -63,7 +90,39 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
   * abstinens
   * farmakologiska effekter
 
+### ! Interaktioner
 
+#### Fall 1, tenta
+
+Hitta de interagerande läkemedlen och dess effekter. 
+
+Tablett Atorvastatin Actavis 10 mg 1+0+0+0 (HMG-CoA-reduktashämmare)
+
+Tablett Trombyl 75 mg 1+0+0+0 (acetylsalicylsyra)
+
+Tablett Enalapril Comp STADA 20 mg/6 mg 1+0+0+0 (ACE-hämmare/hydroklortiazid) 
+
+Depottablett Tegretol Retard 400 mg 1+0+0+1 (karbamazepin, antiepileptikum)
+
+Depottablett Xatral OD 10 mg 0+0+0+1 (alfuzosin, alfa-1-receptorblockerande medel)
+
+Tablett Donepezil Orion 10 mg 0+0+0+1 (kolinesterashämmare, demensläkemedel)
+
+Tablett Sertralin Bluefish 50 mg 1+0+0+0 (SSRI)
+
+Tablett Oxascand 5 mg 1+0+0+1 (oxazepam, bensodiazepin)
+
+Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
+
+
+
+* **Enalapril + alfuzosin**: hypotension, ortostatism
+  * även SSRI kombinerat med ngn av dessa
+* **Karbamazepin + sertralin**: hyponatremi
+* **Trombyl + sertralin**: ökad blödningsrisk
+* **Donazepil + sertralin**: QT-förlängning
+* **Donapezil + tiazid**: QT-förläng
+* **Karbamazepin, zopiklon, oxazepam**: trötthet, sedering, yrsel
 
 ### Läkemedel
 
@@ -71,6 +130,20 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
 
 * **Ska användas varsamt**
 * **Sänker kramptröskel**: ökad risk för att få kramper, varpå farligt. 
+
+#### Antipsykotika
+
+* Korttidsbiverkningar
+  * Sedering
+  * Parkinsonism
+  * ortostatism
+  * extrapyramidala: akatisi, rigiditet, sväljningssvårigheter
+  * malignt neuroleptikasyndrom
+  * QT-förlängning
+* Långtidsrisker
+  * Vid demens
+    * Stroke
+    * Död
 
 
 
@@ -168,11 +241,63 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
 
 ## Farmakokinetik
 
+### Allmänt
+
+***Termer***
+
+1. **O:te ordningens kinetik**: 
+
+   1. substrat mättnad, 
+   2. !!! ***ingen konstant halveringstid***: EXAKT! detta förklarar hur man ska tänka rent rationellt v.g. alkohol exempelvis. 
+   3. en viss mängd LM elimineras per tidsenhet, på     linjära skalor får man ett linjärt förhållande. 
+
+2. 1. Alkohol      har ote ordningens kinetik: den absorberas från gut, 
+   2. ökar i koncentration, 
+   3. sen när den sjunker i konc      allteftersom metabolism, får man en linjär fas som kallas för o:te      ordningens kinetik, 
+   4. varav den sista delen är      exponentiell. 
+   5. Den sista delen är 1:a      ordningens kinetik. 
+   6. Man har linjära skalor på      båda axlarna. 
+   7. Det man noterar med 0:te      ordningens kinetik då är att man inte har en halveringstid för att för      varje koncentration finns det olika halveringstider, 
+   8. samt att det är en konstant      amount som man förbränner per tidsenhet. 
+
+3. **1:a ordningens kinetik**: har en initial hastighet, konstant halveringstid.     Linjär skala kommer den se exponentiell ut. Om man logaritmerar y axeln     får man en linjär. 
+
+4. **Loading dose:** Då steady state uppnås efter 3-5 halveringstider är detta inte     användbart med vissa läkemedel, för att halveringstiden är så lång, varav     the acuity of the situation kräver omedelbar steady state eller verkan. Då     ger man en loading dose, som då är en stor dos, som tillåter oss nå the     steady sooner. 
+
+5. **Underhållsdos:** detta är den dos som är lika med elimineringstakten vid steady     state, varav man bibehåller en konstant koncentration. 
+
+### Biotillgänglighet
+
+***Definition***
+
+* 
+
+
+
+### Effektlängd
+
+***Presentation, tenta***
+
+* Du läser om sumatriptan i Fass.  Sumatriptan är en substans som används för behandling av migränanfall. Sumatriptan finns i olika beredningsformer: tablett, nässpray och subkutan injektion. I Fass-texterna hittar du information om de olika beredningsformernas farmakokinetik, se tabellen nedan. Utifrån informationen i tabellen nedan, vilken av beredningsformerna har teoretiskt mest långvarig effekt efter en administrerad dos? Motivera. (0,5 p)
+  * Framgår att det finns tre beredningsformer
+    * Tid till maximal konc: TTMK; biotillgänglighet: BG; maximal plasmakonc efter en dos: MPD
+    * ***Tablett***: TTMK 2h, halveringstid 2h, BG 14%, MPD 54ng/mL
+    * ***Nässpray***: TTMK 1.5h, halveringstid 2h, BG 15%, MPD 13ng/mL
+    * ***Subkutant***: TTMK 2h, halveringstid 2h, BG 96%, MPD 72ng/mL
+  * !! Vilka av dessa har den längsta effektlängden
+    * Subkutana beredningformen: trots att halveringstiden är densamma, så kommer den ha den längsta effektlängden, för att den uppnår en högre MPD, detta i sin tur innebär att det kommer rent analytiskt längre för koncentrationen att sjunka under en given effektkoncentration (e.g. 0.1ng/mL), jämfört de andra beredningsformerna
+
 ### Halveringstid
 
 * **Ange vilken farmakokinetisk variabel man använder för att estimera tiden det tar att eliminera lkm**
   * halveringstid
   * 4-5 halveringstider
+* ***När under dostintervallet ska blodprovet tas för att bestämma lkm koncentration***
+  * dalvärde, innan första dos. 
+* ***Om du gör en dosändring avett lkm efter hur lång tid därefter ska nästa koncmätning tidg göras***
+  * 4-5 halveringstider, för att nå en steady-state koncentration. 
+
+
 
 
 
@@ -184,6 +309,8 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
   * vissa grönsaker finns Vit K
   * om intaget vit K varierar blir effekt av  Waran också varierande
   * äta grönsaker är bra man ska eftersträva ett jämnt intag. 
+
+
 
 #### COX-hämmare
 
@@ -215,7 +342,7 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
 
 
 
-## Farmakodynamik
+## Farmakodynam
 
 ### Hur länge lkm kvar
 
@@ -246,7 +373,37 @@ De flesta av dina patienter har ett eller flera läkemedel som blir föremål f�
 
 
 
-## Receptförskrivning
+## Läkemedel att kunna
+
+* **Karbamazepin**
+  * Interaktioner
+    * Trötthet, sedering, yrsel: zopiklon, oxazepam
+* **Antipsykotika**: 
+  * korttids och långtidsbiverkningar
+* ***Sertalin***
+  * interaktioner: ökar blödningsbenägenhet, mtp trombocyter där cytosolär serotonin sjunker, varpå försämrar trombocytaggregationsförmåga. 
+* ***Donapezil, kolinesterashämmare (demenslkm)***: 
+  * Interaktioner
+    * QT-förlängD: Tiazider, sertralin
+* ***Zopiklon***: GABA-agonist
+* ***Oxazepam***
+* ***Alfuzosin***:
+  * Interaktioner
+    * Hypotension, ortostatism: Enalapril-comp
+* ***ASA***: Trombyl, Bamyl
+  * Skillnaden mellan ASA (aspirin) och traditionella NSAIDs är att ASA har en längre 
+  * ***Farmakodynamiskt***: irreversibelt acetylerar COX1 och COX2. Alltså behöver trombocyten bytas ut för att man ska återfå effekt trombocytaggregation. Dock om man därför tar en balanserad daglig dos, kommer man att ha en effektiv anti-trombocytaggregerande effekt, som är hjälpsamt v.g. patienter med risk för arteriella trombembolier. 
+* ***NOAK***
+  * ***Apixaban***: eliquis, faktor Xa (10a) hämmare
+  * ***Rivaroxaban***: 
+  * ***Dabigatran***: faktor 2a hämmare, trombinhämmare (enbart aktiverade faktor2 molekyler)
+  * ***För analysmetoder***: se preklin>biokemi.md 
+
+
+
+
+
+## Receptförskrift
 
 ### Fall 1
 
@@ -353,4 +510,4 @@ Emil Andersson 13 månader (181022-8634) söker med sin mamma på grund av värk
 
 #### ! Karbamazepin
 
-* Snabb utsättning karbamazepin ökar risken markant för att man drabbas av anfall
+* Snabb utsättning karbamazepin ökar risken markant för att man drabbas av anfall 

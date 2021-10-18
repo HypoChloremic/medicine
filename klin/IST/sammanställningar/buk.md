@@ -836,6 +836,60 @@
 
 
 
+## Förstoppning
+
+### Behandling
+
+tenta
+
+***Inolaxol***
+
+* !! **Bulkmedel**: fibrer
+* Passar till geriatrisk patient med förstoppning
+
+
+
+***Movicol***
+
+* !! **Osmotiskt aktivt**: är inte bulkmedel, utan binder osmotiskt vatten, för att göra avföringen lösare, därför stimulera peristaltik och är laxerande
+* Passar till geriatrisk patient med förstoppning
+
+
+
+***Natriumpicosulfat (e.g. cilaxoral)***
+
+* Peristaltikstimulerande
+  * Magnip
+  * svårdoserad
+  * kan ge diarre
+  * sämre evidens vid långtidsanvändning
+* Passar inte till geriatrisk patient med förstoppning
+
+
+
+***Dokusat + sorbitol (klyx rektal lösning)***
+
+* Uppmjukande + smörjande
+
+
+
+
+
+***Effekter, tenta***
+
+| Påstående                                       | Läkeemedelsgrupp som passar på resp rad              |
+| ----------------------------------------------- | ---------------------------------------------------- |
+| Behandlingen kräver adekvat vätskeintag         | Osmos (movicol), bulkmedel (inolaxol)                |
+| Risk gasbildning högre än övriga laxeringsmedel | Osmos (movicol)                                      |
+| Långtidsbehandling, god evidens                 | Osmos (movicol), bulkmedel (inolaxol)                |
+| Tarmrensning inför rektoskopi                   | Dokusat + sorbitol (Klyx)                            |
+| Full effekt 1v efter regelbunden användning     | Bulkmedel (inolaxol)                                 |
+| Påverkan elektrolytbalansen                     | Osmos (movicol), peristaltikstimulerande (cilaxoral) |
+
+
+
+
+
 ## Galla
 
 ### Gallstas

@@ -303,6 +303,28 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 
 
+***Scoringsystem, för förmaksflimmer***
+
+* CHA2DSVAS2C: >1p för kvinnor >0p för män, indikation att få antikoagulantia
+  * Congestive heart failure
+  * Hypertension
+  * Age >75åå 2p
+  * Diabetes
+  * Stroke, TIA, annan trombembolism
+  * Vaskulit eller liknande inflammatorsiak stillstånd
+  * Age >65åå
+  * Sex: kvinnor får 1p
+* HAS-BLED scoring: utv för att skatta blödningsrisk av FF pats som får antikoag. s
+  * Hypertoni: 
+  * Abnormal njurfunk eller leverfunk
+  * Stroke
+  * Blödningsbenägenhet
+  * Labil INR
+  * Elderly: över65åå
+  * Droger eller alkohol
+
+
+
 ***Behandling***
 
 
@@ -656,6 +678,16 @@ Förändringar t lkm lista:
   * Mat: dietist grejor, att man ska modifiera matvanor
   * osv +
 * **Rektangel**: Den försöker illustrera att den minst bästa kombinationen är ACE/ARB + betablockad. 
+* Enligt kloka listan
+  * **Börja med två preparat direkt**: bättre effekt och BT kontroll
+    * **ACE-h/ARB**: enalapril, losartan
+    * **med kalciumantagonist**: amlodipin
+    * **eller diuretika**: tiazid
+      * Föreligger risker med användning
+        * 
+    * **Kombinationer**: ACE/ARB + kalciumantag eller ACR/ARB + diuretika
+  * **Notera**:
+  * 
 
 
 
@@ -692,6 +724,23 @@ Förändringar t lkm lista:
 
 
 
+### Riskfaktorer
+
+***Riskfaktorer för att blöda, tenta***
+
+* Anamnestiskt
+  * Alkohol
+  * Fallbenägenhet
+  * Hypertoni
+* HASBLED: risk blödning FF som ska få antikoag
+  * Hypertoni: 
+  * Abnormal njurfunk eller leverfunk
+  * Stroke
+  * Blödningsbenägenhet: blödning i anamnesen eller predisposition (misstänkt blödningsanemi)
+  * Labil INR
+  * Elderly: över65åå
+  * Droger eller alkohol
+
 ## Bröstsmärta
 
 
@@ -699,6 +748,16 @@ Förändringar t lkm lista:
 ### Hjärtinfarkt
 
 #### Allmänt
+
+
+
+***Presentation***
+
+* En 41-årig man med känt diskbråck i halsryggen samt övre luftvägsinfektion söker med central bröstsmärta sedan 2 timmar. Han beskriver att värken strålar ut i skuldrorna. Smärtan kom successivt då mannen var ute och gick med sin hund. Mannen beskriver smärtan som tryckande över bröstkorgen. Smärtan är inte lägeskorrelerad och förvärras inte då mannen hostar. Mannen erfar illamående, svettas lätt och erfar kraftig ångest. Han är blek och andfådd i vila. Puls 88, BT 110/60. Hjärta och lungor auskulteras ua. Vilken av nedanstående är den enskilt mest sannolika diagnosen? (1p)
+  * Sannolikt hjärtinfarkt
+* 
+
+
 
 ***Etiologi***
 
@@ -1746,6 +1805,22 @@ Remiss till Klinfys
   * tidg STEMI, nu hjärtsvikt med försämring. Medicinerar med ASA, furix, metoprolol, 
 
 
+
+### Hemostas
+
+***Presentation, tenta***
+
+* Diskuterar blodförtunnande läkemedel med Gunilla. Hon säger att hennes make har tagit Trombyl (ASA) under flera år och det finns massor med tabletter kvar. Utifrån verkningsmekanismerna, vilken är teorin bakom att man i första hand väljer acetylsalicylsyra, tex Trombyl, vid arteriosklerotisk sjukdom medan direktverkande orala antikoagulantia (DOAK), tex apixaban är förstahandsvalet vid förmaksflimmer 
+  * **ASA**: 
+    * primär hemostas
+    * hämmar tromobcytaggregation gm irreversibel inaktivering COX. 
+    * COX medverkar syntes tromboxan, som involveras i trombocytaktiveringen. 
+    * Vid plackruptur, som vid hjärtinfarkter, sker initial trombocytaktivering, och är trombocytrika. 
+    * Dessa tromboser är fattiga fibrin jfr andra trombembolier
+  * **Apixaban**: faktor Xa hämmare.
+    * Koagulation
+    * Faktor Xa-hämmare, alltså trombin aktivering inhibering. Därmed hindrar fibrinogen omvandling till fibrin. 
+    * Förmaksflimmer hemodynamiskt leder till att man för fibrinrika trombembolier. Detta i sin tur leder till att det just är sekundär hemostas inhibering som bidrar till att man får bättre kontroll över trombformationerna
 
 ### Waran
 

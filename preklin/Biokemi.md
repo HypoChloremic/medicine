@@ -146,7 +146,12 @@
 
 
 
-* * *
+#### ! NOAK och analyser
+
+Det är vedertaget nu att PKINR och APTT tid är dåliga measuers för att evaluera koncentrationer och effekt av NOAK på den sekundära hemostasen hos patienter. 
+
+* Clot-based assays such as PT/INR are rapid and inexpensive; however, they are easily affected by coagulation factor abnormalities, levels of plasma proteins and other drugs, which may contribute to false or contradictory results (24, 25). The most frequently used coagulation tests, PT and aPTT, show differential responses to different FXa inhibitors. In previous studies, fondaparinux and otamixaban, a direct FXa inhibitor, caused minimal prolongation of PT and aPTT (26, 27), whereas rivaroxaban, another direct FXa inhibitor, prolonged PT more than aPTT (28). Apixaban also causes minimal prolongation of aPTT (15). Our study shows that, in general, increasing concentrations of the FXa inhibitors apixaban, razaxaban, BMS-645068 and rivaroxaban prolong PT incrementally. The extent of PT prolongation varies considerably with the thromboplastin reagent. A previous study showed a similar magnitude of changes with rivaroxaban (18). The variation may be due to the physical and/or chemical interactions between individual FXa inhibitors and phospholipids found within these thromboplastin reagents.
+  * doi:10.1160/TH10-05-0328
 
   
 
@@ -278,16 +283,16 @@ https://www.ahajournals.org/doi/full/10.1161/hq0701.093520
 ***Allmän fysiologi av COX***
 
 * Agerar på cyklo-oxygenas enzymet. 
-* COX1: konstitutiv, uttrycks i alla celler 
-  * inklusive trombocyter
-  * enterocyter: viktig för mucin produktion
-* COX2: inducerbart, produceras i samband med inflammation
-  * endotelceller
-  * Konstitutivt i vissa celler
-    * njjjur
+* **COX1**: konstitutiv, **uttrycks i alla celler** 
+  * inklusive **trombocyter**
+  * **enterocyter**: viktig för mucin produktion
+* **COX2**: inducerbart, produceras i samband med inflammation
+  * **endotelceller**
+  * **Konstitutivt i vissa celler**
+    * njure
     * testis
     * CNS
-* COX3: enbart i CNS
+* **COX3**: enbart i CNS
 * **Prostacyklin i.e. PGI2**
 * **Tromboxan (i.e. PGA2?)**
   * agerar på tromboxan receptorer på trombocyter
@@ -338,21 +343,23 @@ https://www.ahajournals.org/doi/full/10.1161/hq0701.093520
     * !! mer än 95–98 procents hämning av trombocytens COX-1 krävs för god effekt på trombocytaggregation på grund av enzymets stora överkapacitet 
 * **Antritrombotiska effekten**
   * lasts 4-7d, alltså samma längd som trombocyterna omsätts. 
+  * **ASA**: Irreversibelt acetylerar COX1, som i sin tur innebär att man irreversibelt hämmar trombocyter att få en effektiv aktion
+  * **Ibuprofen**: reversibelt hämmar COX1, innebär att man får en sämre antitrombotisk effekt, och möjligtvis tom att den kommer öka trombosbenägenhet
 
 
 
-<img src="./figs/sam5_oicns0n5tm.png" alt=oicns0n5tm style="zoom:50%">
+<img src="./figs/sam5_oicns0n5tm.png" alt=oicns0n5tm style="zoom: 80%;">
 
 
 
 ***Gastrointestinala effekter***
 
-* Av NSAID kan man få
-  * Gastrisk dyspepsi: magsmärtor, obehag, illamående, sura uppstötningar
-  * peptiskt ulcus: slemhinneblödngar i magsäck eller tolvfingertarm
-  * Orsak
-    * lokal hämning PGI2 och PGE2: dessa vasodilaterar i tarmslemhinnan samt stimmar mucus produktion
-    * NSAIDs brukar vara sura metaboliter, som kan därför agera på slemhinnan direkt
+* **Av NSAID kan man få**
+  * **Gastrisk dyspepsi**: magsmärtor, obehag, illamående, sura uppstötningar
+  * **peptiskt ulcus**: slemhinneblödngar i magsäck eller tolvfingertarm
+  * **Orsak**
+    * **lokal hämning PGI2 och PGE2**: dessa habituellt vasodilaterar i tarmslemhinnan samt stimmar mucus produktion
+    * **NSAIDs brukar vara sura metaboliter**, som kan därför agera på slemhinnan direkt
 * **Skydd mot GI-biverkningar**
   * **omeprazol:** protonpumpshämning
   * **Prostaglandinanalog**: misoprostol (används hos aborter osså, i form av cytotec, efter att man använt mifepriston, notera att man kan använad misoprostil för förlossningsinduktion )

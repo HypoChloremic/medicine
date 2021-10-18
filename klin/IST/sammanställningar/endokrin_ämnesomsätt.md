@@ -31,6 +31,42 @@ Viktökning/övervikt
 
 
 
+#### Behandling
+
+***Metformin, tenta***
+
+* Ingen hypoglykemirisk
+* Ingen viktnedgång: 3alesäs; finns studier som tyder på att man bättre bibehåller reducerad vikt (förutsätter att man har reducerat..)
+
+
+
+***SGLT2, tenta***
+
+* Ingen hypoglykemirisk
+* Viktnedgång: kan viktreducera pat på gruppnivå
+
+
+
+***GLP1-agonist***
+
+* Ingen hypoglykemirisk
+* Viktnedgång: viktreducerar på gruppnivå
+
+
+
+***Insulin***
+
+* Hypoglykemirisk
+* Ingen viktnedgång gruppnivå
+
+
+
+***Sulfonylurea***
+
+* Hypoglykemirisk
+
+
+
 ### Fall
 
 #### Fall 1
@@ -283,6 +319,82 @@ För behandling av hypertoni, vilka möjliga fördelar respektive nackdelar finn
   * urskilja vilken nivå det är. 
 
 
+
+### Kalcitonin
+
+***Fysiologiskt***
+
+* Peptidhormon
+* Osteoklast är målcellen
+* Bromsar bennedbrytning
+* Viktig under extrem hyperkalcemi: kan ge kalcitonin
+
+
+
+## Parathyroidea
+
+### Fysiologiskt
+
+***Funktion***
+
+* PTH -> Aktivering Vit-D renalt -> intestinal absorp + renal resorption kalcium
+* PTH -> ökad benresorption skeletalt (ökad osteoklastaktivitet)
+
+
+
+| <img src="./figs/sam14_IhyUEcsjBl.png" alt=IhyUEcsjBl style="zoom: 80%;"> | <img src="./figs/sam14_lGKEzVUnB1.png" alt=lGKEzVUnB1 style="zoom: 33%;"> | <img src="./figs/sam14_nwm0kdSphE.png" alt=nwm0kdSphE style="zoom: 67%;"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |                                                              |
+
+
+
+### Hyperparathyroidism
+
+***Presentation***
+
+* Pat med osteroporos + hyperkalcemi: 
+  * om parathyroidea rubbning -> tenderar primär hyperparathyroidism 
+
+
+
+***Etiologi***
+
+* Primär hyperparathyroidism
+  * Adenom, 85%: benign tumör i parathyroidea
+* Sekundär hyperparathyroidism
+  * 
+
+***Kliniska kännetecken***
+
+* Hyperkalcemi
+* Fatigue
+* Trötthet
+* Förstoppning
+
+### PTHrP
+
+
+
+***Fysiologiskt***
+
+* PTH relaterat protein. En peptid. Binder samma receptor. Första 34 aa identiska. PTHrP har man i ibland i kroppen men inte normalt. Finns i bröstmjölken. Inget som cirkulerar.
+* Om man har vissa typer av cancrar får man grav hyperkalcemi. Om man mäter PTH kommer den vara lågt, men PTHrP är högt, som man då inte mäter direkt. 
+
+
+
+## Hypofys Hypothalamus
+
+### Prolaktin
+
+### Gonadotropiner
+
+### Vasopressin ADH
+
+## Binjure
+
+### Mineralkortikoider
+
+### Glukokortikoider
 
 
 

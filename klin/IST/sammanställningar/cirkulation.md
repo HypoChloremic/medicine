@@ -1237,7 +1237,338 @@ Förändringar t lkm lista:
 
 
 
+## EKG
 
+
+
+
+
+### Tolkning
+
+* Rytm: titta på rytmremsan. 
+* P vågor
+* Komplex
+* ST- sträcka
+* 
+
+
+
+
+
+
+
+### Fall 
+
+#### Fall 1
+
+
+
+<img src="./figs/sam14_LuqD9SL3dF.png" alt=LuqD9SL3dF style="zoom:50%">
+
+
+
+* !! Depressionsanamnes: viktigt att penetrera
+  * kommer till rätta med det psykosociala att man hjälpt pat med mkt 
+
+
+
+#### Fall 2
+
+<img src="./figs/sam14_RlLAnuA2ex.png" alt=RlLAnuA2ex style="zoom:50%">
+
+* Differentialdiagnoser
+  * Förmaksflimmer
+  * Aortastenos
+  * Ventrikeltakykardier
+* Åtgärder
+  * Sätta in antikoagulantia + betablockad vb
+    * essentiellt med antikoagulantia.
+  * Om patienten svimmar handlöst är det en farlig situation: cardiacoutput försämras av flimret, varpå patientne kollapsar.
+  * !! Behandlingsmässigt: ablation kan vara botande
+  * Får man så pass kraftigt hemodynamisk påverkan av flimret, att man behöver göra en elektrofys utrending för att göra en evt ablatio. 
+* I detta fallet att man behöver speeda upp utredningen pga symptomen. 
+* Inget behov för elkonvertering pga paroxysmalt förmaksflimmer och inte ett kontinuerligt sådant. 
+* Vad gäller Digoxin: gammal klassisk lkm som inte används speciellt mkt nu längre. Den blockerar överföring av kammarfrekvensen... Inte ett försathandspreparat (repetera lite). 
+
+
+
+!! Patient med nytillkommet förmaksflimmer är att skicka till en akutmottagning för en elkonvertering.
+
+
+
+
+
+#### Fall 3
+
+<img src="./figs/sam14_CtaYYCTZ2S.png" alt=CtaYYCTZ2S style="zoom:50%">
+
+
+
+
+
+* Minskat syretryck när man stiger i höjd, Po2 i vävnaden sjunker, därför patienten blev så tung när hon kom upp. Har nrämat sig gränsen att klara sig på normal nivå syre vid havet, men högt upp blire knyllt.
+* Det som ger symptomet är att det bärs fram för lite syre t vävnaderna: 
+  * pumpkraft i hjärtat, dålig CO
+  * Anemi
+  * Etc. 
+* Kan opereras med TAVI
+
+
+
+
+
+#### Fall 4
+
+<img src="./figs/sam14_QqVmY4nimV.png" alt=QqVmY4nimV style="zoom:50%">
+
+
+
+* Differentialdiagnoser
+  * Perikardit
+  * Myokardit
+  * Kardiomyopati
+  * Lungemboli
+  * Malignitet
+  * Aortadissektion
+  * Kostokondrit
+* Gå vidare
+  * EKG
+  * Blodprover
+  * BT båda armar
+  * EKO: indikationer dubbellumen. 
+  * DT-tjorax med kontrast
+* I detta fallet aorta-dissektion: lurigt med dessa kan ta lite tid att komma på den diagnosen. Kräver 
+* Åtgärdsmässigt
+  * UL, eller DT
+  * Thoraxkirurgkontakt
+  * Hålla BT nedre, som högst 120mmHg. 
+  * // det som kan ha orsakat febern är att det kan ha stått blodi dubbellumen
+
+
+
+<img src="./figs/sam14_9yReXiJ76A.png" alt=9yReXiJ76A style="zoom:50%">
+
+#### Fall 5
+
+<img src="./figs/sam14_YgPLmE1Bos.png" alt=YgPLmE1Bos style="zoom:50%">
+
+
+
+
+
+* Detta är en hjärtsviktspatient: den stora diagnosen i slutenvården, prevalens 3% i befolkningen. Vanligate inläggningsorsak efter förlossning
+* Högst mortaltiet av folksjukdomarna
+* Symptomen: andfåddhet i vila, trötthet, arbet, utmattning, ankelsvullnad. Ock status takykardi, takpne, lungrassel, halsvenstas, perifera ödem, hepatomegali, objecktiva statusfynd är EKO etc. 
+* Titta på viss.nu 
+* Utredningsmässigt
+  * NT-probnp över 125 ska man skicka vidare för EKO och EF. 
+* 
+
+
+
+
+
+
+
+!!! Sätta in fragmin om man misstänker lungemobli tills det uteslutits. 
+
+
+
+
+
+
+
+<img src="./figs/sam14_i7PiE53H9y.png" alt=i7PiE53H9y style="zoom:50%">
+
+
+
+* Differentialdiagnoser
+  * Lungembolier
+  * Overiellt överstimuleringsstumuleringssyndrom
+  * Pleuravätska
+
+
+
+
+
+
+
+#### Fall 6 - p-mitrale
+
+<img src="./figs/sam14_YJvvkozWCI.png" alt=YJvvkozWCI style="zoom:50%">
+
+* P-vågorna är delade 2 delar -> p-mitrale
+
+
+
+#### Fall 7 - förmaksflimmer
+
+<img src="./figs/sam14_Te5U1vmTAD.png" alt=Te5U1vmTAD style="zoom:50%">
+
+
+
+* Rytmen: oregelbunden
+* P-vågor ej fångade
+
+
+
+
+
+#### Fall 8 - motursroterat förmaksfladder 3:1 blockerat
+
+<img src="./figs/sam14_8REh684TPW.png" alt=8REh684TPW style="zoom:50%">
+
+
+
+* 
+
+
+
+#### Fall 9 - AV-block 3
+
+
+
+<img src="./figs/sam14_TDaD3X14wP.png" alt=TDaD3X14wP style="zoom:50%">
+
+
+
+* Regelbundet
+* Frikopplade P vågor
+* Breddökade QRS komplex
+* Summering: av3 med kammarrytm
+
+
+
+
+
+#### Fall 10 - Torsades de pointes
+
+<img src="./figs/sam14_Y1MaGyhZ3L.png" alt=Y1MaGyhZ3L style="zoom:50%">
+
+
+
+* Rytmen: Takykardi, regelbundet
+* Man ser på rytmremsan att amplituden varierar, polymorft VT.
+
+
+
+#### Fall 11 - sinusbrady
+
+
+
+<img src="./figs/sam14_9bBuo3KwVX.png" alt=9bBuo3KwVX style="zoom:50%">
+
+* Behövt ta en skala på ahatigheten
+
+
+
+
+
+#### Fall 12
+
+
+
+<img src="./figs/sam14_lvnxTTijvo.png" alt=lvnxTTijvo style="zoom:50%">
+
+
+
+* Gällande ST-sträckor: antingen uppåt-konvex eller uppåt-konkav
+  * !! Detta är uppåt-konkavt: Detta är en bulle nedåt. 
+  * tittar konvex i förhållande t Y-axeln, 
+  * I detta fallet är det förenligt med en perikardit. 
+  * Prekordialt generella ST-höjningar: man kan inte säga att detta är en perikardit, men man får väga ihop allting. skulle vara intressant att få anamens o status innan EKG uppkopplingen.
+  * Det FL menar
+    * konkava + att det är många avledningar som han tänker perikardit, men inte definitivt
+  * !! Får man detta EKG på IST ska man utesluta infarkt, handlägga enl infarkt. 
+
+
+
+#### Fall 14 - STEMI
+
+<img src="./figs/sam14_uZXZmnuMkY.png" alt=uZXZmnuMkY style="zoom:50%">
+
+
+
+* Förlsut av R-tagg prekordialt
+* Uppåt-konvex ST-höjningar
+* Samt ST-sänkningar, reciprokt
+* därför rejaält STEMI
+* Snabbt till angiolabb och stetnas om möjligt. 
+
+
+
+
+
+
+
+#### Fall 15
+
+<img src="./figs/sam14_kfvCA9Yq9X.png" alt=kfvCA9Yq9X style="zoom:50%">
+
+
+
+* Regelbundet
+* ST-sänkning lateralt
+* Svårt att se R-taggens höjd, men kan kraftfull: typisk vänsterkammarhypertrofi bild. 
+  * V5-V6 belastningstecken
+
+
+
+
+
+#### Fall 16 - Pacemaker
+
+
+
+
+
+<img src="./figs/sam14_MNRJcu41yo.png" alt=MNRJcu41yo style="zoom:50%">
+
+
+
+
+
+#### FALL 17 - hyperkalemi med kalium på 9
+
+<img src="./figs/sam14_OQDlysQf3l.png" alt=OQDlysQf3l style="zoom:50%">
+
+
+
+
+
+* Viktigt att titta på labbprover på denna
+* Typiskt med arrytmier vad sjutton som helst, om den är så pass hög att man får så här höga T-vågorna
+* villatt vi reagerar på t vågorna
+
+
+
+
+
+#### Fall 18 - inferior infarkt
+
+
+
+<img src="./figs/sam14_Tkz1tdTx89.png" alt=Tkz1tdTx89 style="zoom:50%">
+
+* 
+
+
+
+#### Fall 19 - Fladder
+
+<img src="./figs/sam14_oR4HG1PGxe.png" alt=oR4HG1PGxe style="zoom:50%">
+
+
+
+
+
+
+
+#### Fall 20
+
+
+
+<img src="./figs/sam14_hOTQPE0Muj.png" alt=hOTQPE0Muj style="zoom: 80%;">
 
 
 
@@ -1514,6 +1845,9 @@ Förändringar t lkm lista:
   * **Furix**: över 85 systoliskt
   * (**betablockad**)
 * **Underhållsbehandling, trappa**
+  * ACEh/ARB
+  * Betablockerare
+  * SGLT2 hämmare
   * 
 
 

@@ -243,35 +243,6 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
 
 ### Allmänt
 
-***Termer***
-
-1. **O:te ordningens kinetik**: 
-
-   1. substrat mättnad, 
-   2. !!! ***ingen konstant halveringstid***: EXAKT! detta förklarar hur man ska tänka rent rationellt v.g. alkohol exempelvis. 
-   3. en viss mängd LM elimineras per tidsenhet, på     linjära skalor får man ett linjärt förhållande. 
-
-2. 1. Alkohol      har ote ordningens kinetik: den absorberas från gut, 
-   2. ökar i koncentration, 
-   3. sen när den sjunker i konc      allteftersom metabolism, får man en linjär fas som kallas för o:te      ordningens kinetik, 
-   4. varav den sista delen är      exponentiell. 
-   5. Den sista delen är 1:a      ordningens kinetik. 
-   6. Man har linjära skalor på      båda axlarna. 
-   7. Det man noterar med 0:te      ordningens kinetik då är att man inte har en halveringstid för att för      varje koncentration finns det olika halveringstider, 
-   8. samt att det är en konstant      amount som man förbränner per tidsenhet. 
-
-3. **1:a ordningens kinetik**: har en initial hastighet, konstant halveringstid.     Linjär skala kommer den se exponentiell ut. Om man logaritmerar y axeln     får man en linjär. 
-
-4. **Loading dose:** Då steady state uppnås efter 3-5 halveringstider är detta inte     användbart med vissa läkemedel, för att halveringstiden är så lång, varav     the acuity of the situation kräver omedelbar steady state eller verkan. Då     ger man en loading dose, som då är en stor dos, som tillåter oss nå the     steady sooner. 
-
-5. **Underhållsdos:** detta är den dos som är lika med elimineringstakten vid steady     state, varav man bibehåller en konstant koncentration. 
-
-### Biotillgänglighet
-
-***Definition***
-
-* 
-
 
 
 ### Effektlängd
@@ -286,6 +257,39 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
     * ***Subkutant***: TTMK 2h, halveringstid 2h, BG 96%, MPD 72ng/mL
   * !! Vilka av dessa har den längsta effektlängden
     * Subkutana beredningformen: trots att halveringstiden är densamma, så kommer den ha den längsta effektlängden, för att den uppnår en högre MPD, detta i sin tur innebär att det kommer rent analytiskt längre för koncentrationen att sjunka under en given effektkoncentration (e.g. 0.1ng/mL), jämfört de andra beredningsformerna
+
+
+
+### Elimination
+
+#### Kinetik
+
+**O:te ordningens kinetik**: 
+* substrat mättnad, 
+* !!! ***ingen konstant halveringstid***: EXAKT! detta förklarar hur man ska tänka rent rationellt v.g. alkohol exempelvis. 
+* en viss mängd LM elimineras per tidsenhet, på     linjära skalor får man ett linjärt förhållande. 
+* Alkohol har ote ordningens kinetik: den absorberas från gut, 
+* ökar i koncentration, 
+* sen när den sjunker i konc allteftersom metabolism, får man en linjär fas som kallas för o:te      ordningens kinetik, 
+* varav den sista delen är exponentiell. 
+* Den sista delen är 1:a ordningens kinetik. 
+* Man har linjära skalor på      båda axlarna. 
+* Det man noterar med 0:te      ordningens kinetik då är att man inte har en halveringstid för att för      varje koncentration finns det olika halveringstider, 
+* samt att det är en konstant      amount som man förbränner per tidsenhet. 
+
+
+
+**1:a ordningens kinetik**: har en initial hastighet, konstant halveringstid.     Linjär skala kommer den se exponentiell ut. Om man logaritmerar y axeln     får man en linjär. 
+
+
+
+**Loading dose:** Då steady state uppnås efter 3-5 halveringstider är detta inte     användbart med vissa läkemedel, för att halveringstiden är så lång, varav     the acuity of the situation kräver omedelbar steady state eller verkan. Då     ger man en loading dose, som då är en stor dos, som tillåter oss nå the     steady sooner. 
+
+
+
+**Underhållsdos:** detta är den dos som är lika med elimineringstakten vid steady     state, varav man bibehåller en konstant koncentration. 
+
+
 
 ### Halveringstid
 

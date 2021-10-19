@@ -139,6 +139,324 @@
 
 
 
+
+
+## Akutbuk
+
+### Föreläsning
+
+
+
+<img src="./figs/sam14_6LSp1w6Eca.png" alt=6LSp1w6Eca style="zoom:50%">
+
+
+
+
+
+<img src="./figs/sam14_6UEMah73cM.png" alt=6UEMah73cM style="zoom:30%">
+
+* Vad var det som gjorde att du kom idag, att det är en akutisering av smärtan, denna behlver ringas in för att förstå vad som hänt
+* Associerade symptom: feber, blöningar, illamåpende, kräkning. förstoppning etc.
+
+
+
+<img src="./figs/sam14_bsRIqQvrFl.png" alt=bsRIqQvrFl style="zoom:50%">
+
+
+
+* Man pratar också ventralt, eller dorsalt (pankreas är djupt, aorta osså). Man är en tunna när man lokaliserar problemet inte ba 2D
+
+
+
+<img src="./figs/sam14_7wNabJkh6L.png" alt=7wNabJkh6L style="zoom:20%">
+
+
+
+* Smärta svårt att mäta egentligen. Det är inte ngt som är absolut men referensram för patienten om den ökat eller minsskat. 
+
+
+
+***Vad är det som gör ont***
+
+* ***Tarmar***: uppspända ischemi; man kan ta biopsier av dessa som itne gör ont; däremot det som gör ont är om tarmen blåses upp för att smärta i tarm förmedlas av sträckreceptorer. 
+  * tarm blåses upp vid ileus, uppspänds, oralt att spännas upp, göra ont
+  * aborralt efter hindret kommer tarmen vara sammanfallen, ingen smärta därifrån
+  * Om ileus: om inte löses, kan denna strypta delen av tarmen bli ischemisk, ischemisk smärta som är annan typ av smärta, stark smärta
+* ***Bukhinna***: peritoneum, 
+  * ***den är väldigt smärtkänslig***
+  * ***ngt som retar bukhinnan*** peritoneum en inflam kan göra nont
+  * ***kemisk retning***: galla blod etc kan reta o göra väldigt ont
+  * ***Olika organ***: gallträdar, yurinvägar, panrkeas, 
+    * ***patofys process***:_ inflammation, infektion, obstruktion, distention
+    * Obstktion kan vara sten i uretärerna, kan vara obstruerad tarm i ileus
+      * koliksmärtan fr organ med peristaltik
+    * ***Gallvägar har ingen peristaltik***, osmotisk mekanism..: men själva ***GallBlåsan har muskulatur*** denna kramar ur gallan, där om utlopp gallblåsa obstrueras kan göra ont, koliksmärta.
+      * Däremot sten i distala choledocus får man inte peristaltik smärtan koliksmärtan
+      * alltså ductus cysticus kan göra ont, men inte hepaticus eller communis eller choledocus...
+    * ***Annat***: 
+      * blöda bukväggen muskulaturer, gör ont för att blodet tar volym spänner ut o gör ont, trycker på nerver gör ont, tryck som gör att musklerna i sig inte får det syer den behöver, kan få en ischemismärta i detta fallet. 
+      * 
+
+
+
+<img src="./figs/sam14_OVk9MpvwfX.png" alt=OVk9MpvwfX style="zoom:50%">
+
+* ***Visceral smärta***
+  * svårt att särksilja varifrån
+  * upples som diffus smärta: typiskt fr detta
+  * ***Fr embryologin är magtarmkanalen en lång tub: finns foregut, midgut, hindgut***
+    * pat kan beskriva var smärtan lokaliserad för att sensoriska effetrenterna anlagts efter detta
+    * ***Foregut***: munhåla till mitten pars descendens av duodenum, där kan pat få med svepande handen upp till i buken göra ont
+    * ***mkidgut***: Om resten av duodenum till transversum, där är appendix, kan visa att viscerala smärtan sätter in mitten vispa runt att smärtan finns, runt naveln
+    * ***hindgut***: resten av kolon, att bandformad smärta nedom umbilikus, typ som divertikulit, flesta sitter runt, bandformad smärta nedre buk, ovan symfysen typ. 
+* ***Parietal smärta***
+  * *Bättre lokaliserad smärta*
+  * somatiska nerver
+  * Exempelvis appendix: inflam inuti tarmen ofta obstruk. initialt ter sig diffus smärta inflam, mitten naveln för att den är visceral
+    * sen när inflam sprider sig mot peritoneum serosan, då kommer man uppleva smärtan att somatiska nerver och den kan man lokalisera, och visa höger fossa
+    * det är inte smärtvandring för att ngt flyttat på sig utan det är vilka nerver
+* ***Referred pain***
+  * *uppfattas vid ställe på avstånd fr källan för stimuklus*
+  * typ gallblåsa retar diafragma, kan smärta strla mot axeln exempelvis, trots att den är lokalisread helt i buken tilsltåndet. 
+
+
+
+
+
+***Patofysiologi***
+
+* Handfull processer
+* Gör ont
+  * ***inflammation, infektion***: 
+    * smärta som smyger sig på,
+    *  eskalerar lpngsamt, 
+    * 1d-2d. 
+    * Molande ihållande, om når peritoneum kan den göra särskilt ont vid rörelse pat vill ligga still
+    * Kan behöa ställa ledande frågor för att jfr med träningsvärk eller mensvärk hos kvinnor ex.
+  * ***Obstruktion***
+    * Ileus
+    * Initialt får obstktionssmärta i organ tarm med peristaltik det går vågor med smärta till stoppet, att smrätan ter sig som pendlande smärta med toppar, och peristaltikvågen stannar av liten stund innan den fortsätter
+    * Ihållande skarp smärta, en patiente med uppspänd buk o legat hemma hoppats lösa sig, beskriver smärta i vågor och nu är den plågsam ihållande smärta är det sent iförloppet, risk för att det blivit ischemi
+  * ***Ischemi***: Svår smärta
+  * ***Perforation***: 
+    * ulcus ventrikuklärt som perforerat
+    * det är inte ulcus som gör ont, utan när ulcus eroderat gm ventrikelvägg el tarmvägg, o kommer ut innehåll fr tarmen, att peritoneum är lättretat, magsaft eller galla, att det gör fruktansvärt ont
+    * hastigt påkommande smärta
+  * ***blödningar*** stora blödningar i buk 
+    * väldigt retande för peritoneum
+    * ihållande
+    * påverkan på cirkulationen med stora blödningar i buken
+  * // vi har omentum gardinen majus det är som ett plåster, att den försöker täcka o kapsla in inflammationen och bli en abscess, det är naturalförloppet om ngt går sönder, sen i bästa fall att kroppen lyckas häva detta självt om kroppen inte får behandling. Det kan ta månader
+  * 24h fr appendicit säker på att det inte perforera, men inom 2-3d att den kan perforera. En hel del appendiciter ger sig t känna sen klingar spontant av. den appendicit som inte klingar av o den mde koliter med faecesklumpar som blivit stenoserade o kvar de inte självupplösande. 
+
+
+
+***Smärtanalys***
+
+* SOCRATES
+* Debut
+* Lokalisation
+* Karaktär
+  * intensitet
+  * utstrål, förflutt
+  * konstant el intermittent
+  * rörelsekorrelerat
+  * något som lindrar
+
+
+
+<img src="./figs/sam14_YT4Jh5661U.png" alt=YT4Jh5661U style="zoom:20%">
+
+
+
+<img src="./figs/sam14_ZEK5XQpCnb.png" alt=ZEK5XQpCnb style="zoom:50%">
+
+
+
+* Kroniska smärtorna är att patienterna känner igen smärtorna, men att det ändå är ngt som för de till akuten ofta att det är ngt som har hänt oroliga över, försök ta alla dessa tecken på allvar. 
+
+
+
+
+
+
+
+***Smärtkaraktärer***
+
+<img src="./figs/sam14_gAMDRPykuZ.png" alt=gAMDRPykuZ style="zoom:50%">
+
+* När man säger rörelsesmärta: att hela organpaketet rör sig
+* Peritoneum: perkuterar att man får tympanistisk eller dov ton, har patientn peritonit, gör det ont för att det knackar på peritoneum
+  * har vi konstaterat att det är peritonit överallt, behöver inte palpera vidare, 
+  * !!! peritonmitsmärtan är enkel att diagnosticera med lätt rörelse, perkussion
+
+
+
+***Smärtkaraktär 2***
+
+* 
+
+
+
+***Smärtkaraktär 3***
+
+* Koliksmärta, kontinsmräta men att den har toppar...
+
+
+
+<img src="./figs/sam16_HiYVYFQKhY.png" alt=HiYVYFQKhY style="zoom:50%">
+
+
+
+* Man frågar om pat sj tkr att den är uppspänd.
+* Uppspänd buk: vätska gas samlas i tarmen
+  * ascites
+  * blödning
+  * ...
+* Om ileus att man tar när kom kräkningarna i relation till smärtorna att det kan vara ileus mkt oralt, högt upp, eller kolonileus är sent med kräkningar
+* Hematochezi: är färsk blod, då ska man göra gastroskopier.
+
+
+
+
+
+<img src="./figs/sam16_MsLhejseVY.png" alt=MsLhejseVY style="zoom:50%">
+
+
+
+
+
+* Kräks blod att man skickar direkt till gastroskopi med beredskap operation. 
+
+
+
+
+
+
+
+### Fall
+
+#### Fall 1 - ileus
+
+
+
+
+
+| <img src="./figs/sam16_72Kcuglu7q.png" alt=72Kcuglu7q style="zoom:50%"> | <img src="./figs/sam16_9dReci6zFa.png" alt=9dReci6zFa style="zoom:50%"> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |      |
+
+* Penetrera anamnes vidare
+* Mjuk vid palpation innebär att det inte är peritonit. peritonit är motsats t mjuk buk
+* Patienten ska läggas in
+* Massa vätska har samlats i tarmen, därför behöver de mkt iv vätska för att kompensera. 
+  * 4-5L första d säkert, så man ska ha d i åtanek
+  * en klinisk bedömning är urinproduktionen för att bedöma vätskestatus. 
+  * daglig vikt och noggrann registrering av vätska in o ut (kräk, kiss, etc). 
+* Totalt hinder efter passagertg är op-fall
+  * men om partiellt hinder -> inte op fall.. 
+* Hur frekvent man följer pat v.g. ileus då ska det vara parametrarna som driver
+  * Hur mår pat
+  * har pat peritonit
+  * hur utvecklas patienten
+  * etc. för att bedöma om op el ej etc.
+
+
+
+#### Fall 2 - appendicit
+
+
+
+| <img src="./figs/sam16_Fax0RKu4zo.png" alt=Fax0RKu4zo style="zoom:50%"> | <img src="./figs/sam16_xWDIpHTgV9.png" alt=xWDIpHTgV9 style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./figs/sam16_7ch3b4fupH.png" alt=7ch3b4fupH style="zoom:50%">Diffus viscerala smärtan, smärttyp 1 |                                                              |
+
+* Appendiciter ska opereras så fort d går, ska inte ruptureras.
+* på akuten inlägngingsbeslut
+* undervätskad etc.
+  * parenteral nutrition
+  * 2 5% glukos med elektrolyter
+  * smärtlindring med morfin iv, 2.5mg åt gången, och fyller på så mkt som behövs.
+* behövs det Radiologi, DT, UL: på HS är det få pat som inte får radiologi mwed denna anamnes. Men det är en klinisk diagnos. 
+* Differentialdiagnoser
+  * Körtelbuk: fråga om förkylning sista tiden. 
+  * En del appendiciter som klingar av spontant, o att d inte antibiotika som hjälper: 
+* Patienttransport: att det går bra med att mamma o pappa kör in till sjukhuset, med denna bild. 
+
+
+
+
+
+#### Fall 3
+
+
+
+<img src="./figs/sam16_ZKOeRx0hUQ.png" alt=ZKOeRx0hUQ style="zoom:50%">
+
+
+
+* hög AF som är första som drar iväg när man har en blödning
+* när BT faller kan det vara 1 tredjedel som blött.
+* 
+
+
+
+
+
+<img src="./figs/sam16_SghvkHVaoi.png" alt=SghvkHVaoi style="zoom:50%">
+
+* !! Perforationssmärta
+* Tänkbar diagnos
+  * ektopisk grav
+  * direkt gyn
+  * ers blod
+  * använd 4 4 1: plasma o trombocyter
+* // lokal peritonit höger fossa, resten av buk mjuk
+  * det är musklerna som försvarar sig, spänner emot
+
+
+
+#### Fall 4
+
+| <img src="./figs/sam16_QWNUOWUK7Y.png" alt=QWNUOWUK7Y style="zoom:50%"> | <img src="./figs/sam16_KozL3pBP1b.png" alt=KozL3pBP1b style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+* Toradol, diclonefenac, naproxen: bra t dessa koliksmärtor (e.g. njursten eller gallsten)
+* notera att en uretärsten som smärtlindras och fö opåverkad o normal krea, ere poliklinisk utredning
+* endast lägga in opåverkade patienten
+
+
+
+#### Fall 5
+
+
+
+| <img src="./figs/sam16_rMuU3VlNXZ.png" alt=rMuU3VlNXZ style="zoom:50%"> | <img src="./figs/sam16_mWmvj0pJqK.png" alt=mWmvj0pJqK style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+* Peritonit: pankreatit, diffar i den delen av buken som involverade, som kan drabbas av inflammation
+  * med detta är det inte helt fel att tänka pankreatti
+  * Mkt vätka d pankreatitetr, 5-6L ibland 10-12L vätska
+  * d med svår pankreatit, är 10-15% hög morbid o mortalitet, d kan man inte veta på akuten
+  * ska lägga in alla dessa.
+  * i allra flesta klingar av efter 1-2d, för att d bara symptomatisk behandling
+* 2/3 tecken: bandformat smärta mot flanker, amylas 3x förhöjt (över 3.3 alltså), DT-buk (täcka in diffar)
+  * först med anamnes o amylas sen vidare med DT om amylas inte visat ngt, för att säga att d pankreatit
+* Daglig vikt, vätskeurinmätning noggrant. 
+* Smärtlindring: morfin (inget max på morfin, kan få EDA för att de har så himla ont, man kan sätta )
+  * maxdos morfin 30mg på dessa patienter. 
+* Istället för spasmofen är det opiat. 
+
+
+
+<img src="./figs/sam16_PqE9StIOHW.png" alt=PqE9StIOHW style="zoom:50%">
+
+
+
+
+
 ## Blod i avföring
 
 ### Allmänt

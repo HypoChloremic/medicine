@@ -411,6 +411,14 @@ Ont i halsen
 
 
 
+
+
+***Åtgärder***
+
+* Lägga in fragmin vid misstanke lungemboli, innan man uteslutit lungemboli..
+
+
+
 ### Fall
 
 #### Fall 1

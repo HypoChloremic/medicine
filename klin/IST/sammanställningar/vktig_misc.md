@@ -240,7 +240,543 @@ Typisk erytrocytindex o utseende vid följande tillstånd
 * Kriterium F
   * autism eller kommunikation åpverkad: om pat sedan tidigare är autist el komm påverkad, då additional schiz diagnos kräver prominenta vanförestllningar o hallucinationer, med de  andra symptomen för schiz, minst 1 månad. 
 
+
+
+
+
+
+
+## Vitala funktioner
+
+### Sviktande funktioner
+
+
+
+<img src="./figs/sam16_7g3M516QjZ.png" alt=7g3M516QjZ style="zoom:50%">
+
+* Bibegålla fysiologin med preparat, samtidigt allt va man häller i patienten
+* Övervarka patienten korrigera så fort som möjligt, inom minuter.
+* Closed-loop goal directed therapy: et vi vill är att behandla till ett uppsatt mål. målstyrd behandling. E.g. BT mål speciikt, o 2 pumpar, en höjer o en sänker, sen kopplar till dator, säger att man vill ha givet BT. 
+  * BT mäter med artärnål som styr pumparna: ger noraadrenalin för att höja eller nitro för att sänja
+
+
+
+<img src="./figs/sam16_mkCHoVD1Ey.png" alt=mkCHoVD1Ey style="zoom:50%">
+
+
+
+* Tänk på denna mekanism djupare, alltså de inneboende mekanismerna för att upprätthålla homeostas. 
+  * Först andning, som ska diffundera etc. 
+* Allt detta styrs autonomt, under nära kontroll
+  * pH värdet i blod är den mest tighta labb värdet vi har, där man accepterar 7.35-7.45 i normal. 
+* Varje sekund måste detta funka
+
+
+
+
+
+<img src="./figs/sam16_HwWrSGO8bc.png" alt=HwWrSGO8bc style="zoom:50%">
+
+* Vi behöver en pump, i.e. hjärtat
+  * EKG för att mäta elektrofys
+  * pumpen kan ha ett hål, arrytmisk etc.
+  * Fler saker kan åpverka pumpen: ischemi, inflammation, toxiskt (e,g, pankreatit)
+* Rören: alla våra kärl
+  * endotel
+  * Rören är trånga är vanligt, så trångt att man inte får ut blodet: vasokonstrktion, leder t att sliter på hjärtat
+  * Eller dialterat att man tappar tryck
+* Vätska i röret: blodet
+
+
+
+<img src="./figs/sam16_v7dEjn6XAj.png" alt=v7dEjn6XAj style="zoom:50%">
+
+
+
+* Pleurabladen: hemothorax, pneumothorax, att man inte kan expandera lungor med dysfunk pleurablad
+* När man har niv: aktiv inandning, med helt andra tryck ej naturliga, vaprå påverkar blodflödet
+* Diffkap: syre ska gå fr luft t blodet
+* Luftvägarna: OSAS, inflammation i luftvägarna
+* Den inandad gas: syrehalt i syrgasen (ere 21%, ere hög höjd ere lägre partialtryck etc). Lufttrycket hos oss är 100kPa, och 21% syrgas, 21kPa
+* 
+
+
+
+<img src="./figs/sam16_Yy4OKlpYoi.png" alt=Yy4OKlpYoi style="zoom:50%">
+
+
+
+<img src="./figs/sam16_7flkkGPrUT.png" alt=7flkkGPrUT style="zoom:50%">
+
+
+
+* NEWS äre essentiell
+* Man vill ha 0 poäng på NEWS.
+  * notera AF 12-20
+  * Det står fel med systoliska BT på 219. den ska vara under 140
+* Puls 50-100
+* A står för alert: vill att alla patienter ska svara enkla saker som personnummer, bvar bor de nånstans etc. 
+* Börjar man röra sig 2 i NEWS eller 3 i NEWS är det börja agera för att lösa patienter
+
+
+
+<img src="./figs/sam16_lc8GoKCUG3.png" alt=lc8GoKCUG3 style="zoom:50%">
+
+
+
+<img src="./figs/sam16_KbMpcUy0dO.png" alt=KbMpcUy0dO style="zoom:50%">
+
+
+
+
+
+<img src="./figs/sam16_5bZut64hhO.png" alt=5bZut64hhO style="zoom:50%">
+
+
+
+
+
+<img src="./figs/sam16_ayoTLSQQce.png" alt=ayoTLSQQce style="zoom:50%">
+
+
+
+
+
+
+
+***Gravida skiljer sig i fysiologi***
+
+
+
+<img src="./figs/sam16_WCCQrqZ4Zu.png" alt=WCCQrqZ4Zu style="zoom:50%">
+
+
+
+
+
+* Han vill att vi ska övervaka o korrigera så fort som möjligt om akut tillstånd för att göra detta inom minuter, för att varenda cell i kroppen ska få den syre den behöver etc. 
+
+
+
+### Vätskor
+
+<img src="./figs/sam16_4Zm3qpGg3Y.png" alt=4Zm3qpGg3Y style="zoom:50%">
+
+
+
+* För mkt ISV ere ödem
+* för lite i plasma rinner över
+* om för lite blire hypovolemi svårt upprätthålla BT
+
+
+
+***Elektrolter***
+
+<img src="./figs/sam16_UnIX0CmvjU.png" alt=UnIX0CmvjU style="zoom:50%">
+
+
+
+
+
+***Omsättningen***
+
+<img src="./figs/sam16_dXlhv0zEY3.png" alt=dXlhv0zEY3 style="zoom:50%">
+
+* 2-2.5L att förloras per d i vätska
+* resten är dryck mat o metabolism: 
+
+
+
+
+
+
+
+<img src="./figs/sam16_ktn5GINfD2.png" alt=ktn5GINfD2 style="zoom:50%">
+
+* Gåre att äta o dricka ska man göra det. 
+* Enhanced recovery after surgery:  få igg all normal fysiologi, där man äter o dricker
+* När inte kan äta o dricka ere dropp etc. 
+
+
+
+***Droppet***
+
+<img src="./figs/sam16_bX0yUyJP90.png" alt=bX0yUyJP90 style="zoom:50%">
+
+* Kristalloider är ringeracetat i hans fall, blir 100% biotillgäng för att iv,
+  * kommer spridas ffa extracelluilärt
+* Gluikos
+  * både ICV, ECV, o blodbanan
+  * pga annan uppsättning
+* 
+
+
+
+<img src="./figs/sam16_vPRmRDG5VJ.png" alt=vPRmRDG5VJ style="zoom:50%">
+
+* om pat inte kan äta dricka, sond eller PEG ere iv
+* då 30mL/kg/d. 
+* om inte äta el dricka ere buffrad glukos, för normalt underhåll. 
+  * 30mL/kg/d glukoslösning, om inga extra förluster
+* Förluser: ger ringeracetat i förluster ska ersättas
+  * Vi vill  ge vätska för att ha diures
+  * 0.5mL/Kg/h
+
+
+
+
+
+***Blod***
+
+
+
+<img src="./figs/sam16_v3Pstq04s0.png" alt=v3Pstq04s0 style="zoom:50%">
+
+
+
+* Det man alltid ska vara är normovolem med viss grad hemodilution
+
+
+
+
+
+***Hur transpoeras syre***
+
+<img src="./figs/sam16_SapmLJuTiP.png" alt=SapmLJuTiP style="zoom:50%">
+
+* Följer Hb värdet och saturationen. 
+  * e.g. Hb 140g/L
+  * sat 98%
+  * $1.36 * saturation * Hb = $
+  * Hemoglobin är väldigt viktigt för att det är mkt bolym bundet i hemoglobin
+  * Man kan inte g e mer än 100% syre
+* Slagvolymen är som en knytnäve = 70mL.
+* Därför hjärtminut: 70mL x 70/s, ungefär 5L/min
+* man ser att det blir 1000L/min syre över aortaklaffen. 
+* Man ser på bilen att man behöver förbruka 3mL/kg, därför nästan 250mL/min förbrukning
+* Öka slagvolymen: kan öka hjärtfrekvensen, 180-200, alltså att man kan dubbla sin hjärtminut. 
+* 
+
+
+
+
+
+<img src="./figs/sam16_qaDXodTQOT.png" alt=qaDXodTQOT style="zoom:50%">
+
+* Hypoxisk hypoxemi: klättrar nount everest
+* pulmonell: lungemobli
+* anemi: lite erytrocyter eller hb, eller blödning
+* hyopoperfusion: BT låpgt, sepsis
+* ischemisk hypoxie. koronar skleros, plackryuptur o myoakrd bortom dör
+* cytotoxiska : sepsiska patienten
+
+
+
+
+
+***Bedöma vitala funktiioner***
+
+* Pulsoximeter: pulsfrekvens + saturation (oxyegeninnehåll) och titta om regelbundet
+  * utan signal då, slutar funka under 80mm/hg 
+  * alltså fel på patienten om pulsoxi inte funkar
+
+
+
+<img src="./figs/sam16_VGcGkXGhNy.png" alt=VGcGkXGhNy style="zoom:50%">
+
+
+
+
+
+<img src="./figs/sam16_gslkMvIox2.png" alt=gslkMvIox2 style="zoom:50%">
+
+* A: paratar pat, lägger t kapnogafi, pulsoxymetri
+* B. 
+* Cirkulation: vill se puls, sap map dap, perifera pulsar, diures
+* D: vakenhet, personnummer makens namn
+* E: inspekterar, o temperatur
+  * smärtstilla o lugnande därefter
+* // ingen ABCDE görs bara en gg, tom på VC att man tar tillbaka pat reevaluera efter 3 månader, tittar man på abcde flera ggr. 
+* NEWS >= 7 -> ska bedömning föras MIG akutteam....
+  * Larma också
+
+
+
+***SBAR***
+
+<img src="./figs/sam16_dqwg1w99ps.png" alt=dqwg1w99ps style="zoom:50%">
+
+
+
+
+
+
+### Påverkat medvetande
+
+* MIDAS: ha dessa laltid bakom örat
+* Diabetes: kolla att socker inte under 4,
+* Endtidal koldioxid: gm att ta en kap blodgas el venös blodgas, ell hålla för masken
+* När pat inte är 
+
+
+
+<img src="./figs/sam16_vQdMYQhGj9.png" alt=vQdMYQhGj9 style="zoom:50%">
+
+
+
+HUSKE
+
+* Spesis
+  * temp (lågt högt), andningsfrekvens, lågt tryck, 
+* Epilepsi: framstupa sidoläge,
+  * på sjukus, pulsoximeter, syrga
+  * postiktalt att dessa är svåra att hålla fri luftväg
+
+
+
+
+
+
+
+### Fall
+
+#### Fall 1
+
+<img src="./figs/sam16_qh91Bjnk94.png" alt=qh91Bjnk94 style="zoom:50%">
+
+
+
+
+
+<img src="./figs/sam16_6Ok0kcMOYY.png" alt=6Ok0kcMOYY style="zoom:50%">
+
+<img src="./figs/sam16_01eiuxsDA7.png" alt=01eiuxsDA7 style="zoom:50%">
+
+
+
+
+
+<img src="./figs/sam16_SLLKXcNx0L.png" alt=SLLKXcNx0L style="zoom:50%">
+
+
+
+<img src="./figs/sam16_J0lKcff2JI.png" alt=J0lKcff2JI style="zoom:50%">
+
+
+
+* NEWS blir hög scoring. 
+* Denna patienten måste behålla, åtgärda och ha en aktiv plan att göra ngt med
+* ***Utredning***
+  * blodprover:
+    * venös el a blodgas med laktat
+    * Denna handläggning fanns på janusinfo
+* För aggressiv vätskebehandling med RA
+  * rekyl dag 1.5 att pat blir ödematösa
+  * ***Vasopressor***: får man inte svar snabbt på 1-2L att man vill gå in med vasoperssor = noradrenalin
+  * även IMA avdelningar går in med noradrenalin i perifer ven
+  * Perifer ven går bra, det ska vara en ghhygglig ven för att ge, man vill inte att den ska perforera. 
+* Ringer infektionsjouren: för att diskutera vilka antibiotika
+* absolut att IVA IMA .. ska ta ställning t antiibotika
+
+
+
+
+
+
+
+***Vätskor***
+
+
+
+<img src="./figs/sam16_NlF7SazUzn.png" alt=NlF7SazUzn style="zoom:50%">
+
+* Det gröna ska man känna till
+  * ***Ringer acetat***: alla patienter med onaturliga förlsuter, ska börja beh med ringeracetat
+    * sepsis läckt vätska
+    * svettats
+    * kräk
+    * blödning
+    * diarre
+    * brännskada
+  * Glukos
+    * En pat som inte kan äta eller dircka, som behöver normal vätska druckit eller ätit ska få 30mL/kg/h buffrad gluikos
+* V.g. kolloider är det andra avdelningar som håller på
+* ***Blodprodukter***
+  * ery plasma trombocyter,
+* Mplet är normovolemi:
+  * Det första vi gör är att höja benen för autotransfusion
+  * Kritiska organ: njure, hjärta, hjärna, lever, lunga. 
+    * diures
+    * hjärna pratar med pat
+    * hjäta EKG etc
+    * lunga genomblödning syresättning
+    * 
+  * <img src="./figs/sam16_UX2fiCb5ia.png" alt=UX2fiCb5ia style="zoom:50%">
+
+
+
+<img src="./figs/sam16_kWeWZWQHuD.png" alt=kWeWZWQHuD style="zoom:50%">
+
+* Fundera på vasokonstriktion om d kmr t d o larma
+
+
+
+
+
+<img src="./figs/sam16_B9Ctwxqq0t.png" alt=B9Ctwxqq0t style="zoom:50%">
+
+* Får man inte in en npl med 2-3 stick, är det annan 2-3 stick sen sticka halsen till slut intraossös nål
+* Får man in intraosseös nål kan återhämta cirk för att sen sätta pvk
+
+
+
+
+
+<img src="./figs/sam16_FZGOkwfw8h.png" alt=FZGOkwfw8h style="zoom:50%">
+
+
+
+* Alla svenska doktorer får ge efedrin om BT inte reagerar. 
+* om pat inte svarar på RA elelr efedrin ,ska disktiera noradrenalin
+
+
+
+
+
+<img src="./figs/sam16_C7EqyiOoka.png" alt=C7EqyiOoka style="zoom:50%">
+
+* kom ihåg att kristalloider har spädningsvolyum i ECV
+* Glukos kan ge cellulärt ödem osså
+
+
+
+
+
+<img src="./figs/sam16_q4eT74EoYW.png" alt=q4eT74EoYW style="zoom:50%">
+
+* Noradrenalin gold standard vasopressor
+  * Kan ge små bolus efedrin 5mg innan nora
+
+
+
+
+
+#### Fall 2
+
+| <img src="./figs/sam16_23OzDpM9wZ.png" alt=23OzDpM9wZ style="zoom:50%"> | <img src="./figs/sam16_WVscfTf8JQ.png" alt=WVscfTf8JQ style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./figs/sam16_WW9ZuysUY1.png" alt=WW9ZuysUY1 style="zoom:50%"> | <img src="./figs/sam16_OMHNPQnDm3.png" alt=OMHNPQnDm3 style="zoom:50%"> |
+| <img src="./figs/sam16_bbDjvfPXus.png" alt=bbDjvfPXus style="zoom:50%"> |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+
+
+
+
+
+* med denna iblden redan behandla på akuten
+* Ska ta blodgas för att se hure e då lungor krisorgan
+* Vill få ned HF kompensatoriskt under 90,
+* få ned feber för att feber äter syre
+
+
+
+
+
+
+
+
+
+* Ventilationsbeh för att hon co2 retenerat
+
+
+
+
+
+| <img src="./figs/sam16_iW5Sfq43c2.png" alt=iW5Sfq43c2 style="zoom:50%"> | <img src="./figs/sam16_55t4IgVq6G.png" alt=55t4IgVq6G style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./figs/sam16_35lolBxl3M.png" alt=35lolBxl3M style="zoom:50%"> | <img src="./figs/sam16_PRGguBuHUr.png" alt=PRGguBuHUr style="zoom:50%"> |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| <img src="./figs/sam16_5EycA2Dgf2.png" alt=5EycA2Dgf2 style="zoom:50%"> | <img src="./figs/sam16_QX3K2DTYmG.png" alt=QX3K2DTYmG style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./figs/sam16_kSofZED6NC.png" alt=kSofZED6NC style="zoom:50%"> | <img src="./figs/sam16_hUk2sNTOL6.png" alt=hUk2sNTOL6 style="zoom:50%"> |
+| <img src="./figs/sam16_Qt39kWkwPR.png" alt=Qt39kWkwPR style="zoom:50%"> | <img src="./figs/sam16_aWEOwMi6sS.png" alt=aWEOwMi6sS style="zoom:50%"> |
+| <img src="./figs/sam16_ODgH7Wz5Wt.png" alt=ODgH7Wz5Wt style="zoom:50%">> | <img src="./figs/sam16_cmluGQajlB.png" alt=cmluGQajlB style="zoom:50%"> |
+| <img src="./figs/sam16_lbkCcycQuT.png" alt=lbkCcycQuT style="zoom:50%"> | <img src="./figs/sam16_4AaSzYOPlw.png" alt=4AaSzYOPlw style="zoom:50%"> |
+| <img src="./figs/sam16_guELgWrcyc.png" alt=guELgWrcyc style="zoom:50%"> | <img src="./figs/sam16_frY8sTpoV1.png" alt=frY8sTpoV1 style="zoom:50%"> |
+
+
+
+* IPAP för att få ned co2, med högre inspiratorier: med bättr eventilaton få ned koldioxiden etc. 
+* EPAP rekrtera övre o nedre lufvägar: förbättra ventil perfus kvoten
+* sSyre: för att påverka diffusionstrycket fr alveol t blod
+* BI-pap: ökar tryck i thorax, ökar behovet av vasopressor, detta ska man vara medveten om
+  * notera att på 2L utan bipap kanske klarat sig men med en bipap ska man kanske ge en vasopressor behandling
+* HFNO: högflödesnasalt oxygen, fuktad, bra patientkomfort
+  * ska höra om denna
+* Closed-loop automatic oxygen target control: säger t dator hur mkt syrehalt i pulsoxi.  styr hur mkt syrgas används.
+* med bipap: att man tar större andetag och ...
+
+
+
+
+
+#### Fall 3
+
+| <img src="./figs/sam16_I2JCiruiZ0.png" alt=I2JCiruiZ0 style="zoom:50%"> Summa ögt i NEWS, ska larma, ska ha | <img src="./figs/sam16_yFWb8K2o33.png" alt=yFWb8K2o33 style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./figs/sam16_AUghaZoM3t.png" alt=AUghaZoM3t style="zoom:50%"> ska finnas en rtaumaledare, tänka på nackskada enl ATLS även om öppet sår låret. Blodgas för koldioxid. FAST är UL | <img src="./figs/sam16_7RAcY1L3Zb.png" alt=7RAcY1L3Zb style="zoom:50%"> |
+| <img src="./figs/sam16_ZJMtH2yN0Q.png" alt=ZJMtH2yN0Q style="zoom:50%"> | <img src="./figs/sam16_jbyzkbiVkf.png" alt=jbyzkbiVkf style="zoom:50%"> kan tänka sig ketalar, men påvekar hjur alert pat är aldrig 10mg doser midazolam på dessa patienter, utan enbart 1mg bolusar |
+| <img src="./figs/sam16_nNgozdisje.png" alt=nNgozdisje style="zoom:50%"> | <img src="./figs/sam16_AiWx9O7si2.png" alt=AiWx9O7si2 style="zoom:50%"> kom ihåg att RA går ut interstitiellt, att efter 2-3L kommer man att få ödem, att om efter 2-3L ska man vasopressor för att man inte vill ha ödem hos dessa patienter. |
+| <img src="./figs/sam16_3tlAguYU3c.png" alt=3tlAguYU3c style="zoom:50%"> |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
+
+* !! Patienten är icke-fastande: vitkigt att ha med detta
+* Hur viktigt erytrocyter är för syretransporten, blöder kommer att rpgoressivt få sämre syretransport. 
+
+
+
+
+
+#### Fall 4
+
+| <img src="./figs/sam16_kfxdqKBRbe.png" alt=kfxdqKBRbe style="zoom:50%"> | <img src="./figs/sam16_l3Iei7gpNx.png" alt=l3Iei7gpNx style="zoom:50%"> benz t en orolig pat |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
+* Lilla kirurgin att man lägger xylocain
+* om fraktur att man lägger en femoralis blockad med marcain långvarig effekt
+
+
+
 ## Gen frågor
+
 * Fara med diuretika och användning hos hjärtsviktare: RAAS aktiveras för mkt, drf försöker man minimera dos så mkt som möjligt. 
 * Hur funkar Kapnografi: Mäter co2 i luftflöden ur luftvägarna (via mun o näsa). 
   * inandning, ingen co2, därför zero-baseline

@@ -305,7 +305,7 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 ***Scoringsystem, för förmaksflimmer***
 
-* CHA2DSVAS2C: >1p för kvinnor >0p för män, indikation att få antikoagulantia
+* ***CHA2DSVAS2C***: >1p för kvinnor >0p för män, indikation att få antikoagulantia
   * Congestive heart failure
   * Hypertension
   * Age >75åå 2p
@@ -314,7 +314,7 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
   * Vaskulit eller liknande inflammatorsiak stillstånd
   * Age >65åå
   * Sex: kvinnor får 1p
-* HAS-BLED scoring: utv för att skatta blödningsrisk av FF pats som får antikoag. s
+* ***HAS-BLED scoring***: utv för att skatta blödningsrisk av FF pats som får antikoag. s
   * Hypertoni: 
   * Abnormal njurfunk eller leverfunk
   * Stroke
@@ -1398,6 +1398,7 @@ Förändringar t lkm lista:
 <img src="./figs/sam14_YJvvkozWCI.png" alt=YJvvkozWCI style="zoom:50%">
 
 * P-vågorna är delade 2 delar -> p-mitrale
+* Genomföra en EKO-undersökning
 
 
 

@@ -67,6 +67,20 @@ Viktökning/övervikt
 
 
 
+***På vårdavdelning***
+
+* Får en patient insulin
+* Glukoskurva
+  * Morgonglukos
+  * Glukos före måltid
+  * Glukos 2h efter måltid
+  * (glukos innan sömn?)
+* 
+
+
+
+
+
 ### Fall
 
 #### Fall 1

@@ -261,13 +261,7 @@ Omedelbart fortsatt åtg
 
 
 
-
-
-
-
-## Hand Arm
-
-
+## Arm
 
 ### Armbåge
 
@@ -296,7 +290,7 @@ Omedelbart fortsatt åtg
 
 ***Utredning o handläggning***
 
-* Anamnes och status
+* ***Anamnes och status***
   * När/var/hur uppkommer besvären?
   * Domningar/parestesier i hand eller fingrar?
   * Socialt: Dominant hand, yrke
@@ -304,25 +298,308 @@ Omedelbart fortsatt åtg
   * Tidigare och nuvarande sjukdomar
   * Läkemedel och allergi
   * Inleder med öppna frågor
-* Handstatus
-    * Inspektion: svullnad, rodnad
-    * Rörlighet: Flexion+extension, pro-och supination armbåge
-    * !! Palpation: Laterala epikondylen, extensormuskulatur
-    * Specifika test: Dorsalextension handled mot motstånd, supination mot motstånd
-    * Distalstatus: Motorik och Sensorik - Nn radialis, medianus och ulnaris,
-    * Kärlstatus: A radialis (a ulnaris),
-* Bedömning
-    * !! Informerar patienten om rimlig diagnos (tendinos/lateral epikondylit)
-    * Föreslår remiss till sjukgymnast för eccentrisk träning
-    * Föreslår analgetica (0.25), nekar kortisoninjektion (0.25)
-    * Diskuterar arbetssituation/sjukskrivning
-    * I samråd med pat överenskommer om fortsatt handläggning
-* Patofysiologi
-    * Orsakas av strukturella förändringar i senan. 
-    * !! Kärl och nervinväxt i extensormuskulaturens
-    * sena, ffa extensor carpi radialis brevis, där retraktion av dessa strukturer uteblir jämfört med normal inflammatorisk process
+* ***Handstatus***
+  * ***Inspektion***: svullnad, rodnad
+  * *Rörlighet*: Flexion+extension, pro-och supination armbåge
+  * !! **Palpation**: Laterala epikondylen, extensormuskulatur
+  * ***Specifika test***: Dorsalextension handled mot motstånd, supination mot motstånd
+  * ***Distalstatus***: Motorik och Sensorik - Nn radialis, medianus och ulnaris,
+  * ***Kärlstatus***: A radialis (a ulnaris),
+* ***Bedömning***
+  * !! Informerar patienten om rimlig diagnos (tendinos/lateral epikondylit)
+  * Föreslår remiss till sjukgymnast för eccentrisk träning
+  * Föreslår analgetica (0.25), nekar kortisoninjektion (0.25)
+  * Diskuterar arbetssituation/sjukskrivning
+  * I samråd med pat överenskommer om fortsatt handläggning
+* ***Patofysiologi***
+  * Orsakas av strukturella förändringar i senan. 
+  * !! Kärl och nervinväxt i extensormuskulaturens
+  * sena, ffa extensor carpi radialis brevis, där retraktion av dessa strukturer uteblir jämfört med normal inflammatorisk process
+
+
+
+
+
+
+
+
+
+## Hand 
+
+
+
+
+
+### CMC1 artros
+
+
+
+***Presentation***
+
+* En äldre dam beklagar sig över att hon inte längre kan spela TV-spel med barnbarnen för att hon får sådan värk i     tumgreppet. När du komprimerar CMC 1 leden gör det rejält ont. 
+
+
+
+***Kliniska kännetecken***
+
+1. Den vanligare åkomman. 
+2. särskilt äldre kvinnor
+3. sällan hos män av oklar orsak
+
+4. **Symptom**
+   1. **rörelsesmärtor** 
+      1. basalt i tumgrepp
+      2. radialt i carpus	
+   2. smärtorna ger försvagat  handgrepp
+
+
+
+
+***Differentialdiagnoser***
+
+* **DeQuervains tenosynovit**
+
+  * ***Finkelsteins test***: opposition av tummen och clench i fist och ulnar deviate. pain in      the base om the thumb
+  * **Notera**: att vid dequervain så löper senskidan för extensor pollucis precis över CMC1 leden. 
+
+
+
+**Undersökning**
+
+1. ***OK sign***: nedsatt kraft i tum-pekfingar grepp (ok sign) pga smärta
+2. **palpation**: direkt ömhet över CMC1
+3. **indirekt smärta**: gm tar tag i tumme, försiktigt komprimerar och roterar mot karpus.
+4. Slät-rtg: bekräftar diagnos
+
+
+
+**Behandling**
+
+ 1. **Konservativ**
+       1. Adduktionsskena, att tummen ut fr handflatan
+       1. Utbildning i tekniken att sätta detta
+ 1. **NSAID + Paracetamol**
+      2. **op i senare skede**
+      3. **fysioterapi: att man får splint. förhoppningsvis       fångas dessa patienter tidigare och får detta tidigt.** 
+
+         4. kan börja med att ge intraartikulär steroider kortisoninjektion
+      
+    3. **ortos**  vid ansträngning kan mga pat bli glada över
+          1. **abduktionsskena el ortos**
+
+4. **Kirurgiskt**
+     7. invalidiserande  smärtor: extirpation av trapezium och stabilisera led
+       8. **resektion av trapezium**
+       9. ibland att man rekonstruerar tendon och mjukdelar, men ingen stark evidens för detta. 
+       10. sällan implanteras endoprotes
+       11. Ersättnng med palmaris longus, spacer
+       12. Artodes: ett alternativ
+
+
+
+
+
+| <img src="./figs/sam18_Atvu6wZKpf.png" alt=Atvu6wZKpf style="zoom:50%"> | <img src="./figs/sam18_0tSp2BYAZL.png" alt=0tSp2BYAZL style="zoom:50%"><br>Fulminant adduktionskontraktur, långt gången; kan känna av osteofyter när det ser ut så här |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./figs/sam18_JrTznl3l4x.png" alt=JrTznl3l4x style="zoom:50%"> |                                                              |
+
+
+
+### De Quervain
+
+
+
+***Etiologi***
+
+* 1:a dorsala senfacket
+  * abduktor pollucis longus
+  * Extensor pollicis brevis
+* Tenosynovit
+* Överansträngning: monotont repetitivt arbete
+* överanvändning   syndrom
+* inflammation av extensor     senorna av pollusis
+
+ 
+
+
+
+**Kliniska kännetecken**
+
+1. smärta  radialt handled: lokal palpömhet
+2. exacerberas med användning av tummen
+
+
+
+**Utredning**
+
+1. **Finkelstein test:** 
+
+2. 1. ulnar  devition of fisted hand, producerar smärta (radiellt)
+
+ 
+
+**Behandling**
+
+1. NSAID,
+
+2. **Konservativt**
+
+   1. i 7-10d
+      1. vila
+      2. ortos
+      3. eller gips
+3. steroidinjektion om      långdraget förlopp: utbildad i detta, annars nål i sena som sen kan atrofiera
+4. **operation**
+
+   1. delning 1a      dorsala senfacket 
+   2. senare skede
+
+| <img src="./figs/sam18_wEG0iADVbS.png" alt=wEG0iADVbS style="zoom:50%"> | <img src="./figs/sam18_Do7HTj01am.png" alt=Do7HTj01am style="zoom:35%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
 
 ### Domningar hand
+
+
+
+#### Karpaltunnelsyndrom
+
+
+
+***Etiologi***
+
+* Ökad vävnadsvolym
+* Vätskeretention
+* radiusfraktur, SMITH
+* Bldöning, ganglion, DM
+* anormal muskelbuk
+* synovit
+* kvinnor > män, 40-60år
+
+
+
+***Utredning o handläggning***
+
+* Status
+  * Inspektion
+  * Rörlighet
+  * Spec test: 2PD, tinel, Phalens
+  * Palpation över karpalligament: upplevd smärta o parestesier
+* Vissa fall kan det finnas anledning vidare utredning EMB ENG
+  * Bakomliggande sjd: diabetes, där osäkerhet om grundsjd eller riktigt karpaltunnelsyndrom
+
+
+
+***Behandling***
+
+* Börjar alltid icke kirurgiskt
+  * Ortos: extension i handled
+  * !! ***arbetsterapeut*** remiss
+* Prövbehandling NSAID (kloka listan)
+* Överväga steroidinjektion: koll på tekniken
+* Kirurgi: sista hand, klyver karpaltunneln
+
+
+
+#### Ulnaris
+
+##### De Guyon
+
+***Etiologi***
+
+* Lokalt tryck över inom hypothenarområdet (hypotenar)
+  * radiellt om os pisiforme
+* Andra oraker
+  * Synovit - RA, 
+  * anatomiskt, 
+  * ganglion, 
+
+
+
+
+
+***Kliniska kännetecken***
+
+* Parestesier och domningskänsla volart dig 4 + dig 5 (ulnaris utbredningsområde)
+* Det är normalt dorsalt (alltså handryggen)
+* Svagt tum/pekfinger grepp
+  * pga ulnarförsörjnig av första interosseerna
+
+
+
+***Utredning***
+
+* ***Status***
+  * ***Tinels*** test
+  * ***Perkussionsömhet*** Guyons kanal
+  * ***Svaga interosseusmuskler*** (abduktion-adduktion i fingrar)
+  * ***Bibehållen kraft i lillfingrets ytterled***: till skillnad från de mer proximala ("höga") ulnariskompressionerna!
+  * ***nedsatt sensorik ulnart volart*** (alltså över the palm of the hand)
+  * ***Froments tecken***
+    * Just för att testa nervus ulnaris påverkan på första interossen: 
+    * oförmögna att hålla ett blad eller gradskiva utan att böja på tömmens IP led som kompensation, f
+    * för att interosseen är så svag
+
+
+
+
+
+***Behandling***
+
+* NSAID: receptfritt ibuprofen
+* Ortos
+* Operation: klyvning av fascian över guyons kanal
+
+
+
+<img src="./figs/sam18_FknVKrJooh.png" alt=FknVKrJooh style="zoom:50%">
+
+
+
+
+
+#### Hög/proximal ulnaris kompression
+
+***Etiologi***
+
+* ***Kompression*** av n ulnaris bakom mediala humerusepikondylen
+* ***Etiologiskt***: kan komma fr nervrotsnivå !! 
+  * ***Yttre trauma***: direkt eller tension
+  * ***Okänd***
+
+
+
+***Kliniska kännetecken***
+
+* ***Parestesier och domningar*** 
+  * volart dig 4 + dig 5 (ring o lillfinger)
+  * ***!! OCH ulnart handryggen***
+* ***Smätra***
+* ***Svaga interosseer***
+* ***Svag flexor dig profundus dig 5***
+
+
+
+***Utredning***
+
+* Status
+  * nedsatt sensorik o kraft enl nervus ulnaris
+  * positiv tinel i armbåge
+
+
+
+***Behandling***
+
+* ***Nattskena runt armbåge***
+  * strävar efter lätt flektion
+* ***Kirurgiskt***: konservativt fungerar inte
+  * Nervolys, där man befriar nerven, öppnar upp den, så att den får fritt spelrum
+
+
+
+
 
 #### Fall 1
 
@@ -342,6 +619,12 @@ Omedelbart fortsatt åtg
     * ! Kompressionstest (spurlings test?): Positiv foraminakompressionstest samt minskade symptom vid traktionstest. 
     * ! Traktionstest: "cervical distraction test?"
 
+
+
+<img src="./figs/sam18_vN55wiOfp4.png" alt=vN55wiOfp4 style="zoom:50%">
+
+
+
 ***Etiologi och patofysiologi***
 
 ***Epidemiologi***
@@ -360,7 +643,7 @@ Omedelbart fortsatt åtg
 * perifer kompression n ulnaris skuldra
 * armbåge
 * hand
-* referred pain
+* !! referred pain
 * Thoracid outlet syndrome
 
 
@@ -369,7 +652,7 @@ Omedelbart fortsatt åtg
 
 ***Utredning och handläggning***
 
-* Anamnes
+* ***Anamnes***
   * Domning o smärta
     * SOCRATES
     * Faktorer som förvärrar o lättar
@@ -390,25 +673,25 @@ Omedelbart fortsatt åtg
   * Effekt provade smärtstillande lkm
   * Social anamnes:
     * yrke, arbetsförmåga
-* Status
-  * Halsrygg
+* ***Status***
+  * ***Halsrygg***
     * Inspektion
     * ROM
     * palpation kotor, muskler
-  * skuldra, arm, hand
+  * ***skuldra, arm, hand***
     * inspektion, palpation
     * ev atrofier
     * palpationsömhet musk / leder: inkl ac-led o handled
     * rörelseomfång skuldra
     * grovkraft
-  * Arm hand, neuro undersökning
+  * ***Arm hand, neuro undersökning***
     * Sensibilitet, beröring
     * Reflexer
-  * Radialis, medianus, ulnaris
-  * Nivådiagnostik
+  * ***Radialis, medianus, ulnaris***
+  * ***Nivådiagnostik***
     * Tinells test, phalens test
     * Foraminakompressionstest / traktion
-  * Distalstatus
+  * ***Distalstatus***
     * Pulsar, temp
 
 
@@ -434,9 +717,49 @@ Omedelbart fortsatt åtg
   * Ett antal studenter fastnade i sin undersökning av armen och låste sig något för att undersöka ev karpaltunnelsyndrom, trots att sensibilitetsnedsättningen ej motsvarade medianus. 
   * En del gick dock vidare och undersökte halsryggen och fick då diagnostisk vägledning och landade så småningom i ulnaris.
 
-
-
 ### Scaphoideum
+
+***Presentation***
+
+
+
+***Etiologi***
+
+* Efter distal radiusfraktur är fraktur i skafoideum den näst vanligaste frakturen i handleden
+* Obehandlad scaph-fraktur 
+  * pseudartros som obehandlad kan leda till en progredierande karpal kollaps, så kallad SNAC (scaphoid nonunion advanced collapse), och avancerad artros i handleden
+
+
+
+***Utredning och handläggning***
+
+* ***Status***
+  * **Fossa tabatiere**
+  * **Palpation av tuberculum scaphoidei**
+  * **Axiell kompressio utmed tummens längsriktning**: smärta vid kompression i tummens längsriktning indikerar en skafoideumfraktur med en sensitivitet på 100 procent och en specificitet på 74 procent 
+* Patienter med distala frakturer kan vara ömma endast över tuberkulum och därför bör även isolerad palpationssmärta här föranleda vidare radiologisk utredning
+
+
+
+
+
+***Källor***
+
+* https://lakartidningen.se/klinik-och-vetenskap-1/artiklar-1/klinisk-oversikt/2019/06/diagnostik-och-behandling-av-akuta-skafoideumfrakturer/
+
+| <img src="./figs/sam18_feL2h8JYwf.png" alt=feL2h8JYwf style="zoom:50%"> | <img src="./figs/sam18_SfNA6xmPZc.png" alt=SfNA6xmPZc > |
+| ------------------------------------------------------------ | ------------------------------------------------------- |
+|                                                              |                                                         |
+
+
+
+
+
+
+
+
+
+#### Fall 1
 
 ***Presentation***
 
@@ -457,7 +780,7 @@ Omedelbart fortsatt åtg
   * Socialt
     * dominant hand
     * yrke
-  * Tobk, alkohol
+  * Tobak, alkohol
   * Tidg, nuv sjd, frakturer
   * Lkm, allergi
 * !! Status
@@ -469,7 +792,7 @@ Omedelbart fortsatt åtg
     * flexion + dorsalextension handled
     * flexion + extension fingrar
   * Palpation
-    * fossa tabtiere
+    * fossa tabatiere
     * volart scaphoideum
     * axiell kompression
     * distala radius
@@ -544,7 +867,189 @@ Omedelbart fortsatt åtg
 
 
 
+
+
+### Triggerfinger
+
+
+
+**Pres**
+
+1. **Din faster** 
+
+2. 1. **problem med att höger långfinger      hakar upp sig.** 
+   2. **När hon knyter handen fastnar fingret i böjt läge och** 
+   3. **hon måste räta ut det med andra handen och** 
+   4. **det gör så ont.** 
+
+ 
+
+**Allmänt**
+
+1. Enl CLINITEC boken: Tendinitis Nodosa/     Tenovaginitis stenosans aka. Trigger finger 
+2. Det föreligger en lokal     förtjockning i den fibrösa senskidans mynning i med MCP-leden, och 
+3. när senan passerar genom den     för trånga mynningen upplever pt ett smärtsamt knäpp. 
+4. Fingret kan då låsas i     flekterad position. 
+5. Upphakningen beror på ett     missförhållande mellan flexorsenorna och senskidan. 
+
+ 
+
+**Behandling**
+
+1. Konservativt
+
+2. 1. Icke      kirurgiskt först, 
+   2. NSAID och sätt på en skida      så den kan relaxera. 
+   3. Kortison injektion annars: 3      ggr, om det inte fungerar skickar kirurgi. max 4 injektioner per år.
+
+3. **Kirurgi**
+
+4. 1. senskideklyvning. 
+
+ 
+
+**Pulley system**
+
+1. **försöka få flexor     senor vara tight mot benet,** 
+2. **om inget pulley     system kommer man få bow string effekt, att senan kommer att ta kortaste     vägen** 
+3. **finns 5 pulleys**
+4. **första pulley ofta     blir sjuk, att mna får en noduli fibrös i senskidan, som leder till att     man får problem med flektionen**
+
+
+
+
+
+| <img src="./figs/sam18_IAkr0j4NX2.png" alt=IAkr0j4NX2 style="zoom:100%"> | <img src="./figs/sam18_HND4aFHQbs.png" alt=HND4aFHQbs style="zoom: 150%;"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
+
+
 ### UCL
+
+
+
+#### Allmänt
+
+
+
+**Pres**
+
+1. 38åå man
+
+2. 1. ramlat skidbacke
+   2. stab i hand när tog emot i snö
+   3. värk över ena tumme
+   4. smärtar när rör
+   5. **misstänka ruptur kollateralligament första MCP led**
+
+ 
+
+**Etiologi**
+
+1. orsaka fett mkt stress på kollateral ligamentet. 
+
+2. när proximala phalangen, (phalanx proximalis) extendera för mkt av the stick, när den fastnar
+
+3. basic principle, 
+
+4. 1. if extraartikulär ligament and gets rupture -> bleeding and hematome -> then they have tendons to heal, same for ligament and tendon.
+
+5. why UCL gets sututes, 
+
+6. 1. cuz if it is ruptured, 
+   2. then the end of the UCL  ligament will leave on upper fascia neurosis, 
+   3. the two ends cannot overlap  on each other. 
+   4. the tendon of **musculuaris adductor pollusis**  gets in between. 
+   5. if there is a bump one must      operate
+
+
+
+**Handläggning**
+
+1. **distalstatus av hand**
+
+2. **Status av UCL**: jämför med andra sidan
+
+3. 1. **fixera första metacarpalen med ena handen**
+
+   2. **andra handen hålla i proximala phalangen och radiellt deviera      den,** 
+
+   3. **om över 45 grader, indikerar skadad UCL**
+
+   4. **Total ruptur**
+
+   5. 1. att       distala ligament fästet lossnar
+      2. ledbandet viks proximalt
+      3. gör att ändarna ligger isär
+      4. andra mjukdelar       interponerar och skadan kan inte läka utan operation
+
+4. **röntgen, utesluta fraktur**
+
+5. smärtlindring, högläge, 
+
+6. fixation 
+
+7. 1. el-linda eller
+   2. ortos eller
+   3. gips
+
+8. försiktighet
+
+9. remiss ortoped hemort, för     uppfölj o evt operation
+
+10. **skada ej akut att behöva avbryta resa**
+
+ 
+
+**Behandling**
+
+1. **Konservativt**
+
+2. 1. Fixation 
+
+   2. 1. **Thumb-spica splint**
+      2. el-linda eller
+      3. ortos eller
+      4. gips
+
+3. Operativt
+
+4. 1. syr ledbandet på plats
+
+   2. gips 5 veckor
+
+   3. **Artodens indikation**
+
+   4. 1. om ingen förbättring av ovan operation, gör man steloperation
+
+
+
+**Utredning**
+
+1. testa UCL,     ulnara kollateral ligamentet
+
+2. 1. fixera      MCP1 med fingrarna, fixera den hårt
+   2. sen ska man raidellt deviera      proximala phalangen, också hårt. 
+
+ 
+
+**Komplikationer**
+
+1. instabilitet     i tummens MCP1 vid UCL
+2. subluxationstendens i MCP1
+
+
+
+| <img src="./figs/sam18_vK0NAsnIZg.png" alt=vK0NAsnIZg style="zoom: 150%;"> | <img src="./figs/sam18_EQpVq6rLMo.png" alt=EQpVq6rLMo style="zoom: 150%;"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
+
 
 #### Fall 1 
 
@@ -560,7 +1065,7 @@ Omedelbart fortsatt åtg
   * sedvanligt
   * tankar oro önskan
   * sammanfattar
-* Anamnes
+* ***Anamnes***
   * !! Huvudsymptom
     * smärta, 
     * lokalisation, 
@@ -581,7 +1086,7 @@ Omedelbart fortsatt åtg
   * Tobak, alkohol
   * tidg nuv sjd
   * LKM, allergi
-* Status
+* *Status*
   * handled
     * inspektion
     * rörlighet
@@ -601,31 +1106,151 @@ Omedelbart fortsatt åtg
       * medianius
       * radialis
       * ulnaris
-* Kliniskt resonemang
+* ***Kliniskt resonemang***
   * mot bg av anamens o status, förmåpr identiifera antosimka strukturer o givet dessa samt traumats karaktär an formulera en relevant arbetshypoptes
-* patkom
+* ***patkom***
   * mot bg av vad som framkommit i anamnes o status, motiverar o involverar i plan
-* bedömning o åtgärd
-  * adkevata åtgärder
+* ***bedömning o åtgärd***
+  * ***adkevata åtgärder***
     * immobiliserande örband
     * ordinerar immobilisering
-    * remiss t AKM: bedömning, gipsskena, handskgips
+    * !! remiss t AKM: bedömning, gipsskena, handskgips
       * föregånget av rtg
       * adekvat frågeställning
-      * gupstuid behöver ej anges
+      * gipstid behöver ej anges
     * Remiss t ortmottagning samt handkirurg
       * adekvat med rele frågeställning 
     * även remiss för immob skena hos arbetsterapeut godkäns vid klar diagnos o ordinatioin immobilisering
     * stud disk behov smärtlindring: paracetamol
-  * Utför adekvat
+  * ***Utför adekvat***
     * identifierar misstänkt ledbandsskada
     * immobiliserande förband
-    * remiss t ortoped alt handkirurg för bedömbnibng (akm / mottanging)
+    * remiss t ortoped alt handkirurg för bedömning (akm / mottanging)
     * gipstid: 1v+3v skena, 4v gips, 6v gips... (behöver ej anges)
 
 
 
 
+
+
+
+### Undersökningar
+
+#### Handen
+
+***Nerver***
+
+* ***Muskulärt***
+  * ***Medianus***: 
+    * Tum-opponens
+* ***Sensoriskt***
+  * ***2PD-testet***: Ska inte testas på underarmen eller på palmart på handen, 
+    * Ska utföras på pulpan av fingrarna (alltså handen palmart, den fingrepulpan, inte nageln hah)
+    * ***Normal 2PD***: 4-5mm; skrivbordsarbete 4mm, och jordbrukare är uppemåt 7mm pga tjock hud.
+    * ***Tryckmässigt***: ska precis hålla emot, inte trycka för hårt. 
+    * Sen testar man på pulpan huruvida patienten kan göra distinktionen
+    * ***Avkapad nerv***: ska inte kunna få ett svar, då nerven är kapad...
+    * ***Fysiologiskt***
+      * "as an innervation density test of afferent fibres"
+      * "Weber wrote ‘‘the  morerichly  innervated  and  therefore,  more  sharply  sensitive  apiece of skin is, the more clear and correct one can sensethe   difference   between   two   touched   spaces’’  (Dellon,1981). This tactile discrimination is  based on the slowlyadapting type I afferent fibre system, one of the fourafferent fibre systems in the glabrous skin. IndividualSA1 afferent fibres, terminating in Merkel receptors,have a high spatial resolving capacity and are selectively"
+    * ***Nyttigt***
+      * ***Karpaltunnelsyndrom:*** patienter kommer att ha en påverkad nervdensitet. 
+      * ***De Guyonssyndrom***: patienter kommer att ha en påverkad nervdensitet. 
+  * **Allmänt sensoriskt**
+
+
+
+
+
+<img src="./figs/sam18_RgX1nDMhPB.png" alt=RgX1nDMhPB style="zoom:100%">
+
+
+
+#### Nacken
+
+***Traktionstest***
+
+* För att avlasta foramina
+
+<img src="./figs/sam18_vN55wiOfp4.png" alt=vN55wiOfp4 style="zoom:50%">
+
+
+
+### Fall
+
+#### Fall 1 - skärskada handen
+
+<img src="./figs/sam18_qb74hipIRP.png" alt=qb74hipIRP style="zoom:50%">
+
+**Presentation**
+
+1. 24åå man
+
+2. 1. skurit i hand
+   2. efter skada svårt böja      pekfinger DIP led
+
+
+
+**Undersöka**
+
+1. flexor digitorum profundus
+2. flexor digitorum superficialis 
+3. fingernerver med 2PD (2 point discrimination)     och 
+4. kapillär återfyllnad
+
+ 
+
+
+
+#### Fall 2 - metkrok i handen
+
+**Pres**
+
+1. 50åå pat
+
+2. 1. metkrok i      fingret
+
+ 
+
+**Handläggning**
+
+1. **Anamnes**
+
+2. 1. När hur      uppkom skadan
+   2. andra lkm
+
+3. **Status**
+
+4. 1. Inspekterar      skadan
+   2. rengör fingret
+
+5. **Handläggning**
+
+6. 1. väljer lämplig lokalanestesi o motiverar vrf: kanske ingen adrenalin, samt att      man har xylocain
+   2. informerar om smärta innan      stick
+   3. **Fingerbasanestesi** (digitalt block?)
+   4. tar bort metkrok
+   5. **Frågar om tetanusvaccin**
+
+
+
+
+
+#### Fall 3 - handledssmärta domningar pekfinger, långfinger
+
+***Presentation***
+
+* 63åå kvinna
+
+* 1. smärta radiell höger handled
+
+  2. domningar pek och långfinger
+
+  3. **Diffar**
+
+  4. 1. karpaltunnelsyndrom
+     2. Mb deQuervain
+     3. CMC1 artros
 
 
 
@@ -1122,4 +1747,28 @@ Omedelbart fortsatt åtg
   * **Kliniskt resonemang**
     * hos pat med sjd känsla, ledvärk, hudutslag resonerar borrelia
     * DD hypothyreos, annan infektion / ledinflammation
+
+
+
+
+
+## Operation
+
+### Trombosprofylax
+
+***Behandlingar***
+
+* Låg-molek heparin, fragmin: dessa används ofta för att minska trombosbenägenheten hos patienter, och effektivt mer in-aktivera (aktivt) trombin. 
+
+
+
+***Patofysiologiskt***
+
+* Speciellt ortopediska operationer (i synnerhet i nedre extremiteter) finns det en ökad risk för att få tromboser
+* ***Rent fysiologiskt***
+  * Formation of DVT is, to a large extent, a consequence of bone damage during surgery. 
+  * ***Procoagulant*** cellular debris is drained with venous blood and triggers thrombin generation upon passage through the lung vessels [5–7]. 
+  * Infusing small doses of heparin, before the bone traumatization during surgery, reduced thrombin activity markedly but with almost no effect on thrombin generation [8].
+  * Källa: "Current controversies in deep vein thrombosis prophylaxis after orthopaedic surgery"
+* 
 

@@ -39,7 +39,48 @@
 
 
 
+## Hals Mun
 
+
+
+### Halsfluss, strep throat
+
+***Presentation***
+
+* 13åå pojke
+  * ***Anamnes***
+    * chief complain sore throat + feber 2d. samma sak yngre syster senaste veckan. 
+    * sväljka ont, 
+    * ingen grötigt tal, kräk, diarre, utslag, dregel, nackstelhet
+    * ingen epidem
+    * vaccinerad
+    * inga tidg sjd, inga meds, inga allergier
+    * Status bra, bara 38.5 graders feber
+    * posterior orofarynx erytem med tonsillär exudat utan uvulär deiviation
+    * Tonsillär svulland
+    * anterior lymfkörtlar ömma
+  * Huvuddiagnos: Halsfluss pga GAS
+  * Differentialdiagnoser: Epiglottit, Ludwigs angina, peritonsillär absscess, retrofarygneal abscess
+  * Diagnostisk plan: Centor kriterier + GAS-test (antigen test)
+  * Terapeutisk plan: antibiotika kåvepenin
+    * pc allergi = erytromycin eller klindamycin
+
+
+
+***Talande för bakteriell pharyngit***
+
+* Notera virala är mkt vanlgiare
+* Yngre 15åå
+* feber
+* ingen hosta
+* tonsillära exudat
+
+
+
+***Behandling***
+
+* Kåvepenin
+* Pc-allergi: erytromycin eller klindamycin
 
 ## Lunginfektioner
 

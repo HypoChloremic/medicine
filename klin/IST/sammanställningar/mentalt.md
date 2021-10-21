@@ -690,6 +690,233 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 
 <img src="./figs/sam2_IyvhKLk46L.png" alt=IyvhKLk46L style="zoom:50%">
 
+
+
+
+
+### Subarak
+
+**Epidem**
+
+1. flertalet     fall aneurysm brist
+
+ 
+
+**Symptom**
+
+1. **åskknallshuvuvärk**
+2. **akut insättande huvudvärk**
+3. **vill ligga still**
+4. **motorisk orolig**
+5. **svårundersökt**
+
+1. **fokala bortfall**
+
+1. **medvetandesänkning**
+
+2. **medvetslöshet**
+
+3. **värken intensiv, skärande, sprängande, förvärras av huvudrörelse**
+
+4. **nackstyvhet**: 
+
+5. 1. (inte) momentant
+   2. för att man retar      hjärnhinnan (meningierina)
+
+6. **Känslighet**
+
+7. 1. Fotofobi
+   2. Ljudkänslig
+
+1. **koma kan förekomma**
+
+1. **varningsblödning**: 
+
+2. 1. **2-8 veckor      före ruptur**
+
+3. 1. Av o till      föregårtransitorisk insättande huvudvärk
+   2. medelsvår karaktär
+   3. akut huvudvärk, 
+   4. synförlust, 
+   5. kranialnervs-påverkan, 
+   6. ansiktssmärta samt motoriska      symtom.
+
+ 
+
+**Patofysiologi**
+
+1. **Oftast circulus     willisi**
+2. **Aneurysm, berry aneurysm**
+3. **Försvagade väggar, som     brister**
+
+1. Blödningen     är momentan, men den kommer att vara selflimiting
+
+2. **Hydrocefalus**
+
+3. 1. Det är      efterföljande obstruktiv hydrocefalus man är rädd för: blodet kommer att      bulge och trycka på 
+   2. mkt blod rupturerar in i      ventrikel system
+   3. eller översvämmar basal      subarak -> hittar t      ventriklarna via luscka o magendia foramna
+   4. **pat blir** : konfuserad + medvetslös pga **AKUT HYDROCEFALUS**
+   5. Reverseras gm dränage
+
+1. **Self-limiting     aspekt**
+
+2. 1. Beror på      vilket håll den blöder
+   2. om den blöder åt subarak      rummet, kommer intracereb trycket      att höjas varpå fortsatt blödning hindras
+   3. om den blöder in i      parenkymet, kommer dissektion ske -> subarak + intracereb blödning
+
+1. **Dödsorsak**
+
+2. 1. **massiv blödning**: påverkad andning, stegrat tryck, påverkad      hjärnstam, omedelbar död
+   2. **vasospasm** **med hjärninfarkt**: 4-10 dagar efter subarak debut
+   3. **reruptur**      (reblödning, recidivblödning): 2-3 veckor senare. 60-75% dödlighet
+
+ 
+
+ 
+
+**Differentialdiagnoser**
+
+1. **RCVS**: reversibelt cerebralt vasokonstrikt syndorm
+2. **Migrän**
+3. **Ansträngningsutlöst HV**
+4. **orgasm HV**
+5. **RCVS**
+
+ 
+
+**Utredning**
+
+1. **Nativ-DT**: gjord **inom     6 timmar är 100% sensitivitet**. om den är gjord **över 6 timmar fr debut är sensitiviten inte lika hög     längre**. 
+
+1. **Likvoranalys**: erytrocyter/absorbans (isoelektricitet)
+
+ 
+
+ 
+
+**Handläggning**
+
+1. **Akutförloppet**
+
+2. 1. Pat kommer      in, ABCDE
+
+   2. Radiologi o undersök
+
+   3. 1. **Nativ DT** -> (om pos       inom 6 timmar) **DT angio** (samma veva). 
+
+      2. **Nativ DT** -> (om neg efter 6 timmar) gör LP för att sensitivitet är inte       100% efter 6 timmar med DT, vilket den är inom 6 timmar (se below för       mer detalj)
+
+      3. **Nativ DT** -> (om neg) man kommer       att köra LP 6 timmar efter symptomdebut (helst 12 timmar, många säger 12       timmar, så man får vänta)
+
+      4. 1. Om ingen blödning kan påvisas med DT hjärna av god kvalitet        utförd inom 6 tim från symtomdebut hos patient utan neurologiska        bortfall (fullständigt neurologiskt status), medvetandeförlust och utan        isolerad nackvärk
+
+   4. **Notera**:      om neg DT, men fortsatt stark misstanke subarak ska pat observeras **NÄRA -> IMA, IVA, MIVA** 
+
+3. 1. **Pos fynd ->      ringa neurokir:** 
+
+   2. 1. intention       är flera
+      2. hindra reblödning
+      3. hindra annan cerebral ischemi
+
+4. **Inför intervention**: **helst     innan spasmfas**,     48-72 timmar
+
+5. 1. **30 grader huvudända** (optimalt för      avflöde fr hjärna)
+   2. **BT kontroller**, under 140mmHg enl neurokir
+   3. **GCS**      följs 1x/h
+
+6. 1. **Telemetri,      EKG**
+
+7. 1. **HV**: paracetamol po el iv, morfin iv, 
+   2. **illamående**:      inj ondansetron, metoklopramid
+
+8. 1. **elektrolyter      vätskebalans dagligen**
+   2. **normotermia**
+
+9. 1. **avakta KAD**: KAD ökar stress
+
+10. 1. **fastande pat**
+
+11. 1. **Tranexamsyra**: kan ges akut
+    2. **Smärtstillande:** 
+
+12. **Medvetslösa patienter**: får ett ventrikeldränage, för att sänka trycket
+
+13. 1. man gör DT      direkt. 
+
+1. **Efterloppet**
+
+2. 1. **Rädd för tre      centrala saker**
+
+   2. 1. **Reblödning**
+
+   3. 1. **vasospasm**: ger **kalciumflödeshämmare**, detta är ett       problem efter 4 dagar.
+      2. **hydrocefalus**
+
+3. **Uppföljning**
+
+4. 1. For life
+   2. första efter 3 månader: med      angio
+   3. sedan varje år. . .
+   4. Dels för att man coilat och      man vill följa den
+   5. samt risk för att utveckla      nya aneurysm
+
+5. **Om aneurysm bifynd**
+
+6. 1. man ska      skicka en remiss till neurokirurgerna (behöver inte vara en akut remiss)
+
+ 
+
+**Behandling**
+
+1. **Neurokirurgiskt     som ske iom** **48-72** **timmar (anses akut), innan spasmfas hunnit utvecklas**
+
+2. 1. Coiling
+   2. Clips
+
+1. **Medvetslösa patienter:** att man ska sätta ett     ventrikeldräange på dess
+2. **Uppföljning:** man följer upp for life, med     angiografiska undersökningar
+
+
+
+## Suicid
+
+### Anamnes
+
+***Följa suicidtrappan***
+
+* Nedstämdhet / hopplöshet
+* Livsleda
+* Dödstankar
+* Dödsönskan
+* Självmordstankar 
+* Självmordsönskan
+* Självmordsplaner
+* Självmordsförberedelser
+* Självmordsavsikt
+
+
+
+***Anamnestiskt***
+
+* ***Suicidtrappan***
+  * Har du känt dig nedstämd den senaste tiden? 
+  * Har du känt en livsleda, att du inte vill leva?
+  * Har du haft dödstankar. Alltså tankar om döden, din egen död och liknande tankar?
+  * Har du haft en dödsönskan? 
+  * Okej, självmordstankar, hur ser det ut där?
+  * Har du planerat ett självmord, alltså haft självmordsplaner
+  * Självmordsförberedelser, att dina planer gått till faktiska förberedelser?
+* ***Tidigare försök***
+  * Har du tidigare försökt ta ditt liv?
+* ***Ärftlighet***
+  * Hur ser det ut i familjen, har det funnits suicider familjen eller försök till suicid?
+* ***Alkohol***
+* ***Andra psykiatriska besvär***
+  * Depression
+
+
+
 ## Sömnbesvär
 
 
@@ -1027,7 +1254,7 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 
 
 
-## ! Utmattningssyndr
+## !Utmattningssyndrom
 
 ### Fall 1
 

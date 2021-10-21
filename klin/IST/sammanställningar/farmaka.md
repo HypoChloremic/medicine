@@ -42,6 +42,17 @@ sdsd
 
 
 
+### Läkemedelsformer
+
+***Depåttablett***
+
+* Skiljer sig fr vanliga tabletter
+* Långsammare frigöring av kemiska ämnena i tabletten. 
+
+
+
+
+
 ## Biverkan
 
 
@@ -245,6 +256,110 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
 
 
 
+
+
+### Biotillgänglighet
+
+***Definition***
+
+* Hur mkt av ett adminstrerat farmaka når blodomloppet i dess ursprungliga kemiska form
+
+
+
+***Vad påverkar biotillgänglighet***
+
+* ***Presystemisk metabolism***: intestinalt, där det kan ske enzymatisk nedbrytning av läkemedlet, eller varierande intestinalt upptag till porta-kretsloppet
+* ***Förstapassage metabolism***: hepatisk metabolisering av läkemedlet, leder till förädringar av den kemiska form som LKM.
+
+
+
+***Hur beräknas biotillgänglighet***
+
+* Användningen av Area under the curve: $AUC$:
+* Bioavailability relates only to the total proportion of the drug that reaches the systemic circulation and neglects the rate of absorption. If a drug is completely absorbed in 30 min, it will reach a much higher peak plasma concentration (and have a more dramatic effect) than if it were absorbed more slowly. Regulatory authorities—which have to make decisions about the licensing of products that are ‘generic equivalents’ of patented products—require evidence of ‘bioequivalence’ based on the maximum concentration achieved ($C_{max}$) and time between dosing and Cmax (tmax) as well as $AUC_{(0–∞)}$. For most drugs, each of these parameters ($AUC_{(0–∞)}$, $C_{max}$, $t_{max}$) must lie between 80% and 125% of the lead product for the new generic product to be accepted as bioequivalent.
+
+$$
+\frac{AUC_{oral}}{AUC_{intravenous}}
+$$
+
+#### ! Adminstrationsformer
+
+***Sublingualt***
+
+* Direkt till blodomloppet, via sublinguala kärlbäddar
+* Direkt undviker förstapassagemetabolism.
+
+
+
+***Rektal adminstration***
+
+* LKM admin rektalt antingen för lokal effekt eller för systemisk effekt
+* Absorptionen rektalt är unreliable
+* ***Användbart för:*** ej kan ta saker peroralt (kräkningar, postoperativt),
+  * Barn status epilepticus, som inte kan ta benz peroralt (iofs kan adminstrera nasalt också)
+
+
+
+***Kutan adminstration***
+
+* ***Effekter***
+  * Lokal effekt hud
+  * Kan få systemiska effekter
+* Många lkm absorberas dåligt gm *unbroken* skin. 
+* Organiska insketiciter som absorberas via cuticle på insekter, kan gå gm hud, o ha toxisk effekt på människa.
+* ***Exempel på kutan admin***
+  * Steroider
+  * Östrogen: för systemisk effekt
+  * Opioider: fentanyl
+* ***Fördelar med kutan admin***
+  * Undviker presystemisk metabolism (i.e. intestinalt)
+
+
+
+***Nasala sprays, nässpray***
+
+* ***Absorption***
+  * nasal mukosa 'overlying nasal lymphoid tissue': likt mukosa ovan Peyers paches intestinalt, som är ovanligt permeabla
+* ***Exempel***
+  * Calcitonin
+  * Gonadotropiner
+
+
+
+***Ögondroppar***
+
+* ***Absorption***
+  * Konjunktivalt epitel, absorption via dessa
+* ***Effekt***
+  * ofta lokalt
+  * systemiska effekter ovanliga men kan förekomma
+
+
+
+
+
+
+
+#### Shuntning
+
+***Portal-hypertension, tenta***
+
+* Med portal-hypertension, som föreligger vid levercirros, kommer blod att shuntas fr porta-kretsloppet 
+  * esofageala vener till vena cava
+  * bl.a.
+* Leder till att man shuntar blod förbi levern, varpå förstapassagemetabolism sjunker, därför ökad biotillgänglighet...
+* Förklarar varöfr man dosreducerar för patienter med morfin exempelvis, pga detta. 
+
+
+
+| <img src="./figs/sam16_SJ15z0goHW.png" alt=SJ15z0goHW style="zoom:80%"> |      |
+| ------------------------------------------------------------ | ---- |
+|                                                              |      |
+
+
+
+
+
 ### Effektlängd
 
 ***Presentation, tenta***
@@ -257,6 +372,19 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
     * ***Subkutant***: TTMK 2h, halveringstid 2h, BG 96%, MPD 72ng/mL
   * !! Vilka av dessa har den längsta effektlängden
     * Subkutana beredningformen: trots att halveringstiden är densamma, så kommer den ha den längsta effektlängden, för att den uppnår en högre MPD, detta i sin tur innebär att det kommer rent analytiskt längre för koncentrationen att sjunka under en given effektkoncentration (e.g. 0.1ng/mL), jämfört de andra beredningsformerna
+
+
+
+
+
+#### Förlänga effekter
+
+***Hur kan man förlänga effekter av givna farmaak***
+
+* ***Adrenalin***: blanda lokalanestetika med adrenalin leder till längre effekter (mindre resorption av molekylerna via krälbäddarna, pga vasokontraktil effekt av adrenalin)
+* ***Esterifiering av steroider***
+* ***Kristallisering***: e.g. skapa salter av farmaka, leder förlängd effekt
+* ***Solid pellets***: e.g. med östradiol. Absoroption är då proportionellt mot surface area av the pellet. 
 
 
 
@@ -288,6 +416,14 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
 
 
 **Underhållsdos:** detta är den dos som är lika med elimineringstakten vid steady     state, varav man bibehåller en konstant koncentration. 
+
+
+
+#### Faktorer som påverkar elimination
+
+***Ålder***
+
+* Stigande ålder försämras renala funktionen: leder till att man kan eliminera mindre av ett lkm (e.g. glukoronerat morfin) som i sin tur leder till att man ackumulerar en massa morfin etc. 
 
 
 
@@ -379,31 +515,227 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
 
 ## Läkemedel att kunna
 
-* **Karbamazepin**
-  * Interaktioner
-    * Trötthet, sedering, yrsel: zopiklon, oxazepam
-* **Antipsykotika**: 
-  * korttids och långtidsbiverkningar
-* ***Sertalin***
-  * interaktioner: ökar blödningsbenägenhet, mtp trombocyter där cytosolär serotonin sjunker, varpå försämrar trombocytaggregationsförmåga. 
-* ***Donapezil, kolinesterashämmare (demenslkm)***: 
-  * Interaktioner
-    * QT-förlängD: Tiazider, sertralin
-* ***Zopiklon***: GABA-agonist
-* ***Oxazepam***
-* ***Alfuzosin***:
-  * Interaktioner
-    * Hypotension, ortostatism: Enalapril-comp
-* ***ASA***: Trombyl, Bamyl
-  * Skillnaden mellan ASA (aspirin) och traditionella NSAIDs är att ASA har en längre 
-  * ***Farmakodynamiskt***: irreversibelt acetylerar COX1 och COX2. Alltså behöver trombocyten bytas ut för att man ska återfå effekt trombocytaggregation. Dock om man därför tar en balanserad daglig dos, kommer man att ha en effektiv anti-trombocytaggregerande effekt, som är hjälpsamt v.g. patienter med risk för arteriella trombembolier. 
-* ***NOAK***
-  * ***Apixaban***: eliquis, faktor Xa (10a) hämmare
-  * ***Rivaroxaban***: 
-  * ***Dabigatran***: faktor 2a hämmare, trombinhämmare (enbart aktiverade faktor2 molekyler)
-  * ***För analysmetoder***: se preklin>biokemi.md 
+**Karbamazepin**
+
+* Interaktioner
+  * Trötthet, sedering, yrsel: zopiklon, oxazepam
 
 
+
+**Antipsykotika**: 
+
+* korttids och långtidsbiverkningar
+
+
+
+***Sertalin***
+
+* interaktioner: ökar blödningsbenägenhet, mtp trombocyter där cytosolär serotonin sjunker, varpå försämrar trombocytaggregationsförmåga. 
+
+
+
+***Donapezil, kolinesterashämmare (demenslkm)***: 
+
+* Interaktioner
+  * QT-förlängD: Tiazider, sertralin
+
+
+
+***Zopiklon***: GABA-agonist
+
+
+
+***Oxazepam***
+
+
+
+***Flumazenil***
+
+* ***Kontraindikationer, många***: det föreligger ganska många kontraindikationer vad gäller flumazenil. 
+
+
+
+***Alfuzosin***:
+
+* Interaktioner
+  * Hypotension, ortostatism: Enalapril-comp
+
+
+
+***ASA***: Trombyl, Bamyl
+
+* Skillnaden mellan ASA (aspirin) och traditionella NSAIDs är att ASA har en längre 
+* ***Farmakodynamiskt***: irreversibelt acetylerar COX1 och COX2. Alltså behöver trombocyten bytas ut för att man ska återfå effekt trombocytaggregation. Dock om man därför tar en balanserad daglig dos, kommer man att ha en effektiv anti-trombocytaggregerande effekt, som är hjälpsamt v.g. patienter med risk för arteriella trombembolier. 
+
+
+
+***NOAK***
+
+* ***Apixaban***: eliquis, faktor Xa (10a) hämmare
+* ***Rivaroxaban***: 
+* ***Dabigatran***: faktor 2a hämmare, trombinhämmare (enbart aktiverade faktor2 molekyler)
+* ***För analysmetoder***: se preklin>biokemi.md 
+
+* ***Prednisolon***
+  * ***Dehydrering***: inte direkt kontraindik för att discontinue läkemedlet. E.g en pat med PMR som slutar ta detta kan leda till att man svårt reaktiverar sin PMR etc. 
+
+
+
+***ACE-H***
+
+* ***Dehydrering***: Är en kontraindik att fortsätta ta dessa, för att man kan orsaka en njursvikt. 
+
+
+
+***Kalcium + D-vit***
+
+* ***Dehydreing***: Är kontraindik, inte viktigt att tillfälligt ta bort dessa trots att det finns pågående glukokort beh hos e.g. en PMRare
+
+* 
+
+
+
+### Område
+
+#### Neuro
+
+***Epilepsi***
+
+1. Det finns fyra main anti-epileptiska preparat som vi ska kunna
+2. **Valproat (ergenyl)**
+   1. **Förstahandsbehandling:** för tonisk-kloniska anfall. 
+   2. **Kontraindicerad:** fertila kvinnor, gravida kvinnor
+3. **Lamotrigin**
+   1. **Indikationer:** för generella och fokala epileptiska anfall
+   2. **kontraindikationer**: 
+   3. **Notera:** kan     förvärra myoklonier
+4. **Levetiracetam (keppra)**
+   1. **Indikationer:** fokala (med eller utan generalisering) och     generella
+   2. ***Farmakodynamik***
+      1. Ej helt klarlagd verkningsmekanism
+      2. Hindrar presynaptiska vesikelprotein 2A, och därför hindrar vesikelfusion..
+   3. ***Anfallsskydd***
+5. **Karbamazepin (tegretol)**
+   1. **Kontraindikationer**: 
+      1. NOAK interaktioner, antikoag interaktioner
+      2. Påverkar lipidr för mkt
+   2. ***Farmakodynamik***
+      1. besläktat tricykliska antidepressiva.
+      2. ej helt klarlagd.
+      3. excitabilitets-minskning
+      4. synaptisk blockering gm hindra repet urladdning
+      5. minskar posttetanisk potentiering. 
+   3. Hindrar osså paroxysmala smärtatattacker hos trigeminusneuralgi
+
+### Dosering
+
+#### Morfin
+
+***Långtidsanvändning av morfin för smärtstillande***
+
+* ***Disponering av dosen på dygnet***
+  * Depåberedning på morgon och kväll
+  * !!! samt kortverkande 1/6 av dygnsdos vid behov
+
+
+
+## Läkemedelsjusteringar
+
+### Fall
+
+#### Fall 1 - dehydrering
+
+Bengt Andersson född 1943 har sjukdomarna polymyalgia reumatica (kortisonbehandlas, samt fick även zoledronsyrainfusion på vårdcentralen för 6 månader sedan), förmaksflimmer och tablettbehandlad hypertoni och hyperlipidemi. Bengt är välreglerad i sina sjukdomar med den aktuella medicineringen. Bengts hustru har nu kontaktat vårdcentralen. Bengt hade för 2 dagar sedan feber och kräkningar under ett dygn. Bengt är nu feberfri och kräks inte, men är illamående och har haft tre diarréer senaste dygnet. Sedan kräkningarna upphört har han kunnat dricka vatten och fått i sig lite soppa och te. Frun hade själv en gastroenterit för 3 dygn sedan, hon är nu återställd. 
+
+Igår kräktes Bengt upp medicin och då han fortfarande mår illa vill Bengt veta vilka mediciner han måste få i sig under den akuta magåkomman.
+
+
+
+* ***NOAK (apixaban/i.e. eliquis)***: ska inte sättas ut, risk för trombembolier, trots att pat är dehydrerad
+* ***ACE-h***: ska tillfället sättas ut, risk för njursvikt, får farligt lågt tryck om dåligt vätskeintag och feber. 
+* ***Statin***: Ska tillfället sättas ut, ingen allvarlig händelse om den kort sätts ut
+* ***Kalcium + vit-D***: ingen allvarlig händelse att kort stäta ut
+* ***Metoprolol***: Ja/nej för utsättning. Risk för frekvensstegring vid utsättning, reboundfenomen om plötsligt utsatt. Kan dock sättas ut tillfället pga BT sänkning
+
+
+
+
+
+#### Fall 2 - Hjärtsvikt
+
+
+
+Du läser på om din nästa patient, Tapio 76 år som är ensamboende i lägenhet, ingen hemtjänst.
+
+Tidigare/nuvarande sjukdomar Hypertoni sedan 2009. STEMI med PCI och stentinläggning på grund av LAD-stenos 2015. I samband med detta gjordes hjärt-eko som visade en måttligt nedsatt vänsterkammarfunktion (LVEF 42%). Han bedömdes ha lindrig hjärtsvikt, NYHA II, och insattes på ACE-hämmare. 
+
+Aktuella läkemedel
+
+Tablett Enalapril (ACE-hämmare) 40 mg 1+0+0+0
+
+Depottablett Metoprolol Teva (Betablockerare) 200 mg 1+0+0+0
+
+Tablett Furix (loopdiurtikum) 20 mg vid behov
+
+Tablett Atorvastatin (HMG-CoA-reduktashämmare) 20 mg 0+0+0+1
+
+Tablett Trombyl (acetylsalicylsyra, trombocytaggregationshämmare) 75 mg 1+0+0+0
+
+För 2 månader sedan kontaktade patienten vårdcentralen på grund av ökad andfåddhet och trötthet. Din kollega ordinerade prover och nytt hjärt-eko samt planerade för återbesök. Patienten har själv skjutit upp ekokardiografi och provtagning på grund av rädsla för covid-19 men har nu genomgått undersökningarna och kommer till dig i dag för uppföljning. 
+
+Svar ekokardiografi utförd 20-10-20
+
+Nedsatt systolisk vänsterkammarfunktion (LVEF<35%) utan signifikanta vitier. Nedsatt rörlighet över framväggen. 
+
+Lab, prover tagna 20-10-28
+
+Hb 137 g/L              (ref män 134–170 g/L)
+
+P-Na 142 mmol/L       (ref 137–145 mmol/L)
+
+P-K 3,5 mmol/L  (ref 3,5–4,4 mmol/l)
+
+S-Ferritin 270 mikrog/L ref      (30-350 mikrog/L)
+
+*NT-proBNP 2000 ng/L (ref <194 ng/L)
+
+*eGFR 54 mL/min/1,73 m2      (ref ≥51 år >60 mL/min/1,73 m2)
+
+EKG: LBBB i sinusrytm
+
+Aktuellt Patienten har fortsatt känt sig trött och andfådd och har även fått hosta på nätterna. Inga bröstsmärtor. 
+
+Status
+
+AT: Lätt andfådd vid gång i korridor. Diskreta bilaterala underbensödem av pittingtyp.
+
+Hjärta: Puls 70/ min, regelbunden rytm. Normala toner, inga biljud.
+
+Lungor: Vesikulära andningsljud, enstaka krepitationer basalt bilateralt. 
+
+BT: 135/78
+
+
+
+***Tillägg av vilket LKM indikerat***
+
+* Spironolakton
+
+
+
+***Kan pat använda ibuprofen***
+
+* Nej
+* Risker med COX-hämmare
+  * Försämrad njursvikt (notera sänkt eGFR)
+  * Försämrad hjärtsvikt: ökad RAAS...?
+  * Ökad blödningsrisk för att pat redan står på ASA
+  * Ökad ulcusrisk i kombination med ASA
+  * Risk utebliven effekt av ASA
+  * Hög ålder innebär en risk också
+* Från janusinfo
+  * Aspirin inhibits thrombocyte function by irreversibly blocking cyclooxygenase 1, while ibuprofen's binding to the enzyme only lasts for a few hours. In the presence of ibuprofen, inefficient binding of aspirin to cyclooxygenase could result in loss of long-term platelet inhibition.
+  * ***Rekommendation:*** Om ibuprofen används vid enstaka tillfällen bör acetylsalicylsyra tas 2 timmar före ibuprofen. Överväg behandling med paracetamol istället för ibuprofen om det finns behov av kontinuerlig smärtbehandling.
 
 
 

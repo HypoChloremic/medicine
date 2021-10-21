@@ -23,6 +23,31 @@ Knöl på halsen
 
 
 
+
+
+## Anafylaxi
+
+### Fall
+
+#### Fall 1
+
+Du ska nu ta bort ett nevus på en patient. Några minuter efter att du lagt infiltrationsanestesi på patienten märker du hur patienten blir kallsvettig och inte mår bra. 
+
+***Vilka symptom statusfynd motiverar behandling mot anafylaxi***
+
+* Heshet
+* Skällhosta
+* Sväljningsbesvär
+* Obstruktivitet
+
+
+
+***Vilket LKM är viktigast att ordinera vid anafylaxi och vilken dos***
+
+* Adrenalin, 0.3-0.5mg im
+
+
+
 ## B symptom
 
 ### Fall 1
@@ -155,4 +180,34 @@ Knöl på halsen
 * Exudativ perikardit: perikardtappning
 
 
+
+
+
+### Reyes syndrom
+
+***Etiologi***
+
+* Akut leversvikt + CNS uppsvällning
+* Ökad risk efter virala infektioner eller läkemedelsintag (inkl ASA)
+* Barn som återhämtar sig fr virala infektioner
+
+
+
+***Notera***
+
+* Barn med feber, uppmärksam mot ASA -> Reyes syndorm
+* ALLTSÅ -> rädd att ge ASA till barn som återhämtar sig fr en VIRAL infektion
+  * Ge aldrig ASA till barn
+  * Alternativet för febersänkning blir därför Paracetamol eller ibuprofen (NSAID) och inte salicylater
+
+
+
+***Kliniska kännetecken***
+
+* In Reye's syndrome, a child's blood sugar level typically drops while the levels of ammonia and acidity in his or her blood rise. At the same time, the liver may swell and develop fatty deposits. Swelling may also occur in the brain, which can cause seizures, convulsions or loss of consciousness.
+* The signs and symptoms of Reye's syndrome typically appear about three to five days after the onset of a viral infection, such as the flu (influenza) or chickenpox, or an upper respiratory infection, such as a cold.
+
+
+
+***Utredning och handläggning***
 

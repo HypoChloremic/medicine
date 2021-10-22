@@ -692,6 +692,8 @@ $$
 ***Kalciumrelaterade***
 
 * ***Frekvensreglerande***
+  * ***Atropin***
+  * ***Adenosine***
   * ***Kalciumantagonist, Verapamil***: 
     * kiralt fenyl-alkyl-aminderivat.
     * Påverkar spec kalciumkanaler membranöst

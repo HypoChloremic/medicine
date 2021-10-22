@@ -289,7 +289,11 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
   * hypertension
   * klaffsjd
   * hjärtsvikt
-  * 
+* ***Hemodynamiskt***
+  * ***Dålig förmakskontraktion***: diskoordinerad förmakskontraktion leder t att CO sjunker med 15%. 
+  * ***Speciellt ett problem med redan sänkt vänsterkammarfunktionspatienter***
+* ***Ärrbildning och skador i förmaken***: långt gången obehandlad FF leder t elektrofysiologiska o strukturella förändringar i förmaken som promotes fler AF. 
+* ***Stroke-risk***: 3x högre hos FF än normal. 
 
 
 
@@ -344,11 +348,43 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 ***Behandling***
 
+* ***På akuten***
+  *  Det viktigaste på akuten är att få kontroll på frekvens/och rytmen. 
+    * med eller utan antikoagulation
+  * ***Sänka frekvensen***: många hemodynamiska fördelar
+    * förbättrar slagvolymen (stroke volume)
+    * förvättrar CO
+  * ***Kontraindikationer för frekvenskontroll***
+    * Instabila patienter: ska få elkonvertering ist
+    * Preexcitation/WPW: elkonvertering eller farmakonvertering, ska inte få lkm som påverkar överledning över AV-nod för att annars promote accessory pathway att gå haywire. 
+* ***Frekvensreglering*** (!= rhythm control, som snackar mer om *sinusrytm* in place of att man har fucked förmaksaktivitet)
+  * ***Målsättning***
+    * Rate control is an integral part of AF management, and is often sufficient to improve AF-related symptoms. Very little robust evidence exists to inform the best type and intensity of rate control treatment. The optimal heart-rate target in AF patients is unclear. In the RACE (Race Control Efficacy in Permanent Atrial Fibrillation) II RCT of permanent AF patients, there was no difference in a composite of clinical events, New York Heart Association (NYHA) class, or hospitalizations between the strict [target heart rate <80 beats per minute (bpm) at rest and <110 bpm during moderate exercise] and lenient (heart-rate target <110 bpm) arm,487,488 similar to an analysis from the AFFIRM (Atrial Fibrillation Follow-up Investigation of Rhythm Management) and RACE trials.489 ***Therefore, lenient rate control is an acceptable initial approach, regardless of HF status (with the exception of tachycardia-induced cardiomyopathy), unless symptoms call for stricter rate control (Figure 13***).
+  * ***Första alternativen***
+    * ***Ablation***: Preexciterat förmaksflimmer eller förmaksfladder
+    * ***NDCC***: KOL, asmatiker
+    * ***Beta-block***: HFrEF
+    * ***Beta-block eller NDCC***: HFpEF, eller inga komorbiditeter, eller högt BT
+  * ***Tillägg vid utebliven effekt*** 
+    * Tillägg Digoxin, betablock, eller NDCC
+  * ***Utebliven effekt***
+    * Tillägg amiodaron om HFrEF
+  * ***Utebliven effekt till slut***
+    * CRT-P, CRT-D
+    * eller pacemaker och atrioventrikulär nodal nod ablation
+  * ! ***Sammanfattning***: verkar som att man behöver gå igm en del farmaka innan man sätter pacemaker. 
+
+
+
+NDCC: non-dihydropyridine calciumchannel blocker (e.g. verapamil är detta, till sk fr amlodipin..)
+
+| <img src="./figs/sam20_Qn3FGc3TCR.png" alt=Qn3FGc3TCR >      | <img src="./figs/sam20_oouvAQqflc.png" alt=oouvAQqflc style="zoom:100%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="./figs/sam20_HZMdW9JzAx.png" alt=HZMdW9JzAx style="zoom:50%"> |                                                              |
 
 
 
 
-<img src="./figs/sam20_Qn3FGc3TCR.png" alt=Qn3FGc3TCR >
 
 
 
@@ -466,7 +502,29 @@ Förändringar t lkm lista:
 
 
 
-### Kammartakykardier
+### Kammartaky
+
+
+
+### Supraventrikulär takykardi
+
+***Presentation***
+
+* 25åå man
+  * inkommer pga palpitationer och hjärtrusning i vila titta på TV
+  * enl ABCDE
+  * Ett tydligt C problem: 190HF, RR, EKG visar SVT, BT 80/50.
+
+
+
+***Differentialdiagnoser***
+
+* Sinus taky
+* Förmakstaky
+* AVNRT: AV-nod reentry takykardi
+* AVRT: AV-reentrant taky
+* Junctional taky
+* Förmaksflimmer/fladder
 
 
 
@@ -766,9 +824,9 @@ Förändringar t lkm lista:
 
 ## Bröstsmärta
 
+### AKS
 
-
-### Hjärtinfarkt
+#### Hjärtinfarkt
 
 
 
@@ -806,17 +864,86 @@ Förändringar t lkm lista:
 
 
 
+***Behandling***
+
+* ***Laddningsdoser***
+  * ASA 500mg
+  * Brilique 180mg
+  * nitro vb
+  * morfin vb
+  * betblockad inj (omvärderas: kontraindik inkl AV2-AV3-block, bradyarrytmier, svår hjärtsvikt)
+* ***PCI inom 2h möjligt***
+  * ladda heparin + GP2b/3a hämmare
+  * transportera direkt t PCI-labb.
+* ***PCI ej möjligt inom 2h***:
+  * Omedelbar trombolytisk behandling (inom 30 min) övervägs till patienter inom 12 tim symptomdebut och där tid från reperfusionsgrundande EKG till sjukhus med beredskap för primär PCI förväntas överstiga 2 tim
+  * ***trombolytika*** iv: alteplase, tenecteplase, reteplase
+  * ***tilläggsbeh***: ASA + klopidogrel
+  * ***Efter trombolys fram till cor-angio el PCI***: låg-molek heparin
+  * alla pat cor-angio 3-24h fr trombolys
+* ***enl SVKF***: https://www.sls.se/globalassets/svkf/aks-rekommendationer-svkf.pdf
+  * UNDER cor-angio o PCI
+    * Bivalirudin (Angiox): bolusdos efterföljt av infusion under hela ingreppet. Infusionen kan fortsättas i upp till 4 tim efter PCI (exempelvis vid stor trombbörda). eller
+    * Heparin monoterapi (70–100 E/kg kroppsvikt)
+    * Glycoprotein IIb/IIIa-hämmare (Integrilin, Reopro, Aggrastat) kan övervägas i kombination med heparin till patienter med stor hjärtinfarkt och kort symtomduration (<2 tim) vid låg blödningsrisk eller som bail-out vid otillräcklig effekt av bivalirudin/heparin.
+
+| <img src="./figs/sam20_Hf2ycKmw59.png" alt=Hf2ycKmw59 > | <img src="./figs/sam20_Y1qHF23S7I.png" alt=Y1qHF23S7I style="zoom: 80%;"> |
+| ------------------------------------------------------- | ------------------------------------------------------------ |
+|                                                         |                                                              |
 
 
 
-
-<img src="./figs/sam20_Y1qHF23S7I.png" alt=Y1qHF23S7I style="zoom: 80%;">
-
+#### Non-ST elevation AKS
 
 
-### Instabil angina
 
-#### Allmänt
+! ***Handläggning***
+
+* ***Akut handläggning***
+  * EKG: visar T-negativiseringar, pressade ST-sträckor etc
+  * ***Laddar***
+    * ***ASA 500mg***: tuggar på tabletterna för snabbt upptag
+    * ***Ticagrelor 180mg*** (brilique, ADP-rec hämmare): för extra trombocythämning, svälja dessa (eller krossas blanda vatten)
+    * ***Arixtra inj***: vid diagnos, när man inte planerar PCI eller cor-angio närmsta tiden. 
+    * morfin vb
+    * nitro vb
+    * betablockad inj (utefter kontraindik: AV2-AV3 block, bradyarrytm)
+* ***Långtidsbehandling***
+  * ***Take-home messages***
+    * ***Dubbel trombocythämning 12 månader*** (om ingen blödningsrisk)
+    * ***Förmaksflimmer***: tillåtet trippelbehandling närmsta 12 mån (utefter blödningsrisk)
+    * ***Statiner***: livslångt
+    * ***Nitroglycerin***: puffar, vb, symptomatiskt
+    * ***Betablockad***: gradvis upptitering, för alla
+    * ***RAAS-blockad***: ace-h, ARB
+    * ***MR-hämmare***: spironolakton beroende på HFrEF
+    * ***Furix***: om hjärtsvikt o ödem
+    * ***EKO***
+  * ***Allmänt fr Sveriges Kardiolog Förbund SVKF 2015***: https://www.sls.se/globalassets/svkf/aks-rekommendationer-svkf.pdf
+    * Tabl ASA (acetylsalicylsyra) 75 mg x 1 långtidsbehandling
+    * Tabl ticagrelor 90 mg 1x2 eller prasugrel 10 mg 1x1 (för riskpopulationer ges 5 mg 1x1). Behandlingsduration vanligtvis 12 månader vid AKS men kan kortas ned vid hög blödningsrisk. Överväg protonpumpshämmare (omeprazol) till pat med ökad risk för gastrointestinal blödning.
+    * Peroral antikoagulation bör ges till patienter med samtidigt förmaksflimmer.
+    * Trippelbehandling. Vid indikation för oral antikoagulantiabehandling och samtidig indikation för dubbel trombocythämning efter genomgången AKS kan så kallad trippelbehandling övervägas. Viss klinisk erfarenhet finns för kombinationsbehandling med warfarin, ASA och clopidogrel. Evidens saknas dock för kombinationsbehandling med antikoagulantia (gäller både warfarin och NOAC) och ticagrelor/ prasugrel med eller utan ASA. Individuell bedömning av risken för trombos mot risken för blödning måste göras. Vid högre blödningsrisk bör trippelbehandlingens duration förkortas till förslagsvis 1–3 mån.
+    * Kortare tids behandling med peroral antikoagulation kan övervägas till patienter med stora framväggsinfarkter oavsett flimmerförekomst, där man bedömer att patienten löper hög risk för kardiell emboli. Det vetenskapliga underlaget för detta är dock svagt.
+    * Betablockerare. För iv behandling, se sid 5. Eftersträva gradvis upptitrering. För hastig upptitrering kan förvärra/utlösa hjärtsvikt. Bör ej ges vid AV-block II/III, bradykardi, hypotoni (systoliskt BT<100 mmHg) eller obehandlad hjärtsvikt. Försiktighet bör iakttas vid uttalad obstruktiv lungsjukdom samt i akutskedet av en inferior hjärtinfarkt. Lämplig startdos är beroende av blodtryck, puls och sviktsymtom men hos ”stabil” patient kan kortverkande tablett metoprolol (Seloken) 50 mg 0,5x2–3 ges i anslutning till hospitaliseringen och vid uteblivna biverkningar därefter skiftas till långtidsverkande tablett metoprolol 50–100 mg (om osäkerhet om tolerabiliteten ges lägre) Fortsatt upptitrering kan ske polikliniskt.
+    * Potent statin t ex atorvastatin 40–80 mg till samtliga pat med verifierad kranskärlssjukdom. Individuell bedömning hos pat > 80 år, underviktiga, njursvikt eller interagerande läkemedel.
+    * RAS-blockad där ACE-hämmare är förstahandsval och ARB (angiotensinreceptorblockerare) vid ACE-hämmarintolerans: ges speciellt vid nedsatt vänsterkammarfunktion (EF <40 %), vänsterkammarhypertrofi, hypertoni, diabetes mellitus, mikroalbuminuri och njursvikt. Låg startdos (ex ramipril 1,25 mg 1x2 eller enalapril 2,5 mg 1x2 med gradvis upptitrering).
+    * Aldosteronhämmare (spironolakton eller epleronon, startdos 25 mg för bägge preparaten med måldos 50 mg för eplerenon och 25–50 mg för spironolakton): ges vid nedsatt vänsterkammarfunktion (EF <40 %).
+    * Kortverkande nitroglycerin: till alla patienter.
+    * Vid tecken på hjärtsvikt med lungödem/lungstas bör furosemid iv ges (lämplig startdos 40–80 mg iv, dosering beroende på njurfunktion). Kan upprepas. Vid fortsatta sviktsymtom rekommenderas tillägg av CPAP. Vid samtidigt stegrat pCO2 rekommenderas istället BiPAP. Om patientens blodtryck tillåter kan vid utebliven/dålig effekt nitroglycerininfusion påbörjas. Om patientens hjärtsvikt trots ovan åtgärder inte kan hävas bör inotrop behandling övervägas och kontakt tas med tertiär kardiologklinik eller intensivvårdsavdelning i tidigt skede för diskussion om övertag.
+    * Ekokardiografisk undersökning bör utföras på alla patienter under vårdtiden.
+
+
+
+| <img src="./figs/sam20_UA08W2guNj.png" alt=UA08W2guNj style="zoom: 150%;"> |      |
+| ------------------------------------------------------------ | ---- |
+|                                                              |      |
+
+
+
+##### Instabil angina
+
+###### Allmänt
 
 ***Definition***
 
@@ -828,7 +955,21 @@ Förändringar t lkm lista:
     * mer långdragna
     * svar sämre på nitro
     * uppträder i vila
-  * **Lättutlöst angina pectoris** de förstra 4v efter akut hjärtinfarkt. 
+  * **Lättutlöst angina pectoris** de första 4v efter akut hjärtinfarkt. 
+* ***Enligt ESC guidelines 2021***
+  * Defined as myocardial ischemia at rest or on minimal exertion
+  * in the absence of myocardial injury or necrosis
+  * Compared with NSTEMI patients, individuals with unstable angina do not experience acute cardiomyocyte injury/necrosis, have a substantially lower risk of death, and appear to derive less benefit from intensified antiplatelet therapy, as well as an invasive strategy within 72 h
+* ***SAMMANFATTNING***
+  * ***NOTERA***: all nydebuterad angina BEHÖVER INTE vara instabil angina
+  * ***Instabil angina definieras som***
+    * myokardischemi utan myokardskada (i.e. man ser inget på troponinerna)
+    * exemplifieras av 
+      * viloangina
+      * angina som kommer efter väldigt lätt ansträngning
+      * angina som har blivit mer lättutlöst
+      * angina med matätning
+      * angina som förvärrats de senaste 4 veckorna
 
 
 
@@ -846,6 +987,10 @@ Förändringar t lkm lista:
 ***Utredning och handläggning***
 
 * Akut remiss till sjukhus för dessa patienter
+
+##### NSTEMI
+
+***Definition***
 
 
 
@@ -1882,8 +2027,9 @@ Förändringar t lkm lista:
 
 
 
-| <img src="./figs/sam12_IhN0VHwc9d.png" alt=IhN0VHwc9d style="zoom: 67%;"> | <img src="./figs/sam12_LFHghFRWRQ.png" alt=LFHghFRWRQ style="zoom: 67%;"> |      |
+| <img src="./figs/sam20_E9Qqez1fDr.png" alt=E9Qqez1fDr style="zoom:50%"> |                                                              |      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| <img src="./figs/sam12_IhN0VHwc9d.png" alt=IhN0VHwc9d style="zoom: 67%;"> | <img src="./figs/sam12_LFHghFRWRQ.png" alt=LFHghFRWRQ style="zoom: 67%;"> |      |
 |                                                              | ![image-20211015205649617](C:\Users\Ali\AppData\Roaming\Typora\typora-user-images\image-20211015205649617.png) |      |
 
 

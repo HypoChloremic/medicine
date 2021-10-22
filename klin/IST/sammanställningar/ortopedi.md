@@ -12,19 +12,45 @@
 
 
 
+## Allmänt
+
+### Nervstatus
+
+<img src="./figs/sam20_ylRlLjMDuI.png" alt=ylRlLjMDuI style="zoom:50%">
+
+
+
+### Inför IST
+
+***Enl wilhel***
+
+* ***Anamnes***
+  * I den ordningen
+    * När - Var – Hur - Vem?
+    * Trauma/energi?
+    * Smärtans karaktär ?
+    * Relevanta kodfrågor för differentialdiagnoser – uteslut farligt/allvarligt
+* Status
+  * I den ordningen: Inspektion, motorik, palpation, specifika test & distalstatus
+
 ## Axel
 
 ### Fysiologi biomek
 
 ***Biomekanism modell***
 
-| <img src="./figs/sam14_ryuMM2tr0u.png" alt=ryuMM2tr0u style="zoom:50%"> |      |
-| ------------------------------------------------------------ | ---- |
-|                                                              |      |
+| <img src="./figs/sam14_ryuMM2tr0u.png" alt=ryuMM2tr0u style="zoom:50%"> | <img src="./figs/sam20_uqoBMl7pW1.png" alt=uqoBMl7pW1 style="zoom:50%"><br> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              | <img src="./figs/sam20_X94IgsRN1d.png" alt=X94IgsRN1d style="zoom:30%"><br>Sättet man ska titta på detta är just att det är framifrån. <br>Detta är ***pats högra axel framifrån*** <br>alltså att fingrarna är the actual muscles och hanflatan skapula <br>teresminor + infraspin -> utåtrot. Supraspin -> abduktion, <br>subscapularis inåtrotation |
 
 
 
+***Rörelser***
 
+* TISS är nedifrån upp (man ser hur musklerna fäster på humerushuvudet)
+* Teres minor + infraspinatus = Utåtrotation (precis som det skulle vara med )
+* Supraspinatus  = abduktion
+* Subscapularis = inåtrotation. 
 
 ### Frozen shoulder
 
@@ -244,12 +270,12 @@ Omedelbart fortsatt åtg
   * Nerv
     * reflexer,
     * sensibilitet, beröring
-  * Ryggstatus
+  * ***Ryggstatus***
     * insp
     * palp
     * ROM
     * SLR
-  * Höfter
+  * ***Höfter***
     * inspektion,
     * gång
     * ROM
@@ -351,6 +377,7 @@ Omedelbart fortsatt åtg
       1. basalt i tumgrepp
       2. radialt i carpus	
    2. smärtorna ger försvagat  handgrepp
+   3. Försvagat tum/pekfinger 
 
 
 
@@ -364,38 +391,41 @@ Omedelbart fortsatt åtg
 
 
 
-**Undersökning**
+**Utrednig**
 
-1. ***OK sign***: nedsatt kraft i tum-pekfingar grepp (ok sign) pga smärta
-2. **palpation**: direkt ömhet över CMC1
-3. **indirekt smärta**: gm tar tag i tumme, försiktigt komprimerar och roterar mot karpus.
-4. Slät-rtg: bekräftar diagnos
+1. ***Enl wilhel***
+   1. Adduktionskontraktur (se bilderna nedan)
+   2. Protruderande CMC1
+   3. lokal + kompressionsömhet i tumbas
+   4. Rtg-utredning
+2. ***OK sign***: nedsatt kraft i tum-pekfingar grepp (ok sign) pga smärta
+3. **palpation**: direkt ömhet över CMC1
+4. **indirekt smärta**: gm tar tag i tumme, försiktigt komprimerar och roterar mot karpus.
+5. Slät-rtg: bekräftar diagnos
 
 
 
 **Behandling**
 
- 1. **Konservativ**
-       1. Adduktionsskena, att tummen ut fr handflatan
-       1. Utbildning i tekniken att sätta detta
- 1. **NSAID + Paracetamol**
-      2. **op i senare skede**
-      3. **fysioterapi: att man får splint. förhoppningsvis       fångas dessa patienter tidigare och får detta tidigt.** 
-
-         4. kan börja med att ge intraartikulär steroider kortisoninjektion
-      
+  1. Enl wilhel
+         1. **Konservativ**
+              1. Adduktionsskena, att tummen ut fr handflatan
+              1. Utbildning i tekniken att sätta detta
+              1. Steroidinjetktion
+        2. **Kirurgiskt**
+            7. invalidiserande  smärtor: extirpation av trapezium och stabilisera led
+              8. **resektion av trapezium**
+              9. ibland att man rekonstruerar tendon och mjukdelar, men ingen stark evidens för detta. 
+              10. sällan implanteras endoprotes
+              11. Ersättnng med palmaris longus, spacer
+              12. Artodes: ett alternativ
+  2. **NSAID + Paracetamol**
+    2. **op i senare skede**
+    3. **fysioterapi: att man får splint. förhoppningsvis       fångas dessa patienter tidigare och får detta tidigt.** 
+       4. kan börja med att ge intraartikulär steroider kortisoninjektion
+       
     3. **ortos**  vid ansträngning kan mga pat bli glada över
           1. **abduktionsskena el ortos**
-
-4. **Kirurgiskt**
-     7. invalidiserande  smärtor: extirpation av trapezium och stabilisera led
-       8. **resektion av trapezium**
-       9. ibland att man rekonstruerar tendon och mjukdelar, men ingen stark evidens för detta. 
-       10. sällan implanteras endoprotes
-       11. Ersättnng med palmaris longus, spacer
-       12. Artodes: ett alternativ
-
-
 
 
 
@@ -411,7 +441,7 @@ Omedelbart fortsatt åtg
 
 ***Etiologi***
 
-* 1:a dorsala senfacket
+* 1:a dorsala senfacket: snickeri, trädgårdsarbete, målarbete
   * abduktor pollucis longus
   * Extensor pollicis brevis
 * Tenosynovit
@@ -425,34 +455,35 @@ Omedelbart fortsatt åtg
 
 **Kliniska kännetecken**
 
-1. smärta  radialt handled: lokal palpömhet
+1. smärta radialt handled: lokal palpömhet
 2. exacerberas med användning av tummen
+3. värk kring processus styloideus radii, vid handledsrörelser, ffa ulnardeviation
 
 
 
 **Utredning**
 
-1. **Finkelstein test:** 
-
-2. 1. ulnar  devition of fisted hand, producerar smärta (radiellt)
+1. enl wilhel
+   1. Lokal palpömhet, smärta passiv ulnardeviation
+   2. **Finkelstein test:** 
+      2. ulnar  devition of fisted hand, producerar smärta (radiellt)
 
  
 
 **Behandling**
 
-1. NSAID,
+1. Enl wilhel
+   1. NSAID,
+   2. **Konservativt**
+      1. i 7-10d
+         1. vila
+         2. ortos
+         3. eller gips
+   3. steroidinjektion om      långdraget förlopp: utbildad i detta, annars nål i sena som sen kan atrofiera
+   4. **operation**
 
-2. **Konservativt**
-
-   1. i 7-10d
-      1. vila
-      2. ortos
-      3. eller gips
-3. steroidinjektion om      långdraget förlopp: utbildad i detta, annars nål i sena som sen kan atrofiera
-4. **operation**
-
-   1. delning 1a      dorsala senfacket 
-   2. senare skede
+      1. delning 1a      dorsala senfacket 
+      2. senare skede
 
 | <img src="./figs/sam18_wEG0iADVbS.png" alt=wEG0iADVbS style="zoom:50%"> | <img src="./figs/sam18_Do7HTj01am.png" alt=Do7HTj01am style="zoom:35%"> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -466,40 +497,51 @@ Omedelbart fortsatt åtg
 
 #### Karpaltunnelsyndrom
 
-
-
 ***Etiologi***
 
-* Ökad vävnadsvolym
-* Vätskeretention
-* radiusfraktur, SMITH
-* Bldöning, ganglion, DM
-* anormal muskelbuk
-* synovit
-* kvinnor > män, 40-60år
+* enl wilhel
+  * Ökad vävnadsvolym
+  * Vätskeretention
+  * radiusfraktur, SMITH
+  * Bldöning, ganglion, DM
+  * anormal muskelbuk
+  * synovit
+  * kvinnor > män, 40-60år
+
+
+
+***Kliniska kännetecken***
+
+* Enl wilhel
+  * nattliga parestesier
+  * domningar enl n medianus
+  * fumlighet
+  * nedsatt kraft
 
 
 
 ***Utredning o handläggning***
 
-* Status
-  * Inspektion
-  * Rörlighet
-  * Spec test: 2PD, tinel, Phalens
-  * Palpation över karpalligament: upplevd smärta o parestesier
-* Vissa fall kan det finnas anledning vidare utredning EMB ENG
-  * Bakomliggande sjd: diabetes, där osäkerhet om grundsjd eller riktigt karpaltunnelsyndrom
+* Enl Wilhel
+  * ***Status***
+    * Inspektion
+    * Rörlighet
+    * Spec test: 2PD, tinel, Phalens
+    * Palpation över karpalligament: upplevd smärta o parestesier
+  * ***Vissa fall kan det finnas anledning vidare utredning EMB ENG***
+    * Bakomliggande sjd: diabetes, där osäkerhet om grundsjd eller riktigt karpaltunnelsyndrom
 
 
 
 ***Behandling***
 
-* Börjar alltid icke kirurgiskt
-  * Ortos: extension i handled
-  * !! ***arbetsterapeut*** remiss
-* Prövbehandling NSAID (kloka listan)
-* Överväga steroidinjektion: koll på tekniken
-* Kirurgi: sista hand, klyver karpaltunneln
+* Enl wilhel
+  * Börjar alltid icke kirurgiskt
+    * Ortos: extension i handled
+    * !! ***arbetsterapeut*** remiss
+  * Prövbehandling NSAID (kloka listan)
+  * Överväga steroidinjektion: koll på tekniken
+  * Kirurgi: sista hand, klyver karpaltunneln
 
 
 
@@ -556,50 +598,44 @@ Omedelbart fortsatt åtg
 
 <img src="./figs/sam18_FknVKrJooh.png" alt=FknVKrJooh style="zoom:50%">
 
-
-
-
-
-#### Hög/proximal ulnaris kompression
+##### Hög/proximal ulnaris kompression
 
 ***Etiologi***
 
-* ***Kompression*** av n ulnaris bakom mediala humerusepikondylen
-* ***Etiologiskt***: kan komma fr nervrotsnivå !! 
-  * ***Yttre trauma***: direkt eller tension
-  * ***Okänd***
-
-
-
-***Kliniska kännetecken***
-
-* ***Parestesier och domningar*** 
-  * volart dig 4 + dig 5 (ring o lillfinger)
-  * ***!! OCH ulnart handryggen***
-* ***Smätra***
-* ***Svaga interosseer***
-* ***Svag flexor dig profundus dig 5***
+* enl wilhel
+  * ***Kompression*** av n ulnaris bakom mediala humerusepikondylen
+  * ***Etiologiskt***: kan komma fr nervrotsnivå !! 
+    * ***Yttre trauma***: direkt eller tension
+    * ***Okänd***
 
 
 
 ***Utredning***
 
-* Status
-  * nedsatt sensorik o kraft enl nervus ulnaris
-  * positiv tinel i armbåge
+* enl wilhel
+  * Status
+    * nedsatt sensorik o kraft enl nervus ulnaris
+    * positiv tinel i armbåge
+    * ***Parestesier och domningar*** 
+      * volart dig 4 + dig 5 (ring o lillfinger)
+      * ***!! OCH ulnart handryggen***
+    * ***Smärta***
+    * ***Svaga interosseer***: abduktion adduktion av fingrar, 
+    * ***Svag flexor dig profundus dig 5***
 
 
 
 ***Behandling***
 
-* ***Nattskena runt armbåge***
-  * strävar efter lätt flektion
-* ***Kirurgiskt***: konservativt fungerar inte
-  * Nervolys, där man befriar nerven, öppnar upp den, så att den får fritt spelrum
+* enl wilhel
+  * ***Nattskena runt armbåge***
+    * strävar efter lätt flektion
+  * ***Kirurgiskt***: konservativt fungerar inte
+    * Nervolys, där man befriar nerven, öppnar upp den, så att den får fritt spelrum
 
 
 
-
+<img src="./figs/sam18_FknVKrJooh.png" alt=FknVKrJooh style="zoom:50%">
 
 #### Fall 1
 
@@ -747,9 +783,9 @@ Omedelbart fortsatt åtg
 
 * https://lakartidningen.se/klinik-och-vetenskap-1/artiklar-1/klinisk-oversikt/2019/06/diagnostik-och-behandling-av-akuta-skafoideumfrakturer/
 
-| <img src="./figs/sam18_feL2h8JYwf.png" alt=feL2h8JYwf style="zoom:50%"> | <img src="./figs/sam18_SfNA6xmPZc.png" alt=SfNA6xmPZc > |
-| ------------------------------------------------------------ | ------------------------------------------------------- |
-|                                                              |                                                         |
+| <img src="./figs/sam18_feL2h8JYwf.png" alt=feL2h8JYwf style="zoom:50%"> | <img src="./figs/sam18_SfNA6xmPZc.png" alt=SfNA6xmPZc >      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              | <img src="./figs/sam20_jhe9DydmfA.png" alt=jhe9DydmfA style="zoom:50%"> |
 
 
 
@@ -939,7 +975,7 @@ Omedelbart fortsatt åtg
 
 1. 38åå man
 
-2. 1. ramlat skidbacke
+   1. ramlat skidbacke
    2. stab i hand när tog emot i snö
    3. värk över ena tumme
    4. smärtar när rör
@@ -955,11 +991,11 @@ Omedelbart fortsatt åtg
 
 3. basic principle, 
 
-4. 1. if extraartikulär ligament and gets rupture -> bleeding and hematome -> then they have tendons to heal, same for ligament and tendon.
+   1. if extraartikulär ligament and gets rupture -> bleeding and hematome -> then they have tendons to heal, same for ligament and tendon.
 
-5. why UCL gets sututes, 
+4. why UCL gets sututes, 
 
-6. 1. cuz if it is ruptured, 
+   1. cuz if it is ruptured, 
    2. then the end of the UCL  ligament will leave on upper fascia neurosis, 
    3. the two ends cannot overlap  on each other. 
    4. the tendon of **musculuaris adductor pollusis**  gets in between. 
@@ -970,60 +1006,55 @@ Omedelbart fortsatt åtg
 **Handläggning**
 
 1. **distalstatus av hand**
-
-2. **Status av UCL**: jämför med andra sidan
-
-3. 1. **fixera första metacarpalen med ena handen**
-
+2. ***enl Wilhel***
+   1. MP1 (INTE MCP1 utan MP (mellan metacarpalbenet o proximala phalangen):
+      * Svullen + ömhet
+   2. Radialvackling
+   3. RTG för utesluta fraktur (avulsionsfraktur)
+3. **Status av UCL**: jämför med andra sidan
+   1. **fixera första metacarpalen med ena handen**
    2. **andra handen hålla i proximala phalangen och radiellt deviera      den,** 
 
    3. **om över 45 grader, indikerar skadad UCL**
 
    4. **Total ruptur**
 
-   5. 1. att       distala ligament fästet lossnar
+      1. att       distala ligament fästet lossnar
       2. ledbandet viks proximalt
       3. gör att ändarna ligger isär
       4. andra mjukdelar       interponerar och skadan kan inte läka utan operation
-
 4. **röntgen, utesluta fraktur**
-
 5. smärtlindring, högläge, 
-
 6. fixation 
 
-7. 1. el-linda eller
+   1. el-linda eller
    2. ortos eller
    3. gips
-
-8. försiktighet
-
-9. remiss ortoped hemort, för     uppfölj o evt operation
-
-10. **skada ej akut att behöva avbryta resa**
+7. försiktighet
+8. remiss ortoped hemort, för     uppfölj o evt operation
+9. **skada ej akut att behöva avbryta resa**
 
  
 
 **Behandling**
 
-1. **Konservativt**
+1. ***Enl wilhel***
+   1. instab vid radialvackling: operation + gips/ortos i 6v
+   2. artodes: äldre obehandlade skador
+2. **Konservativt**
+3. Fixation 
+   1. **Thumb-spica splint**
+   2. el-linda eller
+   3. ortos eller
+   4. gips
+4. Operativt
 
-2. 1. Fixation 
-
-   2. 1. **Thumb-spica splint**
-      2. el-linda eller
-      3. ortos eller
-      4. gips
-
-3. Operativt
-
-4. 1. syr ledbandet på plats
-
+   1. syr ledbandet på plats
    2. gips 5 veckor
 
    3. **Artodens indikation**
 
-   4. 1. om ingen förbättring av ovan operation, gör man steloperation
+      1. om ingen förbättring av ovan operation, gör man steloperation
 
 
 
@@ -1045,7 +1076,7 @@ Omedelbart fortsatt åtg
 
 | <img src="./figs/sam18_vK0NAsnIZg.png" alt=vK0NAsnIZg style="zoom: 150%;"> | <img src="./figs/sam18_EQpVq6rLMo.png" alt=EQpVq6rLMo style="zoom: 150%;"> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
+| <img src="./figs/sam20_bPYxwDHrFX.png" alt=bPYxwDHrFX style="zoom:50%"> |                                                              |
 
 
 

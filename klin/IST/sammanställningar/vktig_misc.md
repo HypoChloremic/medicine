@@ -346,7 +346,7 @@ Typisk erytrocytindex o utseende vid följande tillstånd
 
 ### Vätskor
 
-| <img src="./figs/sam16_4Zm3qpGg3Y.png" alt=4Zm3qpGg3Y style="zoom:30%"> | <img src="./figs/sam16_UnIX0CmvjU.png" alt=UnIX0CmvjU style="zoom:50%"> |
+| <img src="./figs/sam16_4Zm3qpGg3Y.png" alt=4Zm3qpGg3Y style="zoom: 80%;"> | <img src="./figs/sam16_UnIX0CmvjU.png" alt=UnIX0CmvjU style="zoom:50%"> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | <img src="./figs/sam16_dXlhv0zEY3.png" alt=dXlhv0zEY3 style="zoom:40%"> | <img src="./figs/sam16_ktn5GINfD2.png" alt=ktn5GINfD2 style="zoom:50%"> |
 | <img src="./figs/sam16_bX0yUyJP90.png" alt=bX0yUyJP90 style="zoom:50%"> | <img src="./figs/sam16_vPRmRDG5VJ.png" alt=vPRmRDG5VJ style="zoom:50%"> |
@@ -655,6 +655,7 @@ HUSKE
 ### Hjärta
 
 * Instabil angina som får högersidigt skänkelblock under arbetsprov: inte direkt PCI, utan läggs in på HIA, med PCI beredskap.
+  * nytillkommet LBBB är akut PCI generellt
 * Vilka situationer direkt indikation for PCI utöver STEMI
   * NSTEMI och instabil angina? 
   * Finns det ingen situation med NSTEMI och angina att man skickar på PCI direkt
@@ -664,6 +665,25 @@ HUSKE
 * Fysiology bakom bröstkompressioner (chest compressions) under HLR
   * The Cardiac Pump Model – describes direct compression of the heart between the sternum and the vertebral body leading to blood being squeezed out of the heart with compression and fresh blood entering the heart during recoil. This no doubt occurs but is likely to be less important overall than the Thoracic Pump Model.
   * !! Thoracic Pump Model – where thoracic pressure changes themselves are responsible for blood flow being generated during CCC
+* Skillnad amlodipin och verapamil (se farmaka.md)
+* Var används verapamil? (se farmaka.md)
+* Vilka inkluderas i NDCC, non-dihydropyridin calcium channel blockers
+* Vad är farmakodynamik av amlodipin (HINT dihydropyr)
+* Vem ger man rytmkontrollerand farmaka till hos förmaksflimmer
+* När sätter man in en pacemaker på FF patienter?
+* När kör man med elkonvertering på FF patienter?
+* Hur behandlar du ett akut hjärtvikt
+  * högt BT
+  * Normalt bt
+  * Lågt BT
+* Vad händer hemodynamiskt med CO vid FF? det räcker inte med bara icke-samordnade rörelser och oregelbundenhet, det finns en specifik del av hjärtat som måste bidra som inte gör det vid FF, vilken och hur mkt påverkas?
+* Hur handlägger du instabil SVT vs stabil SVT på akuten?
+* Frekvenssänkande åtgärder inkluderar vad?                            (valsalva, adenosine, B-block, kalciumkanal block)
+* När använderu frekvensreglerande på QRS-smala takykardier? (förmakstaky kalciumhämmare kan indik e.g. verapamil etc)
+* När adenosin och när atropin
+* Hur handläggeru en VT som successfully konverterats på akuten?                                (hitta underliggande orsak o behandla d)
+* Är hålla andan efter expirium AV-blockerande?                                             (svaret är icke; fattar ej fysiologin dock)
+* Vad är viktigt att titta på hos en pat med dyspne?                                           (inspek nagelbäddar)
 
 
 
@@ -724,6 +744,30 @@ HUSKE
 * Riskfaktorer för gikt: inkluderar all diuretika (att man får modda diuretika dosen uutefter giktattacker). 
 
 
+
+
+
+### Ortopedi
+
+* SSIT
+  * Supraspin abduktion 
+  * Subscap inwards rot 
+  * infraspin och teres minor extern rot
+* Vilka undersöknignar för scaph fraktur misstanke
+* Pat kmmer t VC med scaph fraktur, hur handläggeru? (kmr att oavsett skicka pat t akuten, för att han kmr behöva oavsett rtg svar ett gips. Om neg rtg remiss för MR inom 5 dagar för att sedan sätta ett dorsalt gips, kommer att vara ganska länge)
+* Vad gör interosseerna och vad försörjer de
+* vad är skillnaden mellan en proximal ulnariskompression och en de guyon?              (rörlighet i DIP lederna, samt sensorik handens rygg är beroende av proximala ulnaris i.e. vid armbågen) 
+* Vilket sign kan användas på cmc1 artros?                              (OK-sign)
+* Vilket ben är metacarpalben 1 fäst vid?                           
+* När använder man steroider på ryggbesvär?
+* Hur handlägger man en myelopati?
+* Vad är en myelopati?
+* Vad är en symfysit
+* 
+
+
+
+<img src="./figs/sam20_uqoBMl7pW1.png" alt=uqoBMl7pW1 style="zoom:50%">
 
 
 

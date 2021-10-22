@@ -75,7 +75,12 @@ Viktökning/övervikt
   * Glukos före måltid
   * Glukos 2h efter måltid
   * (glukos innan sömn?)
-* 
+
+
+
+
+
+<img src="./figs/sam20_R9q2Vu38QJ.png" alt=R9q2Vu38QJ style="zoom:90%">
 
 
 
@@ -186,7 +191,7 @@ Viktökning/övervikt
 
 
 
-#### Behandling
+#### Fall - behandl
 
 ***Presentation***
 
@@ -206,11 +211,7 @@ Viktökning/övervikt
     * !! dyslipidemi/hyperlipidemi, eller dålig kolesterolkontrll: statiner
       * notera att det just är dyslipidemi
 
-
-
-
-
-### !! Fall 1
+#### !! Fall 1
 
 ***Presentation***
 
@@ -283,11 +284,7 @@ Viktökning/övervikt
 * **Adekvata åtgärder**
   * studenten föreslår adekvata åtgärder
 
-
-
-
-
-### Fall 2
+#### Fall 2
 
 För behandling av hypertoni, vilka möjliga fördelar respektive nackdelar finns för var och en av de fyra läkemedelsgrupperna nedan för patienter med diabetes? Ange kortfattat en relevant fördel och en relevant nackdel per läkemedelsgrupp. Även svaret ”inga specifika fördelar” respektive ”inga specifika nackdelar” kan vara rätt. (4p)
 

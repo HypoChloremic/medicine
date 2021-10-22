@@ -668,7 +668,7 @@ HUSKE
 * Skillnad amlodipin och verapamil (se farmaka.md)
 * Var används verapamil? (se farmaka.md)
 * Vilka inkluderas i NDCC, non-dihydropyridin calcium channel blockers
-* Vad är farmakodynamik av amlodipin (HINT dihydropyr)
+* Vad är farmakodynamik av amlodipin                                                (HINT dihydropyr)
 * Vem ger man rytmkontrollerand farmaka till hos förmaksflimmer
 * När sätter man in en pacemaker på FF patienter?
 * När kör man med elkonvertering på FF patienter?
@@ -710,6 +710,13 @@ HUSKE
 
 
 
+### Buk
+
+* Vilken status måste göras på en pat som kommer med blod i avföring?                    (rektoskopi, proktoskopi)
+* Vilka prover kan man direkt ta fr hanske efter PR
+
+
+
 ### Alkoholbruk
 
 * **Motiverande samtal**
@@ -725,11 +732,47 @@ HUSKE
 
 
 
-### Insulinökande, hypoglykemirisk
+### Diabetes
 
 * Sulfonylurea
   * Dessa patienter måste observeras mer än 1d, för att det föreligger hypoglykemirisk ett tag. 
   * Sulfonylurea medications inhibit ATP-sensitive potassium channels in pancreatic beta cell membranes. These potassium channels normally allow for potassium efflux from the cell. Inhibition leads to elevated intracellular potassium levels, which results in depolarization. Depolarization causes calcium influx, which activates the secretory system that releases insulin. Sulfonylureas also promote exocytosis of insulin through distinct mechanisms involving direct binding of pancreatic beta cell receptors. In summary, sulfonylurea medications promote hypoglycemia by increasing the release of endogenous insulin
+* Vad inkluderas i en diabetes anamnes
+  * **Anamnes**
+    * **Ärftlighet, gällande hjärtkärl sjd**
+    * **Hjärta kärl**
+      * bröstsmärta
+      * ödem underben fötter
+    * **Allmänna symptom**
+      * ökad törst
+      * ökade urinmängder
+      * viktnedgång
+      * viktsuppgång
+      * trötthet
+    * **Övriga symptom**
+      * synförändringar
+      * domningar fötter händr
+    * **aktuell medicinering**
+      * HT-medicin
+      * compliance
+      * icke receptbelagda LKM
+    * **Tobak, alkohol**
+    * **Motion**
+    * **socialt**
+* Vad inkluderas i status på en diabetespatient
+  * !! **Status och åtgärd**
+    * **Hjärtauskultation, 4 lokalisationer**
+    * **Lungauskultation, auskultation**
+    * **Dekliva ödem**: undersöker
+    * **Frågar pat om vikt, längd**
+    * !!! **mäter midjemått**
+    * !! **Fotstatus**
+      * **vibrationssinne**
+      * ! **ytlig sensibilitet med monfilament** 
+      * **temperatur**
+      * **behåring**
+      * **ev sår,**
+      * **palpation pulsar**
 
 
 
@@ -763,7 +806,10 @@ HUSKE
 * Hur handlägger man en myelopati?
 * Vad är en myelopati?
 * Vad är en symfysit
-* 
+* Skillnad tendinit och tendinos
+* Hur tar du nervstatus på övre extremiteter
+* Vad gör L4, L5, S1 motoriskt?
+* ! När en pat har smärta vad måste du be de göra under konsultationen?                         (be de rita, värdera avseende neuropati)
 
 
 
@@ -801,7 +847,7 @@ HUSKE
 * Centorkriterier: över 38.5, ingen hosta, käkvinkeladenit, belagda tonsiller. 
 * Herpangina: coxsackie-virus
 * Vätska till högerkamamrinfarkt
-* artodes: steloperation. 
+* artodes:                                               steloperation. 
 * Näst-vanligaste frakturen i handleden? 
 * vanligaste frakturen i handleden?
 * Vad är sensitivitetn på axiell kompression med tummens längsriktning för att fånga scaph frakturer?

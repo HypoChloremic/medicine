@@ -3,3 +3,4 @@ TODO
 - Ortopedi
 - HLR
 - EKG
+- Psykiatri

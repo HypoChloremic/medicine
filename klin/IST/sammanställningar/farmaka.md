@@ -282,7 +282,7 @@ $$
 \frac{AUC_{oral}}{AUC_{intravenous}}
 $$
 
-#### ! Adminstrationsformer
+#### ! Adminform
 
 ***Sublingualt***
 
@@ -355,6 +355,64 @@ $$
 | <img src="./figs/sam16_SJ15z0goHW.png" alt=SJ15z0goHW style="zoom:80%"> |      |
 | ------------------------------------------------------------ | ---- |
 |                                                              |      |
+
+
+
+### Distributionsvolym
+
+***Fysiologiskt***
+
+Jämvikten molekyler (bundna obundna, hydrogenerade dehydrogenerade (rel pH)) kommer att relateras till:
+
+- permeability across tissue barriers
+- binding within compartments
+- pH partition
+- fat:water fördelningen.
+
+
+
+***Transcellulärt***
+
+* För att komma till från extracellulär compartment till transcellulära compartments, måste molekylen gå via celler.
+* BBB: blood brain barrier är ett exempel på detta, där man måste passera endotelceller för att komma dit
+  * "The barrier consists of a continuous layer of endothelial cells joined by tight junctions and surrounded by pericytes."
+* !! "Consequently, **penicillin** ([Ch. 50](https://studentconsult.inkling.com/read/rang-dale-pharmacology-ritter-flower-henderson-7th/chapter-50/chapter-50-antibacterial-drugs)) can be given intravenously (rather than intrathecally) to treat bacterial meningitis (which is accompanied by intense inflammation)"
+* "Furthermore, in some parts of the CNS, including the *chemoreceptor trigger zone*, the barrier is leaky. This enables **domperidone**, an antiemetic dopamine receptor antagonist ([Ch. 29](https://studentconsult.inkling.com/read/rang-dale-pharmacology-ritter-flower-henderson-7th/chapter-29/chapter-29-the-gastrointestinal) & [39](https://studentconsult.inkling.com/read/rang-dale-pharmacology-ritter-flower-henderson-7th/chapter-39/chapter-39-neurodegenerative)) that does not penetrate the blood–brain barrier but does access the chemoreceptor trigger zone, to be used to prevent the nausea caused by dopamine agonists such as **apomorphine** when these are used to treat advanced Parkinson’s disease"
+
+
+
+***Definition distributionsvolym***
+
+* The apparent volume of distribution, *V*d, (see [Ch. 10](https://studentconsult.inkling.com/read/rang-dale-pharmacology-ritter-flower-henderson-7th/chapter-10/chapter-10-pharmacokinetics)) 
+  * is the ***volume of fluid required to contain the total amount***, *Q*, ***of drug in the body*** at the ***SAME  CONCENTRATION  as in PLASMA***, *C*p:
+
+$$
+V_d = \frac{Q}{C_p}
+$$
+
+* ***Förenklat:***
+  * Pat äter $X$ MÄNGD lkm-molekyler. (a numerical amount)
+  * Molekylerna kommer att hamna i plasma at a ***given concentration***  $C_p$
+  * Vilken ***volym*** $V_d$ ***krävs*** för att man ska få den givna concentrationen i plasma?
+  * Konklusion
+    * vi vet att plasma är $0.05L/kg$, så för en $70kg$ man så blire $3.5L$. 
+    * Om ett läkemedel ENBART är FAST i plasma, så borde $V_d$ vara just $3.5L$
+    * Alltså ett LKM med ***låg*** $V_d$ kommer vara ett lkm som är fast i plasma
+      * e.g. heparin (kan ej passera celler för att den är så pass stor)
+    * Om ***hög*** $V_d$ som närmar sig total body water i.e. $0.55L/kg$, då kommer det vara en väldigt lipofil lkm, som kan passera membran
+      * etanol
+      * fenytoin
+  * ***Har man distrib-volym som > total body water, då kommer detta lkm vara väldigt fast i vävnad, e.g. fett (alltså inte fast i bara vätskan som e 0.55L/kg)***. 
+
+
+
+| <img src="./figs/sam20_d6M2VM1fAh.png" alt=d6M2VM1fAh style="zoom:50%"> | <img src="./figs/sam16_4Zm3qpGg3Y.png" alt=4Zm3qpGg3Y style="zoom: 80%;"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+
+
+
 
 
 
@@ -626,6 +684,40 @@ $$
       4. synaptisk blockering gm hindra repet urladdning
       5. minskar posttetanisk potentiering. 
    3. Hindrar osså paroxysmala smärtatattacker hos trigeminusneuralgi
+
+
+
+#### Kardiovask
+
+***Kalciumrelaterade***
+
+* ***Frekvensreglerande***
+  * ***Kalciumantagonist, Verapamil***: 
+    * kiralt fenyl-alkyl-aminderivat.
+    * Påverkar spec kalciumkanaler membranöst
+    * L-typ kalcium kanaler (long-type calcium channels)
+    * bibehåller möjlighet aktivering med katekolaminer.
+    * Också, hämmar frisättning intracell kalciumdepåer.
+    * ***Effekter***
+      * Hjärta: frekvens nedåt, pga inget flöde L-typ kalc kanaler; 
+        * påverkar retledningen också
+      * Perifert: vasodilaterande effekt
+* ***BT-sänkande***
+  * ***Kalciumflödeshämmare, Amlodipin***
+    * ***kalciumjonhämmare i dihydropyridingruppen*** 
+      * (långsam kanalblockerare eller kalciumjonantagonist) och 
+      * hämmar det transmembrana flödet av kalciumjoner till glatt muskulatur i hjärta och kärl.
+    * ***direkt relaxerande*** effekt på kärlens glatta muskulatur. 
+    * ***lindrar angina*** (är inte helt klargjord )
+    * ***minskar den totala ischemiska belastningen*** genom följande två mekanismer:
+      * perifera arterioler och minskar därmed det totala perifera motståndet (afterload) mot vilket hjärtat arbetar. 
+      * Eftersom hjärtfrekvensen inte påverkas medför denna minskade belastning på hjärtat att myokardiets energiförbrukning och syrebehov minskar.
+      * dilatera de stora koronarkärlen och hjärtats arterioler, såväl i normala som ischemiska områden
+      * . Denna dilatation ökar syretillförseln till myokardiet hos patienter med koronarkärlsspasm (Prinzmetals angina eller variantangina).
+
+
+
+
 
 ### Dosering
 

@@ -272,7 +272,24 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 ***Etiologi och patofysiologi***
 
-* **Alkoholutlöst**
+* Mycket bidrar t utvecklingen
+  * **Alkoholutlöst**
+  * Hjärtsjd: infarkter, kardiomyopatier, 
+  * Vaskulär sjd: ateroskleros
+  * kirurgi
+  * fysisk inaktivitet
+  * lipidprofil
+  * rökning
+  * obesitas
+  * KOL
+  * OSAS
+  * inflammatorisk sjd
+  * Kronisk njursjd
+  * diabetes, prediabetes
+  * hypertension
+  * klaffsjd
+  * hjärtsvikt
+  * 
 
 
 
@@ -329,9 +346,15 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 
 
+
+
+<img src="./figs/sam20_Qn3FGc3TCR.png" alt=Qn3FGc3TCR >
+
+
+
 #### Fall 1 - KF
 
-***Presentation*****
+***Presentation***
 
 * **66åå pat**
   * **trötthet VC**
@@ -747,8 +770,6 @@ Förändringar t lkm lista:
 
 ### Hjärtinfarkt
 
-#### Allmänt
-
 
 
 ***Presentation***
@@ -782,6 +803,14 @@ Förändringar t lkm lista:
       * i frånvaro tecken av vänsterkammarhypertrofi, eller stor Q-vågsinfarkt i samma område
       * jämför med tidigare EKG
   * Då går man vidare oavsett troponin. 
+
+
+
+
+
+
+
+<img src="./figs/sam20_Y1qHF23S7I.png" alt=Y1qHF23S7I style="zoom: 80%;">
 
 
 

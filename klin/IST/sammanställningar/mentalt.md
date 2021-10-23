@@ -235,9 +235,7 @@ Trötthet
 
 
 
-
-
-### Fall 2
+#### Fall 2
 
 ***Presentation***
 
@@ -246,9 +244,7 @@ Trötthet
 
 
 
-### Psykos
-
-#### !! Fall 1
+#### !! Fall 3
 
 ***Presentation***
 
@@ -276,7 +272,7 @@ Trötthet
 
 ***Återkoppling***
 
-* De för stationen centrala kompetensmålen från psykiatrimomentet:  Identifiera störd verklighetsuppfattning, e.g. tankestörnignar, vanföreställningar och hallucinationer, och andra psykossjukdom assocerade symptom
+* De för stationen centrala kompetensmålen från psykiatrimomentet: Identifiera störd verklighetsuppfattning, e.g. tankestörnignar, vanföreställningar och hallucinationer, och andra psykossjukdom assocerade symptom
 * Föreslå medicinsk behandling utifrån patogenetiskt, farma, psykosoc perspektiv
 * vårdnivå
 * hantera misstro, trädsla, fientlighet som patienten kan ha inför vård
@@ -367,9 +363,85 @@ Trötthet
 
 ***Kliniska kännetecken***
 
+
+
+***Differentialdiagnoser***
+
+* Kalciumrubbningar
+* TSH rubbningar
+
+
+
 ***Utredning och handläggning***
 
+* ***Anamnes***
+  * ***Screening frågor, om en av de är ja, då luskar mer***	
+    * Känner du dig nedstämd? 
+    * Ja: hur länge nedstämd? Fiskar efter mestadels av dagen, nästan varje dag i 2v el mer
+    * Kan du glädjas av saker o aktiviteter du tidigare haft glädje av tidigare ? vad tkr du är kul att göra? Saker i livet du gör som glädjer dig. 
+  * ***Om pos screening***
+    * aptit
+    * vikt
+    * sömn
+    * koncentration o kognitiv förmåga
+    * Orkeslöshet
+    * eftersöker psykomotorisk hämnig
+    * skuldkänslor
+    * koncentrationssvårigheter
+  * ***Suicidalitet***
+* ***Blodprover***
+  * Blodstatus
+  * TSH
+  * Kalcium, albumin
+  * Njurstatus
+  * Glukos
+
+
+
 ***Behandling***
+
+* ***Mild depression***: antingen SSRI eller KBT
+
+  * Flera pelare t behandlingen: finns saker jag kan hjälpa dig med, saker du kan själva hjälpa dig med, om vi hjälper tillsammans då kan vi få förbättring och det tycker jag du är värd
+  * ***KBT och eller läkemedelsbehandling***
+  * ***Min rekommendation är läkemedelsbehandling och bokar psykolog på VC***
+  * Följa upp dig om en vecka per telefon för att säkerställa inga biverkningar
+  * efter telefon att vi har ett återbesök 2v senare för att evaluera (totalt 4 veckor fr insättning läkemedel)
+  * ***läkemedlena kan ge lite ökad ångest och du kan känna dig värre, OCH DE KOMMER ATT GÅ ÖVER.***
+    * därför din sambo o vänner vet om detta eller vänner som vet om detta
+    * så att de har överseende v.g. ditt mående
+  * ***Kom ihåg saker du sj kan göra***
+    * se till att du äter
+    * äter det tu gillar
+    * dricker tillräckligt vatten
+    * går ut 2-3 ggr i veckan med pulshöjande aktivitet, typ powerwalk
+      * fysisk aktivitet på recept
+    * om du inte hjälper dig sj kommer inget jag gör ha effekt
+  * ***Biverkningar***
+    * sexuella
+    * illamåpende kräk
+  * ***Telefon och jourmottagning***
+    * telefoner och tider till jourmottagningar
+    * tillgängliga akut och akuttider
+    * dagtid sök tillbaka hos oss
+    * alla tider kan du höra av dig till psykakuten
+    * om livshotande ring 112
+  * ***Boka stödsamtal med stödjare***
+
+* ***Farmakologisk upptrappning***
+
+  * ***Farmakologisk trappa*** notera att man slutat med övergångsfarmaka, istället informerar pat om biverkningarna.
+
+  * 1. **Sertralin (SSRI):** halverad lägsta dos (lägsta dos är 50mg så man ger 25mg)
+
+    2. **2-3 veckor**: utebliven effekt: 100% doshöjning
+
+    3. **6-8 veckor**: utebliven effekt: 
+
+    4. 1. **Man byter till ett nytt preparat enl psykofarma ppt,       om fortfarande utebliven effekt**
+       2. **SSRI + mirtazapin,** eller **SSRI + KBT**
+
+
 
 
 
@@ -1307,7 +1379,27 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 
 ## Ångest
 
-### Fall 1
+
+
+### Paniksyndrom
+
+
+
+***Handläggning och utredning***
+
+* Göra alla utredningar
+
+
+
+***Behandling***
+
+* Psykoedukation: Förklara tillståndet för patienten
+
+
+
+### Fall
+
+#### Fall 1
 
 ***Presentation***
 
@@ -1378,9 +1470,7 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 * De allra flesta studenterna visade att de uppnått de examinerade kompetensmålen. Undantagen handlade om svårigheter med kommunikationsförmåga och pedagogiska färdigheter. Såväl form som innehåll bedömdes, och innehållsmässigt uppvisade studenterna goda kunskaper om paniksyndroms uppkomst och behandling. 
 * Ett kriterium handlade om att utesluta förekomst av depression. För att uppfylla det krävdes att man frågade om nedstämdhet och minskade intressen. Detta kriterium handlade alltså inte om att ta en bred anamnes, utan att ta hänsyn till eventuell depression och dess påverkan på kommunikation och behandlingsplanering. Ingen underkändes på grund av detta, men vi tycker att vi behöver bli bättre på att förmedla de här aspekterna i samband med undervisningen
 
-
-
-### ! Fall 2
+#### ! Fall 2
 
 ***Presentation***
 

@@ -20,18 +20,30 @@
 
 
 
+
+
+
+
+<img src="./figs/sam1_qWDQIXe5LV.png" alt=qWDQIXe5LV style="zoom:50%">
+
 ### Inför IST
 
 ***Enl wilhel***
 
 * ***Anamnes***
-  * I den ordningen
+  * ***I den ordningen***
     * När - Var – Hur - Vem?
     * Trauma/energi?
     * Smärtans karaktär ?
     * Relevanta kodfrågor för differentialdiagnoser – uteslut farligt/allvarligt
-* Status
+* ***Status***
   * I den ordningen: Inspektion, motorik, palpation, specifika test & distalstatus
+
+
+
+## Akut ortopedi
+
+### Compartment syndrom
 
 ## Axel
 
@@ -420,11 +432,11 @@ Omedelbart fortsatt åtg
               11. Ersättnng med palmaris longus, spacer
               12. Artodes: ett alternativ
   2. **NSAID + Paracetamol**
-    2. **op i senare skede**
-    3. **fysioterapi: att man får splint. förhoppningsvis       fångas dessa patienter tidigare och får detta tidigt.** 
+        2. **op i senare skede**
+            3. **fysioterapi: att man får splint. förhoppningsvis       fångas dessa patienter tidigare och får detta tidigt.** 
        4. kan börja med att ge intraartikulär steroider kortisoninjektion
        
-    3. **ortos**  vid ansträngning kan mga pat bli glada över
+        3. **ortos**  vid ansträngning kan mga pat bli glada över
           1. **abduktionsskena el ortos**
 
 

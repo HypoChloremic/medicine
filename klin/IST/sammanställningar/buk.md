@@ -613,7 +613,517 @@
 
 ## Buksmärta
 
-### Fall 1 - GERD
+### Övre GI
+
+#### Dyspepsi
+
+***Kliniska kännetecken***
+
+* ***Inga varningsflaggor***
+* ***Obehag smärta buken***
+* ***Uppkördhet***: uppblåsthet
+* ***Illamående***
+* **Mättnadskänsla**
+
+
+
+
+
+***Skillnad organisk dyspepsi och funktionell dyspepsi***
+
+* Organisk orsak kan inte diffas
+
+
+
+***Utredning och handläggning***
+
+* ***Anamnestiskt***
+* ***Varningsflaggor***: ska gastroskoperas 
+  * detta inkluderar tidig mättnadskänsla eller mättnadskänsla
+* ***Gastroskopi***: över 50åå, varningsflaggor, NSAID/ASA användning
+
+
+
+***Behandling***
+
+* ***Protonpumpbehandling: H2-blockerare = ranitidn i 2v***
+  * notera att man inte använder omeprazol
+
+#### GERD
+
+***Presentation***
+
+
+
+***Kliniska kännetecken***
+
+* Inga varningstecken
+* refluxsymptom
+
+
+
+***Utredning och handläggning***
+
+
+
+***Behandling***
+
+* ***Protonpumpsblockad***
+* ***livstilsåtgärder***: 
+  * Sluta röka
+  * Ligg på rätt sida: höjd huvudända, 
+  * sluta alkohol
+  * viktnedgång
+  * mindre måltider
+  * äta inte vid läggdags
+
+#### Ulcus
+
+***Presentation***
+
+* 40åå man
+  * magbesvär, det gör ont
+  * inga varningsflaggor
+  * ingen GERD
+  * COX1 hämmar användning
+  * kliniska tecken t ikterus: 
+  * epigastrisk smärta o ömhet
+
+
+
+***Etiologi***
+
+* Helicobacter
+* NSAID
+* Malignitet
+
+
+
+***Varningsflaggor***
+
+* B-symptom
+* GI-blödning
+* järnbristanemi
+* palpabel resitens i fuk
+* förstorade lymfkörtlar
+* !! tidig mättnadskänsla
+* lång anamnes tilltagande besvär el sväljningssvårigheter
+* 
+
+
+
+***Utredning o handläggning***
+
+* ***Anamnes***
+  * ***Varningsflaggor***
+    * ***Uppdelning enl mig***
+      * Malignitetsgrejer: B-symptom
+      * Anemigrejer: Blött i avföring, spytt blod, ansträngningsrelaterade besvär
+      * Gastrogrejer: svårigheter svälja, känt resistens i buken, ***tidig mättnadskänsla***
+    * Fråga efter varningssymtom (se nedan), 
+      * NSAID/ASA. 
+      * Kliniska tecken till ikterus. 
+      * Blodstatus, 
+      * F-Hb. 
+      * Leverstatus vid misstanke om sjukdom i lever, gallvägar eller pankreas (och i oklara fall). 
+      * Överväg polikliniskt ultraljud lever/galla och vid misstanke om malignitet även DT. 
+      * Var frikostig med att ta EK
+* ***Under 50 + låg risk organisk sjd***
+  * Inga varningsflaggor
+  * F-Helicobacter: avföringstest
+  * eller utandning-urea
+  * vid positiv helicobacter test: eradikeringsterapi; 
+* ***under 50år + Om organisk sjd*** 
+  * Varningsflaggor för malignitet
+* ***Över 50 års***
+
+
+
+
+
+***Behandling***
+
+* ***Test-and-treat***
+  * Indikation: under 50 år gammal + inga tecken till organisk sjukdom + inga varningsflaggo
+  * Helicobacter-testen: urea-utandningstest eller F-helicbacter-antigen test
+  * Vid positiv helicobacter test: metronidazole + erytromycin 7d
+  * PPI-behandling 4-8v
+  * uppföljning om 4v
+* ***Gastroskopi***
+  * ***Indikation***: över 50år eller varningsflaggor, tecken organisk sjd
+  * ***Ventrikelulcus***: Biopsier, eradikeringsterapi som ovan (PPI-behandling låbngt) ***+ uppföljande gastroskopi***
+  * ***Duodenalulcus***: Biopsier, eradikeringsterapi som ovan (PPI 7d) // ingen uppföljande gastroskopi
+
+
+
+
+
+
+
+#### Gallsten
+
+***Kliniska kännetecken***
+
+* Smärta kort duration som går bort snart
+  * Smärta nedom höger arcus och/eller i epigastriet, 
+  * ofta med utstrålning bakåt ryggen och upp mot höger skuldra. 
+  * Ofta attackvis med debut 15–60 minuter efter måltid,
+  * ihållande i några timmar och oftast övergående spontant. Illamående och kräkningar förekommer. 
+  * Om smärtan består mer än 6–8 timmar, särskilt om feber tillstöter talar det för begynnande kolecystit.
+* ***Notera differentialdiagnostiskt***
+  * Om smärtan blir mer långdragen
+  * håller på en längre tid
+  * patienten utvecklar feber
+  * leder till ***kolecystit misstanke etc***
+
+
+
+***Utredning och handläggning***
+
+* ***Utredningsmässigt***
+  * ***Blodprover***
+    * Leverstatus
+    * Blodprover
+    * Amylas
+  * ***UL-bedside***: letar sten
+  * ***Frikostig***
+    * EKG
+    * hjärtmarkörer
+    * u-sticka
+* ***Test-behandling smärtstillande***
+  * ***Diclofenac im el iv***: smärtstillar detta patienten, ska patienten gå hem med smärtstillande
+  * Polikliniskt UL-buk för att leta stenar
+  * Remiss till VC för vidare handläggning
+
+
+
+***Behandling***
+
+* Naproxen 500mg supp vb
+
+
+
+
+
+#### Kolecystit
+
+***Kliniska kännetecken***
+
+* Stegrande molvärk samma som den andra
+* 
+
+
+
+
+
+
+
+#### Kolangit
+
+
+
+
+
+### Nedre GI
+
+#### Divertikulit
+
+***Presentation***
+
+1. 50åå     gammal: 
+
+2. 1. dull      smärta under naveln, 
+
+   2. konstant smärta
+
+   3. bättre när ligger stilla
+
+   4. när urinerar känns sämre
+
+   5. ingen strålning mot ryggen
+
+   6. adipös
+
+   7. direkt och indirekt      palpömhet
+
+   8. 1. mellan       umbilicus och symfysen
+
+   9. smärta intense
+
+   10. ingen generell peritonit
+
+   11. temp 38.2
+
+3. 50åå kvinna: okomplicerad     divertikulit (tror jag)
+
+4. 1. reumatism
+   2. annars frisk
+   3. svår smärta lower buk, undre      buk
+   4. förstoppad några dagar
+   5. palpöm i vänster lägre      kvadrant
+   6. under naveln
+   7. aldrig erfarit sådan smärta      tidigare
+   8. CRP 75
+   9. temperatur 37.7 grader C
+
+5. 38åå man. 
+
+6. 1. Han är i      övrigt frisk, 
+   2. tar inga läkemedel      regelbundet och 
+   3. har inte genomgått några      bukoperationer. 
+   4. BMI 34
+   5. röker ej,
+   6. alkohol som de flesta      andra”. 
+   7. Sedan i förrgår tilltagande      buksmärta nedom naveln. 
+   8. Han har aldrig upplevt det      här tidigare. 
+   9. Temp: 38,3 oC, blodtryck      125/80 mmHg, puls 87, **urinsticka**
+   10. **+1 Leukocyter**, b-glukos 5,3 mmol/L. 
+   11. status noteras palpationsömhet med muskelförsvar nedom naveln utan sidolateralisering.
+
+
+
+***Etiologi***
+
+* där tarm e tunnst, 
+  * ***där kärl går gm väggen***
+* ingen muscularis propria i     området
+* kallas för en falska mukosaprolapser
+* det är mga som har     divertiklar
+* kvinnor > män
+* patofysiologiskt: faeces     täpper till divertikeln och den inflammeras
+
+
+
+***Epidem***
+
+* vänsterkolon     i västvärlden: oftast att man har sigmoideum
+* högerkolon och caekum i     östvärlden
+* **kom ihåg dock     att dessa kan uppstå lite varsomhelst**. 
+* **fyrfaldigt     ökad risk för kolorektal cancer,**
+
+
+
+***Kliniska kännetecken***
+
+***Indelning***
+
+* **Okomplicerad divertikulit**
+
+* 1. enbart      lokal buksmärta
+  2. ingen fri gas
+  3. ingen intraabdominell abscess: detta är      intressant för att enligt hinchey klassifikationen har grad 1-2      abscesser, som blir större. 
+  4. **molande kontinuerlig** buksmärta nedre del buk
+  5. vanligast t vänster
+  6. el under navel
+  7. sjukdomskänsla med feber      (ofta >38 grader)
+
+* **Komplicerad**
+
+* 1. lokaliserad      svår peritonit
+  2. eller generell peritonit
+  3. ofta med allmänpåverkan
+  4. fri gas-vätska eller abscess
+  5. feber, hög feber över 39 grader
+  6. frossa
+
+* ***De lindriga divertikuliterna,     i.e. inflammation i divertikel, verkar vara ganska tvetydiga***
+
+* ***Oftast*** 
+
+* 1. att man har divertikulit i sigmoideum
+  2. smärta vänster fossa iliaca
+  3. stigande feber
+  4. CRP stegring
+  5. ömhet
+  6. oftast: *divertiklar* smärtfria, om smärta kan      det vara colon irritable som kan förekomma med samtidiga divertiklar. 
+
+* **Maskering av feber:** notera     steroidbehandling eller sepsis
+
+
+
+***Utredning och handläggning***
+
+* ***DT inte bästa sens***: kom ihåg     att i 50% av dessa fall, som man med bilddiagnostik får reda på att det     ser OK ut, i.e. ingen divertikulit.
+* ***Status och klinisk diagnos***
+  * ***97% sens***: lokal öm vä fossa + **CRP över 50** + ingen kräk (+ DT?)
+* **Notera hur CRP är viktigt vid diagnostiken av divertikulit**
+* ***Labbprover***
+  * Därför är labb viktigt, för att få ett CRP
+
+
+
+***Handläggning***
+
+* ***Inläggning***
+
+* ***Blodprover***
+
+* 1. ***infektionsparametrar***:      CRP
+  2. ***elektrolytstatus***
+  3. **Urinstatus**: antagligen för att man      vill diffa med cystit? uvi? pyelit?
+  4. ***blodstatus***
+
+* **Okomplicerad**
+
+* 1. **Smärtstillning enl allan e morfin**
+
+  2. ***tarmvila initialt,*** 
+
+  3. ***får vätska och fibrer**:* 
+
+  4. 70% förbättras på detta inom 1 dygn
+
+  5. många kan gå hem dagen efter, får kost      rekommendationer att öka fiberintag
+
+  6. påbörjar skonkost dagen      efter för att se hur det fungerar
+
+  7. blir patienten mer stabil,      kan man skriva hem dem
+
+  8. **Tidg känd      diagnos:** 
+
+  9. 1. **Om allmäntillståndet tillåter,** 
+     2. **observera i hemmet,** 
+     3. **skonkost 3-5 dagar, flytande kost**. 
+     4. åter söka akuten om de       försämras
+
+* **Första gg för divertikulit, ingen tidigare anamnes**
+
+* 1. **DT-buk      rekommenderas,**      för att det är så mga diffar
+  2. eller om symptom kvarstår      efter 24-48 timmar att man gör DT-buk
+  3. inläggning var frikostig här
+  4. flytande kost
+  5. tilltagande smärtor: fasta + iv dropp, symptomlindrande
+  6. // det verkade att under seminariet skulle man kunna vänta ett ganska långt tag innan      divertikuliten hejdade sig. 
+
+* **Tidigare känd divertikulit diagnos, eller divertikel diagnos**
+
+* 1. observeras i hemmet
+  2. flytande kost 2-5 dagar
+  3. söka på nytt om försämring
+
+* **Komplicerad**
+
+* 1. inläggning
+
+  2. iv vätska
+
+  3. **KAD**: 
+
+  4. 1. detta är intressant, att man sätter en KAD på en divertikulit patient. känns       jätte onödigt. 
+
+  5. **Antibiotika**
+
+  6. 1. Trimsulfa + metronidazole
+
+  7. **DT-buk**:      
+
+* 1. **indik för laparotomi laparoskopi om**
+
+  2. 1. **fri gas**
+
+  3. 1. **extraluminal  kontrast**: gör man rektografi då? rektal       kontrast?
+
+  4. 1. akut obstruktion
+
+* 1. **abscess**:      (ultraljudsledd frågeställning)
+
+  2. 1.  **dränage om över 5 cm;** 
+     2. om under 5 cm man ger antibiotika
+
+* ***antibiotika***: ges inte till  okomplicerade fall. 
+
+* ***Efteråt***
+
+* 1. !! koloskopi efter 6-8 veckor, oavsett ålder. 
+  2. dock om det finns      alarmsymptom, såsom blod i avföring, förstoppning, buksvullnad ska remiss      t kirurgiklinik el endoskopienhet ske tidigare
+  3. ***Rekommendationer***: fiberrik      kost, motion, rökstopp
+
+
+
+***Uppföljning***
+
+* !! ***Efterloppet koloskopi***: utesluta malignitet
+
+
+
+***Talehome***
+
+* Kost: fiberrik kost, skonkost, motion, rökstopp
+
+
+
+***Behandling***
+
+
+
+
+
+<img src="./figs/sam1_9lzXr3xMIM.png" alt=9lzXr3xMIM style="zoom:50%">
+
+
+
+
+
+#### Njursten
+
+***Presentation***
+
+
+
+***Etiologi***
+
+* ***Vanligaste platserna för uretärsten***
+  * uretropelviska junction
+  * miduretralt: övergång ovanpå iliaca communis
+  * innan ostiet för urinblåsan (uretrovesical junction)
+
+
+
+***Kliniska kännetecken***
+
+* Illamående
+* Kräkning
+* Strålande smärta mot ryggen eller ljumske
+* Rastlös, kan inte sitta still, hittar ingen bekväm position
+* Hematuri
+* Tidigare njursten
+* Högt belägna stenar (njurbäcken, pelvouretära övergången, proximala uretärstenar) har framförallt flankvärk. Vid distala stenar projiceras smärtan längre ner t.ex. mot  jumsken, testikel/blygdläpp eller på insidan av låret. Distala stenar kan även ge upphov till trängningar och ökad miktionsfrekvens. Illamående och kräkningar kan förekomma. Fråga efter tidigare stenanfall och yrken där ett akut stenanfall kan få allvarliga  konsekvenser (t.ex. luftfartspersonal eller takläggare). Dessa patienter skall inte arbeta innan de är stenfria.
+
+
+
+
+
+***Utredning och handläggning***
+
+* ***Förstagångsinträffande***
+  * ***Anamnes + status***
+  * ***Prover***
+    * ***U-sticka***: letar hematuri
+    * ***Blodprover***: Hb, CRP, SR, elektrolyter, krea
+  * ***Test-behandling smärtlindrande***: 
+    * Diclofenac im, eller iv
+  * ***Vid smärtstillning kan patienten***: 
+    * Skicka hem med naproxen supp
+    * DT-urinvägar 2-4v
+  * ***Vid icke-smärtstillning med NSAID***
+    * ***Remiss radiologi på plats***
+      * DT-urinvägar: 
+    * ***Differentialdiagnoser***
+      * ***Avstängd pyelit***: avlasta njuren efter behov, vid
+      * AAA
+* ***Vid sten <=5mm***:
+  * Hem med naproxen supp 500mg vb, max 1g per dag
+  * Poliklinisk remiss till VC för njurstenshandläggning, med snar DT och uppföljning. 
+* ***Vid sten över >=6mm:***
+  * Remiss till urolog för behandling
+  * notera att detta kan skötas polikliniskt så länge patienten kunnat smärtstillas
+  * om man inte lyckas smärtstilla patienten ska den läggas in för effektivare smärtstillning. 
+
+
+
+### Fall
+
+#### Fall 1 - GERD
 
 ***Presentation***
 
@@ -706,7 +1216,7 @@
 
 
 
-### Fall 2 - pankreatit
+#### Fall 2 - pankreatit
 
 ***Presentation***
 
@@ -848,17 +1358,11 @@
 * bilddiagnostik
   * DT-urinvägar, ev urografiktrl görs sällan
     * om ca 12d
-    * en totalavstängd njure tål 2-3v avflödesstopp med svar t o  uppföljning av husläkare
+    * !! en totalavstängd njure tål 2-3v avflödesstopp med svar t o  uppföljning av husläkare
 * Akut urografi, ultrajud, DT endast om ebsvären inte släpper på upprepad smärtlindr o diagnostiska svårigheter
 * den aktua utredningsågngen varierar ngt mellan sjukhus återspeglas isätt att hantera pat
 
-
-
-
-
-
-
-### Fall 3 - sten
+#### Fall 3 - sten
 
 ***Presentation***
 
@@ -894,9 +1398,7 @@
     * Ordnar med kontrollurografi samt åb hos dl för rtg-svar
     * Informera om att smärtorna kan återkomma: Rec smärtstillande, supp
 
-
-
-### Fall 4 - kolecys
+#### Fall 4 - kolecys
 
 ***Presentation***
 
@@ -956,11 +1458,7 @@
   * Många hade en god teknik att palpera buken systematiskt med ytlig och djup palpation samt gav patienten ett gott underlag att vara med och fatta beslut. 
   * De flesta ordnade med adekvat provtagning och bilddiagnostik och erbjöd patienten smärtlindring.
 
-
-
-
-
-### Fall 5 - diveritikulit
+#### Fall 5 - diveritikulit
 
 ***Presentation***
 
@@ -1005,13 +1503,12 @@
 * Sammanfattning
   * Sammanfattning: Stud gör en rimlig preliminär bedömn Studenten föreslår adekvata åtgärder Stud ger en rimlig plan för uppföljning
 
-
-
-### ! Fall 6 - nedre buksm, div?
+#### ! Fall 6 - nedre buksm, div?
 
 ***Presentation***
 
-* 61-årig kvinna/man med väl reglerad tablettbehandlad hypertoni söker på grund av smärta i nedre delen av buken sedan två dagar. Initialt VAS 4 nu 7. Smygande debut, konstant molande värk nedom naveln. Strålar ej ut. Patienten har ej velat äta mat på 2 dagar, tagit yoghurt, juice i förrgår, ej ätit något sedan igår, druckit vatten. Miktion ua, haft en liten normalfärgad avföring igår, något lösare än vanligt. Känt sig frusen tagit febern i imorse 37,9. (Kvinnlig patient, inga blödningar eller flytningar). Viktnedgång 2 kilo senaste månaderna, lagt om kosten äter mera grönsaker. Inga övriga symptom. 
+* 61-årig kvinna/man 
+  * Söker dig på akuten. Väl reglerad tablettbehandlad hypertoni söker på grund av smärta i nedre delen av buken sedan två dagar. Initialt VAS 4 nu 7. Smygande debut, konstant molande värk nedom naveln. Strålar ej ut. Patienten har ej velat äta mat på 2 dagar, tagit yoghurt, juice i förrgår, ej ätit något sedan igår, druckit vatten. Miktion ua, haft en liten normalfärgad avföring igår, något lösare än vanligt. Känt sig frusen tagit febern i imorse 37,9. (Kvinnlig patient, inga blödningar eller flytningar). Viktnedgång 2 kilo senaste månaderna, lagt om kosten äter mera grönsaker. Inga övriga symptom. 
 
 
 
@@ -1079,11 +1576,7 @@
       * CRP
       * LPK
 
-
-
-
-
-### Fall 7 - divert
+#### Fall 7 - divert
 
 ***Presentation***
 

@@ -201,10 +201,10 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
 
 ***Utredning o handläggniign***
 
-* Låter pat berätta om symptom, Tankar, oro, önskan
-* Anamnes
+* ***Låter pat berätta om symptom, Tankar, oro, önskan***
+* ***Anamnes***
   * Smärtanamnes
-    * utstrålning
+    *  utstrålning
     * utveckling
     * kvalitet
     * förbättrar försämrar (inget)
@@ -216,7 +216,7 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
   * yrsel (ja)
   * miktionsproblem, avföringsproblem: nej
   * bensvagjet: nej
-* Status
+* ***Status***
   * Bukstatus: ytligt djupt, 
   * perifera pulsar, 
     * spec ljumskar, 
@@ -225,7 +225,7 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
     * pat anger att han ytterst ogärna reser sig , 
     * gör en ansats att resa sig, 
     * !!! stud som snabbt går över t framsida ist ges full päng. 
-* Bedömning o åtgärd
+* ***Bedömning o åtgärd***
   * rimlig prel bedömning
     * förstår hotande blödning
     * behov akut operation
@@ -237,11 +237,11 @@ Patienten Magnus har hjärtsvikt i form av nedsatt hjärtminutvolym. Hjärtminut
   * förklarar diagnos
     * blir rtg
     * troligen akut op efter rtg
-* Kliniskt resonemang
+* ***Kliniskt resonemang***
   * kan resonera akut allvar vanl
   * bed korrekt bårdnivå;
     * urakut omhändertagande
-* Patkomm
+* ***Patkomm***
   * motivrear involverar pat
 
 

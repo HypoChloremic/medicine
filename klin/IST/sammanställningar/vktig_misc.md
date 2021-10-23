@@ -642,13 +642,14 @@ HUSKE
 
 ### Generiskt
 
-* Fara med diuretika och användning hos hjärtsviktare: RAAS aktiveras för mkt, drf försöker man minimera dos så mkt som möjligt. 
-* Hur funkar Kapnografi: Mäter co2 i luftflöden ur luftvägarna (via mun o näsa). 
+* Fara med diuretika användning hos hjärtsviktare:                                  RAAS aktiveras för mkt, drf försöker man minimera dos så mkt som möjligt. 
+* Hur funkar Kapnografi:                                                      Mäter co2 i luftflöden ur luftvägarna (via mun o näsa). 
   * inandning, ingen co2, därför zero-baseline
   * utandning: 
     * initialt ökande, då det är deadspace  blandad med co2 fr alveoli, därför inte maxat diretj
     * sedan platå, då det är pure alveolär luft, som är co2 rik
     * !! Slutet av platån är end-tidal co2 reading, detta är ETCO2
+* Vad måste du ta prov för in this day and age?                                 (covid och fråga efter smak + luktbortfall + vaccinstatus)
 
 
 
@@ -680,10 +681,24 @@ HUSKE
 * Hur handlägger du instabil SVT vs stabil SVT på akuten?
 * Frekvenssänkande åtgärder inkluderar vad?                            (valsalva, adenosine, B-block, kalciumkanal block)
 * När använderu frekvensreglerande på QRS-smala takykardier? (förmakstaky kalciumhämmare kan indik e.g. verapamil etc)
-* När adenosin och när atropin
+* När adenosin och när atropin?
 * Hur handläggeru en VT som successfully konverterats på akuten?                                (hitta underliggande orsak o behandla d)
 * Är hålla andan efter expirium AV-blockerande?                                             (svaret är icke; fattar ej fysiologin dock)
 * Vad är viktigt att titta på hos en pat med dyspne?                                           (inspek nagelbäddar)
+* Vilka är livsstilsåtgärderna för en kardiovask eller hypertoniker?                     (tobak vikt, pulshöjande fys aktivitet varje dag, kost mindre mättat fett, mer greens, salt, alk, )
+* Om du vill sänka BT på en patient med dåligt GFR, vad gör du?                                       (tiazider byts till loopdiuretika, )
+* Vid ingår i kontrollerna efter 2v efter insatt BT lkm?                                                                  (kreatinin + elektrolyter)
+* Vad är målblodtrycket för Agda 50åå?                                                         (under hundra-tretti systoliskt och åttio diastoliskt)
+* MålBT för Nils 68åå?                                              (under 139sys o 79 diastoliskt)
+* Hur snabbt ska man nå målblodtrycket?                                   (3 månader)
+* Vilken undersökning är viktigt på VC på en pat med hypertensiv kris?                                                                      (ögonbottenundersökning)
+* Hypertoni + DM2 + nefropati, hur börjar du BT behandlingen?                                                       (kan sätta in RAS-blockad, RAS-blockad är ingen kontraindination hos njursvikt, man ska bara se till att patienten reagerar bra gm snar uppföljning (ngn vecka senare med blodprover))
+* Vad är tilläggsbehandlingen på hypertoni när ACE + Amlo + tiazider inte funkat?                           (spironolakton)
+* Vad ger man för anti-tromb-aggregerande till en ASA allergiker?                                            (Klopidogrel)
+* Hur mga procent har kranskärlssjukdom av NSTE-ACS?                                       (85%)
+* Vad definierar NSTEMI?                                                                        (ingen STEMI på EKG men har förhöjda hjärtskademarkörer i linje med infarkt)
+* Valet mellan CPAP och BiPAP, vad väljer du?                                    (alltdi bipap, det är mkt bättre jämfört cpap, cpapa är old-timey machine v.g. lungödemsbehandling)
+* Vasopressor och kardiogen chock, vad gäller?                                     (noradrenalin dålit, höjer TPR, och därför höjer afterload, varpå försämrar karidogen chock, istället dobutamin)
 
 
 
@@ -700,6 +715,22 @@ HUSKE
 * ***Biotillgänglighet definition***: Hur mkt av ett lkm når blodomloppet i sin ursprungiga kemiska form
 * ***Vad påverkar biotillgänglighet***: Intestinalt upptag (presystemisk-metabolism) och förstapassagemetabolism hepatiskt
 * ***Biotillgänlighet av morfin, då morfin metaboliseras till morfin-6-glukuronid, som är en aktiv metabolit, kommer denna att nikluderas i morfinets biotillgänglighet***
+* Vilket glykoprotein är en effluxpump, som pumpar ut molekyler fr en cell och som leder t att man får en sämre upptagningsförmåga o biotillgänglighet vissa molekyler (p-glykoprot)
+* Var uttrycks dessa?                            (apikalt på eneterocyterkanaliikulära delarna av ehpatocyterna alltså en efflux pump. )
+* Vad är fas 1 metabolism?                                  (kemisk mods användande cytokrom p450 systemen, CYP, )
+* Vad är Fas 2 metabolism?                                (glukoroneringsmekanismerna, konjugeringen av dessa lkm o metaboliter. )
+* Omeprazol v.g. fas 1 metabolism?             (inhiberar cyo2c19, som metaboliserar klopidogrel.)
+* Varför är det viktigt för klopidogrel att metaboliseras?                                     (den aktiveras gm CYP, inaktiverat CYP system fuckar allt, minskar tillgäng aktiv metabolit. )
+* Kan man ta nitro peroralt i tablettform och varför?                                                   (nej, biotillgängligheten är 0% peroralt, drf måste subling, transderm, iv, för att undvika presystemisk metabolim)
+* ! Fördelar med lågdos ASA?                                            (lågdos ASA acetylerar COX i portalvenen, men sen metaboliseras helt i lever och har ingen systemisk effekt, detta är nyttigt för att på så vis enbart target specifika delar av blodet och inte ute i vävnaderna)
+* Vad är first-order kinetics beroende av?                                      (mängden adminstrerat läkemedel)
+* Vad har alkohol för halveringstid?                              (den är beroende på mängden adminstrerat alkohol, för att halveringstiden rör på sig konstant, då nedbrytningen är konstant i mängden nedbruten material )
+* Vad innebär det att ett lkm har en distributiosnvolym på över 100L (kraftigt överstiger mängden actual body water, 0.55L/kg)?              (exempelvis att dialys inte kommer att vara effektivt, eller att det kommer att ta tid att eliminera allt spår av läkemedlet, att lkm kommer att vara kvar längre i kroppen etc)
+* Poängen med laddningsdos?                          (är inte att nå steady state snabbare, utan att få effekt av läkemedlet tidigare, steady state kommer fortf ske inom 4-5 halveringstider)
+* Relation protein binding och kronisk njursjukdom?                              (proteinbindning av lkm innebär att d enbart är den fria delen som har aktiv effekt, vid kronisk njursjukdom sjunker bindningsgrad, och lkm har mer effekt för att större andel finner sig fria)
+* Waran påverkan av CYP systemet, e.g. via interaktion med amiodaron eller fenytoin?                             (waran elim via visst cyp enzym, amiodaron o fenyt inhib said enzym, därför mer aktivt waran kvar längre, högre blödningsrisk)
+* Tiazider och njursvikt, är det en kontraindik eller ej?                                   (Vid njurinsufficiens bör serumkreatinin och serumelektrolyter följas. Vid långtidsbehandling med Hydroklortiazid Evolan bör tillses att patientens kost innehåller adekvat mängd kalium.)
+* Vilken elektrolytförändring får man av tiazid?                                               (Hypokalemi)
 
 
 
@@ -714,6 +745,10 @@ HUSKE
 
 * Vilken status måste göras på en pat som kommer med blod i avföring?                    (rektoskopi, proktoskopi)
 * Vilka prover kan man direkt ta fr hanske efter PR
+* Dunkömhet njurloge och arkii, hur gör du det?                                                  (man ska dunka ryggen, CVA, costovertebral angle)
+* Hur behandlar du en njursten och gallstensanfall på akuten och hur handläggeru vidare
+* Vad skiljer polikliniska radio undersökningarna för ett gallstensanfall och en njurstensanfall
+* Om du får en njursten eller ett gallstensanfall på VC, hur handlägger du dem då?                                         (skicka de t akuten, då det är svårt att ge de NSAID injektioner im för att testbehandla smärtan etc)
 
 
 
@@ -773,18 +808,31 @@ HUSKE
       * **behåring**
       * **ev sår,**
       * **palpation pulsar**
+* Hur behandlar du en DKA? Vad är det viktigate?                                     (fluidresuscitation är det viktigaste. beakta risk för ödem endast efter att man reverserat chocken, etc)
+* inlagd pat med DKA ska ha vad för behandling intravenöst?                                                  (glukoslösning + insulin)
+* När ger man kalium till en patient med DKA?                                                                              (hypokalemi och när diuresen är igång)
+* Hur mkt glukos ger du t en hypoglykemi?                                                                      (300mg/mL, 30%, 30-50mL)
+
+
+
+### Infektion
+
+* Vilka kriterier använder du för att snabbt evaluera sepsis?                                                               (qSOFA ist för SIRS dessa är dock dåliga, det är NEWS)
+* Vad inkluderas i dessa kriterier?                                                                                          (takypne, hypotension/lågt BT, sänkt GCS)
+* Vad inkluderas i patofysiologin av sepsis?                                                                          (se avsnittet infektion.md o avsnittet om sepsis)
+* Komplikationer till sepsis?                              (ALI/ARDS, DIC, hjärtsvikt)
 
 
 
 ### Metabolism frågor
 
-* Varför inte allopurinol akut: allopurinol kan vid insättande leda till en gout/giktattack, då sjunkande konc urat i kroppsvätskor för att minskad upstream influx sådan molekyl, leder till att kristallerna börjar lösa upp sig, som gör ont. Detta vill man inte få akut. 
+* Varför inte allopurinol akut:                         allopurinol kan vid insättande leda till en gout/giktattack, då sjunkande konc urat i kroppsvätskor för att minskad upstream influx sådan molekyl, leder till att kristallerna börjar lösa upp sig, som gör ont. Detta vill man inte få akut. 
 * Skillnad urea och urat: urea och urat är fundamentalt skiljda molekyler. Båda är kväve-bärande, nitrogen-carriers, men ursprungar fr skiljda pathways
   * urea: aminosyra metabolismen. Producerar en  CH₄N₂O,
   * urat: nukleotidmetabolismen, purin degradation, C5H4N4O3, innehåller en massa cykliska strukturer. heterocyklisk molekyl.
 * Problemet med urat: urat är inte en väldigt löslig molekyl. Problemet därför blir att den ackummulerar om den ökar i koncentration, och precipiterar o kroppsvätskor, varpå leder till inflammation.
   * Dock är upstream metaboliter som hypoxanthine och xanthine mer vattenlösliga och kan än mer utsöndras via urinen. Därför funkar allopurinol så väl
-* Riskfaktorer för gikt: inkluderar all diuretika (att man får modda diuretika dosen uutefter giktattacker). 
+* Riskfaktorer för gikt:                           inkluderar all diuretika (att man får modda diuretika dosen uutefter giktattacker). 
 
 
 
@@ -814,6 +862,25 @@ HUSKE
 
 
 <img src="./figs/sam20_uqoBMl7pW1.png" alt=uqoBMl7pW1 style="zoom:50%">
+
+
+
+### Våld i nära relation
+
+***Handläggning***
+
+* Kontakta bakjour
+* Sjukhusfotograf
+* Dokumentation + gömda journaluppgifter
+* Villu att jag kontaktar polisen nu, haru det önskemålet
+* Vem kan du vända dig till när du går härifrån
+* Har du familj
+* Har ni barn hemma
+* Inläggning
+* Vet han var du är etc?
+* Brottsofferjouren?
+* ***Vill du att jag ska skriva ett rättsintyg***
+* 
 
 
 
@@ -857,3 +924,4 @@ HUSKE
 
 
 <img src="./figs/sam18_FyypBmvvJ0.png" alt=FyypBmvvJ0 style="zoom:50%">  
+

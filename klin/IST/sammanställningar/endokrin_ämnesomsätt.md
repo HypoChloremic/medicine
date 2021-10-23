@@ -191,7 +191,7 @@ Viktökning/övervikt
 
 
 
-#### Fall - behandl
+#### Fall 2 - behandl
 
 ***Presentation***
 
@@ -211,7 +211,7 @@ Viktökning/övervikt
     * !! dyslipidemi/hyperlipidemi, eller dålig kolesterolkontrll: statiner
       * notera att det just är dyslipidemi
 
-#### !! Fall 1
+#### !! Fall 3
 
 ***Presentation***
 
@@ -284,7 +284,7 @@ Viktökning/övervikt
 * **Adekvata åtgärder**
   * studenten föreslår adekvata åtgärder
 
-#### Fall 2
+#### Fall 4
 
 För behandling av hypertoni, vilka möjliga fördelar respektive nackdelar finns för var och en av de fyra läkemedelsgrupperna nedan för patienter med diabetes? Ange kortfattat en relevant fördel och en relevant nackdel per läkemedelsgrupp. Även svaret ”inga specifika fördelar” respektive ”inga specifika nackdelar” kan vara rätt. (4p)
 
@@ -315,6 +315,104 @@ För behandling av hypertoni, vilka möjliga fördelar respektive nackdelar finn
   * inga spec fördelar
   * nackdelar
     * metabola effekter särskilt i komb med betablock
+
+
+
+
+
+#### Fall 5 - DKA
+
+***Presentation***
+
+* 19åå man
+  * Till akuten med diffus buksmörta, kräkningar, medvetandesänkning
+  * symptomen började flera dagar sedan, när han klagade på influensa
+  * symoptomen då var svår fatigue, illamående, mild buksmärta och 'some urinary frequency'
+  * Idag hittad i sängs moaning, men annars icke-responsiv
+  * Tidigare medicinsk historik är unremarkable, and han tar inga mediciner nu
+  * I status ter sig patienten blek och sjuk. temp 36, HF 140, BP 82/40, AF 40
+  * Huvud-hals status visar torra slemhinnor, insjunkna ägon. Finns konstig doft fr andningen
+  * rena lungor, takykard inga blås eller biljud. 
+  * buken ömmar lätt vid palpation. Hypoaktiv tarmljud, lokaliserar t smärta men pratar inte koherent
+  * neurostatus moans och lokaliserar t smärta, men säger niget coherently. 
+  * labb visar LPK pp16, H o hematokrit normala
+  * elektrolyter Na 124mM, kalium 3.4mM, Cl 98mM, bikarbonat 6mM. 
+  * Glukos 41mM. 
+
+
+
+***Etiologi***
+
+* ***Insulinbrist***
+* ***Leder till fasta och starvation på cellulär nivå***
+* ***Glukosmolekylackumulation*** i plasma och interstitiellt som inte kan absorberas och användas
+* ***Ketonackummulation*** pga IC glukosbrist
+* ***Vätskeförluster***: renala och gastrointestinalt, 
+  * ***Elektrolytförluster***: renalt, gastrointestinalt
+  * ***Osmotisk diures***: 
+    * glukosuri som drar med sig en massa vätska
+    * ketonuri också, då keton-syror inte resorberas väl av njuren, så följer dessa med också i urinen, varpå leder till vätskeförluster. 
+* ***Acidosen***: orsakad av ketonkroppsproduktionen
+  * Ketoner har lågt pKa värde (pKa = 4), därför deprotonerar de tidigt, varpå acidifierar, surgör miljön, och skapar acidos vid ackummulation. 
+  * ***Vätsk och elektrolytförändringar***: acidosen i sig leder också till skiften i elektrolyter och vätska. 
+* ***Kalium skiftar till extracellulär space***
+  * = acidos + dehydrering + hyperosmolalitet + insulinbrist
+  * patienter kan ha signifikant hyperkalemi, men intracellulär hypokalemi (låga kaliumlager i cellerna)
+* ***Illamående + kräkningar***: driver också på förändringarna 
+* ***Triggers***
+  * infektion vanligast
+  * pankreatit
+  * infarkter
+  * stroke
+  * droger: kortikosteroider, tiazider, kokain, antipsykotika
+  * psykosocialt slutar ta insulin
+* ***Konsekvenser av DKA***
+  * ***Hypovolem chock***: detta är farligt, ger signifikant organskada, multipel-organ dysfunktion, bidrar till att furthering svår acidos sedd i DKA
+
+
+
+***Diagnos***
+
+* Sannolikt DKA
+
+
+
+***Handläggning***
+
+* ***ABCDE***
+  * ***Two large bore IVs***
+  * ***EKG övervak***
+  * ***Direkt ringa till IVA för att omplacera pat där***
+  * ***Blodprover***: blodgas
+  * ***Urinsticka***
+* ***V-sond:*** om medvetslös patient, då ventrikelretenion är vanligt. 
+* ***Enormt med vätsketillförsel måste ske:*** 
+  * 4-6L NaCl eller RA, första 10h. 
+  * Måldiures är 0.5mL/kg/h eller högre
+* ***Addex kalium***: sker utefter guidelines på kliniken ()
+* ***Insulinbolus***
+  * Stäng av patientens insulinpump
+  * rekommenderar ej insulinbolus: snabb vätsketillförsel är viktigatst
+  * insulin för att sänka glukos 2-3mM/h, samt blodketoner 0.5mM/h
+  * insulininfusion tills acidos hävd. 
+  * adminstrera långverkande insulin parallelt osså, för att förenkla övergången till detta efter att behandlingen färdig. 
+* ***Glukosinfusion***
+  * när pat når glukos <12mM. separat infart
+* ***Ska övergå snabbt till att börja äta och dricka peroralt***
+
+
+
+***Komplikationer***
+
+* ***Ödem***: Detta ska man inte vara rädd för, utan beaktas enbart efter att man reverserat hypovolemiska chocken
+* ***Hjärnödem***: vanligast pediatriska fall, i samband med att man behandlar patienterna.
+  * kryptogena osmoler som ackummulerar i hjärnan IC för att ha kvar vätska, när patienten varit dehydrerad ett tag, varpå vid introduktion av mängder vätska driver på hjärnödemet. 
+
+
+
+| <img src="./figs/sam1_gDY7rGYHqk.png" alt=gDY7rGYHqk style="zoom:50%"> |      |
+| ------------------------------------------------------------ | ---- |
+|                                                              |      |
 
 
 

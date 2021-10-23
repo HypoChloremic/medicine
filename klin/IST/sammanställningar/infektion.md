@@ -128,3 +128,108 @@
 ***Behandling och handläggning***
 
 * Antibiotika: bensyl-PC
+
+
+
+
+
+
+
+## Sepsis
+
+### Allmänt
+
+***Etiologi o patofysiologi***
+
+* ***När två viktiga effekter i inflammationskaskaden*** sprider utanför infektionssiten
+  * ***Vasodilatation***
+  * ***Koagulation***
+* ***Yttrar sig i form av***
+  * hypotension
+  * hypoperfusion
+  * Koagulopati
+  * resulterande organsvikt
+* ***anaerob metabolism***: hypoperfusion + syrebrist
+
+
+
+***Utredning och handläggning***
+
+* ***Scoring***
+  * ***Sepsis3***
+    * (dock används qSOFA inte pga dålig sens o spec) qSOFA ist för SIRS; Konsensusgruppen har valt att tills vidare inte rekommendera användning av qSOFA för tidig identifiering av sepsis. Vår bedömning är att det i nuläget saknas tillräckligt stöd i form av prospektiva studier för att rekommendera ett generellt införande av ­qSOFA i svensk sjukvård.
+      * takypne
+      * hypotension/hypotoni/lågt BT
+      * förändrat GCS
+  * !! ***NEWS***: NEWS är ett mkt bättre sätt att kunna screena patienter för allvarliga tillstånd. 
+* ***Markörer***
+  * Laktat + metabol acidos
+
+
+
+***Behandling***
+
+* ***Mål med behandlingen***
+
+  * **Första timmen**
+
+  * 1. MAP över 70mmHg
+    2. systoliska blodtrycket över 90mmHg
+    3. saturatin över 93%
+
+  * **Till sjätte timmen**
+
+  * 1. patienten ska producera över 0.5mL/kg/h
+    2. patienten ska producera över 30mL/h
+    3. laktat: ska vara sjunkande
+
+  * **24 timmar**
+
+  * 1. andningsfrekvens: normal
+    2. hjärtfrekvens: normal
+
+* ***ABCDE***
+
+  * ***Larma narkos?***
+  * ***Syrgas***
+  * ***2 iv infarter***
+  * ***Vätska, börja med direkt ge 2L RA för att se hur patienten reagerar***
+  * ***Vasopressor om detta inte går: efedrin till noradrenalin;*** 
+    * vasokonstriktion i periferin
+    * nyttigt i sepsis då det är generell vasodilatation och vätskeläckage, 
+    * till skilland fr hjätrsviktspatienter med kardiogena chockar, där det skulle vara farligt med noradrenalin
+  * ***Odlingar***: blododling, urinodling, NPH-odling, sputum-odling om möjligt
+  * ***Antibiotika***: i enlighet med fokus
+  * ***Övervak***: EKG, NEWS, diures
+
+
+
+**Vrf extra dos betalaktam efter halva dosintervallet, mellan andra och första dosen (under en?) septisk chock**
+
+1. svaret här     var distributionsvolymen
+
+2. Det som sker under en septisk     chock är en väldigt dramatisk förskjutning av vätska mellan två vätskerum,     nämligen den centrala, i.e. blodkretsloppet, till interstitiet. 
+
+3. 1. Konsekvensen      är att distributionsvolymen för vattenlösliga antibiotika har ökat
+   2. Detta leder oss till att vå      uppnår lägre koncentrationer perifert, varav vi tillsätter en extra dos      mellan dosintervallen för att uppnå en bättre stabil nivå perifert. 
+
+<img src="./figs/sam1_O6Bm8HaOew.png" alt=O6Bm8HaOew style="zoom: 80%;">
+
+
+
+### Fall
+
+#### Fall 1 - pneumoni
+
+***Presentation***
+
+* 73åå kvinna
+  * akuten fr demensboende. Demens, hypertoni, DM2. 
+  * haft frossa och produktiv hosta flera dagar. Senaste 24h har hon blivit försvagat och kan inte komma ut ur sängen. Status visar tunn äldre kvinna som är somnolent men väckbar
+  * rektal temp 36 grader, HF 118, BT 84/50. Basalt höger rassel o dämpning. torra slemihinnor. scant wheeze
+  * mjuk buk, ej öm. 
+  * Extremiteterna känns kalla, pulsar är snabba och thready
+  * inga neurologiska bortfall på grovt status. 
+
+
+

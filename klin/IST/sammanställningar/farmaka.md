@@ -144,14 +144,14 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
 
 #### Antipsykotika
 
-* Korttidsbiverkningar
+* ***Korttidsbiverkningar***
   * Sedering
   * Parkinsonism
   * ortostatism
   * extrapyramidala: akatisi, rigiditet, sväljningssvårigheter
   * malignt neuroleptikasyndrom
   * QT-förlängning
-* Långtidsrisker
+* ***Långtidsrisker***
   * Vid demens
     * Stroke
     * Död
@@ -164,10 +164,10 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
 
 ***Kestin börjat med tegretol (detrusitol) 4mgx1 mot inkontinens, fått muntorrhet***
 
-* kännetecken typ A BIVERKAN
+* ***kännetecken typ A BIVERKAN***
   * farmakologiskt förväntade effekter
   * dosberoende
-* hur hantera kerstins problem
+* ***hur hantera kerstins problem***
   * dosjustering: sänker dosen tegretol och utvärderar
   * symptomatisk behandling
   * iskub i mun
@@ -496,6 +496,10 @@ $$
   * 4-5 halveringstider, för att nå en steady-state koncentration. 
 
 
+
+### Laddningsdos
+
+Drugs are usually given as repeated doses rather than single injections or a constant infusion. Repeated injections (each of dose Q) give a more complicated pattern than the smooth exponential rise during intravenous infusion, but the principle is the same ([Fig. 10.4](https://studentconsult.inkling.com/read/rang-dale-pharmacology-ritter-flower-henderson-7th/chapter-10/figure-10-4)). The concentration will rise to a mean steady-state concentration with an approximately exponential time course, but will oscillate (through a range Q*/V*d). The smaller and more frequent the doses, the more closely the situation approaches that of a continuous infusion, and the smaller the swings in concentration. The exact dosage schedule, however, does not affect the mean steady-state concentration, or the rate at which it is approached. In practice, a steady state is effectively achieved after three to five half-lives. Speedier attainment of the steady state can be achieved by starting with a larger dose, as mentioned above. Such a loading dose is sometimes used when starting treatment with a drug with a half-life that is long in the context of the urgency of the clinical situation, as may be the case when treating cardiac dysrhythmias with drugs such as **amiodarone** or **digoxin** ([Ch. 21](https://studentconsult.inkling.com/read/rang-dale-pharmacology-ritter-flower-henderson-7th/chapter-21/chapter-21-the-heart)) or initiating anticoagulation with **heparin**
 
 
 

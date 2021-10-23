@@ -136,29 +136,30 @@ Ont i halsen
     * LAMA + LABA + ICS, 2a hand
 * ***Akutbehandling***
   * Syrgas på grimma eller mask: notera att man är rädd för koldioxidretention, så om man ska sätta in syrgas, måste den stiga syrgas inte så högt. 
-  * Bronkdilaterare
+  * BiPaP övervak
+  * ***Bronkdilaterare***
     * via nebulisator inhalation
     * Ventoline (salbutamol, i.e. SABA) + ipratropiumbromid (atrovent) + NaCl
     * Vid problem inhalation: inj terbutalin (bricanyl)
-  * Steroider
+  * ***Steroider***
     * T betametason 6x0.5mg, eller predn
-  * Vätska
+  * ***Vätska***
     * RA 1L om klin dehydrering, och eller cirk instabilitet
-  * Diuretika
+  * ***Diuretika***
     * inj furix, 2-4mL vid tecken högersvikt
-  * Antibiotika
+  * ***Antibiotika***
     * vid missfärgade upphostningar + ökad dyspne: oavsett infektionstecken (i.e. även om pat inte ter sig infekterad) är antibiotika indicerat
     * amoxicillin eller doxycykllin
     * 5-7d
     * 2a handsval amoxiklav (spectramox) eller cefotaxim
     * svårt sjuk: bred täckning, inj piptaz
-  * Svårt eller livshotande anfall
+  * ***Svårt eller livshotande anfall***
     * IVA-läkare
     * assistera vent med mask o blåsa
     * vb inj terbutalin
     * sista hand adrenalin var 3e-5e minut
     * övervak: EKG, puls, andning, BT
-  * Allvarlig försämring KOL
+  * **Allvarlig försämring KOL**
     * svår KOL, PaCo2 >6.5, pH under 7.35 o AF 25, överväg NIV
     * livshotande insuff trots behandling, sat under 90%, paco2 >9, starta NIV (inte CPAP) eller respiratorbehandling
     * 

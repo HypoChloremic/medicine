@@ -517,6 +517,13 @@ Förändringar t lkm lista:
 
 
 
+***Patofysiologi***
+
+* P waves similar to those in normal sinus rhythm suggest appropriate or inappropriate sinus nodal tachycardia, sinus nodal re-entrant tachycardia, or focal AT arising close to the sinus node. P waves different from those in sinus rhythm, and conducted with a PR interval equal to or longer than the PR in sinus rhythm, are typically seen in focal AT. In AT, the conduction to the ventricles may be fast (1:1) or slow (3:1 or 4:1). The possibility of atrial flutter with 2:1 conduction should also be considered if the ventricular rate during SVT is 150 b.p.m., as the atrial activity is usually 250 - 330 b.p.m. In the presence of antiarrhythmic medication in this setting, lowering the atrial rate may result in a higher ventricular rate in the absence of AV nodal blockade.
+  * AT =  Atrial tachycardia
+
+
+
 ***Differentialdiagnoser***
 
 * Sinus taky
@@ -525,6 +532,74 @@ Förändringar t lkm lista:
 * AVRT: AV-reentrant taky
 * Junctional taky
 * Förmaksflimmer/fladder
+
+
+
+***Utredning och handläggning***
+
+* ***EKG + tester***
+  * Termination of the arrhythmia with a P wave after the last QRS complex is very unlikely in AT, and most common in AVRT and typical AVNRT. Termination with a QRS complex is often seen in AT, and possibly in atypical AVNRT. Adenosine does not interrupt macro-re-entrant ATs (MRATs).***61***
+  * Fascicular VTs are Verapamil sensitive and not adenosine sensitive
+  * Most VTs, as opposed to SVTs, do not respond to carotid sinus massage, but a narrow QRS VT originating at the left bundle branch and terminated with carotid sinus massage has been reported
+* Possible responses of narrow QRS tachycardia to ***vagal manoeuvres and adenosine***
+  * Slowing of AVN conduction and induction of intermittent AV block. 
+    * Atrial electrical activity can thus be unmasked, 
+    * revealing dissociated P waves (focal AT, atrial flutter, or AF waves).
+  * Temporary decrease in the atrial rate of automatic tachycardias 
+    * (focal AT, sinus tachycardia, and JET).
+  * Tachycardia termination. 
+    * This can happen by interrupting the re-entry circuit in AVNRT and AVRT by acting on the AVN that is part of the circuit. (AVN = atrioventricular node, AV-noden)
+    * More rarely, sinus nodal re-entry and ATs due to triggered activity can slow down and terminate.
+  * No effect is observed in some cases.
+* ***Distinktion mellan pre-excitation med accessorisk pathway med WPW mönster och AVNRT och AVRT med icke-WPW mönster***
+  * Adenosine should be used with caution for the treatment of AVRT because of potential induction of fast AF (atrial fibrillation). 119,120,272 AF with fast ventricular conduction could also induce ventricular fibrillation, therefore electrical cardioversion should always be available. 
+  * During orthodromic and antidromic AVRT, drug therapy could be directed at one of the components of the circuit, the 
+    * ***AVN atrioventricular node, AV-noden***
+      * (beta-blockers, 
+      * diltiazem, 
+      * verapamil, or 
+      * etripamil),100,129,419,420 or the 
+    * ***AP - accessory pathway, accessoriska vägen***
+      * ibutilide, 
+      * procainamide, 
+      * propafenone, or 
+      * flecainide)421,422 (Figure 19). 
+  * ***Antidromic AVRT is associated with malignant WPW syndrome due to a very fast-conducting AP***
+    * drugs acting mainly on the AP should be preferred. 
+  * ***In addition, in case of antidromic AVRT with APs representing both the anterograde and retrograde limb,*** 
+    * drugs acting on the AVN are ineffective. 
+    * In drug-refractory antidromic AVRT, amiodarone may also be considered."
+* ***Summa sumarum***
+  * Pre-excitation med accessorisk pathway är farlit, 
+  * ser man deltavåg ska man tänka ett steg till, 
+  * AVNRT o AVRT utan deltavåg är nog 3adi att man använder adenosin på och vagala manövrer, 
+  * men alltid med beredskap för elkonvertering om skit går snett
+
+
+
+***Behandling***
+
+* Långtidsbehandling asymptomatisk preexcitation i sinusrytm
+  * Kardiolog remiss
+  * Radioablation med god duccess
+  * Farmakologiskt: detta kan tänkas utföras i väntan på ablation
+    * Beta-blockad
+    * Kontraindicerat: verapamil, dilitiazem, digitalis
+* ***Akutbehandling***
+  * ***Ortodrom AVRT: RR, normala QRS, retrograd-P våg efter QRS***: beh samma sätt som AVNRT
+    * obs, förmaksflimmer kan uppstå efter admin adenosin, och kan ge allvarlig arrytmi
+  * ***Adenosin ska aldrig adminstreras vid pre-excitatorisk arrytmi***: oregelbunden, breddökade QRS
+  * ***Vid preecitation: Farmaka som blockerar AV-nod (betablo,ck, diltiazem, verapamil) ska undvikas vid preexcitation***
+    * prokainamid är bättre alternativ
+    * ***Elkonvertering i första hand***
+  * ***Elkonvertering***: är backup på alla behandlingar, och man ska ha beredskap för detta i alla fall. 
+
+| <img src="./figs/sam22_EOnDvXmCCq.png" alt=EOnDvXmCCq style="zoom:50%"> | <img src="./figs/sam22_3zYIw7pyDj.png" alt=3zYIw7pyDj style="zoom:50%"> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              | <img src="./figs/sam22_xEhUDjsUt3.png" alt=xEhUDjsUt3 style="zoom:50%"> |
+| <img src="./figs/sam22_YScnVrwEDc.png" alt=YScnVrwEDc style="zoom:50%"> | <img src="./figs/sam22_Wi1kXnPPJp.png" alt=Wi1kXnPPJp style="zoom:50%"> |
+| <img src="./figs/sam22_h7SegSOyeN.png" alt=h7SegSOyeN style="zoom:50%"> | <img src="./figs/sam22_pjAsqaWdAH.png" alt=pjAsqaWdAH style="zoom:50%"> |
+| <img src="./figs/sam22_p1jbO4jvAh.png" alt=p1jbO4jvAh style="zoom:50%"> |                                                              |
 
 
 

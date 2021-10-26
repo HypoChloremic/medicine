@@ -4,7 +4,7 @@
 
 ***Presentation***
 
-* 19-årig frisk yngling. 
+* ***19-årig frisk yngling.*** 
   * den 4e september halsont, känt sig hängig frusen på natten feber 41 grader
   * på morgonen 5e september fortf högfebril
   * mor ser röda utslag på benen
@@ -20,10 +20,7 @@
   * Vilken antibiotikabehandling väljer Du (preparat och adminstrationssätt
     * cefotaxim + ampicillin
     * eller meropenem
-
-
-
-
+* 
 
 ***Kortison under meningit***
 
@@ -33,7 +30,7 @@
     * Durand ML, Calderwood SB, Weber DJ, et al. Acute bacterial meningitis in adults. A review of 493 episodes. N Engl J Med 1993; 328: 21–28.
     * Van de Beek D, Schmand B, De Gans J, et al. Cognitive impairment in adults with good recovery after bacterial meningitis. J Infect Dis 2002; 186: 1047–52.
   * "Because treatment with steroids reduces inflammation in the subaracnoid space"
-* Betametason inte till patienter som presenterar med petekier
+* ***Betametason inte till patienter som presenterar med petekier***
   * antagligen för att detta har att göra med meningokocker
   * Noetrat att betametason haft störst effekt på pneumokock-orsakade meningiter
 
@@ -81,6 +78,8 @@
 
 * Kåvepenin
 * Pc-allergi: erytromycin eller klindamycin
+
+
 
 ## Lunginfektioner
 
@@ -232,4 +231,203 @@
   * inga neurologiska bortfall på grovt status. 
 
 
+
+
+
+
+
+## Urinvägar
+
+### Sammanfattning
+
+***Take-home message***
+
+* Får man en 25 årig kvinna med miktionssveda och feber, då ska man skicka in denna patienten till akuten för att vara patientsäker
+  * Trots att okomplicerade pyeliter kan man handlägga polikliniskt är det i vårt fall inför IST bättre att skicka patienten till akuten.
+  * Samma sak gäller vid inläggning, att det föreligger en risk att patienten utvecklar en sepsis varpå man hellre vill ha den inlagd tills man får odlingssvar och kan ge patienten bra antibiotika
+* Med feber menar vi då 38 grader; nämn att detta kan vara ett tecken på allvar för examinatorn
+* CRP kan användas i bedömningen också, där patienter med 
+  * CRP under 30 verkar vara gränsen
+  * men vi lägger patienten på en tät uppföljning bara för att följa läget och hur det har utvecklats. 
+* Ska också diskutera med en erfaren kollega i rummet brevid. 
+
+
+
+
+
+***Antibiotika***
+
+* Okomplicerad nedre UVI
+  * nitrofurantoin: mot enterokocker
+  * pivmecillinam: mot proteus
+* Pyelit eller avstängd pyelit
+  * Gentamycin till odlingssvar
+  * alternativen blir
+    * trimsulfa
+    * ciproflox
+    * cefotax el ceftibuten
+
+### UVI
+
+***Notera***
+
+* Distinktionen uvi och febril uvi, för att handläggningarna differ.
+
+
+
+***Presentation***
+
+* ***27åå***
+  *  nyligen cystit, beh med pivmecillinam med     god effekt i 5 dagar.
+  * nu två veckor senare samma     symptom
+  * ***= recidiverande uvi***
+  * Stod på pivmecillinam
+  * ***Behandling o åtgärder***
+    * Skickar urinodling
+    * Sätter in nitrofurantoin denna gång
+    * Täcker inte proteus, men täcker enterokocker
+
+
+
+***Etiologiskt***
+
+* ***Primärpatogener***
+  * E coli
+  * Staph Saprophyticus
+* ***Proteus mirabillis***
+  * recidiverande uvi orsakat av proteis: tänk på konkrement och obstruktion
+  * Proteus är resistent mot nitrofurantoin
+  * Därför ska man ge pivmecillinam till dessa patienter
+
+
+
+***Behandling***
+
+* ***Empirisk förstahandsbehandling (i.e. innan odlingssvar)***
+  * Nitrofurantoin
+  * Pivmecillinam
+
+
+
+### Avstängd pyelit
+
+
+
+***Definition***
+
+* Övre urinvägsinfektion med avflödeshinder
+* obstruktionen som vanlen är orsakad av njursten eller uretärsten (även strktur eller tumör)
+* vid samtidig bakteriell infektion
+* ett allvarligt tillstånd med risk för urosepsis o bestående njurparenkymsdkada
+* avflödeshinder leder t snabb tillväxt av bakterier o kan jämföras med en abscess
+
+
+
+***Etiologi***
+
+* Vanliga etiologier är 
+* E. coli, 
+* enterobacter, 
+* enterokocker, 
+* Proteus och 
+* Klebsiella
+
+
+
+***Behandling***
+
+* vätska + antibiotika parenteralt
+
+* ***Antibiotika***
+
+  * cefotaxim 1 g x 3 i.v. (till äldre och vid nedsatt njurfunktion) 
+  * eller gentamicin 4,5–6 mg/kg x 1 i.v. (till yngre och njurfriska).
+  * Efter odlingssvar
+    * Ciprofloxacni
+    * Trimsulfa
+
+* Nefrostomiering
+
+* 
+
+  
+
+### Cystit
+
+
+
+
+
+### Pyelonefrit
+
+***Kliniska kännetecken***
+
+* Dunkömhet över den drabbade njuren. 
+* Ryggvärk. 
+* Feber, 
+* illamående, kräkningar. 
+
+
+
+***Definition***
+
+* ***Okomplicerad pyelit***
+  * Opåverkad patient
+  * inget illamående kräkningar
+* ***Komplicerad patient***
+  * gravid
+  * gammal
+  * man
+  * allmänpåverkan
+  * tecken sepsis
+  * illamående, kräkning
+
+
+
+***Utrending och handläggning***
+
+* ***Ett inläggningsfall, för att kan utveckla till urosepsis***
+  * Dock okomplicerade okomplicerade kvinnor kan man sköta polikliniskt (förutsätter att patienten just är okomplicerad)
+* ***Labb, rtg, etc***
+  * urinsticka
+  * urinodling
+  * CRP, krea, elektrolyt, blodstatus
+  * bladderscan: utesluta resurin
+  * ***Radiologi av övre urinvägar (DT-urinvägsöversikt eller UL-njurar)***
+    * Också för att utesluta andra diffar
+    * sviktande behandling
+    * kraftigt förhöjt krea
+    * stensjukdom
+    * komplicerad pyelonefrit
+    * avstängd pyelit (avflödeshinder, konkrement, anomali)
+* ***Inläggningsfall***
+  * analgetika
+  * antiflogistiak
+  * ev iv vätska
+  * iv antibiotika
+    * initialt gentamycin
+    * sedan enl resistensbesked enl nedan
+
+
+
+***Behandling***
+
+* ***Okomplicerad pyelit***
+  * Gentamycin byts till po antibiotika så fort odlingssvar anlänt
+  * enl resistensbesked
+    * Trimsulfa
+    * ciproflox
+    * ceftibvuten: om resitens mot trimsulfa och ciproflox
+    * amoxicillin: enterokockinfek
+* ***Komplicerad pyelit***
+  * Gentamycin byts till po antibiotika så fort odlingssvar anlänt
+  * enl resistensbesked
+    * Trimsulfa
+    * ciproflox
+    * ceftibvuten: om resitens mot trimsulfa och ciproflox
+    * amoxicillin: enterokockinfek
+
+
+
+### Urinvägsinfektion
 

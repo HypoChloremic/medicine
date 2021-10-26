@@ -248,25 +248,25 @@ Typisk erytrocytindex o utseende vid följande tillstånd
 
 ### Diagnoskriterier
 #### Schizofreni
-* Kriterium A:
+* ***Kriterium A***:
   * minst 1 månad, föreligga minst 2
   * vanföreställningar
   * hallucinationer
   * desorganiserat tal
   * desorganiserat beteende eller kataton beteende
   * negativa symptom
-* Kriterium B: 
+* ***Kriterium B***: 
   * Funktionsnedsättning: nedsatt social + yrkes funktion
-* Kriterium C: 
+* ***Kriterium C***: 
   * Duration: kontinuerliga tecken av påverkan persisterar minst 6 månader
   * Samma period: Denna period inkluderar minst 1 månad symptom (eller mindre om behandlad pat) som möter kriterium A
   * Prodromala el residuella symptom: samma period kan osså inkludera prodrom el resid period, tecknen kan vara manifesterade av enbart negativa symptom eller 2 eller mer symptom krit A, i attenuerad form (udda beliefs, unusual perceptual experience)
-* Kriterium D: 
+* ***Kriterium D***: 
   * utesluta kända orsaker: t psykos, fysiologiska, inkl schizoaffektiv, depressiv och bipolär med psykos har tuesltues, antignen för att nigen egentlig depr el mani under aktiv fas symptom, 
   * eller humör episoderna kort tid: eller att humör episoderna representerar minoritet av aktiv fas symptom durationen
-* Kriterium E: 
+* ***Kriterium E***: 
   * utesluta andra kända orsaker, eg lkm
-* Kriterium F
+* ***Kriterium F***
   * autism eller kommunikation åpverkad: om pat sedan tidigare är autist el komm påverkad, då additional schiz diagnos kräver prominenta vanförestllningar o hallucinationer, med de  andra symptomen för schiz, minst 1 månad. 
 
 
@@ -650,6 +650,29 @@ HUSKE
     * sedan platå, då det är pure alveolär luft, som är co2 rik
     * !! Slutet av platån är end-tidal co2 reading, detta är ETCO2
 * Vad måste du ta prov för in this day and age?                                 (covid och fråga efter smak + luktbortfall + vaccinstatus)
+* Om en patient har anemi på 58g/L, vilka prover ska man ta?                                            (Blodgrupp+BAS-test, Hemolysprover)
+* !! Hur mkt vätska hur snabbt på en lågtryckande patient (misstänkt sepsis)?                               (1L närmsta timmen, 200-300mL in direkt)
+* !! akut/allvarligt/vanligt
+* !! bedömning av patienten kommer att ske så snart tillfälle ges (anges i ungefärlig tidsangivelse).
+* Vad gäller ordinationer av läkemedel, i detta fall smärtlindring är det mycket viktigt att inte använda sig av ordinationer eller dialog i form av uttryck som ”vad brukar ni ge” (avseende doser) eller ”gör som ni brukar” och iterera ordination av den dos som föreslås av en sjuksköterska i en dialog som denna. Detta är inte en patientsäker handläggning. Ordinerande läkare är den som ansvarar för doser som ordineras. Risken för en icke patientsäker handläggning är annars stor och utgör en vanlig orsak
+  till misstag i vården.
+* Tänk på att D-dimer ej går att utvärdera hos en nyopererad patient då det oftast är förhöjt av trauma/operation.
+* Trötthetsfall, vilka frågor ställer du?                                                            (Törst, nokturi? Hud, hår, frusenhet, värme (thyroidea), ledsymptom, OSAS)
+* Trötthetsfall psykdiffar och suicidalitet?                                                   (Känns livet meningslöst för dig, har du känt dig nedstämd den senaste perioden, har du inte haft glädje av att göra saker du annars gillat att göra, har du haft känslor av att inte vela vakna upp morgonen därpå, skulleru vela slippa vakna upp imorgon)
+* Att lyssna på hjärtat både i sittande och i liggande är värdefullt, och glömdes av en del studenter.
+* !! mun och svalgstatus 
+* (tandinf)(endocardit),
+* Pedagogiskt förklara hur ångest uppkommer och uttrycks
+* Värdera förekomst av bipolaritet, melankoliska och psykotiska drag
+* !! Sömnproblem tänk alkohol
+* Akohol: Den optimala handläggningen var att föreslå patienten att prova att minska konsumtionen av alkohol och att sedan följa upp sömnbesvär och blodtryck på vårdcentral, efter att ha ombesörjt basal provtagning.
+  * !! förutsatt att läkare klart och pedagogiskt förklarar för patienten hur konsumtionen kan leda till de upplevda besvären.
+* Hereditet för suicidalitet: Hur ser det ut i familjen? finns det psykiatriska besvär i familjen? Finns det anhöriga som suiciderat
+* !! Behov av sjukskrivning
+* inte riktigt alla som uppfattade att de depressiva symtomen var en del av ett utmattningssyndrom,
+  * Det kan i större grad vara nödvändigt med sjukskrivning och antidepressiva läkemedel tycks inte vara verksamma i samma utsträckning som vid okomplicerad depression.
+* !! Alltför få uteslöt förekomsten av bipolär sjukdom trots att patienten signalerande en hög aktivitetsgrad.
+* !! Besvärsritning ortopedi
 
 
 
@@ -699,6 +722,7 @@ HUSKE
 * Vad definierar NSTEMI?                                                                        (ingen STEMI på EKG men har förhöjda hjärtskademarkörer i linje med infarkt)
 * Valet mellan CPAP och BiPAP, vad väljer du?                                    (alltdi bipap, det är mkt bättre jämfört cpap, cpapa är old-timey machine v.g. lungödemsbehandling)
 * Vasopressor och kardiogen chock, vad gäller?                                     (noradrenalin dålit, höjer TPR, och därför höjer afterload, varpå försämrar karidogen chock, istället dobutamin)
+* Ger du nitro till en inferior infarkt med 50 i puls?                                 ()
 
 
 
@@ -749,6 +773,7 @@ HUSKE
 * Hur behandlar du en njursten och gallstensanfall på akuten och hur handläggeru vidare
 * Vad skiljer polikliniska radio undersökningarna för ett gallstensanfall och en njurstensanfall
 * Om du får en njursten eller ett gallstensanfall på VC, hur handlägger du dem då?                                         (skicka de t akuten, då det är svårt att ge de NSAID injektioner im för att testbehandla smärtan etc)
+* Bharucha, A. et al. Mechanisms, Evaluation, and Management of Chronic Constipation. Gastroenterology 2020 Apr;158(5):1232-1249.e3. PMID: 31945360
 
 
 
@@ -758,6 +783,9 @@ HUSKE
   * Till en början behöver inte veta så mkt om detta
   * Kan ta det stegvis
   * **Lkm minskar sug**: Informera om att det finns möjligheter att minskar suget. 
+* Rekommendera halvera bruket
+  * Ta det därefter
+  * ha ett snart återbesök
 
 
 
@@ -765,7 +793,11 @@ HUSKE
 
 * Vf hyperkalcemi vid kronisk njursvikt: minskad D-vitamin aktivering, därför upstream ökat påslag PTH
 
+### Endokrinologi
 
+* Flush, 
+* tremor
+* muskelsvaghet
 
 ### Diabetes
 
@@ -808,7 +840,7 @@ HUSKE
       * **behåring**
       * **ev sår,**
       * **palpation pulsar**
-* Hur behandlar du en DKA? Vad är det viktigate?                                     (fluidresuscitation är det viktigaste. beakta risk för ödem endast efter att man reverserat chocken, etc)
+* Hur behandlar du en DKA? Vad är det viktigaste?                              (fluidresuscitation är det viktigaste. beakta risk för ödem endast efter att man reverserat chocken, etc)
 * inlagd pat med DKA ska ha vad för behandling intravenöst?                                                  (glukoslösning + insulin)
 * När ger man kalium till en patient med DKA?                                                                              (hypokalemi och när diuresen är igång)
 * Hur mkt glukos ger du t en hypoglykemi?                                                                      (300mg/mL, 30%, 30-50mL)
@@ -821,6 +853,13 @@ HUSKE
 * Vad inkluderas i dessa kriterier?                                                                                          (takypne, hypotension/lågt BT, sänkt GCS)
 * Vad inkluderas i patofysiologin av sepsis?                                                                          (se avsnittet infektion.md o avsnittet om sepsis)
 * Komplikationer till sepsis?                              (ALI/ARDS, DIC, hjärtsvikt)
+* Hur handlägger du en UVI vs en febril UVI?                 (tekniskt sett en febril UVI behöver lite mer än febrilitet innan man skickar patienten till akuten, i.e. allmänpåverkan, frossa, illamående och kräkningar, tecken på sepsis, hög ålder eller graviditet)
+* Hur behandlar du en UVI?                                                  ()
+* Njurstenssmärta med feber, vad måste du misstänka?                                                      (avstängd pyelit)
+* Alltid röntgen vid singelnjure, samtidig infektion/feber eller vid oklar diagnos!
+* Bakterier i avstängd pyelit?                                (Vanliga etiologier är E. coli, enterobacter, enterokocker, Proteus och Klebsiella)
+* Vad måste du inkludera i handläggningen av ett IPK pneumoni fall?                                           (odlingar, blododling, sputumodling)
+* !! Hur mkt vätska hur snabbt på en lågtryckande patient (misstänkt sepsis)?                               (1L närmsta timmen, 200-300mL in direkt)
 
 
 
@@ -830,11 +869,22 @@ HUSKE
 * Skillnad urea och urat: urea och urat är fundamentalt skiljda molekyler. Båda är kväve-bärande, nitrogen-carriers, men ursprungar fr skiljda pathways
   * urea: aminosyra metabolismen. Producerar en  CH₄N₂O,
   * urat: nukleotidmetabolismen, purin degradation, C5H4N4O3, innehåller en massa cykliska strukturer. heterocyklisk molekyl.
-* Problemet med urat: urat är inte en väldigt löslig molekyl. Problemet därför blir att den ackummulerar om den ökar i koncentration, och precipiterar o kroppsvätskor, varpå leder till inflammation.
+* Problemet med urat? urat är inte en väldigt löslig molekyl. Problemet därför blir att den ackummulerar om den ökar i koncentration, och precipiterar o kroppsvätskor, varpå leder till inflammation.
   * Dock är upstream metaboliter som hypoxanthine och xanthine mer vattenlösliga och kan än mer utsöndras via urinen. Därför funkar allopurinol så väl
-* Riskfaktorer för gikt:                           inkluderar all diuretika (att man får modda diuretika dosen uutefter giktattacker). 
+* Riskfaktorer för gikt?                           inkluderar all diuretika (att man får modda diuretika dosen uutefter giktattacker). 
 
 
+
+
+
+
+
+### Malignitet
+
+* Fångar man B-symptom
+  * blödningar slemhinnor, munslemhinnan
+  * onormala blåmärken
+  * / Utforskar stressnivå
 
 
 
@@ -857,7 +907,9 @@ HUSKE
 * Skillnad tendinit och tendinos
 * Hur tar du nervstatus på övre extremiteter
 * Vad gör L4, L5, S1 motoriskt?
-* ! När en pat har smärta vad måste du be de göra under konsultationen?                         (be de rita, värdera avseende neuropati)
+* ! När en pat har smärta vad måste du be de göra under konsultationen?                                                              (be de rita, värdera avseende neuropati)
+* Sitt-Host-Kryst-Nyskänslighet talande för vad?                                                                   (att d inte bara är en muskulär åkomma, utan kan vara ett diskbråck)
+* Om ryggpatient gör alltid?                                                                                  (SI-leder, kryst-host, reflexer, BUKSTATUS+PR)
 
 
 

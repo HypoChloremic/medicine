@@ -71,8 +71,6 @@ sdsd
   * Reaktion fortsätter även vid utsättning
 * E.g.: Steven-johnsons
 
-
-
 ### Typ C
 
 * Ökad risk insjuknande annan sjd
@@ -135,6 +133,8 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
 * **Donapezil + tiazid**: QT-förläng
 * **Karbamazepin, zopiklon, oxazepam**: trötthet, sedering, yrsel
 
+
+
 ### Läkemedel
 
 #### Flumazenil
@@ -155,6 +155,25 @@ Tablett Zopiklon 5 mg 30 min före sänggående (GABA-agonist)
   * Vid demens
     * Stroke
     * Död
+
+
+
+
+
+#### Antibiotika
+
+* Äkta pc-allergi:
+  * IgE- och histminmedierad immunologisk överkänslighetsrekation
+  * astma, urtikaria, anafylaxi
+* Icke-äkta pc-allergi, som inte ska utgöra direkt kontraindikation fr att ta lkm
+  * Icke-kliande hudmanifestationer eller
+  * gastrointestinala störningar
+  * Vanliag vid antibiotikabehandling
+  * förknippas inte med äkta p-allergi
+* ***Testdos övervägs***: när pc-överkänslighet av mindre allvarlig karaktär. 
+  * och det föreligger en osäkerhet vad gäller reaktionerna
+
+
 
 
 
@@ -577,6 +596,13 @@ Drugs are usually given as repeated doses rather than single injections or a con
 
 ## Läkemedel att kunna
 
+* 
+
+
+### Område
+
+#### Blandat
+
 **Karbamazepin**
 
 * Interaktioner
@@ -653,11 +679,34 @@ Drugs are usually given as repeated doses rather than single injections or a con
 
 * ***Dehydreing***: Är kontraindik, inte viktigt att tillfälligt ta bort dessa trots att det finns pågående glukokort beh hos e.g. en PMRare
 
-* 
 
 
 
-### Område
+
+##### Atarax
+
+* ***Lugnande***
+* ***H1-receptor antagonist.***
+* ***Effetker***
+  * klådhämmande effekt
+  * antiallargiskt
+  * lugnande effekt: formatio reticularis
+* ***Effektinsättning***
+  * inom 15min
+  * kvarstår 12h
+* ***Indikationer***
+  * enl FASS
+    * urtikaria
+    * klåda
+    * symptomatiskt för ångest / oro hos vuxna?
+
+
+
+##### Theralen
+
+* ***Effekt***
+  * Neuroleptikum (antipsykotika)
+  * ospecifik antiallergisk effekt
 
 #### Neuro
 

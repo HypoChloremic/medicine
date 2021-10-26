@@ -18,6 +18,40 @@
 
 ### Urinretention
 
+#### Kateter
+
+***Uppsättningen katetrar***
+
+* ***RIK***: ren intermittent kateter
+* ***Foley-kater***: av silikon, latex, pvc, har ingen kurvatur, används för KAD, har  två lumen
+* ***Tieman-kateter***: har en kurvatur, som gör det enklare att föra in hos en manlig patient, 
+* ***Hematuri katetr***
+* 
+
+#### Suprapubiskateter
+
+
+
+***Indikationer***
+
+* Trauma mot urinvägar
+* Att det inte gått med vanliga katetrar
+
+
+
+***Lager man går gm, tenta***
+
+* Kutis
+* Subcutis
+* campers och scarpas fascia
+* Rectus muskeln
+* Fascia transversalis
+* ***Notera***
+  * urinblåsan är ***Sub***-peritoneal
+  * Dtta innebär att man inte går gm peritoneum för att komma åt blåsan när man sätter en suprapubiskateter.
+
+### Fall
+
 #### Fall 1
 
 ***Presentation***
@@ -29,13 +63,14 @@
     * Hur handlägger du pat, kort beskriv
     * Vilka prover bör du särskilt beakta o varför
       * Njurfunktionsprover
-      * 
     * förklara vad de har 4 katetrar till för
     * tänk dig att du har denna man framför dig, hur går du tnu tillväga
     * sätt kateter på modellen o berätta vad du gör
     * 15cm in i uretra stöter du på motstånd. Vad har du troligen stött på med katetern
     * förutum suprapuvis ska du nämna minst 2 olika förslag på hur du kan gå vidare
     * Förklara mha modellen översiktligt hur man sätter en SPK o vilka strukturer man passerar med katetern 
+
+
 
 
 
@@ -140,6 +175,37 @@
 
 ## Sårskada
 
+### Allmänt
+
+
+
+#### Indelningar sår
+
+***Vulnus***
+
+* primärläkande sår
+* operationssår
+* vissa traumatiska sår: skärsår, sår utan vävnadsdefekt
+* sårkanterna läggs emot varandra o sutureras
+
+
+
+***Ulcus***
+
+* Svårläkta sår
+* bensår och trycksår
+* vävnadsdefekter som måste utfyllas för att såret ska kunna läka
+
+
+
+#### Målsättning med sårbehandling
+
+Målet för sårbehandling är att möjliggöra läkning, förhindra sårinfektion, minska lidande och underlätta det dagliga livet. Delmål kan vara exempelvis att minska sårsektion, minska smärta och minska luktproblematik. Målet ska diskuteras med patienten och om möjligt med dennes närstående, och de överenskomna målen ska dokumenteras. Sätt även upp delmål.
+
+
+
+
+
 #### Tider
 
 * **Tid till primärförslutning**
@@ -147,6 +213,29 @@
   * **Fot**: 4 timmar
   * **Övriga lokalisationer**:  6-7 timmar
 * **Tid till suturtagning**
+
+
+
+#### Prognos
+
+Prognosen, det vill säga den förväntade tiden för läkning, varierar allt efter patientens ålder, allmäntillstånd, näringstillstånd, rökning, rörlighet och sjukdomar såsom diabetes. Därför kan man inte ange en generell prognos. Stora sår och sår med lång duration läker långsammare, liksom sår med kraftig biobörda/biofilm.
+
+
+
+***Läkningshämmande faktorer***
+
+* ***Anemi***: dålig syresättning i hud
+* ***Ödem***: flesta sår befinner sig i inflammationsfas har också mikroödem som fördröjer sårläkningen
+* ***Näringstillstånd***: behandla med protein och vit-C tilflörsel, zink-tillförsel, argninin näringsdryck till trycksår
+* ***Tryck***: trycksår, försvårar lokal hudcirkulation
+* ***Lång väntan på hård underlag***
+* ***minskad rörlighet:***
+* ***Smärta***
+* ***Tobak***: minskad genomblödning, minskad tillförsel syre näring, nedsatt slaggprodukt transport, nedsatt kollagenbildnng. syremolek i hem byts mot kolmonoxid
+* ***Läkemedel***: antiinflammatoriska o immunossuppressiva kan hämma sårläkningen
+* ***Sårinfektion***
+
+
 
 #### Åtgärder
 
@@ -181,9 +270,79 @@
 ***Suturteknik***
 
 * **Transkutan sårförslutning**: den vanligaste formen. 
-* 
 
 
+
+#### Faser
+
+* Inflammationsfas
+* Nybildningsfas
+* Mognadsfas
+
+
+
+***Inflammationsfasen***
+
+* Startar omedelbart med skadans uppkomst
+* skadade blodkärl drar först ihop sig o koagulation ökar i området
+* därefter vasodilat
+* fibrinogen t skadad väv
+* fnibrinnät + protein stabiliserar sår
+* skyddsbarriör
+* leukocyter tar sig dit. rensar främmande ämnen, död väv, bakterier
+* ger smrta, svullnad, rodnad, vämeökning
+* inte blandas med pågående infek
+* fibroblasttillflöde: under denna fas frislöäpps mga tillväxtfaktorer som stimmar epitel o kapillärbild o tillföde av fibroblaster
+
+
+
+***Nybildningsfas***
+
+* 2-3d efter skada
+* angiogenes
+* kollagenes
+* efter 1-2d börjar granulationsväv att bildas
+  * ljusröd väv
+  * resistent mt infek
+  * men skör o lättblödande
+* Re-epitelialisering är en del i uppbyggnadsfasen o avser återbildningen av hudepitel i sårområdet.
+* epitelialiseringen kan i bästa fall starta redan efter några timmar o utan komplikationer förseglat såret inom 48h
+
+
+
+***Mognadsfas***
+
+* reorganisationsfas eller mognadsfas
+* 1-3v efter skadans uppkomst
+* kan pågå längre än ett år beroende pp sårskadans storlek
+* kollagenet under denna tid mer blir tänjbart o starkt
+* ett i början rött o svullet ärr blir med tiden ljusare o tunnare
+
+
+
+#### Information till patienten
+
+***Detta ska ges i samband med att man lägger suturer***
+
+* Man ska vara vaksam på svullnad, ökad smärta, rodnad, varbildning eller nedsatt funktion i foten då det kan vara tecken på infektion. 
+* Det är en del av sårläkning att man får smärta, rodnad, svullnad och värmeökning så det ska ej misstas för infektion
+
+
+
+***Förband och havande***
+
+* om vattentätt kan det sitta tills stygnen tas bort.
+*  Är det inte det så byts det mellan varje dusch 
+* (duscha inte första dygnet). 
+* Sätt på nytt förband då foten är helt torr
+
+
+
+***Allmänna rekommendationer***
+
+* Under första året mognar ärret varför man inte ska ha det exponerat för sol, täcks helst med tejp
+* Solens effekt på ärret: 
+  * 
 
 
 

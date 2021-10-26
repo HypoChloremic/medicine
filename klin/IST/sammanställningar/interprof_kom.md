@@ -50,6 +50,48 @@ Teoretiska grunderna för AHLR: hlr.nu ,janus, sen på canvas akut intermedicin 
 
 
 
+### Mall
+
+#### Allmänt
+
+
+
+! akut/allvarligt/vanligt
+
+! bedömning av patienten kommer att ske så snart tillfälle ges (anges i ungefärlig tidsangivelse).
+
+S: okej, så den aktuella situationen är så att..
+
+B: Om vi fortsätter till patientens bakgrund, 
+- kan du berätta för mig om hur patienten har mått på avdelningen i samband med inläggningen tills nu, vad har ni gjort, och allmän relevant bakgrund på patienten. 
+- Kan du berätta om hur pat haft d på avdelningen, hur har patienten mått, vad har ni gått.
+- Hostar pat, kisseriet, bajseriet, har ni gjort en VUM, har ni tagit labbprover, 
+- Patientens tidigare/nuv sjd och läkemedel. Tidigare operationer?
+- Sammanfattning: Okej, om jag förstått situationen och bakgrunden rätt, då så har vi en pat med ... inaklgd för ... som har mått ... och där ni gjort ... Stämmer detta? Vill du tillägga någonting?
+
+A: Okej, Då till patientens aktuella tillstånd. 
+- Air: Vad är allmäntillståndet, är pat vaken, talbar, andas pat? Hör du något när pat andas, 
+- Bre: Hur är andningsfrekvensen och saturationen? Hur ser det ut när pat andas, ser det liksidigt ut, är den ansträngd? Har du lyssnat på lungor?
+- Cirk: Vad är BT och pulsarna? 
+- D: Hur är glukoset? Några grovneurologiska förändringar eller nytillkommet?
+- E: Tempen och hur ser hudkostymen ut, utslag, sår, nytt?
+- Sammanfattning: Okej, om jag sammanfattar det aktuella tillståndet, ter sig patienten som att han är i chcok/septisk/lågtryckande/dålig cirk/välmående, med x och y parameter avvikande som man kan reagera på
+- Har du några tankar som du vill nämna? Är du orolig över nåt särskilt? Hade du några särskilda önskemål som du tänkt på?
+
+R: Okej, till rekommendationerna och åtgärderna, så tänker jag att vi gör så här
+
+
+
+#### Ambulanskontakt
+
+Du ringer ambulans för att få en rapport på en patient på inkomst?
+
+S: Hej jag heter ... fr akuten, och ringer angående denna .. åriga patient med kontaktorsak bröstsmärta, 
+
+B: jag vill fånga lite bakgrund till kontakten, kan ni berätta vad som har hänt? 
+
+
+
 ## Fall
 
 ### Fall 1

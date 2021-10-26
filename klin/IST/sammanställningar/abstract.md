@@ -8,11 +8,66 @@
 
 ### Publication
 
+### Confounders
+
 
 
 
 
 ## Studiedesgn
+
+
+
+### Olika studiedesigns
+
+***RCT***
+
+* Fördelar 
+  * Prsoepktiv design
+  * exponering kan följas o dokumenteras successivt 
+  * ingen recall bias
+  * minskar risken för confounding
+  * (1 p) randomisering medför att risk för confounding/bias minimeras (1 p) blinda vilket motverkar ’förväntans effekter’
+* nackdelar
+  * Strikta inklusionskriterier ger låg generaliserbarhet, 
+  * Begränsad uppföljning och storlek ger ingen möjlighet att upptäcka sällsynta eller sena biverkningar, 
+  * Hög kostnad
+
+
+
+***Observationsstudier***
+
+* Fördelar
+  * Möjligt att studera ovanliga sjukdomar
+  * /inte etiskt genomförbart att randomisera vissa exponeringar (tex snusbruk)/
+  * kostnadseffektiva/
+  * möjligt att studera långtidseffekter
+
+
+
+***futility***
+
+* interimsanalys visar att en fördel för någondera behandlingen inte kommer att gå att visa (futility)
+
+
+
+!! ***PICO***
+
+Patients = individuals with a systolic blood pressure of 130 mm Hg or higher and an increased cardiovascular risk, but without diabetes. (0.25 p)
+Intervention = systolic blood-pressure target of less than 120 mm Hg/Intensive treatment. (0.25 p)
+Comparison = systolic blood-pressure target of less than 140 mm Hg/Standard treatment. (0.25 p)
+Outcome = any of myocardial infarction, other acute coronary syndromes, stroke, heart failure, or death from cardiovascular causes. (0.25 p)
+
+
+
+***Analysera bortfall***
+
+* Man kan undersöka om baseline data skiljer mellan bortfallpatienter och patienter som genomförde hela studien. 
+* Ser man ingen skillnad ökar sannolikheten att bortfallet är slumpmässigt/Man kan genomföra känslighetsanalys genom att ersätta bortfallet med utfall vilka motsäger en effekt av behandlingen och se om en positiv effekt av behandlingen kvarstår.
+
+### Föreläsning
+
+
 
 <img src="./figs/sam14_rAEwuMEk2y.png" alt=rAEwuMEk2y style="zoom:50%">
 

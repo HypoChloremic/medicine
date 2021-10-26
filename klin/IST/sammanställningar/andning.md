@@ -156,7 +156,7 @@ Ont i halsen
   * ***Svårt eller livshotande anfall***
     * IVA-läkare
     * assistera vent med mask o blåsa
-    * vb inj terbutalin
+    * vb inj terbutalin = bricanyl
     * sista hand adrenalin var 3e-5e minut
     * övervak: EKG, puls, andning, BT
   * **Allvarlig försämring KOL**

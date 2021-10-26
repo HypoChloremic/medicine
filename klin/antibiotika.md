@@ -28,7 +28,10 @@
     * Levoflox 
     * Moxiflox 
 
+
+
 ***Sjukhusvård svår***
+
 * Cefotaxim + makrolid (erytromycin) 
 * PcG            + kinolon (levo eller moxi) 
 * (+ aminoglykosid vid septisk chock) 

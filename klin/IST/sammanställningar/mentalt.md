@@ -1381,9 +1381,265 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 
 
 
+
+
+### Anpassningsstörning
+
+**Diagnos**
+
+1. **DSMV** 
+
+2. 1. **Kriterium A**
+
+   2. 1. **Stressfaktorer:**       identifierbar stressfaktor som       föranlett **emotionella symptom** och **beteendeförändringar**. 
+      2. **Duration**: symptomen **utvecklats inom       3 månader,** efter stressorns debut
+
+3. 1. **Kriterium B**
+
+   2. 1. **Kliniskt signifikanta:** symptomen eller       beteendeförändringen är kliniskt signifikanta, och beläggs med:
+
+      2. 1. **Påtagligt lidande**: **oproportionerlig** i förhållande        t svårighetsgrad el intensiftet stressor. hänsyn taget yttre kontext o        kulturella fktorer som kan inverka på symptomens svårighetsgrad
+         2. **social funktion**: signifikant försämrad, i arbete, el andra viktiga        funktionsområden
+
+   3. **Kriterium C**
+
+   4. 1. **Stressrelaterade störningen:** uppfyller inte       krieterier för ngn annan form psyisk ohälsa, utgör inte enbart       flrsämring av ngn annan psykisk ohäla
+
+   5. **Kriterium D**
+
+   6. 1. **Ej sorgereaktion**: symptomen inte uttryck för       normal sorgereaktion
+
+   7. **Kriterium E**
+
+   8. 1. **Total duration**: symptom varar ej längre än 6       månader, efter stressorn eller dess följdverkningar upphötr. 
+
+ 
+
+**Specifikationer**
+
+1. **Med nedstämdhet**: sänkt grundstämning, gråtmild, känslog hopplös
+
+1. **Med ångest:** nervositet, oro, anspänd, separationsångest
+2. **med blndad ångest, nedstämd:** kombo nedstämd ångest dominerar bild
+3. **med     beteendestörning:** beteendestörningar dominerar bilden
+4. **med blandad emotionella o     beteendestörningar:**
+5. **ospecificerad**: vid maladaptiva reaktioner, som inte klassas som ngn     subgrupp
+
+ 
+
+**Diagnostiska kännetecken**
+
+1. **Episod, generellt**
+
+2. 1. subjektivt      obehag + emotionella störningar
+   2. orsakar nedsatt      funktionsförmåga
+   3. under period av förändrade      omständigheter
+   4. individuell predisponering
+
+3. **Symptom**
+
+4. 1. sänkt      grundstämning
+   2. depressionsepisoder
+   3. ångest
+   4. oro
+   5. känsla maktlöshet
+   6. svårt planera framåt
+   7. nedsatt förmåga ADL      (activities daily living)
+   8. beteendestörning: oftast      ungdomar
+
+5. **förlopp**
+
+6. 1. inom 3      månader efter stressor
+   2. upphöra 6 månader efter stressor, eller      konsekvenser upphört
+
+7. **andra diagnoser ska ej     föreligga**
+
+8. 1. e.g.      missbruk, depression, spec ångestsyndrom, PTSD, personlighetsstörning
+
+9. **Enligt ICD11**
+
+10. 1. maladaptiv      reaktion >=1 stressorer
+
+    2. karak av 
+
+    3. 1. upptagenhet       av stressor
+       2. överdriven oro
+       3. plågsamma tankar
+       4. ältande
+       5. orsakar       funktionsnedsättning
+       6. 1 månad fr stressor,       regress 6 månader, såvida stressor kvarstår
+
+    4. ej förklaras annan diagnos
+
+ 
+
+**Exempel**
+
+1. **exempel     omständigheter som kan -> anpassningsstörning**
+
+2. 1. **förlust:** smärtsam förlust eller 
+   2. **separation**:      
+   3. **emigration**
+   4. **flykting**
+   5. **utvecklingssteg**: börja skola, bli förälder, pensionering
+   6. **misslyckande personliga må**l: jurist student o betyg
+
+ 
+
+**Kliniska kännetecken**
+
+1. blandflora     symptom
+2. tydligt negativ händelse
+3. **improduktivt ältande och grubblande**
+4. **oproportionerlig reaktion**
+
+ 
+
+**Behandling**
+
+1. **avmedikalisering**
+
+2. 1. du har      ingen psykisk sjd
+   2. du har reagerat på stress,      situation du råkat ut för
+
+3. **stress != farligt**
+
+4. 1. problemlösning      (se separat underrubrik)
+   2. stresshantering
+   3. balans aktivitet och vila
+
+5. **sömnråd, sömnbehandling**
+
+6. 1. 1a hand ej      farmakologisk
+
+7. **när lämpligt**
+
+8. 1. KBT för      stressutlösta syndrom och sömn
+   2. problemlösande terapi,
+   3. fysisk aktivitet
+
+
+
 ### Paniksyndrom
 
 
+
+**Presentation**
+
+1. 33-årig man     
+
+2. 1. söker till      medicinakutmottagningen med tryck över bröstet, 
+
+   2. svårigheter att andas och      stickningar i händerna och fötterna. 
+
+   3. Patienten beskriver att det      varade ungefär 20 minuter och har nu klingat av, är mycket orolig kring ”att det är      något med hjärtat”.
+
+   4. Vilken behandling är mest      lämplig?'
+
+   5. 1. **psykoedukativ intervention**
+      2. panikattack diagnos?
+
+1. 29åå kvinna
+
+2. 1. haft      ångestattacked
+   2. den första kom hastigt en      dag när hon var på väg t jobbet
+   3. hon drabbades andnöd,      hjärtklapp, rädd infarkt
+   4. attacker kommit tillbaka      flera ggr, 
+   5. nu klarar ej ta sig t arbete
+   6. övrigt frisk, inget      substansbruk, 
+   7. psykiskt status ua.
+
+1. 29-årig     kvinna 
+
+2. 1. söker      ångestattacker uppkom hastigt för några veckor 
+
+   2. sedan när hon var påväg till      jobbet och gick över den öppna platsen framför arbetsplatsen. 
+
+   3. Just den dagen skulle hon hålla en presentation för      ledningen. 
+
+   4. Attackerna har kommit      tillbaka flera gånger och plågar henne och gör att hon har svårt att ta      sig till arbetet. 
+
+   5. Hon är i övrigt frisk, har      inget skadligt substansbruk och har ett väsentligen normalt psykiskt      status.
+
+   6. Utifrån sannolik diagnos,      vilken mest typisk tanke vid attacker: 
+
+   7. 1. "Jag       håller på att dö"
+      2. agorafobi?
+
+3. pat
+
+4. 1. På      medicinakuten träffar du en patient som du bedömer har en pågående      panikattack. Det är första gången och patienten är mycket rädd. Vad gör      du för att lindra patientens symtom?
+
+   2. 1. Hjälper       patienten att normalisera andningen och väntar tills attacken går över 
+
+5. 27åå man
+
+6. 1. söker på      grund av ångestsymtom. 
+
+   2. sedan ca ett halvår tillbaka      haft flera panikattacker. 
+
+   3. Han förstod vad det var      efter att ha läst på nätet. 
+
+   4. Där står det att      panikattacker inte är farliga och han säger att han känner sig trygg i      det. 
+
+   5. Första attacken var mycket      skrämmande, men han har inte varit lika rädd för de efterföljande      attackerna och har nästan kunnat leva som vanligt. 
+
+   6. Vad är viktigast att fråga      patienten för att bedöma om det rör sig om paniksyndrom?
+
+   7. 1. om       panikattackerna kommer oväntat
+
+1. 36-årig man     
+
+2. 1. behandlas      med läkemedel på vårdcentral på grund av återkommande obehagliga attacker      med ångest, hjärtklappning, andnöd och svettningar. Han våndas över att      lämna hemmet då han är rädd att få en attack. Han står snart inte ut      längre och uttrycker hopplöshet. 
+
+   2. Vilket skulle vara det      viktigaste skälet att remittera honom till specialistpsykiatrin? 
+
+   3. 1. ökande       suicidtankar
+
+
+
+**Diagnos enl DSMV**
+
+1. **Kriterium A**
+
+2. 1. **Panikattacker:** återkommande **oväntade**. panik attacker      karak som spec 'panik attack' (se resp. sektion)
+   2. **kultur specifika symptom kan föreligga**: tinnitus, nackömhet,      huvudvärk, gråtande, skrikande. dessa symptom ska inte räknas in 
+
+3. **Kriterium B**
+
+4. 1. **Kopplat med:** minst en av attackerna har **under en månad eller mer** följts av en      eller både:
+
+   2. 1. **fler attacker:** oro, ångest över att få fler panik       attacker, eller deras konsekvenser (e.g. kontrollförlsuit, få       hjärtattack, bli crazy)
+      2. **Beteende:** signifikant maladaptivt beteende relaterat t       attackerna (beteenden till för att undvika atatackena, e.g. undvika       familjära situationer eller ofamiljära situationer). 
+
+1. **Kriterium C**
+
+2. 1. **Ej      attribuerbart:** ej attribuerat t fysiologisk      effekter av substans eller annan medicinskt tillstånd (e.g.      hyperthyroidism, CVD). 
+
+1. **Kriterium D**
+
+2. 1. **Ej attribuerat, ej förklarbart:** av annan      sinnessjukdom (e.g. social fobi, specifik fobi, OCD, PTSD,      separationsångest)
+
+ 
+
+**Handläggning**
+
+1. **Vårdcentralen, primärvården:** remittera KBT?
+2. **Specialistpsykiatri:** Viktigaste skälet remittera hit är om ökande     suicidtankar
+
+ 
+
+**Behandling**
+
+1. **KBT**     bäst effekt för paniksyndrom
+
+1. **psykoedukativ     intervention**
+
+2. 1. Undersök
+   2. säg att d chill
+   3. empati, förtrogenhet
+   4. berättar att de inte ska      vara rädda för detta, förklara vad ångest är och beror på, etc
+   5. andningsinstruktioner
 
 ***Handläggning och utredning***
 
@@ -1394,6 +1650,102 @@ Ange med kryss i tabellen nedan när läkemedlet är indicerat, om risk för ber
 ***Behandling***
 
 * Psykoedukation: Förklara tillståndet för patienten
+
+
+
+
+
+### Social fobi
+
+**Allmänt**
+
+1. aka social     fobi
+2. samsjuklighet: 50-80% har depression, **missbruk alkohol,**
+
+ 
+
+**Diagnos**
+
+1. kriterierna     enl DSMV
+
+2. 1. **Kriterium A**: 
+
+   2. 1. **uttalad rädsla ångst:** om >=1       sociala situationer, där individen är **exponerat       för möjlig scrutiny**. Exempel inkluderar sociala interaktioner (e.g.       konversation, träffa ej familjära personer), vara observerad (e.g. äta,       dricka), perform inför andra (e.g. ge ett tal)
+      2. **Notera:** hos barn ångest måste ske i **peer settinsg** och inte enbart interaktioner med vuxna
+
+   3. **Kriterium B**: 
+
+   4. 1. **Fruktar uppvisa**: fruktar uppvisa eller bete på       ett sätt där man visar sina ångest symptom som kmr bli negativt       evaluerat. 
+      2. fruktar uppvisa symptom       ångest, eller beteende -> neg omdöme
+
+3. 1. **typically      lasting >6 månader,**
+
+   2. **kriterier som måste      förekomma …**
+
+   3. 1. ska tycka       att rädslan är överdriven, orimlig: **självinsikt**
+      2. ska **undvika situationer eller pinar igenom dem**
+
+ 
+
+**Utredning**
+
+1. **basutredning**
+
+2. 1. hereditet
+   2. trauman
+   3. debutålder
+   4. långtidsförlopp
+   5. social belastning
+   6. personlighetsmässiga      faktorer
+   7. beroende
+
+3. **patientskattning**: **EQ5D, CGI-S**
+
+4. **blodprover**
+
+5. 1. blodstatus
+   2. elektrolytstatus
+   3. ALAT/ASAT, GGT
+   4. albumin
+   5. TSH
+   6. S-Ca (,fria Ca joner)
+   7. P-glukos
+   8. vb tilägg kobalamin, 25-oh      Dvit, PEth, CDT
+
+6. **Gradera social fobi:** **Liebowitz     Social Anxiety Scale**
+
+ 
+
+**Behandling**
+
+1. **erbjuda KBT**
+
+2. 1. exponeringsterapi
+   2. kognitiv omstrukturering
+
+1. **Farmakologiskt**
+
+2. 1. informera      pat om biverkningar, insättningssymptom, information ger rimlig förväntan      på effekt
+
+   2. **SSRI**: 
+
+   3. 1. 1a hand
+      2. uteblivet svar: byt t annan       SSRI
+
+   4. **TCA**: klomipramin
+
+   5. 1. väldokumenterat
+      2. alternativ till SSRI
+      3. terapisvikt av multipla       SSRI preparat
+
+   6. **RIMA**: reversibel monoaminooxidashämmare
+
+   7. 1. moklobemid
+      2. övervägas utvalda fall
+
+   8. **MAOI**: irreversibel monoaminooxidashämmare
+
+
 
 
 

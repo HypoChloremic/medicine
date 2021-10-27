@@ -490,7 +490,7 @@ HUSKE
   * ***Vasopressor***: får man inte svar snabbt på 1-2L att man vill gå in med vasoperssor = noradrenalin
   * även IMA avdelningar går in med noradrenalin i perifer ven
   * Perifer ven går bra, det ska vara en ghhygglig ven för att ge, man vill inte att den ska perforera. 
-* Ringer infektionsjouren: för att diskutera vilka antibiotika
+* **Ringer infektionsjouren**: för att diskutera vilka antibiotika
 * absolut att IVA IMA .. ska ta ställning t antiibotika
 
 
@@ -673,6 +673,8 @@ HUSKE
   * Det kan i större grad vara nödvändigt med sjukskrivning och antidepressiva läkemedel tycks inte vara verksamma i samma utsträckning som vid okomplicerad depression.
 * !! Alltför få uteslöt förekomsten av bipolär sjukdom trots att patienten signalerande en hög aktivitetsgrad.
 * !! Besvärsritning ortopedi
+* max tid suturtagning?                                    (14d)
+* !! Fråga alltid efter feber/frossa/ikterus för att diffa kolangit
 
 
 
@@ -707,7 +709,7 @@ HUSKE
 * När adenosin och när atropin?
 * Hur handläggeru en VT som successfully konverterats på akuten?                                (hitta underliggande orsak o behandla d)
 * Är hålla andan efter expirium AV-blockerande?                                             (svaret är icke; fattar ej fysiologin dock)
-* Vad är viktigt att titta på hos en pat med dyspne?                                           (inspek nagelbäddar)
+* !! Vad är viktigt att titta på hos en pat med dyspne?                                           (inspek nagelbäddar)
 * Vilka är livsstilsåtgärderna för en kardiovask eller hypertoniker?                     (tobak vikt, pulshöjande fys aktivitet varje dag, kost mindre mättat fett, mer greens, salt, alk, )
 * Om du vill sänka BT på en patient med dåligt GFR, vad gör du?                                       (tiazider byts till loopdiuretika, )
 * Vid ingår i kontrollerna efter 2v efter insatt BT lkm?                                                                  (kreatinin + elektrolyter)
@@ -750,11 +752,87 @@ HUSKE
 * Vad är first-order kinetics beroende av?                                      (mängden adminstrerat läkemedel)
 * Vad har alkohol för halveringstid?                              (den är beroende på mängden adminstrerat alkohol, för att halveringstiden rör på sig konstant, då nedbrytningen är konstant i mängden nedbruten material )
 * Vad innebär det att ett lkm har en distributiosnvolym på över 100L (kraftigt överstiger mängden actual body water, 0.55L/kg)?              (exempelvis att dialys inte kommer att vara effektivt, eller att det kommer att ta tid att eliminera allt spår av läkemedlet, att lkm kommer att vara kvar längre i kroppen etc)
-* Poängen med laddningsdos?                          (är inte att nå steady state snabbare, utan att få effekt av läkemedlet tidigare, steady state kommer fortf ske inom 4-5 halveringstider)
+* Poängen med laddningsdos?                          (nå steady state snabbare, o få effekt av läkemedlet tidigare, steady state kommer fortf ske inom 4-5 halveringstider)
 * Relation protein binding och kronisk njursjukdom?                              (proteinbindning av lkm innebär att d enbart är den fria delen som har aktiv effekt, vid kronisk njursjukdom sjunker bindningsgrad, och lkm har mer effekt för att större andel finner sig fria)
 * Waran påverkan av CYP systemet, e.g. via interaktion med amiodaron eller fenytoin?                             (waran elim via visst cyp enzym, amiodaron o fenyt inhib said enzym, därför mer aktivt waran kvar längre, högre blödningsrisk)
 * Tiazider och njursvikt, är det en kontraindik eller ej?                                   (Vid njurinsufficiens bör serumkreatinin och serumelektrolyter följas. Vid långtidsbehandling med Hydroklortiazid Evolan bör tillses att patientens kost innehåller adekvat mängd kalium.)
 * Vilken elektrolytförändring får man av tiazid?                                               (Hypokalemi)
+* NSAID är generellt riskabelt till äldre pga risk för vätskeretention, blodtrycksökning, hjärtsvikt, njursvikt, GI-blödning. (Dessutom kan ibuprofen försvaga den antitrombotiska effekten av ASA, men nu ska ju ASA sättas ut.) Sätter ut ibuprofen och provar i stället att höja paracetamoldosen enligt ovan
+*  När ska patienter som behandlas ACE-hämmare/ARB på egen hand göra uppehåll med medicinen? Motivera kortfattat!         (fall av dehydrering)
+* Riskerna med 80 åring med NSAIDS?          
+  * Vätskeretention, 
+  * blodtrycksökning, 
+  * hjärtsvikt, 
+  * njursvikt, 
+  * GI-blödning 
+  * (Akut njursvikt kan uppkomma gm direkt påverkan på njurperfusion hos predisponerade individer eller gm interstitiell nefrit, men nefriten förefaller komma efter längre tids (veckor-månader) användning. 
+  * Även papillär nekros och elektrolytrubbningar kan uppkomma vid NSAID-användning)
+* Är det säkrare att använda selektiv cox2 hämmare ist för oselektiva? 
+  * Något lägre risk för allvarlig GI-blödning 
+  * likartade risker med blodtryck, njursvikt, hjärtsvikt ökad risk för tromboembolisk hjärtsjukdom
+* Vad behöver du tänka på om denna patient börjar ta högre doser paracetamol än vad han tidigare har gjort som har bagrund av Waran användning?
+  * mäta PKINR oftare
+* Om paracetamol fulldos inte funkar hos 80åå med waran o coxartros, vad kan man använda?
+  * opioider
+* Vad behöver du sätta in med opioider?                       (laxerande)
+  * inte nyinsättning bulkmedel, men kan fortsätta om pat haft tidigare
+  * kan tillägga naloxon, finns naloxon + oxikodon
+* Skillnad oxynorm o oxycontin
+  * ingen? båda är oxykodon
+  * lång o kortverkande
+* Utsättning av citalopram, hur? 
+  * Successiv utsättning: 
+    * halvera dosen i 2-veckorsintervall enligt Läkemedelsboken ”dosen minskas gradvis över en period av minst en till två veckor” enligt Citalopram Actavis i Fass Bägge ger full poäng
+* När har man utsättningsindik för SSRI
+  * Remission i 6 mån. 
+  * Förstagångsdepressioner, kan man sätta ut
+  * recidiverande depressioner brukar man vara mer frikostig med längre behandlingar
+* Varför 20mg maxdos äldre citalopram
+  * dosberoende risk för QT-förlängning
+  * dosberoende risk för torsades de pointes
+* Varför ompröva bisfosfonat behandling efter 3-5år
+  * ökad risk för atypiska femurfrakturer
+* SSRI biverkningar
+  * ökad blödningsrisk
+  * QT-förlängning?
+  * Hyponatremi
+* !! Hyponatremi
+  * minskad ECV-volym, minskad totalmängd Na+ och minskad (eller oförändrad) totalmängd vatten är som ersatts med elektrolytfri lösning.
+    * diuretika-behandling, 
+    * tubuliinterstitiell njursjukdom och 
+    * förluster via diarré/svettning : 
+  * normal/lätt ökad ECV-volym, normal totalmängd Na+ och ökad totalmängd vatten är 
+    * polydipsi och 
+    * SIADH. 
+  * ökad ECV-volym, ökad totalmängd Na+ och ökad totalmängd vatten (mer uttalad vattenän Na+-retention förutsättning för hyponatremi) är för 
+    * för stor tillförsel av hypoton NaCl-lösning, 
+    * kronisk njursvikt, 
+    * kronisk hjärtsvikt och 
+    * nefrotiskt syndrom
+*  Utöver elimineringstiden, vad avgör hur länge effekten av ett läkemedel kvarstår efter utsättning?
+  * Farmakodynamik: äkemedlet kan ha en kvarstående påverkan trots att serumkoncentrationen är noll, beroende på t.ex. irreversibel hämning av läkemedlets målstruktur/”target” (enzym etc)
+* Graviditet vilka läkemedel ska sättas ut
+  * ! NSAIDs
+  * Inte behöver sättas ut	
+    * SSRI
+  * Sertralin rekommenderas inte under graviditet, såvida inte kvinnans kliniska tillstånd är sådant att nyttan av behandlingen förväntas överväga den potentiella risken.
+* Utsättningssymptom setralin hos nyfött barn
+  * öd, cyanos, apné, kramper, instabil kroppstemperatur, matningssvårigheter, kräkningar, hypoglykemi, hypertoni, hypotoni, hyperreflexi, tremor, skakningar, irritabilitet, letargi, konstant skrikande, somnolens och sömnsvårigheter.
+* !! Du funderar på om patienten löper risk att ackumulera sina diabetesläkemedel. Vilken analys har du i första hand nytta av? Motivera.
+  * GFR (räcker inte med krea)
+* När sätta till insulin o när byta till insulin för DM2
+  * sätta till insulin: otillräcklig kontroll, e.g. HbA1c
+  * byta till insulin: kontrainidkationer för resterande läkemedel
+* Vad är MIC:                                  (minimum inhibitory concentration)
+  * relevant för antibiotika behandling, därför viktigt med MIC
+  * eller aka tröskelvärdet. 
+  * För antibiotika:  Detta samt den relativt korta halveringstiden medför att det är fördelaktigt med lägre doser med kortare intervall, snarare än högre doser med glesare intervall
+*  Ödem är vanligen inte särskilt uttalat vid erysipelas. Du noterar svullnaden i detta fall och drar dig till minnes vad som kan orsaka s.k. interstitiellt ödem. Ange fyra principiellt skilda mekanismer till ökat utträde av vätska från blodbanan. (2 p) Svar: 
+  * Ökat (hydrostatiskt) tryck i mikrocirkulationen (kapillärer, postkapillära venoler). Vanligen orsakat av stas. 
+  * Ökad kärlpermeabilitet (i samma kärl som ovan). Vanligen orsakat av inflammation.
+  * Minskat kolloidosmotiskt tryck i blodplasma. Ses vi minskad plasma (albumin) protein koncentration. 
+  * Försämrat lymfdränage i vävnaden. Ses t.ex. vid metastasering av tumörer via lymfan, eller kirurgisk utrymning av lymfknutor.
+* Naloxon har en kortare halveringtid jfr mrfin, därför går den ur systemet snabbare
 
 
 
@@ -843,7 +921,9 @@ HUSKE
 * Hur behandlar du en DKA? Vad är det viktigaste?                              (fluidresuscitation är det viktigaste. beakta risk för ödem endast efter att man reverserat chocken, etc)
 * inlagd pat med DKA ska ha vad för behandling intravenöst?                                                  (glukoslösning + insulin)
 * När ger man kalium till en patient med DKA?                                                                              (hypokalemi och när diuresen är igång)
-* Hur mkt glukos ger du t en hypoglykemi?                                                                      (300mg/mL, 30%, 30-50mL)
+* !! Hur mkt glukos ger du t en hypoglykemi?                                                                      (300mg/mL, 30%, 30-50mL)
+
+
 
 
 
@@ -910,6 +990,19 @@ HUSKE
 * ! När en pat har smärta vad måste du be de göra under konsultationen?                                                              (be de rita, värdera avseende neuropati)
 * Sitt-Host-Kryst-Nyskänslighet talande för vad?                                                                   (att d inte bara är en muskulär åkomma, utan kan vara ett diskbråck)
 * Om ryggpatient gör alltid?                                                                                  (SI-leder, kryst-host, reflexer, BUKSTATUS+PR)
+* Drop-arm test?                                    (för kuffskada)
+* ***n. ulnaris*** 
+  * ***kraft***: abuktion-adduktion av fingrarna; t.ex. finger V och IV 
+  * ***sensorik***: dig V halva dig IV 
+* ***n.medianus*** 
+  * ***kraft***: flexion i tummens IP led/(alt. tumopposition) 
+  * ***sensorik***: över thenarmuskeln 
+* ***n. radialis*** 
+  * ***kraft***: extension i tummens IP led/extention av MP alla fingrar 
+  * ***sensorik***: mindre område tummvecket dorsalt
+* Specifika test armbåge?                                 (Specifika test: Dorsalextension handled mot motstånd, supination mot motstånd)
+* epikondyl tendinos rekommendation:                                (excentrisk träning hus fysioterapeut)
+* Ger man kortisoninjektion till en tendinos?                              (nej)
 
 
 

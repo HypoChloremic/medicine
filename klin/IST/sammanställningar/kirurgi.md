@@ -213,6 +213,12 @@ Målet för sårbehandling är att möjliggöra läkning, förhindra sårinfekti
   * **Fot**: 4 timmar
   * **Övriga lokalisationer**:  6-7 timmar
 * **Tid till suturtagning**
+  * Beroende på     lokalisation
+  * Återbesök för suturtagning
+  * Duscha inte på en dag
+  * Inget solljus på såret el ärret
+  * avstå fr rökning, all that jazz
+  * ***Maxtid för suturtagning***: 
 
 
 
@@ -341,12 +347,11 @@ Prognosen, det vill säga den förväntade tiden för läkning, varierar allt ef
 ***Allmänna rekommendationer***
 
 * Under första året mognar ärret varför man inte ska ha det exponerat för sol, täcks helst med tejp
-* Solens effekt på ärret: 
-  * 
+* Solens effekt på ärret
 
 
 
-### Fall 1 - handen
+### Fall 1 - Foten
 
 ***Presentation***
 
@@ -383,28 +388,28 @@ Prognosen, det vill säga den förväntade tiden för läkning, varierar allt ef
 * sårtoalett, excision, rengöring: berätta om detta
 * !! bedövningsmetoder: berätta
 * bedövningsmedel
-* Blodtomt fält
+* ***Blodtomt fält***
   * för o nackdelar
   * blöder ej, lätt att insp smrtsamt
-* rent eller steril teknik
+* ***rent eller steril teknik***
   * fördelar nackdelar
-* Suturmaterial ska ordineras
+* ***Suturmaterial ska ordineras***
   * disutera monofil o flätad tråd, samt grovlek
-* suturering
+* ***suturering***
   * såret kräver minst 2 suturer för att inte glipa
   * suturen testas med peang sax som öppnas i suturloopen
-* suturtagning
+* ***suturtagning***
   * tid 10-14d
   * plats: dsk
   * sårläkning o ärrbildning ska informeras
-* informera om komplikationer
+* ***informera om komplikationer***
   * infektioner
   * och solning
-* antibiotika profyu
+* ***antibiotika profyu***
   * nedsatt immunförsvar
   * dåligt beh daibetes
   * mm
-* tetanusprofu
+* ***tetanusprofylax***
   * diskutera tetanus
 
 

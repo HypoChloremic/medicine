@@ -471,7 +471,8 @@ För behandling av hypertoni, vilka möjliga fördelar respektive nackdelar finn
 * Primär hyperparathyroidism
   * Adenom, 85%: benign tumör i parathyroidea
 * Sekundär hyperparathyroidism
-  * 
+
+
 
 ***Kliniska kännetecken***
 

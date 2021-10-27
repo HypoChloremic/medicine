@@ -724,7 +724,8 @@ HUSKE
 * Vad definierar NSTEMI?                                                                        (ingen STEMI på EKG men har förhöjda hjärtskademarkörer i linje med infarkt)
 * Valet mellan CPAP och BiPAP, vad väljer du?                                    (alltdi bipap, det är mkt bättre jämfört cpap, cpapa är old-timey machine v.g. lungödemsbehandling)
 * Vasopressor och kardiogen chock, vad gäller?                                     (noradrenalin dålit, höjer TPR, och därför höjer afterload, varpå försämrar karidogen chock, istället dobutamin)
-* Ger du nitro till en inferior infarkt med 50 i puls?                                 ()
+* Ger du nitro till en inferior infarkt med 50 i puls?                                 (ja man kan tekniskt sett ge)
+* Trombylinsättning på claudicatio intermittens
 
 
 
@@ -827,7 +828,7 @@ HUSKE
   * relevant för antibiotika behandling, därför viktigt med MIC
   * eller aka tröskelvärdet. 
   * För antibiotika:  Detta samt den relativt korta halveringstiden medför att det är fördelaktigt med lägre doser med kortare intervall, snarare än högre doser med glesare intervall
-*  Ödem är vanligen inte särskilt uttalat vid erysipelas. Du noterar svullnaden i detta fall och drar dig till minnes vad som kan orsaka s.k. interstitiellt ödem. Ange fyra principiellt skilda mekanismer till ökat utträde av vätska från blodbanan. (2 p) Svar: 
+* Ödem är vanligen inte särskilt uttalat vid erysipelas. Du noterar svullnaden i detta fall och drar dig till minnes vad som kan orsaka s.k. interstitiellt ödem. Ange fyra principiellt skilda mekanismer till ökat utträde av vätska från blodbanan. (2 p) Svar: 
   * Ökat (hydrostatiskt) tryck i mikrocirkulationen (kapillärer, postkapillära venoler). Vanligen orsakat av stas. 
   * Ökad kärlpermeabilitet (i samma kärl som ovan). Vanligen orsakat av inflammation.
   * Minskat kolloidosmotiskt tryck i blodplasma. Ses vi minskad plasma (albumin) protein koncentration. 
@@ -846,9 +847,9 @@ HUSKE
 ### Buk
 
 * Vilken status måste göras på en pat som kommer med blod i avföring?                    (rektoskopi, proktoskopi)
-* Vilka prover kan man direkt ta fr hanske efter PR
+* Vilka prover kan man direkt ta fr hanske efter PR?                                         (F-Hb)
 * Dunkömhet njurloge och arkii, hur gör du det?                                                  (man ska dunka ryggen, CVA, costovertebral angle)
-* Hur behandlar du en njursten och gallstensanfall på akuten och hur handläggeru vidare
+* Hur behandlar du en njursten och gallstensanfall på akuten och hur handläggeru vidare                     (Toradol im)
 * Vad skiljer polikliniska radio undersökningarna för ett gallstensanfall och en njurstensanfall
 * Om du får en njursten eller ett gallstensanfall på VC, hur handlägger du dem då?                                         (skicka de t akuten, då det är svårt att ge de NSAID injektioner im för att testbehandla smärtan etc)
 * Bharucha, A. et al. Mechanisms, Evaluation, and Management of Chronic Constipation. Gastroenterology 2020 Apr;158(5):1232-1249.e3. PMID: 31945360
@@ -861,7 +862,7 @@ HUSKE
   * Till en början behöver inte veta så mkt om detta
   * Kan ta det stegvis
   * **Lkm minskar sug**: Informera om att det finns möjligheter att minskar suget. 
-* Rekommendera halvera bruket
+* ***Rekommendera halvera bruket***
   * Ta det därefter
   * ha ett snart återbesök
 
@@ -896,7 +897,7 @@ HUSKE
       * trötthet
     * **Övriga symptom**
       * synförändringar
-      * domningar fötter händr
+      * domningar fötter händer
     * **aktuell medicinering**
       * HT-medicin
       * compliance
@@ -1003,6 +1004,10 @@ HUSKE
 * Specifika test armbåge?                                 (Specifika test: Dorsalextension handled mot motstånd, supination mot motstånd)
 * epikondyl tendinos rekommendation:                                (excentrisk träning hus fysioterapeut)
 * Ger man kortisoninjektion till en tendinos?                              (nej)
+* Diskbråcksfall informera om cauda equina som varningsflagga
+* PMR fall informera om ögonsymptom som varningsflagga
+* !! fråga efter VAS
+* !! Ta lipidprofiler oftare 
 
 
 

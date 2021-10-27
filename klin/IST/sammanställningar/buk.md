@@ -517,7 +517,7 @@
 ***Utredning och handläggning***
 
 * **Anamnes**
-  * Blod per rectum
+  * ***Blod per rectum***
     * tidsförlopp, frekvens
     * konstant, intermittent
     * karaktär: 
@@ -526,12 +526,12 @@
       * blodtillblandad avföring, 
       * utanpå
       * tex blod på papper
-  * Avföringsvanor, 
+  * ***Avföringsvanor***, 
     * förändrade
     * diarre
     * obstipationstendens, förstoppning
     * slem
-  * Associerade symptom
+  * ***Associerade symptom***
     * buksmärta
     * illamående
     * kräkningar
@@ -539,11 +539,11 @@
     * viktnedgång,
     * trötthet
     * yrsel
-  * Tidg. nuv sjd
+  * ***Tidg. nuv sjd***
     * blod per rectum
     * gastrit
     * annan blödningskälla
-  * Hereditet
+  * ***Hereditet***
     * Mal
     * inflammatorisk tarmsjd
     * annat
@@ -551,9 +551,9 @@
   * medicinering
   * annan smärta
   * miktion, prostata
-* Status
+* ***Status***
   * Anemitecken
-    * ! MoS
+    * ***! MoS***
   * Hjärta, lungor
   * Bukstatus
     * PR, ej utföra men nämna
@@ -627,8 +627,6 @@
 
 
 
-
-
 ***Skillnad organisk dyspepsi och funktionell dyspepsi***
 
 * Organisk orsak kan inte diffas
@@ -681,7 +679,7 @@
 
 ***Presentation***
 
-* 40åå man
+* ***40åå man***
   * magbesvär, det gör ont
   * inga varningsflaggor
   * ingen GERD
@@ -708,7 +706,6 @@
 * förstorade lymfkörtlar
 * !! tidig mättnadskänsla
 * lång anamnes tilltagande besvär el sväljningssvårigheter
-* 
 
 
 
@@ -717,17 +714,17 @@
 * ***Anamnes***
   * ***Varningsflaggor***
     * ***Uppdelning enl mig***
-      * Malignitetsgrejer: B-symptom
-      * Anemigrejer: Blött i avföring, spytt blod, ansträngningsrelaterade besvär
-      * Gastrogrejer: svårigheter svälja, känt resistens i buken, ***tidig mättnadskänsla***
-    * Fråga efter varningssymtom (se nedan), 
+      * ***Malignitetsgrejer***: B-symptom
+      * ***Anemigrejer***: Blött i avföring, spytt blod, ansträngningsrelaterade besvär
+      * ***Gastrogrejer***: svårigheter svälja, känt resistens i buken, ***tidig mättnadskänsla***
+    * ***Fråga efter varningssymtom (se nedan),*** 
       * NSAID/ASA. 
       * Kliniska tecken till ikterus. 
       * Blodstatus, 
       * F-Hb. 
       * Leverstatus vid misstanke om sjukdom i lever, gallvägar eller pankreas (och i oklara fall). 
       * Överväg polikliniskt ultraljud lever/galla och vid misstanke om malignitet även DT. 
-      * Var frikostig med att ta EK
+      * Var frikostig med att ta EKG
 * ***Under 50 + låg risk organisk sjd***
   * Inga varningsflaggor
   * F-Helicobacter: avföringstest
@@ -744,9 +741,9 @@
 ***Behandling***
 
 * ***Test-and-treat***
-  * Indikation: under 50 år gammal + inga tecken till organisk sjukdom + inga varningsflaggo
-  * Helicobacter-testen: urea-utandningstest eller F-helicbacter-antigen test
-  * Vid positiv helicobacter test: metronidazole + erytromycin 7d
+  * ***Indikation***: under 50 år gammal + inga tecken till organisk sjukdom + inga varningsflaggo
+  * ***Helicobacter-testen***: urea-utandningstest eller F-helicbacter-antigen test
+  * ***Vid positiv helicobacter test***: metronidazole + erytromycin 7d
   * PPI-behandling 4-8v
   * uppföljning om 4v
 * ***Gastroskopi***
@@ -756,15 +753,11 @@
 
 
 
-
-
-
-
 #### Gallsten
 
 ***Kliniska kännetecken***
 
-* Smärta kort duration som går bort snart
+* ***Smärta kort duration som går bort snart***
   * Smärta nedom höger arcus och/eller i epigastriet, 
   * ofta med utstrålning bakåt ryggen och upp mot höger skuldra. 
   * Ofta attackvis med debut 15–60 minuter efter måltid,
@@ -787,8 +780,8 @@
     * Amylas
   * ***UL-bedside***: letar sten
   * ***Frikostig***
-    * EKG
-    * hjärtmarkörer
+    * ! EKG
+    * ! hjärtmarkörer
     * u-sticka
 * ***Test-behandling smärtstillande***
   * ***Diclofenac im el iv***: smärtstillar detta patienten, ska patienten gå hem med smärtstillande
@@ -820,7 +813,9 @@
 
 #### Kolangit
 
+***Kolangit triaden***
 
+* Feber + frossa + ikterus
 
 
 
@@ -832,8 +827,7 @@
 
 1. 50åå     gammal: 
 
-2. 1. dull      smärta under naveln, 
-
+   1. dull      smärta under naveln, 
    2. konstant smärta
 
    3. bättre när ligger stilla
@@ -854,9 +848,9 @@
 
    11. temp 38.2
 
-3. 50åå kvinna: okomplicerad     divertikulit (tror jag)
+2. 50åå kvinna: okomplicerad     divertikulit (tror jag)
 
-4. 1. reumatism
+   1. reumatism
    2. annars frisk
    3. svår smärta lower buk, undre      buk
    4. förstoppad några dagar
@@ -866,9 +860,9 @@
    8. CRP 75
    9. temperatur 37.7 grader C
 
-5. 38åå man. 
+3. 38åå man. 
 
-6. 1. Han är i      övrigt frisk, 
+   1. Han är i      övrigt frisk, 
    2. tar inga läkemedel      regelbundet och 
    3. har inte genomgått några      bukoperationer. 
    4. BMI 34
@@ -988,7 +982,8 @@
 
 * **Första gg för divertikulit, ingen tidigare anamnes**
 
-* 1. **DT-buk      rekommenderas,**      för att det är så mga diffar
+  * **DT-buk      rekommenderas,**      för att det är så mga diffar
+
   2. eller om symptom kvarstår      efter 24-48 timmar att man gör DT-buk
   3. inläggning var frikostig här
   4. flytande kost
@@ -997,44 +992,40 @@
 
 * **Tidigare känd divertikulit diagnos, eller divertikel diagnos**
 
-* 1. observeras i hemmet
+  * observeras i hemmet
+
   2. flytande kost 2-5 dagar
   3. söka på nytt om försämring
 
 * **Komplicerad**
 
-* 1. inläggning
+  * inläggning
 
   2. iv vätska
 
-  3. **KAD**: 
+  2. **KAD**: 
+     1. detta är intressant, att man sätter en KAD på en divertikulit patient. känns       jätte onödigt. 
 
-  4. 1. detta är intressant, att man sätter en KAD på en divertikulit patient. känns       jätte onödigt. 
+  3. **Antibiotika**
+     1. Trimsulfa + metronidazole
 
-  5. **Antibiotika**
+  4. **DT-buk**:      
 
-  6. 1. Trimsulfa + metronidazole
+  5. **indik för laparotomi laparoskopi om**
+    1. **fri gas**
+    2. **extraluminal  kontrast**: gör man rektografi då? rektal       kontrast?
+    3. akut obstruktion
 
-  7. **DT-buk**:      
-
-* 1. **indik för laparotomi laparoskopi om**
-
-  2. 1. **fri gas**
-
-  3. 1. **extraluminal  kontrast**: gör man rektografi då? rektal       kontrast?
-
-  4. 1. akut obstruktion
-
-* 1. **abscess**:      (ultraljudsledd frågeställning)
-
-  2. 1.  **dränage om över 5 cm;** 
-     2. om under 5 cm man ger antibiotika
+  1. **abscess**:      (ultraljudsledd frågeställning)
+    1. **dränage om över 5 cm;** 
+    2. om under 5 cm man ger antibiotika
 
 * ***antibiotika***: ges inte till  okomplicerade fall. 
 
 * ***Efteråt***
 
-* 1. !! koloskopi efter 6-8 veckor, oavsett ålder. 
+  * !! koloskopi efter 6-8 veckor, oavsett ålder. 
+
   2. dock om det finns      alarmsymptom, såsom blod i avföring, förstoppning, buksvullnad ska remiss      t kirurgiklinik el endoskopienhet ske tidigare
   3. ***Rekommendationer***: fiberrik      kost, motion, rökstopp
 
@@ -1135,12 +1126,12 @@
 
 ***Utredning och handläggning***
 
-* Patientkommunikation
+* ***Patientkommunikation***
   * Öppen fråga
   * Tankar, oro, önskan
   * sammanfattar tillämpligt
-* Anamnes
-  * smärtanamnes
+* ***Anamnes***
+  * ***smärtanamnes***
     * debut
     * akut, subakut debut
     * lokalisation vid debut
@@ -1150,7 +1141,7 @@
       * utveckling över tid
       * intensitet, ev VAS
       * ngt som förvärarr förbättrar: evt matlidnring
-  * Associerade symptom
+  * ***Associerade symptom***
     * illamående
     * kräkningar
     * sura uppstötningar
@@ -1158,58 +1149,58 @@
     * förändrade avföringsvanor
     * diarre, förstoppning
     * blod i avföring
-  * Allmänna symptom
+  * ***Allmänna symptom***
     * feber, subfrebril
     * viktnedgång
     * trötthet
-  * Tidg nuv sjd
+  * ***Tidg nuv sjd***
     * ev tidigare op
     * ikterus
     * tidg undersökning magsäck tarm
     * screening f-Hb
-  * Lkm, allergi
+  * ***Lkm, allergi***
     * inkl naturläkemedel
     * överkänslighet
-  * Tobak, alkohol
-* Status
-  * Bukstatus
-    * Första del
+  * ***Tobak, alkohol***
+* ***Status***
+  * ***Bukstatus***
+    * ***Första del***
       * auskulterar
       * perkuterar
       * dunkömhet njurloger och arkii
       * nämner PR: bedömmare anger UA
       * förklarr undersökning för pat o är varsam vid undersökningen
-    * andra del
+    * ***andra del***
       * Punktum maximum
       * palperar systematiskt 2 varv
       * ljumskar
       * !! indirekt, direkt ömhet och släppömhet
       * förklarr undersökning för pat o är varsam vid undersökning
-  * Hjärta
+  * ***Hjärta***
     * 4 statuiner
     * axiller
     * carotider
-  * Lunga
+  * ***Lunga***
     * auskulterar o perkutterar
-* Kliniskt resonemang
-  * Stud ska mot bg av ålder, oklara symptom, presentera DD resonamng hos apat med möjlig
+* ***Kliniskt resonemang***
+  * ***Stud ska mot bg av ålder, oklara symptom, presentera DD resonamng hos apat med möjlig***
     * dyspepsi
     * reflux
     * !! ulcus
     * gallbesvär
     * malignitet
   * samt i anamnes i status ha identifierat riskfaktorer o symptom för detta
-* Bedömning o åtgärd
-  * stud gör en rimlig prel bedömning
-    * misstänka att besvären kmr fr magsäcken o att utredningen behöver göras snarast, samt att tap rover för att utesluta anemi samt elverpåverkan
-  * adekvat åtgärder
+* ***Bedömning o åtgärd***
+  * ***stud gör en rimlig prel bedömning***
+    * misstänka att besvären kmr fr magsäcken o att utredningen behöver göras snarast, samt att tap rover för att utesluta anemi samt leverpåverkan
+  * ***adekvat åtgärder***
     * blodstatus
     * leverstatus: ASAT, ALAT, bilruv, ALP, pankreasamylas
     * LPK
     * CRP
     * F-Hb
     * gastroskopi
-* Pat kom
+* ***Pat kom***
   * involverar o motiverar för pat planering o beslut
 
 
@@ -1252,7 +1243,7 @@
   * kolecystit och (divertikulit)
 * Bilddiagnostik: 
   * UL: 
-    * gallsten i fallvägar 
+    * gallsten i gallvägar 
     * gallblåsa
     * ev akut papillotomi
   * IDT, godkänns som bilddiagnostik
@@ -1337,7 +1328,7 @@
 ***Återkoppling***
 
 * Denna återkoppling verkar gälla ett annat fall, som hade att göra med stensmärtor..
-* Det rörde sig alltså om en 62åå tid väs frisk man, som söker med 2h ananes med plöts debuterande högersd buksmärta högt upp höger i buk, stlande ut i hö flank
+* Det rörde sig alltså om en 62åå tid väs frisk man, som söker med 2h anamnes med plöts debuterande högersd buksmärta högt upp höger i buk, stlande ut i hö flank
 * smärtorna steg under 15min tid o ligger sedan dess oförändrat hög nivå
 * VAS 7
 * !! Fokuserad smärtanamnes
@@ -1398,6 +1389,8 @@
     * Ordnar med kontrollurografi samt åb hos dl för rtg-svar
     * Informera om att smärtorna kan återkomma: Rec smärtstillande, supp
 
+
+
 #### Fall 4 - kolecys
 
 ***Presentation***
@@ -1457,6 +1450,10 @@
   * !!!! En hel del glömde efterhöra om feber/frossa/ikterus, som ev tecken på ev uppseglande cholangit (i fall av choledochus sten). 
   * Många hade en god teknik att palpera buken systematiskt med ytlig och djup palpation samt gav patienten ett gott underlag att vara med och fatta beslut. 
   * De flesta ordnade med adekvat provtagning och bilddiagnostik och erbjöd patienten smärtlindring.
+
+
+
+
 
 #### Fall 5 - diveritikulit
 

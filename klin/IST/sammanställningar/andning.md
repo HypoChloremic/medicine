@@ -34,31 +34,54 @@ Ont i halsen
 
 ***Behandling***
 
+* ***Akut behandling***
+  * ***Akut Internmedicin***
+    * ***syrgas***: över 95% saturation, grimam eller mask >6L/min
+      * ingen koldioxidretention risk för akut astma
+    * ***Ventolin*** (SABA)  + ***atrovent*** (SAMA)
+    * ***alternativt inj bricanyl*** sc
+    * ***Steroider***: betametason (betapred)
+    * ***Vid anafylaxi***
+      * adrenalin 0.3-0.5mg im kan upprepas 5-10minut
+    * ***Långdraget svårbeh anfall***
+      * teofyllin inj
+    * ***Livshotande anfall***
+      * tillkalla narkos
+    * ***Inför hemgång fr akuten***
+      * ***vad utlöste anfallet***
+      * ***doshöj ICS***
+      * ***om inga ICS***: lägg in ICS budesonid
+      * ***SABA***: det finns instruktionsfilm
+      * ***allergisk rinit***: nasalas teroider + antihistamin
+  * ***Kloka listan***
+    * ***SABA***: salbutamol airomir
+    * ***SAMA***: ipratropium, atrovent
+    * ***Perorala steroider***: betametason (betapred, betametason)
 * Kontrollera inhalationsteknik vid utebliven effekt
 * Över 12år
-  * **Steg 1 i behandlingen**
+  * **Steg 1 i behandlingen, LABA vb + ICS vb**
     * **Bufomix**: LABA + ICS (kloka lista 2021)
       * Man har alltså gått över till att ge ICS och LABA vb. Så även om besvären är sporadiska så ska man ge LABA + ICS
     * Andrahandsvalet är att man kan ge
       * ICS + SABA, om patienten inte pallar pulverinhalatorer typ.
-  * **Steg 2 i behandlingen**: kontinuerligt eller återkommande astmabesvär <2gg per månad. 
+  * **Steg 2 i behandlingen, LABA vb + ICS vb**: kontinuerligt eller återkommande astmabesvär <2gg per månad. 
     * ICS + LABA vb 
-  * **Steg 3 i behandlingen**: Kontinuerlig beh kvarstående astmabesvär
+  * **Steg 3 i behandlingen, LABA + ICS tillsvidare**: Kontinuerlig beh kvarstående astmabesvär
     * LABA + ICS kontinuerligt
-* **6mån-5år**
-  * Lindrig infektionsutklöstabesvär, vid behov: SABA vb, salbutamol
-  * Episodisk astma, 10d beh: 
-    * ICS flutikason
-    * andra hand: montelukast (leukotrienantagonist)
-  * Konsultera barnläkare om besvär över 10d; om behov av beh över 4ggr per år, kontakt med barnläkare indicerad. 
+* **6mån-5år, SABAvb + ICS 10d**
+  * ***Lindrig infektionsutklöstabesvär, vid beho***v: SABA vb, salbutamol
+  * ***Episodisk astma, 10d beh***: 
+    * ***ICS flutikason***
+    * ***andra hand***: montelukast (leukotrienantagonist)
+  * ***Konsultera barnläkare om besvär över 10d***; om behov av beh över 4ggr per år, kontakt med barnläkare indicerad. 
 * **6-11år**
-  * **Steg 1**: astmabesvär enstaka ggr i månaden
+  * **Steg 1, SABA**: astmabesvär enstaka ggr i månaden
     * SABA: salbutamol
     * om svårighet, kan ge en SABA med spacer
-  * **Steg 2**: kontin el återkommande astmabesvär över 2ggr per månad
-    * steg 1
-    * tillägg ICS: budesonid
-    * andra hand: leukotrienantag, montelukast
+  * **Steg 2, SABA + ICS**: kontin el återkommande astmabesvär över 2ggr per månad
+    * ***steg 1***: SABA
+    * ***tillägg ICS**: budesonid*
+    * ***andra hand***: leukotrienantag, montelukast
   * **Steg 3**: kvarstående besvär, kontakt barnläkare. 
 
 ### Allmänt
@@ -103,35 +126,35 @@ Ont i halsen
 
 ***Utredning och handläggning***
 
-* Spirometri: reversibilitetstest är obligat. 
-  * FEV1/FVC <0.7: bekräftar persisterande luftflödesbegränsning
-* CAT: Copd assessment test
-  * Inkluderar frågor om hosta, tryuck över bröst, aktiviteter, sömn, energi, ansträngningsrelaterad dyspne. 
-* mMRC, modified british medical research council
-* GOLD-klasser: 
-  * GOLD1: FEV1 >80% predicted, mild KOL
-  * GOLD2: FEV1 50%<x<80%
-  * GOLD3: FEV1 30<x<50%
-  * GOLD4: FEV1 <30%, väldigt vår
+* ***Spirometri***: reversibilitetstest är obligat. 
+  * !! ***FEV1/FVC <0.7***: bekräftar persisterande luftflödesbegränsning
+* ***CAT***: Copd assessment test
+  * Inkluderar frågor om hosta, tryck över bröst, aktiviteter, sömn, energi, ansträngningsrelaterad dyspne. 
+* ***mMRC, modified british medical research council***
+* ***GOLD-klasser**:* 
+  * ***GOLD1***: FEV1 >80% predicted, mild KOL
+  * ***GOLD2***: FEV1 50%<x<80%
+  * ***GOLD3***: FEV1 30<x<50%
+  * ***GOLD4***: FEV1 <30%, väldigt vår
 
 
 
 ***Behandling***
 
 * Målet med behandlingen är att minska symtomen, förhindra exacerbationer och förbättra livskvaliteten
-* Antikolinergika: funktionen med antikolinergika är att acetylkoline (ACh) i luftvägarna stimmar glattmuskulatur till kontraktion, aktiverar inflammatoriska celler, mucinproduktion. Med antikolinergika får man alltså en net dilaterande effekt, antiinflam effekt, samt antimucin effekt. 
+* ***Antikolinergika***: funktionen med antikolinergika är att acetylkoline (ACh) i luftvägarna stimmar glattmuskulatur till kontraktion, aktiverar inflammatoriska celler, mucinproduktion. Med antikolinergika får man alltså en net dilaterande effekt, antiinflam effekt, samt antimucin effekt. 
 * **Underhållsbehandling**
-  * GOLDA: lindriga sporadiska symptom, 0-1 exacerbation i *öppenvård* senaste året
+  * ***GOLDA***: lindriga sporadiska symptom, 0-1 exacerbation i *öppenvård* senaste året
     * SABA vb
     * SAMA vb: kortverkande antikolinergikum, kombineras inte med långverkande
-  * GOLDB: betyande symptom, 0-1 exacerbationer i öppenvård senaste året
+  * ***GOLDB***: betydande symptom, 0-1 exacerbationer i öppenvård senaste året
     * LAMA underhållsbehandling, 1a hand: 
     * 2a hand, LABA
     * 2a hand, LABA + LAMA
-  * GOLDC: Lindriga symptom, >=2exaerbationer i öppenvård, eller >=1 slutenvård, senaste året
+  * ***GOLDC***: Lindriga symptom, >=2exaerbationer i öppenvård, eller >=1 slutenvård, senaste året
     * LAMA underhåll, 1a hand
     * LAMA + LABA, 2a hand
-  * GOLDD: betyade symptom, >=2exacerbationer öppenvård eller >=1 slutenvård, senaste året
+  * ***GOLDD***: betyade symptom, >=2exacerbationer öppenvård eller >=1 slutenvård, senaste året
     * LAMA + LABA, 1a hand
     * LAMA + LABA + ICS, 2a hand
 * ***Akutbehandling***
@@ -182,13 +205,13 @@ Ont i halsen
   * m tabl beh hypertoni, enalapril 10 mg x1 och amlodipine 5 mg 1x1 (ACE-inhib samt Ca-antag) i övr väs frisk. 
   * För 5 mån sedan debut av andfåddhet i samband med ansträngning. 
   * Upplever att luften ”tar slut”, får anstränga sig för att få luft, det hela går i regress efter några min vila. 
-  * Negerar 
+  * ***Negerar*** 
     * bröstsmärta, 
     * ortopné, 
     * paroxysmal nattlig dyspné, 
     * hosta, 
     * feber eller ngn påtaglig viktnedgång. 
-  * Pat själv orolig för lungmalignitet
+  * ***Pat själv orolig för lungmalignitet***
 
 
 

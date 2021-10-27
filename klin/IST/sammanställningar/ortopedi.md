@@ -16,7 +16,7 @@
 
 ### Nervstatus
 
-<img src="./figs/sam20_ylRlLjMDuI.png" alt=ylRlLjMDuI style="zoom:50%">
+<img src="./figs/sam20_ylRlLjMDuI.png" alt=ylRlLjMDuI >
 
 
 

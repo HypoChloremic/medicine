@@ -630,8 +630,8 @@ Förändringar t lkm lista:
 
 ***Notera***
 
-* Ålder
-  * Yngre patienter: Sannolikheten att det är ett förmaksflimmer är mindre, därför kanske inte den direkta indikationen för att göra ett Holter
+* ***Ålder***
+  * ***Yngre patienter**: Sannolikheten att det är ett förmaksflimmer är mindre, därför kanske inte den direkta indikationen för att göra ett Holter*
     * den andra läkaren säger sig vara friskostig att skicka på långtids-EKG ändå, för att man ska ge svar på patienten även mo det är SVES som är godartade, då kan man förklara för patienten,
     * evt ge Betablockad
     * Alltså the jury is split, men andra läkaren säger att det inte är den största indikationen om patienten är yngre att skicka iväg en patient på EKG. 
@@ -788,13 +788,12 @@ Förändringar t lkm lista:
 * **Bör använda automatiserad BT mätning, i hemmet**
 * **Ambulatorisk BT mätning** (i.e. under 24h) värdefullt komplement t BT uppmätt vid vårdinrättning
   * Att man mäter över 24h
-  * 
 
 
 
 ***Utredningskedjan för hypertoni (enl IM)***
 
-* Längd, vikt, midja-stussmått
+* !! Längd, vikt, midja-stussmått
 * Tobak, alkohol, droger
 * Blodprover: 
   * S-kalium, 
@@ -834,13 +833,13 @@ Förändringar t lkm lista:
   * Mat: dietist grejor, att man ska modifiera matvanor
   * osv +
 * **Rektangel**: Den försöker illustrera att den minst bästa kombinationen är ACE/ARB + betablockad. 
-* Enligt kloka listan
+* !! ***Enligt kloka listan***
   * **Börja med två preparat direkt**: bättre effekt och BT kontroll
     * **ACE-h/ARB**: enalapril, losartan
     * **med kalciumantagonist**: amlodipin
     * **eller diuretika**: tiazid
       * Föreligger risker med användning
-        * 
+        * är diabetogent
     * **Kombinationer**: ACE/ARB + kalciumantag eller ACR/ARB + diuretika
   * **Notera**:
   * 
@@ -860,6 +859,8 @@ Förändringar t lkm lista:
   * Kombination ACE-h + tiazid i maxdos, tillägg kalciumantagonist? 
   * Pat har claudicatio intermittens, insättning betablockerare? olämpligt
   * Pat har gikt, insättning tiazid? Olämpligt
+
+
 
 ## Blödning
 
@@ -975,7 +976,7 @@ Förändringar t lkm lista:
 ! ***Handläggning***
 
 * ***Akut handläggning***
-  * EKG: visar T-negativiseringar, pressade ST-sträckor etc
+  * ***EKG***: visar T-negativiseringar, pressade ST-sträckor etc
   * ***Laddar***
     * ***ASA 500mg***: tuggar på tabletterna för snabbt upptag
     * ***Ticagrelor 180mg*** (brilique, ADP-rec hämmare): för extra trombocythämning, svälja dessa (eller krossas blanda vatten)
@@ -1674,7 +1675,7 @@ Förändringar t lkm lista:
 
 
 
-#### Fall 9 - AV-block 3
+#### Fall 9 - AV-block 3 + kammarrytm
 
 
 

@@ -152,7 +152,13 @@ Alltså, svalgtub och näskanterell kan sättas på patienter med GCS under 8 ex
 
 
 
+### Artärnål
 
+Kan adderas med en sensor:
+
+* Blodtryck och MAP
+* Can provide insight into the adequacy of volume resuscitation through the ***measurement of systolic or pulse pressure variation***
+*  The arterial line facilitates repeated measures of acid base status or lactate to assess the impact of treatment. 
 
 
 
@@ -822,6 +828,8 @@ Trauma is the number one cause of death in the United States for individuals bet
   * The resultant effect is the sequestration of about 1 liter of fluid into intravascular spaces.
   * ***Activation of the renin-angiotensin-aldosterone system occurs next***, activated by the reduction in renal perfusion and causing sodium and water retention by the kidneys.
 
+
+
 ***Resuscitation i detta fall***
 
 The overall goal is to replace the ***fluid lost from the interstitial compartment to the intravascular spaces***. But one must exercise caution, because an aggressive large volume fluid resuscitation may lead to hypothermia, acidosis, and coagulopathy.[[3\]](https://www.ncbi.nlm.nih.gov/books/NBK534791/#)[[4\]](https://www.ncbi.nlm.nih.gov/books/NBK534791/#) Typical indications for resuscitation are a systolic blood pressure of less than 80 to 85 mm Hg or one that is rapidly decreasing and/or a decline in mental status without evidence of head trauma.[[4\]](https://www.ncbi.nlm.nih.gov/books/NBK534791/#)
@@ -834,8 +842,53 @@ Behandlingsstrategier
 * Crystalloids should ideally serve as a bridge to maintain perfusion until ***blood products are available in hemorrhagic shock.*** 
   * Hence, one should consider limited 500-ml bolus doses in patients without or impending shock until blood products become available
 
+### ! Syretillförsel, syrgastillförsel
 
+Oxygen delivery (DO2). Determinanter av DO2
+
+* **DO2 = CO x CaO2**
+  * Cardiac output
+  * Arterial oxygen content
+* **CO = HR x SV**
+  * Heart rate  or Heart frequency
+  * Stroke volume
+* Stroke volume $SV\alpha (Preload\times Contractility)/SVR$
+  * **preload**: myocardial fiber length before contraction (endiastolisk volym i ventrikeln)
+  * **afterload** (systemic vascular resistance, SVR): the force against which the ventricle contract
+  * **cardiac contractility, kardiogen kontrakitlitet**: ability of ventricle to contract independent of preload and afterload
+* CaO2 = (Hb x 1.39 x SaO2)+ (PaO2 x 0.03)
+  * Oxygen carried by ***convection*** with hemoglovin and oxygen dissolved in blood
+
+
+
+En sjukdom som påverkar dessa HR, preload, contractility, SVR, SaO2, or Hb) 
 
 ### Volym resuscitation
 
-Initial volume resuscitation has the aim of restoring tissue perfusion and is crucial to optimal shock therapy. Assessment of current intravascular volume status and determination of the optimal amount of volume resuscitation are challenging. The physiologic goal of volume resuscitation is to move the patient to the nonpreload-dependent portion of the Starling curve. Most patients with any of the four shock types will benefit from an increase in intravascular volume.
+Initial volume resuscitation has the aim of restoring tissue perfusion and is crucial to optimal shock therapy. 
+
+* Assessment of current intravascular volume status and determination of the optimal amount of volume resuscitation are challenging. 
+* The physiologic goal of volume resuscitation 
+  * ! is to move the patient ***to the nonpreload-dependent portion of the Starling curve***. 
+  * Most patients with any of the four shock types will benefit from an increase in intravascular volume.
+
+
+
+More recent studies have demonstrated that targeted resuscitation using invasive monitoring is not required, but in all of these studies patients in the “usual care” arms of the study received early initial volume resuscitation. 
+
+***Sepsis***
+
+For patients with suspected septic shock, a minimum of 30 mL/kg is recommended by the Surviving Sepsis Campaign. 
+
+***Kardiogen***
+
+While the need for volume resuscitation is ***most apparent for patients with distributive or hypovolemic shock***, even patients with cardiogenic shock may benefit from cautious volume replacement. In these patients, there should be a careful assessment of volume status prior to volume administration
+
+
+
+#### Process
+
+* In cases of massive transfusion, platelets and fresh frozen plasma should be provided 
+  * to offset the dilution of these components during volume replacement. 
+* Because hemoglobin is a key determinant of CaCO2 (Arterial oxygen content), red cell administration may be a part of volume replacement even without hemorrhage in order to optimize [oxygen](https://accessmedicine-mhmedical-com.sll.idm.oclc.org/drugs.aspx?GbosID=131723) delivery if hemoglobin content is <7 g/dL.
+

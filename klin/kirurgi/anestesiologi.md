@@ -858,6 +858,8 @@ Oxygen delivery (DO2). Determinanter av DO2
   * **cardiac contractility, kardiogen kontrakitlitet**: ability of ventricle to contract independent of preload and afterload
 * CaO2 = (Hb x 1.39 x SaO2)+ (PaO2 x 0.03)
   * Oxygen carried by ***convection*** with hemoglovin and oxygen dissolved in blood
+  * PaO2 partial pressure of oxygen
+  * SaO2: arterial oxygen saturation
 
 
 
@@ -892,3 +894,29 @@ While the need for volume resuscitation is ***most apparent for patients with di
   * to offset the dilution of these components during volume replacement. 
 * Because hemoglobin is a key determinant of CaCO2 (Arterial oxygen content), red cell administration may be a part of volume replacement even without hemorrhage in order to optimize [oxygen](https://accessmedicine-mhmedical-com.sll.idm.oclc.org/drugs.aspx?GbosID=131723) delivery if hemoglobin content is <7 g/dL.
 
+#### Bedöma behovet
+
+Assessment of intravascular volume status (and the adequacy of volume resuscitation) begins with the physical examination (described above). 
+
+* The passive leg raise (PLR) test can predict responsiveness to additional intravenous fluid (IVF) by providing the patient with an endogenous volume bolus. 
+  * While the patient is resting in a semirecumbent position at a 45° angle, the bed is placed in Trendelenburg position such that the patient’s head becomes horizontal and the legs are extended at a 45° angle. 
+  * There is then an immediate (within 1 min) assessment of changes in CO (or pulse pressure variation as a surrogate). 
+* It is important to emphasize that one does not merely look for changes in blood pressure; 
+* if the shock patient is mechanically ventilated there is the option of looking at changes in SV variation (or pulse pressure variation) during the respiratory cycle to assess volume responsiveness. 
+  * A >12% SV variation suggests a volume-responsive state. 
+  * This measurement requires that the patient be in a volume cycle mode of ventilation, without breath-to-breath variations in intrathoracic pressure and without arrhythmias. 
+  * A final caveat to the use of these parameters to assess volume status is that these studies are performed on patients being ventilated with tidal volumes larger than currently used to minimize ventilator-induced lung injury.
+
+
+
+There is also increased use of echocardiography to assist in determination of intravascular fluid status, with a variety of static and dynamic variables that the trained operator can assess. 
+
+* The most commonly used parameters to assess adequacy of volume resuscitation 
+* are inferior vena cava (IVC) diameter 
+* and IVC collapse. 
+* Alternatively, serial assessments of LV function can be performed while volume is being administered. 
+
+Placement of a pulmonary artery catheter (PAC) is another tool for assessment of volume status. 
+
+* This more invasive measure involves placement of the PAC into the central venous circulation and through the right heart. 
+* Ports in the PAC (Swan-Ganz catheter) allow for direct measurement of CVP, pulmonary artery (PA), and PCWPs. The PCWP is used as a surrogate for LA pressure. While studies have not identified a mortality or length-of-stay benefit with routine use of PA catheterization, there are cases where it may be beneficial. Patients with mixed shock (distributive and cardiogenic) or those with ongoing shock of unclear etiology are examples of situations in which it should be considered.

@@ -162,6 +162,57 @@ Kan adderas med en sensor:
 
 
 
+
+
+## Intensivvård
+
+### Vasopressorstöd
+
+Med vasopressorstöd menas ett underhåll av den totala perifera resistensen och för att bibehålla blodtryck, således acceptabel vävnadsperfusion till vitala organ
+
+
+
+***Farmaka***
+
+* Noradrenalin: Noradrenaline (also known as norepinephrine) is an inotrope and a vasopressor ([Levick, 2003](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413841/#b118)). Noradrenaline is often incorrectly described as a pure vasopressor because of its α-adrenoceptor agonism and weak β2-adrenoceptor agonism ([Alexander *et al*., 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413841/#b5)). However, noradrenaline has clearly described effects on contractility in critical illness ([Jhanji *et al*., 2009b](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413841/#b106)). The effects of noradrenaline on pulmonary vessels are similar to those of adrenaline ([Aviado and Schmidt, 1957](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413841/#b11)). Owing to the relative sparsity of cerebral vascular adrenoceptors, high doses of noradrenaline can be safely used to maintain cerebral perfusion pressure without significantly compromising flow in this circulation. Similarly the coronary circulation is protected to a certain extent from the vasoconstrictor effects of noradrenaline ([Guimaraes and Moura, 2001](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413841/#b88)). However, noradrenaline does decrease pulmonary, cutaneous, renal and splanchnic blood flow ([Bearn *et al*., 1951](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413841/#b20); [Hoffbrand and Forsyth, 1973](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413841/#b98)). Noradrenaline does not appear to cause an increase in serum lactate, possibly as this is a β2-mediated effect ([Day *et al*., 1996](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413841/#b58)). Compared with adrenaline, increases in plasma glucose are relatively modest and coincide with a neutral effect on splanchnic oxygen consumption in health ([Bearn *et al*., 1951](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3413841/#b20)). 
+  * Noradrenalin infusion: 
+* Efedrin: indirekt sympatomimetika, då stimulerar frilösning av noradrenalin.
+
+### Ventilation
+
+Ventilatorn är en tryckgenererande maskin, som flödar gas med olika gasfraktioner av (filtrerad?) rumsluft med selekterad fraktion syrgas. 
+
+Ventilatorn kan producera olika tryck, under olika faser av andningscykeln (inspirium, expirium)
+
+
+
+***Basala fakta***
+
+* ***Utgör 99% av rumsluft***
+  * syrgasfraktionen i rumsluft är 21%
+  * Kvävgasfraktionen i rumsluft är 78%
+* ***Resterande fraktion 1% är många olika gaser, däribland CO2***
+* ***Lufttrycket havsnivån***
+  * 101 kPa, => då syrgas 21% = ca 21kPa är O2
+  * 1013 milli bar = 1.013 bar
+  * 750mmHg
+  * 15 PSI
+  * 1 atm
+
+
+
+***Fysiologiskt***
+
+* Inspirium
+
+
+
+***Sövd patient***
+
+
+
+
+
 ## Trauma och ATLS 
 
 ### ATLS
